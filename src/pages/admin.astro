@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import AdminPanel from '../components/AdminPanel';
+---
+
+<Base title="Status — TV & Sport Gids" description="Status van de gratis EPG-bronnen en zenders." active="status">
+  <main class="page">
+    <h1 class="page-title">Status & debug</h1>
+    <p class="page-sub">
+      Overzicht van de gratis EPG-bronnen, de laatste updates en ontbrekende gegevens.
+    </p>
+    <AdminPanel client:load />
+  </main>
+</Base>

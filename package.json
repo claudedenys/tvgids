@@ -1,0 +1,35 @@
+{
+  "name": "tv-gids",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Gratis TV- en sportgids PWA voor iPhone, iPad en Mac (Belgische en Nederlandse zenders + sport).",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "start": "node dist/server/entry.mjs",
+    "check": "astro check",
+    "typecheck": "tsc --noEmit",
+    "import": "tsx scripts/import.ts",
+    "seed": "tsx scripts/seed-catalogue.ts",
+    "schedule": "tsx scripts/schedule.ts",
+    "gen-icons": "tsx scripts/gen-icons.mts",
+    "gen-channel-icons": "tsx scripts/gen-channel-icons.mts"
+  },
+  "dependencies": {
+    "@astrojs/node": "^10.0.6",
+    "@astrojs/react": "^4.2.0",
+    "astro": "^6.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sharp": "^0.35.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.23.4",
+    "typescript": "^6.0.3"
+  }
+}

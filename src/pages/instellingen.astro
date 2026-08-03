@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import ChannelManager from '../components/ChannelManager';
+---
+
+<Base title="Mijn zenders — TV & Sport Gids" description="Kies en sorteer jouw zenders voor de TV- en sportgids." active="zenders">
+  <main class="page">
+    <h1 class="page-title">Mijn zenders</h1>
+    <p class="page-sub">
+      Kies zelf welke zenders in de gids verschijnen, zet favorieten en wijzig de volgorde.
+      De gekozen volgorde bepaalt de volgorde in de EPG.
+    </p>
+    <ChannelManager client:load />
+  </main>
+</Base>

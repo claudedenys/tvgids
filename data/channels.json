@@ -1,0 +1,638 @@
+[
+  {
+    "id": "vrt1",
+    "name": "VRT 1",
+    "country": "BE",
+    "category": "algemeen",
+    "group": "belgie",
+    "active": true,
+    "website": "https://www.vrt.be/vrtnu/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "eenhd",
+        "xmltv_id": "VRT1.be",
+        "priority": 10
+      },
+      {
+        "source": "tvgids.nl",
+        "site_id": "vrt1",
+        "xmltv_id": "VRT1.be@HD",
+        "priority": 5
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM24E.png"
+  },
+  {
+    "id": "vrtcanvas",
+    "name": "VRT Canvas",
+    "country": "BE",
+    "category": "documentaire",
+    "group": "belgie",
+    "active": true,
+    "website": "https://www.vrt.be/vrtnu/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "ketnetcanvashd",
+        "xmltv_id": "VRTCanvas.be",
+        "priority": 10
+      },
+      {
+        "source": "tvgids.nl",
+        "site_id": "canvas",
+        "xmltv_id": "VRTCanvas.be@HD",
+        "priority": 5
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM24F.png"
+  },
+  {
+    "id": "ketnet",
+    "name": "Ketnet",
+    "country": "BE",
+    "category": "kids",
+    "group": "belgie",
+    "active": true,
+    "website": "https://www.vrt.be/vrtnu/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "ketnet",
+        "xmltv_id": "Ketnet.be",
+        "priority": 10
+      },
+      {
+        "source": "tvgids.nl",
+        "site_id": "ketnet",
+        "xmltv_id": "Ketnet.be@HD",
+        "priority": 5
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM0C7.png"
+  },
+  {
+    "id": "vtm",
+    "name": "VTM",
+    "country": "BE",
+    "category": "algemeen",
+    "group": "belgie",
+    "active": true,
+    "website": "https://vtm.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "vtmhd",
+        "xmltv_id": "VTM.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM0BE.png"
+  },
+  {
+    "id": "vtm2",
+    "name": "VTM 2",
+    "country": "BE",
+    "category": "algemeen",
+    "group": "belgie",
+    "active": true,
+    "website": "https://vtm.be/vtm2",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "2behd",
+        "xmltv_id": "VTM2.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM238.png"
+  },
+  {
+    "id": "vtm3",
+    "name": "VTM 3",
+    "country": "BE",
+    "category": "film",
+    "group": "belgie",
+    "active": true,
+    "website": "https://vtm.be/vtm3",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "vitaya",
+        "xmltv_id": "VTM3.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM06B.png"
+  },
+  {
+    "id": "vtm4",
+    "name": "VTM 4",
+    "country": "BE",
+    "category": "film",
+    "group": "belgie",
+    "active": true,
+    "website": "https://vtm.be/vtm4",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "acht",
+        "xmltv_id": "VTM4.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM086.png"
+  },
+  {
+    "id": "play4",
+    "name": "Play4",
+    "country": "BE",
+    "category": "algemeen",
+    "group": "belgie",
+    "active": true,
+    "website": "https://goplay.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "vierhd",
+        "xmltv_id": "Play4.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM1C8.png"
+  },
+  {
+    "id": "play5",
+    "name": "Play5",
+    "country": "BE",
+    "category": "algemeen",
+    "group": "belgie",
+    "active": true,
+    "website": "https://goplay.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "vijfhd",
+        "xmltv_id": "Play5.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM100.png"
+  },
+  {
+    "id": "play6",
+    "name": "Play6",
+    "country": "BE",
+    "category": "film",
+    "group": "belgie",
+    "active": true,
+    "website": "https://goplay.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "zes",
+        "xmltv_id": "Play6.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM3C1.png"
+  },
+  {
+    "id": "play7",
+    "name": "Play7",
+    "country": "BE",
+    "category": "documentaire",
+    "group": "belgie",
+    "active": true,
+    "website": "https://goplay.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "zeven",
+        "xmltv_id": "Play7.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM402.png"
+  },
+  {
+    "id": "npo1",
+    "name": "NPO 1",
+    "country": "NL",
+    "category": "algemeen",
+    "group": "nederland",
+    "active": true,
+    "website": "https://npo.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "npo1",
+        "xmltv_id": "NPO1.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "npo2",
+    "name": "NPO 2",
+    "country": "NL",
+    "category": "documentaire",
+    "group": "nederland",
+    "active": true,
+    "website": "https://npo.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "npo2",
+        "xmltv_id": "NPO2.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "npo3",
+    "name": "NPO 3",
+    "country": "NL",
+    "category": "algemeen",
+    "group": "nederland",
+    "active": true,
+    "website": "https://npo.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "npo3",
+        "xmltv_id": "NPO3.nl",
+        "priority": 10
+      },
+      {
+        "source": "telenet.tv",
+        "site_id": "ned3",
+        "xmltv_id": "NPO3.nl",
+        "priority": 5
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM074.png"
+  },
+  {
+    "id": "rtl4",
+    "name": "RTL 4",
+    "country": "NL",
+    "category": "algemeen",
+    "group": "nederland",
+    "active": true,
+    "website": "https://www.rtl.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "rtl4",
+        "xmltv_id": "RTL4.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "rtl5",
+    "name": "RTL 5",
+    "country": "NL",
+    "category": "algemeen",
+    "group": "nederland",
+    "active": true,
+    "website": "https://www.rtl.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "rtl5",
+        "xmltv_id": "RTL5.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "rtl7",
+    "name": "RTL 7",
+    "country": "NL",
+    "category": "sport",
+    "group": "nederland",
+    "active": true,
+    "website": "https://www.rtl.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "rtl7",
+        "xmltv_id": "RTL7.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "rtl8",
+    "name": "RTL 8",
+    "country": "NL",
+    "category": "algemeen",
+    "group": "nederland",
+    "active": true,
+    "website": "https://www.rtl.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "rtl8",
+        "xmltv_id": "RTL8.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "sbs6",
+    "name": "SBS6",
+    "country": "NL",
+    "category": "algemeen",
+    "group": "nederland",
+    "active": true,
+    "website": "https://www.sbs6.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "sbs6",
+        "xmltv_id": "SBS6.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "net5",
+    "name": "Net5",
+    "country": "NL",
+    "category": "algemeen",
+    "group": "nederland",
+    "active": true,
+    "website": "https://www.net5.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "net5",
+        "xmltv_id": "NET5.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "veronica",
+    "name": "Veronica",
+    "country": "NL",
+    "category": "algemeen",
+    "group": "nederland",
+    "active": true,
+    "website": "https://www.veronicatv.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "veronica",
+        "xmltv_id": "Veronica.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "playsports1",
+    "name": "Play Sports 1",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://playsports.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "primesporthd",
+        "xmltv_id": "PlaySports1.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM0C8.png"
+  },
+  {
+    "id": "playsports2",
+    "name": "Play Sports 2",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://playsports.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "sportinghd2",
+        "xmltv_id": "PlaySports2.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM376.png"
+  },
+  {
+    "id": "playsports3",
+    "name": "Play Sports 3",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://playsports.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "sporting3",
+        "xmltv_id": "PlaySports3.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM377.png"
+  },
+  {
+    "id": "playsports4",
+    "name": "Play Sports 4",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://playsports.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "sporting4",
+        "xmltv_id": "PlaySports4.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM0E1.png"
+  },
+  {
+    "id": "playsports-premierleague",
+    "name": "Play Sports Premier League",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://playsports.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "sporting5",
+        "xmltv_id": "PlaySportsPremierLeague.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM0E2.png"
+  },
+  {
+    "id": "playsports-golf",
+    "name": "Play Sports Golf",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://playsports.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "primegolf",
+        "xmltv_id": "PlaySportsGolf.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM378.png"
+  },
+  {
+    "id": "playsports-open",
+    "name": "Play Sports Open",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://playsports.be/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "rexrioinfo",
+        "xmltv_id": "PlaySportsOpen.be",
+        "priority": 10
+      }
+    ],
+    "logo": null
+  },
+  {
+    "id": "dazn1",
+    "name": "DAZN 1",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://www.dazn.com/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "11football",
+        "xmltv_id": "DAZNElevenSports1.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM3D0.png"
+  },
+  {
+    "id": "dazn2",
+    "name": "DAZN 2",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://www.dazn.com/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "11sports",
+        "xmltv_id": "DAZNElevenSports2.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM3CF.png"
+  },
+  {
+    "id": "dazn3",
+    "name": "DAZN 3",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://www.dazn.com/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "11sports3",
+        "xmltv_id": "DAZNElevenSports3.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM312.png"
+  },
+  {
+    "id": "dazn-jpl1",
+    "name": "DAZN Pro League 1",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://www.dazn.com/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "jplnl01",
+        "xmltv_id": "DAZNElevenProLeague1.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM3F7.png"
+  },
+  {
+    "id": "dazn-jpl2",
+    "name": "DAZN Pro League 2",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://www.dazn.com/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "jplnl02",
+        "xmltv_id": "DAZNElevenProLeague2.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM3F8.png"
+  },
+  {
+    "id": "dazn-jpl3",
+    "name": "DAZN Pro League 3",
+    "country": "BE",
+    "category": "sport",
+    "group": "sport",
+    "active": true,
+    "website": "https://www.dazn.com/",
+    "sources": [
+      {
+        "source": "telenet.tv",
+        "site_id": "jplnl03",
+        "xmltv_id": "DAZNElevenProLeague3.be",
+        "priority": 10
+      }
+    ],
+    "logo": "https://staticqbr-eipbinding-prod-be.gnp.cloud.telenet.tv/image-service/ImagesEPG/EventImages/MM3F9.png"
+  }
+]
