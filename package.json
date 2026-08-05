@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "prebuild": "tsx scripts/generate-static.ts",
     "preview": "astro preview",
-    "start": "node dist/server/entry.mjs",
     "check": "astro check",
     "typecheck": "tsc --noEmit",
     "import": "tsx scripts/import.ts",
@@ -18,7 +18,6 @@
     "gen-channel-icons": "tsx scripts/gen-channel-icons.mts"
   },
   "dependencies": {
-    "@astrojs/node": "^10.0.6",
     "@astrojs/react": "^4.2.0",
     "astro": "^6.2.2",
     "react": "^19.0.0",

@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import type { ChannelWithStatus, EpgResponse, Programme, SearchHit, SportEvent } from '../lib/types';
 import { brusselsDateKey, brusselsDayStart } from '../lib/normalise';
+import { filterSearchIndex, airingsForTitle } from '../lib/match';
 
 const TZ = 'Europe/Brussels';
 const HOUR = 3_600_000;
@@ -10,6 +11,22 @@ const FAV_KEY = 'tvgids.favs';
 const WATCH_KEY = 'tvgids.watchlist';
 const GOLD_KEY = 'tvgids.goldline';
 const GOLD_HIT = 22;
+const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
+
+/** Eenmalig laden + cachen van de statische zoekindex. */
+let searchIndexPromise: Promise<SearchHit[]> | null = null;
+function loadSearchIndex(): Promise<SearchHit[]> {
+  searchIndexPromise ??= fetch(`${BASE}data/search.json`)
+    .then((r) => {
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      return r.json() as Promise<SearchHit[]>;
+    })
+    .catch((e) => {
+      searchIndexPromise = null;
+      throw e;
+    });
+  return searchIndexPromise;
+}
 
 /** Kijklijst: één item per programmatitel (alle afleveringen samen). */
 interface WatchEntry {
@@ -163,23 +180,23 @@ export default function EpgApp() {
     }
   }, [watchlist]);
 
-  // Bij openen van de kijklijst alle uitzendingen per titel ophalen.
+  // Bij openen van de kijklijst alle uitzendingen per titel ophalen (client-zijde).
   useEffect(() => {
     if (!watchOpen || watchlist.length === 0) return;
     let cancelled = false;
     setWatchLoading(true);
-    Promise.all(
-      watchlist.map((w) =>
-        fetch(`/api/title?${new URLSearchParams({ q: w.title })}`)
-          .then((r) => (r.ok ? r.json() : { airings: [] as SearchHit[] }))
-          .then((d) => [w.title, (d as { airings: SearchHit[] }).airings] as const)
-          .catch(() => [w.title, [] as SearchHit[]] as const),
-      ),
-    ).then((pairs) => {
-      if (cancelled) return;
-      setWatchAirings(Object.fromEntries(pairs));
-      setWatchLoading(false);
-    });
+    loadSearchIndex()
+      .then((index) => {
+        if (cancelled) return;
+        const pairs = watchlist.map((w) => [w.title, airingsForTitle(index, w.title)] as const);
+        setWatchAirings(Object.fromEntries(pairs));
+      })
+      .catch(() => {
+        if (!cancelled) setWatchAirings({});
+      })
+      .finally(() => {
+        if (!cancelled) setWatchLoading(false);
+      });
     return () => {
       cancelled = true;
     };
@@ -211,15 +228,13 @@ export default function EpgApp() {
     return () => mq.removeEventListener('change', apply);
   }, []);
 
-  // Data ophalen.
+  // Data ophalen (statische JSON per dag).
   useEffect(() => {
     let cancelled = false;
     const hasPref = loadSelected() !== null;
     setLoading(true);
     setError(null);
-    const q = new URLSearchParams({ date });
-    if (selected.length || hasPref) q.set('channels', selected.join(','));
-    fetch(`/api/epg?${q.toString()}`)
+    fetch(`${BASE}data/epg/${date}.json`)
       .then(async (r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         const d = (await r.json()) as EpgResponse;
@@ -257,9 +272,9 @@ export default function EpgApp() {
     return () => {
       cancelled = true;
     };
-  }, [date, selected.join(',')]);
+  }, [date]);
 
-  // Zoeken (gedebounced) in de gids-topbar.
+  // Zoeken (gedebounced) in de gids-topbar — client-zijde over de statische index.
   useEffect(() => {
     const q = query.trim();
     if (q.length < 2) {
@@ -269,13 +284,9 @@ export default function EpgApp() {
     }
     setSearchLoading(true);
     const timer = setTimeout(() => {
-      const params = new URLSearchParams({ q });
-      if (searchTab === 'day') params.set('date', date);
-      fetch(`/api/search?${params.toString()}`)
-        .then(async (r) => {
-          if (!r.ok) throw new Error(`HTTP ${r.status}`);
-          const d = (await r.json()) as { results: SearchHit[] };
-          setSearchResults(d.results);
+      loadSearchIndex()
+        .then((index) => {
+          setSearchResults(filterSearchIndex(index, q, searchTab === 'day' ? date : undefined));
         })
         .catch(() => setSearchResults([]))
         .finally(() => setSearchLoading(false));
@@ -718,7 +729,7 @@ function ChannelRow(props: {
         </button>
         <img
           className="logo"
-          src={`/icons/channels/${channel.id}.svg`}
+          src={`${BASE}icons/channels/${channel.id}.svg`}
           alt={channel.name}
           loading="lazy"
           onError={(e) => {

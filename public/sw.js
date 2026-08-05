@@ -1,15 +1,19 @@
-/* Service worker: offline shell + caching van recente EPG-data. */
-const VERSION = 'tvgids-v2';
+/* Service worker: offline shell + caching van statische EPG-data. */
+const VERSION = 'tvgids-v3';
 const CACHE = `tvgids-${VERSION}`;
+
+// De scope (bv. "/tvgids/") bepaalt het base-pad; alle paden zijn daaraan gerelateerd.
+const scope = self.registration.scope;
+
 const PRECACHE = [
-  '/',
-  '/instellingen',
-  '/admin',
-  '/manifest.webmanifest',
-  '/icons/icon.svg',
-  '/icons/icon-180.png',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png',
+  scope,
+  `${scope}instellingen`,
+  `${scope}admin`,
+  `${scope}manifest.webmanifest`,
+  `${scope}icons/icon.svg`,
+  `${scope}icons/icon-180.png`,
+  `${scope}icons/icon-192.png`,
+  `${scope}icons/icon-512.png`,
 ];
 
 self.addEventListener('install', (event) => {
@@ -59,9 +63,12 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
+  if (!url.pathname.startsWith(scope)) return;
 
-  // EPG-API: netwerk eerst, val terug op laatst opgehaalde data (offline).
-  if (url.pathname.startsWith('/api/')) {
+  const path = url.pathname.slice(scope.length);
+
+  // EPG/zoekdata: netwerk eerst, val terug op laatst opgehaalde data (offline).
+  if (path.startsWith('data/')) {
     event.respondWith(networkFirst(request));
     return;
   }

@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import type { ChannelStatus, SourceStatus, LogEntry } from '../lib/types';
 
+const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
+
 interface StatusData {
   now: string;
   channels: number;
@@ -31,12 +33,10 @@ export default function AdminPanel() {
   const [status, setStatus] = useState<StatusData | null>(null);
   const [channels, setChannels] = useState<ChannelsData[]>([]);
   const [loading, setLoading] = useState(true);
-  const [importing, setImporting] = useState(false);
-  const [msg, setMsg] = useState<string | null>(null);
 
   function load() {
     setLoading(true);
-    Promise.all([fetch('/api/status').then((r) => r.json()), fetch('/api/channels').then((r) => r.json())])
+    Promise.all([fetch(`${BASE}data/status.json`).then((r) => r.json()), fetch(`${BASE}data/channels.json`).then((r) => r.json())])
       .then(([s, c]) => {
         setStatus(s as StatusData);
         setChannels(c as ChannelsData[]);
@@ -45,21 +45,6 @@ export default function AdminPanel() {
   }
 
   useEffect(load, []);
-
-  async function runImport() {
-    setImporting(true);
-    setMsg(null);
-    try {
-      const r = await fetch('/api/update', { method: 'POST' });
-      const d = await r.json();
-      setMsg(r.ok ? d.message ?? 'Import gestart.' : d.error ?? 'Mislukt.');
-      setTimeout(load, 1500);
-    } catch (e) {
-      setMsg((e as Error).message);
-    } finally {
-      setImporting(false);
-    }
-  }
 
   if (loading) return <div className="spinner" />;
 
@@ -70,11 +55,7 @@ export default function AdminPanel() {
   return (
     <div>
       <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginBottom: 8 }}>
-        <button className="btn btn-primary" onClick={runImport} disabled={importing}>
-          {importing ? 'Bezig…' : '↻ Import nu'}
-        </button>
         <button className="btn" onClick={load}>Ververs</button>
-        {msg && <span style={{ color: 'var(--accent)', fontSize: 13, alignSelf: 'center' }}>{msg}</span>}
       </div>
 
       <div className="stat-grid">
@@ -158,8 +139,8 @@ export default function AdminPanel() {
       </div>
 
       <p style={{ color: 'var(--muted)', fontSize: 12 }}>
-        Data-map: <code>{status?.dataDir}</code>. Automatische updates: dagelijks (in productie elke 6 uur, zie
-        <code> src/lib/schedule.ts</code>). De importer houdt vorige gegevens bij als een bron tijdelijk niet bereikbaar is.
+        Statische snapshot van de laatste import. De data wordt dagelijks automatisch ververst via
+        GitHub Actions (zie <code>.github/workflows/deploy.yml</code>).
       </p>
     </div>
   );

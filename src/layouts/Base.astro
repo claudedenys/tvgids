@@ -10,6 +10,7 @@ type Props = ComponentProps<'div'> & {
 
 const { title, description = 'Gratis TV- en sportgids voor België en Nederland', active } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+const B = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
 ---
 
 <!doctype html>
@@ -23,32 +24,32 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta name="apple-mobile-web-app-title" content="TV & Sport" />
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical.href} />
-    <link rel="manifest" href="/manifest.webmanifest" />
-    <link rel="icon" type="image/svg+xml" href="/icons/icon.svg" />
-    <link rel="apple-touch-icon" href="/icons/icon-180.png" />
+    <link rel="manifest" href={`${B}manifest.webmanifest`} />
+    <link rel="icon" type="image/svg+xml" href={`${B}icons/icon.svg`} />
+    <link rel="apple-touch-icon" href={`${B}icons/icon-180.png`} />
     <title>{title}</title>
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js').catch(() => {});
+          navigator.serviceWorker.register(`${B}sw.js`).catch(() => {});
         });
       }
     </script>
   </head>
   <body>
     <header class="app-header">
-      <a class="brand" href="/">
+      <a class="brand" href={B}>
         <span>TV&nbsp;&amp;&nbsp;Sport Gids</span>
         <span class="badge">Gratis</span>
       </a>
       <nav class="app-nav">
-        <a href="/" class:list={{ active: active === 'gids' }}>
+        <a href={B} class:list={{ active: active === 'gids' }}>
           <span>Gids</span>
         </a>
-        <a href="/instellingen" class:list={{ active: active === 'zenders' }}>
+        <a href={`${B}instellingen`} class:list={{ active: active === 'zenders' }}>
           <span class="label">Mijn</span> zenders
         </a>
-        <a href="/admin" class:list={{ active: active === 'status' }}>
+        <a href={`${B}admin`} class:list={{ active: active === 'status' }}>
           <span class="label">Status</span>
         </a>
       </nav>

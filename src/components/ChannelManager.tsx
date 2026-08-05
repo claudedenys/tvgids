@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { ChannelWithStatus } from '../lib/types';
 
+const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
 const SEL_KEY = 'tvgids.selected';
 const FAV_KEY = 'tvgids.favs';
 
@@ -38,7 +39,7 @@ export default function ChannelManager() {
   const [dragIdx, setDragIdx] = useState<number | null>(null);
 
   useEffect(() => {
-    fetch('/api/channels')
+    fetch(`${BASE}data/channels.json`)
       .then((r) => r.json())
       .then((d: ChannelWithStatus[]) => {
         setChannels(d);
@@ -160,7 +161,7 @@ export default function ChannelManager() {
                   <span className="drag" title="Versleep om te sorteren">⠿</span>
                   <img
                     className="logo"
-                    src={`/icons/channels/${c.id}.svg`}
+                    src={`${BASE}icons/channels/${c.id}.svg`}
                     alt=""
                     onError={(e) => ((e.target as HTMLImageElement).style.display = 'none')}
                   />
