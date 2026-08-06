@@ -131,6 +131,7 @@ export default function EpgApp() {
   const [watchOpen, setWatchOpen] = useState(false);
   const [watchAirings, setWatchAirings] = useState<Record<string, SearchHit[]>>({});
   const [watchLoading, setWatchLoading] = useState(false);
+  const [toast, setToast] = useState<string | null>(null);
 
   const watchTitles = useMemo(() => new Set(watchlist.map((w) => normTitle(w.title))), [watchlist]);
 
@@ -197,10 +198,19 @@ export default function EpgApp() {
   // Responsieve pixels-per-uur.
   useEffect(() => {
     const mq = window.matchMedia('(max-width: 640px)');
-    const apply = () => setPph(mq.matches ? 110 : 160);
+    const lq = window.matchMedia('(max-height: 480px)');
+    const apply = () => {
+      if (mq.matches) setPph(110);
+      else if (lq.matches) setPph(130);
+      else setPph(160);
+    };
     apply();
     mq.addEventListener('change', apply);
-    return () => mq.removeEventListener('change', apply);
+    lq.addEventListener('change', apply);
+    return () => {
+      mq.removeEventListener('change', apply);
+      lq.removeEventListener('change', apply);
+    };
   }, []);
 
   // Data ophalen (statische JSON per dag).
@@ -276,6 +286,15 @@ export default function EpgApp() {
     return () => clearInterval(id);
   }, []);
 
+  const lastNowRef = useRef(Date.now());
+
+  // Toast automatisch sluiten.
+  useEffect(() => {
+    if (!toast) return;
+    const t = setTimeout(() => setToast(null), 8000);
+    return () => clearTimeout(t);
+  }, [toast]);
+
   // Hou de rode NU-lijn gecentreerd zolang die in beeld is (en de gebruiker niet scrolt).
   useEffect(() => {
     if (!mounted) return;
@@ -303,6 +322,24 @@ export default function EpgApp() {
   const dayStart = useMemo(() => brusselsDayStart(date), [date]);
   const channels = data?.channels ?? [];
   const goldTime = useMemo(() => dayStart + goldTimeOfDay, [dayStart, goldTimeOfDay]);
+
+  // Melding zodra de rode NU-lijn de gouden lijn bereikt.
+  useEffect(() => {
+    if (date !== todayKey) return;
+    const prev = lastNowRef.current;
+    lastNowRef.current = now;
+    if (prev < goldTime && now >= goldTime) {
+      const msg = `De NU-lijn bereikt de gouden lijn (${fmtTime(goldTime)})`;
+      setToast(msg);
+      try {
+        if ('Notification' in window && Notification.permission === 'granted') {
+          new Notification('TV Gids', { body: msg });
+        }
+      } catch {
+        /* negeer */
+      }
+    }
+  }, [now, date, goldTime, todayKey]);
 
   const visibleChannels = useMemo(() => {
     const order = selected.length ? selected : channels.map((c) => c.id);
@@ -375,14 +412,22 @@ export default function EpgApp() {
 
   function updateGoldFromPointer(clientX: number) {
     const rect = canvasRef.current?.getBoundingClientRect();
-    if (!rect) return;
-    const px = clientX - rect.left;
+    const scroller = scrollRef.current;
+    if (!rect || !scroller) return;
+    // Rekening houden met horizontale scroll: clientX is viewport-gericht,
+    // de gouden lijn staat in content-coördinaten.
+    const px = clientX - rect.left + scroller.scrollLeft;
     const t = ((Math.min(Math.max(0, px), 24 * pph)) / pph) * HOUR;
     setGoldTimeOfDay(Math.min(Math.round(t), 24 * HOUR - 1));
   }
 
   function goldPointerDown(e: React.PointerEvent<HTMLDivElement>) {
     e.preventDefault();
+    try {
+      e.currentTarget.setPointerCapture(e.pointerId);
+    } catch {
+      /* negeer */
+    }
     const move = (ev: PointerEvent) => updateGoldFromPointer(ev.clientX);
     const end = () => {
       window.removeEventListener('pointermove', move);
@@ -451,6 +496,7 @@ export default function EpgApp() {
 
   return (
     <div className="epg-page">
+      {toast && <div className="epg-toast">{toast}</div>}
       <div className="epg-topbar">
         <div className="epg-date-nav">
           <button className="icon-btn" onClick={goPrev} aria-label="Vorige dag">‹</button>
@@ -459,11 +505,11 @@ export default function EpgApp() {
             {dateLongFmt.format(dayStart).split(' ').slice(1).join(' ')}
           </span>
           <button className="icon-btn" onClick={goNext} aria-label="Volgende dag">›</button>
-          <button className="btn" onClick={() => setDate(todayKey)}>Vandaag</button>
-          <button className="btn" onClick={() => setDate(addDays(todayKey, 1))}>Morgen</button>
+          <button className="btn hide-sm hide-landscape" onClick={() => setDate(todayKey)}>Vandaag</button>
+          <button className="btn hide-sm hide-landscape" onClick={() => setDate(addDays(todayKey, 1))}>Morgen</button>
           <input
             type="date"
-            className="input"
+            className="input hide-landscape"
             value={date}
             min={data?.availableDates[0] ?? addDays(todayKey, -1)}
             max={data?.availableDates[data.availableDates.length - 1] ?? addDays(todayKey, 7)}
@@ -472,7 +518,7 @@ export default function EpgApp() {
           <button className="btn epg-now-btn" onClick={goToNow}>● Nu</button>
         </div>
         <button className="btn watch-btn" onClick={() => setWatchOpen(true)} aria-label="Mijn kijklijst">
-          ★ Mijn kijklijst
+          ★<span className="watch-label hide-sm"> Mijn kijklijst</span>
           {watchlist.length > 0 && <span className="watch-count">{watchlist.length}</span>}
         </button>
         <div
@@ -597,6 +643,7 @@ export default function EpgApp() {
               onPointerDown={goldPointerDown}
               title="Sleep om de gouden lijn te verschuiven"
             >
+              <span className="grip" />
               <span className="label">{fmtTime(dayStart + goldTimeOfDay)}</span>
               <div className="hitline" />
             </div>
