@@ -31,7 +31,7 @@ jobs:
       - run: npm ci
 
       - name: Import verse EPG-data
-        run: npm run import
+        run: npm run import -- --lenient
 
       - name: Bouw de statische site (incl. data-generatie)
         run: npm run build

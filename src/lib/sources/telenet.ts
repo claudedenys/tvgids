@@ -9,7 +9,7 @@
  */
 import type { Programme, Channel } from '../types';
 import { toProgramme } from '../normalise';
-import { pMap } from '../util';
+import { pMap, fetchWithRetry } from '../util';
 
 const EPG_SERVICE = 'https://staticqbr-prod-be.gnp.cloud.telenet.tv/eng/web/epg-service-lite/be';
 const LINEAR_SERVICE = 'https://spark-prod-be.gnp.cloud.telenet.tv/eng/web/linear-service/v2';
@@ -38,15 +38,13 @@ interface TelenetDetail {
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36';
 
 async function getJson(url: string, timeoutMs = 20000): Promise<unknown> {
-  const controller = new AbortController();
-  const t = setTimeout(() => controller.abort(), timeoutMs);
-  try {
-    const res = await fetch(url, { headers: { 'user-agent': UA, accept: 'application/json' }, signal: controller.signal });
-    if (!res.ok) throw new Error(`HTTP ${res.status} voor ${url}`);
-    return res.json();
-  } finally {
-    clearTimeout(t);
-  }
+  const res = await fetchWithRetry(
+    url,
+    { headers: { 'user-agent': UA, accept: 'application/json' } },
+    { timeoutMs },
+  );
+  if (!res.ok) throw new Error(`HTTP ${res.status} voor ${url}`);
+  return res.json();
 }
 
 function segUrl(dateUTC: Date, hour: '000000' | '060000' | '120000' | '180000', lang: string): string {

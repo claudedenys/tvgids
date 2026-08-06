@@ -2,6 +2,7 @@
 import type { Programme, Channel } from '../types';
 import { toProgramme, brusselsDateKey } from '../normalise';
 import { TVGIDS_LOGO_CDN } from '../constants';
+import { fetchWithRetry } from '../util';
 
 export const TVGIDS_SOURCE = 'tvgids.nl' as const;
 
@@ -85,16 +86,9 @@ export async function importChannelDay(
   if (!src) return { programmes: [], logo: null };
   const isToday = dayKey === brusselsDateKey(new Date());
   const url = `${BASE}${isToday ? '' : `${toDatePath(dayKey)}/`}${src.site_id}`;
-  const controller = new AbortController();
-  const t = setTimeout(() => controller.abort(), 20000);
-  let html: string;
-  try {
-    const res = await fetch(url, { headers: { 'user-agent': UA }, signal: controller.signal });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    html = await res.text();
-  } finally {
-    clearTimeout(t);
-  }
+  const res = await fetchWithRetry(url, { headers: { 'user-agent': UA } }, { timeoutMs: 20000 });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const html = await res.text();
   const raw = parseGuidePage(html);
   const programmes: Programme[] = [];
   for (const r of raw) {

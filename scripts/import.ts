@@ -18,11 +18,12 @@ async function main(): Promise<void> {
   const start = arg('start') ?? undefined;
   const days = arg('days') ? Number(arg('days')) : undefined;
   const channelIds = arg('channels')?.split(',').map((s) => s.trim()).filter(Boolean);
+  const lenient = process.argv.includes('--lenient');
 
   console.log(`Start import${start ? ` vanaf ${start}` : ''}, ${days ?? 5} dag(en)`);
   const result = await importRange({ start, days, channelIds });
   console.log('Klaar:', JSON.stringify(result, null, 2));
-  if (result.errors.length) process.exitCode = 1;
+  if (result.errors.length && !lenient) process.exitCode = 1;
 }
 
 main().catch((err) => {
