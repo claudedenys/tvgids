@@ -186,16 +186,6 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
     sources: [{ source: 'tvgids.nl', site_id: 'rtl5', xmltv_id: 'RTL5.nl', priority: 10 }],
   },
   {
-    id: 'rtl7',
-    name: 'RTL 7',
-    country: 'NL',
-    category: 'sport',
-    group: 'nederland',
-    active: true,
-    website: 'https://www.rtl.nl/',
-    sources: [{ source: 'tvgids.nl', site_id: 'rtl7', xmltv_id: 'RTL7.nl', priority: 10 }],
-  },
-  {
     id: 'rtl8',
     name: 'RTL 8',
     country: 'NL',
@@ -234,6 +224,16 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
     active: true,
     website: 'https://www.veronicatv.nl/',
     sources: [{ source: 'tvgids.nl', site_id: 'veronica', xmltv_id: 'Veronica.nl', priority: 10 }],
+  },
+  {
+    id: 'rtl7',
+    name: 'RTL 7',
+    country: 'NL',
+    category: 'sport',
+    group: 'nederland',
+    active: true,
+    website: 'https://www.rtl.nl/',
+    sources: [{ source: 'tvgids.nl', site_id: 'rtl7', xmltv_id: 'RTL7.nl', priority: 10 }],
   },
 
   /* ----------------------- Sport ----------------------- */

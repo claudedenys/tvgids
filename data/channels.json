@@ -312,24 +312,6 @@
     "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
   },
   {
-    "id": "rtl7",
-    "name": "RTL 7",
-    "country": "NL",
-    "category": "sport",
-    "group": "nederland",
-    "active": true,
-    "website": "https://www.rtl.nl/",
-    "sources": [
-      {
-        "source": "tvgids.nl",
-        "site_id": "rtl7",
-        "xmltv_id": "RTL7.nl",
-        "priority": 10
-      }
-    ],
-    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
-  },
-  {
     "id": "rtl8",
     "name": "RTL 8",
     "country": "NL",
@@ -396,6 +378,24 @@
         "source": "tvgids.nl",
         "site_id": "veronica",
         "xmltv_id": "Veronica.nl",
+        "priority": 10
+      }
+    ],
+    "logo": "https://tvgidsassets.nl/v386/img/channels/120x120/1.png"
+  },
+  {
+    "id": "rtl7",
+    "name": "RTL 7",
+    "country": "NL",
+    "category": "sport",
+    "group": "nederland",
+    "active": true,
+    "website": "https://www.rtl.nl/",
+    "sources": [
+      {
+        "source": "tvgids.nl",
+        "site_id": "rtl7",
+        "xmltv_id": "RTL7.nl",
         "priority": 10
       }
     ],
