@@ -4,12 +4,17 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      full:
+        description: 'Volledige run (import + deploy)'
+        type: boolean
+        default: true
   schedule:
     # Dagelijks ~06:17 Brusselse tijd: verse EPG-data + nieuwe deploy.
     - cron: '17 4 * * *'
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -30,8 +35,25 @@ jobs:
 
       - run: npm ci
 
+      # Import alleen bij de dagelijkse cron of een handmatige "full" run.
+      # Bij een code-push bouwen we gewoon op de data die in de repo staat,
+      # zodat een visuele wijziging in ~2 minuten live is.
       - name: Import verse EPG-data
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.full == 'true')
         run: npm run import -- --lenient
+
+      # De cron schrijft de verse data terug naar de repo (met [skip ci]
+      # zodat dit geen nieuwe workflow-run triggert).
+      - name: Commit bijgewerkte data
+        if: github.event_name == 'schedule'
+        run: |
+          git config user.name "tv-gids[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && echo "Geen wijzigingen aan data" || {
+            git commit -m "Dagelijkse EPG-import [skip ci]"
+            git push
+          }
 
       - name: Bouw de statische site (incl. data-generatie)
         run: npm run build
