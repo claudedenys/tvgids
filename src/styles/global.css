@@ -1128,6 +1128,29 @@ select {
   margin-bottom: 26px;
 }
 
+.ch-group-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--muted);
+  margin: 18px 0 8px;
+}
+
+.ch-group-head:first-child {
+  margin-top: 0;
+}
+
+.ch-group-head .count {
+  font-size: 11px;
+  color: var(--muted);
+  background: var(--surface-2);
+  padding: 2px 7px;
+  border-radius: 10px;
+}
+
 .ch-group h2 {
   font-size: 13px;
   text-transform: uppercase;

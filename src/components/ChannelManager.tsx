@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { Fragment, useEffect, useMemo, useState } from 'react';
 import type { ChannelWithStatus } from '../lib/types';
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
@@ -109,6 +109,40 @@ export default function ChannelManager() {
     setDragIdx(null);
   }
 
+  const renderRow = (c: ChannelWithStatus) => {
+    const on = selected.includes(c.id);
+    return (
+      <div
+        key={c.id}
+        className={`ch-row ${on ? '' : 'off'}`}
+        draggable
+        onDragStart={() => setDragIdx(selected.indexOf(c.id))}
+        onDragOver={(e) => e.preventDefault()}
+        onDrop={() => onDrop(c.id)}
+      >
+        <span className="drag" title="Versleep om te sorteren">⠿</span>
+        <img
+          className="logo"
+          src={`${BASE}icons/channels/${c.id}.svg`}
+          alt=""
+          onError={(e) => ((e.target as HTMLImageElement).style.display = 'none')}
+        />
+        <div className="info">
+          <div className="nm">{c.name}</div>
+          <div className="sub">
+            <span>{c.country === 'BE' ? '🇧🇪' : c.country === 'NL' ? '🇳🇱' : c.country}</span>
+            <span className={c.status.epgAvailable ? 'badge-ok' : 'badge-warn'}>
+              {c.status.epgAvailable ? `EPG ${c.status.daysAvailable}d` : 'geen EPG'}
+            </span>
+          </div>
+        </div>
+        <button className="icon-btn" onClick={() => move(c.id, -1)} aria-label="Omhoog">↑</button>
+        <button className="icon-btn" onClick={() => move(c.id, 1)} aria-label="Omlaag">↓</button>
+        <div className={`toggle ${on ? 'on' : ''}`} onClick={() => toggle(c.id)} role="switch" aria-checked={on} />
+      </div>
+    );
+  };
+
   const selectedCount = selected.length;
 
   if (loading) return <div className="spinner" />;
@@ -132,49 +166,40 @@ export default function ChannelManager() {
         <span style={{ color: 'var(--muted)', fontSize: 13 }}>{selectedCount} actief</span>
       </div>
 
-      {[...grouped.entries()].map(([group, list]) => (
-        <section key={group} className="ch-group">
-          <h2>
-            {GROUP_LABELS[group] ?? group}
-            <span className="count">{list.filter((c) => selected.includes(c.id)).length}/{list.length}</span>
-          </h2>
-          <div className="ch-list">
-            {list.map((c) => {
-              const on = selected.includes(c.id);
-              return (
-                <div
-                  key={c.id}
-                  className={`ch-row ${on ? '' : 'off'}`}
-                  draggable
-                  onDragStart={() => setDragIdx(selected.indexOf(c.id))}
-                  onDragOver={(e) => e.preventDefault()}
-                  onDrop={() => onDrop(c.id)}
-                >
-                  <span className="drag" title="Versleep om te sorteren">⠿</span>
-                  <img
-                    className="logo"
-                    src={`${BASE}icons/channels/${c.id}.svg`}
-                    alt=""
-                    onError={(e) => ((e.target as HTMLImageElement).style.display = 'none')}
-                  />
-                  <div className="info">
-                    <div className="nm">{c.name}</div>
-                    <div className="sub">
-                      <span>{c.country === 'BE' ? '🇧🇪' : c.country === 'NL' ? '🇳🇱' : c.country}</span>
-                      <span className={c.status.epgAvailable ? 'badge-ok' : 'badge-warn'}>
-                        {c.status.epgAvailable ? `EPG ${c.status.daysAvailable}d` : 'geen EPG'}
-                      </span>
-                    </div>
+      {sort === 'name' ? (
+        [...grouped.entries()].map(([group, list]) => (
+          <section key={group} className="ch-group">
+            <h2>
+              {GROUP_LABELS[group] ?? group}
+              <span className="count">{list.filter((c) => selected.includes(c.id)).length}/{list.length}</span>
+            </h2>
+            <div className="ch-list">
+              {list.map((c) => renderRow(c))}
+            </div>
+          </section>
+        ))
+      ) : (
+        <div className="ch-list">
+          {ordered.map((c, i) => {
+            const prev = i > 0 ? ordered[i - 1] : null;
+            const showHeader = !prev || prev.group !== c.group;
+            return (
+              <Fragment key={c.id}>
+                {showHeader && (
+                  <div className="ch-group-head">
+                    {GROUP_LABELS[c.group] ?? c.group}
+                    <span className="count">
+                      {ordered.filter((x) => x.group === c.group && selected.includes(x.id)).length}
+                      /{ordered.filter((x) => x.group === c.group).length}
+                    </span>
                   </div>
-                  <button className="icon-btn" onClick={() => move(c.id, -1)} aria-label="Omhoog">↑</button>
-                  <button className="icon-btn" onClick={() => move(c.id, 1)} aria-label="Omlaag">↓</button>
-                  <div className={`toggle ${on ? 'on' : ''}`} onClick={() => toggle(c.id)} role="switch" aria-checked={on} />
-                </div>
-              );
-            })}
-          </div>
-        </section>
-      ))}
+                )}
+                {renderRow(c)}
+              </Fragment>
+            );
+          })}
+        </div>
+      )}
     </div>
   );
 }
