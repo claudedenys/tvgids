@@ -22,7 +22,7 @@
   --header-h: 56px;
   --topbar-h: 64px;
   --channel-col: 142px;
-  --row-h: 74px;
+  --row-h: 56px;
   --header-row-h: 36px;
   --pph: 160px; /* pixels per uur */
   --gold-hit: 22px; /* pakgebied van de gouden lijn */
@@ -586,20 +586,21 @@ select {
   flex: none;
   width: var(--channel-col);
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
-  gap: 3px;
+  justify-content: flex-start;
+  gap: 6px;
   background: var(--surface);
   border-right: 1px solid var(--border);
-  padding: 4px;
+  padding: 4px 6px;
 }
 
 .epg-channel img {
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
+  flex: none;
   object-fit: contain;
-  border-radius: 10px;
+  border-radius: 8px;
   background: rgba(255, 255, 255, 0.95);
   padding: 2px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
@@ -657,12 +658,12 @@ select {
 }
 
 .epg-channel .name {
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 700;
   color: var(--text);
-  text-align: center;
+  text-align: left;
   line-height: 1.15;
-  max-width: 132px;
+  max-width: calc(100% - 56px);
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
@@ -671,12 +672,13 @@ select {
 }
 
 .epg-channel .logo-fallback {
-  width: 40px;
-  height: 40px;
-  border-radius: 10px;
+  width: 32px;
+  height: 32px;
+  flex: none;
+  border-radius: 8px;
   background: var(--surface-3);
   color: var(--muted);
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 800;
   display: flex;
   align-items: center;
@@ -1337,13 +1339,13 @@ table.grid th {
 @media (max-width: 640px) {
   :root {
     --pph: 110px;
-    --row-h: 68px;
+    --row-h: 50px;
     --channel-col: 122px;
   }
   .epg-channel img,
   .epg-channel .logo-fallback {
-    width: 36px;
-    height: 36px;
+    width: 30px;
+    height: 30px;
   }
   .epg-topbar {
     gap: 6px;
