@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1785971160000:xykime",
+    "id": "playsports1:1785971700000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1785971160000,
+    "start": 1785971700000,
     "end": 1785992400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A3736594f4a7a5898cb43d0aab75a3475faac3d01/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A0b8423614f9c76650985e09df07ca08cbcb810b1/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +17,14 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:3736594f4a7a5898cb43d0aab75a3475faac3d01"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:0b8423614f9c76650985e09df07ca08cbcb810b1",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -39,7 +46,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30538413~~2FEP033946612355,imi:43e84da401654c6f2e25b7c76edfdd62d07b40bd"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30538413~~2FEP033946612355,imi:43e84da401654c6f2e25b7c76edfdd62d07b40bd",
+      "episodeName": "Manchester United - Nottingham Forest",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
@@ -61,7 +76,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30538331~~2FEP033946612349,imi:2eda695966218b7d82307105e31eefe38b2a85a8"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30538331~~2FEP033946612349,imi:2eda695966218b7d82307105e31eefe38b2a85a8",
+      "episodeName": "Newcastle United - West Ham United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
@@ -83,7 +106,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22436808~~2FEP033946610813,imi:3d308945279b109da90872b38c677d8ed1b02c6c"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22436808~~2FEP033946610813,imi:3d308945279b109da90872b38c677d8ed1b02c6c",
+      "episodeName": "Crystal Palace - Arsenal",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
@@ -105,7 +136,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30538424~~2FEP033946612359,imi:4c4785b8ede316a27d38494af98191ce94f504ee"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30538424~~2FEP033946612359,imi:4c4785b8ede316a27d38494af98191ce94f504ee",
+      "episodeName": "Tottenham Hotspur - Everton",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
@@ -127,7 +166,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33124954~~2FEP033948601823,imi:a8a6b725f1e44658284745dcd60e2b9b0b2732e1"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33124954~~2FEP033948601823,imi:a8a6b725f1e44658284745dcd60e2b9b0b2732e1",
+      "episodeName": "SC Paderborn 07 - VfL Wolfsburg",
+      "genres": [
+        "Sport",
+        "Competitiesporten"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
     }
   },
   {
@@ -135,7 +182,7 @@
     "channel": "playsports1",
     "title": "Pep Guardiola: How one man changed the Premier League forever",
     "start": 1786027380000,
-    "end": 1786028220000,
+    "end": 1786028280000,
     "description": "Nu Pep Guardiola bijna 10 opmerkelijke jaren bij Man. City achter de rug heeft, blikken we terug op zijn reis: van zijn aanpassing aan de Premier League in zijn eerste seizoen tot de complete omwenteling die hij teweegbracht in het Engelse voetbal.",
     "category": [
       "Sport",
@@ -149,21 +196,29 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33162405~~2FSH064459980000~~2Fspecial,imi:b9c81f0d68e3fc053bea72f63956181bfa199675"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33162405~~2FSH064459980000~~2Fspecial,imi:b9c81f0d68e3fc053bea72f63956181bfa199675",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "playsports1:1786028220000:fly4em",
+    "id": "playsports1:1786028280000:fly4em",
     "channel": "playsports1",
     "title": "Bundesliga Highlights",
-    "start": 1786028220000,
-    "end": 1786031340000,
+    "start": 1786028280000,
+    "end": 1786031460000,
     "description": "Alle samenvattingen van afgelopen speeldag uit de Bundesliga.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32935247~~2FEP050961140054%2Cimi%3Adb755dd969bab4c4991fa52570a7f1c951e9f580/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32935247~~2FEP050961140054%2Cimi%3Ad38a20528c4f7150ba8e8fcf1ebed5760e7b6d8e/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -171,15 +226,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32935247~~2FEP050961140054,imi:db755dd969bab4c4991fa52570a7f1c951e9f580"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32935247~~2FEP050961140054,imi:d38a20528c4f7150ba8e8fcf1ebed5760e7b6d8e",
+      "episodeName": "Aflevering 34",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27175952~~2FSH050961140000"
     }
   },
   {
-    "id": "playsports1:1786031340000:1prlzbg",
+    "id": "playsports1:1786031460000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1786031340000,
-    "end": 1786038240000,
+    "start": 1786031460000,
+    "end": 1786038480000,
     "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
     "category": [
       "Sport",
@@ -193,21 +256,29 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22436808~~2FEP033946610813,imi:579d4a763576e9a6872a6615cd1397daac9488c2"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22436808~~2FEP033946610813,imi:579d4a763576e9a6872a6615cd1397daac9488c2",
+      "episodeName": "Crystal Palace - Arsenal",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
-    "id": "playsports1:1786038240000:rkyq7n",
+    "id": "playsports1:1786038480000:rkyq7n",
     "channel": "playsports1",
     "title": "Pep Guardiola: How one man changed the Premier League forever",
-    "start": 1786038240000,
-    "end": 1786039140000,
+    "start": 1786038480000,
+    "end": 1786039440000,
     "description": "Nu Pep Guardiola bijna 10 opmerkelijke jaren bij Man. City achter de rug heeft, blikken we terug op zijn reis: van zijn aanpassing aan de Premier League in zijn eerste seizoen tot de complete omwenteling die hij teweegbracht in het Engelse voetbal.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33162405~~2FSH064459980000~~2Fspecial%2Cimi%3A7145e974c19c54c61af8aaedf2394748b1f813e4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33162405~~2FSH064459980000~~2Fspecial%2Cimi%3A2955132c53ec5fcb07e2174f0cb044d2e9055667/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -215,21 +286,29 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33162405~~2FSH064459980000~~2Fspecial,imi:7145e974c19c54c61af8aaedf2394748b1f813e4"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33162405~~2FSH064459980000~~2Fspecial,imi:2955132c53ec5fcb07e2174f0cb044d2e9055667",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "playsports1:1786039140000:15n7rvd",
+    "id": "playsports1:1786039440000:15n7rvd",
     "channel": "playsports1",
     "title": "Under the Skin",
-    "start": 1786039140000,
-    "end": 1786039740000,
+    "start": 1786039440000,
+    "end": 1786040100000,
     "description": "Een kijkje achter de schermen bij de Premier League-teams.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33159620~~2FEP050897990019%2Cimi%3A99ceed3745db7083a570cc9bc3e3843f58279fe2/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33159620~~2FEP050897990019%2Cimi%3Ab330f88798c844fea00a61681881641d44af016e/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 97990000,
@@ -237,21 +316,29 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33159620~~2FEP050897990019,imi:99ceed3745db7083a570cc9bc3e3843f58279fe2"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33159620~~2FEP050897990019,imi:b330f88798c844fea00a61681881641d44af016e",
+      "episodeName": "Arsenal, Premier League champions",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26961141~~2FSH050897990000"
     }
   },
   {
-    "id": "playsports1:1786039740000:amnfa6",
+    "id": "playsports1:1786040100000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
-    "start": 1786039740000,
-    "end": 1786042860000,
+    "start": 1786040100000,
+    "end": 1786043220000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33109374~~2FEP055411400057%2Cimi%3A8b3b2dc0e732f94f587c40753bbb68ac05d35337/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33109374~~2FEP055411400057%2Cimi%3A54918abfdeaeb2e31984d6af85895c142d7e4f98/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -259,21 +346,29 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33109374~~2FEP055411400057,imi:8b3b2dc0e732f94f587c40753bbb68ac05d35337"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33109374~~2FEP055411400057,imi:54918abfdeaeb2e31984d6af85895c142d7e4f98",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
     }
   },
   {
-    "id": "playsports1:1786042860000:1prlzbg",
+    "id": "playsports1:1786043220000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1786042860000,
-    "end": 1786049460000,
+    "start": 1786043220000,
+    "end": 1786050000000,
     "description": "Verslag van de wedstrijd Everton - Liverpool, gespeeld in de 6e speelronde van de Premier League.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22437261~~2FEP033946610854%2Cimi%3A25efa176555d565d0d1a9742e7103d78b6077e2e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22437261~~2FEP033946610854%2Cimi%3A14d0fcad2ec7947ed8a78eec3e8cbb5f990d11a4/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -281,21 +376,29 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22437261~~2FEP033946610854,imi:25efa176555d565d0d1a9742e7103d78b6077e2e"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22437261~~2FEP033946610854,imi:14d0fcad2ec7947ed8a78eec3e8cbb5f990d11a4",
+      "episodeName": "Everton - Liverpool",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
-    "id": "playsports1:1786049460000:11wg5yb",
+    "id": "playsports1:1786050000000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1786049460000,
-    "end": 1786057380000,
+    "start": 1786050000000,
+    "end": 1786057920000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30766589~~2FEP033948601801%2Cimi%3A4ba3cd743cb0f4a5261598767a1d0540df95b5f1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30766589~~2FEP033948601801%2Cimi%3Adbab6efaa88e714fa67bb0c275ac8239a169c8c8/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -303,7 +406,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30766589~~2FEP033948601801,imi:4ba3cd743cb0f4a5261598767a1d0540df95b5f1"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30766589~~2FEP033948601801,imi:dbab6efaa88e714fa67bb0c275ac8239a169c8c8",
+      "episodeName": "Bayern München - 1. FC Köln",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
     }
   }
 ]

@@ -1,29 +1,10 @@
 [
   {
-    "id": "playsports3:1786059780000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1786059780000,
-    "end": 1786061700000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f89677c8b04f28c272ced3c00a3bb033e9598104"
-    }
-  },
-  {
-    "id": "playsports3:1786061700000:xykime",
+    "id": "playsports3:1786058400000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1786061700000,
-    "end": 1786078800000,
+    "start": 1786058400000,
+    "end": 1786079700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -36,34 +17,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:a68bddbc5f73a32cb9a734a8d3c5b468e9389657"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:a68bddbc5f73a32cb9a734a8d3c5b468e9389657",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "playsports3:1786078800000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1786078800000,
-    "end": 1786080000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b41923aa47b81428fe16a289bed8f999bbea82be"
-    }
-  },
-  {
-    "id": "playsports3:1786080000000:1va4v2m",
+    "id": "playsports3:1786079700000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1786080000000,
-    "end": 1786086420000,
+    "start": 1786079700000,
+    "end": 1786086000000,
     "description": "Verslag van de wedstrijd Feyenoord - Ajax uit de 28e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -77,15 +46,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30773927~~2FEP035850991896,imi:5a15c64c87253840a8822c69c43da1a8af2375a6"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30773927~~2FEP035850991896,imi:5a15c64c87253840a8822c69c43da1a8af2375a6",
+      "episodeName": "Feyenoord - Ajax",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {
-    "id": "playsports3:1786086420000:16v40h",
+    "id": "playsports3:1786086000000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1786086420000,
-    "end": 1786093440000,
+    "start": 1786086000000,
+    "end": 1786093020000,
     "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -99,15 +76,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30537922~~2FEP052089690635,imi:ed25356289cfbca72a7f1bd3d4e837cdafffc575"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30537922~~2FEP052089690635,imi:ed25356289cfbca72a7f1bd3d4e837cdafffc575",
+      "episodeName": "Finale: Crystal Palace - Rayo Vallecano",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27811245~~2FSH052089690000"
     }
   },
   {
-    "id": "playsports3:1786093440000:ear1gl",
+    "id": "playsports3:1786093020000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1786093440000,
-    "end": 1786100100000,
+    "start": 1786093020000,
+    "end": 1786099680000,
     "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -121,14 +106,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30578666~~2FEP028036721175,imi:2a432d8008796fb735f3bd71f60a71ff9a70762d"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30578666~~2FEP028036721175,imi:2a432d8008796fb735f3bd71f60a71ff9a70762d",
+      "episodeName": "Finale: SC Freiburg - Aston Villa",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
     }
   },
   {
-    "id": "playsports3:1786100100000:99kgtm",
+    "id": "playsports3:1786099680000:99kgtm",
     "channel": "playsports3",
     "title": "Johan Cruijff Schaal",
-    "start": 1786100100000,
+    "start": 1786099680000,
     "end": 1786107600000,
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "category": [
@@ -143,7 +136,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006,imi:a8bb219fe43191eae6ed102e4399b8e7cd21654b"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006,imi:a8bb219fe43191eae6ed102e4399b8e7cd21654b",
+      "episodeName": "PSV - AZ",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20424370~~2FSH039508910000"
     }
   },
   {
@@ -165,59 +166,53 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636373~~2FEP049636290360,imi:c569d2f71ee637442194aa09e9d47bfd148c84d1"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636373~~2FEP049636290360,imi:c569d2f71ee637442194aa09e9d47bfd148c84d1",
+      "episodeName": "Vuelta a Burgos: Etappe 4",
+      "genres": [
+        "Sport",
+        "Wielrennen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26272749~~2FSH049636290000"
     }
   },
   {
-    "id": "playsports3:1786114800000:133mms5",
+    "id": "playsports3:1786114800000:i67pjl",
     "channel": "playsports3",
-    "title": "FIM Motocross World Championship",
+    "title": "Play Sports Highlights",
     "start": 1786114800000,
-    "end": 1786115400000,
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "end": 1786116900000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Motorracen"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33636042~~2FEP050375640281%2Cimi%3A2ea54a4a58ec807a353d4062feb6e13b7ac5f56e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F523235749%2Cimi%3Ac986215d7f718dcf720cc94fab387361e25dc8be/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 75640000,
-    "episode": 2026080281,
+    "season": 50390000,
+    "episode": 523235749,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636042~~2FEP050375640281,imi:2ea54a4a58ec807a353d4062feb6e13b7ac5f56e"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F523235749,imi:c986215d7f718dcf720cc94fab387361e25dc8be",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports3:1786115400000:133mms5",
-    "channel": "playsports3",
-    "title": "FIM Motocross World Championship",
-    "start": 1786115400000,
-    "end": 1786116300000,
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33648608~~2FEP050375640279%2Cimi%3A151e2b271db7a4a3c3d0c863d74ada25eb32f86f/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 75640000,
-    "episode": 2026080279,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33648608~~2FEP050375640279,imi:151e2b271db7a4a3c3d0c863d74ada25eb32f86f"
-    }
-  },
-  {
-    "id": "playsports3:1786116300000:1va4v2m",
+    "id": "playsports3:1786116900000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1786116300000,
-    "end": 1786122720000,
+    "start": 1786116900000,
+    "end": 1786123380000,
     "description": "Verslag van de wedstrijd Feyenoord - Ajax uit de 28e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -231,15 +226,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30773927~~2FEP035850991896,imi:1a05c6982c60ff46ccea7a85507674b57cac0db7"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30773927~~2FEP035850991896,imi:1a05c6982c60ff46ccea7a85507674b57cac0db7",
+      "episodeName": "Feyenoord - Ajax",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {
-    "id": "playsports3:1786122720000:1va4v2m",
+    "id": "playsports3:1786123380000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1786122720000,
-    "end": 1786128900000,
+    "start": 1786123380000,
+    "end": 1786129620000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Groningen uit de 31e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -253,15 +256,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30774377~~2FEP035850991757,imi:dd363f7dafb012c486f7d115bccc075590038a12"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30774377~~2FEP035850991757,imi:dd363f7dafb012c486f7d115bccc075590038a12",
+      "episodeName": "Feyenoord - FC Groningen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {
-    "id": "playsports3:1786128900000:16v40h",
+    "id": "playsports3:1786129620000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1786128900000,
-    "end": 1786136100000,
+    "start": 1786129620000,
+    "end": 1786136820000,
     "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -275,15 +286,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30537922~~2FEP052089690635,imi:d2f09fd3a07b5fa9df0fdb43ad6c7d3bf4738a8c"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30537922~~2FEP052089690635,imi:d2f09fd3a07b5fa9df0fdb43ad6c7d3bf4738a8c",
+      "episodeName": "Finale: Crystal Palace - Rayo Vallecano",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27811245~~2FSH052089690000"
     }
   },
   {
-    "id": "playsports3:1786136100000:ear1gl",
+    "id": "playsports3:1786136820000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1786136100000,
-    "end": 1786142640000,
+    "start": 1786136820000,
+    "end": 1786143420000,
     "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -297,7 +316,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30578666~~2FEP028036721175,imi:cc438d49215e207478e45a7810c4273f5698b2c2"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30578666~~2FEP028036721175,imi:cc438d49215e207478e45a7810c4273f5698b2c2",
+      "episodeName": "Finale: SC Freiburg - Aston Villa",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
     }
   }
 ]

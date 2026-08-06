@@ -4,9 +4,11 @@
  * Sportwedstrijden verschijnen als afzonderlijke items in de EPG-tijdlijn.
  *
  * Vrije bronnen die op dit moment gebruikt worden:
- *  - De EPG zelf: op DAZN- en Play Sports-kanalen staan echte wedstrijd-uitzendingen
- *    met titels zoals "Club Brugge – Anderlecht". Daaruit worden sportevenementen
- *    afgeleid (teams, competitie via de kanaalnaam, status via tijdstip).
+ *  - De EPG zelf: op DAZN- en Play Sports-kanalen staan echte wedstrijd-uitzendingen.
+ *    De wedstrijdnaam staat in het detail-veld episodeName/seriesName
+ *    (bv. "Club Brugge - Anderlecht"), de titel is de competitie (bv. "Jupiler Pro League").
+ *    Daaruit worden sportevenementen afgeleid (teams, competitie, sportsoort,
+ *    status via tijdstip).
  *
  * De architectuur is zo dat later een aparte gratis sportfeed (bv. een
  * openbare wedstrijdkalender-API) als bron toegevoegd kan worden zonder de
@@ -50,11 +52,17 @@ export function deriveSportEvents(programmes: Programme[], channels: Channel[]):
     const title = p.title.trim();
     if (!title || /geen uitzending/i.test(title)) continue;
 
-    const teams = parseTeams(title);
+    // De echte wedstrijdnaam staat in episodeName/seriesName,
+    // bv. "Manchester United - Nottingham Forest" (titel is dan "Premier League").
+    const meta = p.meta as
+      | { episodeName?: string; seriesName?: string; genres?: string[] }
+      | undefined;
+    const matchTitle = meta?.episodeName ?? meta?.seriesName ?? title;
+    const teams = parseTeams(matchTitle);
     const platform = channelNames.get(p.channel) ?? p.channel;
 
-    // Competitie herkennen via beschrijving of titel.
     const competition = detectCompetition(title, p.description);
+    const sport = detectSportType(meta?.genres ?? [], `${title} ${p.description ?? ''}`, competition);
 
     const now = Date.now();
     const status: SportEvent['status'] = now < p.start ? 'aankomend' : now < p.end ? 'live' : 'afgelopen';
@@ -62,10 +70,11 @@ export function deriveSportEvents(programmes: Programme[], channels: Channel[]):
     events.push({
       id: `sport:${p.id}`,
       externalId: null,
-      title,
+      title: matchTitle,
       home: teams?.home ?? null,
       away: teams?.away ?? null,
       competition,
+      sport,
       start: p.start,
       end: p.end,
       status,
@@ -78,15 +87,58 @@ export function deriveSportEvents(programmes: Programme[], channels: Channel[]):
   return events;
 }
 
+const BROADCAST_SUFFIX = /(?:\s+(?:live|herhaling|highlights|replay|full match|samenvatting|extra time|voorbeschouwing)\s*)$/i;
+
 /** Herken "Thuisploeg – Uitploeg" in de titel. */
 function parseTeams(title: string): { home: string; away: string } | null {
   const m = title.match(/^(.*?)\s*[–—-]\s*(.*?)(?:\s+\d+\s*[–:]\s*\d+)?$/);
   if (!m) return null;
-  const home = m[1].trim();
-  const away = m[2].trim();
+  const home = m[1].trim().replace(BROADCAST_SUFFIX, '').trim();
+  const away = m[2].trim().replace(BROADCAST_SUFFIX, '').trim();
   if (!home || !away) return null;
   if (home.length < 2 || away.length < 2) return null;
   return { home, away };
+}
+
+const SPORT_TYPES: { names: string[]; label: string }[] = [
+  { names: ['voetbal', 'soccer'], label: 'Voetbal' },
+  { names: ['wielrennen', 'cycling', 'veldrijden', 'velodroom'], label: 'Wielrennen' },
+  { names: ['tennis'], label: 'Tennis' },
+  { names: ['basketbal', 'basketball'], label: 'Basketbal' },
+  { names: ['golf'], label: 'Golf' },
+  { names: ['formule 1', 'formule 2', 'formule 3', 'autosport', 'motorsport', 'moto gp', 'mxgp'], label: 'Motorsport' },
+  { names: ['volleybal'], label: 'Volleybal' },
+  { names: ['handbal', 'handball'], label: 'Handbal' },
+  { names: ['ijshockey', 'hockey'], label: 'Hockey' },
+  { names: ['rugby'], label: 'Rugby' },
+  { names: ['darts'], label: 'Darts' },
+  { names: ['snooker', 'biljart', 'pool'], label: 'Biljart' },
+  { names: ['boksen', 'boxing'], label: 'Boksen' },
+  { names: ['mma', 'vechtsport'], label: 'Vechtsport' },
+  { names: ['atletiek'], label: 'Atletiek' },
+  { names: ['padel'], label: 'Padel' },
+  { names: ['korfbal'], label: 'Korfbal' },
+  { names: ['paardensport'], label: 'Paardensport' },
+];
+
+const FOOTBALL = /jupiler|pro league|premier league|bundesliga|la liga|serie a|ligue 1|eredivisie|champions league|europa league|conference league|beker van belgi|supercup|voetbal|soccer/i;
+
+/** Bepaal de sportsoort via genres (telenet) of via titel/omschrijving. */
+function detectSportType(genres: string[], haystack: string, competition: string | null): string | null {
+  const genreText = genres.map((g) => g.toLowerCase()).join(' ');
+  if (genreText) {
+    for (const s of SPORT_TYPES) {
+      if (s.names.some((n) => genreText.includes(n))) return s.label;
+    }
+  }
+  const lower = haystack.toLowerCase();
+  for (const s of SPORT_TYPES) {
+    if (s.names.some((n) => lower.includes(n))) return s.label;
+  }
+  // Sommige events hebben enkel genre "Sport"/"Competitiesporten" en een
+  // competitienaam als titel. Bekende voetbalcompetities → Voetbal.
+  if (competition && FOOTBALL.test(competition)) return 'Voetbal';
+  return null;
 }
 
 const COMPETITIONS: { re: RegExp; name: string }[] = [

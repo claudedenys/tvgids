@@ -104,6 +104,8 @@ export interface SportEvent {
   home: string | null;
   away: string | null;
   competition: string | null;
+  /** Sportsoort, bv. 'Voetbal', 'Wielrennen', 'Tennis'. */
+  sport?: string | null;
   start: number;
   end: number;
   status: SportStatus;
@@ -152,6 +154,8 @@ export interface SearchHit {
   home?: string | null;
   away?: string | null;
   platforms?: string[];
+  /** Sportsoort, bv. 'Voetbal', 'Wielrennen', 'Tennis'. */
+  sport?: string | null;
 }
 
 /** Registratie in het append-only update logboek. */

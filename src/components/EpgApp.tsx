@@ -13,6 +13,27 @@ const GOLD_KEY = 'tvgids.goldline';
 const GOLD_HIT = 22;
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
 
+const SPORT_ICONS: Record<string, string> = {
+  Voetbal: '⚽',
+  Wielrennen: '🚴',
+  Tennis: '🎾',
+  Basketbal: '🏀',
+  Golf: '⛳',
+  Motorsport: '🏎️',
+  Volleybal: '🏐',
+  Handbal: '🤾',
+  Hockey: '🏒',
+  Rugby: '🏉',
+  Darts: '🎯',
+  Biljart: '🎱',
+  Boksen: '🥊',
+  Vechtsport: '🥋',
+  Atletiek: '🏃',
+  Padel: '🏓',
+  Korfbal: '🏐',
+  Paardensport: '🐎',
+};
+
 /** Eenmalig laden + cachen van de statische zoekindex. */
 let searchIndexPromise: Promise<SearchHit[]> | null = null;
 function loadSearchIndex(): Promise<SearchHit[]> {
@@ -872,8 +893,13 @@ function ProgrammeSheet(props: {
       <div className="sheet" onClick={(e) => e.stopPropagation()} role="dialog" aria-modal="true">
         <div className="grabber" />
         {p.image && <img className="hero" src={p.image} alt="" />}
-        {isSport && <div className="tags" style={{ marginBottom: 8 }}><span className="tag sport">⚽ Sport</span>{ev?.competition && <span className="tag">{ev.competition}</span>}</div>}
-        <h3>{prog.title}</h3>
+        {isSport && (
+          <div className="tags" style={{ marginBottom: 8 }}>
+            <span className="tag sport">{SPORT_ICONS[ev?.sport ?? ''] ?? '⚽'} {ev?.sport ?? 'Sport'}</span>
+            {ev?.competition && <span className="tag">{ev.competition}</span>}
+          </div>
+        )}
+        <h3>{ev?.title ?? prog.title}</h3>
         <div className="sheet-meta">
           <span>🕒 {fmtTime(p.start)} – {fmtTime(p.end)}</span>
           {channel && <span>📺 {channel.name}</span>}
@@ -1109,6 +1135,7 @@ function hitToSheet(hit: SearchHit): Programme | SportEvent {
       platforms: hit.platforms ?? [],
       channels: [hit.channelName],
       description: hit.description,
+      sport: hit.sport ?? null,
       source: 'sport',
     };
   }

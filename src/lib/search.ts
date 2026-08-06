@@ -64,6 +64,7 @@ export function hitFromSport(
     home: e.home,
     away: e.away,
     platforms: e.platforms,
+    sport: e.sport,
   };
 }
 

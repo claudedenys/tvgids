@@ -1,9 +1,9 @@
 [
   {
-    "id": "playsports4:1785968460000:binlm4",
+    "id": "playsports4:1785968400000:binlm4",
     "channel": "playsports4",
     "title": "Hockey Pro League",
-    "start": 1785968460000,
+    "start": 1785968400000,
     "end": 1785975900000,
     "description": null,
     "category": [
@@ -18,7 +18,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33336382~~2FEP040906980286,imi:2a62f8d85d2d4be01a58443c583492b9b665c5ee"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33336382~~2FEP040906980286,imi:2a62f8d85d2d4be01a58443c583492b9b665c5ee",
+      "episodeName": "België - Australië",
+      "genres": [
+        "Sport",
+        "Hockey"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17847091~~2FSH040906980000"
     }
   },
   {
@@ -39,7 +47,14 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:260595e56fd94dd21d02358e28fdeb417781185b"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:260595e56fd94dd21d02358e28fdeb417781185b",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -47,7 +62,7 @@
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
     "start": 1785992400000,
-    "end": 1785996000000,
+    "end": 1785995880000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -61,15 +76,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636027~~2FEP050375640280,imi:bb7fe921a4bdeacd33c5d9442da4f6807424f001"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636027~~2FEP050375640280,imi:bb7fe921a4bdeacd33c5d9442da4f6807424f001",
+      "episodeName": "Vlaanderen: MX2, Race 1",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
-    "id": "playsports4:1785996000000:133mms5",
+    "id": "playsports4:1785995880000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1785996000000,
-    "end": 1785999600000,
+    "start": 1785995880000,
+    "end": 1785999360000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -83,15 +106,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636034~~2FEP050375640282,imi:3085d0f231863825224674f114085358d67cdff8"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636034~~2FEP050375640282,imi:3085d0f231863825224674f114085358d67cdff8",
+      "episodeName": "Vlaanderen: MXGP, Race 1",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
-    "id": "playsports4:1785999600000:133mms5",
+    "id": "playsports4:1785999360000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1785999600000,
-    "end": 1786003200000,
+    "start": 1785999360000,
+    "end": 1786002900000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -105,37 +136,53 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636042~~2FEP050375640281,imi:1eca2b95c23ee6d3f8ceb07d9a909802dbb3db2f"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636042~~2FEP050375640281,imi:1eca2b95c23ee6d3f8ceb07d9a909802dbb3db2f",
+      "episodeName": "Vlaanderen: MX2, Race 2",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
-    "id": "playsports4:1786003200000:133mms5",
+    "id": "playsports4:1786002900000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1786003200000,
-    "end": 1786006800000,
+    "start": 1786002900000,
+    "end": 1786006560000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33648608~~2FEP050375640279%2Cimi%3A417cb91fce940537b0b52c49976bd9749b14cfe9/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617805~~2FEP050375640283%2Cimi%3Ae460da7623325cd54691b2f6f7c0b0936b0d3b20/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 75640000,
-    "episode": 2026080279,
+    "episode": 2026080283,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33648608~~2FEP050375640279,imi:417cb91fce940537b0b52c49976bd9749b14cfe9"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617805~~2FEP050375640283,imi:e460da7623325cd54691b2f6f7c0b0936b0d3b20",
+      "episodeName": "Vlaanderen: MXGP, Race 2",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
-    "id": "playsports4:1786006800000:arbcat",
+    "id": "playsports4:1786006560000:arbcat",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule E",
-    "start": 1786006800000,
-    "end": 1786012440000,
+    "start": 1786006560000,
+    "end": 1786012260000,
     "description": "Verslag van de tweede race van de ePrix van Tokio, gereden in Tokio, Japan.",
     "category": [
       "Sport",
@@ -149,15 +196,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31804496~~2FEP063346410036,imi:34adbcf18fca50fd0ca9861c6e4a64d1e153eb1b"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31804496~~2FEP063346410036,imi:34adbcf18fca50fd0ca9861c6e4a64d1e153eb1b",
+      "episodeName": "ePrix van Tokio: Race 2",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F11055708~~2FSH063346410000"
     }
   },
   {
-    "id": "playsports4:1786012440000:arbc9f",
+    "id": "playsports4:1786012260000:arbc9f",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 3",
-    "start": 1786012440000,
-    "end": 1786016460000,
+    "start": 1786012260000,
+    "end": 1786016220000,
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "category": [
       "Sport",
@@ -171,15 +226,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33423299~~2FEP063235540037,imi:b3b7ee3c17714bb93cb4786225027b82b6030ed6"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33423299~~2FEP063235540037,imi:b3b7ee3c17714bb93cb4786225027b82b6030ed6",
+      "episodeName": "GP van Hongarije: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8181178~~2FSH063235540000"
     }
   },
   {
-    "id": "playsports4:1786016460000:arbc9e",
+    "id": "playsports4:1786016220000:arbc9e",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 2",
-    "start": 1786016460000,
-    "end": 1786020960000,
+    "start": 1786016220000,
+    "end": 1786020720000,
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "category": [
       "Sport",
@@ -193,15 +256,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32993067~~2FEP063235510038,imi:94dcd88ee55d2144a46918b405841a0c05b45ec3"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32993067~~2FEP063235510038,imi:94dcd88ee55d2144a46918b405841a0c05b45ec3",
+      "episodeName": "GP van Hongarije: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13929005~~2FSH063235510000"
     }
   },
   {
-    "id": "playsports4:1786020960000:12oeiq8",
+    "id": "playsports4:1786020720000:12oeiq8",
     "channel": "playsports4",
     "title": "Porsche Supercup",
-    "start": 1786020960000,
-    "end": 1786024200000,
+    "start": 1786020720000,
+    "end": 1786024020000,
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "category": [
       "Sport",
@@ -215,37 +286,53 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33469192~~2FEP029391360152,imi:8900934044e068495a3ded08fdaa552795c59808"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33469192~~2FEP029391360152,imi:8900934044e068495a3ded08fdaa552795c59808",
+      "episodeName": "Boedapest: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fe2aad96f-3aca-439a-b860-986c69d1a942"
     }
   },
   {
-    "id": "playsports4:1786024200000:11oizv7",
+    "id": "playsports4:1786024020000:8a2n92",
     "channel": "playsports4",
-    "title": "Tennis: Mubadala Citi DC Open 2026",
-    "start": 1786024200000,
-    "end": 1786031400000,
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
+    "title": "Tennis",
+    "start": 1786024020000,
+    "end": 1786030080000,
+    "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
       "Tennis"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33679526~~2FEP065162500027%2Cimi%3Aac47a0ccb97621c98a2645aa34a0b7d39f6dbc58/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F935636~~2FSH028686360000~~2F518523045%2Cimi%3Adb754f22f83da55009f4f9423fe056f56edd6b22/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 62500000,
-    "episode": 2026080127,
+    "season": 86360000,
+    "episode": 518523045,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33679526~~2FEP065162500027,imi:ac47a0ccb97621c98a2645aa34a0b7d39f6dbc58"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F935636~~2FSH028686360000~~2F518523045,imi:db754f22f83da55009f4f9423fe056f56edd6b22",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F71818c23-56e7-41c1-8def-9b99474678e7"
     }
   },
   {
-    "id": "playsports4:1786031400000:11oizv7",
+    "id": "playsports4:1786030080000:11oizv7",
     "channel": "playsports4",
     "title": "Tennis: Mubadala Citi DC Open 2026",
-    "start": 1786031400000,
-    "end": 1786038660000,
+    "start": 1786030080000,
+    "end": 1786035480000,
     "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
     "category": [
       "Sport",
@@ -259,15 +346,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33679530~~2FEP065162500028,imi:228b871c3b331da1f0780b84e45112684080c249"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33679530~~2FEP065162500028,imi:228b871c3b331da1f0780b84e45112684080c249",
+      "episodeName": "Dag 5",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32887228~~2FSH065162500000"
     }
   },
   {
-    "id": "playsports4:1786038660000:133mms5",
+    "id": "playsports4:1786035480000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1786038660000,
-    "end": 1786042260000,
+    "start": 1786035480000,
+    "end": 1786039080000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -281,15 +376,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636027~~2FEP050375640280,imi:2ee71b7d9b30d2a22122adc67c2ef8c4c3767647"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636027~~2FEP050375640280,imi:2ee71b7d9b30d2a22122adc67c2ef8c4c3767647",
+      "episodeName": "Vlaanderen: MX2, Race 1",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
-    "id": "playsports4:1786042260000:133mms5",
+    "id": "playsports4:1786039080000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1786042260000,
-    "end": 1786045860000,
+    "start": 1786039080000,
+    "end": 1786042560000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -303,15 +406,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636034~~2FEP050375640282,imi:321835b2736c2b08b7d27cb7f436b5bfd01607ec"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636034~~2FEP050375640282,imi:321835b2736c2b08b7d27cb7f436b5bfd01607ec",
+      "episodeName": "Vlaanderen: MXGP, Race 1",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
-    "id": "playsports4:1786045860000:133mms5",
+    "id": "playsports4:1786042560000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1786045860000,
-    "end": 1786049460000,
+    "start": 1786042560000,
+    "end": 1786046160000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -325,51 +436,75 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636042~~2FEP050375640281,imi:34657871ee7aa38c8703bee0ba4f2344be93ac1d"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636042~~2FEP050375640281,imi:34657871ee7aa38c8703bee0ba4f2344be93ac1d",
+      "episodeName": "Vlaanderen: MX2, Race 2",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
-    "id": "playsports4:1786049460000:133mms5",
+    "id": "playsports4:1786046160000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1786049460000,
-    "end": 1786053060000,
+    "start": 1786046160000,
+    "end": 1786049940000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33648608~~2FEP050375640279%2Cimi%3A4b8f73cc8f8badba4b1b0c2b58fe24b87a058656/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617805~~2FEP050375640283%2Cimi%3A4cd61c2fc3f8d349364c2e4fcb14f24ea343ef77/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 75640000,
-    "episode": 2026080279,
+    "episode": 2026080283,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33648608~~2FEP050375640279,imi:4b8f73cc8f8badba4b1b0c2b58fe24b87a058656"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617805~~2FEP050375640283,imi:4cd61c2fc3f8d349364c2e4fcb14f24ea343ef77",
+      "episodeName": "Vlaanderen: MXGP, Race 2",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
-    "id": "playsports4:1786053060000:11oizv7",
+    "id": "playsports4:1786049940000:8a2n92",
     "channel": "playsports4",
-    "title": "Tennis: Mubadala Citi DC Open 2026",
-    "start": 1786053060000,
-    "end": 1786062000000,
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
+    "title": "Tennis",
+    "start": 1786049940000,
+    "end": 1786058640000,
+    "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
       "Tennis"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33679540~~2FEP065162500029%2Cimi%3A478203fb98718d819e493666d7ea8a83846e94ed/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F935636~~2FSH028686360000~~2F518523051%2Cimi%3A5a29fb6abb7205509367f96b21edd206c361a681/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 62500000,
-    "episode": 2026080229,
+    "season": 86360000,
+    "episode": 518523051,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33679540~~2FEP065162500029,imi:478203fb98718d819e493666d7ea8a83846e94ed"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F935636~~2FSH028686360000~~2F518523051,imi:5a29fb6abb7205509367f96b21edd206c361a681",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F71818c23-56e7-41c1-8def-9b99474678e7"
     }
   }
 ]

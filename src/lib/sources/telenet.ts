@@ -22,6 +22,9 @@ export interface TelenetEvent {
   startTime: number;
   endTime: number;
   title: string;
+  /** Echte wedstrijdnaam, bv. "Manchester United - Nottingham Forest". */
+  seriesName?: string;
+  isSportsTeamEvent?: boolean;
 }
 
 interface TelenetDetail {
@@ -33,6 +36,9 @@ interface TelenetDetail {
   episodeNumber?: number | string;
   actors?: string[];
   title?: string;
+  productionDate?: string;
+  isSportsTeamEvent?: boolean;
+  parentSeriesId?: string;
 }
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36';
@@ -149,7 +155,14 @@ export async function importChannelDay(
       season: detail.seasonNumber ? Number(detail.seasonNumber) || null : null,
       episode: detail.episodeNumber ? Number(detail.episodeNumber) || null : null,
       image: isPlaceholder ? null : posterUrl(ev.id),
-      meta: { eventId: ev.id },
+      meta: {
+        eventId: ev.id,
+        episodeName: detail.episodeName ?? ev.seriesName ?? null,
+        genres: Array.isArray(detail.genres) ? detail.genres : [],
+        productionDate: detail.productionDate ?? null,
+        isSportsTeamEvent: Boolean(detail.isSportsTeamEvent ?? ev.isSportsTeamEvent),
+        parentSeriesId: detail.parentSeriesId ?? null,
+      },
     });
     if (p) programmes.push(p);
   }

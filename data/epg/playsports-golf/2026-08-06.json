@@ -18,7 +18,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30121156~~2FEP043415830037,imi:3967cd5804a82a45b34caa02406aa0ef19b89ad5"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30121156~~2FEP043415830037,imi:3967cd5804a82a45b34caa02406aa0ef19b89ad5",
+      "episodeName": "OFX Irish Legends",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22396263~~2FSH043415830000"
     }
   },
   {
@@ -40,7 +48,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30292273~~2FEP036179500034,imi:be60970ca0facb1ed189ad96321a6852c02cd9cb"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30292273~~2FEP036179500034,imi:be60970ca0facb1ed189ad96321a6852c02cd9cb",
+      "episodeName": "BMW Charity Pro-Am",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179500000"
     }
   },
   {
@@ -62,7 +78,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604749~~2FEP055230080095,imi:5724eae46f64881cb77c0ff6a3ebc28b9ec68544"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604749~~2FEP055230080095,imi:5724eae46f64881cb77c0ff6a3ebc28b9ec68544",
+      "episodeName": "Rocket Classic",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
     }
   },
   {
@@ -84,7 +108,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604777~~2FEP036138130145,imi:5cabc8fcfba20850dab1624c3c246615c983696c"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604777~~2FEP036138130145,imi:5cabc8fcfba20850dab1624c3c246615c983696c",
+      "episodeName": "Portugal Invitational",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1dd41e22-12a3-4fcf-b680-4cc67156fcbf"
     }
   },
   {
@@ -106,7 +138,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33561251~~2FEP050323180063,imi:7148ba868b7ba889a633956c9980130f6cbb606e"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33561251~~2FEP050323180063,imi:7148ba868b7ba889a633956c9980130f6cbb606e",
+      "episodeName": "ISPS HANDA Women's Scottish Open",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F12733886~~2FSH050323180000"
     }
   },
   {
@@ -128,7 +168,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30726198~~2FEP059094220010,imi:801b9d3e3917690a966fa399e2a551782d0cf3d0"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30726198~~2FEP059094220010,imi:801b9d3e3917690a966fa399e2a551782d0cf3d0",
+      "episodeName": "Dag 3",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28883306~~2FSH059094220000"
     }
   },
   {
@@ -150,7 +198,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30726208~~2FEP059094220012,imi:610daeeb608001b29edd04682c8d64ba9579ed6f"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30726208~~2FEP059094220012,imi:610daeeb608001b29edd04682c8d64ba9579ed6f",
+      "episodeName": "Dag 4",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28883306~~2FSH059094220000"
     }
   },
   {
@@ -159,20 +215,28 @@
     "title": "PGA Tour",
     "start": 1786003200000,
     "end": 1786014000000,
-    "description": "Verslag van de PGA Tour.",
+    "description": "Verslag van de vierde en laatste dag van de Rocket Classic, gespeeld in Detroit, Michigan.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616443~~2FEP034450033459%2Cimi%3Af8a3a67b7fe18053e4ac6a22c35936af22172555/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32044609~~2FEP034450033440%2Cimi%3Afd28f17a569b9892304318406309f3c08a0498a0/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 50030000,
-    "episode": 2026080259,
+    "episode": 2026080240,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616443~~2FEP034450033459,imi:f8a3a67b7fe18053e4ac6a22c35936af22172555"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32044609~~2FEP034450033440,imi:fd28f17a569b9892304318406309f3c08a0498a0",
+      "episodeName": "Rocket Classic: Dag 4",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
     }
   },
   {
@@ -194,7 +258,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604749~~2FEP055230080095,imi:f53947baa84b0d529b9d4a724df97bbb3cd46fe9"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604749~~2FEP055230080095,imi:f53947baa84b0d529b9d4a724df97bbb3cd46fe9",
+      "episodeName": "Rocket Classic",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
     }
   },
   {
@@ -216,7 +288,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604777~~2FEP036138130145,imi:2c5bc6151e6235f965f0cbb148ed1a14fe0b40b7"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604777~~2FEP036138130145,imi:2c5bc6151e6235f965f0cbb148ed1a14fe0b40b7",
+      "episodeName": "Portugal Invitational",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1dd41e22-12a3-4fcf-b680-4cc67156fcbf"
     }
   },
   {
@@ -238,7 +318,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33605408~~2FEP042378310286,imi:08c35cbe8c19eac32f77bb872ffc9cdebff4e3d5"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33605408~~2FEP042378310286,imi:08c35cbe8c19eac32f77bb872ffc9cdebff4e3d5",
+      "episodeName": "PIF London Championship: Dag 1",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8177536~~2FSH042378310000"
     }
   },
   {
@@ -260,7 +348,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30564431~~2FEP036113230274,imi:2eda93bd245a845dc2991d0d38d3267795da855a"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30564431~~2FEP036113230274,imi:2eda93bd245a845dc2991d0d38d3267795da855a",
+      "episodeName": "Aflevering 53",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
     }
   },
   {
@@ -282,7 +378,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30846267~~2FEP044006020004,imi:3de34ea1707acee5d61fb0e39c394db89dea0d0b"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30846267~~2FEP044006020004,imi:3de34ea1707acee5d61fb0e39c394db89dea0d0b",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22669161~~2FSH044006020000"
     }
   },
   {
@@ -304,7 +408,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604749~~2FEP055230080095,imi:9aba601b0daa481a949e13c3b8e92d071f47f374"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33604749~~2FEP055230080095,imi:9aba601b0daa481a949e13c3b8e92d071f47f374",
+      "episodeName": "Rocket Classic",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
     }
   },
   {
@@ -326,7 +438,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32044762~~2FEP034450033441,imi:72ee9f1fa77089e324b75463079b004037dd34a4"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32044762~~2FEP034450033441,imi:72ee9f1fa77089e324b75463079b004037dd34a4",
+      "episodeName": "Wyndham Championship: Dag 1",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
     }
   }
 ]

@@ -1,14 +1,15 @@
 [
   {
-    "id": "sport:playsports1:1785971160000:xykime",
+    "id": "sport:playsports1:1785971700000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1785971160000,
+    "sport": null,
+    "start": 1785971700000,
     "end": 1785992400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 1"
     ],
@@ -21,13 +22,14 @@
   {
     "id": "sport:playsports1:1785992400000:1prlzbg",
     "externalId": null,
-    "title": "Premier League",
-    "home": null,
-    "away": null,
+    "title": "Manchester United - Nottingham Forest",
+    "home": "Manchester United",
+    "away": "Nottingham Forest",
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785992400000,
     "end": 1785998700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 1"
     ],
@@ -40,13 +42,14 @@
   {
     "id": "sport:playsports1:1785998700000:1prlzbg",
     "externalId": null,
-    "title": "Premier League",
-    "home": null,
-    "away": null,
+    "title": "Newcastle United - West Ham United",
+    "home": "Newcastle United",
+    "away": "West Ham United",
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785998700000,
     "end": 1786004820000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 1"
     ],
@@ -59,13 +62,14 @@
   {
     "id": "sport:playsports1:1786004820000:1prlzbg",
     "externalId": null,
-    "title": "Premier League",
-    "home": null,
-    "away": null,
+    "title": "Crystal Palace - Arsenal",
+    "home": "Crystal Palace",
+    "away": "Arsenal",
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1786004820000,
     "end": 1786011780000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 1"
     ],
@@ -78,13 +82,14 @@
   {
     "id": "sport:playsports1:1786011780000:1prlzbg",
     "externalId": null,
-    "title": "Premier League",
-    "home": null,
-    "away": null,
+    "title": "Tottenham Hotspur - Everton",
+    "home": "Tottenham Hotspur",
+    "away": "Everton",
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1786011780000,
     "end": 1786018560000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 1"
     ],
@@ -97,13 +102,14 @@
   {
     "id": "sport:playsports1:1786018560000:11wg5yb",
     "externalId": null,
-    "title": "Bundesliga",
-    "home": null,
-    "away": null,
+    "title": "SC Paderborn 07 - VfL Wolfsburg",
+    "home": "SC Paderborn 07",
+    "away": "VfL Wolfsburg",
     "competition": "Bundesliga",
+    "sport": "Voetbal",
     "start": 1786018560000,
     "end": 1786027380000,
-    "status": "aankomend",
+    "status": "live",
     "platforms": [
       "Play Sports 1"
     ],
@@ -120,8 +126,9 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1786027380000,
-    "end": 1786028220000,
+    "end": 1786028280000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 1"
@@ -133,14 +140,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports1:1786028220000:fly4em",
+    "id": "sport:playsports1:1786028280000:fly4em",
     "externalId": null,
-    "title": "Bundesliga Highlights",
+    "title": "Aflevering 34",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
-    "start": 1786028220000,
-    "end": 1786031340000,
+    "sport": "Voetbal",
+    "start": 1786028280000,
+    "end": 1786031460000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 1"
@@ -152,14 +160,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports1:1786031340000:1prlzbg",
+    "id": "sport:playsports1:1786031460000:1prlzbg",
     "externalId": null,
-    "title": "Premier League",
-    "home": null,
-    "away": null,
+    "title": "Crystal Palace - Arsenal",
+    "home": "Crystal Palace",
+    "away": "Arsenal",
     "competition": "Premier League",
-    "start": 1786031340000,
-    "end": 1786038240000,
+    "sport": "Voetbal",
+    "start": 1786031460000,
+    "end": 1786038480000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 1"
@@ -171,14 +180,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports1:1786038240000:rkyq7n",
+    "id": "sport:playsports1:1786038480000:rkyq7n",
     "externalId": null,
     "title": "Pep Guardiola: How one man changed the Premier League forever",
     "home": null,
     "away": null,
     "competition": "Premier League",
-    "start": 1786038240000,
-    "end": 1786039140000,
+    "sport": "Voetbal",
+    "start": 1786038480000,
+    "end": 1786039440000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 1"
@@ -190,14 +200,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports1:1786039140000:15n7rvd",
+    "id": "sport:playsports1:1786039440000:15n7rvd",
     "externalId": null,
-    "title": "Under the Skin",
+    "title": "Arsenal, Premier League champions",
     "home": null,
     "away": null,
     "competition": "Premier League",
-    "start": 1786039140000,
-    "end": 1786039740000,
+    "sport": "Voetbal",
+    "start": 1786039440000,
+    "end": 1786040100000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 1"
@@ -209,14 +220,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports1:1786039740000:amnfa6",
+    "id": "sport:playsports1:1786040100000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
-    "start": 1786039740000,
-    "end": 1786042860000,
+    "sport": "Voetbal",
+    "start": 1786040100000,
+    "end": 1786043220000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 1"
@@ -228,14 +240,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports1:1786042860000:1prlzbg",
+    "id": "sport:playsports1:1786043220000:1prlzbg",
     "externalId": null,
-    "title": "Premier League",
-    "home": null,
-    "away": null,
+    "title": "Everton - Liverpool",
+    "home": "Everton",
+    "away": "Liverpool",
     "competition": "Premier League",
-    "start": 1786042860000,
-    "end": 1786049460000,
+    "sport": "Voetbal",
+    "start": 1786043220000,
+    "end": 1786050000000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 1"
@@ -247,14 +260,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports1:1786049460000:11wg5yb",
+    "id": "sport:playsports1:1786050000000:11wg5yb",
     "externalId": null,
-    "title": "Bundesliga",
-    "home": null,
-    "away": null,
+    "title": "Bayern München - 1. FC Köln",
+    "home": "Bayern München",
+    "away": "1. FC Köln",
     "competition": "Bundesliga",
-    "start": 1786049460000,
-    "end": 1786057380000,
+    "sport": "Voetbal",
+    "start": 1786050000000,
+    "end": 1786057920000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 1"
@@ -272,9 +286,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785967200000,
     "end": 1785988800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 2"
     ],
@@ -291,9 +306,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785988800000,
     "end": 1786010400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 2"
     ],
@@ -310,9 +326,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786010400000,
     "end": 1786032000000,
-    "status": "aankomend",
+    "status": "live",
     "platforms": [
       "Play Sports 2"
     ],
@@ -329,6 +346,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786032000000,
     "end": 1786053600000,
     "status": "aankomend",
@@ -342,15 +360,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1785969840000:1va4v2m",
+    "id": "sport:playsports3:1785969600000:1va4v2m",
     "externalId": null,
-    "title": "Eredivisie",
-    "home": null,
-    "away": null,
+    "title": "PSV - AZ",
+    "home": "PSV",
+    "away": "AZ",
     "competition": "Eredivisie",
-    "start": 1785969840000,
-    "end": 1785976200000,
-    "status": "aankomend",
+    "sport": "Voetbal",
+    "start": 1785969600000,
+    "end": 1785975900000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 3"
     ],
@@ -361,15 +380,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1785976200000:xykime",
+    "id": "sport:playsports3:1785975900000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1785976200000,
-    "end": 1785993300000,
-    "status": "aankomend",
+    "sport": null,
+    "start": 1785975900000,
+    "end": 1785995700000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 3"
     ],
@@ -382,13 +402,14 @@
   {
     "id": "sport:playsports3:1785995700000:ear1gl",
     "externalId": null,
-    "title": "UEFA Europa League",
-    "home": null,
-    "away": null,
+    "title": "Finale: SC Freiburg - Aston Villa",
+    "home": "Finale: SC Freiburg",
+    "away": "Aston Villa",
     "competition": "UEFA Europa League",
+    "sport": "Voetbal",
     "start": 1785995700000,
     "end": 1786002240000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 3"
     ],
@@ -401,13 +422,14 @@
   {
     "id": "sport:playsports3:1786002240000:1va4v2m",
     "externalId": null,
-    "title": "Eredivisie",
-    "home": null,
-    "away": null,
+    "title": "Feyenoord - FC Groningen",
+    "home": "Feyenoord",
+    "away": "FC Groningen",
     "competition": "Eredivisie",
+    "sport": "Voetbal",
     "start": 1786002240000,
-    "end": 1786008480000,
-    "status": "aankomend",
+    "end": 1786008360000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 3"
     ],
@@ -418,15 +440,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1786008480000:1va4v2m",
+    "id": "sport:playsports3:1786008360000:1va4v2m",
     "externalId": null,
-    "title": "Eredivisie",
-    "home": null,
-    "away": null,
+    "title": "Feyenoord - Ajax",
+    "home": "Feyenoord",
+    "away": "Ajax",
     "competition": "Eredivisie",
-    "start": 1786008480000,
-    "end": 1786014840000,
-    "status": "aankomend",
+    "sport": "Voetbal",
+    "start": 1786008360000,
+    "end": 1786014720000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 3"
     ],
@@ -437,15 +460,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1786014840000:1va4v2m",
+    "id": "sport:playsports3:1786014720000:1va4v2m",
     "externalId": null,
-    "title": "Eredivisie",
-    "home": null,
-    "away": null,
+    "title": "PSV - AZ",
+    "home": "PSV",
+    "away": "AZ",
     "competition": "Eredivisie",
-    "start": 1786014840000,
+    "sport": "Voetbal",
+    "start": 1786014720000,
     "end": 1786021200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 3"
     ],
@@ -458,13 +482,14 @@
   {
     "id": "sport:playsports3:1786021200000:1nnswin",
     "externalId": null,
-    "title": "UCI ProSeries Mannen",
+    "title": "Vuelta a Burgos: Etappe 3",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Wielrennen",
     "start": 1786021200000,
     "end": 1786028400000,
-    "status": "aankomend",
+    "status": "live",
     "platforms": [
       "Play Sports 3"
     ],
@@ -475,90 +500,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1786028400000:133mms5",
-    "externalId": null,
-    "title": "FIM Motocross World Championship",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786028400000,
-    "end": 1786029000000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786029000000:133mms5",
-    "externalId": null,
-    "title": "FIM Motocross World Championship",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786029000000,
-    "end": 1786029720000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786029720000:99kgtm",
-    "externalId": null,
-    "title": "Johan Cruijff Schaal",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786029720000,
-    "end": 1786037100000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786037100000:16v40h",
-    "externalId": null,
-    "title": "UEFA Conference League",
-    "home": null,
-    "away": null,
-    "competition": "UEFA Conference League",
-    "start": 1786037100000,
-    "end": 1786044300000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786044300000:i67pjl",
+    "id": "sport:playsports3:1786028400000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1786044300000,
-    "end": 1786046400000,
+    "sport": null,
+    "start": 1786028400000,
+    "end": 1786030320000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 3"
@@ -570,14 +520,15 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1786046400000:uf67wi",
+    "id": "sport:playsports3:1786030320000:16v40h",
     "externalId": null,
-    "title": "Beachvolleybal",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786046400000,
-    "end": 1786049400000,
+    "title": "Finale: Crystal Palace - Rayo Vallecano",
+    "home": "Finale: Crystal Palace",
+    "away": "Rayo Vallecano",
+    "competition": "UEFA Conference League",
+    "sport": "Voetbal",
+    "start": 1786030320000,
+    "end": 1786037580000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 3"
@@ -585,18 +536,19 @@
     "channels": [
       "Play Sports 3"
     ],
-    "description": null,
+    "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1786049400000:uf67wi",
+    "id": "sport:playsports3:1786037580000:ear1gl",
     "externalId": null,
-    "title": "Beachvolleybal",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786049400000,
-    "end": 1786052400000,
+    "title": "Finale: SC Freiburg - Aston Villa",
+    "home": "Finale: SC Freiburg",
+    "away": "Aston Villa",
+    "competition": "UEFA Europa League",
+    "sport": "Voetbal",
+    "start": 1786037580000,
+    "end": 1786044300000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 3"
@@ -604,18 +556,19 @@
     "channels": [
       "Play Sports 3"
     ],
-    "description": null,
+    "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1786052400000:99kgtm",
+    "id": "sport:playsports3:1786044300000:99kgtm",
     "externalId": null,
-    "title": "Johan Cruijff Schaal",
-    "home": null,
-    "away": null,
+    "title": "PSV - AZ",
+    "home": "PSV",
+    "away": "AZ",
     "competition": null,
-    "start": 1786052400000,
-    "end": 1786059780000,
+    "sport": "Voetbal",
+    "start": 1786044300000,
+    "end": 1786052040000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 3"
@@ -627,15 +580,36 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1785968460000:binlm4",
+    "id": "sport:playsports3:1786052040000:1va4v2m",
     "externalId": null,
-    "title": "Hockey Pro League",
-    "home": null,
-    "away": null,
-    "competition": "Jupiler Pro League",
-    "start": 1785968460000,
-    "end": 1785975900000,
+    "title": "PSV - AZ",
+    "home": "PSV",
+    "away": "AZ",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1786052040000,
+    "end": 1786058400000,
     "status": "aankomend",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "description": "Verslag van de wedstrijd PSV - AZ uit de 26e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:playsports4:1785968400000:binlm4",
+    "externalId": null,
+    "title": "België - Australië",
+    "home": "België",
+    "away": "Australië",
+    "competition": "Jupiler Pro League",
+    "sport": "Hockey",
+    "start": 1785968400000,
+    "end": 1785975900000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -652,9 +626,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785975900000,
     "end": 1785992400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -667,13 +642,14 @@
   {
     "id": "sport:playsports4:1785992400000:133mms5",
     "externalId": null,
-    "title": "FIM Motocross World Championship",
+    "title": "Vlaanderen: MX2, Race 1",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785992400000,
-    "end": 1785996000000,
-    "status": "aankomend",
+    "end": 1785995880000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -684,15 +660,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1785996000000:133mms5",
+    "id": "sport:playsports4:1785995880000:133mms5",
     "externalId": null,
-    "title": "FIM Motocross World Championship",
+    "title": "Vlaanderen: MXGP, Race 1",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1785996000000,
-    "end": 1785999600000,
-    "status": "aankomend",
+    "sport": null,
+    "start": 1785995880000,
+    "end": 1785999360000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -703,15 +680,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1785999600000:133mms5",
+    "id": "sport:playsports4:1785999360000:133mms5",
     "externalId": null,
-    "title": "FIM Motocross World Championship",
+    "title": "Vlaanderen: MX2, Race 2",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1785999600000,
-    "end": 1786003200000,
-    "status": "aankomend",
+    "sport": null,
+    "start": 1785999360000,
+    "end": 1786002900000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -722,15 +700,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1786003200000:133mms5",
+    "id": "sport:playsports4:1786002900000:133mms5",
     "externalId": null,
-    "title": "FIM Motocross World Championship",
+    "title": "Vlaanderen: MXGP, Race 2",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1786003200000,
-    "end": 1786006800000,
-    "status": "aankomend",
+    "sport": null,
+    "start": 1786002900000,
+    "end": 1786006560000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -741,15 +720,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1786006800000:arbcat",
+    "id": "sport:playsports4:1786006560000:arbcat",
     "externalId": null,
-    "title": "The Paddock Live: Formule E",
+    "title": "ePrix van Tokio: Race 2",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1786006800000,
-    "end": 1786012440000,
-    "status": "aankomend",
+    "sport": "Motorsport",
+    "start": 1786006560000,
+    "end": 1786012260000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -760,15 +740,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1786012440000:arbc9f",
+    "id": "sport:playsports4:1786012260000:arbc9f",
     "externalId": null,
-    "title": "The Paddock Live: Formule 3",
+    "title": "GP van Hongarije: Race",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1786012440000,
-    "end": 1786016460000,
-    "status": "aankomend",
+    "sport": "Motorsport",
+    "start": 1786012260000,
+    "end": 1786016220000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -779,15 +760,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1786016460000:arbc9e",
+    "id": "sport:playsports4:1786016220000:arbc9e",
     "externalId": null,
-    "title": "The Paddock Live: Formule 2",
+    "title": "GP van Hongarije: Race",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1786016460000,
-    "end": 1786020960000,
-    "status": "aankomend",
+    "sport": "Motorsport",
+    "start": 1786016220000,
+    "end": 1786020720000,
+    "status": "afgelopen",
     "platforms": [
       "Play Sports 4"
     ],
@@ -798,15 +780,16 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1786020960000:12oeiq8",
+    "id": "sport:playsports4:1786020720000:12oeiq8",
     "externalId": null,
-    "title": "Porsche Supercup",
+    "title": "Boedapest: Race",
     "home": null,
     "away": null,
     "competition": null,
-    "start": 1786020960000,
-    "end": 1786024200000,
-    "status": "aankomend",
+    "sport": "Motorsport",
+    "start": 1786020720000,
+    "end": 1786024020000,
+    "status": "live",
     "platforms": [
       "Play Sports 4"
     ],
@@ -817,14 +800,35 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1786024200000:11oizv7",
+    "id": "sport:playsports4:1786024020000:8a2n92",
     "externalId": null,
-    "title": "Tennis: Mubadala Citi DC Open 2026",
+    "title": "Tennis",
     "home": null,
     "away": null,
     "competition": "Tennis",
-    "start": 1786024200000,
-    "end": 1786031400000,
+    "sport": "Tennis",
+    "start": 1786024020000,
+    "end": 1786030080000,
+    "status": "aankomend",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "description": "Live verslag van verschillende tennisevenementen.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:playsports4:1786030080000:11oizv7",
+    "externalId": null,
+    "title": "Dag 5",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1786030080000,
+    "end": 1786035480000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 4"
@@ -836,14 +840,95 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1786031400000:11oizv7",
+    "id": "sport:playsports4:1786035480000:133mms5",
     "externalId": null,
-    "title": "Tennis: Mubadala Citi DC Open 2026",
+    "title": "Vlaanderen: MX2, Race 1",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1786035480000,
+    "end": 1786039080000,
+    "status": "aankomend",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:playsports4:1786039080000:133mms5",
+    "externalId": null,
+    "title": "Vlaanderen: MXGP, Race 1",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1786039080000,
+    "end": 1786042560000,
+    "status": "aankomend",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:playsports4:1786042560000:133mms5",
+    "externalId": null,
+    "title": "Vlaanderen: MX2, Race 2",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1786042560000,
+    "end": 1786046160000,
+    "status": "aankomend",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:playsports4:1786046160000:133mms5",
+    "externalId": null,
+    "title": "Vlaanderen: MXGP, Race 2",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1786046160000,
+    "end": 1786049940000,
+    "status": "aankomend",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:playsports4:1786049940000:8a2n92",
+    "externalId": null,
+    "title": "Tennis",
     "home": null,
     "away": null,
     "competition": "Tennis",
-    "start": 1786031400000,
-    "end": 1786038660000,
+    "sport": "Tennis",
+    "start": 1786049940000,
+    "end": 1786058640000,
     "status": "aankomend",
     "platforms": [
       "Play Sports 4"
@@ -851,102 +936,7 @@
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports4:1786038660000:133mms5",
-    "externalId": null,
-    "title": "FIM Motocross World Championship",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786038660000,
-    "end": 1786042260000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports4:1786042260000:133mms5",
-    "externalId": null,
-    "title": "FIM Motocross World Championship",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786042260000,
-    "end": 1786045860000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports4:1786045860000:133mms5",
-    "externalId": null,
-    "title": "FIM Motocross World Championship",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786045860000,
-    "end": 1786049460000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports4:1786049460000:133mms5",
-    "externalId": null,
-    "title": "FIM Motocross World Championship",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "start": 1786049460000,
-    "end": 1786053060000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports4:1786053060000:11oizv7",
-    "externalId": null,
-    "title": "Tennis: Mubadala Citi DC Open 2026",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "start": 1786053060000,
-    "end": 1786062000000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
+    "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg"
   },
   {
@@ -956,9 +946,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785967200000,
     "end": 1785988800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Premier League"
     ],
@@ -975,9 +966,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785988800000,
     "end": 1786010400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Premier League"
     ],
@@ -994,9 +986,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786010400000,
     "end": 1786032000000,
-    "status": "aankomend",
+    "status": "live",
     "platforms": [
       "Play Sports Premier League"
     ],
@@ -1013,6 +1006,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786032000000,
     "end": 1786053600000,
     "status": "aankomend",
@@ -1028,13 +1022,14 @@
   {
     "id": "sport:playsports-golf:1785974400000:1869fxq",
     "externalId": null,
-    "title": "EPGA Legends Tour Hoogtepunten",
+    "title": "OFX Irish Legends",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785974400000,
     "end": 1785978000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1047,13 +1042,14 @@
   {
     "id": "sport:playsports-golf:1785978000000:rnzpmx",
     "externalId": null,
-    "title": "PGA Korn Ferry Tour Hoogtepunten",
-    "home": null,
-    "away": null,
+    "title": "BMW Charity Pro-Am",
+    "home": "BMW Charity Pro",
+    "away": "Am",
     "competition": null,
+    "sport": "Golf",
     "start": 1785978000000,
     "end": 1785981600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1066,13 +1062,14 @@
   {
     "id": "sport:playsports-golf:1785981600000:mkyqbr",
     "externalId": null,
-    "title": "PGA Tour Hoogtepunten",
+    "title": "Rocket Classic",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785981600000,
     "end": 1785985200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1085,13 +1082,14 @@
   {
     "id": "sport:playsports-golf:1785985200000:1oidiqx",
     "externalId": null,
-    "title": "PGA Champions Tour Hoogtepunten",
+    "title": "Portugal Invitational",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785985200000,
     "end": 1785988800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1104,13 +1102,14 @@
   {
     "id": "sport:playsports-golf:1785988800000:v0dpte",
     "externalId": null,
-    "title": "LPGA European Tour Hoogtepunten",
+    "title": "ISPS HANDA Women's Scottish Open",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785988800000,
     "end": 1785992340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1123,13 +1122,14 @@
   {
     "id": "sport:playsports-golf:1785992340000:tjzcs1",
     "externalId": null,
-    "title": "AIG Women's Open 2025",
+    "title": "Dag 3",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785992340000,
     "end": 1785997800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1142,13 +1142,14 @@
   {
     "id": "sport:playsports-golf:1785997800000:tjzcs1",
     "externalId": null,
-    "title": "AIG Women's Open 2025",
+    "title": "Dag 4",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785997800000,
     "end": 1786003200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1161,32 +1162,34 @@
   {
     "id": "sport:playsports-golf:1786003200000:1ehmmzr",
     "externalId": null,
-    "title": "PGA Tour",
+    "title": "Rocket Classic: Dag 4",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1786003200000,
     "end": 1786014000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de PGA Tour.",
+    "description": "Verslag van de vierde en laatste dag van de Rocket Classic, gespeeld in Detroit, Michigan.",
     "source": "epg"
   },
   {
     "id": "sport:playsports-golf:1786014000000:mkyqbr",
     "externalId": null,
-    "title": "PGA Tour Hoogtepunten",
+    "title": "Rocket Classic",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1786014000000,
     "end": 1786017600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1199,13 +1202,14 @@
   {
     "id": "sport:playsports-golf:1786017600000:1oidiqx",
     "externalId": null,
-    "title": "PGA Champions Tour Hoogtepunten",
+    "title": "Portugal Invitational",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1786017600000,
     "end": 1786021200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1218,13 +1222,14 @@
   {
     "id": "sport:playsports-golf:1786021200000:u5yv5e",
     "externalId": null,
-    "title": "LPGA European Tour",
+    "title": "PIF London Championship: Dag 1",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1786021200000,
     "end": 1786035600000,
-    "status": "aankomend",
+    "status": "live",
     "platforms": [
       "Play Sports Golf"
     ],
@@ -1237,10 +1242,11 @@
   {
     "id": "sport:playsports-golf:1786035600000:36ys9t",
     "externalId": null,
-    "title": "PGA Tour - The Cut",
-    "home": "PGA Tour",
-    "away": "The Cut",
+    "title": "Aflevering 53",
+    "home": null,
+    "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1786035600000,
     "end": 1786037400000,
     "status": "aankomend",
@@ -1260,6 +1266,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1786037400000,
     "end": 1786039200000,
     "status": "aankomend",
@@ -1275,10 +1282,11 @@
   {
     "id": "sport:playsports-golf:1786039200000:mkyqbr",
     "externalId": null,
-    "title": "PGA Tour Hoogtepunten",
+    "title": "Rocket Classic",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1786039200000,
     "end": 1786042800000,
     "status": "aankomend",
@@ -1294,10 +1302,11 @@
   {
     "id": "sport:playsports-golf:1786042800000:1ehmmzr",
     "externalId": null,
-    "title": "PGA Tour",
+    "title": "Wyndham Championship: Dag 1",
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1786042800000,
     "end": 1786053600000,
     "status": "aankomend",
@@ -1317,9 +1326,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785961800000,
     "end": 1785994200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "DAZN 1"
     ],
@@ -1336,9 +1346,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785994200000,
     "end": 1786005000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "DAZN 1"
     ],
@@ -1355,9 +1366,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786005000000,
     "end": 1786015800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "DAZN 1"
     ],
@@ -1374,9 +1386,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786015800000,
     "end": 1786026600000,
-    "status": "aankomend",
+    "status": "live",
     "platforms": [
       "DAZN 1"
     ],
@@ -1393,6 +1406,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786026600000,
     "end": 1786037400000,
     "status": "aankomend",
@@ -1412,6 +1426,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786037400000,
     "end": 1786048200000,
     "status": "aankomend",
@@ -1431,6 +1446,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786048200000,
     "end": 1786080600000,
     "status": "aankomend",
@@ -1450,9 +1466,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785961800000,
     "end": 1785994200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "DAZN 2"
     ],
@@ -1469,9 +1486,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785994200000,
     "end": 1786005000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "DAZN 2"
     ],
@@ -1488,9 +1506,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786005000000,
     "end": 1786015800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "platforms": [
       "DAZN 2"
     ],
@@ -1507,9 +1526,10 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786015800000,
     "end": 1786026600000,
-    "status": "aankomend",
+    "status": "live",
     "platforms": [
       "DAZN 2"
     ],
@@ -1526,6 +1546,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786026600000,
     "end": 1786037400000,
     "status": "aankomend",
@@ -1545,6 +1566,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786037400000,
     "end": 1786048200000,
     "status": "aankomend",
@@ -1564,6 +1586,7 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1786048200000,
     "end": 1786080600000,
     "status": "aankomend",
