@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import type { ChannelWithStatus, EpgResponse, Programme, SearchHit, SportEvent } from '../lib/types';
 import { brusselsDateKey, brusselsDayStart } from '../lib/normalise';
 import { filterSearchIndex, airingsForTitle } from '../lib/match';
+import { downloadJSON, readJSONFile } from '../lib/sync';
 
 const TZ = 'Europe/Brussels';
 const HOUR = 3_600_000;
@@ -492,6 +493,15 @@ export default function EpgApp() {
     openHit(h);
   }
 
+  function importWatchlist(entries: WatchEntry[] | null, error?: string) {
+    if (error || !entries) {
+      setToast(error ?? 'Importeren mislukt');
+      return;
+    }
+    setWatchlist(entries);
+    setToast(`Kijklijst geïmporteerd (${entries.length} ${entries.length === 1 ? 'titel' : 'titels'})`);
+  }
+
   const hours = useMemo(() => Array.from({ length: 24 }, (_, i) => i), []);
 
   return (
@@ -681,6 +691,7 @@ export default function EpgApp() {
           now={now}
           onPick={openWatchAiring}
           onRemove={removeFromWatch}
+          onImport={importWatchlist}
           onClose={() => setWatchOpen(false)}
         />
       )}
@@ -906,6 +917,7 @@ function WatchlistPanel({
   now,
   onPick,
   onRemove,
+  onImport,
   onClose,
 }: {
   entries: WatchEntry[];
@@ -914,13 +926,33 @@ function WatchlistPanel({
   now: number;
   onPick: (h: SearchHit) => void;
   onRemove: (title: string) => void;
+  onImport: (entries: WatchEntry[] | null, error?: string) => void;
   onClose: () => void;
 }) {
+  const fileRef = useRef<HTMLInputElement | null>(null);
+
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose();
     document.addEventListener('keydown', onKey);
     return () => document.removeEventListener('keydown', onKey);
   }, [onClose]);
+
+  function exportList() {
+    downloadJSON('tvgids-kijklijst.json', { app: 'tvgids', version: 1, entries });
+  }
+
+  async function importList(file: File) {
+    try {
+      const data = (await readJSONFile(file)) as { entries?: unknown };
+      const raw = Array.isArray(data?.entries) ? (data.entries as unknown[]) : null;
+      if (!raw) throw new Error('Ongeldig bestand: "entries" ontbreekt');
+      const list = raw.filter(isWatchEntry);
+      if (list.length === 0) throw new Error('Geen geldige kijklijst-items gevonden');
+      onImport(list);
+    } catch (e) {
+      onImport(null, e instanceof Error ? e.message : 'Importeren mislukt');
+    }
+  }
 
   return (
     <div className="sheet-backdrop" onClick={onClose}>
@@ -930,6 +962,21 @@ function WatchlistPanel({
         <p className="sheet-desc muted" style={{ marginTop: 4 }}>
           Bewaarde programma's. Alle afleveringen in de gids worden gemarkeerd; één titel per item.
         </p>
+        <div className="sheet-toolbar">
+          <button className="btn" onClick={exportList}>Export</button>
+          <button className="btn" onClick={() => fileRef.current?.click()}>Import</button>
+          <input
+            ref={fileRef}
+            type="file"
+            accept="application/json,.json"
+            style={{ display: 'none' }}
+            onChange={(e) => {
+              const f = e.target.files?.[0];
+              if (f) void importList(f);
+              e.currentTarget.value = '';
+            }}
+          />
+        </div>
         {entries.length === 0 ? (
           <p className="sheet-desc" style={{ marginTop: 16 }}>
             Nog geen programma's bewaard. Tik in een programma of zoekresultaat op de ster.
@@ -975,6 +1022,23 @@ function WatchlistPanel({
 /* ---------------------------------------------------------------- */
 /* Zoekresultaat                                                     */
 /* ---------------------------------------------------------------- */
+
+function isWatchEntry(x: unknown): x is WatchEntry {
+  if (typeof x !== 'object' || x === null) return false;
+  const o = x as Record<string, unknown>;
+  const f = o.first as Record<string, unknown> | null;
+  return (
+    typeof o.title === 'string' &&
+    o.title.length > 0 &&
+    f !== null &&
+    typeof f === 'object' &&
+    typeof f.start === 'number' &&
+    typeof f.end === 'number' &&
+    typeof f.date === 'string' &&
+    typeof f.channelId === 'string' &&
+    typeof f.channelName === 'string'
+  );
+}
 
 function SearchRow({
   hit,

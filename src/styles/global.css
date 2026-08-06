@@ -1037,6 +1037,27 @@ select {
   flex-wrap: wrap;
 }
 
+.sheet-toolbar {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+
+.btn-divider {
+  width: 1px;
+  height: 22px;
+  background: var(--border);
+  align-self: center;
+}
+
+.sync-msg {
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+  align-self: center;
+}
+
 /* Kijklijst-paneel */
 .watch-panel h3 {
   display: flex;

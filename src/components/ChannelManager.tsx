@@ -1,5 +1,6 @@
-import { Fragment, useEffect, useMemo, useState } from 'react';
+import { Fragment, useEffect, useMemo, useRef, useState } from 'react';
 import type { ChannelWithStatus } from '../lib/types';
+import { downloadJSON, readJSONFile } from '../lib/sync';
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
 const SEL_KEY = 'tvgids.selected';
@@ -35,6 +36,14 @@ export default function ChannelManager() {
   const [query, setQuery] = useState('');
   const [sort, setSort] = useState<'order' | 'name'>('order');
   const [dragIdx, setDragIdx] = useState<number | null>(null);
+  const [msg, setMsg] = useState<string | null>(null);
+  const fileRef = useRef<HTMLInputElement | null>(null);
+
+  useEffect(() => {
+    if (!msg) return;
+    const t = setTimeout(() => setMsg(null), 4000);
+    return () => clearTimeout(t);
+  }, [msg]);
 
   useEffect(() => {
     fetch(`${BASE}data/channels.json`)
@@ -109,6 +118,26 @@ export default function ChannelManager() {
     setDragIdx(null);
   }
 
+  function exportOrder() {
+    downloadJSON('tvgids-zenders.json', { app: 'tvgids', version: 1, selected });
+    setMsg('Geëxporteerd');
+  }
+
+  async function importOrder(file: File) {
+    try {
+      const data = (await readJSONFile(file)) as { selected?: unknown };
+      const ids = Array.isArray(data?.selected)
+        ? (data.selected as unknown[]).filter((x): x is string => typeof x === 'string')
+        : null;
+      if (!ids) throw new Error('Ongeldig bestand: "selected" ontbreekt');
+      setSelected(ids);
+      save(SEL_KEY, ids);
+      setMsg(`${ids.length} zenders geïmporteerd`);
+    } catch (e) {
+      setMsg(e instanceof Error ? e.message : 'Importeren mislukt');
+    }
+  }
+
   const renderRow = (c: ChannelWithStatus) => {
     const on = selected.includes(c.id);
     return (
@@ -163,7 +192,26 @@ export default function ChannelManager() {
         </select>
         <button className="btn" onClick={() => setSelected(channels.filter((c) => c.active).map((c) => c.id))}>Alles aan</button>
         <button className="btn" onClick={() => setSelected([])}>Alles uit</button>
+        <span className="btn-divider" />
+        <button className="btn" onClick={exportOrder}>Export</button>
+        <button className="btn" onClick={() => fileRef.current?.click()}>Import</button>
+        <input
+          ref={fileRef}
+          type="file"
+          accept="application/json,.json"
+          style={{ display: 'none' }}
+          onChange={(e) => {
+            const f = e.target.files?.[0];
+            if (f) void importOrder(f);
+            e.currentTarget.value = '';
+          }}
+        />
         <span style={{ color: 'var(--muted)', fontSize: 13 }}>{selectedCount} actief</span>
+        {msg && (
+          <span className="sync-msg" role="status">
+            {msg}
+          </span>
+        )}
       </div>
 
       {sort === 'name' ? (
