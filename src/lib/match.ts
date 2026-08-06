@@ -96,17 +96,20 @@ export const SEARCH_CONTEXTS: Record<string, SearchContext> = {
 
 const DIACRITICS = /[\u0300-\u036f]/g;
 
+/** Stopwoorden: komen te vaak voor om nuttig te zijn als zoekterm. */
+const STOPWORDS = new Set(['de', 'het', 'een', 'en', 'in', 'van', 'op', 'aan', 'met', 'voor', 'bij', 'naar']);
+
 /** Normaliseer tekst: kleine letters, diakritische tekens verwijderd. */
 export function normalizeText(s: string): string {
   return s.normalize('NFD').replace(DIACRITICS, '').toLowerCase();
 }
 
-/** Splits een zoekopdracht in genormaliseerde woorden. */
+/** Splits een zoekopdracht in genormaliseerde woorden (zonder stopwoorden). */
 export function queryWords(q: string): string[] {
   return q
     .split(/\s+/)
     .map(normalizeText)
-    .filter((w) => w.length >= 2);
+    .filter((w) => w.length >= 2 && !STOPWORDS.has(w));
 }
 
 /** Context voor één woord (via exacte key of via term); valt terug op undefined. */
@@ -199,21 +202,53 @@ export function hitKey(h: SearchHit): string {
 /**
  * Filter een (statische) zoekindex op een zoekopdracht.
  * Client-zijde equivalent van de vroegere zoek-API.
+ *
+ * Drie stadia, telkens strenger:
+ * 1. Exacte term: titel is exact gelijk aan de zoekterm.
+ * 2. Titel-match: de term komt voor in de titel (vb. "Ronde van Vlaanderen").
+ * 3. Ruime match: de term komt ergens voor (titel, omschrijving, categorie, ...).
+ * Een stadium stopt zodra het resultaten oplevert.
  */
 export function filterSearchIndex(hits: SearchHit[], q: string, date?: string): SearchHit[] {
   const tokens = searchTokens(q);
   const constraints = constraintsFor(q);
-  const seen = new Set<string>();
-  const out: SearchHit[] = [];
-  for (const h of hits) {
-    if (date && h.date !== date) continue;
-    if (hitExcluded(h, constraints)) continue;
-    if (!matchesText([h.title, h.description, h.category.join(' '), h.competition, h.home, h.away], tokens)) continue;
-    const key = hitKey(h);
-    if (seen.has(key)) continue;
-    seen.add(key);
-    out.push(h);
+  const exactTitle = normalizeText(q);
+
+  function collect(pred: (h: SearchHit) => boolean, seen: Set<string>): SearchHit[] {
+    const out: SearchHit[] = [];
+    for (const h of hits) {
+      if (date && h.date !== date) continue;
+      if (hitExcluded(h, constraints)) continue;
+      if (!pred(h)) continue;
+      const key = hitKey(h);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      out.push(h);
+    }
+    return out;
   }
+
+  // Stadium 1: exacte term.
+  const seen = new Set<string>();
+  let out = collect((h) => normalizeText(h.title) === exactTitle, seen);
+  if (out.length > 0) {
+    out.sort((a, b) => a.start - b.start);
+    return out;
+  }
+
+  // Stadium 2: term in de titel.
+  const titleTokens = tokens.filter((t) => t.length >= 2);
+  out = collect((h) => titleTokens.some((t) => normalizeText(h.title).includes(t)), seen);
+  if (out.length > 0) {
+    out.sort((a, b) => a.start - b.start);
+    return out;
+  }
+
+  // Stadium 3: ruime substring-match over alle velden.
+  out = collect(
+    (h) => matchesText([h.title, h.description, h.category.join(' '), h.competition, h.home, h.away], tokens),
+    seen,
+  );
   out.sort((a, b) => {
     const at = titleMatchRank(a, tokens);
     const bt = titleMatchRank(b, tokens);
