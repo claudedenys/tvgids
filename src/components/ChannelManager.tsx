@@ -3,7 +3,6 @@ import type { ChannelWithStatus } from '../lib/types';
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
 const SEL_KEY = 'tvgids.selected';
-const FAV_KEY = 'tvgids.favs';
 
 function load<T>(key: string, fallback: T): T {
   try {
@@ -33,7 +32,6 @@ export default function ChannelManager() {
   const [channels, setChannels] = useState<ChannelWithStatus[]>([]);
   const [loading, setLoading] = useState(true);
   const [selected, setSelected] = useState<string[]>(() => load(SEL_KEY, []));
-  const [favs, setFavs] = useState<string[]>(() => load(FAV_KEY, []));
   const [query, setQuery] = useState('');
   const [sort, setSort] = useState<'order' | 'name'>('order');
   const [dragIdx, setDragIdx] = useState<number | null>(null);
@@ -53,7 +51,6 @@ export default function ChannelManager() {
   }, []);
 
   useEffect(() => save(SEL_KEY, selected), [selected]);
-  useEffect(() => save(FAV_KEY, favs), [favs]);
 
   const ordered = useMemo(() => {
     const orderMap = new Map(selected.map((id, i) => [id, i]));
@@ -112,10 +109,6 @@ export default function ChannelManager() {
     setDragIdx(null);
   }
 
-  function toggleFav(id: string) {
-    setFavs((prev) => (prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]));
-  }
-
   const selectedCount = selected.length;
 
   if (loading) return <div className="spinner" />;
@@ -148,7 +141,6 @@ export default function ChannelManager() {
           <div className="ch-list">
             {list.map((c) => {
               const on = selected.includes(c.id);
-              const fav = favs.includes(c.id);
               return (
                 <div
                   key={c.id}
@@ -174,14 +166,6 @@ export default function ChannelManager() {
                       </span>
                     </div>
                   </div>
-                  <button
-                    className={`star ${fav ? 'on' : ''}`}
-                    onClick={() => toggleFav(c.id)}
-                    aria-label="Favoriet"
-                    title="Favoriet"
-                  >
-                    ★
-                  </button>
                   <button className="icon-btn" onClick={() => move(c.id, -1)} aria-label="Omhoog">↑</button>
                   <button className="icon-btn" onClick={() => move(c.id, 1)} aria-label="Omlaag">↓</button>
                   <div className={`toggle ${on ? 'on' : ''}`} onClick={() => toggle(c.id)} role="switch" aria-checked={on} />

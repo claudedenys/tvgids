@@ -7,7 +7,6 @@ const TZ = 'Europe/Brussels';
 const HOUR = 3_600_000;
 const DAY = 24 * HOUR;
 const STORAGE_KEY = 'tvgids.selected';
-const FAV_KEY = 'tvgids.favs';
 const WATCH_KEY = 'tvgids.watchlist';
 const GOLD_KEY = 'tvgids.goldline';
 const GOLD_HIT = 22;
@@ -120,30 +119,6 @@ export default function EpgApp() {
     const t = Date.now() - brusselsDayStart(brusselsDateKey(new Date()));
     return Math.min(Math.max(0, t), 24 * HOUR - 1);
   });
-  const [favs, setFavs] = useState<Set<string>>(() => {
-    try {
-      const raw = localStorage.getItem(FAV_KEY);
-      const arr: unknown = raw ? JSON.parse(raw) : [];
-      return new Set(Array.isArray(arr) ? arr.filter((x): x is string => typeof x === 'string') : []);
-    } catch {
-      return new Set();
-    }
-  });
-
-  function toggleFav(id: string) {
-    setFavs((prev) => {
-      const next = new Set(prev);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
-      try {
-        localStorage.setItem(FAV_KEY, JSON.stringify([...next]));
-      } catch {
-        /* negeer */
-      }
-      return next;
-    });
-  }
-
   const [watchlist, setWatchlist] = useState<WatchEntry[]>(() => {
     try {
       const raw = localStorage.getItem(WATCH_KEY);
@@ -602,8 +577,6 @@ export default function EpgApp() {
               goldTime={goldTime}
               isSport={SPORT_IDS.has(ch.id)}
               matchIds={matchIds}
-              fav={favs.has(ch.id)}
-              onToggleFav={() => toggleFav(ch.id)}
               watchTitles={watchTitles}
               onHover={setHover}
               onSelect={setSheet}
@@ -683,14 +656,12 @@ function ChannelRow(props: {
   goldTime: number | null;
   isSport: boolean;
   matchIds: Set<string> | null;
-  fav: boolean;
-  onToggleFav: () => void;
   watchTitles: Set<string>;
   onHover: (t: TooltipState) => void;
   onSelect: (p: Programme) => void;
   onLeave: () => void;
 }) {
-  const { index, channel, programmes, sportStarts, dayStart, pph, now, goldTime, isSport, matchIds, fav, onToggleFav, watchTitles, onHover, onSelect, onLeave } = props;
+  const { index, channel, programmes, sportStarts, dayStart, pph, now, goldTime, isSport, matchIds, watchTitles, onHover, onSelect, onLeave } = props;
   const dayEnd = dayStart + DAY;
 
   const blocks = useMemo(() => {
@@ -715,18 +686,6 @@ function ChannelRow(props: {
   return (
     <div className={'epg-row' + (index % 2 === 1 ? ' alt' : '')}>
       <div className="epg-channel">
-        <button
-          className={'fav-star' + (fav ? ' on' : '')}
-          onClick={(e) => {
-            e.stopPropagation();
-            onToggleFav();
-          }}
-          aria-pressed={fav}
-          aria-label={fav ? `Favoriet: ${channel.name}` : `Maak favoriet: ${channel.name}`}
-          title={fav ? 'Verwijder favoriet' : 'Maak favoriet'}
-        >
-          {fav ? '★' : '☆'}
-        </button>
         <img
           className="logo"
           src={`${BASE}icons/channels/${channel.id}.svg`}
