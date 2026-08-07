@@ -10,114 +10,17 @@
     "start": 1786403640000,
     "end": 1786424400000,
     "status": "aankomend",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports1:1786424400000:1prlzbg",
-    "externalId": null,
-    "title": "Newcastle United - West Ham United",
-    "home": "Newcastle United",
-    "away": "West Ham United",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1786424400000,
-    "end": 1786430520000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports1:1786430520000:1prlzbg",
-    "externalId": null,
-    "title": "Manchester United - Nottingham Forest",
-    "home": "Manchester United",
-    "away": "Nottingham Forest",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1786430520000,
-    "end": 1786436820000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "description": "Vanuit Old Trafford in Manchester, Engeland.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports1:1786436820000:11wg5yb",
-    "externalId": null,
-    "title": "Bayern München - 1. FC Köln",
-    "home": "Bayern München",
-    "away": "1. FC Köln",
-    "competition": "Bundesliga",
-    "sport": "Voetbal",
-    "start": 1786436820000,
-    "end": 1786444800000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports1:1786444800000:1prlzbg",
-    "externalId": null,
-    "title": "Crystal Palace - Arsenal",
-    "home": "Crystal Palace",
-    "away": "Arsenal",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1786444800000,
-    "end": 1786451700000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports1:1786451700000:1prlzbg",
-    "externalId": null,
-    "title": "Manchester City - Arsenal",
-    "home": "Manchester City",
-    "away": "Arsenal",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1786451700000,
-    "end": 1786458120000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1786458120000:qjkkk5",
@@ -130,14 +33,17 @@
     "start": 1786458120000,
     "end": 1786459680000,
     "status": "aankomend",
+    "description": "We verkennen de wereld van de sportwetenschap en de invloed ervan op het voetbal in de Premier League. Van fitheid van spelers en blessurepreventie tot voeding en herstel.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "We verkennen de wereld van de sportwetenschap en de invloed ervan op het voetbal in de Premier League. Van fitheid van spelers en blessurepreventie tot voeding en herstel.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1786459680000:fly4em",
@@ -150,14 +56,17 @@
     "start": 1786459680000,
     "end": 1786462860000,
     "status": "aankomend",
+    "description": "Alle samenvattingen van afgelopen speeldag uit de Bundesliga.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Alle samenvattingen van afgelopen speeldag uit de Bundesliga.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1786462860000:15n7rvd",
@@ -170,14 +79,17 @@
     "start": 1786462860000,
     "end": 1786463520000,
     "status": "aankomend",
+    "description": "Een kijkje achter de schermen bij de Premier League-teams.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Een kijkje achter de schermen bij de Premier League-teams.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1786463520000:amnfa6",
@@ -190,14 +102,17 @@
     "start": 1786463520000,
     "end": 1786466580000,
     "status": "aankomend",
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1786466580000:qjkkk5",
@@ -210,34 +125,17 @@
     "start": 1786466580000,
     "end": 1786468140000,
     "status": "aankomend",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
     "description": "We verkennen de wereld van de sportwetenschap en de invloed ervan op het voetbal in de Premier League. Van fitheid van spelers en blessurepreventie tot voeding en herstel.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports1:1786468140000:1prlzbg",
-    "externalId": null,
-    "title": "Manchester United - Liverpool",
-    "home": "Manchester United",
-    "away": "Liverpool",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1786468140000,
-    "end": 1786474500000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Vanuit Old Trafford in Manchester, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1786474500000:fly4em",
@@ -250,14 +148,17 @@
     "start": 1786474500000,
     "end": 1786477620000,
     "status": "aankomend",
+    "description": "Alle samenvattingen van afgelopen speeldag uit de Bundesliga.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Alle samenvattingen van afgelopen speeldag uit de Bundesliga.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1786477620000:amnfa6",
@@ -270,34 +171,17 @@
     "start": 1786477620000,
     "end": 1786480740000,
     "status": "aankomend",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports1:1786480740000:11wg5yb",
-    "externalId": null,
-    "title": "SC Paderborn 07 - VfL Wolfsburg",
-    "home": "SC Paderborn 07",
-    "away": "VfL Wolfsburg",
-    "competition": "Bundesliga",
-    "sport": "Voetbal",
-    "start": 1786480740000,
-    "end": 1786489560000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Vanuit de Home Deluxe Arena in Paderborn, Duitsland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports2:1786399200000:xykime",
@@ -310,14 +194,17 @@
     "start": 1786399200000,
     "end": 1786420800000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 2"
     ],
     "channels": [
       "Play Sports 2"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports2"
+    ]
   },
   {
     "id": "sport:playsports2:1786420800000:xykime",
@@ -330,14 +217,17 @@
     "start": 1786420800000,
     "end": 1786442400000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 2"
     ],
     "channels": [
       "Play Sports 2"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports2"
+    ]
   },
   {
     "id": "sport:playsports2:1786442400000:xykime",
@@ -350,14 +240,17 @@
     "start": 1786442400000,
     "end": 1786464000000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 2"
     ],
     "channels": [
       "Play Sports 2"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports2"
+    ]
   },
   {
     "id": "sport:playsports2:1786464000000:xykime",
@@ -370,14 +263,17 @@
     "start": 1786464000000,
     "end": 1786485600000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 2"
     ],
     "channels": [
       "Play Sports 2"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports2"
+    ]
   },
   {
     "id": "sport:playsports3:1786406040000:xykime",
@@ -390,194 +286,17 @@
     "start": 1786406040000,
     "end": 1786424400000,
     "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786424400000:99kgtm",
-    "externalId": null,
-    "title": "PSV - AZ",
-    "home": "PSV",
-    "away": "AZ",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1786424400000,
-    "end": 1786432140000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786432140000:16v40h",
-    "externalId": null,
-    "title": "Finale: Crystal Palace - Rayo Vallecano",
-    "home": "Finale: Crystal Palace",
-    "away": "Rayo Vallecano",
-    "competition": "UEFA Conference League",
-    "sport": "Voetbal",
-    "start": 1786432140000,
-    "end": 1786439160000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786439160000:ear1gl",
-    "externalId": null,
-    "title": "Finale: SC Freiburg - Aston Villa",
-    "home": "Finale: SC Freiburg",
-    "away": "Aston Villa",
-    "competition": "UEFA Europa League",
-    "sport": "Voetbal",
-    "start": 1786439160000,
-    "end": 1786445760000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786445760000:1va4v2m",
-    "externalId": null,
-    "title": "PSV - Fortuna Sittard",
-    "home": "PSV",
-    "away": "Fortuna Sittard",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1786445760000,
-    "end": 1786452060000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786452060000:1va4v2m",
-    "externalId": null,
-    "title": "Sparta Rotterdam - Feyenoord",
-    "home": "Sparta Rotterdam",
-    "away": "Feyenoord",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1786452060000,
-    "end": 1786458360000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786458360000:1va4v2m",
-    "externalId": null,
-    "title": "PEC Zwolle - Ajax",
-    "home": "PEC Zwolle",
-    "away": "Ajax",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1786458360000,
-    "end": 1786464720000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786464720000:99kgtm",
-    "externalId": null,
-    "title": "PSV - AZ",
-    "home": "PSV",
-    "away": "AZ",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1786464720000,
-    "end": 1786472460000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786472460000:16v40h",
-    "externalId": null,
-    "title": "Finale: Crystal Palace - Rayo Vallecano",
-    "home": "Finale: Crystal Palace",
-    "away": "Rayo Vallecano",
-    "competition": "UEFA Conference League",
-    "sport": "Voetbal",
-    "start": 1786472460000,
-    "end": 1786479540000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports3:1786479540000:ear1gl",
-    "externalId": null,
-    "title": "Finale: SC Freiburg - Aston Villa",
-    "home": "Finale: SC Freiburg",
-    "away": "Aston Villa",
-    "competition": "UEFA Europa League",
-    "sport": "Voetbal",
-    "start": 1786479540000,
-    "end": 1786486080000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports4:1786404600000:xykime",
@@ -590,14 +309,17 @@
     "start": 1786404600000,
     "end": 1786424400000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786424400000:arbcat",
@@ -610,14 +332,17 @@
     "start": 1786424400000,
     "end": 1786430040000,
     "status": "aankomend",
+    "description": "Verslag van de tweede race van de ePrix van Tokio, gereden in Tokio, Japan.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de tweede race van de ePrix van Tokio, gereden in Tokio, Japan.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786430040000:arbc9f",
@@ -630,14 +355,17 @@
     "start": 1786430040000,
     "end": 1786434000000,
     "status": "aankomend",
+    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786434000000:arbc9e",
@@ -650,14 +378,17 @@
     "start": 1786434000000,
     "end": 1786438500000,
     "status": "aankomend",
+    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786438500000:12oeiq8",
@@ -670,14 +401,17 @@
     "start": 1786438500000,
     "end": 1786441800000,
     "status": "aankomend",
+    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786441800000:8a2n92",
@@ -690,14 +424,17 @@
     "start": 1786441800000,
     "end": 1786447800000,
     "status": "aankomend",
+    "description": "Live verslag van verschillende tennisevenementen.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Live verslag van verschillende tennisevenementen.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786447800000:11oizv7",
@@ -710,14 +447,17 @@
     "start": 1786447800000,
     "end": 1786453140000,
     "status": "aankomend",
+    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786453140000:133mms5",
@@ -730,14 +470,17 @@
     "start": 1786453140000,
     "end": 1786456680000,
     "status": "aankomend",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786456680000:133mms5",
@@ -750,14 +493,17 @@
     "start": 1786456680000,
     "end": 1786460100000,
     "status": "aankomend",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786460100000:133mms5",
@@ -770,14 +516,17 @@
     "start": 1786460100000,
     "end": 1786463700000,
     "status": "aankomend",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786463700000:133mms5",
@@ -790,14 +539,17 @@
     "start": 1786463700000,
     "end": 1786467360000,
     "status": "aankomend",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1786467360000:8a2n92",
@@ -810,54 +562,17 @@
     "start": 1786467360000,
     "end": 1786476000000,
     "status": "aankomend",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
     "description": "Live verslag van verschillende tennisevenementen.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports4:1786476000000:11oizv7",
-    "externalId": null,
-    "title": "Brandon Nakashima - Jakub Menšík",
-    "home": "Brandon Nakashima",
-    "away": "Jakub Menšík",
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1786476000000,
-    "end": 1786484340000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports4:1786484340000:binlm4",
-    "externalId": null,
-    "title": "België - Australië",
-    "home": "België",
-    "away": "Australië",
-    "competition": "Jupiler Pro League",
-    "sport": "Hockey",
-    "start": 1786484340000,
-    "end": 1786491780000,
-    "status": "aankomend",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "description": null,
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports-premierleague:1786399200000:xykime",
@@ -870,14 +585,17 @@
     "start": 1786399200000,
     "end": 1786420800000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
     "channels": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-premierleague"
+    ]
   },
   {
     "id": "sport:playsports-premierleague:1786420800000:xykime",
@@ -890,14 +608,17 @@
     "start": 1786420800000,
     "end": 1786442400000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
     "channels": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-premierleague"
+    ]
   },
   {
     "id": "sport:playsports-premierleague:1786442400000:xykime",
@@ -910,14 +631,17 @@
     "start": 1786442400000,
     "end": 1786464000000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
     "channels": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-premierleague"
+    ]
   },
   {
     "id": "sport:playsports-premierleague:1786464000000:xykime",
@@ -930,14 +654,17 @@
     "start": 1786464000000,
     "end": 1786485600000,
     "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
     "channels": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-premierleague"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786402800000:1ehmmzr",
@@ -950,14 +677,17 @@
     "start": 1786402800000,
     "end": 1786413600000,
     "status": "aankomend",
+    "description": "Verslag van de vierde en laatste dag van de Wyndham Championship, gespeeld in Greensboro, North Carolina.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de Wyndham Championship, gespeeld in Greensboro, North Carolina.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786413600000:u5yv5e",
@@ -970,14 +700,17 @@
     "start": 1786413600000,
     "end": 1786420800000,
     "status": "aankomend",
+    "description": "Verslag van de vierde en laatste dag van de PIF London Championship, gespeeld in St Albans, Engeland.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de PIF London Championship, gespeeld in St Albans, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786420800000:36ys9t",
@@ -990,14 +723,17 @@
     "start": 1786420800000,
     "end": 1786422600000,
     "status": "aankomend",
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786422600000:bwqabv",
@@ -1010,14 +746,17 @@
     "start": 1786422600000,
     "end": 1786424340000,
     "status": "aankomend",
+    "description": "Hoogtepunten van het ISPS HANDA Senior Open Championship, gespeeld op de Sunningdale Old Course in Berkshire, Engeland.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van het ISPS HANDA Senior Open Championship, gespeeld op de Sunningdale Old Course in Berkshire, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786424340000:u5yv5e",
@@ -1030,14 +769,17 @@
     "start": 1786424340000,
     "end": 1786431600000,
     "status": "aankomend",
+    "description": "Verslag van de vierde en laatste dag van de PIF London Championship, gespeeld in St Albans, Engeland.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de PIF London Championship, gespeeld in St Albans, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786431600000:1ehmmzr",
@@ -1050,14 +792,17 @@
     "start": 1786431600000,
     "end": 1786442400000,
     "status": "aankomend",
+    "description": "Verslag van de vierde en laatste dag van de Wyndham Championship, gespeeld in Greensboro, North Carolina.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de Wyndham Championship, gespeeld in Greensboro, North Carolina.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786442400000:u5yv5e",
@@ -1070,14 +815,17 @@
     "start": 1786442400000,
     "end": 1786449600000,
     "status": "aankomend",
+    "description": "Verslag van de vierde en laatste dag van de PIF London Championship, gespeeld in St Albans, Engeland.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de PIF London Championship, gespeeld in St Albans, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786449600000:qt4vc6",
@@ -1090,14 +838,17 @@
     "start": 1786449600000,
     "end": 1786451400000,
     "status": "aankomend",
+    "description": "Hoogtepunten van de Infortar Estonian Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van de Infortar Estonian Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786451400000:36ys9t",
@@ -1110,14 +861,17 @@
     "start": 1786451400000,
     "end": 1786453200000,
     "status": "aankomend",
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786453200000:mkyqbr",
@@ -1130,14 +884,17 @@
     "start": 1786453200000,
     "end": 1786456800000,
     "status": "aankomend",
+    "description": "Hoogtepunten van de Rocket Classic, gespeeld op de Detroit Golf Club in Detroit, Michigan.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van de Rocket Classic, gespeeld op de Detroit Golf Club in Detroit, Michigan.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786456800000:1oidiqx",
@@ -1150,14 +907,17 @@
     "start": 1786456800000,
     "end": 1786460400000,
     "status": "aankomend",
+    "description": "Hoogtepunten van de Portugal Invitational, gespeeld in de PGA Tour Champions.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van de Portugal Invitational, gespeeld in de PGA Tour Champions.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786460400000:1869fxq",
@@ -1170,14 +930,17 @@
     "start": 1786460400000,
     "end": 1786464000000,
     "status": "aankomend",
+    "description": "Hoogtepunten van de OFX Irish Legends, gespeeld in de European Legends Tour 2025.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van de OFX Irish Legends, gespeeld in de European Legends Tour 2025.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786464000000:36ys9t",
@@ -1190,14 +953,17 @@
     "start": 1786464000000,
     "end": 1786465800000,
     "status": "aankomend",
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786465800000:mkyqbr",
@@ -1210,14 +976,17 @@
     "start": 1786465800000,
     "end": 1786473000000,
     "status": "aankomend",
+    "description": "Samenvatting van de vierde en laatste dag van de Wyndham Championship, gespeeld op de Sedgefield Country Club in Greensboro, North Carolina.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Samenvatting van de vierde en laatste dag van de Wyndham Championship, gespeeld op de Sedgefield Country Club in Greensboro, North Carolina.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786473000000:u5yv5e",
@@ -1230,14 +999,17 @@
     "start": 1786473000000,
     "end": 1786480200000,
     "status": "aankomend",
+    "description": "Verslag van de vierde en laatste dag van de PIF London Championship, gespeeld in St Albans, Engeland.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de PIF London Championship, gespeeld in St Albans, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1786480200000:tjzcs1",
@@ -1250,14 +1022,17 @@
     "start": 1786480200000,
     "end": 1786485600000,
     "status": "aankomend",
+    "description": "Verslag van de vierde en laatste dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:dazn1:1786393800000:1ltn7gx",
@@ -1270,14 +1045,17 @@
     "start": 1786393800000,
     "end": 1786426200000,
     "status": "aankomend",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1786426200000:1ltn7gx",
@@ -1290,14 +1068,17 @@
     "start": 1786426200000,
     "end": 1786437000000,
     "status": "aankomend",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1786437000000:1ltn7gx",
@@ -1310,14 +1091,17 @@
     "start": 1786437000000,
     "end": 1786447800000,
     "status": "aankomend",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1786447800000:1ltn7gx",
@@ -1330,14 +1114,17 @@
     "start": 1786447800000,
     "end": 1786458600000,
     "status": "aankomend",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1786458600000:1ltn7gx",
@@ -1350,14 +1137,17 @@
     "start": 1786458600000,
     "end": 1786469400000,
     "status": "aankomend",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1786469400000:1ltn7gx",
@@ -1370,14 +1160,17 @@
     "start": 1786469400000,
     "end": 1786480200000,
     "status": "aankomend",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1786480200000:1ltn7gx",
@@ -1390,54 +1183,17 @@
     "start": 1786480200000,
     "end": 1786512600000,
     "status": "aankomend",
-    "platforms": [
-      "DAZN 1"
-    ],
-    "channels": [
-      "DAZN 1"
-    ],
     "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:dazn2:1786404600000:1y4heac",
-    "externalId": null,
-    "title": "Chelsea - Port Vale",
-    "home": "Chelsea",
-    "away": "Port Vale",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1786404600000,
-    "end": 1786410900000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
-      "DAZN 2"
+      "DAZN 1"
     ],
     "channels": [
-      "DAZN 2"
+      "DAZN 1"
     ],
-    "description": "Verslag van de wedstrijd Chelsea - Port Vale, gespeeld in de kwartfinale van de Engelse FA Cup.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:dazn2:1786410900000:377dna",
-    "externalId": null,
-    "title": "New York Knicks - Oklahoma City Thunder",
-    "home": "New York Knicks",
-    "away": "Oklahoma City Thunder",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1786410900000,
-    "end": 1786419000000,
-    "status": "aankomend",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
-    "description": "Verslag van de wedstrijd New York Knicks - Oklahoma City Thunder, gespeeld in de NBA.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn2:1786419000000:377dna",
@@ -1450,14 +1206,17 @@
     "start": 1786419000000,
     "end": 1786422600000,
     "status": "aankomend",
+    "description": "Hoogtepunten en samenvattingen van de verschillende wedstrijden die gespeeld worden in de NBA.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Hoogtepunten en samenvattingen van de verschillende wedstrijden die gespeeld worden in de NBA.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786422600000:377dna",
@@ -1470,14 +1229,17 @@
     "start": 1786422600000,
     "end": 1786424700000,
     "status": "aankomend",
+    "description": "Hoogtepunten en samenvattingen van de verschillende wedstrijden die gespeeld worden in de NBA.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Hoogtepunten en samenvattingen van de verschillende wedstrijden die gespeeld worden in de NBA.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786424700000:tmx8y2",
@@ -1490,34 +1252,17 @@
     "start": 1786424700000,
     "end": 1786426200000,
     "status": "aankomend",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
     "description": "Een documentaireserie over de grootste competities en hun tradities, rivaliteiten, schurken en helden, die ervoor zorgen dat supporters zo houden van hun sport en hun kampioenen.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:dazn2:1786426200000:dmq8la",
-    "externalId": null,
-    "title": "Denemarken - Noord-Macedonië",
-    "home": "Denemarken",
-    "away": "Noord-Macedonië",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1786426200000,
-    "end": 1786432800000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Verslag van de wedstrijd Denemarken - Noord-Macedonië, gespeeld in de kwalificatie play-offs voor het WK 2026.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786432800000:1ocrujx",
@@ -1530,14 +1275,17 @@
     "start": 1786432800000,
     "end": 1786434300000,
     "status": "aankomend",
+    "description": "Al het nieuws uit de Ligue 1, met analyses en de mooiste beelden uit de Franse competitie.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Al het nieuws uit de Ligue 1, met analyses en de mooiste beelden uit de Franse competitie.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786434300000:12b43h0",
@@ -1550,14 +1298,17 @@
     "start": 1786434300000,
     "end": 1786435200000,
     "status": "aankomend",
+    "description": "Portret van Yohan Bakayoko en een terugblik op zijn traject bij de nationale ploeg.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Portret van Yohan Bakayoko en een terugblik op zijn traject bij de nationale ploeg.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786435200000:1yhkmdt",
@@ -1570,14 +1321,17 @@
     "start": 1786435200000,
     "end": 1786438500000,
     "status": "aankomend",
+    "description": "In deze documentaire de twee genieën die voorbestemd waren om een tijdperk te bepalen, botsten op hetzelfde podium. Deze documentaire onderzoekt de oorsprong van de rivaliteit tussen Cristiano Ronaldo en Lionel Messi, het moment waarop hun confrontatie het Spaanse voetbal veranderde en grootsheid in het moderne voetbal voorgoed herdefinieerde.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "In deze documentaire de twee genieën die voorbestemd waren om een tijdperk te bepalen, botsten op hetzelfde podium. Deze documentaire onderzoekt de oorsprong van de rivaliteit tussen Cristiano Ronaldo en Lionel Messi, het moment waarop hun confrontatie het Spaanse voetbal veranderde en grootsheid in het moderne voetbal voorgoed herdefinieerde.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786438500000:162b1pw",
@@ -1590,14 +1344,17 @@
     "start": 1786438500000,
     "end": 1786440000000,
     "status": "aankomend",
+    "description": "NBA Action brengt de hoogtepunten en het laatste nieuws uit de NBA en een terugblik op de statistieken en beste acties van afgelopen week.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "NBA Action brengt de hoogtepunten en het laatste nieuws uit de NBA en een terugblik op de statistieken en beste acties van afgelopen week.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786440000000:162b1pw",
@@ -1610,54 +1367,17 @@
     "start": 1786440000000,
     "end": 1786441500000,
     "status": "aankomend",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
     "description": "NBA Action brengt de hoogtepunten en het laatste nieuws uit de NBA en een terugblik op de statistieken en beste acties van afgelopen week.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:dazn2:1786441500000:377dna",
-    "externalId": null,
-    "title": "Boston Celtics - Philadelphia 76ers",
-    "home": "Boston Celtics",
-    "away": "Philadelphia 76ers",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1786441500000,
-    "end": 1786449300000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Vanuit de TD Garden in Boston, Massachusetts, Verenigde Staten.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:dazn2:1786449300000:377dna",
-    "externalId": null,
-    "title": "Sacramento Kings - Phoenix Suns",
-    "home": "Sacramento Kings",
-    "away": "Phoenix Suns",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1786449300000,
-    "end": 1786456500000,
-    "status": "aankomend",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
-    "description": "Vanuit het Golden 1 Center in Sacramento, Califonië, Verenigde Staten.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786456500000:1mw5kk9",
@@ -1670,14 +1390,17 @@
     "start": 1786456500000,
     "end": 1786458000000,
     "status": "aankomend",
+    "description": "Analyses, nabesprekingen en hoogtepunten. Geniet meteen van een nieuwe aflevering van NBA On Fire.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Analyses, nabesprekingen en hoogtepunten. Geniet meteen van een nieuwe aflevering van NBA On Fire.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786458000000:1mw5kk9",
@@ -1690,14 +1413,17 @@
     "start": 1786458000000,
     "end": 1786459800000,
     "status": "aankomend",
+    "description": "Analyses, nabesprekingen en hoogtepunten. Geniet meteen van een nieuwe aflevering van NBA On Fire.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Analyses, nabesprekingen en hoogtepunten. Geniet meteen van een nieuwe aflevering van NBA On Fire.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786459800000:1kws52q",
@@ -1710,54 +1436,17 @@
     "start": 1786459800000,
     "end": 1786463100000,
     "status": "aankomend",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
     "description": "Ontdek hoe Ronaldo Nazário voorzitter werd van een voetbalclub en welke uitdagingen daarbij komen kijken.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:dazn2:1786463100000:1wf0npo",
-    "externalId": null,
-    "title": "Finale: Lazio - Internazionale",
-    "home": "Finale: Lazio",
-    "away": "Internazionale",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1786463100000,
-    "end": 1786470900000,
-    "status": "aankomend",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Verslag van de wedstrijd Lazio - Internazionale, gespeeld in de finale van de Italiaanse Coppa Italia.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:dazn2:1786470900000:30surz",
-    "externalId": null,
-    "title": "Real Madrid - Elche",
-    "home": "Real Madrid",
-    "away": "Elche",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1786470900000,
-    "end": 1786478400000,
-    "status": "aankomend",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
-    "description": "Verslag van de wedstrijd Real Madrid - Elche, gespeeld in de Spaanse LaLiga.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786478400000:a86dbu",
@@ -1770,14 +1459,17 @@
     "start": 1786478400000,
     "end": 1786480200000,
     "status": "aankomend",
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786480200000:a86dbu",
@@ -1790,14 +1482,17 @@
     "start": 1786480200000,
     "end": 1786482300000,
     "status": "aankomend",
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786482300000:a86dbu",
@@ -1810,14 +1505,17 @@
     "start": 1786482300000,
     "end": 1786484400000,
     "status": "aankomend",
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1786484400000:a86dbu",
@@ -1830,13 +1528,591 @@
     "start": 1786484400000,
     "end": 1786486200000,
     "status": "aankomend",
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1786424400000:newcastle united - west ham united",
+    "externalId": null,
+    "title": "Newcastle United - West Ham United",
+    "home": "Newcastle United",
+    "away": "West Ham United",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1786424400000,
+    "end": 1786430520000,
+    "status": "aankomend",
+    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1786430520000:manchester united - nottingham forest",
+    "externalId": null,
+    "title": "Manchester United - Nottingham Forest",
+    "home": "Manchester United",
+    "away": "Nottingham Forest",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1786430520000,
+    "end": 1786436820000,
+    "status": "aankomend",
+    "description": "Vanuit Old Trafford in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1786436820000:bayern munchen - 1. fc koln",
+    "externalId": null,
+    "title": "Bayern München - 1. FC Köln",
+    "home": "Bayern München",
+    "away": "1. FC Köln",
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1786436820000,
+    "end": 1786444800000,
+    "status": "aankomend",
+    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1786444800000:crystal palace - arsenal",
+    "externalId": null,
+    "title": "Crystal Palace - Arsenal",
+    "home": "Crystal Palace",
+    "away": "Arsenal",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1786444800000,
+    "end": 1786451700000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1786451700000:manchester city - arsenal",
+    "externalId": null,
+    "title": "Manchester City - Arsenal",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1786451700000,
+    "end": 1786458120000,
+    "status": "aankomend",
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1786468140000:manchester united - liverpool",
+    "externalId": null,
+    "title": "Manchester United - Liverpool",
+    "home": "Manchester United",
+    "away": "Liverpool",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1786468140000,
+    "end": 1786474500000,
+    "status": "aankomend",
+    "description": "Vanuit Old Trafford in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1786480740000:sc paderborn 07 - vfl wolfsburg",
+    "externalId": null,
+    "title": "SC Paderborn 07 - VfL Wolfsburg",
+    "home": "SC Paderborn 07",
+    "away": "VfL Wolfsburg",
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1786480740000,
+    "end": 1786489560000,
+    "status": "aankomend",
+    "description": "Vanuit de Home Deluxe Arena in Paderborn, Duitsland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1786424400000:psv - az",
+    "externalId": null,
+    "title": "PSV - AZ",
+    "home": "PSV",
+    "away": "AZ",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786424400000,
+    "end": 1786432140000,
+    "status": "aankomend",
+    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786432140000:finale: crystal palace - rayo vallecano",
+    "externalId": null,
+    "title": "Finale: Crystal Palace - Rayo Vallecano",
+    "home": "Finale: Crystal Palace",
+    "away": "Rayo Vallecano",
+    "competition": "UEFA Conference League",
+    "sport": "Voetbal",
+    "start": 1786432140000,
+    "end": 1786439160000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786439160000:finale: sc freiburg - aston villa",
+    "externalId": null,
+    "title": "Finale: SC Freiburg - Aston Villa",
+    "home": "Finale: SC Freiburg",
+    "away": "Aston Villa",
+    "competition": "UEFA Europa League",
+    "sport": "Voetbal",
+    "start": 1786439160000,
+    "end": 1786445760000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786445760000:psv - fortuna sittard",
+    "externalId": null,
+    "title": "PSV - Fortuna Sittard",
+    "home": "PSV",
+    "away": "Fortuna Sittard",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1786445760000,
+    "end": 1786452060000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786452060000:sparta rotterdam - feyenoord",
+    "externalId": null,
+    "title": "Sparta Rotterdam - Feyenoord",
+    "home": "Sparta Rotterdam",
+    "away": "Feyenoord",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1786452060000,
+    "end": 1786458360000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786458360000:pec zwolle - ajax",
+    "externalId": null,
+    "title": "PEC Zwolle - Ajax",
+    "home": "PEC Zwolle",
+    "away": "Ajax",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1786458360000,
+    "end": 1786464720000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786464720000:psv - az",
+    "externalId": null,
+    "title": "PSV - AZ",
+    "home": "PSV",
+    "away": "AZ",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786464720000,
+    "end": 1786472460000,
+    "status": "aankomend",
+    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786472460000:finale: crystal palace - rayo vallecano",
+    "externalId": null,
+    "title": "Finale: Crystal Palace - Rayo Vallecano",
+    "home": "Finale: Crystal Palace",
+    "away": "Rayo Vallecano",
+    "competition": "UEFA Conference League",
+    "sport": "Voetbal",
+    "start": 1786472460000,
+    "end": 1786479540000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786479540000:finale: sc freiburg - aston villa",
+    "externalId": null,
+    "title": "Finale: SC Freiburg - Aston Villa",
+    "home": "Finale: SC Freiburg",
+    "away": "Aston Villa",
+    "competition": "UEFA Europa League",
+    "sport": "Voetbal",
+    "start": 1786479540000,
+    "end": 1786486080000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786476000000:brandon nakashima - jakub mensik",
+    "externalId": null,
+    "title": "Brandon Nakashima - Jakub Menšík",
+    "home": "Brandon Nakashima",
+    "away": "Jakub Menšík",
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1786476000000,
+    "end": 1786484340000,
+    "status": "aankomend",
+    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1786484340000:belgie - australie",
+    "externalId": null,
+    "title": "België - Australië",
+    "home": "België",
+    "away": "Australië",
+    "competition": "Jupiler Pro League",
+    "sport": "Hockey",
+    "start": 1786484340000,
+    "end": 1786491780000,
+    "status": "aankomend",
+    "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1786404600000:chelsea - port vale",
+    "externalId": null,
+    "title": "Chelsea - Port Vale",
+    "home": "Chelsea",
+    "away": "Port Vale",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786404600000,
+    "end": 1786410900000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Chelsea - Port Vale, gespeeld in de kwartfinale van de Engelse FA Cup.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1786410900000:new york knicks - oklahoma city thunder",
+    "externalId": null,
+    "title": "New York Knicks - Oklahoma City Thunder",
+    "home": "New York Knicks",
+    "away": "Oklahoma City Thunder",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786410900000,
+    "end": 1786419000000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd New York Knicks - Oklahoma City Thunder, gespeeld in de NBA.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1786426200000:denemarken - noord-macedonie",
+    "externalId": null,
+    "title": "Denemarken - Noord-Macedonië",
+    "home": "Denemarken",
+    "away": "Noord-Macedonië",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786426200000,
+    "end": 1786432800000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Denemarken - Noord-Macedonië, gespeeld in de kwalificatie play-offs voor het WK 2026.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1786441500000:boston celtics - philadelphia 76ers",
+    "externalId": null,
+    "title": "Boston Celtics - Philadelphia 76ers",
+    "home": "Boston Celtics",
+    "away": "Philadelphia 76ers",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786441500000,
+    "end": 1786449300000,
+    "status": "aankomend",
+    "description": "Vanuit de TD Garden in Boston, Massachusetts, Verenigde Staten.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1786449300000:sacramento kings - phoenix suns",
+    "externalId": null,
+    "title": "Sacramento Kings - Phoenix Suns",
+    "home": "Sacramento Kings",
+    "away": "Phoenix Suns",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786449300000,
+    "end": 1786456500000,
+    "status": "aankomend",
+    "description": "Vanuit het Golden 1 Center in Sacramento, Califonië, Verenigde Staten.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1786463100000:finale: lazio - internazionale",
+    "externalId": null,
+    "title": "Finale: Lazio - Internazionale",
+    "home": "Finale: Lazio",
+    "away": "Internazionale",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786463100000,
+    "end": 1786470900000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Lazio - Internazionale, gespeeld in de finale van de Italiaanse Coppa Italia.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1786470900000:real madrid - elche",
+    "externalId": null,
+    "title": "Real Madrid - Elche",
+    "home": "Real Madrid",
+    "away": "Elche",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786470900000,
+    "end": 1786478400000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Real Madrid - Elche, gespeeld in de Spaanse LaLiga.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
   }
 ]

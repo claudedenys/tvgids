@@ -279,7 +279,7 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
   },
   {
     id: 'playsports-premierleague',
-    name: 'Play Sports Premier League',
+    name: 'Play Sports 5',
     country: 'BE',
     category: 'sport',
     group: 'sport',

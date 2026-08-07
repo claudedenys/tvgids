@@ -6,17 +6,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785626100000,
     "end": 1785646800000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785646800000:1prlzbg",
@@ -25,17 +29,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785646800000,
     "end": 1785653100000,
     "status": "afgelopen",
+    "description": "Vanuit Old Trafford in Manchester, Engeland.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Vanuit Old Trafford in Manchester, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785653100000:1prlzbg",
@@ -44,17 +52,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785653100000,
     "end": 1785659220000,
     "status": "afgelopen",
+    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785659220000:1prlzbg",
@@ -63,17 +75,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785659220000,
     "end": 1785666180000,
     "status": "afgelopen",
+    "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785666180000:1prlzbg",
@@ -82,17 +98,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785666180000,
     "end": 1785672960000,
     "status": "afgelopen",
+    "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785672960000:11wg5yb",
@@ -101,17 +121,21 @@
     "home": null,
     "away": null,
     "competition": "Bundesliga",
+    "sport": "Voetbal",
     "start": 1785672960000,
     "end": 1785681900000,
     "status": "afgelopen",
+    "description": "Vanuit de Home Deluxe Arena in Paderborn, Duitsland.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Vanuit de Home Deluxe Arena in Paderborn, Duitsland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785681900000:rkyq7n",
@@ -120,17 +144,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785681900000,
     "end": 1785682800000,
     "status": "afgelopen",
+    "description": "Nu Pep Guardiola bijna 10 opmerkelijke jaren bij Man. City achter de rug heeft, blikken we terug op zijn reis: van zijn aanpassing aan de Premier League in zijn eerste seizoen tot de complete omwenteling die hij teweegbracht in het Engelse voetbal.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Nu Pep Guardiola bijna 10 opmerkelijke jaren bij Man. City achter de rug heeft, blikken we terug op zijn reis: van zijn aanpassing aan de Premier League in zijn eerste seizoen tot de complete omwenteling die hij teweegbracht in het Engelse voetbal.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785682800000:fly4em",
@@ -139,17 +167,21 @@
     "home": null,
     "away": null,
     "competition": "Bundesliga",
+    "sport": "Voetbal",
     "start": 1785682800000,
     "end": 1785685980000,
     "status": "afgelopen",
+    "description": "Alle samenvattingen van afgelopen speeldag uit de Bundesliga.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Alle samenvattingen van afgelopen speeldag uit de Bundesliga.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785685980000:1prlzbg",
@@ -158,17 +190,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785685980000,
     "end": 1785693000000,
-    "status": "live",
+    "status": "afgelopen",
+    "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785693000000:rkyq7n",
@@ -177,17 +213,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785693000000,
     "end": 1785693900000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Nu Pep Guardiola bijna 10 opmerkelijke jaren bij Man. City achter de rug heeft, blikken we terug op zijn reis: van zijn aanpassing aan de Premier League in zijn eerste seizoen tot de complete omwenteling die hij teweegbracht in het Engelse voetbal.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Nu Pep Guardiola bijna 10 opmerkelijke jaren bij Man. City achter de rug heeft, blikken we terug op zijn reis: van zijn aanpassing aan de Premier League in zijn eerste seizoen tot de complete omwenteling die hij teweegbracht in het Engelse voetbal.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785693900000:15n7rvd",
@@ -196,17 +236,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785693900000,
     "end": 1785694620000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Een kijkje achter de schermen bij de Premier League-teams.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Een kijkje achter de schermen bij de Premier League-teams.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785694620000:amnfa6",
@@ -215,17 +259,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Voetbal",
     "start": 1785694620000,
     "end": 1785697740000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785697740000:1prlzbg",
@@ -234,17 +282,21 @@
     "home": null,
     "away": null,
     "competition": "Premier League",
+    "sport": "Biljart",
     "start": 1785697740000,
     "end": 1785704520000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Verslag van de wedstrijd Everton - Liverpool, gespeeld in de 6e speelronde van de Premier League.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Verslag van de wedstrijd Everton - Liverpool, gespeeld in de 6e speelronde van de Premier League.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports1:1785704520000:11wg5yb",
@@ -253,17 +305,21 @@
     "home": null,
     "away": null,
     "competition": "Bundesliga",
+    "sport": "Voetbal",
     "start": 1785704520000,
     "end": 1785712440000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
+    "source": "epg",
     "platforms": [
       "Play Sports 1"
     ],
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports1"
+    ]
   },
   {
     "id": "sport:playsports2:1785621600000:xykime",
@@ -272,17 +328,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785621600000,
     "end": 1785643200000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 2"
     ],
     "channels": [
       "Play Sports 2"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports2"
+    ]
   },
   {
     "id": "sport:playsports2:1785643200000:xykime",
@@ -291,17 +351,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785643200000,
     "end": 1785664800000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 2"
     ],
     "channels": [
       "Play Sports 2"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports2"
+    ]
   },
   {
     "id": "sport:playsports2:1785664800000:xykime",
@@ -310,17 +374,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785664800000,
     "end": 1785686400000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 2"
     ],
     "channels": [
       "Play Sports 2"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports2"
+    ]
   },
   {
     "id": "sport:playsports2:1785686400000:xykime",
@@ -329,17 +397,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785686400000,
     "end": 1785708000000,
-    "status": "live",
+    "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 2"
     ],
     "channels": [
       "Play Sports 2"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports2"
+    ]
   },
   {
     "id": "sport:playsports3:1785626580000:xykime",
@@ -348,17 +420,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785626580000,
     "end": 1785645600000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785645600000:1va4v2m",
@@ -367,17 +443,21 @@
     "home": null,
     "away": null,
     "competition": "Eredivisie",
+    "sport": "Voetbal",
     "start": 1785645600000,
     "end": 1785652080000,
     "status": "afgelopen",
+    "description": "Verslag van de wedstrijd sc Heerenveen - Ajax uit de 34e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de wedstrijd sc Heerenveen - Ajax uit de 34e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785652080000:1va4v2m",
@@ -386,17 +466,21 @@
     "home": null,
     "away": null,
     "competition": "Eredivisie",
+    "sport": "Voetbal",
     "start": 1785652080000,
     "end": 1785658200000,
     "status": "afgelopen",
+    "description": "Verslag van de wedstrijd Feyenoord - FC Groningen uit de 31e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de wedstrijd Feyenoord - FC Groningen uit de 31e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785658200000:1va4v2m",
@@ -405,17 +489,21 @@
     "home": null,
     "away": null,
     "competition": "Eredivisie",
+    "sport": "Voetbal",
     "start": 1785658200000,
     "end": 1785664560000,
     "status": "afgelopen",
+    "description": "Verslag van de wedstrijd Feyenoord - Ajax uit de 28e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de wedstrijd Feyenoord - Ajax uit de 28e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785664560000:1p2p7re",
@@ -424,17 +512,21 @@
     "home": null,
     "away": null,
     "competition": "Formule 1",
+    "sport": "Motorsport",
     "start": 1785664560000,
     "end": 1785668400000,
     "status": "afgelopen",
+    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met extra kenner, specialist of liefhebber van de autosport.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met extra kenner, specialist of liefhebber van de autosport.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785668400000:133mms5",
@@ -443,17 +535,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785668400000,
     "end": 1785672000000,
     "status": "afgelopen",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785672000000:133mms5",
@@ -462,17 +558,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785672000000,
     "end": 1785675600000,
     "status": "afgelopen",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785675600000:7micqi",
@@ -481,17 +581,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785675600000,
     "end": 1785676200000,
     "status": "afgelopen",
+    "description": null,
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": null,
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785676200000:i67pjl",
@@ -500,17 +604,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785676200000,
     "end": 1785678240000,
     "status": "afgelopen",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785678240000:qen0rc",
@@ -519,17 +627,21 @@
     "home": null,
     "away": null,
     "competition": "Formule 1",
+    "sport": "Motorsport",
     "start": 1785678240000,
     "end": 1785679200000,
     "status": "afgelopen",
+    "description": "Dit weekend raast de Formule 1 opnieuw over het legendarische circuit van Spa-Francorchamps. Tussen alle drukte door maakt Max Verstappen tijd vrij voor een gesprek met Dennis Xhaët en Sam Dejonghe.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Dit weekend raast de Formule 1 opnieuw over het legendarische circuit van Spa-Francorchamps. Tussen alle drukte door maakt Max Verstappen tijd vrij voor een gesprek met Dennis Xhaët en Sam Dejonghe.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785679200000:133mms5",
@@ -538,17 +650,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785679200000,
     "end": 1785682800000,
     "status": "afgelopen",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785682800000:133mms5",
@@ -557,17 +673,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785682800000,
     "end": 1785686400000,
     "status": "afgelopen",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785686400000:7micqi",
@@ -576,17 +696,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785686400000,
     "end": 1785687000000,
     "status": "afgelopen",
+    "description": null,
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": null,
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785687000000:1p2p7re",
@@ -595,17 +719,21 @@
     "home": null,
     "away": null,
     "competition": "Formule 1",
+    "sport": "Motorsport",
     "start": 1785687000000,
     "end": 1785690720000,
-    "status": "live",
+    "status": "afgelopen",
+    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met extra kenner, specialist of liefhebber van de autosport.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met extra kenner, specialist of liefhebber van de autosport.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785690720000:qen0rc",
@@ -614,17 +742,21 @@
     "home": null,
     "away": null,
     "competition": "Formule 1",
+    "sport": "Motorsport",
     "start": 1785690720000,
     "end": 1785691440000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Dit weekend raast de Formule 1 opnieuw over het legendarische circuit van Spa-Francorchamps. Tussen alle drukte door maakt Max Verstappen tijd vrij voor een gesprek met Dennis Xhaët en Sam Dejonghe.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Dit weekend raast de Formule 1 opnieuw over het legendarische circuit van Spa-Francorchamps. Tussen alle drukte door maakt Max Verstappen tijd vrij voor een gesprek met Dennis Xhaët en Sam Dejonghe.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785691440000:1aturhn",
@@ -633,17 +765,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785691440000,
     "end": 1785695400000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": null,
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": null,
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785695400000:11oizv7",
@@ -652,17 +788,21 @@
     "home": null,
     "away": null,
     "competition": "Tennis",
+    "sport": "Tennis",
     "start": 1785695400000,
     "end": 1785704400000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports3:1785704400000:11oizv7",
@@ -671,17 +811,21 @@
     "home": null,
     "away": null,
     "competition": "Tennis",
+    "sport": "Tennis",
     "start": 1785704400000,
     "end": 1785711600000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 3"
     ],
     "channels": [
       "Play Sports 3"
     ],
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports3"
+    ]
   },
   {
     "id": "sport:playsports4:1785625800000:uf67wi",
@@ -690,17 +834,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Volleybal",
     "start": 1785625800000,
     "end": 1785630180000,
     "status": "afgelopen",
+    "description": null,
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": null,
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785630180000:xykime",
@@ -709,17 +857,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785630180000,
     "end": 1785645600000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785645600000:133mms5",
@@ -728,17 +880,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785645600000,
     "end": 1785649020000,
     "status": "afgelopen",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785649020000:133mms5",
@@ -747,17 +903,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785649020000,
     "end": 1785652500000,
     "status": "afgelopen",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785652500000:133mms5",
@@ -766,17 +926,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785652500000,
     "end": 1785656040000,
     "status": "afgelopen",
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785656040000:133mms5",
@@ -785,17 +949,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785656040000,
     "end": 1785659880000,
     "status": "afgelopen",
+    "description": "Vanaf de Loketské Serpentiny in Loket, Tsjechië.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Vanaf de Loketské Serpentiny in Loket, Tsjechië.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785659880000:8a2n92",
@@ -804,17 +972,21 @@
     "home": null,
     "away": null,
     "competition": "Tennis",
+    "sport": "Tennis",
     "start": 1785659880000,
     "end": 1785668280000,
     "status": "afgelopen",
+    "description": "Live verslag van verschillende tennisevenementen.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Live verslag van verschillende tennisevenementen.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785668280000:arbc9f",
@@ -823,17 +995,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Motorsport",
     "start": 1785668280000,
     "end": 1785672300000,
     "status": "afgelopen",
+    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785672300000:12oeiq8",
@@ -842,17 +1018,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785672300000,
     "end": 1785675600000,
     "status": "afgelopen",
+    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785675600000:1llhvct",
@@ -861,17 +1041,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785675600000,
     "end": 1785682800000,
     "status": "afgelopen",
+    "description": "Verslag van de races gereden in de UCI Europe Tour voor mannen.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de races gereden in de UCI Europe Tour voor mannen.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785682800000:7micqi",
@@ -880,17 +1064,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785682800000,
     "end": 1785683400000,
     "status": "afgelopen",
+    "description": null,
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": null,
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785683400000:i67pjl",
@@ -899,17 +1087,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785683400000,
     "end": 1785686100000,
     "status": "afgelopen",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785686100000:99kgtm",
@@ -918,17 +1110,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785686100000,
     "end": 1785694500000,
-    "status": "live",
+    "status": "afgelopen",
+    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785694500000:1p2p7re",
@@ -937,17 +1133,21 @@
     "home": null,
     "away": null,
     "competition": "Formule 1",
+    "sport": "Motorsport",
     "start": 1785694500000,
     "end": 1785698100000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met extra kenner, specialist of liefhebber van de autosport.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met extra kenner, specialist of liefhebber van de autosport.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785698100000:i67pjl",
@@ -956,17 +1156,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785698100000,
     "end": 1785700620000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785700620000:3y5tln",
@@ -975,17 +1179,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785700620000,
     "end": 1785704580000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Verslag van de race van de MotoGP van Duitsland, gereden in Hohenstein-Ernstthal, Duitsland.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Verslag van de race van de MotoGP van Duitsland, gereden in Hohenstein-Ernstthal, Duitsland.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports4:1785704580000:arbc9d",
@@ -994,17 +1202,21 @@
     "home": null,
     "away": null,
     "competition": "Formule 1",
+    "sport": "Motorsport",
     "start": 1785704580000,
     "end": 1785712320000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
+    "source": "epg",
     "platforms": [
       "Play Sports 4"
     ],
     "channels": [
       "Play Sports 4"
     ],
-    "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
-    "source": "epg"
+    "channelIds": [
+      "playsports4"
+    ]
   },
   {
     "id": "sport:playsports-premierleague:1785621600000:xykime",
@@ -1013,17 +1225,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785621600000,
     "end": 1785643200000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
     "channels": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-premierleague"
+    ]
   },
   {
     "id": "sport:playsports-premierleague:1785643200000:xykime",
@@ -1032,17 +1248,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785643200000,
     "end": 1785664800000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
     "channels": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-premierleague"
+    ]
   },
   {
     "id": "sport:playsports-premierleague:1785664800000:xykime",
@@ -1051,17 +1271,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785664800000,
     "end": 1785686400000,
     "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
     "channels": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-premierleague"
+    ]
   },
   {
     "id": "sport:playsports-premierleague:1785686400000:xykime",
@@ -1070,17 +1294,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785686400000,
     "end": 1785708000000,
-    "status": "live",
+    "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
     "platforms": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
     "channels": [
-      "Play Sports Premier League"
+      "Play Sports 5"
     ],
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-premierleague"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785628800000:qt4vc6",
@@ -1089,17 +1317,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785628800000,
     "end": 1785632400000,
     "status": "afgelopen",
+    "description": "Hoogtepunten van de Raiffeisenbank Golf Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van de Raiffeisenbank Golf Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785632400000:rnzpmx",
@@ -1108,17 +1340,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785632400000,
     "end": 1785636000000,
     "status": "afgelopen",
+    "description": "Hoogtepunten van The Bahama's Golf Classic, gespeeld in de Korn Ferry Tour.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van The Bahama's Golf Classic, gespeeld in de Korn Ferry Tour.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785636000000:mkyqbr",
@@ -1127,36 +1363,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785636000000,
     "end": 1785639600000,
     "status": "afgelopen",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
     "description": "Hoogtepunten van de ISCO Championship, gespeeld op de Hurstbourne Country Club in Louisville, Kentucky.",
-    "source": "epg"
-  },
-  {
-    "id": "sport:playsports-golf:1785639600000:36ys9t",
-    "externalId": null,
-    "title": "PGA Tour - The Cut",
-    "home": "PGA Tour",
-    "away": "The Cut",
-    "competition": null,
-    "start": 1785639600000,
-    "end": 1785641400000,
-    "status": "afgelopen",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Een kijkje achter de schermen van de PGA Tour. Volg golfspelers terwijl ze zich voorbereiden op toernooien van 2025.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785641400000:tjzcs1",
@@ -1165,17 +1386,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785641400000,
     "end": 1785646740000,
     "status": "afgelopen",
+    "description": "Verslag van de derde dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de derde dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785646740000:1fzha4r",
@@ -1184,17 +1409,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785646740000,
     "end": 1785657600000,
     "status": "afgelopen",
+    "description": "Verslag van de vierde en laatste dag op de ISPS HANDA Senior Open, gespeeld in Sunningdale, England.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag op de ISPS HANDA Senior Open, gespeeld in Sunningdale, England.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785657600000:qt4vc6",
@@ -1203,17 +1432,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": "Golf",
     "start": 1785657600000,
     "end": 1785659400000,
     "status": "afgelopen",
+    "description": "Hoogtepunten van de Raiffeisenbank Golf Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van de Raiffeisenbank Golf Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785659400000:1oidiqx",
@@ -1222,17 +1455,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785659400000,
     "end": 1785663000000,
     "status": "afgelopen",
+    "description": "Hoogtepunten van de Kaulig Companies Championship, gespeeld in de PGA Tour Champions.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Hoogtepunten van de Kaulig Companies Championship, gespeeld in de PGA Tour Champions.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785663000000:tjzcs1",
@@ -1241,17 +1478,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785663000000,
     "end": 1785668400000,
     "status": "afgelopen",
+    "description": "Verslag van de derde dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de derde dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785668400000:tjzcs1",
@@ -1260,17 +1501,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785668400000,
     "end": 1785681000000,
     "status": "afgelopen",
+    "description": "Verslag van de vierde en laatste dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785681000000:tjzcs1",
@@ -1279,17 +1524,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785681000000,
     "end": 1785693600000,
-    "status": "live",
+    "status": "afgelopen",
+    "description": "Verslag van de vierde en laatste dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de AIG Women's Open 2025, gespeeld in Porthcawl, Wales.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:playsports-golf:1785693600000:1ehmmzr",
@@ -1298,17 +1547,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785693600000,
     "end": 1785708000000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "Verslag van de vierde en laatste dag van de Rocket Classic, gespeeld in Detroit, Michigan.",
+    "source": "epg",
     "platforms": [
       "Play Sports Golf"
     ],
     "channels": [
       "Play Sports Golf"
     ],
-    "description": "Verslag van de vierde en laatste dag van de Rocket Classic, gespeeld in Detroit, Michigan.",
-    "source": "epg"
+    "channelIds": [
+      "playsports-golf"
+    ]
   },
   {
     "id": "sport:dazn1:1785616200000:1ltn7gx",
@@ -1317,17 +1570,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785616200000,
     "end": 1785648600000,
     "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1785648600000:1ltn7gx",
@@ -1336,17 +1593,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785648600000,
     "end": 1785659400000,
     "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1785659400000:1ltn7gx",
@@ -1355,17 +1616,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785659400000,
     "end": 1785670200000,
     "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1785670200000:1ltn7gx",
@@ -1374,17 +1639,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785670200000,
     "end": 1785681000000,
     "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1785681000000:1ltn7gx",
@@ -1393,17 +1662,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785681000000,
     "end": 1785691800000,
-    "status": "live",
+    "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1785691800000:1ltn7gx",
@@ -1412,17 +1685,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785691800000,
     "end": 1785702600000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn1:1785702600000:1ltn7gx",
@@ -1431,17 +1708,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785702600000,
     "end": 1785735000000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 1"
     ],
     "channels": [
       "DAZN 1"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn1"
+    ]
   },
   {
     "id": "sport:dazn2:1785616200000:1ltn7gx",
@@ -1450,17 +1731,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785616200000,
     "end": 1785648600000,
     "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1785648600000:1ltn7gx",
@@ -1469,17 +1754,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785648600000,
     "end": 1785659400000,
     "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1785659400000:1ltn7gx",
@@ -1488,17 +1777,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785659400000,
     "end": 1785670200000,
     "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1785670200000:1ltn7gx",
@@ -1507,17 +1800,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785670200000,
     "end": 1785681000000,
     "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1785681000000:1ltn7gx",
@@ -1526,17 +1823,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785681000000,
     "end": 1785691800000,
-    "status": "live",
+    "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1785691800000:1ltn7gx",
@@ -1545,17 +1846,21 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785691800000,
     "end": 1785702600000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
   },
   {
     "id": "sport:dazn2:1785702600000:1ltn7gx",
@@ -1564,16 +1869,43 @@
     "home": null,
     "away": null,
     "competition": null,
+    "sport": null,
     "start": 1785702600000,
     "end": 1785735000000,
-    "status": "aankomend",
+    "status": "afgelopen",
+    "description": "De programmering wordt nog aangekondigd.",
+    "source": "epg",
     "platforms": [
       "DAZN 2"
     ],
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg"
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1785639600000:pga tour - the cut",
+    "externalId": null,
+    "title": "PGA Tour - The Cut",
+    "home": "PGA Tour",
+    "away": "The Cut",
+    "competition": null,
+    "sport": "Golf",
+    "start": 1785639600000,
+    "end": 1785641400000,
+    "status": "afgelopen",
+    "description": "Een kijkje achter de schermen van de PGA Tour. Volg golfspelers terwijl ze zich voorbereiden op toernooien van 2025.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
   }
 ]
