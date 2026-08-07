@@ -762,6 +762,19 @@ select {
   border-color: rgba(255, 255, 255, 0.04);
 }
 
+/* DAZN-streams: heuristisch toegewezen events (niet noodzakelijk dit kanaal). */
+.prog.dazn {
+  border-style: dashed;
+  border-color: rgba(167, 139, 250, 0.75);
+  box-shadow: inset 0 0 0 1px rgba(167, 139, 250, 0.3);
+  background: linear-gradient(180deg, rgba(167, 139, 250, 0.1), var(--surface-2));
+}
+
+.prog.dazn:hover {
+  border-color: rgba(167, 139, 250, 0.95);
+  background: linear-gradient(180deg, rgba(167, 139, 250, 0.16), var(--surface-3));
+}
+
 .prog.gold {
   border-color: #e0b93f;
   box-shadow: 0 0 0 1px rgba(224, 185, 63, 0.5), 0 0 10px rgba(224, 185, 63, 0.3);
@@ -964,6 +977,13 @@ select {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+.tooltip .desc.dazn-note {
+  color: #c4b5fd;
+  border-top: 1px dashed rgba(167, 139, 250, 0.4);
+  padding-top: 6px;
+  -webkit-line-clamp: 2;
 }
 
 .tooltip .tags {

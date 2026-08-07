@@ -19,6 +19,7 @@ import {
 } from './store';
 import { fetchDaySegments, importChannelDay as importTelenetDay, fetchTelenetChannels, makeDetailCache } from './sources/telenet';
 import { importChannelDay as importTvgidsDay } from './sources/tvgids';
+import { importDaznDay, DAZN_SOURCE } from './sources/dazn';
 import { deriveSportEvents } from './sport';
 
 export interface ImportResult {
@@ -84,13 +85,23 @@ export async function importRange(opts: {
       telenetSegments = new Map([...s0, ...s1]);
     }
 
+    // 1b) DAZN-kanalen: event-gebaseerde programmatie éénmalig per dag ophalen.
+    const daznChannels = selected.filter((c) => c.sources.some((s) => s.source === DAZN_SOURCE));
+    let daznMap: Map<string, Programme[]> | null = null;
+    if (daznChannels.length) {
+      daznMap = await importDaznDay(daznChannels, dayStart, dayEnd);
+    }
+
     for (const channel of selected) {
       try {
         let programmes: Programme[] = [];
+        const dazn = channel.sources.some((s) => s.source === DAZN_SOURCE);
         const telenet = channel.sources.find((s) => s.source === 'telenet.tv');
         const tvgids = channel.sources.find((s) => s.source === 'tvgids.nl');
 
-        if (telenet && telenetSegments) {
+        if (dazn && daznMap) {
+          programmes = daznMap.get(channel.id) ?? [];
+        } else if (telenet && telenetSegments) {
           programmes = await importTelenetDay(channel, dayStart, dayEnd, telenetSegments, 'nl', detailCache);
         } else if (tvgids) {
           const r = await importTvgidsDay(channel, dayKey, dayStart, dayEnd);
@@ -197,7 +208,7 @@ async function updateStatus(channels: Channel[], dates: string[]): Promise<void>
   }
 
   // Per-bron samenvatting.
-  const sources: SourceId[] = ['telenet.tv', 'tvgids.nl', 'xmltv'];
+  const sources: SourceId[] = ['telenet.tv', 'dazn.com', 'tvgids.nl', 'xmltv'];
   for (const src of sources) {
     const bySource = channels.filter((c) => c.sources.some((s) => s.source === src));
     let count = 0;

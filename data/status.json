@@ -2,33 +2,43 @@
   "sources": {
     "telenet.tv": {
       "source": "telenet.tv",
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
-      "lastSuccess": "2026-08-02T16:12:45.291Z",
-      "lastError": null,
-      "ok": true,
-      "channels": 25,
-      "programmes": 2556,
-      "days": 5
-    },
-    "tvgids.nl": {
-      "source": "tvgids.nl",
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
-      "lastSuccess": "2026-08-02T16:12:45.291Z",
-      "lastError": null,
-      "ok": true,
-      "channels": 13,
-      "programmes": 2410,
-      "days": 5
-    },
-    "xmltv": {
-      "source": "xmltv",
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
       "lastSuccess": "2026-08-02T16:12:45.291Z",
       "lastError": null,
       "ok": true,
       "channels": 0,
       "programmes": 0,
-      "days": 5
+      "days": 3
+    },
+    "tvgids.nl": {
+      "source": "tvgids.nl",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
+      "lastSuccess": "2026-08-02T16:12:45.291Z",
+      "lastError": null,
+      "ok": true,
+      "channels": 0,
+      "programmes": 0,
+      "days": 3
+    },
+    "xmltv": {
+      "source": "xmltv",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
+      "lastSuccess": "2026-08-02T16:12:45.291Z",
+      "lastError": null,
+      "ok": true,
+      "channels": 0,
+      "programmes": 0,
+      "days": 3
+    },
+    "dazn.com": {
+      "source": "dazn.com",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
+      "lastSuccess": "2026-08-07T08:51:33.263Z",
+      "lastError": null,
+      "ok": true,
+      "channels": 6,
+      "programmes": 63,
+      "days": 3
     }
   },
   "channels": {
@@ -343,67 +353,67 @@
     "dazn1": {
       "channelId": "dazn1",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
       "lastError": null,
-      "programmesCount": 35,
-      "daysAvailable": 5,
+      "programmesCount": 16,
+      "daysAvailable": 3,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-11",
+      "lastDate": "2026-08-09",
       "firstDate": "2026-08-07"
     },
     "dazn2": {
       "channelId": "dazn2",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
       "lastError": null,
-      "programmesCount": 125,
-      "daysAvailable": 5,
+      "programmesCount": 26,
+      "daysAvailable": 3,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-11",
+      "lastDate": "2026-08-09",
       "firstDate": "2026-08-07"
     },
     "dazn3": {
       "channelId": "dazn3",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
       "lastError": null,
-      "programmesCount": 0,
-      "daysAvailable": 5,
-      "descriptionAvailable": false,
-      "lastDate": "2026-08-11",
+      "programmesCount": 12,
+      "daysAvailable": 3,
+      "descriptionAvailable": true,
+      "lastDate": "2026-08-09",
       "firstDate": "2026-08-07"
     },
     "dazn-jpl1": {
       "channelId": "dazn-jpl1",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
       "lastError": null,
-      "programmesCount": 30,
-      "daysAvailable": 5,
-      "descriptionAvailable": false,
-      "lastDate": "2026-08-11",
+      "programmesCount": 6,
+      "daysAvailable": 3,
+      "descriptionAvailable": true,
+      "lastDate": "2026-08-09",
       "firstDate": "2026-08-07"
     },
     "dazn-jpl2": {
       "channelId": "dazn-jpl2",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
       "lastError": null,
-      "programmesCount": 30,
-      "daysAvailable": 5,
-      "descriptionAvailable": false,
-      "lastDate": "2026-08-11",
+      "programmesCount": 3,
+      "daysAvailable": 3,
+      "descriptionAvailable": true,
+      "lastDate": "2026-08-09",
       "firstDate": "2026-08-07"
     },
     "dazn-jpl3": {
       "channelId": "dazn-jpl3",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-07T06:01:37.302Z",
+      "lastUpdate": "2026-08-07T08:53:06.806Z",
       "lastError": null,
       "programmesCount": 0,
-      "daysAvailable": 5,
+      "daysAvailable": 3,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-11",
+      "lastDate": "2026-08-09",
       "firstDate": "2026-08-07"
     }
   }

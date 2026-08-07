@@ -15,7 +15,7 @@ export type ChannelCategory =
 /** Groep waarin de zender in de instellingen verschijnt. */
 export type ChannelGroup = 'belgie' | 'nederland' | 'sport' | 'overig';
 
-export type SourceId = 'telenet.tv' | 'tvgids.nl' | 'vrt.be' | 'xmltv';
+export type SourceId = 'telenet.tv' | 'tvgids.nl' | 'vrt.be' | 'dazn.com' | 'xmltv';
 
 export interface ChannelSource {
   /** Identificatie van de EPG-bron. */

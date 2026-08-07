@@ -878,11 +878,13 @@ function ChannelRow(props: {
           const gold = goldTime != null && p.start <= goldTime && goldTime < p.end;
           const saved = watchTitles.has(normTitle(p.title));
           const sport = sportStarts.has(`${p.start}:${p.channel}`) || (isSport && /\s[–—-]\s/.test(p.title));
+          const dazn = p.source === 'dazn.com';
           const cls = [
             'prog',
             live ? 'live' : '',
             gold ? 'gold' : '',
             sport ? 'sport' : '',
+            dazn ? 'dazn' : '',
             offair ? 'offair' : '',
             saved ? 'saved' : '',
             matchIds?.has(p.id) ? 'prog-match' : '',
@@ -941,6 +943,9 @@ function ProgrammeTooltip({ hover }: { hover: TooltipState }) {
         <span>{fmtTime(prog.start)} – {fmtTime(prog.end)}</span>
         <span>{prog.channel}</span>
       </div>
+      {prog.source === 'dazn.com' && (
+        <p className="desc dazn-note">DAZN-stream · uitzending niet noodzakelijk op dit kanaal</p>
+      )}
       {prog.description ? (
         <p className="desc">{prog.description}</p>
       ) : (

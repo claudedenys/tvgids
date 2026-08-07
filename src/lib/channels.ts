@@ -315,7 +315,7 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
     group: 'sport',
     active: true,
     website: 'https://www.dazn.com/',
-    sources: [{ source: 'telenet.tv', site_id: '11football', xmltv_id: 'DAZNElevenSports1.be', priority: 10 }],
+    sources: [{ source: 'dazn.com', site_id: 'dazn1', xmltv_id: 'DAZNElevenSports1.be', priority: 10 }],
   },
   {
     id: 'dazn2',
@@ -325,7 +325,7 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
     group: 'sport',
     active: true,
     website: 'https://www.dazn.com/',
-    sources: [{ source: 'telenet.tv', site_id: '11sports', xmltv_id: 'DAZNElevenSports2.be', priority: 10 }],
+    sources: [{ source: 'dazn.com', site_id: 'dazn2', xmltv_id: 'DAZNElevenSports2.be', priority: 10 }],
   },
   {
     id: 'dazn3',
@@ -335,7 +335,7 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
     group: 'sport',
     active: true,
     website: 'https://www.dazn.com/',
-    sources: [{ source: 'telenet.tv', site_id: '11sports3', xmltv_id: 'DAZNElevenSports3.be', priority: 10 }],
+    sources: [{ source: 'dazn.com', site_id: 'dazn3', xmltv_id: 'DAZNElevenSports3.be', priority: 10 }],
   },
   {
     id: 'dazn-jpl1',
@@ -345,7 +345,7 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
     group: 'sport',
     active: true,
     website: 'https://www.dazn.com/',
-    sources: [{ source: 'telenet.tv', site_id: 'jplnl01', xmltv_id: 'DAZNElevenProLeague1.be', priority: 10 }],
+    sources: [{ source: 'dazn.com', site_id: 'dazn-jpl1', xmltv_id: 'DAZNElevenProLeague1.be', priority: 10 }],
   },
   {
     id: 'dazn-jpl2',
@@ -355,7 +355,7 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
     group: 'sport',
     active: true,
     website: 'https://www.dazn.com/',
-    sources: [{ source: 'telenet.tv', site_id: 'jplnl02', xmltv_id: 'DAZNElevenProLeague2.be', priority: 10 }],
+    sources: [{ source: 'dazn.com', site_id: 'dazn-jpl2', xmltv_id: 'DAZNElevenProLeague2.be', priority: 10 }],
   },
   {
     id: 'dazn-jpl3',
@@ -365,7 +365,7 @@ export const CATALOGUE: Omit<Channel, 'logo'>[] = [
     group: 'sport',
     active: true,
     website: 'https://www.dazn.com/',
-    sources: [{ source: 'telenet.tv', site_id: 'jplnl03', xmltv_id: 'DAZNElevenProLeague3.be', priority: 10 }],
+    sources: [{ source: 'dazn.com', site_id: 'dazn-jpl3', xmltv_id: 'DAZNElevenProLeague3.be', priority: 10 }],
   },
 ];
 
