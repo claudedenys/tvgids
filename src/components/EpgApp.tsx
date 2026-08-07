@@ -470,17 +470,6 @@ export default function EpgApp() {
   function goPrev() { setDate(addDays(date, -1)); }
   function goNext() { setDate(addDays(date, 1)); }
 
-  function updateGoldFromPointer(clientX: number) {
-    const rect = canvasRef.current?.getBoundingClientRect();
-    const scroller = scrollRef.current;
-    if (!rect || !scroller) return;
-    // Rekening houden met horizontale scroll: clientX is viewport-gericht,
-    // de gouden lijn staat in content-coördinaten.
-    const px = clientX - rect.left + scroller.scrollLeft;
-    const t = ((Math.min(Math.max(0, px), 24 * pph)) / pph) * HOUR;
-    setGoldTimeOfDay(Math.min(Math.round(t), 24 * HOUR - 1));
-  }
-
   function goldPointerDown(e: React.PointerEvent<HTMLDivElement>) {
     e.preventDefault();
     try {
@@ -488,7 +477,14 @@ export default function EpgApp() {
     } catch {
       /* negeer */
     }
-    const move = (ev: PointerEvent) => updateGoldFromPointer(ev.clientX);
+    // Delta-gebaseerd: de lijn volgt de vinger exact, onafhankelijk van
+    // horizontale scroll en de breedte van de kanaalkolom.
+    const startX = e.clientX;
+    const startTime = goldTimeOfDay;
+    const move = (ev: PointerEvent) => {
+      const t = startTime + ((ev.clientX - startX) / pph) * HOUR;
+      setGoldTimeOfDay(Math.min(Math.max(0, t), 24 * HOUR - 1));
+    };
     const end = () => {
       window.removeEventListener('pointermove', move);
       window.removeEventListener('pointerup', end);
@@ -497,7 +493,6 @@ export default function EpgApp() {
     window.addEventListener('pointermove', move);
     window.addEventListener('pointerup', end);
     window.addEventListener('pointercancel', end);
-    updateGoldFromPointer(e.clientX);
   }
 
   function openHit(hit: SearchHit) {
