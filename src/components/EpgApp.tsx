@@ -471,6 +471,8 @@ export default function EpgApp() {
   function goNext() { setDate(addDays(date, 1)); }
 
   function goldPointerDown(e: React.PointerEvent<HTMLDivElement>) {
+    // Touch wordt afgehandeld via de native touch-handlers (betrouwbaar op iOS).
+    if (e.pointerType === 'touch') return;
     e.preventDefault();
     try {
       e.currentTarget.setPointerCapture(e.pointerId);
@@ -493,6 +495,28 @@ export default function EpgApp() {
     window.addEventListener('pointermove', move);
     window.addEventListener('pointerup', end);
     window.addEventListener('pointercancel', end);
+  }
+
+  function goldTouchStart(e: React.TouchEvent<HTMLDivElement>) {
+    const touch = e.touches[0];
+    if (!touch) return;
+    const startX = touch.clientX;
+    const startTime = goldTimeOfDay;
+    const move = (ev: TouchEvent) => {
+      ev.preventDefault();
+      const ct = ev.touches[0];
+      if (!ct) return;
+      const t = startTime + ((ct.clientX - startX) / pph) * HOUR;
+      setGoldTimeOfDay(Math.min(Math.max(0, t), 24 * HOUR - 1));
+    };
+    const end = () => {
+      document.removeEventListener('touchmove', move);
+      document.removeEventListener('touchend', end);
+      document.removeEventListener('touchcancel', end);
+    };
+    document.addEventListener('touchmove', move, { passive: false });
+    document.addEventListener('touchend', end);
+    document.addEventListener('touchcancel', end);
   }
 
   function openHit(hit: SearchHit) {
@@ -738,6 +762,7 @@ export default function EpgApp() {
               className="epg-goldline"
               style={{ left: `calc(var(--channel-col) + ${(goldTimeOfDay / HOUR) * pph}px)` }}
               onPointerDown={goldPointerDown}
+              onTouchStart={goldTouchStart}
               title="Sleep om de gouden lijn te verschuiven"
             >
               <span className="grip" />
