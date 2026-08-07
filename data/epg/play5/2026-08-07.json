@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1786059600000:hxtisv",
+    "id": "play5:1786059000000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1786059600000,
-    "end": 1786062900000,
+    "start": 1786059000000,
+    "end": 1786061400000,
     "description": "Richard denkt na over zijn capaciteiten als chirurg. Jo is gecharmeerd van de broer van haar patiënt. Megan zorgt ervoor dat Teddy en Owen hun meningsverschillen uitpraten. Een python als huisdier zorgt voor de nodige ophef.",
     "category": [
       "Dramaserie",
@@ -18,14 +18,46 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F21759964~~2FEP027786290421,imi:f82b3f8158fb3d909496662ead213892e71bafd5"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21759964~~2FEP027786290421,imi:f82b3f8158fb3d909496662ead213892e71bafd5",
+      "episodeName": "Put the Squeeze on Me",
+      "genres": [
+        "Dramaserie",
+        "Medisch"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5e08c502-7198-4669-b6f8-4121e88b8a69"
     }
   },
   {
-    "id": "play5:1786062900000:48zb9",
+    "id": "play5:1786061400000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1786062900000,
+    "start": 1786061400000,
+    "end": 1786071000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:98ed22a708282aac21f766a4ab08f45dd41fa4cd",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1786071000000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1786071000000,
     "end": 1786071600000,
     "description": null,
     "category": [],
@@ -37,7 +69,12 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:98ed22a708282aac21f766a4ab08f45dd41fa4cd"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d3a18ee612514f50948fa3277f29fed2408f0f2d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -45,7 +82,7 @@
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1786071600000,
-    "end": 1786080300000,
+    "end": 1786081500000,
     "description": null,
     "category": [],
     "image": null,
@@ -56,15 +93,20 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:fa9d2c2b72389c8bb2c0c28fbbe0e83c396d02a1"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:fa9d2c2b72389c8bb2c0c28fbbe0e83c396d02a1",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "play5:1786080300000:1hk0z8w",
+    "id": "play5:1786081500000:1hk0z8w",
     "channel": "play5",
     "title": "Friends",
-    "start": 1786080300000,
-    "end": 1786082100000,
+    "start": 1786081500000,
+    "end": 1786083300000,
     "description": "Het bezoek van Chandler en Monica aan een vruchtbaarheidskliniek wordt nog ongemakkelijker wanneer Chandlers ex-vriendin Janice opduikt. Ross helpt Joey hoe hij intelligent kan overkomen. Rachel discussieert met Phoebe over een keten van spa-resorts.",
     "category": [
       "Sitcom"
@@ -77,15 +119,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F1712474~~2FEP028439180187,imi:8e1652adc0eb35ed5f99618c8caff9d415838e24"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F1712474~~2FEP028439180187,imi:8e1652adc0eb35ed5f99618c8caff9d415838e24",
+      "episodeName": "The One With the Fertility Test",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2002",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc72102af-c81b-4455-b3d4-f6fc2861a18a"
     }
   },
   {
-    "id": "play5:1786082100000:1hk0z8w",
+    "id": "play5:1786083300000:1hk0z8w",
     "channel": "play5",
     "title": "Friends",
-    "start": 1786082100000,
-    "end": 1786083600000,
+    "start": 1786083300000,
+    "end": 1786084800000,
     "description": "Nu ze niet langs natuurlijke weg een kind kunnen krijgen, bespreken Monica en Chandler de mogelijkheden en ondervragen ze Chandlers nietsvermoedende collega als een potentiële zaaddonor. Rachel vertrouwt Phoebe toe dat ze verliefd is op Joey.",
     "category": [
       "Sitcom"
@@ -98,15 +147,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F1712475~~2FEP028439180186,imi:3e1415853cbb31a575877b6c643d7ad8fbc214d6"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F1712475~~2FEP028439180186,imi:3e1415853cbb31a575877b6c643d7ad8fbc214d6",
+      "episodeName": "The One With the Donor",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2002",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc72102af-c81b-4455-b3d4-f6fc2861a18a"
     }
   },
   {
-    "id": "play5:1786083600000:48zb9",
+    "id": "play5:1786084800000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1786083600000,
-    "end": 1786085400000,
+    "start": 1786084800000,
+    "end": 1786086600000,
     "description": null,
     "category": [],
     "image": null,
@@ -117,15 +173,20 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a3aec2998fbb080198d80a61f0c5bc435b34fdb7"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a3aec2998fbb080198d80a61f0c5bc435b34fdb7",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "play5:1786085400000:7bb6ek",
+    "id": "play5:1786086600000:7bb6ek",
     "channel": "play5",
     "title": "Modern Family",
-    "start": 1786085400000,
-    "end": 1786087200000,
+    "start": 1786086600000,
+    "end": 1786088100000,
     "description": "Cameron wil Het Spook Van de Opera opvoeren op school, maar wanneer de hoofdrolspeler ziek wordt, doet Manny er alles aan te schitteren in de rol, zelfs als dat betekent dat hij tegen Luke in moet gaan.",
     "category": [
       "Sitcom"
@@ -138,15 +199,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9724719~~2FEP028434260204,imi:ae0055390708574ad78707dcd6b20d37785dc056"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9724719~~2FEP028434260204,imi:ae0055390708574ad78707dcd6b20d37785dc056",
+      "episodeName": "A Slight at the Opera",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2012",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F6f58de17-3efc-4875-8dd4-f9101af038f8"
     }
   },
   {
-    "id": "play5:1786087200000:7bb6ek",
+    "id": "play5:1786088100000:7bb6ek",
     "channel": "play5",
     "title": "Modern Family",
-    "start": 1786087200000,
-    "end": 1786088700000,
+    "start": 1786088100000,
+    "end": 1786089900000,
     "description": "Door een onverwachte wending op Valentijnsdag na een stoeipartij tussen Phil en Claires alter ego's Clive Bixby en Julianna belandt Claire in het ziekenhuis. Daar krijgt ze een diagnose waar ze het niet mee eens is.",
     "category": [
       "Sitcom"
@@ -159,15 +227,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9710329~~2FEP028434260205,imi:ce7d2bd4e9b1147926390d8d069cb9665f65a029"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9710329~~2FEP028434260205,imi:ce7d2bd4e9b1147926390d8d069cb9665f65a029",
+      "episodeName": "Heart Broken",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2012",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F6f58de17-3efc-4875-8dd4-f9101af038f8"
     }
   },
   {
-    "id": "play5:1786088700000:jn23do",
+    "id": "play5:1786089900000:jn23do",
     "channel": "play5",
     "title": "Manifest",
-    "start": 1786088700000,
-    "end": 1786092000000,
+    "start": 1786089900000,
+    "end": 1786092900000,
     "description": "Terwijl het detentiecentrum wordt geteisterd door verschrikkelijke plagen, zoekt Saanvi naar een oplossing en treedt Michaela op in een crisis. Cal probeert Angelina te bereiken.",
     "category": [
       "Dramaserie",
@@ -181,15 +256,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24768277~~2FEP034065420056,imi:5c461b1a74344d04ef5bbd0af693b6dd54f6861b"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24768277~~2FEP034065420056,imi:5c461b1a74344d04ef5bbd0af693b6dd54f6861b",
+      "episodeName": "Fata Morgana",
+      "genres": [
+        "Dramaserie",
+        "Sciencefiction"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F17ce3928-b87e-4ae7-86f9-076778a671e1"
     }
   },
   {
-    "id": "play5:1786092000000:3eahsp",
+    "id": "play5:1786092900000:3eahsp",
     "channel": "play5",
     "title": "NCIS: Los Angeles",
-    "start": 1786092000000,
-    "end": 1786095300000,
+    "start": 1786092900000,
+    "end": 1786096200000,
     "description": "Een danseres en een luitenant-ter-zee sterven in een exotische bar, na het drinken van vergiftigd water. Het team denkt dat een islamitische terreurorganisatie achter de vergiftiging zit.",
     "category": [
       "Misdaaddrama",
@@ -203,15 +286,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9824598~~2FEP027794950009,imi:55135a02bce9559cd76838be3ff9cfd8729a39d2"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9824598~~2FEP027794950009,imi:55135a02bce9559cd76838be3ff9cfd8729a39d2",
+      "episodeName": "Purity",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2012",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1bddcef5-e59b-427f-9119-c024244868c2"
     }
   },
   {
-    "id": "play5:1786095300000:7vlrt4",
+    "id": "play5:1786096200000:7vlrt4",
     "channel": "play5",
     "title": "FBI: International",
-    "start": 1786095300000,
-    "end": 1786098600000,
+    "start": 1786096200000,
+    "end": 1786099200000,
     "description": "Een teamlid raakt vermist terwijl de jacht op Greg Csonka in Parijs voortduurt. Vo's leven hangt aan een zijden draadje, nadat ze is neergeschoten.",
     "category": [
       "Misdaaddrama",
@@ -225,15 +316,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F29124613~~2FEP043107510065,imi:d53609a8aea031bb1d0481f77aeb564bf96d0d50"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29124613~~2FEP043107510065,imi:d53609a8aea031bb1d0481f77aeb564bf96d0d50",
+      "episodeName": "The Kill Floor",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20016064~~2FSH043107510000"
     }
   },
   {
-    "id": "play5:1786098600000:yknhhu",
+    "id": "play5:1786099200000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1786098600000,
-    "end": 1786101600000,
+    "start": 1786099200000,
+    "end": 1786102500000,
     "description": "Als de dood van een onderofficier blijkt samen te hangen met een afpersingszaak, moet het team samenwerken met speciale agent Sawyer, wat voor Torres een angstaanjagende wending neemt. Ondertussen krijgt Knight de kans om te trainen bij NCIS Elite.",
     "category": [
       "Misdaaddrama",
@@ -247,15 +346,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31375032~~2FEP027794740622,imi:2df5bf8e203ac81a4f1b1170a777c41a58e0e6af"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31375032~~2FEP027794740622,imi:2df5bf8e203ac81a4f1b1170a777c41a58e0e6af",
+      "episodeName": "The Sound and the Fury",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F52941ad9-df43-485c-9587-e5c4d816112e"
     }
   },
   {
-    "id": "play5:1786101600000:1n4m9uo",
+    "id": "play5:1786102500000:1n4m9uo",
     "channel": "play5",
     "title": "CSI: Crime Scene Investigation",
-    "start": 1786101600000,
-    "end": 1786105200000,
+    "start": 1786102500000,
+    "end": 1786105500000,
     "description": "Als het team op patrouille is met de mobiele eenheid van de politie van Las Vegas, ontdekken ze toevallig een moordslachtoffer. De verdachten zijn verschillende straatcriminelen die al in hechtenis zitten.",
     "category": [
       "Misdaaddrama",
@@ -269,15 +376,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9568004~~2FEP027840660056,imi:c5dbe61dc319ddd354a3d7081f92378e19abd391"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9568004~~2FEP027840660056,imi:c5dbe61dc319ddd354a3d7081f92378e19abd391",
+      "episodeName": "Strip Maul",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2012",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4e571b2a-d838-415c-af71-37a6dbedbf65"
     }
   },
   {
-    "id": "play5:1786105200000:nbcrkh",
+    "id": "play5:1786105500000:nbcrkh",
     "channel": "play5",
     "title": "Best Medicine",
-    "start": 1786105200000,
-    "end": 1786108500000,
+    "start": 1786105500000,
+    "end": 1786108800000,
     "description": "Tijdens het jaarlijkse dorpsfestival moet een arts zijn ernstige bloedfobie overwinnen wanneer een dorpsbewoner plotseling dringend medische hulp nodig heeft, terwijl de mogelijke komst van een beroemde schrijver voor extra opwinding zorgt.",
     "category": [
       "Comedy",
@@ -291,15 +406,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32341084~~2FEP065107180007,imi:f40c344168d2e8d049235a1b82b8e613cac96238"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32341084~~2FEP065107180007,imi:f40c344168d2e8d049235a1b82b8e613cac96238",
+      "episodeName": "There Might Be Blood",
+      "genres": [
+        "Comedy",
+        "Medisch"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30194083~~2FSH065107180000"
     }
   },
   {
-    "id": "play5:1786108500000:nbcrkh",
+    "id": "play5:1786108800000:nbcrkh",
     "channel": "play5",
     "title": "Best Medicine",
-    "start": 1786108500000,
-    "end": 1786111800000,
+    "start": 1786108800000,
+    "end": 1786112100000,
     "description": "Wanneer in het moeras een lijk wordt gevonden dat slachtoffer blijkt te zijn van moord, onderzoekt Martin de zaak en doet hij onderweg een verrassende ontdekking over zichzelf.",
     "category": [
       "Comedy",
@@ -313,14 +436,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32370432~~2FEP065107180008,imi:1842213becf724405725e116e4b06e24f6226a89"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32370432~~2FEP065107180008,imi:1842213becf724405725e116e4b06e24f6226a89",
+      "episodeName": "The Bogfather",
+      "genres": [
+        "Comedy",
+        "Medisch"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30194083~~2FSH065107180000"
     }
   },
   {
-    "id": "play5:1786111800000:hxtisv",
+    "id": "play5:1786112100000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1786111800000,
+    "start": 1786112100000,
     "end": 1786115100000,
     "description": "Richard denkt na over zijn capaciteiten als chirurg. Jo is gecharmeerd van de broer van haar patiënt. Megan zorgt ervoor dat Teddy en Owen hun meningsverschillen uitpraten. Een python als huisdier zorgt voor de nodige ophef.",
     "category": [
@@ -335,7 +466,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F21759964~~2FEP027786290421,imi:d1db834d042a319213457fa3d7ab2c18cf8e81b8"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21759964~~2FEP027786290421,imi:d1db834d042a319213457fa3d7ab2c18cf8e81b8",
+      "episodeName": "Put the Squeeze on Me",
+      "genres": [
+        "Dramaserie",
+        "Medisch"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5e08c502-7198-4669-b6f8-4121e88b8a69"
     }
   },
   {
@@ -357,7 +496,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24768278~~2FEP034065420064,imi:ce7a189c28259c1419555f0994318f1e5b840243"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24768278~~2FEP034065420064,imi:ce7a189c28259c1419555f0994318f1e5b840243",
+      "episodeName": "Throttle",
+      "genres": [
+        "Dramaserie",
+        "Sciencefiction"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F17ce3928-b87e-4ae7-86f9-076778a671e1"
     }
   },
   {
@@ -379,7 +526,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F29198837~~2FEP043107510066,imi:f127a9bd41ee08ed63193e96720a13b169326b6d"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29198837~~2FEP043107510066,imi:f127a9bd41ee08ed63193e96720a13b169326b6d",
+      "episodeName": "Keep Calm and Deliver the Biotoxin",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20016064~~2FSH043107510000"
     }
   },
   {
@@ -401,7 +556,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F29235850~~2FEP043107510067,imi:a71588bf525302e6046f06d87999ec682838d26c"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29235850~~2FEP043107510067,imi:a71588bf525302e6046f06d87999ec682838d26c",
+      "episodeName": "Veritas Fidelis",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20016064~~2FSH043107510000"
     }
   },
   {
@@ -423,7 +586,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F29311749~~2FEP043107510068,imi:4414050b08c7b9910d4d0b34c42c465920c2241f"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29311749~~2FEP043107510068,imi:4414050b08c7b9910d4d0b34c42c465920c2241f",
+      "episodeName": "Blood Doesn't Become Water",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20016064~~2FSH043107510000"
     }
   },
   {
@@ -445,7 +616,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32915368~~2FEP052168520051,imi:531be0d19f4e7642e69e5b6723df4cc1454503c8"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32915368~~2FEP052168520051,imi:531be0d19f4e7642e69e5b6723df4cc1454503c8",
+      "episodeName": "Catch and Kill",
+      "genres": [
+        "Dramaserie",
+        "Recht"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24723426~~2FSH052168520000"
     }
   },
   {
@@ -467,7 +646,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32780395~~2FEP052168520052,imi:f3b16ad0d43ca4612569a5df5bd59a332ccc1f75"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32780395~~2FEP052168520052,imi:f3b16ad0d43ca4612569a5df5bd59a332ccc1f75",
+      "episodeName": "That's All",
+      "genres": [
+        "Dramaserie",
+        "Recht"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24723426~~2FSH052168520000"
     }
   },
   {
@@ -475,7 +662,7 @@
     "channel": "play5",
     "title": "NCIS: Origins",
     "start": 1786134600000,
-    "end": 1786137900000,
+    "end": 1786138200000,
     "description": "Terwijl het team ontdekt dat Gibbs dronken met Diane in Las Vegas is weggelopen om te trouwen, bezinnen de pasgetrouwden zich op hun toekomst. Het team onderzoekt ook een dodelijke bomaanslag in een bioscoop die verband houdt met het Pruitt-complex.",
     "category": [
       "Misdaaddrama",
@@ -489,14 +676,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32275657~~2FEP054701770029,imi:8da51ac257c1b7c7fcaf9ba45897413695d171cf"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32275657~~2FEP054701770029,imi:8da51ac257c1b7c7fcaf9ba45897413695d171cf",
+      "episodeName": "Fools Rush In",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26467713~~2FSH054701770000"
     }
   },
   {
-    "id": "play5:1786137900000:ogzyx3",
+    "id": "play5:1786138200000:ogzyx3",
     "channel": "play5",
     "title": "NCIS: Origins",
-    "start": 1786137900000,
+    "start": 1786138200000,
     "end": 1786141500000,
     "description": "Wanneer een marinekapitein op Camp Pendleton verschijnt met symptomen van een dodelijk virus, gaat NIS in lockdown en moet Gibbs de leiding nemen.",
     "category": [
@@ -511,7 +706,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32404609~~2FEP054701770030,imi:10c45b712f47bc839c46e50d6786e605be294c46"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32404609~~2FEP054701770030,imi:10c45b712f47bc839c46e50d6786e605be294c46",
+      "episodeName": "Lean on Me",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26467713~~2FSH054701770000"
     }
   }
 ]

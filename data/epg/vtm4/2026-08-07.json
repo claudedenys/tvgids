@@ -1,9 +1,9 @@
 [
   {
-    "id": "vtm4:1786060800000:48zb9",
+    "id": "vtm4:1786060200000:48zb9",
     "channel": "vtm4",
     "title": "Geen uitzending",
-    "start": 1786060800000,
+    "start": 1786060200000,
     "end": 1786078800000,
     "description": null,
     "category": [],
@@ -15,7 +15,12 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b27900a4a30da322d62875348d8b12e0a129a798"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b27900a4a30da322d62875348d8b12e0a129a798",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -36,7 +41,14 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F29111332~~2FSH055005000000~~2F518992519,imi:6e810336c2ad731386d3934e8cdb9af7ea2f59c4"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29111332~~2FSH055005000000~~2F518992519,imi:6e810336c2ad731386d3934e8cdb9af7ea2f59c4",
+      "episodeName": null,
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29111332~~2FSH055005000000"
     }
   },
   {
@@ -55,7 +67,12 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:79bbec0feca3e8d8db5d3348f2b424caf01d4655"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:79bbec0feca3e8d8db5d3348f2b424caf01d4655",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -63,7 +80,7 @@
     "channel": "vtm4",
     "title": "Geen uitzending",
     "start": 1786100400000,
-    "end": 1786104600000,
+    "end": 1786105200000,
     "description": null,
     "category": [],
     "image": null,
@@ -74,15 +91,20 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:94a21925ff629f137cfe1a8c1a83aea5326b97ab"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:94a21925ff629f137cfe1a8c1a83aea5326b97ab",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "vtm4:1786104600000:1k4oel4",
+    "id": "vtm4:1786105200000:1k4oel4",
     "channel": "vtm4",
     "title": "Stargate SG-1",
-    "start": 1786104600000,
-    "end": 1786107900000,
+    "start": 1786105200000,
+    "end": 1786108200000,
     "description": "Samantha Carter en Kowalski belanden in Area 51 en worden naar generaal Hammond gebracht. Al vlug wordt duidelijk dat ze uit een andere realiteit zijn gekomen. Ze kunnen niet meer terug en vragen Hammond toestemming om in hun realiteit te verblijven.",
     "category": [
       "Sciencefiction",
@@ -96,15 +118,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F2018753~~2FEP039207360057,imi:3c4aab7d69038bad0b03d3df0fd5091f55b72073"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F2018753~~2FEP039207360057,imi:3c4aab7d69038bad0b03d3df0fd5091f55b72073",
+      "episodeName": "Jolinar's Memories part 1",
+      "genres": [
+        "Sciencefiction",
+        "Avontuur"
+      ],
+      "productionDate": "1999",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3f95ef5d-cfb3-4214-8765-60161fec8695"
     }
   },
   {
-    "id": "vtm4:1786107900000:1k4oel4",
+    "id": "vtm4:1786108200000:1k4oel4",
     "channel": "vtm4",
     "title": "Stargate SG-1",
-    "start": 1786107900000,
-    "end": 1786111200000,
+    "start": 1786108200000,
+    "end": 1786111500000,
     "description": "Het SG1-team reist naar een planeet waarvan de inwoners aan een collectief geheugenverlies lijden. Het leven op de planeet wordt bedreigd. Met hulp van hun leidster Ke'ra probeert Daniël informatie op te zoeken over de geschiedenis van haar planeet.",
     "category": [
       "Sciencefiction",
@@ -118,15 +148,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F2018755~~2FEP039207360059,imi:e038b8eb13477085a64f5f9951446d7288606c0f"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F2018755~~2FEP039207360059,imi:e038b8eb13477085a64f5f9951446d7288606c0f",
+      "episodeName": "The Devil You Know part 2",
+      "genres": [
+        "Sciencefiction",
+        "Avontuur"
+      ],
+      "productionDate": "1999",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3f95ef5d-cfb3-4214-8765-60161fec8695"
     }
   },
   {
-    "id": "vtm4:1786111200000:gmhhx4",
+    "id": "vtm4:1786111500000:gmhhx4",
     "channel": "vtm4",
     "title": "Xena: Warrior Princess",
-    "start": 1786111200000,
-    "end": 1786114500000,
+    "start": 1786111500000,
+    "end": 1786114800000,
     "description": "Xena helpt haar oude vriend Lycus wanneer hij aangevallen wordt door de boosaardige Klonig. Het enige wat ze kan redden, is een tas waarin één van de vier aanwijzingen zit over de vindplaats van de 'Verloren Schat' van de Sumerianen.",
     "category": [
       "Dramaserie",
@@ -140,15 +178,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F1811263~~2FEP033262610012,imi:9f29922c60e5021caef52aed50390d91f975d8f7"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F1811263~~2FEP033262610012,imi:9f29922c60e5021caef52aed50390d91f975d8f7",
+      "episodeName": "A Fistful of Dinars",
+      "genres": [
+        "Dramaserie",
+        "Actie"
+      ],
+      "productionDate": "1995",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F004b52c4-3b51-4dc6-83e5-9244c1eedff4"
     }
   },
   {
-    "id": "vtm4:1786114500000:1k4oel4",
+    "id": "vtm4:1786114800000:1k4oel4",
     "channel": "vtm4",
     "title": "Stargate SG-1",
-    "start": 1786114500000,
-    "end": 1786117800000,
+    "start": 1786114800000,
+    "end": 1786118100000,
     "description": "Bij de bevrijding van de Abydonianen wordt het SG1-team zwaar onder vuur genomen door Goa'ulds. Daniel Jackson verlaat de gevechtszone als hij van Tasuf verneemt dat zijn vrouw Sha're zijn kleinzoon in haar bezit heeft. Daniel gaat naar hem op zoek.",
     "category": [
       "Sciencefiction",
@@ -162,14 +208,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F2018756~~2FEP039207360056,imi:2b2d904432793fe10e68e5444544f08e8f8af30b"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F2018756~~2FEP039207360056,imi:2b2d904432793fe10e68e5444544f08e8f8af30b",
+      "episodeName": "Foothold",
+      "genres": [
+        "Sciencefiction",
+        "Avontuur"
+      ],
+      "productionDate": "1999",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3f95ef5d-cfb3-4214-8765-60161fec8695"
     }
   },
   {
-    "id": "vtm4:1786117800000:iz5ub9",
+    "id": "vtm4:1786118100000:iz5ub9",
     "channel": "vtm4",
     "title": "Motorway Cops: Catching Britain's Speeders",
-    "start": 1786117800000,
+    "start": 1786118100000,
     "end": 1786121100000,
     "description": "Agent Mike Clark houdt het voertuig van een vermoedelijke drugsdealer tegen. Bij een huiszoeking bij de man thuis doet de politie een verrassende vondst.",
     "category": [
@@ -184,7 +238,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20729987~~2FEP043578570013,imi:5471fa8ffc1dcd92deee63a078a0b5b5aedd4581"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20729987~~2FEP043578570013,imi:5471fa8ffc1dcd92deee63a078a0b5b5aedd4581",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Misdaad",
+        "Docu"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19579687~~2FSH043578570000"
     }
   },
   {
@@ -206,7 +268,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20758145~~2FEP043578570004,imi:084a92f15e1bbf1d27543bbb6546bcc8106df586"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20758145~~2FEP043578570004,imi:084a92f15e1bbf1d27543bbb6546bcc8106df586",
+      "episodeName": "Aflevering 4",
+      "genres": [
+        "Misdaad",
+        "Docu"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19579687~~2FSH043578570000"
     }
   },
   {
@@ -228,7 +298,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20809080~~2FEP043578570009,imi:b2dd3749909a4020ad20e4f1570c8ebce081828d"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20809080~~2FEP043578570009,imi:b2dd3749909a4020ad20e4f1570c8ebce081828d",
+      "episodeName": "Aflevering 5",
+      "genres": [
+        "Misdaad",
+        "Docu"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19579687~~2FSH043578570000"
     }
   },
   {
@@ -250,7 +328,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9217~~2FMV010982890000,imi:e67696126c2cc7b38a0c80339691e9737dc2c29d"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9217~~2FMV010982890000,imi:e67696126c2cc7b38a0c80339691e9737dc2c29d",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Comedy"
+      ],
+      "productionDate": "1986",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -272,7 +358,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F6087~~2FMV017015690000,imi:840e95275a38aa142956a70daf50229bad921a38"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F6087~~2FMV017015690000,imi:840e95275a38aa142956a70daf50229bad921a38",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Erotisch"
+      ],
+      "productionDate": "1974",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   }
 ]

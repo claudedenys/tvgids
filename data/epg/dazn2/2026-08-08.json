@@ -1,43 +1,196 @@
 [
   {
-    "id": "dazn2:1786134600000:1ltn7gx",
+    "id": "dazn2:1786145700000:dbiwc0",
     "channel": "dazn2",
-    "title": "Wordt aangekondigd",
-    "start": 1786134600000,
+    "title": "Interlandvoetbal Mannen",
+    "start": 1786145700000,
+    "end": 1786152300000,
+    "description": "Verslag van de oefeninterland Nederland - Noorwegen, gespeeld ter voorbereiding op het WK 2026 in Canada, Mexico en de Verenigde Staten.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32122490~~2FEP046401410682%2Cimi%3A1e301d13bebe69b44949705d648ac54ed2217534/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1410000,
+    "episode": 2026032782,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32122490~~2FEP046401410682,imi:1e301d13bebe69b44949705d648ac54ed2217534",
+      "episodeName": "Nederland - Noorwegen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23914624~~2FSH046401410000"
+    }
+  },
+  {
+    "id": "dazn2:1786152300000:377dna",
+    "channel": "dazn2",
+    "title": "NBA",
+    "start": 1786152300000,
+    "end": 1786159200000,
+    "description": "Verslag van de wedstrijd Milwaukee Bucks - Atlanta Hawks, gespeeld in de NBA.",
+    "category": [
+      "Sport",
+      "Basketbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31372948~~2FEP033918225936%2Cimi%3A45904ea66399fc5dab5279c07bc5ef719b7f5715/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 18220000,
+    "episode": 2026030436,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31372948~~2FEP033918225936,imi:45904ea66399fc5dab5279c07bc5ef719b7f5715",
+      "episodeName": "Milwaukee Bucks - Atlanta Hawks",
+      "genres": [
+        "Sport",
+        "Basketbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F191276~~2FSH033918220000"
+    }
+  },
+  {
+    "id": "dazn2:1786159200000:377dna",
+    "channel": "dazn2",
+    "title": "NBA",
+    "start": 1786159200000,
+    "end": 1786160400000,
+    "description": "Hoogtepunten en samenvattingen van de verschillende wedstrijden die gespeeld worden in de NBA.",
+    "category": [
+      "Sport",
+      "Basketbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24369744~~2FEP033931850372%2Cimi%3A2bd0418ae78ffb701a4e17423eefd98d163a5146/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102023,
+    "episode": 123,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24369744~~2FEP033931850372,imi:2bd0418ae78ffb701a4e17423eefd98d163a5146",
+      "episodeName": "Best All-Star games of the decade",
+      "genres": [
+        "Sport",
+        "Basketbal"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F448623~~2FSH033931850000"
+    }
+  },
+  {
+    "id": "dazn2:1786160400000:1gwme0q",
+    "channel": "dazn2",
+    "title": "Inside Serie A",
+    "start": 1786160400000,
+    "end": 1786163700000,
+    "description": "Een vooruitblik op de komende voetbalwedstrijden in de Italiaanse Serie A-competitie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15849304~~2FSH033935250000~~2F523901554%2Cimi%3A9d4423a2325e33ccb15fd4e952159116f144d607/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35250000,
+    "episode": 523901554,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F15849304~~2FSH033935250000~~2F523901554,imi:9d4423a2325e33ccb15fd4e952159116f144d607",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F15849304~~2FSH033935250000"
+    }
+  },
+  {
+    "id": "dazn2:1786163700000:1ocrujx",
+    "channel": "dazn2",
+    "title": "Ligue 1 Show",
+    "start": 1786163700000,
     "end": 1786167000000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Nieuws van de Ligue 1.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A147be774544e3ca0e2bddb47f05e953552f84e21/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14389018~~2FSH027449030000~~2F523902564%2Cimi%3Ad454278652217106434d7a048f5eb4de7af4df65/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 49030000,
+    "episode": 523902564,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:147be774544e3ca0e2bddb47f05e953552f84e21",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14389018~~2FSH027449030000~~2F523902564,imi:d454278652217106434d7a048f5eb4de7af4df65",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Voetbal"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F14389018~~2FSH027449030000"
     }
   },
   {
-    "id": "dazn2:1786167000000:1ltn7gx",
+    "id": "dazn2:1786167000000:dbiwc0",
     "channel": "dazn2",
-    "title": "Wordt aangekondigd",
+    "title": "Interlandvoetbal Mannen",
     "start": 1786167000000,
-    "end": 1786177800000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "end": 1786173900000,
+    "description": "Verslag van de oefeninterland Noorwegen - Zweden, gespeeld ter voorbereiding op het WK 2026 in Canada, Mexico en de Verenigde Staten.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A11d01557c88a663452be72a9d297a8644acd5afb/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32683883~~2FEP046401410792%2Cimi%3A711733d079561002b8cd4645dc0a9f46fe2acdf0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1410000,
+    "episode": 2026060192,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32683883~~2FEP046401410792,imi:711733d079561002b8cd4645dc0a9f46fe2acdf0",
+      "episodeName": "Noorwegen - Zweden",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23914624~~2FSH046401410000"
+    }
+  },
+  {
+    "id": "dazn2:1786173900000:1pkbva8",
+    "channel": "dazn2",
+    "title": "Eleven Retro: Eden Hazard",
+    "start": 1786173900000,
+    "end": 1786174500000,
+    "description": "Hij groeide uit tot een legende van het Belgische voetbal. Al van bij zijn debuut maakte Eden Hazard indruk op iedereen die hem zag spelen.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33799164~~2FSH065568380000~~2Fspecial%2Cimi%3Ac937aaba7181c1a04db399f23a34c92b33044044/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -45,10 +198,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:11d01557c88a663452be72a9d297a8644acd5afb",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33799164~~2FSH065568380000~~2Fspecial,imi:c937aaba7181c1a04db399f23a34c92b33044044",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Voetbal"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
@@ -56,143 +210,543 @@
     }
   },
   {
-    "id": "dazn2:1786177800000:1ltn7gx",
+    "id": "dazn2:1786174500000:tmx8y2",
     "channel": "dazn2",
-    "title": "Wordt aangekondigd",
-    "start": 1786177800000,
-    "end": 1786188600000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "Clubland",
+    "start": 1786174500000,
+    "end": 1786176000000,
+    "description": "Een documentaireserie over de grootste competities en hun tradities, rivaliteiten, schurken en helden, die ervoor zorgen dat supporters zo houden van hun sport en hun kampioenen.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Docu"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A5801fbb069ab5005e7293ad4d8d46a0df98987fe/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20763070~~2FEP033965400072%2Cimi%3Af98c57485d078652887ad962effa15138c728cf5/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 65400000,
+    "episode": 2021100272,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:5801fbb069ab5005e7293ad4d8d46a0df98987fe",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20763070~~2FEP033965400072,imi:f98c57485d078652887ad962effa15138c728cf5",
+      "episodeName": "Juventus/River Plate",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Docu"
       ],
-      "productionDate": null,
+      "productionDate": "2021",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F42ccd491-35bc-41b8-8ed1-5ddb0ea5479c"
     }
   },
   {
-    "id": "dazn2:1786188600000:1ltn7gx",
+    "id": "dazn2:1786176000000:tmx8y2",
     "channel": "dazn2",
-    "title": "Wordt aangekondigd",
-    "start": 1786188600000,
-    "end": 1786199400000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "Clubland",
+    "start": 1786176000000,
+    "end": 1786177500000,
+    "description": "Een documentaireserie over de grootste competities en hun tradities, rivaliteiten, schurken en helden, die ervoor zorgen dat supporters zo houden van hun sport en hun kampioenen.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Docu"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A5c7e058335678feae572e60148ff5518dbb1ea87/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20793401~~2FEP033965400076%2Cimi%3A8da2f5b8a5a3d04205754d6a6969f49e282d33e4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 65400000,
+    "episode": 2021101776,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:5c7e058335678feae572e60148ff5518dbb1ea87",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20793401~~2FEP033965400076,imi:8da2f5b8a5a3d04205754d6a6969f49e282d33e4",
+      "episodeName": "Roma/Feyenoord",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Docu"
       ],
-      "productionDate": null,
+      "productionDate": "2021",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F42ccd491-35bc-41b8-8ed1-5ddb0ea5479c"
     }
   },
   {
-    "id": "dazn2:1786199400000:1ltn7gx",
+    "id": "dazn2:1786177500000:tmx8y2",
     "channel": "dazn2",
-    "title": "Wordt aangekondigd",
-    "start": 1786199400000,
-    "end": 1786210200000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "Clubland",
+    "start": 1786177500000,
+    "end": 1786179000000,
+    "description": "Een documentaireserie over de grootste competities en hun tradities, rivaliteiten, schurken en helden, die ervoor zorgen dat supporters zo houden van hun sport en hun kampioenen.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Docu"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Aa5b915dc106294affee164b8fcc9686534f25884/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21224610~~2FEP033965400089%2Cimi%3A7f61d4fdc7b9f9824b592bef36f93251e5a7483b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 65400000,
+    "episode": 2021121689,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:a5b915dc106294affee164b8fcc9686534f25884",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21224610~~2FEP033965400089,imi:7f61d4fdc7b9f9824b592bef36f93251e5a7483b",
+      "episodeName": "Barcelona/Zidane's Madrid",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Docu"
       ],
-      "productionDate": null,
+      "productionDate": "2021",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F42ccd491-35bc-41b8-8ed1-5ddb0ea5479c"
     }
   },
   {
-    "id": "dazn2:1786210200000:1ltn7gx",
+    "id": "dazn2:1786179000000:1mw5kk9",
     "channel": "dazn2",
-    "title": "Wordt aangekondigd",
-    "start": 1786210200000,
-    "end": 1786221000000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "NBA On Fire",
+    "start": 1786179000000,
+    "end": 1786181100000,
+    "description": "Analyses, nabesprekingen en hoogtepunten. Geniet meteen van een nieuwe aflevering van NBA On Fire.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Basketbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A0d849fb3f7dbbaa9b6f9315956f92ac513426383/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23211386~~2FSH065568330000~~2F523902570%2Cimi%3A7b9eda42d413d2e25c2282c645fe4fa02532594b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 68330000,
+    "episode": 523902570,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:0d849fb3f7dbbaa9b6f9315956f92ac513426383",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23211386~~2FSH065568330000~~2F523902570,imi:7b9eda42d413d2e25c2282c645fe4fa02532594b",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Basketbal"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23211386~~2FSH065568330000"
     }
   },
   {
-    "id": "dazn2:1786221000000:1ltn7gx",
+    "id": "dazn2:1786181100000:162b1pw",
     "channel": "dazn2",
-    "title": "Wordt aangekondigd",
-    "start": 1786221000000,
-    "end": 1786253400000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "NBA Action",
+    "start": 1786181100000,
+    "end": 1786182300000,
+    "description": "NBA Action brengt de hoogtepunten en het laatste nieuws uit de NBA en een terugblik op de statistieken en beste acties van afgelopen week.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Basketbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A935c82ac716f95d0d75606dcf435d68caa3ac249/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F8726005~~2FSH033946730000~~2F523902571%2Cimi%3A9bb1580445b1ee585e08689cd1f206cee75ebfea/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 46730000,
+    "episode": 523902571,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:935c82ac716f95d0d75606dcf435d68caa3ac249",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8726005~~2FSH033946730000~~2F523902571,imi:9bb1580445b1ee585e08689cd1f206cee75ebfea",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Basketbal"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8726005~~2FSH033946730000"
+    }
+  },
+  {
+    "id": "dazn2:1786182300000:377dna",
+    "channel": "dazn2",
+    "title": "NBA",
+    "start": 1786182300000,
+    "end": 1786189500000,
+    "description": "Verslag van de wedstrijd Philadelphia 76ers - San Antonio Spurs, gespeeld in de NBA.",
+    "category": [
+      "Sport",
+      "Basketbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31372612~~2FEP033918225927%2Cimi%3A6610c150ecf974dccf599ed3419eeae4e60fac14/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 18220000,
+    "episode": 2026030327,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31372612~~2FEP033918225927,imi:6610c150ecf974dccf599ed3419eeae4e60fac14",
+      "episodeName": "Philadelphia 76ers - San Antonio Spurs",
+      "genres": [
+        "Sport",
+        "Basketbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F191276~~2FSH033918220000"
+    }
+  },
+  {
+    "id": "dazn2:1786189500000:377dna",
+    "channel": "dazn2",
+    "title": "NBA",
+    "start": 1786189500000,
+    "end": 1786196400000,
+    "description": "Verslag van de wedstrijd Golden State Warriors - Los Angeles Lakers, gespeeld in de NBA.",
+    "category": [
+      "Sport",
+      "Basketbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31371035~~2FEP033918225905%2Cimi%3A1c0faa13f7a6ae8e429e0b8efd6778f4a59b51d9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 18220000,
+    "episode": 2026022805,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31371035~~2FEP033918225905,imi:1c0faa13f7a6ae8e429e0b8efd6778f4a59b51d9",
+      "episodeName": "Golden State Warriors - Los Angeles Lakers",
+      "genres": [
+        "Sport",
+        "Basketbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F191276~~2FSH033918220000"
+    }
+  },
+  {
+    "id": "dazn2:1786196400000:377dna",
+    "channel": "dazn2",
+    "title": "NBA",
+    "start": 1786196400000,
+    "end": 1786200000000,
+    "description": "Hoogtepunten en samenvattingen van de verschillende wedstrijden die gespeeld worden in de NBA.",
+    "category": [
+      "Sport",
+      "Basketbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28095336~~2FEP033931850397%2Cimi%3A579621a696ebe22b1a3b8088f0f1b8aa114f513c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102024,
+    "episode": 305,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28095336~~2FEP033931850397,imi:579621a696ebe22b1a3b8088f0f1b8aa114f513c",
+      "episodeName": "Boston Celtics Best Plays Of The Season",
+      "genres": [
+        "Sport",
+        "Basketbal"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F448623~~2FSH033931850000"
+    }
+  },
+  {
+    "id": "dazn2:1786200000000:olpf3e",
+    "channel": "dazn2",
+    "title": "Road trip",
+    "start": 1786200000000,
+    "end": 1786200900000,
+    "description": "Trek eropuit en ontdek de mooiste verhalen en iconische locaties uit de voetbalwereld.",
+    "category": [
+      "Miniserie",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33798696~~2FEP065566730001%2Cimi%3A8b2f164697497045ba0c60358cd78abeb8a3176e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 66730000,
+    "episode": 2026072801,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33798696~~2FEP065566730001,imi:8b2f164697497045ba0c60358cd78abeb8a3176e",
+      "episodeName": "Episode 1",
+      "genres": [
+        "Miniserie",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33798683~~2FSH065566730000"
+    }
+  },
+  {
+    "id": "dazn2:1786200900000:olpf3e",
+    "channel": "dazn2",
+    "title": "Road trip",
+    "start": 1786200900000,
+    "end": 1786201800000,
+    "description": "Trek eropuit en ontdek de mooiste verhalen en iconische locaties uit de voetbalwereld.",
+    "category": [
+      "Miniserie",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33799037~~2FEP065566730002%2Cimi%3Add6a58d87fdb2a45c898bc2909858de0d0120a60/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 66730000,
+    "episode": 2026072802,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33799037~~2FEP065566730002,imi:dd6a58d87fdb2a45c898bc2909858de0d0120a60",
+      "episodeName": "Episode 2",
+      "genres": [
+        "Miniserie",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33798683~~2FSH065566730000"
+    }
+  },
+  {
+    "id": "dazn2:1786201800000:olpf3e",
+    "channel": "dazn2",
+    "title": "Road trip",
+    "start": 1786201800000,
+    "end": 1786202700000,
+    "description": "Trek eropuit en ontdek de mooiste verhalen en iconische locaties uit de voetbalwereld.",
+    "category": [
+      "Miniserie",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33799040~~2FEP065566730003%2Cimi%3A70a1936920216eca952531f832e9a10b0763f222/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 66730000,
+    "episode": 2026072803,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33799040~~2FEP065566730003,imi:70a1936920216eca952531f832e9a10b0763f222",
+      "episodeName": "Episode 3",
+      "genres": [
+        "Miniserie",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33798683~~2FSH065566730000"
+    }
+  },
+  {
+    "id": "dazn2:1786202700000:olpf3e",
+    "channel": "dazn2",
+    "title": "Road trip",
+    "start": 1786202700000,
+    "end": 1786203600000,
+    "description": "Trek eropuit en ontdek de mooiste verhalen en iconische locaties uit de voetbalwereld.",
+    "category": [
+      "Miniserie",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33799041~~2FEP065566730004%2Cimi%3A71e3248df42735004ff4ded5e35a3d80ed425b2f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 66730000,
+    "episode": 2026072804,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33799041~~2FEP065566730004,imi:71e3248df42735004ff4ded5e35a3d80ed425b2f",
+      "episodeName": "Episode 4",
+      "genres": [
+        "Miniserie",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33798683~~2FSH065566730000"
+    }
+  },
+  {
+    "id": "dazn2:1786203600000:olpf3e",
+    "channel": "dazn2",
+    "title": "Road trip",
+    "start": 1786203600000,
+    "end": 1786204500000,
+    "description": "Trek eropuit en ontdek de mooiste verhalen en iconische locaties uit de voetbalwereld.",
+    "category": [
+      "Miniserie",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33799042~~2FEP065566730005%2Cimi%3A7658375191141306ba64166db285dac1f8bb1ed9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 66730000,
+    "episode": 2026072805,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33799042~~2FEP065566730005,imi:7658375191141306ba64166db285dac1f8bb1ed9",
+      "episodeName": "Episode 5",
+      "genres": [
+        "Miniserie",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33798683~~2FSH065566730000"
+    }
+  },
+  {
+    "id": "dazn2:1786204500000:olpf3e",
+    "channel": "dazn2",
+    "title": "Road trip",
+    "start": 1786204500000,
+    "end": 1786205700000,
+    "description": "Trek eropuit en ontdek de mooiste verhalen en iconische locaties uit de voetbalwereld.",
+    "category": [
+      "Miniserie",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33799047~~2FEP065566730006%2Cimi%3A6b83c33f9a4e82e2267135d5e6522d28dd21ebf0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 66730000,
+    "episode": 2026072806,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33799047~~2FEP065566730006,imi:6b83c33f9a4e82e2267135d5e6522d28dd21ebf0",
+      "episodeName": "Episode 6",
+      "genres": [
+        "Miniserie",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33798683~~2FSH065566730000"
+    }
+  },
+  {
+    "id": "dazn2:1786205700000:xsgob0",
+    "channel": "dazn2",
+    "title": "Ligue 1",
+    "start": 1786205700000,
+    "end": 1786212300000,
+    "description": "Vanuit het Stade Bollaert-Delelis in Lens, Frankrijk.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30769404~~2FEP039487310937%2Cimi%3A8b7f59cc4f4ee8160648180f1c74c7ef8fcfe860/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 87310000,
+    "episode": 2025092037,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30769404~~2FEP039487310937,imi:8b7f59cc4f4ee8160648180f1c74c7ef8fcfe860",
+      "episodeName": "RC Lens - Lille",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3606627~~2FSH039487310000"
+    }
+  },
+  {
+    "id": "dazn2:1786212300000:xsgob0",
+    "channel": "dazn2",
+    "title": "Ligue 1",
+    "start": 1786212300000,
+    "end": 1786218900000,
+    "description": "From Stadium de la Meinau in Strasbourg, Bas-Rhin, France.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30769883~~2FEP039487310944%2Cimi%3Ac35edbd1e0a10aa20b5c7e7f5cbd585ac8d48fbb/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 87310000,
+    "episode": 2025092644,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30769883~~2FEP039487310944,imi:c35edbd1e0a10aa20b5c7e7f5cbd585ac8d48fbb",
+      "episodeName": "RC Strasbourg Alsace vs. Olympique de Marseille",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3606627~~2FSH039487310000"
+    }
+  },
+  {
+    "id": "dazn2:1786218900000:a86dbu",
+    "channel": "dazn2",
+    "title": "LaLiga Highlights",
+    "start": 1786218900000,
+    "end": 1786220700000,
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9502198~~2FSH036053950000~~2F523902583%2Cimi%3Aaec378b4cae4225d4f8f720bdfc489cf7e049a93/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 53950000,
+    "episode": 523902583,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9502198~~2FSH036053950000~~2F523902583,imi:aec378b4cae4225d4f8f720bdfc489cf7e049a93",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F9502198~~2FSH036053950000"
+    }
+  },
+  {
+    "id": "dazn2:1786220700000:377dr9",
+    "channel": "dazn2",
+    "title": "NFL",
+    "start": 1786220700000,
+    "end": 1786232100000,
+    "description": "Verslag van de Hall of Fame Game Arizona Cardinals - Carolina Panthers, gespeeld in de NFL.",
+    "category": [
+      "Sport",
+      "American football"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33184505~~2FEP034053281859%2Cimi%3Ab75d4b89fa16a0de644c2bbc864498d0cc002087/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 53280000,
+    "episode": 2026080659,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33184505~~2FEP034053281859,imi:b75d4b89fa16a0de644c2bbc864498d0cc002087",
+      "episodeName": "Hall of Fame Game: Arizona Cardinals - Carolina Panthers",
+      "genres": [
+        "Sport",
+        "American football"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F183389a7-f532-4e10-95d6-6b4f6637ca75"
     }
   }
 ]

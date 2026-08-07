@@ -1,10 +1,38 @@
 [
   {
-    "id": "vtm2:1786059600000:48zb9",
+    "id": "vtm2:1786059600000:efnb6o",
+    "channel": "vtm2",
+    "title": "Mr. Frank Visser Doet Uitspraak",
+    "start": 1786059600000,
+    "end": 1786062300000,
+    "description": "Mr. Visser reist af naar Hoogvliet, waar Essie en haar dochter Zuwena ruzie hebben met de bovenburen. Fred en Marion maken volgens hen opzettelijk lawaai met hun slippers, terwijl zij klagen over Zuwena's gehuil en pianospel.",
+    "category": [
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31707139~~2FEP027636470223%2Cimi%3A64033d7f12d9565ac068f9747a0d61665b2b9b79/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 4,
+    "episode": 34,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31707139~~2FEP027636470223,imi:64033d7f12d9565ac068f9747a0d61665b2b9b79",
+      "episodeName": "Slippertje - Hoogvliet",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2018",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb3763d7c-5268-4986-8181-ba7967c48e9e"
+    }
+  },
+  {
+    "id": "vtm2:1786062300000:48zb9",
     "channel": "vtm2",
     "title": "Geen uitzending",
-    "start": 1786059600000,
-    "end": 1786092900000,
+    "start": 1786062300000,
+    "end": 1786096200000,
     "description": null,
     "category": [],
     "image": null,
@@ -15,15 +43,20 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:252f847b15da9f5d1febfb42c75164aa6a01ca73"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:252f847b15da9f5d1febfb42c75164aa6a01ca73",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "vtm2:1786092900000:1361gb3",
+    "id": "vtm2:1786096200000:1361gb3",
     "channel": "vtm2",
     "title": "Gladiators",
-    "start": 1786092900000,
-    "end": 1786097400000,
+    "start": 1786096200000,
+    "end": 1786100100000,
     "description": "Deze keer vliegt Comet in de Hang Tough en racet Diamond The Wall op.",
     "category": [
       "Spelprogramma",
@@ -37,15 +70,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26622779~~2FEP052245690004,imi:2f6d337c27c6c95ab3222a7b448e25d925be1def"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26622779~~2FEP052245690004,imi:2f6d337c27c6c95ab3222a7b448e25d925be1def",
+      "episodeName": "Aflevering 4",
+      "genres": [
+        "Spelprogramma",
+        "Entertainment"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26459138~~2FSH052245690000"
     }
   },
   {
-    "id": "vtm2:1786097400000:71qygw",
+    "id": "vtm2:1786100100000:71qygw",
     "channel": "vtm2",
     "title": "Achter gesloten deuren",
-    "start": 1786097400000,
-    "end": 1786100700000,
+    "start": 1786100100000,
+    "end": 1786102500000,
     "description": "Mara is via het internet verliefd geworden op een collega. Hij herkent haar echter niet, omdat ze de foto van iemand anders heeft gebruikt. Maar nu wil Mara echt aan hem vertellen wie ze is.",
     "category": [
       "Reality"
@@ -58,15 +99,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15073360~~2FEP028805090005,imi:e91c8d1604914d84bd083ee115c4942d6d0bb9d0"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F15073360~~2FEP028805090005,imi:e91c8d1604914d84bd083ee115c4942d6d0bb9d0",
+      "episodeName": "Leugenachtige liefde",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2013",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde523c19-0d99-4f54-96e7-dce6053ca19d"
     }
   },
   {
-    "id": "vtm2:1786100700000:vl4nfs",
+    "id": "vtm2:1786102500000:vl4nfs",
     "channel": "vtm2",
     "title": "Blind Getrouwd USA",
-    "start": 1786100700000,
-    "end": 1786104600000,
+    "start": 1786102500000,
+    "end": 1786105800000,
     "description": "Zes vrijgezellen die op zoek zijn naar de ware liefde worden gekoppeld aan de op wetenschappelijke data gebaseerde perfecte partner en moeten meteen met elkaar in het huwelijksbootje stappen.",
     "category": [
       "Reality"
@@ -79,15 +127,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31335584~~2FEP036902220268,imi:4efbc11cc8b4fdc3474d61c06695f37c99694a25"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31335584~~2FEP036902220268,imi:4efbc11cc8b4fdc3474d61c06695f37c99694a25",
+      "episodeName": "Aflevering 14",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Ff86dac21-2a13-464d-a52f-b9786ca554f6"
     }
   },
   {
-    "id": "vtm2:1786104600000:1361gb3",
+    "id": "vtm2:1786105800000:1361gb3",
     "channel": "vtm2",
     "title": "Gladiators",
-    "start": 1786104600000,
-    "end": 1786108800000,
+    "start": 1786105800000,
+    "end": 1786110000000,
     "description": "Legend komt in de problemen op de Collision Bridge en Fury gaat woest tekeer in de Ring.",
     "category": [
       "Spelprogramma",
@@ -101,15 +156,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26658242~~2FEP052245690005,imi:800a7b289691a3830faf7e6e3d79ca761c1fdb50"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26658242~~2FEP052245690005,imi:800a7b289691a3830faf7e6e3d79ca761c1fdb50",
+      "episodeName": "Aflevering 5",
+      "genres": [
+        "Spelprogramma",
+        "Entertainment"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26459138~~2FSH052245690000"
     }
   },
   {
-    "id": "vtm2:1786108800000:71qygw",
+    "id": "vtm2:1786110000000:71qygw",
     "channel": "vtm2",
     "title": "Achter gesloten deuren",
-    "start": 1786108800000,
-    "end": 1786112100000,
+    "start": 1786110000000,
+    "end": 1786113000000,
     "description": "Esperanza's broer Juan is na een lang verblijf bij zijn vader in Spanje terug in Nederland. Hij woont nu bij zijn moeder en zus in. Es heeft een heel bijzondere reden om hier extra blij mee te zijn.",
     "category": [
       "Reality"
@@ -122,15 +185,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15073375~~2FEP028805090007,imi:412990b97a85a620bbc039aaf812f85c84ecd7ce"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F15073375~~2FEP028805090007,imi:412990b97a85a620bbc039aaf812f85c84ecd7ce",
+      "episodeName": "Onmogelijke liefde",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2013",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde523c19-0d99-4f54-96e7-dce6053ca19d"
     }
   },
   {
-    "id": "vtm2:1786112100000:18z5aj7",
+    "id": "vtm2:1786113000000:18z5aj7",
     "channel": "vtm2",
     "title": "Hell's Kitchen USA",
-    "start": 1786112100000,
-    "end": 1786115400000,
+    "start": 1786113000000,
+    "end": 1786116300000,
     "description": "De koks gaan drie moeilijke uitdagingen aan in de hoop een zwarte koksbuis te bemachtigen.",
     "category": [
       "Koken",
@@ -144,15 +214,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26352528~~2FEP038690190146,imi:e2080196f2a15a13e28a3c70d52445763937c161"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26352528~~2FEP038690190146,imi:e2080196f2a15a13e28a3c70d52445763937c161",
+      "episodeName": "Aflevering 12",
+      "genres": [
+        "Koken",
+        "Reality-competitie"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb67666f5-75cf-428e-97c2-504e84aa679e"
     }
   },
   {
-    "id": "vtm2:1786115400000:1ccpmln",
+    "id": "vtm2:1786116300000:1ccpmln",
     "channel": "vtm2",
     "title": "Onderweg naar liefde",
-    "start": 1786115400000,
-    "end": 1786119600000,
+    "start": 1786116300000,
+    "end": 1786120200000,
     "description": "Vier vanlifers ontmoeten hun eerste dates. Joeri wordt verrast met een date die zijn vrienden hebben gekozen. Ontstaat er meteen een klik?",
     "category": [
       "Romantiek",
@@ -166,15 +244,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28546712~~2FEP053482890001,imi:30165ffbac6f3f83d7b090e78220ff418eeeffa5"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28546712~~2FEP053482890001,imi:30165ffbac6f3f83d7b090e78220ff418eeeffa5",
+      "episodeName": "De eerste dates komen er aan",
+      "genres": [
+        "Romantiek",
+        "Reizen"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28546653~~2FSH053482890000"
     }
   },
   {
-    "id": "vtm2:1786119600000:7aqr9i",
+    "id": "vtm2:1786120200000:7aqr9i",
     "channel": "vtm2",
     "title": "De Planckaerts",
-    "start": 1786119600000,
-    "end": 1786122000000,
+    "start": 1786120200000,
+    "end": 1786122300000,
     "description": "Francesco bespreekt met zijn vader het droomscenario van Magali voor het huwelijk. Na een drukke periode in de chambres d'hôtes wil Eddy met zijn familie even tot rust komen.",
     "category": [
       "Reality",
@@ -188,16 +274,24 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22546572~~2FEP040418100094,imi:68fbc80e2df5bbda4378a220d729a7a43cf99b92"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22546572~~2FEP040418100094,imi:68fbc80e2df5bbda4378a220d729a7a43cf99b92",
+      "episodeName": "Aflevering 5",
+      "genres": [
+        "Reality",
+        "Soap"
+      ],
+      "productionDate": "2005",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3a8de921-a1a4-40fb-a868-b5d680e20eb3"
     }
   },
   {
-    "id": "vtm2:1786122000000:ou6wlv",
+    "id": "vtm2:1786122300000:ou6wlv",
     "channel": "vtm2",
     "title": "Home and Away",
-    "start": 1786122000000,
-    "end": 1786123800000,
-    "description": "De (liefdes)levens van bewoners van het fictieve Australische stadje Summer Bay. De hoofdpersonen moeten omgaan met relaties, familie, liefde, verlies en opgroeien.",
+    "start": 1786122300000,
+    "end": 1786124100000,
+    "description": "Alf komt Remi tegen, die Levi's telefoontjes ontwijkt. Eddie bekent de waarheid aan Jo, die toegeeft dat ze zich deels verloofd heeft omdat dat van haar werd verwacht.",
     "category": [
       "Dramaserie",
       "Soap"
@@ -210,14 +304,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32217198~~2FEP032263531529,imi:039d4cc1d09539a6d42c196c922c52c7960ecd0f"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32217198~~2FEP032263531529,imi:039d4cc1d09539a6d42c196c922c52c7960ecd0f",
+      "episodeName": "Aflevering 7",
+      "genres": [
+        "Dramaserie",
+        "Soap"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb435ca6b-3516-4173-babe-070f4ce80731"
     }
   },
   {
-    "id": "vtm2:1786123800000:efnb6o",
+    "id": "vtm2:1786124100000:efnb6o",
     "channel": "vtm2",
     "title": "Mr. Frank Visser Doet Uitspraak",
-    "start": 1786123800000,
+    "start": 1786124100000,
     "end": 1786127400000,
     "description": "Erika en Ramons mooiste dag eindigde in een nachtmerrie omdat de borsten van Erika boven haar `droomjurk' uit klotsten. Volgens het bruidspaar is dit te wijten aan de bruidsmodezaak die haar japon verkeerd zou hebben vermaakt.",
     "category": [
@@ -231,7 +333,14 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F16610929~~2FEP027636470056,imi:78cb9bc47683908ecb8572f0601837ef44b27b70"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16610929~~2FEP027636470056,imi:78cb9bc47683908ecb8572f0601837ef44b27b70",
+      "episodeName": "Een ontroostbare bruiloft",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2019",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb3763d7c-5268-4986-8181-ba7967c48e9e"
     }
   },
   {
@@ -239,7 +348,7 @@
     "channel": "vtm2",
     "title": "Greenland",
     "start": 1786127400000,
-    "end": 1786135200000,
+    "end": 1786134900000,
     "description": "Een familie begint aan een gevaarlijke reis als een vernietigende komeet naar de aarde raast. Terwijl het aftellen naar de wereldwijde apocalyps de nul nadert, culmineert hun tocht in een wanhopige en vlucht naar een mogelijke veilige haven.",
     "category": [
       "Film",
@@ -253,15 +362,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F18046609~~2FMV015791890000,imi:cdea606b2a0492df6d9df07dc468278a6e18fb51"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18046609~~2FMV015791890000,imi:cdea606b2a0492df6d9df07dc468278a6e18fb51",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Actie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "vtm2:1786135200000:1w5z5hh",
+    "id": "vtm2:1786134900000:1w5z5hh",
     "channel": "vtm2",
     "title": "Black Hawk Down",
-    "start": 1786135200000,
-    "end": 1786144500000,
+    "start": 1786134900000,
+    "end": 1786143600000,
     "description": "Amerikaanse soldaten krijgen de opdracht een Somalische krijgsheer gevangen te nemen, maar stuiten op zwaar verzet, waarbij twee helikopters worden neergeschoten.",
     "category": [
       "Drama",
@@ -275,7 +392,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28873~~2FMV013983770000,imi:707ab83055fca25bb9ae138e5e3b8d1ac14e0b70"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28873~~2FMV013983770000,imi:707ab83055fca25bb9ae138e5e3b8d1ac14e0b70",
+      "episodeName": null,
+      "genres": [
+        "Drama",
+        "Film"
+      ],
+      "productionDate": "2001",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   }
 ]

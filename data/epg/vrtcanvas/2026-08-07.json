@@ -18,7 +18,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F521579677,imi:9f2fc948fcebb6ee5fe7cf4cf72a1fa74d3d5114"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F521579677,imi:9f2fc948fcebb6ee5fe7cf4cf72a1fa74d3d5114",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
     }
   },
   {
@@ -40,7 +48,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33645328~~2FEP062212500046,imi:7a43fd3cd66308b8c9c46eb8501c3f6fb95b83ad"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33645328~~2FEP062212500046,imi:7a43fd3cd66308b8c9c46eb8501c3f6fb95b83ad",
+      "episodeName": "Aflevering 46",
+      "genres": [
+        "Muziek",
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32008017~~2FSH062212500000"
     }
   },
   {
@@ -62,7 +78,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033,imi:d3dedd3fbadc474a0a47910dd64ac1eefd6f3fc4"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033,imi:d3dedd3fbadc474a0a47910dd64ac1eefd6f3fc4",
+      "episodeName": "Aflevering 36",
+      "genres": [
+        "Entertainment",
+        "Natuur"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F49053e1e-ce44-41aa-9e3f-9c9cc61aefca"
     }
   },
   {
@@ -71,9 +95,10 @@
     "title": "Radio 1: De beer op het strand",
     "start": 1786096800000,
     "end": 1786100400000,
-    "description": null,
+    "description": "Radio 1 zendt tijdens Theater aan Zee (TAZ) in Oostende elke middag live uit vanaf het strand onder de noemer 'De beer op het strand'.",
     "category": [
-      "Entertainment"
+      "Event",
+      "Variété"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33645379~~2FEP065207530008%2Cimi%3A31d83918f2fbd9cf532db9e3155933fb8bd0f72c/posterTile",
     "icon": null,
@@ -83,7 +108,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33645379~~2FEP065207530008,imi:31d83918f2fbd9cf532db9e3155933fb8bd0f72c"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33645379~~2FEP065207530008,imi:31d83918f2fbd9cf532db9e3155933fb8bd0f72c",
+      "episodeName": "Aflevering 8",
+      "genres": [
+        "Event",
+        "Variété"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33577960~~2FSH065207530000"
     }
   },
   {
@@ -105,7 +138,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033,imi:a40f7562a8f8f129e14f053d84623fcb6cceb6f8"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033,imi:a40f7562a8f8f129e14f053d84623fcb6cceb6f8",
+      "episodeName": "Aflevering 36",
+      "genres": [
+        "Entertainment",
+        "Natuur"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F49053e1e-ce44-41aa-9e3f-9c9cc61aefca"
     }
   },
   {
@@ -126,7 +167,14 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33415749~~2FEP052027750048,imi:2af9d2d72583f81af3a2764615b906ca694013e6"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33415749~~2FEP052027750048,imi:2af9d2d72583f81af3a2764615b906ca694013e6",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27800511~~2FSH052027750000"
     }
   },
   {
@@ -148,7 +196,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F25484537~~2FEP050612970003,imi:3d65f0f0ddfb946ece524464367813f105fabd1e"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25484537~~2FEP050612970003,imi:3d65f0f0ddfb946ece524464367813f105fabd1e",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Docu",
+        "Vliegsport"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25389702~~2FSH050612970000"
     }
   },
   {
@@ -170,7 +226,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32936725~~2FEP064904940005,imi:072a31592a27327c45635a4b6cbc000664e91744"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32936725~~2FEP064904940005,imi:072a31592a27327c45635a4b6cbc000664e91744",
+      "episodeName": "Boiling Point",
+      "genres": [
+        "Docu",
+        "Natuur"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32936706~~2FSH064904940000"
     }
   },
   {
@@ -192,7 +256,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32536793~~2FEP064905430005,imi:d816a1de920d5fbf8eb6717e653c3e50277aff01"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32536793~~2FEP064905430005,imi:d816a1de920d5fbf8eb6717e653c3e50277aff01",
+      "episodeName": "The Gauls",
+      "genres": [
+        "Reizen",
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32303653~~2FSH064905430000"
     }
   },
   {
@@ -214,7 +286,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F517176219,imi:d8e42617fc2532fb1f053577aae0c1d46f8564bf"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F517176219,imi:d8e42617fc2532fb1f053577aae0c1d46f8564bf",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
     }
   },
   {
@@ -236,7 +316,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30242813~~2FEP036056140030,imi:51d793dc46dd12507a2fef369bf108f268319e4b"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30242813~~2FEP036056140030,imi:51d793dc46dd12507a2fef369bf108f268319e4b",
+      "episodeName": "Hope in Amsterdam",
+      "genres": [
+        "Misdaaddrama",
+        "Mysterie"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17748257~~2FSH036056140000"
     }
   },
   {
@@ -258,7 +346,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20780250~~2FMV020339560000,imi:0ad7f7d4687dbbde40c16db53d30386ff32f4d34"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20780250~~2FMV020339560000,imi:0ad7f7d4687dbbde40c16db53d30386ff32f4d34",
+      "episodeName": null,
+      "genres": [
+        "Drama",
+        "Film"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -280,7 +376,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F517176222,imi:818f3587f5e1317a339d860aaaa85445a5a04c35"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F517176222,imi:818f3587f5e1317a339d860aaaa85445a5a04c35",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
     }
   },
   {
@@ -302,7 +406,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F521579675,imi:aa8c122feff475e6b2fa3ed2eaff4305dd04fe8c"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F521579675,imi:aa8c122feff475e6b2fa3ed2eaff4305dd04fe8c",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
     }
   }
 ]

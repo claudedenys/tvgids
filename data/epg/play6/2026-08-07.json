@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1786060200000:o13nu0",
+    "id": "play6:1786059900000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1786060200000,
-    "end": 1786062000000,
+    "start": 1786059900000,
+    "end": 1786061100000,
     "description": "Een prachtig paar achttiende-eeuwse pistolen komt de winkel binnen. Het is tillen geblazen als een verkoper een presse-papier van de gerenommeerde glaskunstenaar Paul Stankard binnenbrengt.",
     "category": [
       "Reality",
@@ -18,15 +18,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15028558~~2FEP027840300147,imi:5cef5d3061f1d723c116b1f5923eff56c4828270"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F15028558~~2FEP027840300147,imi:5cef5d3061f1d723c116b1f5923eff56c4828270",
+      "episodeName": "Fully Vested",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
     }
   },
   {
-    "id": "play6:1786062000000:o13nu0",
+    "id": "play6:1786061100000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1786062000000,
-    "end": 1786063500000,
+    "start": 1786061100000,
+    "end": 1786062300000,
     "description": "Chum is enthousiast over een verzameling Beatles-vinylplaten. Rick en Chum kunnen alleen maar hopen dat het lukt om de verkoop van een actiepoppetje van prinses Leia gesigneerd door wijlen Carrie Fisher te forceren.",
     "category": [
       "Reality",
@@ -40,14 +48,46 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14916089~~2FEP027840300121,imi:8eda1d0422d8a32f2f55cf5ccba2c20cb9ad6146"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14916089~~2FEP027840300121,imi:8eda1d0422d8a32f2f55cf5ccba2c20cb9ad6146",
+      "episodeName": "Can't Pawn Me Love",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
     }
   },
   {
-    "id": "play6:1786063500000:48zb9",
+    "id": "play6:1786062300000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1786063500000,
+    "start": 1786062300000,
+    "end": 1786071300000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:53ca7c428b2b19ff5ce41dbde43b4055d45d6d2a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1786071300000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1786071300000,
     "end": 1786071600000,
     "description": null,
     "category": [],
@@ -59,7 +99,12 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:53ca7c428b2b19ff5ce41dbde43b4055d45d6d2a"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d2961b61aa3e5ff8c7aad7b096b178a0c7ec2a06",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -67,7 +112,7 @@
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1786071600000,
-    "end": 1786076100000,
+    "end": 1786077600000,
     "description": null,
     "category": [],
     "image": null,
@@ -78,15 +123,20 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a692c7f2b282503277753a13a616e9be86536b9d"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a692c7f2b282503277753a13a616e9be86536b9d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "play6:1786076100000:sofoqs",
+    "id": "play6:1786077600000:sofoqs",
     "channel": "play6",
     "title": "Ice Airport Alaska",
-    "start": 1786076100000,
-    "end": 1786078800000,
+    "start": 1786077600000,
+    "end": 1786080300000,
     "description": "Motorpech, een verdacht pakketje en hevig weer in Alaska brengen luchtmissies en de hele stad Anchorage in gevaar.",
     "category": [
       "Docu",
@@ -100,15 +150,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23733902~~2FEP045388940017,imi:200e984f06c25627773ccb17088887dec04476f5"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23733902~~2FEP045388940017,imi:200e984f06c25627773ccb17088887dec04476f5",
+      "episodeName": "Aflevering 5",
+      "genres": [
+        "Docu",
+        "Vliegsport"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F18864180~~2FSH045388940000"
     }
   },
   {
-    "id": "play6:1786078800000:o13nu0",
+    "id": "play6:1786080300000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1786078800000,
-    "end": 1786080000000,
+    "start": 1786080300000,
+    "end": 1786081500000,
     "description": "Een prachtig paar achttiende-eeuwse pistolen komt de winkel binnen. Het is tillen geblazen als een verkoper een presse-papier van de gerenommeerde glaskunstenaar Paul Stankard binnenbrengt.",
     "category": [
       "Reality",
@@ -122,15 +180,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15028558~~2FEP027840300147,imi:d0f916c0b3e13574019fc4d0e611aa2bb6285088"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F15028558~~2FEP027840300147,imi:d0f916c0b3e13574019fc4d0e611aa2bb6285088",
+      "episodeName": "Fully Vested",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
     }
   },
   {
-    "id": "play6:1786080000000:o13nu0",
+    "id": "play6:1786081500000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1786080000000,
-    "end": 1786081200000,
+    "start": 1786081500000,
+    "end": 1786082700000,
     "description": "Chum is enthousiast over een verzameling Beatles-vinylplaten. Rick en Chum kunnen alleen maar hopen dat het lukt om de verkoop van een actiepoppetje van prinses Leia gesigneerd door wijlen Carrie Fisher te forceren.",
     "category": [
       "Reality",
@@ -144,15 +210,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14916089~~2FEP027840300121,imi:add3e7dd3bbf22460e669e4ad6388ee7c4803172"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14916089~~2FEP027840300121,imi:add3e7dd3bbf22460e669e4ad6388ee7c4803172",
+      "episodeName": "Can't Pawn Me Love",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
     }
   },
   {
-    "id": "play6:1786081200000:3eahsp",
+    "id": "play6:1786082700000:3eahsp",
     "channel": "play6",
     "title": "NCIS: Los Angeles",
-    "start": 1786081200000,
-    "end": 1786084500000,
+    "start": 1786082700000,
+    "end": 1786086000000,
     "description": "Wanneer het vliegtuig van Aiden Hanna neerstort, wordt hij als schuldige voor het ongeval aangewezen. Het team gaat op onderzoek uit om zijn naam te zuiveren. Ondertussen vindt Sam een nieuwe verzorger voor zijn vader.",
     "category": [
       "Misdaaddrama",
@@ -166,15 +240,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23144724~~2FEP027794950308,imi:0b5b2577f07ce275c1b53db9101882b9c3633af3"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23144724~~2FEP027794950308,imi:0b5b2577f07ce275c1b53db9101882b9c3633af3",
+      "episodeName": "Dead Stick",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1bddcef5-e59b-427f-9119-c024244868c2"
     }
   },
   {
-    "id": "play6:1786084500000:1r0qjb5",
+    "id": "play6:1786086000000:1r0qjb5",
     "channel": "play6",
     "title": "Leverage: Redemption",
-    "start": 1786084500000,
-    "end": 1786088100000,
+    "start": 1786086000000,
+    "end": 1786089300000,
     "description": "Het team richt zijn pijlen op de CEO van een techbedrijf en zijn directie. Hun plan dreigt te mislukken wanneer de doelwitten hechter blijken dan verwacht.",
     "category": [
       "Dramaserie",
@@ -188,15 +270,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F29939260~~2FEP061119950038,imi:5162a04821d254f5f5c76615c5fe3fdeb0ce7e9c"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29939260~~2FEP061119950038,imi:5162a04821d254f5f5c76615c5fe3fdeb0ce7e9c",
+      "episodeName": "The Polygeist Job",
+      "genres": [
+        "Dramaserie",
+        "Actie"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19774808~~2FSH061119950000"
     }
   },
   {
-    "id": "play6:1786088100000:1m0ktji",
+    "id": "play6:1786089300000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786088100000,
-    "end": 1786089600000,
+    "start": 1786089300000,
+    "end": 1786090500000,
     "description": "Alan staat op het punt de moeder van Eldridge - één van Jakes schoolvrienden - te vertellen dat hun zonen betrapt werden met alcohol, maar aarzelt wanneer hij ontdekt hoe knap de vrouw is.",
     "category": [
       "Sitcom"
@@ -209,15 +299,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F8068792~~2FEP028890330174,imi:278332aa35996eb7bf05fb6b2c353cc3697aa885"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8068792~~2FEP028890330174,imi:278332aa35996eb7bf05fb6b2c353cc3697aa885",
+      "episodeName": "Keith Moon Is Vomiting in His Grave",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2fe7f5cf-2248-4a2c-a6ef-3c5187ae8a7c"
     }
   },
   {
-    "id": "play6:1786089600000:1m0ktji",
+    "id": "play6:1786090500000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786089600000,
-    "end": 1786091400000,
+    "start": 1786090500000,
+    "end": 1786092300000,
     "description": "Alans romantische plannen met zijn nieuwe vriendin vallen in het water. Charlie heeft meer geluk, hij krijgt een nogal bizar verzoek van een vrouw die het bed met hem wil delen.",
     "category": [
       "Sitcom"
@@ -230,15 +327,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F8088986~~2FEP028890330176,imi:dd6beaa813df7c0dc56237dd887b9420e6c89bcf"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8088986~~2FEP028890330176,imi:dd6beaa813df7c0dc56237dd887b9420e6c89bcf",
+      "episodeName": "I Called Him Magoo",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2fe7f5cf-2248-4a2c-a6ef-3c5187ae8a7c"
     }
   },
   {
-    "id": "play6:1786091400000:14ci0im",
+    "id": "play6:1786092300000:14ci0im",
     "channel": "play6",
     "title": "The Neighborhood",
-    "start": 1786091400000,
-    "end": 1786092900000,
+    "start": 1786092300000,
+    "end": 1786093800000,
     "description": "De huwelijksverjaardag van Calvin en Tina nadert, dus Dave en Gemma besluiten hen te helpen met de ceremonie die ze nooit hebben gehad. Malcolm en Marty bereiden een onvergetelijke presentatie voor de speciale gelegenheid van hun ouders voor.",
     "category": [
       "Sitcom"
@@ -251,15 +355,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F17540433~~2FEP037769350010,imi:fa66a6106d8b7df73f4f6d3634491824867436dd"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17540433~~2FEP037769350010,imi:fa66a6106d8b7df73f4f6d3634491824867436dd",
+      "episodeName": "Welcome to the Vow Renewal",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2019",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d5dd834-86d9-4c6b-bf30-f0887e6256ab"
     }
   },
   {
-    "id": "play6:1786092900000:48zb9",
+    "id": "play6:1786093800000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1786092900000,
-    "end": 1786096500000,
+    "start": 1786093800000,
+    "end": 1786097400000,
     "description": null,
     "category": [],
     "image": null,
@@ -270,15 +381,20 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:14ccc97d5a981fb62bda22c12b1f487dbe130189"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:14ccc97d5a981fb62bda22c12b1f487dbe130189",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "play6:1786096500000:14ci0im",
+    "id": "play6:1786097400000:14ci0im",
     "channel": "play6",
     "title": "The Neighborhood",
-    "start": 1786096500000,
-    "end": 1786098300000,
+    "start": 1786097400000,
+    "end": 1786099200000,
     "description": "Calvin en Dave werken samen voor de kampioenschapsglorie. Gemma en Tina gaan de strijd aan.",
     "category": [
       "Sitcom"
@@ -291,15 +407,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F17550861~~2FEP037769350011,imi:866eb56bacba1d2028aa9475d465bece8da13d1f"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17550861~~2FEP037769350011,imi:866eb56bacba1d2028aa9475d465bece8da13d1f",
+      "episodeName": "Welcome to Bowling",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2019",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d5dd834-86d9-4c6b-bf30-f0887e6256ab"
     }
   },
   {
-    "id": "play6:1786098300000:1lmrwl3",
+    "id": "play6:1786099200000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786098300000,
-    "end": 1786100100000,
+    "start": 1786099200000,
+    "end": 1786101000000,
     "description": "Ivy kan geen genoeg krijgen van Montebello. Dave krijgt een voorproefje van kermispret, en Brandi en Jarrod slaan ouderwets aan het versnipperen.",
     "category": [
       "Reality",
@@ -313,15 +436,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F13924378~~2FEP029352460054,imi:825ef8569e1124c516a736b723348c21bbbca407"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F13924378~~2FEP029352460054,imi:825ef8569e1124c516a736b723348c21bbbca407",
+      "episodeName": "Granny Get Your Gun",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F43bfedc3-08e8-4408-ac11-9801f10b70fd"
     }
   },
   {
-    "id": "play6:1786100100000:1lmrwl3",
+    "id": "play6:1786101000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786100100000,
-    "end": 1786101900000,
+    "start": 1786101000000,
+    "end": 1786102800000,
     "description": "Mary's eenheid laat van zich horen. Kenny probeert Amerika te kleden. Brandi en Jarrod krijgen een voorsprong op de concurrentie.",
     "category": [
       "Reality",
@@ -335,15 +466,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14026988~~2FEP029352460031,imi:51e0361adc0bc05f78fde4560f68b4ba771370dc"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14026988~~2FEP029352460031,imi:51e0361adc0bc05f78fde4560f68b4ba771370dc",
+      "episodeName": "Olé; GYN",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F43bfedc3-08e8-4408-ac11-9801f10b70fd"
     }
   },
   {
-    "id": "play6:1786101900000:14ju3nd",
+    "id": "play6:1786102800000:14ju3nd",
     "channel": "play6",
     "title": "Most Outrageous Crimes",
-    "start": 1786101900000,
-    "end": 1786105500000,
+    "start": 1786102800000,
+    "end": 1786106100000,
     "description": "Opmerkelijke beelden tonen criminelen die op heterdaad worden betrapt. Van wilde achtervolgingen en onverwachte confrontaties met de politie tot chaotische incidenten in winkels en op openbare plaatsen.",
     "category": [
       "Misdaad"
@@ -356,15 +495,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28173976~~2FEP065208960006,imi:a80e5bdaefbe2b7fe1abd2308fddf0d6da43236b"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28173976~~2FEP065208960006,imi:a80e5bdaefbe2b7fe1abd2308fddf0d6da43236b",
+      "episodeName": "Sovereign Citizens",
+      "genres": [
+        "Misdaad"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28172853~~2FSH065208960000"
     }
   },
   {
-    "id": "play6:1786105500000:sofoqs",
+    "id": "play6:1786106100000:sofoqs",
     "channel": "play6",
     "title": "Ice Airport Alaska",
-    "start": 1786105500000,
-    "end": 1786109100000,
+    "start": 1786106100000,
+    "end": 1786109400000,
     "description": "Wees getuige van wilde weersomstandigheden, noodlandingen, dierlijke indringers en pandemiepaniek op Alaska's Ted Stevens Airport (ANC).",
     "category": [
       "Docu",
@@ -378,15 +524,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23782275~~2FEP045388940018,imi:2d08c9690799667b18cdd6907fe0a3fc32d29c57"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23782275~~2FEP045388940018,imi:2d08c9690799667b18cdd6907fe0a3fc32d29c57",
+      "episodeName": "Aflevering 6",
+      "genres": [
+        "Docu",
+        "Vliegsport"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F18864180~~2FSH045388940000"
     }
   },
   {
-    "id": "play6:1786109100000:o13nu0",
+    "id": "play6:1786109400000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1786109100000,
-    "end": 1786110900000,
+    "start": 1786109400000,
+    "end": 1786111200000,
     "description": "Rick bezoekt Washington D.C., waar hij onderhandelt over de aankoop van zilveren lepels gemaakt door Paul Revere en voorwerpen van George Washington, de eerste president van de Verenigde Staten.",
     "category": [
       "Reality",
@@ -400,15 +554,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14915998~~2FEP027840300133,imi:9f65ecd9d7fd77c315acb9e93df41fc1092438cf"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14915998~~2FEP027840300133,imi:9f65ecd9d7fd77c315acb9e93df41fc1092438cf",
+      "episodeName": "Revolutionary Rick!",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
     }
   },
   {
-    "id": "play6:1786110900000:o13nu0",
+    "id": "play6:1786111200000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1786110900000,
-    "end": 1786112700000,
+    "start": 1786111200000,
+    "end": 1786113000000,
     "description": "Rick wil een Boston Red Sox World Series-ring kopen. Als de BMW waar Tupac in neergeschoten is binnenkomt, zijn alle ogen op Rick en Chum gericht. Zullen ze de deal sluiten of laten ze het aan hun voorbij gaan?",
     "category": [
       "Reality",
@@ -422,15 +584,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14916007~~2FEP027840300136,imi:c806e1cc94baa635dfea95d2e1dbf00b5048890e"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14916007~~2FEP027840300136,imi:c806e1cc94baa635dfea95d2e1dbf00b5048890e",
+      "episodeName": "Series Rings and Rap Kings",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
     }
   },
   {
-    "id": "play6:1786112700000:1m0ktji",
+    "id": "play6:1786113000000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786112700000,
-    "end": 1786114500000,
+    "start": 1786113000000,
+    "end": 1786114800000,
     "description": "Alan en Jake reizen naar Sacramento om een familie-erfstuk op te halen. Intussen schrijft Charlie's dokter hem marihuana voor omdat hij, vanwege zijn breuk met Chelsea, maar moeilijk slaap kan vatten.",
     "category": [
       "Sitcom"
@@ -443,14 +613,21 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F8097027~~2FEP028890330175,imi:0c91b4e728bea76785ca87bf865bf511a50d784a"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8097027~~2FEP028890330175,imi:0c91b4e728bea76785ca87bf865bf511a50d784a",
+      "episodeName": "Gumby With a Pokey",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2fe7f5cf-2248-4a2c-a6ef-3c5187ae8a7c"
     }
   },
   {
-    "id": "play6:1786114500000:1m0ktji",
+    "id": "play6:1786114800000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786114500000,
+    "start": 1786114800000,
     "end": 1786116300000,
     "description": "Wanneer Charlie zijn rijbewijs kwijtspeelt, moet hij noodgedwongen een beroep doen op Jake zodat deze hem overal naartoe kan brengen. Alsof dat nog niet genoeg is, ontdekt hij dat Alan vastberaden is om Chelseas verjaardagsfeestje bij te wonen.",
     "category": [
@@ -464,7 +641,14 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F8093775~~2FEP028890330177,imi:7e83d06343a35e3a080977c1696325bdb66d512a"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8093775~~2FEP028890330177,imi:7e83d06343a35e3a080977c1696325bdb66d512a",
+      "episodeName": "This Is Not Gonna End Well",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2fe7f5cf-2248-4a2c-a6ef-3c5187ae8a7c"
     }
   },
   {
@@ -472,7 +656,7 @@
     "channel": "play6",
     "title": "The Neighborhood",
     "start": 1786116300000,
-    "end": 1786118100000,
+    "end": 1786118400000,
     "description": "Gemma maakt een blind date voor Malcolm met een leraar op haar school en ontdekt uiteindelijk nieuwe details over de oorsprong van haar relatie met Dave. Marty helpt Calvin en Tina bij het plannen van de toekomst.",
     "category": [
       "Sitcom"
@@ -485,15 +669,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F17550891~~2FEP037769350030,imi:1ad6c30b185fe433b6942c4fc2839cf6f4193d70"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17550891~~2FEP037769350030,imi:1ad6c30b185fe433b6942c4fc2839cf6f4193d70",
+      "episodeName": "Welcome to the Dealbreaker",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2019",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d5dd834-86d9-4c6b-bf30-f0887e6256ab"
     }
   },
   {
-    "id": "play6:1786118100000:14ci0im",
+    "id": "play6:1786118400000:14ci0im",
     "channel": "play6",
     "title": "The Neighborhood",
-    "start": 1786118100000,
-    "end": 1786119900000,
+    "start": 1786118400000,
+    "end": 1786120200000,
     "description": "Calvin stemt ermee in om Marty toe te staan een website te maken voor zijn autowinkel, in de hoop zijn bedrijf te promoten. Dave wil zijn zoon bewijzen dat het leven zoveel meer is dan alleen zijn favoriete apparaten.",
     "category": [
       "Sitcom"
@@ -506,14 +697,21 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F17655503~~2FEP037769350031,imi:bf4d65a9bdfc8ea7809ff6942c42e4a1c95bbde2"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17655503~~2FEP037769350031,imi:bf4d65a9bdfc8ea7809ff6942c42e4a1c95bbde2",
+      "episodeName": "Welcome to the Digital Divide",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2019",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d5dd834-86d9-4c6b-bf30-f0887e6256ab"
     }
   },
   {
-    "id": "play6:1786119900000:1lmrwl3",
+    "id": "play6:1786120200000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786119900000,
+    "start": 1786120200000,
     "end": 1786122000000,
     "description": "Indio in Californië blijkt heel interessant te zijn voor Dave. Brandi en Jarrod vinden de ultieme bergplaats. Mary's opslagbox is een mislukking.",
     "category": [
@@ -528,7 +726,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14114538~~2FEP029352460012,imi:4d3632654bc65ff5324a24953d573d3704a4ca65"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14114538~~2FEP029352460012,imi:4d3632654bc65ff5324a24953d573d3704a4ca65",
+      "episodeName": "You Win Some, You Luge Some",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F43bfedc3-08e8-4408-ac11-9801f10b70fd"
     }
   },
   {
@@ -550,7 +756,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F13996966~~2FEP029352460004,imi:ffee12c00888918a7d9b9f8bea068e92f755096f"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F13996966~~2FEP029352460004,imi:ffee12c00888918a7d9b9f8bea068e92f755096f",
+      "episodeName": "Value of the Dolls",
+      "genres": [
+        "Reality",
+        "Veiling"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F43bfedc3-08e8-4408-ac11-9801f10b70fd"
     }
   },
   {
@@ -571,7 +785,14 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28173986~~2FEP065208960007,imi:539c1dbcc228cf236054751c4eb6ffbca51515ae"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28173986~~2FEP065208960007,imi:539c1dbcc228cf236054751c4eb6ffbca51515ae",
+      "episodeName": "Drunkest Arrests",
+      "genres": [
+        "Misdaad"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28172853~~2FSH065208960000"
     }
   },
   {
@@ -593,7 +814,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F8725~~2FMV016528140000,imi:04c2cd5da3fc959eb14ff19878c69c55e4b9118c"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8725~~2FMV016528140000,imi:04c2cd5da3fc959eb14ff19878c69c55e4b9118c",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Comedy"
+      ],
+      "productionDate": "1985",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -615,7 +844,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F6319~~2FMV012341670000,imi:de2f07426b56da97321dce222e8f39c1d8ec43a8"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F6319~~2FMV012341670000,imi:de2f07426b56da97321dce222e8f39c1d8ec43a8",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Misdaaddrama"
+      ],
+      "productionDate": "1974",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   }
 ]

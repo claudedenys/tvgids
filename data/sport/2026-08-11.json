@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1786402980000:xykime",
+    "id": "sport:playsports1:1786403640000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1786402980000,
+    "start": 1786403640000,
     "end": 1786424400000,
     "status": "aankomend",
     "platforms": [
@@ -96,7 +96,7 @@
     "channels": [
       "Play Sports 1"
     ],
-    "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de Engelse Premier League.",
+    "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
     "source": "epg"
   },
   {
@@ -380,14 +380,14 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports3:1786405440000:xykime",
+    "id": "sport:playsports3:1786406040000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1786405440000,
+    "start": 1786406040000,
     "end": 1786424400000,
     "status": "aankomend",
     "platforms": [
@@ -580,14 +580,14 @@
     "source": "epg"
   },
   {
-    "id": "sport:playsports4:1786403820000:xykime",
+    "id": "sport:playsports4:1786404600000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1786403820000,
+    "start": 1786404600000,
     "end": 1786424400000,
     "status": "aankomend",
     "platforms": [
@@ -1400,14 +1400,94 @@
     "source": "epg"
   },
   {
-    "id": "sport:dazn2:1786393800000:1ltn7gx",
+    "id": "sport:dazn2:1786404600000:1y4heac",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Chelsea - Port Vale",
+    "home": "Chelsea",
+    "away": "Port Vale",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786404600000,
+    "end": 1786410900000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Verslag van de wedstrijd Chelsea - Port Vale, gespeeld in de kwartfinale van de Engelse FA Cup.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786410900000:377dna",
+    "externalId": null,
+    "title": "New York Knicks - Oklahoma City Thunder",
+    "home": "New York Knicks",
+    "away": "Oklahoma City Thunder",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786410900000,
+    "end": 1786419000000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Verslag van de wedstrijd New York Knicks - Oklahoma City Thunder, gespeeld in de NBA.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786419000000:377dna",
+    "externalId": null,
+    "title": "Boston Celtics Best Plays Of The Season",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786419000000,
+    "end": 1786422600000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Hoogtepunten en samenvattingen van de verschillende wedstrijden die gespeeld worden in de NBA.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786422600000:377dna",
+    "externalId": null,
+    "title": "Top 100 dunks of the 2022 Calendar Year",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786422600000,
+    "end": 1786424700000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Hoogtepunten en samenvattingen van de verschillende wedstrijden die gespeeld worden in de NBA.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786424700000:tmx8y2",
+    "externalId": null,
+    "title": "Real Madrid/Rangers",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1786393800000,
+    "start": 1786424700000,
     "end": 1786426200000,
     "status": "aankomend",
     "platforms": [
@@ -1416,19 +1496,19 @@
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Een documentaireserie over de grootste competities en hun tradities, rivaliteiten, schurken en helden, die ervoor zorgen dat supporters zo houden van hun sport en hun kampioenen.",
     "source": "epg"
   },
   {
-    "id": "sport:dazn2:1786426200000:1ltn7gx",
+    "id": "sport:dazn2:1786426200000:dmq8la",
     "externalId": null,
-    "title": "Wordt aangekondigd",
-    "home": null,
-    "away": null,
+    "title": "Denemarken - Noord-Macedonië",
+    "home": "Denemarken",
+    "away": "Noord-Macedonië",
     "competition": null,
-    "sport": null,
+    "sport": "Voetbal",
     "start": 1786426200000,
-    "end": 1786437000000,
+    "end": 1786432800000,
     "status": "aankomend",
     "platforms": [
       "DAZN 2"
@@ -1436,19 +1516,19 @@
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Verslag van de wedstrijd Denemarken - Noord-Macedonië, gespeeld in de kwalificatie play-offs voor het WK 2026.",
     "source": "epg"
   },
   {
-    "id": "sport:dazn2:1786437000000:1ltn7gx",
+    "id": "sport:dazn2:1786432800000:1ocrujx",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Round 24",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1786437000000,
-    "end": 1786447800000,
+    "sport": "Voetbal",
+    "start": 1786432800000,
+    "end": 1786434300000,
     "status": "aankomend",
     "platforms": [
       "DAZN 2"
@@ -1456,19 +1536,19 @@
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Al het nieuws uit de Ligue 1, met analyses en de mooiste beelden uit de Franse competitie.",
     "source": "epg"
   },
   {
-    "id": "sport:dazn2:1786447800000:1ltn7gx",
+    "id": "sport:dazn2:1786434300000:12b43h0",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Yohan Bakayoko",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1786447800000,
-    "end": 1786458600000,
+    "sport": "Voetbal",
+    "start": 1786434300000,
+    "end": 1786435200000,
     "status": "aankomend",
     "platforms": [
       "DAZN 2"
@@ -1476,19 +1556,19 @@
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Portret van Yohan Bakayoko en een terugblik op zijn traject bij de nationale ploeg.",
     "source": "epg"
   },
   {
-    "id": "sport:dazn2:1786458600000:1ltn7gx",
+    "id": "sport:dazn2:1786435200000:1yhkmdt",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Het laatste duel: Ronaldo vs Messi",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1786458600000,
-    "end": 1786469400000,
+    "sport": "Voetbal",
+    "start": 1786435200000,
+    "end": 1786438500000,
     "status": "aankomend",
     "platforms": [
       "DAZN 2"
@@ -1496,18 +1576,198 @@
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "In deze documentaire de twee genieën die voorbestemd waren om een tijdperk te bepalen, botsten op hetzelfde podium. Deze documentaire onderzoekt de oorsprong van de rivaliteit tussen Cristiano Ronaldo en Lionel Messi, het moment waarop hun confrontatie het Spaanse voetbal veranderde en grootsheid in het moderne voetbal voorgoed herdefinieerde.",
     "source": "epg"
   },
   {
-    "id": "sport:dazn2:1786469400000:1ltn7gx",
+    "id": "sport:dazn2:1786438500000:162b1pw",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Aflevering 28",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1786469400000,
+    "sport": "Basketbal",
+    "start": 1786438500000,
+    "end": 1786440000000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "NBA Action brengt de hoogtepunten en het laatste nieuws uit de NBA en een terugblik op de statistieken en beste acties van afgelopen week.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786440000000:162b1pw",
+    "externalId": null,
+    "title": "NBA Action",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786440000000,
+    "end": 1786441500000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "NBA Action brengt de hoogtepunten en het laatste nieuws uit de NBA en een terugblik op de statistieken en beste acties van afgelopen week.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786441500000:377dna",
+    "externalId": null,
+    "title": "Boston Celtics - Philadelphia 76ers",
+    "home": "Boston Celtics",
+    "away": "Philadelphia 76ers",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786441500000,
+    "end": 1786449300000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Vanuit de TD Garden in Boston, Massachusetts, Verenigde Staten.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786449300000:377dna",
+    "externalId": null,
+    "title": "Sacramento Kings - Phoenix Suns",
+    "home": "Sacramento Kings",
+    "away": "Phoenix Suns",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786449300000,
+    "end": 1786456500000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Vanuit het Golden 1 Center in Sacramento, Califonië, Verenigde Staten.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786456500000:1mw5kk9",
+    "externalId": null,
+    "title": "NBA On Fire",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786456500000,
+    "end": 1786458000000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Analyses, nabesprekingen en hoogtepunten. Geniet meteen van een nieuwe aflevering van NBA On Fire.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786458000000:1mw5kk9",
+    "externalId": null,
+    "title": "NBA On Fire",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1786458000000,
+    "end": 1786459800000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Analyses, nabesprekingen en hoogtepunten. Geniet meteen van een nieuwe aflevering van NBA On Fire.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786459800000:1kws52q",
+    "externalId": null,
+    "title": "The Beginning",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786459800000,
+    "end": 1786463100000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Ontdek hoe Ronaldo Nazário voorzitter werd van een voetbalclub en welke uitdagingen daarbij komen kijken.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786463100000:1wf0npo",
+    "externalId": null,
+    "title": "Finale: Lazio - Internazionale",
+    "home": "Finale: Lazio",
+    "away": "Internazionale",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786463100000,
+    "end": 1786470900000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Verslag van de wedstrijd Lazio - Internazionale, gespeeld in de finale van de Italiaanse Coppa Italia.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786470900000:30surz",
+    "externalId": null,
+    "title": "Real Madrid - Elche",
+    "home": "Real Madrid",
+    "away": "Elche",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786470900000,
+    "end": 1786478400000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Verslag van de wedstrijd Real Madrid - Elche, gespeeld in de Spaanse LaLiga.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786478400000:a86dbu",
+    "externalId": null,
+    "title": "LaLiga Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786478400000,
     "end": 1786480200000,
     "status": "aankomend",
     "platforms": [
@@ -1516,19 +1776,19 @@
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
     "source": "epg"
   },
   {
-    "id": "sport:dazn2:1786480200000:1ltn7gx",
+    "id": "sport:dazn2:1786480200000:a86dbu",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "LaLiga Highlights",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
+    "sport": "Voetbal",
     "start": 1786480200000,
-    "end": 1786512600000,
+    "end": 1786482300000,
     "status": "aankomend",
     "platforms": [
       "DAZN 2"
@@ -1536,7 +1796,47 @@
     "channels": [
       "DAZN 2"
     ],
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786482300000:a86dbu",
+    "externalId": null,
+    "title": "LaLiga Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786482300000,
+    "end": 1786484400000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
+    "source": "epg"
+  },
+  {
+    "id": "sport:dazn2:1786484400000:a86dbu",
+    "externalId": null,
+    "title": "LaLiga Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786484400000,
+    "end": 1786486200000,
+    "status": "aankomend",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de Spaanse LaLiga.",
     "source": "epg"
   }
 ]

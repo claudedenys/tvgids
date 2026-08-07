@@ -1,9 +1,9 @@
 [
   {
-    "id": "vtm3:1786059300000:48zb9",
+    "id": "vtm3:1786057800000:48zb9",
     "channel": "vtm3",
     "title": "Geen uitzending",
-    "start": 1786059300000,
+    "start": 1786057800000,
     "end": 1786075200000,
     "description": null,
     "category": [],
@@ -15,7 +15,12 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:880a05e68f393e13541f25a63956f8a3b7ffa36a"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:880a05e68f393e13541f25a63956f8a3b7ffa36a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -36,7 +41,14 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial,imi:2eedd8c7730e76e51e4ae0889bc05d28d4b03ab3"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial,imi:2eedd8c7730e76e51e4ae0889bc05d28d4b03ab3",
+      "episodeName": null,
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -44,7 +56,7 @@
     "channel": "vtm3",
     "title": "Geen uitzending",
     "start": 1786086000000,
-    "end": 1786105800000,
+    "end": 1786107000000,
     "description": null,
     "category": [],
     "image": null,
@@ -55,15 +67,20 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:31b06d13af58ee963db60cc3543c914f01e60178"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:31b06d13af58ee963db60cc3543c914f01e60178",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "vtm3:1786105800000:goasy2",
+    "id": "vtm3:1786107000000:goasy2",
     "channel": "vtm3",
     "title": "Community",
-    "start": 1786105800000,
-    "end": 1786107600000,
+    "start": 1786107000000,
+    "end": 1786108500000,
     "description": "Een beroemde oud-student, acteur Luis Guzman, bezoekt Greendale Community College. Ondertussen levert señor Chang het bewijs dat een van zijn studenten in zijn klas Spaans heeft afgekeken.",
     "category": [
       "Sitcom",
@@ -77,15 +94,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F7860674~~2FEP032569500019,imi:062898ca938ed9e2493ab94e5e87cb90f31f8e07"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F7860674~~2FEP032569500019,imi:062898ca938ed9e2493ab94e5e87cb90f31f8e07",
+      "episodeName": "Advanced Criminal Law",
+      "genres": [
+        "Sitcom",
+        "Comedy"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3546220~~2FSH032569500000"
     }
   },
   {
-    "id": "vtm3:1786107600000:1266xdr",
+    "id": "vtm3:1786108500000:1266xdr",
     "channel": "vtm3",
     "title": "The Dilemma",
-    "start": 1786107600000,
-    "end": 1786115100000,
+    "start": 1786108500000,
+    "end": 1786115700000,
     "description": "Ronny en Nick werken samen aan een belangrijke auto-presentatie. Op een dag ziet Ronny de vrouw van Nick met een andere man en blijkt ook Nick het een en ander te verbergen te hebben.",
     "category": [
       "Film",
@@ -99,15 +124,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F8204720~~2FMV015766150000,imi:d82432e09282536bf40cf06398faf5e36ff6df66"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8204720~~2FMV015766150000,imi:d82432e09282536bf40cf06398faf5e36ff6df66",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Comedy"
+      ],
+      "productionDate": "2011",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "vtm3:1786115100000:1oyd2uy",
+    "id": "vtm3:1786115700000:1oyd2uy",
     "channel": "vtm3",
     "title": "The Good Doctor",
-    "start": 1786115100000,
-    "end": 1786118700000,
+    "start": 1786115700000,
+    "end": 1786119000000,
     "description": "Een jonge autistische chirurg voegt zich bij een prestigieus ziekenhuis. Hij moet leren omgaan met mensen en zijn nieuwe omgeving om te kunnen bewijzen dat hij levens kan redden.",
     "category": [
       "Dramaserie",
@@ -121,15 +154,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14159628~~2FEP028766880002,imi:409ef7bcb152fd5a778cb1387d3d5def243e27c1"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14159628~~2FEP028766880002,imi:409ef7bcb152fd5a778cb1387d3d5def243e27c1",
+      "episodeName": "Burnt Food",
+      "genres": [
+        "Dramaserie",
+        "Medisch"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F37222e9c-2676-4603-95ab-56db3e744a39"
     }
   },
   {
-    "id": "vtm3:1786118700000:szy0o0",
+    "id": "vtm3:1786119000000:szy0o0",
     "channel": "vtm3",
     "title": "How I Met Your Mother",
-    "start": 1786118700000,
-    "end": 1786120800000,
+    "start": 1786119000000,
+    "end": 1786121100000,
     "description": "Als Ted het aanbod van Barney om het nieuwe GNB-gebouw te mogen ontwerpen afslaat, probeert Barney hem over te halen door al zijn beste versiertrucs te gebruiken. Robin is nog niet over Don heen en belt hem op als ze dronken is.",
     "category": [
       "Dramaserie",
@@ -143,14 +184,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F8299972~~2FEP028431720183,imi:3a60ee49c9ea438543fcd2528cb12fb773ab7cac"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8299972~~2FEP028431720183,imi:3a60ee49c9ea438543fcd2528cb12fb773ab7cac",
+      "episodeName": "Unfinished",
+      "genres": [
+        "Dramaserie",
+        "Sitcom"
+      ],
+      "productionDate": "2010",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa284a9d0-fad2-4ba6-8285-921caad3d499"
     }
   },
   {
-    "id": "vtm3:1786120800000:goasy2",
+    "id": "vtm3:1786121100000:goasy2",
     "channel": "vtm3",
     "title": "Community",
-    "start": 1786120800000,
+    "start": 1786121100000,
     "end": 1786122600000,
     "description": "Jeff moedigt Troy aan om lid te worden van het voetbalteam. Ondertussen leert Shirley Britta de etiquette van toiletgesprekken en werken Dean Pelton en Pierce samen aan de voetbalmascotte van de school.",
     "category": [
@@ -165,7 +214,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F7849168~~2FEP032569500099,imi:1acc156e67ac8d685df72d1c99764cb3898eadaa"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F7849168~~2FEP032569500099,imi:1acc156e67ac8d685df72d1c99764cb3898eadaa",
+      "episodeName": "Football, Feminism and You",
+      "genres": [
+        "Sitcom",
+        "Comedy"
+      ],
+      "productionDate": "2009",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3546220~~2FSH032569500000"
     }
   },
   {
@@ -173,7 +230,7 @@
     "channel": "vtm3",
     "title": "The Simpsons",
     "start": 1786122600000,
-    "end": 1786124100000,
+    "end": 1786124400000,
     "description": "Krusty de Clown is ten einde raad wanneer zijn tv-show geschrapt wordt. De Simpsons willen hem helpen en zoeken Annie Dubinsky, Krusty's eerste manager, op.",
     "category": [
       "Animatie",
@@ -187,14 +244,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F8942350~~2FEP029052660220,imi:bfc5a6f1d7bf7ecc9a78aa7420279a6b94c00f4e"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F8942350~~2FEP029052660220,imi:bfc5a6f1d7bf7ecc9a78aa7420279a6b94c00f4e",
+      "episodeName": "The Ten-Per-Cent Solution",
+      "genres": [
+        "Animatie",
+        "Sitcom"
+      ],
+      "productionDate": "2011",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fd9967ab4-93a5-4cd0-84df-89fa06506308"
     }
   },
   {
-    "id": "vtm3:1786124100000:12naan0",
+    "id": "vtm3:1786124400000:12naan0",
     "channel": "vtm3",
     "title": "S.W.A.T.",
-    "start": 1786124100000,
+    "start": 1786124400000,
     "end": 1786127400000,
     "description": "Het team weet een overval op een grootwarenhuis te verijdelen, maar vreest dat de misdaad slechts een afleidingsmanoeuvre was voor een veel groter misdrijf.",
     "category": [
@@ -209,7 +274,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23249111~~2FEP029067340111,imi:9c9fdc117ff896e8dd0c9b2f55a323497797d688"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23249111~~2FEP029067340111,imi:9c9fdc117ff896e8dd0c9b2f55a323497797d688",
+      "episodeName": "Unraveling",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F23de7742-fe60-4236-a22f-75e3304477f1"
     }
   },
   {
@@ -217,7 +290,7 @@
     "channel": "vtm3",
     "title": "The Mummy: Tomb of the Dragon Emperor",
     "start": 1786127400000,
-    "end": 1786134900000,
+    "end": 1786134300000,
     "description": "Rick 'O Connell en zijn familie binden de strijd aan met een vervloekte Chinese keizer. Samen moeten ze proberen de keizer en zijn leger te stoppen.",
     "category": [
       "Film",
@@ -231,15 +304,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F176346~~2FMV010384890000,imi:da0149a2b2e32556ed6ebf42404596440d566b22"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F176346~~2FMV010384890000,imi:da0149a2b2e32556ed6ebf42404596440d566b22",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Familie"
+      ],
+      "productionDate": "2008",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
-    "id": "vtm3:1786134900000:ykeli3",
+    "id": "vtm3:1786134300000:ykeli3",
     "channel": "vtm3",
     "title": "Bros",
-    "start": 1786134900000,
-    "end": 1786142700000,
+    "start": 1786134300000,
+    "end": 1786142100000,
     "description": "Bobby en Aaron zijn twee homoseksuele mannen die zich tot elkaar aangetrokken voelen. Misschien hebben ze dan toch beiden de ware liefde gevonden. Althans dat denken ze. Ze kampen echter met bindingsangst. Bovendien zijn ze alle twee druk bezet. Ondanks dat proberen ze het beste van hun relatie te maken.",
     "category": [
       "Film",
@@ -253,7 +334,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F21532860~~2FMV019801270000,imi:8c917886b399835308565e311bd56ef1d606b735"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21532860~~2FMV019801270000,imi:8c917886b399835308565e311bd56ef1d606b735",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Romantische komedie"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   }
 ]
