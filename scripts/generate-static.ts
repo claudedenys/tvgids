@@ -4,8 +4,8 @@
  * Leest de bestandsgebaseerde store (`data/`) en schrijft:
  *  - public/data/meta.json          — availableDates, tijdzone, updatedAt
  *  - public/data/channels.json      — ChannelWithStatus[] (alle zenders + status)
- *  - public/data/epg/<date>.json    — EpgResponse per beschikbare dag
- *  - public/data/search.json        — SearchHit[] over alle dagen (client-zijde zoeken)
+ *  - public/data/epg/<date>.json    — EpgResponse per dag (zonder channels)
+ *  - public/data/search/<date>.json — SearchHit[] per dag (client-zijde zoeken)
  *  - public/data/status.json        — status-snapshot voor de admin-pagina
  */
 import { mkdir, rm, writeFile } from 'node:fs/promises';
@@ -47,6 +47,7 @@ function withStatus(channels: Channel[], status: StatusFile): ChannelWithStatus[
 async function main(): Promise<void> {
   await rm(OUT_DIR, { recursive: true, force: true });
   await mkdir(path.join(OUT_DIR, 'epg'), { recursive: true });
+  await mkdir(path.join(OUT_DIR, 'search'), { recursive: true });
 
   const [channels, status] = await Promise.all([loadChannels(), loadStatus()]);
   const active = channels.filter((c) => c.active);
@@ -62,7 +63,6 @@ async function main(): Promise<void> {
   const channelLookup = new Map([...byId, ...byName]);
 
   // --- per-dag EpgResponse -------------------------------------------------
-  const searchHits: SearchHit[] = [];
   for (const date of dates) {
     const programmes: EpgResponse['programmes'] = [];
     const warnings: EpgResponse['warnings'] = [];
@@ -104,18 +104,17 @@ async function main(): Promise<void> {
       date,
       now: Date.now(),
       timezone: APP_TIMEZONE,
-      channels: channelsWithStatus,
+      // Zenders staan los in data/channels.json (niet herhalen in elk dagbestand).
+      channels: [],
       programmes,
       sport,
       warnings,
       availableDates: dates,
     };
     await writeFile(path.join(OUT_DIR, 'epg', `${date}.json`), JSON.stringify(response), 'utf8');
-    searchHits.push(...dayHits);
+    // Per-dag zoekindex (client laadt alleen de actieve dag; geen 2,8 MB totaal meer).
+    await writeFile(path.join(OUT_DIR, 'search', `${date}.json`), JSON.stringify(dayHits), 'utf8');
   }
-
-  // --- zoekindex -----------------------------------------------------------
-  await writeFile(path.join(OUT_DIR, 'search.json'), JSON.stringify(searchHits), 'utf8');
 
   // --- meta -----------------------------------------------------------------
   const updatedAt = status.sources['telenet.tv']?.lastUpdate ?? new Date().toISOString();
@@ -162,7 +161,7 @@ async function main(): Promise<void> {
   );
 
   console.log(
-    `Statische data gegenereerd: ${dates.length} dagen, ${searchHits.length} zoekitems, ` +
+    `Statische data gegenereerd: ${dates.length} dagen (per-dag zoekindexen), ` +
       `${active.length}/${channels.length} actieve zenders → ${OUT_DIR}`,
   );
 }

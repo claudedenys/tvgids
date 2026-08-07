@@ -17,7 +17,7 @@ import {
   listProgrammeDays,
   loadProgrammes,
 } from './store';
-import { fetchDaySegments, importChannelDay as importTelenetDay, fetchTelenetChannels } from './sources/telenet';
+import { fetchDaySegments, importChannelDay as importTelenetDay, fetchTelenetChannels, makeDetailCache } from './sources/telenet';
 import { importChannelDay as importTvgidsDay } from './sources/tvgids';
 import { deriveSportEvents } from './sport';
 
@@ -67,6 +67,7 @@ export async function importRange(opts: {
   }
 
   const telenetCache = makeTelenetCache();
+  const detailCache = makeDetailCache();
   let total = 0;
 
   for (const dayKey of dates) {
@@ -90,7 +91,7 @@ export async function importRange(opts: {
         const tvgids = channel.sources.find((s) => s.source === 'tvgids.nl');
 
         if (telenet && telenetSegments) {
-          programmes = await importTelenetDay(channel, dayStart, dayEnd, telenetSegments);
+          programmes = await importTelenetDay(channel, dayStart, dayEnd, telenetSegments, 'nl', detailCache);
         } else if (tvgids) {
           const r = await importTvgidsDay(channel, dayKey, dayStart, dayEnd);
           programmes = r.programmes;

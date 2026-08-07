@@ -34,19 +34,28 @@ const SPORT_ICONS: Record<string, string> = {
   Paardensport: '🐎',
 };
 
-/** Eenmalig laden + cachen van de statische zoekindex. */
-let searchIndexPromise: Promise<SearchHit[]> | null = null;
-function loadSearchIndex(): Promise<SearchHit[]> {
-  searchIndexPromise ??= fetch(`${BASE}data/search.json`)
-    .then((r) => {
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      return r.json() as Promise<SearchHit[]>;
-    })
-    .catch((e) => {
-      searchIndexPromise = null;
-      throw e;
-    });
-  return searchIndexPromise;
+/** Zoekindex per dag cachen (per-dag bestanden; geen 2,8 MB monolith meer). */
+const searchDayCache = new Map<string, Promise<SearchHit[]>>();
+function loadSearchDay(date: string): Promise<SearchHit[]> {
+  let p = searchDayCache.get(date);
+  if (!p) {
+    p = fetch(`${BASE}data/search/${date}.json`)
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json() as Promise<SearchHit[]>;
+      })
+      .catch((e) => {
+        searchDayCache.delete(date);
+        throw e;
+      });
+    searchDayCache.set(date, p);
+  }
+  return p;
+}
+
+/** Zoekindex over alle beschikbare dagen (voor "Alle dagen"-tab en kijklijst). */
+function loadSearchAll(dates: string[]): Promise<SearchHit[]> {
+  return Promise.all(dates.map(loadSearchDay)).then((parts) => parts.flat());
 }
 
 /** Kijklijst: één item per programmatitel (alle afleveringen samen). */
@@ -123,6 +132,8 @@ export default function EpgApp() {
   const [date, setDate] = useState(todayKey);
   const [selected, setSelected] = useState<string[]>(() => loadSelected() ?? []);
   const [data, setData] = useState<EpgResponse | null>(null);
+  const [channelsData, setChannelsData] = useState<ChannelWithStatus[] | null>(null);
+  const [metaDates, setMetaDates] = useState<string[] | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [now, setNow] = useState(Date.now());
@@ -135,6 +146,8 @@ export default function EpgApp() {
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchLoading, setSearchLoading] = useState(false);
   const [searchResults, setSearchResults] = useState<SearchHit[]>([]);
+  const [sportPanelOpen, setSportPanelOpen] = useState(false);
+  const [sportOnly, setSportOnly] = useState(false);
   const [goldTimeOfDay, setGoldTimeOfDay] = useState<number>(() => {
     const stored = loadGoldTime();
     if (stored != null) return stored;
@@ -183,7 +196,8 @@ export default function EpgApp() {
     if (!watchOpen || watchlist.length === 0) return;
     let cancelled = false;
     setWatchLoading(true);
-    loadSearchIndex()
+    const dates = metaDates ?? data?.availableDates ?? [];
+    loadSearchAll(dates)
       .then((index) => {
         if (cancelled) return;
         const pairs = watchlist.map((w) => [w.title, airingsForTitle(index, w.title)] as const);
@@ -235,6 +249,26 @@ export default function EpgApp() {
     };
   }, []);
 
+  // Meta + zenders los laden (dagbestanden bevatten geen channels meer).
+  useEffect(() => {
+    let cancelled = false;
+    Promise.all([
+      fetch(`${BASE}data/meta.json`).then((r) => (r.ok ? r.json() : null)),
+      fetch(`${BASE}data/channels.json`).then((r) => (r.ok ? (r.json() as Promise<ChannelWithStatus[]>) : Promise.resolve([]))),
+    ])
+      .then(([meta, chans]) => {
+        if (cancelled) return;
+        if (meta && Array.isArray(meta.availableDates)) setMetaDates(meta.availableDates as string[]);
+        setChannelsData(chans);
+      })
+      .catch(() => {
+        /* dagbestanden blijven als fallback werken */
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
   // Data ophalen (statische JSON per dag).
   useEffect(() => {
     let cancelled = false;
@@ -251,7 +285,7 @@ export default function EpgApp() {
         setSelected((prev) => {
           if (hasPref || prev.length) return prev;
           // nog geen voorkeur → alle actieve zenders, en bewaar als standaard
-          const all = d.channels.map((c) => c.id);
+          const all = (channelsData ?? d.channels).map((c) => c.id);
           try {
             localStorage.setItem(STORAGE_KEY, JSON.stringify(all));
           } catch {
@@ -266,7 +300,7 @@ export default function EpgApp() {
           requestAnimationFrame(() => {
             const el = document.getElementById(`prog-${hit.id}`);
             if (el) el.scrollIntoView({ inline: 'center', block: 'nearest' });
-            setSheet(hitToSheet(hit));
+            setSheet(hitToSheet(hit, channelLookup));
           });
         }
       })
@@ -290,8 +324,10 @@ export default function EpgApp() {
       return;
     }
     setSearchLoading(true);
+    const dates = metaDates ?? data?.availableDates ?? [date];
     const timer = setTimeout(() => {
-      loadSearchIndex()
+      const loader = searchTab === 'day' ? loadSearchDay(date) : loadSearchAll(dates);
+      loader
         .then((index) => {
           setSearchResults(filterSearchIndex(index, q, searchTab === 'day' ? date : undefined));
         })
@@ -299,7 +335,7 @@ export default function EpgApp() {
         .finally(() => setSearchLoading(false));
     }, 300);
     return () => clearTimeout(timer);
-  }, [query, searchTab, date]);
+  }, [query, searchTab, date, metaDates, data]);
 
   // Klok en NU-lijn bijwerken.
   useEffect(() => {
@@ -342,7 +378,8 @@ export default function EpgApp() {
   }, [loading, data, pph]);
 
   const dayStart = useMemo(() => brusselsDayStart(date), [date]);
-  const channels = data?.channels ?? [];
+  const channels = channelsData ?? data?.channels ?? [];
+  const channelLookup = useMemo(() => new Map(channels.map((c) => [c.id, c])), [channels]);
   const goldTime = useMemo(() => dayStart + goldTimeOfDay, [dayStart, goldTimeOfDay]);
 
   // Melding zodra de rode NU-lijn de gouden lijn bereikt.
@@ -364,10 +401,11 @@ export default function EpgApp() {
   }, [now, date, goldTime, todayKey]);
 
   const visibleChannels = useMemo(() => {
-    const order = selected.length ? selected : channels.map((c) => c.id);
-    const map = new Map(channels.map((c) => [c.id, c]));
+    const base = sportOnly ? channels.filter((c) => c.group === 'sport' || SPORT_IDS.has(c.id)) : channels;
+    const order = selected.length ? selected : base.map((c) => c.id);
+    const map = new Map(base.map((c) => [c.id, c]));
     return order.map((id) => map.get(id)).filter((c): c is ChannelWithStatus => Boolean(c));
-  }, [channels, selected]);
+  }, [channels, selected, sportOnly]);
 
   const programmesByChannel = useMemo(() => {
     const m = new Map<string, Programme[]>();
@@ -471,7 +509,7 @@ export default function EpgApp() {
     }
     const el = document.getElementById(`prog-${hit.id}`);
     if (el) el.scrollIntoView({ inline: 'center', behavior: 'smooth', block: 'nearest' });
-    setSheet(hitToSheet(hit));
+    setSheet(hitToSheet(hit, channelLookup));
   }
 
   /** Bouw een kijklijst-item uit het geopende programma/sportevent. */
@@ -480,14 +518,16 @@ export default function EpgApp() {
     const isSport = 'channels' in sheet;
     const ev = isSport ? (sheet as SportEvent) : null;
     const p = sheet as Programme;
+    const evChannelId = ev?.channelIds?.[0] ?? ev?.channels[0] ?? '';
+    const evChannel = ev ? channels.find((c) => c.id === evChannelId) : undefined;
     const channel = !ev && p.channel ? channels.find((c) => c.id === p.channel) : undefined;
     if (ev) {
       return {
         id: ev.id,
         type: 'sport' as const,
         date: brusselsDateKey(ev.start),
-        channelId: ev.channels[0] ?? '',
-        channelName: channel?.name ?? ev.channels[0] ?? '',
+        channelId: evChannelId,
+        channelName: evChannel?.name ?? ev.channels[0] ?? '',
         start: ev.start,
         end: ev.end,
         description: ev.description,
@@ -542,12 +582,23 @@ export default function EpgApp() {
             type="date"
             className="input hide-landscape"
             value={date}
-            min={data?.availableDates[0] ?? addDays(todayKey, -1)}
-            max={data?.availableDates[data.availableDates.length - 1] ?? addDays(todayKey, 7)}
+            min={metaDates?.[0] ?? data?.availableDates[0] ?? addDays(todayKey, -1)}
+            max={metaDates?.[metaDates.length - 1] ?? data?.availableDates[data.availableDates.length - 1] ?? addDays(todayKey, 7)}
             onChange={(e) => e.target.value && setDate(e.target.value)}
           />
           <button className="btn epg-now-btn" onClick={goToNow}>● Nu</button>
         </div>
+        <button className="btn sport-panel-btn" onClick={() => setSportPanelOpen(true)} aria-label="Sportoverzicht">
+          ⚽ Sport
+        </button>
+        <button
+          className={'btn sport-only-btn' + (sportOnly ? ' on' : '')}
+          onClick={() => setSportOnly((v) => !v)}
+          aria-pressed={sportOnly}
+          title={sportOnly ? 'Toon alle zenders' : 'Toon enkel sportzenders'}
+        >
+          🏆 Sport-only
+        </button>
         <button className="btn watch-btn" onClick={() => setWatchOpen(true)} aria-label="Mijn kijklijst">
           ★<span className="watch-label hide-sm"> Mijn kijklijst</span>
           {watchlist.length > 0 && <span className="watch-count">{watchlist.length}</span>}
@@ -569,44 +620,64 @@ export default function EpgApp() {
             autoCorrect="off"
             spellCheck={false}
           />
-          {searchOpen && query.trim().length >= 2 && (
+          {searchOpen && (
             <div className="search-pop">
-              <div className="search-tabs">
-                <button className={searchTab === 'day' ? 'active' : ''} onClick={() => setSearchTab('day')}>Deze dag</button>
-                <button className={searchTab === 'all' ? 'active' : ''} onClick={() => setSearchTab('all')}>Alle dagen</button>
+              <div className="search-chips">
+                {[['Voetbal', 'voetbal'], ['Wielrennen', 'koers'], ['Tennis', 'tennis'], ['F1', 'formule 1']].map(([label, term]) => (
+                  <button
+                    key={term}
+                    className={'chip' + (query.trim() === term ? ' active' : '')}
+                    onClick={() => {
+                      setQuery(term);
+                      setSearchTab('day');
+                    }}
+                  >
+                    {label}
+                  </button>
+                ))}
               </div>
-              {searchLoading ? (
-                <div className="search-status">Zoeken…</div>
-              ) : searchResults.length === 0 ? (
-                <div className="search-status">Geen resultaten voor "{query.trim()}". Probeer bv. koers, voetbal of tennis.</div>
-              ) : (
-                <div className="search-list">
-                  {searchResults.slice(0, 40).map((h) => (
-                    <SearchRow
-                      key={`${h.type}:${h.id}:${h.date}`}
-                      hit={h}
-                      saved={watchTitles.has(normTitle(h.title))}
-                      onToggleSave={() =>
-                        toggleWatch(h.title, {
-                          id: h.id,
-                          type: h.type,
-                          date: h.date,
-                          channelId: h.channelId,
-                          channelName: h.channelName,
-                          start: h.start,
-                          end: h.end,
-                          description: h.description,
-                          category: h.category,
-                          image: h.image,
-                        })
-                      }
-                      onPick={openHit}
-                    />
-                  ))}
-                  {searchResults.length > 40 && (
-                    <div className="search-status">+ {searchResults.length - 40} meer</div>
+              {query.trim().length >= 2 ? (
+                <>
+                  <div className="search-tabs">
+                    <button className={searchTab === 'day' ? 'active' : ''} onClick={() => setSearchTab('day')}>Deze dag</button>
+                    <button className={searchTab === 'all' ? 'active' : ''} onClick={() => setSearchTab('all')}>Alle dagen</button>
+                  </div>
+                  {searchLoading ? (
+                    <div className="search-status">Zoeken…</div>
+                  ) : searchResults.length === 0 ? (
+                    <div className="search-status">Geen resultaten voor "{query.trim()}". Probeer bv. koers, voetbal of tennis.</div>
+                  ) : (
+                    <div className="search-list">
+                      {searchResults.slice(0, 40).map((h) => (
+                        <SearchRow
+                          key={`${h.type}:${h.id}:${h.date}`}
+                          hit={h}
+                          saved={watchTitles.has(normTitle(h.title))}
+                          onToggleSave={() =>
+                            toggleWatch(h.title, {
+                              id: h.id,
+                              type: h.type,
+                              date: h.date,
+                              channelId: h.channelId,
+                              channelName: h.channelName,
+                              start: h.start,
+                              end: h.end,
+                              description: h.description,
+                              category: h.category,
+                              image: h.image,
+                            })
+                          }
+                          onPick={openHit}
+                        />
+                      ))}
+                      {searchResults.length > 40 && (
+                        <div className="search-status">+ {searchResults.length - 40} meer</div>
+                      )}
+                    </div>
                   )}
-                </div>
+                </>
+              ) : (
+                <div className="search-status">Typ minstens 2 tekens, of kies een sportchip hierboven.</div>
               )}
             </div>
           )}
@@ -689,7 +760,11 @@ export default function EpgApp() {
       {sheet && (
         <ProgrammeSheet
           prog={sheet}
-          channel={'channel' in sheet ? channels.find((c) => c.id === sheet.channel) : undefined}
+          channel={
+            'channel' in sheet
+              ? channels.find((c) => c.id === sheet.channel)
+              : channels.find((c) => c.id === (sheet.channelIds?.[0] ?? '')) || undefined
+          }
           sport={
             'channel' in sheet
               ? data?.sport.find((s) => s.channels[0] === sheet.channel && s.start === sheet.start)
@@ -714,6 +789,19 @@ export default function EpgApp() {
           onRemove={removeFromWatch}
           onImport={importWatchlist}
           onClose={() => setWatchOpen(false)}
+        />
+      )}
+
+      {sportPanelOpen && (
+        <SportPanel
+          date={date}
+          events={data?.sport ?? []}
+          now={now}
+          onPick={(ev) => {
+            setSportPanelOpen(false);
+            setSheet(ev);
+          }}
+          onClose={() => setSportPanelOpen(false)}
         />
       )}
     </div>
@@ -1120,8 +1208,10 @@ function SearchRow({
 }
 
 /** Vertaal een zoekresultaat naar een object dat de bottom-sheet kan tonen. */
-function hitToSheet(hit: SearchHit): Programme | SportEvent {
+function hitToSheet(hit: SearchHit, channelLookup?: Map<string, ChannelWithStatus>): Programme | SportEvent {
   if (hit.type === 'sport') {
+    const ids = hit.channelIds?.length ? hit.channelIds : [hit.channelId];
+    const names = ids.map((id) => channelLookup?.get(id)?.name ?? hit.channelName).filter(Boolean) as string[];
     return {
       id: hit.id,
       externalId: null,
@@ -1132,8 +1222,9 @@ function hitToSheet(hit: SearchHit): Programme | SportEvent {
       start: hit.start,
       end: hit.end,
       status: hit.status ?? 'onbekend',
-      platforms: hit.platforms ?? [],
-      channels: [hit.channelName],
+      platforms: hit.platforms ?? names,
+      channels: names.length ? names : [hit.channelName],
+      channelIds: ids,
       description: hit.description,
       sport: hit.sport ?? null,
       source: 'sport',
@@ -1155,6 +1246,86 @@ function hitToSheet(hit: SearchHit): Programme | SportEvent {
     actors: [],
     live: false,
   };
+}
+
+/* ---------------------------------------------------------------- */
+/* Sportoverzicht                                                     */
+/* ---------------------------------------------------------------- */
+
+function SportPanel({
+  date,
+  events,
+  now,
+  onPick,
+  onClose,
+}: {
+  date: string;
+  events: SportEvent[];
+  now: number;
+  onPick: (e: SportEvent) => void;
+  onClose: () => void;
+}) {
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose();
+    document.addEventListener('keydown', onKey);
+    document.body.style.overflow = 'hidden';
+    return () => {
+      document.removeEventListener('keydown', onKey);
+      document.body.style.overflow = '';
+    };
+  }, [onClose]);
+
+  const groups = useMemo(() => {
+    const m = new Map<string, SportEvent[]>();
+    for (const e of events) {
+      const key = e.competition ?? 'Overig';
+      const arr = m.get(key) ?? [];
+      arr.push(e);
+      m.set(key, arr);
+    }
+    const out = [...m.entries()]
+      .map(([competition, evs]) => ({ competition, evs: evs.sort((a, b) => a.start - b.start) }))
+      .sort((a, b) => (a.evs[0]?.start ?? 0) - (b.evs[0]?.start ?? 0));
+    return out;
+  }, [events]);
+
+  return (
+    <div className="sheet-backdrop" onClick={onClose}>
+      <div className="sheet sport-sheet" onClick={(e) => e.stopPropagation()} role="dialog" aria-modal="true">
+        <div className="grabber" />
+        <h3>⚽ Sport — {capitalize(dateLongFmt.format(brusselsDayStart(date)).split(' ')[0])} {dateLongFmt.format(brusselsDayStart(date)).split(' ').slice(1).join(' ')}</h3>
+        {events.length === 0 ? (
+          <p className="sheet-desc"><span className="muted">Geen sportevenementen voor deze dag.</span></p>
+        ) : (
+          groups.map((g) => (
+            <div key={g.competition} className="sport-group">
+              <div className="sport-group-title">{g.competition}</div>
+              {g.evs.map((e) => {
+                const live = e.status === 'live';
+                const nowIdx = e.status === 'afgelopen';
+                return (
+                  <div key={e.id} className={'sport-item' + (nowIdx ? ' over' : '')} role="button" tabIndex={0} onClick={() => onPick(e)} onKeyDown={(ev) => { if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); onPick(e); } }}>
+                    <span className="sport-item-time">{fmtTime(e.start)}</span>
+                    <span className="sport-item-body">
+                      <span className="sport-item-title">
+                        {live && <span className="live-dot" title="Live" />}
+                        {SPORT_ICONS[e.sport ?? ''] ?? '⚽'} {e.home || e.away ? `${e.home ?? ''} – ${e.away ?? ''}` : e.title}
+                      </span>
+                      <span className="sport-item-meta">{(e.platforms?.length ? e.platforms.join(' · ') : e.channels.join(' · '))}</span>
+                    </span>
+                    {live && <span className="sport-item-status">● Live</span>}
+                  </div>
+                );
+              })}
+            </div>
+          ))
+        )}
+        <div className="sheet-actions">
+          <button className="btn btn-primary" onClick={onClose}>Sluiten</button>
+        </div>
+      </div>
+    </div>
+  );
 }
 
 /* ---------------------------------------------------------------- */

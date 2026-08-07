@@ -41,12 +41,34 @@ export interface SportSource {
 /**
  * Leid sportevenementen af uit EPG-programma's op sportzenders.
  * Gebruikt alleen échte EPG-data; er wordt niets verzonnen.
+ *
+ * Wedstrijden (titel met "Thuisploeg – Uitploeg") die op meerdere zenders
+ * tegelijk uitgezonden worden, worden gebundeld tot één evenement met
+ * `channels`/`channelIds` voor alle zenders. Overige events (placeholders,
+ * magazines) blijven per zender apart.
  */
 export function deriveSportEvents(programmes: Programme[], channels: Channel[]): SportEvent[] {
   const channelNames = new Map<string, string>();
   for (const c of channels) channelNames.set(c.id, c.name);
 
-  const events: SportEvent[] = [];
+  interface MatchGroup {
+    title: string;
+    home: string | null;
+    away: string | null;
+    competition: string | null;
+    sport: string | null;
+    description: string | null;
+    start: number;
+    end: number;
+    source: string;
+    status: SportEvent['status'];
+    items: { channel: string; name: string }[];
+  }
+  const matchGroups = new Map<string, MatchGroup>();
+  const singles: SportEvent[] = [];
+
+  const now = Date.now();
+
   for (const p of programmes) {
     if (!SPORT_CHANNEL_IDS.has(p.channel)) continue;
     const title = p.title.trim();
@@ -59,15 +81,13 @@ export function deriveSportEvents(programmes: Programme[], channels: Channel[]):
       | undefined;
     const matchTitle = meta?.episodeName ?? meta?.seriesName ?? title;
     const teams = parseTeams(matchTitle);
-    const platform = channelNames.get(p.channel) ?? p.channel;
+    const name = channelNames.get(p.channel) ?? p.channel;
 
     const competition = detectCompetition(title, p.description);
     const sport = detectSportType(meta?.genres ?? [], `${title} ${p.description ?? ''}`, competition);
-
-    const now = Date.now();
     const status: SportEvent['status'] = now < p.start ? 'aankomend' : now < p.end ? 'live' : 'afgelopen';
 
-    events.push({
+    const base = {
       id: `sport:${p.id}`,
       externalId: null,
       title: matchTitle,
@@ -78,13 +98,66 @@ export function deriveSportEvents(programmes: Programme[], channels: Channel[]):
       start: p.start,
       end: p.end,
       status,
-      platforms: [platform],
-      channels: [platform],
       description: p.description,
       source: 'epg',
+    };
+
+    if (teams) {
+      const key = `${normalizeText(matchTitle)}\u0001${p.start}\u0001${p.end}`;
+      const g = matchGroups.get(key);
+      if (g) {
+        g.items.push({ channel: p.channel, name });
+      } else {
+        matchGroups.set(key, {
+          title: matchTitle,
+          home: teams.home,
+          away: teams.away,
+          competition,
+          sport,
+          description: p.description,
+          start: p.start,
+          end: p.end,
+          source: 'epg',
+          status,
+          items: [{ channel: p.channel, name }],
+        });
+      }
+    } else {
+      singles.push({ ...base, platforms: [name], channels: [name], channelIds: [p.channel] });
+    }
+  }
+
+  const events: SportEvent[] = singles;
+  for (const g of matchGroups.values()) {
+    const uniqueNames: string[] = [];
+    const uniqueIds: string[] = [];
+    for (const it of g.items) {
+      if (!uniqueNames.includes(it.name)) uniqueNames.push(it.name);
+      if (!uniqueIds.includes(it.channel)) uniqueIds.push(it.channel);
+    }
+    events.push({
+      id: `sport:match:${g.start}:${normalizeText(g.title)}`,
+      externalId: null,
+      title: g.title,
+      home: g.home,
+      away: g.away,
+      competition: g.competition,
+      sport: g.sport,
+      start: g.start,
+      end: g.end,
+      status: g.status,
+      description: g.description,
+      source: g.source,
+      platforms: uniqueNames,
+      channels: uniqueNames,
+      channelIds: uniqueIds,
     });
   }
   return events;
+}
+
+function normalizeText(s: string): string {
+  return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
 }
 
 const BROADCAST_SUFFIX = /(?:\s+(?:live|herhaling|highlights|replay|full match|samenvatting|extra time|voorbeschouwing)\s*)$/i;

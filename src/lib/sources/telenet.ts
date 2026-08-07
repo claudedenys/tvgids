@@ -95,6 +95,29 @@ export async function fetchEventDetail(eventId: string, lang = 'nl'): Promise<Te
   }
 }
 
+/**
+ * Detail-fetch met cache: hetzelfde eventId kan binnen één importrun
+ * meermaals langskomen (overlappende segmenten, Brussels-middernacht bij
+ * twee dagbestanden). Eén netwerkfetch per uniek event bespaart tijd en
+ * vermindert de belasting van de Telenet-API.
+ */
+export function makeDetailCache() {
+  const cache = new Map<string, Promise<TelenetDetail>>();
+  return {
+    get(eventId: string, lang = 'nl'): Promise<TelenetDetail> {
+      const key = `${lang}:${eventId}`;
+      let p = cache.get(key);
+      if (!p) {
+        p = fetchEventDetail(eventId, lang);
+        cache.set(key, p);
+      }
+      return p;
+    },
+  };
+}
+
+export type DetailCache = ReturnType<typeof makeDetailCache>;
+
 export function posterUrl(eventId: string): string {
   return `${IMAGE_SERVICE}/intent/${encodeURIComponent(eventId)}/posterTile`;
 }
@@ -122,6 +145,7 @@ export async function importChannelDay(
   dayEnd: number,
   segments: Map<string, TelenetEvent[]>,
   lang = 'nl',
+  detailCache?: DetailCache,
 ): Promise<Programme[]> {
   const src = channel.sources.find((s) => s.source === TELENET_SOURCE);
   if (!src) return [];
@@ -143,7 +167,7 @@ export async function importChannelDay(
     const isPlaceholder = /geen uitzending/i.test(ev.title || '');
     let detail: TelenetDetail = {};
     if (!isPlaceholder) {
-      detail = await fetchEventDetail(ev.id, lang);
+      detail = detailCache ? await detailCache.get(ev.id, lang) : await fetchEventDetail(ev.id, lang);
     }
     const p = toProgramme(channel.id, {
       title: ev.title,

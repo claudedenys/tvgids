@@ -483,6 +483,40 @@ select {
   text-align: center;
 }
 
+/* Sport-snelkiezen chips in de zoekpopup */
+.search-chips {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--border);
+  flex: none;
+}
+
+.chip {
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-soft);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  min-height: 36px;
+}
+
+.chip:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.chip.active {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
 /* Scrollcontainer van de gids */
 .epg-scroll {
   flex: 1;
@@ -1058,6 +1092,110 @@ select {
   align-self: center;
 }
 
+/* Sport-only-toggle in de topbar */
+.sport-only-btn.on {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+/* Sportoverzicht-paneel */
+.sport-sheet h3 {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.sport-group {
+  margin-bottom: 14px;
+}
+
+.sport-group-title {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+
+.sport-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 4px;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.sport-item:hover {
+  background: var(--surface-2);
+}
+
+.sport-item.over {
+  opacity: 0.55;
+}
+
+.sport-item-time {
+  flex: none;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+  min-width: 42px;
+}
+
+.sport-item-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.sport-item-title {
+  font-size: 13.5px;
+  font-weight: 650;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.sport-item-meta {
+  font-size: 11px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sport-item-status {
+  flex: none;
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--live);
+}
+
+.live-dot {
+  flex: none;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--live);
+  animation: livePulse 1.4s ease-in-out infinite;
+}
+
+@keyframes livePulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
 /* Kijklijst-paneel */
 .watch-panel h3 {
   display: flex;
@@ -1443,6 +1581,11 @@ table.grid th {
     padding: 6px 8px;
     font-size: 12px;
   }
+  .sport-panel-btn,
+  .sport-only-btn {
+    padding: 6px 8px;
+    font-size: 12px;
+  }
   .icon-btn {
     width: 32px;
     height: 32px;
@@ -1483,6 +1626,11 @@ table.grid th {
   }
   .epg-date-nav .btn {
     padding: 5px 8px;
+    font-size: 12px;
+  }
+  .sport-panel-btn,
+  .sport-only-btn {
+    padding: 5px 7px;
     font-size: 12px;
   }
   .epg-date-label {

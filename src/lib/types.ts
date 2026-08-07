@@ -113,6 +113,8 @@ export interface SportEvent {
   platforms: string[];
   /** Tv-kana(a)l(en), bv. ['DAZN 1', 'Play Sports 1']. */
   channels: string[];
+  /** Kanaal-ids van alle zenders waar de wedstrijd te zien is (zelfde wedstrijd gebundeld). */
+  channelIds?: string[];
   description: string | null;
   source: string;
   meta?: Record<string, unknown>;
@@ -154,6 +156,8 @@ export interface SearchHit {
   home?: string | null;
   away?: string | null;
   platforms?: string[];
+  /** Kanaal-ids (zelfde wedstrijd kan op meerdere zenders staan). */
+  channelIds?: string[];
   /** Sportsoort, bv. 'Voetbal', 'Wielrennen', 'Tennis'. */
   sport?: string | null;
 }

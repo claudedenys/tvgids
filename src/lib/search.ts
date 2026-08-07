@@ -46,12 +46,13 @@ export function hitFromSport(
   date: string,
   channelLookup: Map<string, Channel>,
 ): SearchHit {
-  const ch = channelLookup.get(e.channels[0] ?? '') ?? channelLookup.get(normalizeText(e.channels[0] ?? ''));
+  const id = e.channelIds?.[0] ?? e.channels[0] ?? '';
+  const ch = channelLookup.get(id) ?? channelLookup.get(normalizeText(id));
   return {
     id: e.id,
     type: 'sport',
     date,
-    channelId: ch?.id ?? e.channels[0] ?? '',
+    channelId: ch?.id ?? id,
     channelName: ch?.name ?? e.channels[0] ?? '',
     start: e.start,
     end: e.end,
@@ -64,6 +65,7 @@ export function hitFromSport(
     home: e.home,
     away: e.away,
     platforms: e.platforms,
+    channelIds: e.channelIds,
     sport: e.sport,
   };
 }

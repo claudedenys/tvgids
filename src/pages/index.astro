@@ -1,8 +1,15 @@
 ---
 import Base from '../layouts/Base.astro';
 import EpgApp from '../components/EpgApp';
+import { brusselsDateKey } from '../lib/normalise';
+const B = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
+const today = brusselsDateKey(new Date());
 ---
 
 <Base title="TV & Sport Gids" description="Gratis TV- en sportgids: Belgische en Nederlandse zenders + sport in één tijdlijn." active="gids">
+  <link rel="preload" href={`${B}data/meta.json`} as="fetch" crossorigin="anonymous" />
+  <link rel="preload" href={`${B}data/channels.json`} as="fetch" crossorigin="anonymous" />
+  <link rel="preload" href={`${B}data/epg/${today}.json`} as="fetch" crossorigin="anonymous" />
+  <link rel="preload" href={`${B}data/search/${today}.json`} as="fetch" crossorigin="anonymous" />
   <EpgApp client:load />
 </Base>
