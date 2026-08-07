@@ -825,7 +825,7 @@ select {
   bottom: 0;
   width: var(--gold-hit);
   margin-left: calc(var(--gold-hit) / -2);
-  z-index: 26;
+  z-index: 42;
   cursor: ew-resize;
   touch-action: none;
   -webkit-user-select: none;
