@@ -470,8 +470,18 @@ export default function EpgApp() {
   function goPrev() { setDate(addDays(date, -1)); }
   function goNext() { setDate(addDays(date, 1)); }
 
+  function placeGold(clientX: number) {
+    const rect = canvasRef.current?.getBoundingClientRect();
+    const scroller = scrollRef.current;
+    if (!rect || !scroller) return;
+    const channelCol = parseFloat(getComputedStyle(scroller).getPropertyValue('--channel-col')) || 128;
+    const contentX = clientX - rect.left;
+    const t = ((contentX - channelCol) / pph) * HOUR;
+    setGoldTimeOfDay(Math.min(Math.max(0, t), 24 * HOUR - 1));
+  }
+
   function goldPointerDown(e: React.PointerEvent<HTMLDivElement>) {
-    // Touch wordt afgehandeld via de native touch-handlers (betrouwbaar op iOS).
+    // Touch wordt afgehandeld via tap-to-place op de urenbalk (betrouwbaar op iOS).
     if (e.pointerType === 'touch') return;
     e.preventDefault();
     try {
@@ -495,28 +505,6 @@ export default function EpgApp() {
     window.addEventListener('pointermove', move);
     window.addEventListener('pointerup', end);
     window.addEventListener('pointercancel', end);
-  }
-
-  function goldTouchStart(e: React.TouchEvent<HTMLDivElement>) {
-    const touch = e.touches[0];
-    if (!touch) return;
-    const startX = touch.clientX;
-    const startTime = goldTimeOfDay;
-    const move = (ev: TouchEvent) => {
-      ev.preventDefault();
-      const ct = ev.touches[0];
-      if (!ct) return;
-      const t = startTime + ((ct.clientX - startX) / pph) * HOUR;
-      setGoldTimeOfDay(Math.min(Math.max(0, t), 24 * HOUR - 1));
-    };
-    const end = () => {
-      document.removeEventListener('touchmove', move);
-      document.removeEventListener('touchend', end);
-      document.removeEventListener('touchcancel', end);
-    };
-    document.addEventListener('touchmove', move, { passive: false });
-    document.addEventListener('touchend', end);
-    document.addEventListener('touchcancel', end);
   }
 
   function openHit(hit: SearchHit) {
@@ -714,7 +702,7 @@ export default function EpgApp() {
 
           <div className="epg-header">
             <div className="epg-corner">Zenders</div>
-            <div className="epg-hours">
+            <div className="epg-hours" onClick={(e) => placeGold(e.clientX)}>
               {hours.map((h) => (
                 <div key={h} className="epg-hour" style={{ left: h * pph }}>
                   {String(h).padStart(2, '0')}:00
@@ -762,7 +750,6 @@ export default function EpgApp() {
               className="epg-goldline"
               style={{ left: `calc(var(--channel-col) + ${(goldTimeOfDay / HOUR) * pph}px)` }}
               onPointerDown={goldPointerDown}
-              onTouchStart={goldTouchStart}
               title="Sleep om de gouden lijn te verschuiven"
             >
               <span className="grip" />
