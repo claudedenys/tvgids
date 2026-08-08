@@ -147,6 +147,7 @@ export default function EpgApp() {
   const [searchLoading, setSearchLoading] = useState(false);
   const [searchResults, setSearchResults] = useState<SearchHit[]>([]);
   const [sportPanelOpen, setSportPanelOpen] = useState(false);
+  const [sportJplOnly, setSportJplOnly] = useState(false);
   const [sportOnly, setSportOnly] = useState(false);
   const [goldTimeOfDay, setGoldTimeOfDay] = useState<number>(() => {
     const stored = loadGoldTime();
@@ -595,8 +596,16 @@ export default function EpgApp() {
           />
           <button className="btn epg-now-btn" onClick={goToNow}>● Nu</button>
         </div>
-        <button className="btn sport-panel-btn" onClick={() => setSportPanelOpen(true)} aria-label="Sportoverzicht">
+        <button className="btn sport-panel-btn" onClick={() => { setSportJplOnly(false); setSportPanelOpen(true); }} aria-label="Sportoverzicht">
           ⚽ Sport
+        </button>
+        <button
+          className={'btn sport-jpl-btn' + (sportJplOnly ? ' on' : '')}
+          onClick={() => { setSportJplOnly(true); setSportPanelOpen(true); }}
+          aria-label="Enkel Jupiler Pro League"
+          title="Enkel Jupiler Pro League-wedstrijden"
+        >
+          <img src="/icons/jpl.png" alt="" width="18" height="18" className="jpl-btn-icon" /> JPL
         </button>
         <button
           className={'btn sport-only-btn' + (sportOnly ? ' on' : '')}
@@ -804,6 +813,7 @@ export default function EpgApp() {
           date={date}
           events={data?.sport ?? []}
           now={now}
+          jplOnly={sportJplOnly}
           onPick={(ev) => {
             setSportPanelOpen(false);
             setSheet(ev);
@@ -1268,12 +1278,14 @@ function SportPanel({
   date,
   events,
   now,
+  jplOnly,
   onPick,
   onClose,
 }: {
   date: string;
   events: SportEvent[];
   now: number;
+  jplOnly: boolean;
   onPick: (e: SportEvent) => void;
   onClose: () => void;
 }) {
@@ -1288,8 +1300,9 @@ function SportPanel({
   }, [onClose]);
 
   const groups = useMemo(() => {
+    const list = jplOnly ? events.filter((e) => e.competition === 'Jupiler Pro League') : events;
     const m = new Map<string, SportEvent[]>();
-    for (const e of events) {
+    for (const e of list) {
       const key = e.competition ?? 'Overig';
       const arr = m.get(key) ?? [];
       arr.push(e);
@@ -1299,15 +1312,19 @@ function SportPanel({
       .map(([competition, evs]) => ({ competition, evs: evs.sort((a, b) => a.start - b.start) }))
       .sort((a, b) => (a.evs[0]?.start ?? 0) - (b.evs[0]?.start ?? 0));
     return out;
-  }, [events]);
+  }, [events, jplOnly]);
 
   return (
     <div className="sheet-backdrop" onClick={onClose}>
       <div className="sheet sport-sheet" onClick={(e) => e.stopPropagation()} role="dialog" aria-modal="true">
         <div className="grabber" />
-        <h3>⚽ Sport — {capitalize(dateLongFmt.format(brusselsDayStart(date)).split(' ')[0])} {dateLongFmt.format(brusselsDayStart(date)).split(' ').slice(1).join(' ')}</h3>
-        {events.length === 0 ? (
-          <p className="sheet-desc"><span className="muted">Geen sportevenementen voor deze dag.</span></p>
+        <h3>
+          {jplOnly && <img src="/icons/jpl.png" alt="" width="24" height="24" className="jpl-panel-icon" />}
+          {jplOnly ? 'Jupiler Pro League — ' : '⚽ Sport — '}
+          {capitalize(dateLongFmt.format(brusselsDayStart(date)).split(' ')[0])} {dateLongFmt.format(brusselsDayStart(date)).split(' ').slice(1).join(' ')}
+        </h3>
+        {events.length === 0 || groups.length === 0 ? (
+          <p className="sheet-desc"><span className="muted">{jplOnly ? 'Geen Jupiler Pro League-wedstrijden voor deze dag.' : 'Geen sportevenementen voor deze dag.'}</span></p>
         ) : (
           groups.map((g) => (
             <div key={g.competition} className="sport-group">

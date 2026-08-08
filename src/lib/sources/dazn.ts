@@ -77,9 +77,9 @@ export async function fetchDaznEvents(dayStart: number, dayEnd: number): Promise
     const startMs = t.Start ? Date.parse(t.Start) : NaN;
     if (!Number.isFinite(startMs)) continue;
     // Doorlopende gratis kanalen (Rally TV, NFL Network, …) hebben een
-    // start in het verleden en End ver in de toekomst → niet meenemen.
+    // start in het verleden en/of een eindtijd in het jaar 3000 → overslaan.
+    if (t.End && /^3000/.test(t.End)) continue;
     if (startMs < dayStart) continue;
-    if (t.End && t.End === '3000-01-01T00:00:00Z') continue;
     if (startMs >= dayEnd) continue;
     const title = t.Title?.trim();
     if (!title) continue;
@@ -163,6 +163,8 @@ export async function importDaznDay(
   if (!daznChannels.length) return new Map();
   const daznIds = daznChannels.filter((c) => DAZN_MAIN_CHANNELS.includes(c.id as (typeof DAZN_MAIN_CHANNELS)[number])).map((c) => c.id);
   const jplIds = daznChannels.filter((c) => DAZN_PROLEAGUE_CHANNELS.includes(c.id as (typeof DAZN_PROLEAGUE_CHANNELS)[number])).map((c) => c.id);
+  const unknown = daznChannels.filter((c) => !DAZN_MAIN_CHANNELS.includes(c.id as (typeof DAZN_MAIN_CHANNELS)[number]) && !DAZN_PROLEAGUE_CHANNELS.includes(c.id as (typeof DAZN_PROLEAGUE_CHANNELS)[number]));
+  for (const c of unknown) console.warn(`DAZN: zender ${c.id} zit in geen enkele toewijzingsgroep → overgeslagen`);
 
   const events = await fetchDaznEvents(dayStart, dayEnd);
   const jplEvents = events.filter(isProLeague);

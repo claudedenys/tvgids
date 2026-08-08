@@ -89,7 +89,19 @@ export async function importRange(opts: {
     const daznChannels = selected.filter((c) => c.sources.some((s) => s.source === DAZN_SOURCE));
     let daznMap: Map<string, Programme[]> | null = null;
     if (daznChannels.length) {
-      daznMap = await importDaznDay(daznChannels, dayStart, dayEnd);
+      try {
+        daznMap = await importDaznDay(daznChannels, dayStart, dayEnd);
+      } catch (err) {
+        const msg = (err as Error).message;
+        errors.push({ channelId: 'dazn.com', source: DAZN_SOURCE, message: msg });
+        await appendLog({
+          level: 'error',
+          source: DAZN_SOURCE,
+          message: `DAZN-import mislukt op ${dayKey}: ${msg}`,
+        });
+        // DAZN-API tijdelijk down → bestaande data van die dag behouden.
+        daznMap = null;
+      }
     }
 
     for (const channel of selected) {
@@ -99,7 +111,9 @@ export async function importRange(opts: {
         const telenet = channel.sources.find((s) => s.source === 'telenet.tv');
         const tvgids = channel.sources.find((s) => s.source === 'tvgids.nl');
 
-        if (dazn && daznMap) {
+        if (dazn) {
+          // DAZN-fetch mislukt → overslaan, bestaande data blijft staan.
+          if (daznMap === null) continue;
           programmes = daznMap.get(channel.id) ?? [];
         } else if (telenet && telenetSegments) {
           programmes = await importTelenetDay(channel, dayStart, dayEnd, telenetSegments, 'nl', detailCache);

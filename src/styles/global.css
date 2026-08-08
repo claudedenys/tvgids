@@ -1119,6 +1119,25 @@ select {
   border-color: var(--accent);
 }
 
+/* JPL-toggle in de topbar */
+.sport-jpl-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  line-height: 1;
+}
+.sport-jpl-btn .jpl-btn-icon {
+  border-radius: 3px;
+}
+.sport-jpl-btn.on {
+  color: #fff;
+  background: #7c2d12;
+  border-color: #7c2d12;
+}
+.jpl-panel-icon {
+  border-radius: 4px;
+}
+
 /* Sportoverzicht-paneel */
 .sport-sheet h3 {
   display: flex;
@@ -1602,9 +1621,14 @@ table.grid th {
     font-size: 12px;
   }
   .sport-panel-btn,
-  .sport-only-btn {
+  .sport-only-btn,
+  .sport-jpl-btn {
     padding: 6px 8px;
     font-size: 12px;
+  }
+  .sport-jpl-btn .jpl-btn-icon {
+    width: 14px;
+    height: 14px;
   }
   .icon-btn {
     width: 32px;
@@ -1649,9 +1673,14 @@ table.grid th {
     font-size: 12px;
   }
   .sport-panel-btn,
-  .sport-only-btn {
+  .sport-only-btn,
+  .sport-jpl-btn {
     padding: 5px 7px;
     font-size: 12px;
+  }
+  .sport-jpl-btn .jpl-btn-icon {
+    width: 13px;
+    height: 13px;
   }
   .epg-date-label {
     min-width: 84px;
