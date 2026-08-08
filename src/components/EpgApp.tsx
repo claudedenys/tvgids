@@ -605,7 +605,7 @@ export default function EpgApp() {
           aria-label="Enkel Jupiler Pro League"
           title="Enkel Jupiler Pro League-wedstrijden"
         >
-          <img src="/icons/jpl.png" alt="" width="18" height="18" className="jpl-btn-icon" /> JPL
+          <img src={`${BASE}icons/jpl.png`} alt="" width="18" height="18" className="jpl-btn-icon" /> JPL
         </button>
         <button
           className={'btn sport-only-btn' + (sportOnly ? ' on' : '')}
@@ -1319,7 +1319,7 @@ function SportPanel({
       <div className="sheet sport-sheet" onClick={(e) => e.stopPropagation()} role="dialog" aria-modal="true">
         <div className="grabber" />
         <h3>
-          {jplOnly && <img src="/icons/jpl.png" alt="" width="24" height="24" className="jpl-panel-icon" />}
+          {jplOnly && <img src={`${BASE}icons/jpl.png`} alt="" width="24" height="24" className="jpl-panel-icon" />}
           {jplOnly ? 'Jupiler Pro League — ' : '⚽ Sport — '}
           {capitalize(dateLongFmt.format(brusselsDayStart(date)).split(' ')[0])} {dateLongFmt.format(brusselsDayStart(date)).split(' ').slice(1).join(' ')}
         </h3>
