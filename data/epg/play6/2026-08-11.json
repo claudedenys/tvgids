@@ -1,40 +1,10 @@
 [
   {
-    "id": "play6:1786406100000:o13nu0",
-    "channel": "play6",
-    "title": "Pawn Stars",
-    "start": 1786406100000,
-    "end": 1786407600000,
-    "description": "Rick en Chum worstelen met Batman-speelgoed uit de jaren zestig. Een prachtige elektrische gitaar van Mosrite doet iedereen in de winkel versteld staan.",
-    "category": [
-      "Reality",
-      "Veiling"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15167477~~2FEP027840300152%2Cimi%3A9338670c32fd5aefc7701583c6cf7af361692d0c/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 15,
-    "episode": 24,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15167477~~2FEP027840300152,imi:9338670c32fd5aefc7701583c6cf7af361692d0c",
-      "episodeName": "In the Presence of Greatness",
-      "genres": [
-        "Reality",
-        "Veiling"
-      ],
-      "productionDate": "2009",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
-    }
-  },
-  {
-    "id": "play6:1786407600000:48zb9",
+    "id": "play6:1786406400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1786407600000,
-    "end": 1786417200000,
+    "start": 1786406400000,
+    "end": 1786416600000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +16,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d639b665e8f1f21e5497aff8d44efdf5d340527f",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1786416600000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1786416600000,
+    "end": 1786417200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:102aa8bfc5c944879221e1eee1cfd28a6ce93796",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

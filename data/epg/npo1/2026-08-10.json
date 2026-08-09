@@ -127,7 +127,7 @@
     "title": "NOS Journaal",
     "start": 1786318800000,
     "end": 1786333800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Steeds meer scheuren in dijken * Spaanse grenscontroles voor Italie?",
     "category": [
       "Actueel"
     ],
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "npo1:1786335000000:1dw9gp4",
+    "id": "npo1:1786334700000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1786335000000,
+    "start": 1786334700000,
     "end": 1786336200000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -1252,7 +1252,7 @@
     "channel": "npo1",
     "title": "Journaal in makkelijke taal",
     "start": 1786374000000,
-    "end": 1786374600000,
+    "end": 1786374900000,
     "description": "Journaal in makkelijke taal met extra uitleg en in een rustig tempo.",
     "category": [
       "Actueel"
@@ -1272,10 +1272,10 @@
     }
   },
   {
-    "id": "npo1:1786374600000:1xc7rde",
+    "id": "npo1:1786374900000:1xc7rde",
     "channel": "npo1",
     "title": "Journaal in makkelijke taal",
-    "start": 1786374600000,
+    "start": 1786374900000,
     "end": 1786375500000,
     "description": "Journaal in makkelijke taal met extra uitleg en in een rustig tempo.",
     "category": [
@@ -1326,7 +1326,7 @@
     "end": 1786377420000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v386/upload/p/carrousel/politieke-partijen-751399432.jpg",
+    "image": "https://tvgidsassets.nl/v386/upload/p/carrousel/politieke-partijen-757985882.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1334,7 +1334,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -1345,7 +1348,7 @@
     "end": 1786377600000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v386/upload/p/carrousel/politieke-partijen-751399432.jpg",
+    "image": "https://tvgidsassets.nl/v386/upload/p/carrousel/politieke-partijen-757985882.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1353,7 +1356,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -1453,9 +1459,9 @@
     "title": "Woeste grond",
     "start": 1786382400000,
     "end": 1786384800000,
-    "description": "Op de huwelijksdag zijn Mitchel en Michelle verantwoordelijk voor de ringen.",
+    "description": "Het is zover. Lianne en Dinant gaan trouwen en geven elkaar het jawoord in Woeste Grond.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v386/upload/w/carrousel/woeste-grond-751399902.jpg",
+    "image": "https://tvgidsassets.nl/v386/upload/w/carrousel/woeste-grond-751399892.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1465,7 +1471,8 @@
     "meta": {
       "labels": [
         "program",
-        "audiodescription"
+        "audiodescription",
+        "tip"
       ]
     }
   },
@@ -1541,9 +1548,9 @@
     "title": "Goedenavond Nederland",
     "start": 1786392900000,
     "end": 1786396500000,
-    "description": "Alles wat Nederland bezighoudt, wordt besproken.",
+    "description": "Frank van Leeuwen verruilt Goedemorgen Nederland tijdelijk voor Goedenavond Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v386/upload/g/carrousel/goedenavond-nederland-751399052.jpg",
+    "image": "https://tvgidsassets.nl/v386/upload/g/carrousel/goedenavond-nederland-751399072.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1551,7 +1558,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

@@ -1008,7 +1008,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1786446000000,
-    "end": 1786447500000,
+    "end": 1786447200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1028,10 +1028,10 @@
     }
   },
   {
-    "id": "npo1:1786447500000:fmxwos",
+    "id": "npo1:1786447200000:fmxwos",
     "channel": "npo1",
     "title": "Kook mee met MAX",
-    "start": 1786447500000,
+    "start": 1786447200000,
     "end": 1786448100000,
     "description": "Wat eet ik vanavond?",
     "category": [],
@@ -1370,7 +1370,7 @@
     "end": 1786463820000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v386/upload/p/carrousel/politieke-partijen-751399432.jpg",
+    "image": "https://tvgidsassets.nl/v386/upload/p/carrousel/politieke-partijen-757985882.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1378,7 +1378,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -1389,7 +1392,7 @@
     "end": 1786464000000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v386/upload/p/carrousel/politieke-partijen-751399432.jpg",
+    "image": "https://tvgidsassets.nl/v386/upload/p/carrousel/politieke-partijen-757985882.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1397,7 +1400,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

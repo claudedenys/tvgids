@@ -1,40 +1,10 @@
 [
   {
-    "id": "play5:1786402200000:1l3wd65",
-    "channel": "play5",
-    "title": "Superman & Lois",
-    "start": 1786402200000,
-    "end": 1786406700000,
-    "description": "Superman en Lois strijken opnieuw neer in Smallville waar ze moeten dealen met opgroeiende kinderen. Een hele nieuwe uitdaging.",
-    "category": [
-      "Dramaserie",
-      "Actie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19035043~~2FEP043728750014%2Cimi%3Af695dba327bd50ce079350e280bbc83541c33eea/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 1,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F19035043~~2FEP043728750014,imi:f695dba327bd50ce079350e280bbc83541c33eea",
-      "episodeName": "Pilot",
-      "genres": [
-        "Dramaserie",
-        "Actie"
-      ],
-      "productionDate": "2021",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F18320269~~2FSH043728750000"
-    }
-  },
-  {
-    "id": "play5:1786406700000:hxtisv",
+    "id": "play5:1786406100000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1786406700000,
-    "end": 1786410000000,
+    "start": 1786406100000,
+    "end": 1786408500000,
     "description": "Bailey is nerveus wanneer het stageprogramma wordt beoordeeld door een accreditatieraad. Nick keert ondertussen terug naar Seattle om samen met Meredith een unieke operatie uit te voeren.",
     "category": [
       "Dramaserie",
@@ -60,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1786410000000:48zb9",
+    "id": "play5:1786408500000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1786410000000,
-    "end": 1786417200000,
+    "start": 1786408500000,
+    "end": 1786416900000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:934f0a38c07c7b302e446aefcfd018b748465e08",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1786416900000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1786416900000,
+    "end": 1786417200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:35621736627ec1772f44f8e4c792240339dd85c3",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
