@@ -1,40 +1,10 @@
 [
   {
-    "id": "play5:1786489800000:hxtisv",
-    "channel": "play5",
-    "title": "Grey's Anatomy",
-    "start": 1786489800000,
-    "end": 1786493400000,
-    "description": "Catherine wordt geconfronteerd met een aantal controles in haar ziekenhuizen. Addison keert terug naar Grey Sloan. De spanningen tussen Meredith en Richard lopen op. Owen gaat weer aan het werk.",
-    "category": [
-      "Dramaserie",
-      "Medisch"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22016636~~2FEP027786290424%2Cimi%3Ad79c73d825a473ddd7cb71cc41f0f0311b49954b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 18,
-    "episode": 16,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22016636~~2FEP027786290424,imi:d79c73d825a473ddd7cb71cc41f0f0311b49954b",
-      "episodeName": "Should I Stay or Should I Go",
-      "genres": [
-        "Dramaserie",
-        "Medisch"
-      ],
-      "productionDate": "2021",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5e08c502-7198-4669-b6f8-4121e88b8a69"
-    }
-  },
-  {
-    "id": "play5:1786493400000:1c4ahgf",
+    "id": "play5:1786491600000:1c4ahgf",
     "channel": "play5",
     "title": "Pam & Tommy",
-    "start": 1786493400000,
-    "end": 1786495800000,
+    "start": 1786491600000,
+    "end": 1786493700000,
     "description": "De videoband is in de handen gevallen van Bob Guccione, die in het dagelijks leven de uitgever van Penthouse is.",
     "category": [
       "Dramaserie"
@@ -58,11 +28,11 @@
     }
   },
   {
-    "id": "play5:1786495800000:1c4ahgf",
+    "id": "play5:1786493700000:1c4ahgf",
     "channel": "play5",
     "title": "Pam & Tommy",
-    "start": 1786495800000,
-    "end": 1786497900000,
+    "start": 1786493700000,
+    "end": 1786495500000,
     "description": "Tijdens de rechtszaak krijgt Pamela een emotionele inzinking die wordt veroorzaakt door een slopende getuigenis.",
     "category": [
       "Dramaserie"
@@ -86,11 +56,11 @@
     }
   },
   {
-    "id": "play5:1786497900000:48zb9",
+    "id": "play5:1786495500000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1786497900000,
-    "end": 1786503600000,
+    "start": 1786495500000,
+    "end": 1786503300000,
     "description": null,
     "category": [],
     "image": null,
@@ -102,6 +72,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f129dab3923a55496d63a9ebb77273f3f9346c83",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1786503300000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1786503300000,
+    "end": 1786503600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:16fe7d01647a0c03aebe3403d33b3dcff72df63d",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

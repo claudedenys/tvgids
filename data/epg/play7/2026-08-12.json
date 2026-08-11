@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1786492500000:anhdp4",
+    "id": "play7:1786492800000:anhdp4",
     "channel": "play7",
     "title": "First on Scene",
-    "start": 1786492500000,
-    "end": 1786494600000,
+    "start": 1786492800000,
+    "end": 1786494300000,
     "description": "De politie zet de achtervolging in met een bestuurder wiens auto slechts drie wielen heeft.",
     "category": [
       "Docu"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "play7:1786494600000:1j669mp",
+    "id": "play7:1786494300000:1j669mp",
     "channel": "play7",
     "title": "Murder: First on Scene",
-    "start": 1786494600000,
-    "end": 1786496100000,
+    "start": 1786494300000,
+    "end": 1786495500000,
     "description": "In 2015 wordt de hechte gemeenschap van North Ridgeville, Ohio, opgeschrikt door de brutale moord op een jonge vrouw, wier naakte lichaam wordt aangetroffen in een doodlopende straat.",
     "category": [
       "Docu",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play7:1786496100000:48zb9",
+    "id": "play7:1786495500000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1786496100000,
-    "end": 1786503600000,
+    "start": 1786495500000,
+    "end": 1786503360000,
     "description": null,
     "category": [],
     "image": null,
@@ -74,6 +74,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:39d12660baf4b1e7d4b9cfaa97b03ebea6c079c4",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1786503360000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1786503360000,
+    "end": 1786503600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:556039770da0759f080969d00e05aad38208f652",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

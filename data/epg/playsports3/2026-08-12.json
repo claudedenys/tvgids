@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports3:1786492380000:xykime",
+    "id": "playsports3:1786487100000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1786487100000,
+    "end": 1786493400000,
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947%2Cimi%3Ab9e152f277d3595df6f5490b0fddd428d7d20eba/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026080847,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947,imi:b9e152f277d3595df6f5490b0fddd428d7d20eba",
+      "episodeName": "PSV - Fortuna Sittard",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1786493400000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1786492380000,
-    "end": 1786510800000,
+    "start": 1786493400000,
+    "end": 1786509600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,11 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1786510800000:1va4v2m",
+    "id": "playsports3:1786509600000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1786510800000,
-    "end": 1786517100000,
+    "start": 1786509600000,
+    "end": 1786515900000,
     "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -58,11 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1786517100000:1va4v2m",
+    "id": "playsports3:1786515900000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1786517100000,
-    "end": 1786523400000,
+    "start": 1786515900000,
+    "end": 1786523100000,
     "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -88,10 +118,10 @@
     }
   },
   {
-    "id": "playsports3:1786523400000:1va4v2m",
+    "id": "playsports3:1786523100000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1786523400000,
+    "start": 1786523100000,
     "end": 1786529700000,
     "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
