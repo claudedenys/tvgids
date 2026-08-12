@@ -2,27 +2,27 @@
   "sources": {
     "telenet.tv": {
       "source": "telenet.tv",
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastSuccess": "2026-08-02T16:12:45.291Z",
       "lastError": null,
       "ok": true,
       "channels": 19,
-      "programmes": 2365,
+      "programmes": 2323,
       "days": 5
     },
     "tvgids.nl": {
       "source": "tvgids.nl",
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastSuccess": "2026-08-02T16:12:45.291Z",
       "lastError": null,
       "ok": true,
       "channels": 13,
-      "programmes": 2471,
+      "programmes": 2380,
       "days": 5
     },
     "xmltv": {
       "source": "xmltv",
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastSuccess": "2026-08-02T16:12:45.291Z",
       "lastError": null,
       "ok": true,
@@ -32,12 +32,12 @@
     },
     "dazn.com": {
       "source": "dazn.com",
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastSuccess": "2026-08-07T08:51:33.263Z",
       "lastError": null,
-      "ok": true,
+      "ok": false,
       "channels": 6,
-      "programmes": 41,
+      "programmes": 0,
       "days": 5
     }
   },
@@ -45,376 +45,376 @@
     "vrt1": {
       "channelId": "vrt1",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 230,
+      "programmesCount": 218,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "vrtcanvas": {
       "channelId": "vrtcanvas",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 56,
+      "programmesCount": 57,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "ketnet": {
       "channelId": "ketnet",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 467,
+      "programmesCount": 462,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "vtm": {
       "channelId": "vtm",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 189,
+      "programmesCount": 182,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "vtm2": {
       "channelId": "vtm2",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
       "programmesCount": 62,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "vtm3": {
       "channelId": "vtm3",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 61,
+      "programmesCount": 62,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "vtm4": {
       "channelId": "vtm4",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
       "programmesCount": 67,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "play4": {
       "channelId": "play4",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 108,
+      "programmesCount": 119,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "play5": {
       "channelId": "play5",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 131,
+      "programmesCount": 126,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "play6": {
       "channelId": "play6",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 149,
+      "programmesCount": 146,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "play7": {
       "channelId": "play7",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 141,
+      "programmesCount": 140,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "npo1": {
       "channelId": "npo1",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 303,
+      "programmesCount": 262,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "npo2": {
       "channelId": "npo2",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 196,
+      "programmesCount": 185,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "npo3": {
       "channelId": "npo3",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 383,
+      "programmesCount": 361,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "rtl4": {
       "channelId": "rtl4",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 237,
+      "programmesCount": 242,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "rtl5": {
       "channelId": "rtl5",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 84,
+      "programmesCount": 83,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "rtl7": {
       "channelId": "rtl7",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 115,
+      "programmesCount": 116,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "rtl8": {
       "channelId": "rtl8",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 73,
+      "programmesCount": 69,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "sbs6": {
       "channelId": "sbs6",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 168,
+      "programmesCount": 165,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "net5": {
       "channelId": "net5",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 98,
+      "programmesCount": 99,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "veronica": {
       "channelId": "veronica",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
       "programmesCount": 61,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "playsports1": {
       "channelId": "playsports1",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
-      "lastError": null,
-      "programmesCount": 73,
-      "daysAvailable": 5,
-      "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
-    },
-    "playsports2": {
-      "channelId": "playsports2",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
-      "lastError": null,
-      "programmesCount": 20,
-      "daysAvailable": 5,
-      "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
-    },
-    "playsports3": {
-      "channelId": "playsports3",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
-      "lastError": null,
-      "programmesCount": 61,
-      "daysAvailable": 5,
-      "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
-    },
-    "playsports4": {
-      "channelId": "playsports4",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
-      "lastError": null,
-      "programmesCount": 75,
-      "daysAvailable": 5,
-      "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
-    },
-    "playsports-premierleague": {
-      "channelId": "playsports-premierleague",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
-      "lastError": null,
-      "programmesCount": 20,
-      "daysAvailable": 5,
-      "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
-    },
-    "playsports-golf": {
-      "channelId": "playsports-golf",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
       "programmesCount": 72,
       "daysAvailable": 5,
       "descriptionAvailable": true,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
+    },
+    "playsports2": {
+      "channelId": "playsports2",
+      "epgAvailable": true,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
+      "lastError": null,
+      "programmesCount": 20,
+      "daysAvailable": 5,
+      "descriptionAvailable": true,
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
+    },
+    "playsports3": {
+      "channelId": "playsports3",
+      "epgAvailable": true,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
+      "lastError": null,
+      "programmesCount": 65,
+      "daysAvailable": 5,
+      "descriptionAvailable": true,
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
+    },
+    "playsports4": {
+      "channelId": "playsports4",
+      "epgAvailable": true,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
+      "lastError": null,
+      "programmesCount": 78,
+      "daysAvailable": 5,
+      "descriptionAvailable": false,
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
+    },
+    "playsports-premierleague": {
+      "channelId": "playsports-premierleague",
+      "epgAvailable": true,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
+      "lastError": null,
+      "programmesCount": 21,
+      "daysAvailable": 5,
+      "descriptionAvailable": true,
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
+    },
+    "playsports-golf": {
+      "channelId": "playsports-golf",
+      "epgAvailable": true,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
+      "lastError": null,
+      "programmesCount": 65,
+      "daysAvailable": 5,
+      "descriptionAvailable": true,
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "playsports-open": {
       "channelId": "playsports-open",
       "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
       "programmesCount": 0,
       "daysAvailable": 5,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-15",
-      "firstDate": "2026-08-11"
+      "lastDate": "2026-08-16",
+      "firstDate": "2026-08-12"
     },
     "dazn1": {
       "channelId": "dazn1",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "epgAvailable": false,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 7,
-      "daysAvailable": 1,
-      "descriptionAvailable": true,
-      "lastDate": "2026-08-11",
-      "firstDate": "2026-08-11"
+      "programmesCount": 0,
+      "daysAvailable": 0,
+      "descriptionAvailable": false,
+      "lastDate": null,
+      "firstDate": null
     },
     "dazn2": {
       "channelId": "dazn2",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "epgAvailable": false,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 22,
-      "daysAvailable": 1,
-      "descriptionAvailable": true,
-      "lastDate": "2026-08-11",
-      "firstDate": "2026-08-11"
+      "programmesCount": 0,
+      "daysAvailable": 0,
+      "descriptionAvailable": false,
+      "lastDate": null,
+      "firstDate": null
     },
     "dazn3": {
       "channelId": "dazn3",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "epgAvailable": false,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
       "programmesCount": 0,
-      "daysAvailable": 1,
+      "daysAvailable": 0,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-11",
-      "firstDate": "2026-08-11"
+      "lastDate": null,
+      "firstDate": null
     },
     "dazn-jpl1": {
       "channelId": "dazn-jpl1",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "epgAvailable": false,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 6,
-      "daysAvailable": 1,
+      "programmesCount": 0,
+      "daysAvailable": 0,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-11",
-      "firstDate": "2026-08-11"
+      "lastDate": null,
+      "firstDate": null
     },
     "dazn-jpl2": {
       "channelId": "dazn-jpl2",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "epgAvailable": false,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
-      "programmesCount": 6,
-      "daysAvailable": 1,
+      "programmesCount": 0,
+      "daysAvailable": 0,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-11",
-      "firstDate": "2026-08-11"
+      "lastDate": null,
+      "firstDate": null
     },
     "dazn-jpl3": {
       "channelId": "dazn-jpl3",
-      "epgAvailable": true,
-      "lastUpdate": "2026-08-11T05:37:20.875Z",
+      "epgAvailable": false,
+      "lastUpdate": "2026-08-12T05:56:11.475Z",
       "lastError": null,
       "programmesCount": 0,
-      "daysAvailable": 1,
+      "daysAvailable": 0,
       "descriptionAvailable": false,
-      "lastDate": "2026-08-11",
-      "firstDate": "2026-08-11"
+      "lastDate": null,
+      "firstDate": null
     }
   }
 }

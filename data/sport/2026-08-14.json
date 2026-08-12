@@ -230,15 +230,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1786666500000:xykime",
+    "id": "sport:playsports3:1786666260000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1786666500000,
-    "end": 1786681800000,
+    "start": 1786666260000,
+    "end": 1786682400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -264,29 +264,6 @@
     "end": 1786724100000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1786724100000:8a2n92",
-    "externalId": null,
-    "title": "Tennis",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1786724100000,
-    "end": 1786724700000,
-    "status": "aankomend",
-    "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1242,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1786659660000:psv - fortuna sittard",
+    "id": "sport:match:1786659960000:psv - fortuna sittard",
     "externalId": null,
     "title": "PSV - Fortuna Sittard",
     "home": "PSV",
     "away": "Fortuna Sittard",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786659660000,
-    "end": 1786666500000,
+    "start": 1786659960000,
+    "end": 1786666260000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1265,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1786681800000:psv - fortuna sittard",
+    "id": "sport:match:1786682400000:psv - fortuna sittard",
     "externalId": null,
     "title": "PSV - Fortuna Sittard",
     "home": "PSV",
     "away": "Fortuna Sittard",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786681800000,
-    "end": 1786688100000,
+    "start": 1786682400000,
+    "end": 1786688700000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1288,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1786688100000:sparta rotterdam - feyenoord",
+    "id": "sport:match:1786688700000:sparta rotterdam - feyenoord",
     "externalId": null,
     "title": "Sparta Rotterdam - Feyenoord",
     "home": "Sparta Rotterdam",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786688100000,
-    "end": 1786695300000,
+    "start": 1786688700000,
+    "end": 1786695240000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1311,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1786695300000:pec zwolle - ajax",
+    "id": "sport:match:1786695240000:pec zwolle - ajax",
     "externalId": null,
     "title": "PEC Zwolle - Ajax",
     "home": "PEC Zwolle",
     "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786695300000,
-    "end": 1786701900000,
+    "start": 1786695240000,
+    "end": 1786701840000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1334,15 +1311,15 @@
     ]
   },
   {
-    "id": "sport:match:1786701900000:psv - az",
+    "id": "sport:match:1786701840000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1786701900000,
-    "end": 1786709640000,
+    "start": 1786701840000,
+    "end": 1786709700000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "source": "epg",
@@ -1357,14 +1334,14 @@
     ]
   },
   {
-    "id": "sport:match:1786709640000:finale: crystal palace - rayo vallecano",
+    "id": "sport:match:1786709700000:finale: crystal palace - rayo vallecano",
     "externalId": null,
     "title": "Finale: Crystal Palace - Rayo Vallecano",
     "home": "Finale: Crystal Palace",
     "away": "Rayo Vallecano",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1786709640000,
+    "start": 1786709700000,
     "end": 1786716900000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
@@ -1380,38 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1786724700000:psv - fortuna sittard",
-    "externalId": null,
-    "title": "PSV - Fortuna Sittard",
-    "home": "PSV",
-    "away": "Fortuna Sittard",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1786724700000,
-    "end": 1786731000000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1786731000000:sparta rotterdam - feyenoord",
+    "id": "sport:match:1786724100000:sparta rotterdam - feyenoord",
     "externalId": null,
     "title": "Sparta Rotterdam - Feyenoord",
     "home": "Sparta Rotterdam",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786731000000,
-    "end": 1786738140000,
+    "start": 1786724100000,
+    "end": 1786724820000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1426,15 +1380,61 @@
     ]
   },
   {
-    "id": "sport:match:1786738140000:pec zwolle - ajax",
+    "id": "sport:match:1786724820000:psv - fortuna sittard",
+    "externalId": null,
+    "title": "PSV - Fortuna Sittard",
+    "home": "PSV",
+    "away": "Fortuna Sittard",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1786724820000,
+    "end": 1786731180000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786731180000:sparta rotterdam - feyenoord",
+    "externalId": null,
+    "title": "Sparta Rotterdam - Feyenoord",
+    "home": "Sparta Rotterdam",
+    "away": "Feyenoord",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1786731180000,
+    "end": 1786737840000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786737840000:pec zwolle - ajax",
     "externalId": null,
     "title": "PEC Zwolle - Ajax",
     "home": "PEC Zwolle",
     "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786738140000,
-    "end": 1786744740000,
+    "start": 1786737840000,
+    "end": 1786744320000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1449,15 +1449,15 @@
     ]
   },
   {
-    "id": "sport:match:1786744740000:psv - az",
+    "id": "sport:match:1786744320000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1786744740000,
-    "end": 1786752900000,
+    "start": 1786744320000,
+    "end": 1786752060000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "source": "epg",

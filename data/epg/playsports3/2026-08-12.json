@@ -62,7 +62,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1786509600000,
-    "end": 1786515900000,
+    "end": 1786510800000,
     "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -88,161 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1786515900000:1va4v2m",
+    "id": "playsports3:1786510800000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1786515900000,
-    "end": 1786523100000,
-    "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557217~~2FEP035850991949%2Cimi%3A3bdbd563f9bfd8f2e93ae26ad1603d04266b42c8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026080949,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557217~~2FEP035850991949,imi:3bdbd563f9bfd8f2e93ae26ad1603d04266b42c8",
-      "episodeName": "Sparta Rotterdam - Feyenoord",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1786523100000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1786523100000,
-    "end": 1786529700000,
-    "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557236~~2FEP035850991950%2Cimi%3Ace091fe384826b78ee57bfd2677eeb3d32ca638c/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026080950,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557236~~2FEP035850991950,imi:ce091fe384826b78ee57bfd2677eeb3d32ca638c",
-      "episodeName": "PEC Zwolle - Ajax",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1786529700000:99kgtm",
-    "channel": "playsports3",
-    "title": "Johan Cruijff Schaal",
-    "start": 1786529700000,
-    "end": 1786537500000,
-    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006%2Cimi%3A145590fe2097986b98072fb342c4cce7157e937e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 8910000,
-    "episode": 2026080206,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006,imi:145590fe2097986b98072fb342c4cce7157e937e",
-      "episodeName": "PSV - AZ",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20424370~~2FSH039508910000"
-    }
-  },
-  {
-    "id": "playsports3:1786537500000:16v40h",
-    "channel": "playsports3",
-    "title": "UEFA Conference League",
-    "start": 1786537500000,
-    "end": 1786544520000,
-    "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30537922~~2FEP052089690635%2Cimi%3Abb1af5f4517acb2b23b0dc89a98da03cd49c0ce4/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 89690000,
-    "episode": 2026052735,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30537922~~2FEP052089690635,imi:bb1af5f4517acb2b23b0dc89a98da03cd49c0ce4",
-      "episodeName": "Finale: Crystal Palace - Rayo Vallecano",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27811245~~2FSH052089690000"
-    }
-  },
-  {
-    "id": "playsports3:1786544520000:ear1gl",
-    "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1786544520000,
-    "end": 1786551120000,
-    "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30578666~~2FEP028036721175%2Cimi%3Ad8a8c8e872937fae766027e78335c182e980e3b5/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 36720000,
-    "episode": 2026052075,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30578666~~2FEP028036721175,imi:d8a8c8e872937fae766027e78335c182e980e3b5",
-      "episodeName": "Finale: SC Freiburg - Aston Villa",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
-    }
-  },
-  {
-    "id": "playsports3:1786551120000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1786551120000,
-    "end": 1786557420000,
+    "start": 1786510800000,
+    "end": 1786517040000,
     "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -268,11 +118,191 @@
     }
   },
   {
-    "id": "playsports3:1786557420000:1va4v2m",
+    "id": "playsports3:1786517040000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1786557420000,
-    "end": 1786564800000,
+    "start": 1786517040000,
+    "end": 1786523700000,
+    "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557217~~2FEP035850991949%2Cimi%3A3bdbd563f9bfd8f2e93ae26ad1603d04266b42c8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026080949,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557217~~2FEP035850991949,imi:3bdbd563f9bfd8f2e93ae26ad1603d04266b42c8",
+      "episodeName": "Sparta Rotterdam - Feyenoord",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1786523700000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1786523700000,
+    "end": 1786530300000,
+    "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557236~~2FEP035850991950%2Cimi%3Ace091fe384826b78ee57bfd2677eeb3d32ca638c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026080950,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557236~~2FEP035850991950,imi:ce091fe384826b78ee57bfd2677eeb3d32ca638c",
+      "episodeName": "PEC Zwolle - Ajax",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1786530300000:99kgtm",
+    "channel": "playsports3",
+    "title": "Johan Cruijff Schaal",
+    "start": 1786530300000,
+    "end": 1786538100000,
+    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006%2Cimi%3A145590fe2097986b98072fb342c4cce7157e937e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 8910000,
+    "episode": 2026080206,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006,imi:145590fe2097986b98072fb342c4cce7157e937e",
+      "episodeName": "PSV - AZ",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20424370~~2FSH039508910000"
+    }
+  },
+  {
+    "id": "playsports3:1786538100000:16v40h",
+    "channel": "playsports3",
+    "title": "UEFA Conference League",
+    "start": 1786538100000,
+    "end": 1786545300000,
+    "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30537922~~2FEP052089690635%2Cimi%3Abb1af5f4517acb2b23b0dc89a98da03cd49c0ce4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 89690000,
+    "episode": 2026052735,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30537922~~2FEP052089690635,imi:bb1af5f4517acb2b23b0dc89a98da03cd49c0ce4",
+      "episodeName": "Finale: Crystal Palace - Rayo Vallecano",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27811245~~2FSH052089690000"
+    }
+  },
+  {
+    "id": "playsports3:1786545300000:ear1gl",
+    "channel": "playsports3",
+    "title": "UEFA Europa League",
+    "start": 1786545300000,
+    "end": 1786552020000,
+    "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30578666~~2FEP028036721175%2Cimi%3Ad8a8c8e872937fae766027e78335c182e980e3b5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 36720000,
+    "episode": 2026052075,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30578666~~2FEP028036721175,imi:d8a8c8e872937fae766027e78335c182e980e3b5",
+      "episodeName": "Finale: SC Freiburg - Aston Villa",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
+    }
+  },
+  {
+    "id": "playsports3:1786552020000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1786552020000,
+    "end": 1786558440000,
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947%2Cimi%3Aeb243811bf14db383c7ed956ef75c5671395aa7d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026080847,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947,imi:eb243811bf14db383c7ed956ef75c5671395aa7d",
+      "episodeName": "PSV - Fortuna Sittard",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1786558440000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1786558440000,
+    "end": 1786565100000,
     "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -298,71 +328,41 @@
     }
   },
   {
-    "id": "playsports3:1786564800000:uf67wi",
+    "id": "playsports3:1786565100000:1va4v2m",
     "channel": "playsports3",
-    "title": "Beachvolleybal",
-    "start": 1786564800000,
-    "end": 1786567800000,
-    "description": "Professionele teams nemen het tegen elkaar op tijdens een prestigieus beachvolleybalkampioenschap in een poging om als winnaar uit de bus te komen en de felbegeerde titel te winnen.",
+    "title": "Eredivisie",
+    "start": 1786565100000,
+    "end": 1786571700000,
+    "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
-      "Beachvolleybal"
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F3589882~~2FSH036051160000~~2F523235746%2Cimi%3Aed4911357877f8b8cd4ea29ae2c373d46af44f34/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557236~~2FEP035850991950%2Cimi%3A7b7b687dc57aaa6d2249a3ddd7178b4d22fbf504/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 51160000,
-    "episode": 523235746,
+    "season": 50990000,
+    "episode": 2026080950,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F3589882~~2FSH036051160000~~2F523235746,imi:ed4911357877f8b8cd4ea29ae2c373d46af44f34",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557236~~2FEP035850991950,imi:7b7b687dc57aaa6d2249a3ddd7178b4d22fbf504",
+      "episodeName": "PEC Zwolle - Ajax",
       "genres": [
         "Sport",
-        "Beachvolleybal"
+        "Voetbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589882~~2FSH036051160000"
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {
-    "id": "playsports3:1786567800000:uf67wi",
-    "channel": "playsports3",
-    "title": "Beachvolleybal",
-    "start": 1786567800000,
-    "end": 1786570740000,
-    "description": "Professionele teams nemen het tegen elkaar op tijdens een prestigieus beachvolleybalkampioenschap in een poging om als winnaar uit de bus te komen en de felbegeerde titel te winnen.",
-    "category": [
-      "Sport",
-      "Beachvolleybal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F3589882~~2FSH036051160000~~2F523235747%2Cimi%3Afea0a6fa7afbab43b5914fa2fac2ccef6431fe5b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 51160000,
-    "episode": 523235747,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F3589882~~2FSH036051160000~~2F523235747,imi:fea0a6fa7afbab43b5914fa2fac2ccef6431fe5b",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Beachvolleybal"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589882~~2FSH036051160000"
-    }
-  },
-  {
-    "id": "playsports3:1786570740000:99kgtm",
+    "id": "playsports3:1786571700000:99kgtm",
     "channel": "playsports3",
     "title": "Johan Cruijff Schaal",
-    "start": 1786570740000,
-    "end": 1786578660000,
+    "start": 1786571700000,
+    "end": 1786579440000,
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "category": [
       "Sport",

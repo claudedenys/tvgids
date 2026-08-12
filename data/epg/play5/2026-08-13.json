@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1786578900000:hxtisv",
+    "id": "play5:1786578300000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1786578900000,
-    "end": 1786582200000,
+    "start": 1786578300000,
+    "end": 1786580700000,
     "description": "Simon, een voormalige patiënt van Link, is op de eerste hulp met zijn zwangere vrouw. Ondertussen krijgt Bailey een aanbod van Nick.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1786582200000:48zb9",
+    "id": "play5:1786580700000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1786582200000,
-    "end": 1786590000000,
+    "start": 1786580700000,
+    "end": 1786589880000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b5588ef6cdeab6dc0b38d895637ea7ccfc94088c",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1786589880000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1786589880000,
+    "end": 1786590000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:56a2ccad36512e1d8671f14ae13502a1ddb1206d",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

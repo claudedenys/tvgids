@@ -276,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1786578660000:xykime",
+    "id": "sport:playsports3:1786579440000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1786578660000,
-    "end": 1786596600000,
+    "start": 1786579440000,
+    "end": 1786597200000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -310,29 +310,6 @@
     "end": 1786637700000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1786637700000:11oizv7",
-    "externalId": null,
-    "title": "Dag 5",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1786637700000,
-    "end": 1786638300000,
-    "status": "aankomend",
-    "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1173,15 +1150,38 @@
     ]
   },
   {
-    "id": "sport:match:1786596600000:finale: crystal palace - rayo vallecano",
+    "id": "sport:match:1786571700000:psv - az",
+    "externalId": null,
+    "title": "PSV - AZ",
+    "home": "PSV",
+    "away": "AZ",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1786571700000,
+    "end": 1786579440000,
+    "status": "aankomend",
+    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786597200000:finale: crystal palace - rayo vallecano",
     "externalId": null,
     "title": "Finale: Crystal Palace - Rayo Vallecano",
     "home": "Finale: Crystal Palace",
     "away": "Rayo Vallecano",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1786596600000,
-    "end": 1786603800000,
+    "start": 1786597200000,
+    "end": 1786604220000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
     "source": "epg",
@@ -1196,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1786603800000:finale: sc freiburg - aston villa",
+    "id": "sport:match:1786604220000:finale: sc freiburg - aston villa",
     "externalId": null,
     "title": "Finale: SC Freiburg - Aston Villa",
     "home": "Finale: SC Freiburg",
     "away": "Aston Villa",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1786603800000,
-    "end": 1786610340000,
+    "start": 1786604220000,
+    "end": 1786610820000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
     "source": "epg",
@@ -1219,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1786610340000:psv - fortuna sittard",
+    "id": "sport:match:1786610820000:psv - fortuna sittard",
     "externalId": null,
     "title": "PSV - Fortuna Sittard",
     "home": "PSV",
     "away": "Fortuna Sittard",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786610340000,
-    "end": 1786616700000,
+    "start": 1786610820000,
+    "end": 1786617180000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1242,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1786616700000:sparta rotterdam - feyenoord",
+    "id": "sport:match:1786617180000:sparta rotterdam - feyenoord",
     "externalId": null,
     "title": "Sparta Rotterdam - Feyenoord",
     "home": "Sparta Rotterdam",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786616700000,
-    "end": 1786623900000,
+    "start": 1786617180000,
+    "end": 1786623840000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1265,14 +1265,14 @@
     ]
   },
   {
-    "id": "sport:match:1786623900000:pec zwolle - ajax",
+    "id": "sport:match:1786623840000:pec zwolle - ajax",
     "externalId": null,
     "title": "PEC Zwolle - Ajax",
     "home": "PEC Zwolle",
     "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1786623900000,
+    "start": 1786623840000,
     "end": 1786630500000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
@@ -1288,15 +1288,38 @@
     ]
   },
   {
-    "id": "sport:match:1786638300000:psv - az",
+    "id": "sport:match:1786637700000:pec zwolle - ajax",
+    "externalId": null,
+    "title": "PEC Zwolle - Ajax",
+    "home": "PEC Zwolle",
+    "away": "Ajax",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1786637700000,
+    "end": 1786638360000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1786638360000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1786638300000,
-    "end": 1786646040000,
+    "start": 1786638360000,
+    "end": 1786646220000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "source": "epg",
@@ -1311,15 +1334,15 @@
     ]
   },
   {
-    "id": "sport:match:1786646040000:finale: crystal palace - rayo vallecano",
+    "id": "sport:match:1786646220000:finale: crystal palace - rayo vallecano",
     "externalId": null,
     "title": "Finale: Crystal Palace - Rayo Vallecano",
     "home": "Finale: Crystal Palace",
     "away": "Rayo Vallecano",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1786646040000,
-    "end": 1786653060000,
+    "start": 1786646220000,
+    "end": 1786653420000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
     "source": "epg",
@@ -1334,15 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1786653060000:finale: sc freiburg - aston villa",
+    "id": "sport:match:1786653420000:finale: sc freiburg - aston villa",
     "externalId": null,
     "title": "Finale: SC Freiburg - Aston Villa",
     "home": "Finale: SC Freiburg",
     "away": "Aston Villa",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1786653060000,
-    "end": 1786659660000,
+    "start": 1786653420000,
+    "end": 1786659960000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
     "source": "epg",

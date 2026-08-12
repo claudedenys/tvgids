@@ -1056,39 +1056,11 @@
     }
   },
   {
-    "id": "vrt1:1786557720000:183mej4",
-    "channel": "vrt1",
-    "title": "Joker+ en Lotto",
-    "start": 1786557720000,
-    "end": 1786557900000,
-    "description": "Trekkingen van de Joker+ en de Lotto.",
-    "category": [
-      "Spelprogramma"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33701609~~2FEP032301540532%2Cimi%3A8ef3ae47b867f25aa7810cc93ee1542db59d88e1/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 66,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33701609~~2FEP032301540532,imi:8ef3ae47b867f25aa7810cc93ee1542db59d88e1",
-      "episodeName": "Aflevering 66",
-      "genres": [
-        "Spelprogramma"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F773e7cf6-660c-45d6-a307-b2e92a445776"
-    }
-  },
-  {
-    "id": "vrt1:1786557900000:1rw80yh",
+    "id": "vrt1:1786557720000:1rw80yh",
     "channel": "vrt1",
     "title": "Het weer",
-    "start": 1786557900000,
-    "end": 1786558200000,
+    "start": 1786557720000,
+    "end": 1786558020000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
@@ -1114,39 +1086,97 @@
     }
   },
   {
-    "id": "vrt1:1786558200000:bbykai",
+    "id": "vrt1:1786558020000:1604pk5",
     "channel": "vrt1",
-    "title": "F.C. De Kampioenen",
-    "start": 1786558200000,
-    "end": 1786560300000,
-    "description": "De Kampioenen moeten op zoek naar een twaalfde man, maar dat loopt niet van een leien dakje, met name omdat Fernand zijn buik vol heeft van al het 'supportersgeweld' op zondag en de boel wil saboteren.",
+    "title": "Extra journaal",
+    "start": 1786558020000,
+    "end": 1786559700000,
+    "description": "Extra uitzending nav de zonsverduistering.",
     "category": [
-      "Sitcom"
+      "Actua",
+      "Actualiteitsmagazine"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19275355~~2FEP032294210119%2Cimi%3A44ec2d63e7687e04480cbd9b28431c3a605f4363/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33828137~~2FEP037864180028%2Cimi%3A93c61814022b38fe92ca26a953de6b76ee231dae/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 17,
-    "episode": 2,
+    "season": 102026,
+    "episode": 7,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F19275355~~2FEP032294210119,imi:44ec2d63e7687e04480cbd9b28431c3a605f4363",
-      "episodeName": "De twaalfde man",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33828137~~2FEP037864180028,imi:93c61814022b38fe92ca26a953de6b76ee231dae",
+      "episodeName": "Aflevering 7",
+      "genres": [
+        "Actua",
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Ff1410508-830b-47ce-96d7-3ac7131df095"
+    }
+  },
+  {
+    "id": "vrt1:1786559700000:bbykai",
+    "channel": "vrt1",
+    "title": "F.C. De Kampioenen",
+    "start": 1786559700000,
+    "end": 1786562160000,
+    "description": "Boma maakt kans om regionaal manager van het jaar te worden. Voordat hij de titel krijgt, moet hij echter bewijzen dat hij regelmatig goede doelen steunt. Hij besluit een benefiet voor blinden te organiseren en schakelt de hulp van de Kampioenen in.",
+    "category": [
+      "Sitcom"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19030120~~2FEP032294210110%2Cimi%3A4168e6d72f1845df7fffc3cc342576d6b7e91847/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 16,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19030120~~2FEP032294210110,imi:4168e6d72f1845df7fffc3cc342576d6b7e91847",
+      "episodeName": "Het goede doel",
       "genres": [
         "Sitcom"
       ],
-      "productionDate": "2006",
+      "productionDate": "2005",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2c2e3373-feb9-476e-9003-599f1f571058"
     }
   },
   {
-    "id": "vrt1:1786560300000:11o60uf",
+    "id": "vrt1:1786562160000:183mej4",
+    "channel": "vrt1",
+    "title": "Joker+ en Lotto",
+    "start": 1786562160000,
+    "end": 1786562400000,
+    "description": "Trekkingen van de Joker+ en de Lotto.",
+    "category": [
+      "Spelprogramma"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33701609~~2FEP032301540532%2Cimi%3A8ef3ae47b867f25aa7810cc93ee1542db59d88e1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 66,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33701609~~2FEP032301540532,imi:8ef3ae47b867f25aa7810cc93ee1542db59d88e1",
+      "episodeName": "Aflevering 66",
+      "genres": [
+        "Spelprogramma"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F773e7cf6-660c-45d6-a307-b2e92a445776"
+    }
+  },
+  {
+    "id": "vrt1:1786562400000:11o60uf",
     "channel": "vrt1",
     "title": "De jaren 90 voor tieners",
-    "start": 1786560300000,
-    "end": 1786563600000,
+    "start": 1786562400000,
+    "end": 1786565700000,
     "description": "Steven Van Herreweghe laat een groep tieners binnen in de wondere wereld van de jaren 90. In ruil wil hij weten hoe het leven van een tiener anno 2023 eruitziet. Welke dingen zijn veranderd en wat is hetzelfde gebleven? Deze keer het jaar 1997.",
     "category": [
       "Geschiedenis"
@@ -1170,11 +1200,11 @@
     }
   },
   {
-    "id": "vrt1:1786563600000:1fn0z9",
+    "id": "vrt1:1786565700000:1fn0z9",
     "channel": "vrt1",
     "title": "Eyecatchers",
-    "start": 1786563600000,
-    "end": 1786565100000,
+    "start": 1786565700000,
+    "end": 1786567200000,
     "description": "Een prestigieuze pitch jaagt de competitie binnen Eyecatchers opnieuw de hoogte in. Net wanneer de rust lijkt terug te keren, slaat het noodlot onverwacht toe.",
     "category": [
       "Dramaserie"
@@ -1198,11 +1228,11 @@
     }
   },
   {
-    "id": "vrt1:1786565100000:39vxy3",
+    "id": "vrt1:1786567200000:39vxy3",
     "channel": "vrt1",
     "title": "VRT NWS laat",
-    "start": 1786565100000,
-    "end": 1786566000000,
+    "start": 1786567200000,
+    "end": 1786568100000,
     "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
     "category": [
       "Actua"
@@ -1226,11 +1256,11 @@
     }
   },
   {
-    "id": "vrt1:1786566000000:behtd8",
+    "id": "vrt1:1786568100000:behtd8",
     "channel": "vrt1",
     "title": "Het weer (laat)",
-    "start": 1786566000000,
-    "end": 1786566300000,
+    "start": 1786568100000,
+    "end": 1786568400000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1254,11 +1284,11 @@
     }
   },
   {
-    "id": "vrt1:1786566300000:t18if1",
+    "id": "vrt1:1786568400000:t18if1",
     "channel": "vrt1",
     "title": "Kunnen we overeenkomen?",
-    "start": 1786566300000,
-    "end": 1786569060000,
+    "start": 1786568400000,
+    "end": 1786571160000,
     "description": "Martine gaat in gesprek met haar buren Jonathan en Laura in de hoop dat er eindelijk een oplossing komt voor het hoogteverschil tussen de tuinen. Karin heeft last van het ronkende lawaai van de afzuiginstallatie van de buren. Is het lawaai echt zo luid? In Hamme nemen de schoolkinderen een weg naar school die voor veel frustratie zorgt. Voor enkele ouders is het nu wel genoeg geweest met de gescheurde jassen en de gevaarlijke situatie.",
     "category": [
       "Reality",
@@ -1284,11 +1314,11 @@
     }
   },
   {
-    "id": "vrt1:1786569060000:1btyxep",
+    "id": "vrt1:1786571160000:1btyxep",
     "channel": "vrt1",
     "title": "Winst joker+ / lotto",
-    "start": 1786569060000,
-    "end": 1786569120000,
+    "start": 1786571160000,
+    "end": 1786571220000,
     "description": "Winstverdeling van de joker+ / lotto.",
     "category": [
       "Spelprogramma"
@@ -1312,11 +1342,11 @@
     }
   },
   {
-    "id": "vrt1:1786569120000:ykl842",
+    "id": "vrt1:1786571220000:ykl842",
     "channel": "vrt1",
     "title": "Keno",
-    "start": 1786569120000,
-    "end": 1786569180000,
+    "start": 1786571220000,
+    "end": 1786571280000,
     "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
     "category": [
       "Spelprogramma",
@@ -1342,11 +1372,11 @@
     }
   },
   {
-    "id": "vrt1:1786569180000:jzl470",
+    "id": "vrt1:1786571280000:jzl470",
     "channel": "vrt1",
     "title": "Euromillions winstverdeling",
-    "start": 1786569180000,
-    "end": 1786569300000,
+    "start": 1786571280000,
+    "end": 1786571400000,
     "description": "Een uitzending van de uitslagen en de winstverdeling van de Euromillions loterij.",
     "category": [
       "Entertainment"
@@ -1370,11 +1400,11 @@
     }
   },
   {
-    "id": "vrt1:1786569300000:1rkrji",
+    "id": "vrt1:1786571400000:1rkrji",
     "channel": "vrt1",
     "title": "Dertigers",
-    "start": 1786569300000,
-    "end": 1786570500000,
+    "start": 1786571400000,
+    "end": 1786572600000,
     "description": "TE: 24 Realistische fictiereeks over het leven van 7 vrienden.",
     "category": [
       "Soap"
@@ -1395,34 +1425,6 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0dd546d2-1cef-4b90-9ae1-82c09ae757cc"
-    }
-  },
-  {
-    "id": "vrt1:1786570500000:n5mqgl",
-    "channel": "vrt1",
-    "title": "Journaallus",
-    "start": 1786570500000,
-    "end": 1786593600000,
-    "description": "Doorlopende herhalingen van het journaal in lusvorm tot de volgende ochtend.",
-    "category": [
-      "Actua"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16945230~~2FSH032302400000~~2F520327383%2Cimi%3Ab11c30334b1fbf0ed18c20f70b3cef382362da55/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2400000,
-    "episode": 520327383,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F16945230~~2FSH032302400000~~2F520327383,imi:b11c30334b1fbf0ed18c20f70b3cef382362da55",
-      "episodeName": null,
-      "genres": [
-        "Actua"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fd9b03910-f610-4056-af57-e10b8c84a636"
     }
   }
 ]
