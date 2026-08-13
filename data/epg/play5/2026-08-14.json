@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1786664700000:hxtisv",
+    "id": "play5:1786664100000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1786664700000,
-    "end": 1786668000000,
+    "start": 1786664100000,
+    "end": 1786666800000,
     "description": "In het zusterhuis wordt een etentje gehouden ter ere van Nick. Grey Sloan Memorial ontvangt een slachtoffer van een wrede haatmisdaad.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1786668000000:48zb9",
+    "id": "play5:1786666800000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1786668000000,
-    "end": 1786676400000,
+    "start": 1786666800000,
+    "end": 1786675800000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c0da73420f2526ec0e132158be0ad661f6e7777d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1786675800000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1786675800000,
+    "end": 1786676400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:32f43645df30d8af96f873fc34f39af501c089aa",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -369,7 +393,7 @@
     "title": "Best Medicine",
     "start": 1786709100000,
     "end": 1786712400000,
-    "description": null,
+    "description": "De onverwachte komst van Martins ouders zorgt voor spanningen wanneer hij vermoedt dat zijn vader ernstig ziek is, terwijl ze samen een levensreddende operatie moeten uitvoeren.",
     "category": [
       "Comedy",
       "Medisch"

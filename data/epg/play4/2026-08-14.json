@@ -1,9 +1,9 @@
 [
   {
-    "id": "play4:1786663200000:48zb9",
+    "id": "play4:1786664700000:48zb9",
     "channel": "play4",
     "title": "Geen uitzending",
-    "start": 1786663200000,
+    "start": 1786664700000,
     "end": 1786675800000,
     "description": null,
     "category": [],
@@ -354,31 +354,31 @@
     }
   },
   {
-    "id": "play4:1786719600000:1ltn7gx",
+    "id": "play4:1786719600000:icenbj",
     "channel": "play4",
-    "title": "Wordt aangekondigd",
+    "title": "Vik & Marie: Studio 100 Rewind",
     "start": 1786719600000,
     "end": 1786721700000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Studio 100 bestaat 30 jaar. En Viktor en Marie Verhulst willen eindelijk weten wat er écht achter de schermen speelde van de magische wereld die hun jeugd kleur gaf.",
     "category": [
       "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A95bf562edaf1431455c1cd720ca3ed2fd33afb88/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33838207~~2FEP065647690002%2Cimi%3A6fe8524f3bbac670362e37b581ae95b6e5181570/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:95bf562edaf1431455c1cd720ca3ed2fd33afb88",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33838207~~2FEP065647690002,imi:6fe8524f3bbac670362e37b581ae95b6e5181570",
+      "episodeName": "Samson & Gert met Walter De Donder",
       "genres": [
         "Entertainment"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33837412~~2FSH065647690000"
     }
   },
   {

@@ -2668,7 +2668,7 @@
     "channel": "ketnet",
     "title": "Geen uitzending",
     "start": 1786816800000,
-    "end": 1786817700000,
+    "end": 1786819500000,
     "description": null,
     "category": [],
     "image": null,
@@ -2685,36 +2685,6 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
-    }
-  },
-  {
-    "id": "ketnet:1786817700000:gz3euz",
-    "channel": "ketnet",
-    "title": "Sporza: EK Zwemmen 2026",
-    "start": 1786817700000,
-    "end": 1786819500000,
-    "description": "Verslag vanop het Europees kampioenschap zwemmen in Parijs.",
-    "category": [
-      "Sport",
-      "Zwemmen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33713575~~2FEP065434580013%2Cimi%3A4db4085c7f1f12cc34da7c1f07038abc4bcdb56b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 34580000,
-    "episode": 2026081513,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33713575~~2FEP065434580013,imi:4db4085c7f1f12cc34da7c1f07038abc4bcdb56b",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Zwemmen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33596499~~2FSH065434580000"
     }
   },
   {

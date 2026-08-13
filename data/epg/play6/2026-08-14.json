@@ -1,40 +1,10 @@
 [
   {
-    "id": "play6:1786665300000:o13nu0",
+    "id": "play6:1786665600000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1786665300000,
-    "end": 1786667100000,
-    "description": "Rick legt de hand op een set San Francisco 49ers Super Bowl-ringen, maar kan hij de hoge vraagprijs een beetje verlagen? Een harpoen die voor de onderwaterjacht wordt gebruikt, gaat met Corey en Rick onder water.",
-    "category": [
-      "Reality",
-      "Veiling"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15399029~~2FEP027840300294%2Cimi%3A9bfafdee1ad8c79b5fb564a0dd5dce0f1098494a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 15,
-    "episode": 29,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15399029~~2FEP027840300294,imi:9bfafdee1ad8c79b5fb564a0dd5dce0f1098494a",
-      "episodeName": "Big Fish in a Small Pawn",
-      "genres": [
-        "Reality",
-        "Veiling"
-      ],
-      "productionDate": "2009",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
-    }
-  },
-  {
-    "id": "play6:1786667100000:o13nu0",
-    "channel": "play6",
-    "title": "Pawn Stars",
-    "start": 1786667100000,
-    "end": 1786668600000,
+    "start": 1786665600000,
+    "end": 1786666800000,
     "description": "Rick rijdt naar een Ferrari 308 uit 1984. Corey is een en al oor als een verkoper een telefoongestuurde muziekspeler uit de jaren dertig introduceert.",
     "category": [
       "Reality",
@@ -60,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1786668600000:48zb9",
+    "id": "play6:1786666800000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1786668600000,
-    "end": 1786676400000,
+    "start": 1786666800000,
+    "end": 1786676220000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1f9c7cd35b5fb10c6f79b82d49cf5ed55291e0ea",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1786676220000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1786676220000,
+    "end": 1786676400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5da3b21596714a9cdf5ecc78ae0d5855df3e1af1",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

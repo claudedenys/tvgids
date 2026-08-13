@@ -74,7 +74,7 @@
     "title": "EenVandaag",
     "start": 1786579500000,
     "end": 1786581000000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Zonsverduistering: hoe bereidt Nederland zich voor op het natuurverschijnsel?",
     "category": [
       "Actueel"
     ],
@@ -123,7 +123,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1786582500000,
-    "end": 1786584000000,
+    "end": 1786583700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -144,12 +144,12 @@
     }
   },
   {
-    "id": "npo1:1786584000000:1qmbii9",
+    "id": "npo1:1786583700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1786584000000,
+    "start": 1786583700000,
     "end": 1786593000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Zonsverduistering * Totale zonsverduistering in Spanje *...",
     "category": [
       "Actueel"
     ],
@@ -170,10 +170,10 @@
     }
   },
   {
-    "id": "npo1:1786594200000:1dw9gp4",
+    "id": "npo1:1786593900000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1786594200000,
+    "start": 1786593900000,
     "end": 1786595400000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -424,7 +424,7 @@
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-752874372.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1274,7 +1274,7 @@
     "channel": "npo1",
     "title": "Journaal in makkelijke taal",
     "start": 1786633200000,
-    "end": 1786633800000,
+    "end": 1786634100000,
     "description": "Journaal in makkelijke taal met extra uitleg en in een rustig tempo.",
     "category": [
       "Actueel"
@@ -1294,10 +1294,10 @@
     }
   },
   {
-    "id": "npo1:1786633800000:1xc7rde",
+    "id": "npo1:1786634100000:1xc7rde",
     "channel": "npo1",
     "title": "Journaal in makkelijke taal",
-    "start": 1786633800000,
+    "start": 1786634100000,
     "end": 1786634700000,
     "description": "Journaal in makkelijke taal met extra uitleg en in een rustig tempo.",
     "category": [
@@ -1389,7 +1389,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1786636800000,
-    "end": 1786637700000,
+    "end": 1786638000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1409,10 +1409,10 @@
     }
   },
   {
-    "id": "npo1:1786637700000:ejkxyx",
+    "id": "npo1:1786638000000:ejkxyx",
     "channel": "npo1",
     "title": "Sportjournaal",
-    "start": 1786637700000,
+    "start": 1786638000000,
     "end": 1786638600000,
     "description": "Aandacht voor het laatste sportnieuws.",
     "category": [
@@ -1484,9 +1484,9 @@
     "title": "Woeste grond",
     "start": 1786641900000,
     "end": 1786644000000,
-    "description": "Het minderen van stikstof blijkt niet het grootste probleem waar de familie Ottink mee te maken krijgt.",
+    "description": "In Woeste Grond heeft Snoek een idee: hij haalt kamelen naar de boerderij.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/w/carrousel/woeste-grond-752559122.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/Fedjaloumanalsnoekottinkwoestegrondkamelen.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1496,7 +1496,8 @@
     "meta": {
       "labels": [
         "program",
-        "audiodescription"
+        "audiodescription",
+        "tip"
       ]
     }
   },
@@ -1571,7 +1572,7 @@
     "channel": "npo1",
     "title": "Goedenavond Nederland",
     "start": 1786651800000,
-    "end": 1786655100000,
+    "end": 1786655400000,
     "description": "Alles wat Nederland bezighoudt, wordt besproken.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/goedenavond-nederland-752754042.jpg",
@@ -1586,11 +1587,11 @@
     }
   },
   {
-    "id": "npo1:1786655100000:1qmbii9",
+    "id": "npo1:1786655400000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1786655100000,
-    "end": 1786656600000,
+    "start": 1786655400000,
+    "end": 1786656900000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1610,11 +1611,11 @@
     }
   },
   {
-    "id": "npo1:1786656600000:1x6xx3w",
+    "id": "npo1:1786656900000:1x6xx3w",
     "channel": "npo1",
     "title": "Goedenavond Nederland",
-    "start": 1786656600000,
-    "end": 1786659900000,
+    "start": 1786656900000,
+    "end": 1786660500000,
     "description": "Alles wat Nederland bezighoudt, wordt besproken.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/goedenavond-nederland-752754042.jpg",

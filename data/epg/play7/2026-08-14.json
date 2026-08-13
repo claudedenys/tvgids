@@ -1,9 +1,37 @@
 [
   {
-    "id": "play7:1786665600000:anhdp4",
+    "id": "play7:1786663800000:anhdp4",
     "channel": "play7",
     "title": "First on Scene",
-    "start": 1786665600000,
+    "start": 1786663800000,
+    "end": 1786665900000,
+    "description": "Nadat een auto van een brug is gevallen, vechten de hulpverleners voor het leven van de bestuurder. Verder zijn huiseigenaren machteloos tegenover plunderende beren. En een grote bosbrand kent een nasleep die het hart uit een pittoresk plaatsje rukt.",
+    "category": [
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26437628~~2FEP049807360005%2Cimi%3Ac357e9796ffc24eeeffaa2b2abca6b056f8514ab/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26437628~~2FEP049807360005,imi:c357e9796ffc24eeeffaa2b2abca6b056f8514ab",
+      "episodeName": "Aflevering 5",
+      "genres": [
+        "Docu"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25277573~~2FSH049807360000"
+    }
+  },
+  {
+    "id": "play7:1786665900000:anhdp4",
+    "channel": "play7",
+    "title": "First on Scene",
+    "start": 1786665900000,
     "end": 1786667400000,
     "description": "Een man wordt aangereden door een vrachtwagen. De botsing lijkt fataal, maar de hulpverleners zijn verbaasd wanneer de man plotseling weer tot leven komt en een busje probeert te stelen. En, alarmbellen gaan af in een supermarkt die 24/7 geopend is.",
     "category": [
@@ -32,7 +60,7 @@
     "channel": "play7",
     "title": "Geen uitzending",
     "start": 1786667400000,
-    "end": 1786676400000,
+    "end": 1786676160000,
     "description": null,
     "category": [],
     "image": null,
@@ -44,6 +72,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e9bbf6a47684bff188fc55f0f2ae0b8911ba91ce",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1786676160000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1786676160000,
+    "end": 1786676400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0f90239b25e8a44d160086bf64457f4b45442e79",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
