@@ -98,7 +98,7 @@
     "channel": "npo1",
     "title": "NOS Journaal met gebarentaal",
     "start": 1786753800000,
-    "end": 1786755300000,
+    "end": 1786755600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -119,10 +119,10 @@
     }
   },
   {
-    "id": "npo1:1786755300000:1qmbii9",
+    "id": "npo1:1786755600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1786755300000,
+    "start": 1786755600000,
     "end": 1786756800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -609,7 +609,7 @@
     "channel": "npo1",
     "title": "Harrie Jekkers: In mijn liedjes kan ik wonen",
     "start": 1786818600000,
-    "end": 1786824300000,
+    "end": 1786824000000,
     "description": "In de voorstelling In Mijn Liedjes Kan Ik Wonen neemt Harrie Jekkers de zaal aan de hand van vijf liedjes uit...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/harrie-jekkers-in-mijn-liedjes-kan-ik-wonen-753357552.jpg",
@@ -627,11 +627,33 @@
     }
   },
   {
-    "id": "npo1:1786824300000:tc69gi",
+    "id": "npo1:1786824000000:it23b1",
+    "channel": "npo1",
+    "title": "KvWeetjes",
+    "start": 1786824000000,
+    "end": 1786824900000,
+    "description": "Behalve gezelligheid en de zachte G heeft Brabant Nederland nog iets gebracht: het worstenbroodje.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kvweetjes-759988952.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1786824900000:tc69gi",
     "channel": "npo1",
     "title": "Studio sport voetbal",
-    "start": 1786824300000,
-    "end": 1786827900000,
+    "start": 1786824900000,
+    "end": 1786828500000,
     "description": "Samenvattingen van de Eredivisieduels Willem II - N.E.C.",
     "category": [
       "Sport"
@@ -651,11 +673,11 @@
     }
   },
   {
-    "id": "npo1:1786827900000:1f18jbp",
+    "id": "npo1:1786828500000:1f18jbp",
     "channel": "npo1",
     "title": "Studio sport",
-    "start": 1786827900000,
-    "end": 1786829700000,
+    "start": 1786828500000,
+    "end": 1786830300000,
     "description": "Met livebeelden en samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
     "category": [
       "Sport"
@@ -675,11 +697,11 @@
     }
   },
   {
-    "id": "npo1:1786829700000:1qmbii9",
+    "id": "npo1:1786830300000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1786829700000,
-    "end": 1786830300000,
+    "start": 1786830300000,
+    "end": 1786830600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -699,11 +721,11 @@
     }
   },
   {
-    "id": "npo1:1786830300000:1ha377d",
+    "id": "npo1:1786830600000:1ha377d",
     "channel": "npo1",
     "title": "Nationale Herdenking 15 augustus 1945",
-    "start": 1786830300000,
-    "end": 1786835100000,
+    "start": 1786830600000,
+    "end": 1786835700000,
     "description": "De herdenkingsplechtigheid bij het Indisch Monument in Den Haag, waarbij wordt stilgestaan bij de Japanse capitulatie...",
     "category": [
       "Actueel"

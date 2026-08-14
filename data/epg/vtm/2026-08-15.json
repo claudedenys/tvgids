@@ -28,7 +28,7 @@
     "channel": "vtm",
     "title": "Geen uitzending",
     "start": 1786752300000,
-    "end": 1786765500000,
+    "end": 1786766700000,
     "description": null,
     "category": [],
     "image": null,
@@ -45,66 +45,6 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
-    }
-  },
-  {
-    "id": "vtm:1786765500000:9sxbym",
-    "channel": "vtm",
-    "title": "Plop & de Peppers",
-    "start": 1786765500000,
-    "end": 1786766100000,
-    "description": "Plop en Pepijn krijgen de belangrijke taak de feesttafel te dekken. Maar gulzige Pepijn kan het niet laten om stiekem te proeven van de lekkernijen die Pip en Pol gemaakt hebben.",
-    "category": [
-      "Kids",
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20737460~~2FEP025207930038%2Cimi%3A4257b88e338a61c6c2da0543f05f4b479455749e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 12,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20737460~~2FEP025207930038,imi:4257b88e338a61c6c2da0543f05f4b479455749e",
-      "episodeName": "Slokoppen",
-      "genres": [
-        "Kids",
-        "Entertainment"
-      ],
-      "productionDate": "2016",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330894~~2FSH025207930000"
-    }
-  },
-  {
-    "id": "vtm:1786766100000:1sw9g2k",
-    "channel": "vtm",
-    "title": "Bol & Smik",
-    "start": 1786766100000,
-    "end": 1786766700000,
-    "description": "Smik is jaloers op de dinosaurusknuffel van Bol en gaat op zoek naar een eigen slaapknuffel.",
-    "category": [
-      "Kids",
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18285126~~2FEP021727620030%2Cimi%3A8e942cd0e938176d7c792253dff2899bcb3304ad/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 18,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F18285126~~2FEP021727620030,imi:8e942cd0e938176d7c792253dff2899bcb3304ad",
-      "episodeName": "Het knuffeltuttelbeest",
-      "genres": [
-        "Kids",
-        "Entertainment"
-      ],
-      "productionDate": "2008",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Ff3cbd60b-3721-4cb8-8c3a-dfb4abc8aa7d"
     }
   },
   {

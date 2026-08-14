@@ -63,10 +63,10 @@
     }
   },
   {
-    "id": "rtl4:1786925400000:1avzef3",
+    "id": "rtl4:1786924800000:1avzef3",
     "channel": "rtl4",
     "title": "Teleshop 4: Tommy teleshopping",
-    "start": 1786925400000,
+    "start": 1786924800000,
     "end": 1786939200000,
     "description": "Homeshoppingprogramma.",
     "category": [],
@@ -961,7 +961,7 @@
     "title": "B&B vol liefde",
     "start": 1786992900000,
     "end": 1786998000000,
-    "description": "Timothy op Ibiza raakt steeds meer onder de indruk van Wadie.",
+    "description": "Een flamboyante vrouw in een bloemetjesjurk die samen met hem zijn B&B's op Bonaire wil runnen, dat is Freds...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/b-b-vol-liefde-753957392.jpg",
     "icon": null,
@@ -971,7 +971,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

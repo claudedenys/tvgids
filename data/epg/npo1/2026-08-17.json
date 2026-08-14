@@ -983,7 +983,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1786964400000,
-    "end": 1786965000000,
+    "end": 1786965600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -999,30 +999,6 @@
       "labels": [
         "program",
         "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1786965000000:ejkxyx",
-    "channel": "npo1",
-    "title": "Sportjournaal",
-    "start": 1786965000000,
-    "end": 1786965600000,
-    "description": "Aandacht voor het laatste sportnieuws.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/sportjournaal-753965002.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "sport"
       ]
     }
   },

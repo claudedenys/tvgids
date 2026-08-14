@@ -1,40 +1,10 @@
 [
   {
-    "id": "play5:1786835400000:dswtyn",
+    "id": "play5:1786837800000:dswtyn",
     "channel": "play5",
     "title": "Criminal Minds",
-    "start": 1786835400000,
-    "end": 1786839000000,
-    "description": "Het team onderzoekt moorden in San Francisco die doen terugdenken aan het werk van de beruchte seriemoordenaar Zodiac. Die heeft al sinds 1974 niets meer van zich laten horen. Hotch, Rossi en Reid vermoeden dat er een copycat aan het werk is.",
-    "category": [
-      "Dramaserie",
-      "Misdaaddrama"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9003859~~2FEP027942270204%2Cimi%3Ab91f88916b1f8dbc9daca921ba1f8c225a1cd961/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 7,
-    "episode": 11,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9003859~~2FEP027942270204,imi:b91f88916b1f8dbc9daca921ba1f8c225a1cd961",
-      "episodeName": "True Genius",
-      "genres": [
-        "Dramaserie",
-        "Misdaaddrama"
-      ],
-      "productionDate": "2011",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8d082383-bb57-406b-b7ff-14ae1661d82f"
-    }
-  },
-  {
-    "id": "play5:1786839000000:dswtyn",
-    "channel": "play5",
-    "title": "Criminal Minds",
-    "start": 1786839000000,
-    "end": 1786842300000,
+    "start": 1786837800000,
+    "end": 1786840200000,
     "description": "Het team trekt naar Houston, Texas, waar een beruchte serieverkrachter opnieuw heeft toegeslagen. Deze keer heeft hij het gemunt op zijn vroegere slachtoffers. Een van hen besluit het heft in eigen handen te nemen en naar hem op zoek te gaan.",
     "category": [
       "Dramaserie",
@@ -60,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1786842300000:48zb9",
+    "id": "play5:1786840200000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1786842300000,
-    "end": 1786849200000,
+    "start": 1786840200000,
+    "end": 1786849080000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ddbfa5280c78efab6b450813e6b8a1735f9f37f3",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1786849080000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1786849080000,
+    "end": 1786849200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d96d0b4e2db0af8a7f1c2c04fcb4bcae827db96e",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

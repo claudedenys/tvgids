@@ -49,3 +49,9 @@
 {"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-08-16: HTTP 403 voor DAZN-EPG 2026-08-16","ts":"2026-08-13T05:55:48.678Z"}
 {"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-08-17: HTTP 403 voor DAZN-EPG 2026-08-17","ts":"2026-08-13T05:57:22.480Z"}
 {"level":"info","source":"system","message":"Import klaar: 5 dag(en), 34 zender(s), 3578 programma's","programmes":3578,"channels":34,"durationMs":475862,"ts":"2026-08-13T05:58:57.998Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-08-14: HTTP 403 voor DAZN-EPG 2026-08-14","ts":"2026-08-14T05:48:54.940Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-08-15: HTTP 403 voor DAZN-EPG 2026-08-15","ts":"2026-08-14T05:49:51.147Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-08-16: HTTP 403 voor DAZN-EPG 2026-08-16","ts":"2026-08-14T05:50:43.315Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-08-17: HTTP 403 voor DAZN-EPG 2026-08-17","ts":"2026-08-14T05:51:31.921Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-08-18: HTTP 403 voor DAZN-EPG 2026-08-18","ts":"2026-08-14T05:52:25.227Z"}
+{"level":"info","source":"system","message":"Import klaar: 5 dag(en), 34 zender(s), 3588 programma's","programmes":3588,"channels":34,"durationMs":269380,"ts":"2026-08-14T05:53:20.978Z"}

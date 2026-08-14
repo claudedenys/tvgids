@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "Pawn Stars",
     "start": 1786752000000,
-    "end": 1786755000000,
+    "end": 1786754400000,
     "description": "Rick doet een bod op een originele verdedigingskit tegen vampiers uit 1800. Hij krijgt ook de kans om een werk te kopen van een van Amerika's beroemdste artiesten, James Whistler, en kijkt naar een James Bond-rekwisiet uit de film GoldenEye.",
     "category": [
       "Reality",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1786755000000:48zb9",
+    "id": "play6:1786754400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1786755000000,
-    "end": 1786768500000,
+    "start": 1786754400000,
+    "end": 1786762680000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +54,89 @@
     }
   },
   {
-    "id": "play6:1786768500000:sofoqs",
+    "id": "play6:1786762680000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1786762680000,
+    "end": 1786762800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:949b489d8af615b4d2d8b29d3a2e4dc9d395fedb",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1786762800000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1786762800000,
+    "end": 1786768200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:266c5ce3c4ec9e119869640d29f69ab4f8c70b5d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1786768200000:sofoqs",
     "channel": "play6",
     "title": "Ice Airport Alaska",
-    "start": 1786768500000,
-    "end": 1786771200000,
+    "start": 1786768200000,
+    "end": 1786770900000,
+    "description": "Extreme weersomstandigheden, noodlandingen en panieksituaties rondom de pandemie.",
+    "category": [
+      "Docu",
+      "Vliegsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23791993~~2FEP045388940019%2Cimi%3A6d9d19186640452ebcf7ea6fd220bf1d67a7532a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23791993~~2FEP045388940019,imi:6d9d19186640452ebcf7ea6fd220bf1d67a7532a",
+      "episodeName": "Aflevering 7",
+      "genres": [
+        "Docu",
+        "Vliegsport"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F18864180~~2FSH045388940000"
+    }
+  },
+  {
+    "id": "play6:1786770900000:sofoqs",
+    "channel": "play6",
+    "title": "Ice Airport Alaska",
+    "start": 1786770900000,
+    "end": 1786773600000,
     "description": "Een teruggetrokken kluizenaar moet door een bushpiloot uit een gevaarlijke situatie worden gered. Ondertussen gaat een groep sneeuwfans op pad voor de ultieme adrenalinekick in de lucht.",
     "category": [
       "Docu",
@@ -84,11 +162,11 @@
     }
   },
   {
-    "id": "play6:1786771200000:sofoqs",
+    "id": "play6:1786773600000:sofoqs",
     "channel": "play6",
     "title": "Ice Airport Alaska",
-    "start": 1786771200000,
-    "end": 1786773900000,
+    "start": 1786773600000,
+    "end": 1786776300000,
     "description": "Ondanks een zware sneeuwstorm blijft de luchthaven operationeel, en USAF-personeel ondergaat Arctic survival-training om afgelegen gemeenschappen te ondersteunen.",
     "category": [
       "Docu",
@@ -114,11 +192,11 @@
     }
   },
   {
-    "id": "play6:1786773900000:sofoqs",
+    "id": "play6:1786776300000:sofoqs",
     "channel": "play6",
     "title": "Ice Airport Alaska",
-    "start": 1786773900000,
-    "end": 1786776900000,
+    "start": 1786776300000,
+    "end": 1786779300000,
     "description": "Een recordhoeveelheid sneeuw bedreigt de luchthaven terwijl een piloot een spannende landing op een bevroren meer uitvoert. Een unieke vliegtuigworkshop maakt een vintage vliegtuig Alaska-bestendig.",
     "category": [
       "Docu",
@@ -144,11 +222,11 @@
     }
   },
   {
-    "id": "play6:1786776900000:sofoqs",
+    "id": "play6:1786779300000:sofoqs",
     "channel": "play6",
     "title": "Ice Airport Alaska",
-    "start": 1786776900000,
-    "end": 1786780200000,
+    "start": 1786779300000,
+    "end": 1786782300000,
     "description": "Er worden noodvoorraden afgeleverd in een afgelegen dorp, en het cargoteam in Anchorage moet hoogexplosieve ladingen veilig verwerken op een drukke landingsbaan.",
     "category": [
       "Docu",
@@ -174,11 +252,11 @@
     }
   },
   {
-    "id": "play6:1786780200000:1lmrwl3",
+    "id": "play6:1786782300000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786780200000,
-    "end": 1786782000000,
+    "start": 1786782300000,
+    "end": 1786784100000,
     "description": "Ivy lukt het om een paar perfecte vintage outdoor-accessoires te verkrijgen. David is het onderwerp van een onverwachte inspectie, terwijl Emily's vertrek de dag van een koper verpest.",
     "category": [
       "Reality",
@@ -204,11 +282,11 @@
     }
   },
   {
-    "id": "play6:1786782000000:1lmrwl3",
+    "id": "play6:1786784100000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786782000000,
-    "end": 1786783800000,
+    "start": 1786784100000,
+    "end": 1786785600000,
     "description": "Mary vindt toevallig wat vintage kunst, Ivy breidt zijn postzegelverzameling uit. Kenny moet ondertussen opnieuw zijn angsten onder ogen zien en trotseren.",
     "category": [
       "Reality",
@@ -234,11 +312,11 @@
     }
   },
   {
-    "id": "play6:1786783800000:48zb9",
+    "id": "play6:1786785600000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1786783800000,
-    "end": 1786787400000,
+    "start": 1786785600000,
+    "end": 1786789200000,
     "description": null,
     "category": [],
     "image": null,
@@ -258,11 +336,11 @@
     }
   },
   {
-    "id": "play6:1786787400000:1lmrwl3",
+    "id": "play6:1786789200000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786787400000,
-    "end": 1786788900000,
+    "start": 1786789200000,
+    "end": 1786791000000,
     "description": "De 'Gambler' slaat toe in Huntington Beach. René strijkt iedereen tegen de haren in, en voor Ivy ziet het er somber uit.",
     "category": [
       "Reality",
@@ -288,11 +366,11 @@
     }
   },
   {
-    "id": "play6:1786788900000:1lmrwl3",
+    "id": "play6:1786791000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786788900000,
-    "end": 1786790700000,
+    "start": 1786791000000,
+    "end": 1786792500000,
     "description": "René schrikt van wat hij aantreft. Darrells opslag is een veelvoud van zijn investering waard en Ivy heeft een heel goed voorgevoel.",
     "category": [
       "Reality",
@@ -318,11 +396,11 @@
     }
   },
   {
-    "id": "play6:1786790700000:1lmrwl3",
+    "id": "play6:1786792500000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786790700000,
-    "end": 1786792500000,
+    "start": 1786792500000,
+    "end": 1786794000000,
     "description": "Brandi en Jarrod ontdekken een verhelderende voorraad. Dave doet waar hij het beste in is, terwijl Mary eindelijk de hulp krijgt die ze nodig heeft.",
     "category": [
       "Reality",
@@ -348,11 +426,11 @@
     }
   },
   {
-    "id": "play6:1786792500000:1lmrwl3",
+    "id": "play6:1786794000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786792500000,
-    "end": 1786794300000,
+    "start": 1786794000000,
+    "end": 1786795800000,
     "description": "Mary wil heel graag indruk maken op een cliënt. René zoekt bescherming tegen roofdieren en Ivy brengt een bezoek aan een kapsalon.",
     "category": [
       "Reality",
@@ -378,11 +456,11 @@
     }
   },
   {
-    "id": "play6:1786794300000:1lmrwl3",
+    "id": "play6:1786795800000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786794300000,
-    "end": 1786795800000,
+    "start": 1786795800000,
+    "end": 1786797300000,
     "description": "René heeft goed verdiend met zijn laatste vondsten en op weg naar de bank blijft hij maar lachen. Darrell krijgt een mooie verzameling te pakken.",
     "category": [
       "Reality",
@@ -408,11 +486,11 @@
     }
   },
   {
-    "id": "play6:1786795800000:1lmrwl3",
+    "id": "play6:1786797300000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786795800000,
-    "end": 1786797600000,
+    "start": 1786797300000,
+    "end": 1786799100000,
     "description": "In Riverside behoedt Brandi een loslopende hond voor een aanrijding. De opslagruimte van Darrell bevestigt zijn 'Magische Kogel'-theorie, terwijl Kenny glansrijk weet te scoren.",
     "category": [
       "Reality",
@@ -438,11 +516,11 @@
     }
   },
   {
-    "id": "play6:1786797600000:1lmrwl3",
+    "id": "play6:1786799100000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786797600000,
-    "end": 1786799400000,
+    "start": 1786799100000,
+    "end": 1786800600000,
     "description": "De kopers gaan naar Arcadia, waar Darrell geeft en neemt, Ivy goede vooruitzichten heeft, en René en Casey een opslagruimte vinden voor hem en haar.",
     "category": [
       "Reality",
@@ -468,11 +546,11 @@
     }
   },
   {
-    "id": "play6:1786799400000:1lmrwl3",
+    "id": "play6:1786800600000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1786799400000,
-    "end": 1786801200000,
+    "start": 1786800600000,
+    "end": 1786802400000,
     "description": "Zelfs de 'gevouwen handen' van San Bernardino kunnen Mary niet redden, maar Ivy weet wat geld bij elkaar te sprokkelen, terwijl Kenny de magie vindt.",
     "category": [
       "Reality",
@@ -498,11 +576,11 @@
     }
   },
   {
-    "id": "play6:1786801200000:1m0ktji",
+    "id": "play6:1786802400000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786801200000,
-    "end": 1786803000000,
+    "start": 1786802400000,
+    "end": 1786804200000,
     "description": "Jake ontdekt, tot zijn grote verbazing, het dat zijn vader date met de moeder van Eldridge en besluit hierdoor zijn spellen te pakken en naar Judith en Herb te vertrekken.",
     "category": [
       "Sitcom"
@@ -526,11 +604,11 @@
     }
   },
   {
-    "id": "play6:1786803000000:1m0ktji",
+    "id": "play6:1786804200000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786803000000,
-    "end": 1786804800000,
+    "start": 1786804200000,
+    "end": 1786805700000,
     "description": "Charlie verzet hemel en aarde om Alan ervan te overtuigen om op het aanbod van Lyndsey, om bij haar in te trekken, in te gaan.",
     "category": [
       "Sitcom"
@@ -554,11 +632,11 @@
     }
   },
   {
-    "id": "play6:1786804800000:1m0ktji",
+    "id": "play6:1786805700000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786804800000,
-    "end": 1786806600000,
+    "start": 1786805700000,
+    "end": 1786807200000,
     "description": "Alan zet een grote stap in zijn relatie met Lyndsey door bij haar in te trekken. Ondertussen heeft hij, in het geheim, een ontmoeting met Melissa in het huis van Charlie.",
     "category": [
       "Sitcom"
@@ -582,11 +660,11 @@
     }
   },
   {
-    "id": "play6:1786806600000:1m0ktji",
+    "id": "play6:1786807200000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786806600000,
-    "end": 1786808400000,
+    "start": 1786807200000,
+    "end": 1786809000000,
     "description": "Het huis van Lyndsey en Eldridge brandt, door toedoen van Alan, plat. Hierdoor besluiten de twee daklozen bij Alan en Charlie in te trekken.",
     "category": [
       "Sitcom"
@@ -610,11 +688,11 @@
     }
   },
   {
-    "id": "play6:1786808400000:1m0ktji",
+    "id": "play6:1786809000000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786808400000,
-    "end": 1786810200000,
+    "start": 1786809000000,
+    "end": 1786810500000,
     "description": "Alan zet de bloemetjes flink buiten terwijl hij zich voordoet als Charlie. Ondertussen verdwijnt Charlie stiekem om een cosmetische behandeling te ondergaan.",
     "category": [
       "Sitcom"
@@ -638,11 +716,11 @@
     }
   },
   {
-    "id": "play6:1786810200000:1m0ktji",
+    "id": "play6:1786810500000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786810200000,
-    "end": 1786812000000,
+    "start": 1786810500000,
+    "end": 1786812300000,
     "description": "Charlie is aan het daten met een oudere vrouw. Dat doet hij normaal nooit en de problemen laten daarom niet lang op zich wachten.",
     "category": [
       "Sitcom"
@@ -666,10 +744,10 @@
     }
   },
   {
-    "id": "play6:1786812000000:1m0ktji",
+    "id": "play6:1786812300000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1786812000000,
+    "start": 1786812300000,
     "end": 1786813800000,
     "description": "Michelle, de vriendin van Charlie, is verrassend begripvol wat betreft zijn disfunctionele familie, maar wanneer ze Rose ontmoet besluit dat deze uit zijn leven moet verdwijnen.",
     "category": [
@@ -812,7 +890,7 @@
     "channel": "play6",
     "title": "Spiders 3D",
     "start": 1786828800000,
-    "end": 1786835400000,
+    "end": 1786835100000,
     "description": "Een Russisch ruimtestation - waar aan boord giftige spinnen genetisch gemanipuleerd werden - stort neer in New York City. De dodelijke spinnen weten te ontsnappen en zaaien al snel dood en verderf in de hele stad.",
     "category": [
       "Film",

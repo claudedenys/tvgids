@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1786835400000:1sdu70z",
+    "id": "play6:1786835100000:1sdu70z",
     "channel": "play6",
     "title": "Reservoir Dogs",
-    "start": 1786835400000,
-    "end": 1786841400000,
+    "start": 1786835100000,
+    "end": 1786841100000,
     "description": "Voor een superoverval op een grote diamantair verenigt de zoon van gangster Joe Cabot zes specialisten. De leden van deze nieuw geformeerde bende kennen elkaar nog niet, en dan komen ze erachter dat er een informant geïnfiltreerd zou zijn.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1786841400000:48zb9",
+    "id": "play6:1786841100000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1786841400000,
-    "end": 1786849200000,
+    "start": 1786841100000,
+    "end": 1786848900000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:66fd42d71e9aeeb2adff72a768f249b5c0912c40",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1786848900000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1786848900000,
+    "end": 1786849200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:cbc35ad35546da2a92737e9d40c5bc4f6c758404",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

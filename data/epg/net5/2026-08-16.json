@@ -1,10 +1,10 @@
 [
   {
-    "id": "net5:1786830600000:10ovpvo",
+    "id": "net5:1786830960000:10ovpvo",
     "channel": "net5",
     "title": "The resident",
-    "start": 1786830600000,
-    "end": 1786833900000,
+    "start": 1786830960000,
+    "end": 1786834380000,
     "description": "Op Nics eerste werkdag terug bij het Chastain wordt de man die haar heeft aangevallen opgenomen op de spoedeisende hulp.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/the-resident-748753462.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "net5:1786833900000:10ovpvo",
+    "id": "net5:1786834380000:10ovpvo",
     "channel": "net5",
     "title": "The resident",
-    "start": 1786833900000,
-    "end": 1786852800000,
+    "start": 1786834380000,
+    "end": 1786837860000,
     "description": "Conrad en Bell moeten een zwangere vrouw behandelen die het toekomstige adoptiekind van Jake draagt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/the-resident-748753462.jpg",
@@ -39,6 +39,31 @@
     "meta": {
       "labels": [
         "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "net5:1786837860000:ttd30a",
+    "channel": "net5",
+    "title": "Loop: Hart van Nederland",
+    "start": 1786837860000,
+    "end": 1786852800000,
+    "description": "Toegankelijk nieuwsprogramma over het gesprek van de dag.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/loop-hart-van-nederland-760250442.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
         "rerun"
       ]
     }

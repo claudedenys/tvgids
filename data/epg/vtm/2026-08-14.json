@@ -844,31 +844,33 @@
     }
   },
   {
-    "id": "vtm:1786716900000:1ltn7gx",
+    "id": "vtm:1786716900000:lm0wc0",
     "channel": "vtm",
-    "title": "Wordt aangekondigd",
+    "title": "America's Funniest Home Videos",
     "start": 1786716900000,
     "end": 1786718400000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Amerikaanse show rond grappige, waargebeurde videobeelden, ingestuurd door de kijkers. Elke week kan het studiopubliek aangeven welke clip zij het grappigst vinden.",
     "category": [
-      "Entertainment"
+      "Reality",
+      "Comedy"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A81404afc6795fb30f144cb1d11597e270137e55d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F12428306~~2FEP032754760035%2Cimi%3A5fbc32b7cdb0edef864b97157eeac3fa5baaf2c1/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 26,
+    "episode": 12,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:81404afc6795fb30f144cb1d11597e270137e55d",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F12428306~~2FEP032754760035,imi:5fbc32b7cdb0edef864b97157eeac3fa5baaf2c1",
+      "episodeName": "Aflevering 12",
       "genres": [
-        "Entertainment"
+        "Reality",
+        "Comedy"
       ],
-      "productionDate": null,
+      "productionDate": "2015",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F23d499dc-3bb4-4f13-bf32-2deb42a4a973"
     }
   },
   {
@@ -1019,7 +1021,7 @@
     "title": "Lili en Marleen",
     "start": 1786730100000,
     "end": 1786732200000,
-    "description": "Stavros en Rik willen rijk worden met een chinchillakwekerij. Jef en Ida zijn verontwaardigd over het lot van de dieren en starten met hulp van een journalist een lastercampagne tegen de twee ondernemers.",
+    "description": "Stavros en Rik hebben het gevonden. Ze gaan rijk worden met de kweek van Chinchilla's: voor de pelsjes wordt grof geld betaald en ze hebben in het magazijn plaats zat om te kweken. Jef en Ida zijn in alle staten als ze horen wat het lot van die brave beestjes is. Met de hulp van een journalist starten ze een lastercampagne.",
     "category": [
       "Dramaserie",
       "Geschiedenis"
