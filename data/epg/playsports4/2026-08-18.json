@@ -4,7 +4,7 @@
     "channel": "playsports4",
     "title": "Play Sports",
     "start": 1787009520000,
-    "end": 1787031600000,
+    "end": 1787031900000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -25,36 +25,6 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1787031600000:1nnswin",
-    "channel": "playsports4",
-    "title": "UCI ProSeries Mannen",
-    "start": 1787031600000,
-    "end": 1787037600000,
-    "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
-    "category": [
-      "Sport",
-      "Wielrennen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33636306~~2FEP049636290359%2Cimi%3A1e5be2e8986cd86cd8268cb3be2b7a8bb6c396b9/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 36290000,
-    "episode": 2026080659,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636306~~2FEP049636290359,imi:1e5be2e8986cd86cd8268cb3be2b7a8bb6c396b9",
-      "episodeName": "Vuelta a Burgos: Etappe 3",
-      "genres": [
-        "Sport",
-        "Wielrennen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26272749~~2FSH049636290000"
     }
   },
   {

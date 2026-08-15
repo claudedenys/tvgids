@@ -28,7 +28,7 @@
     "channel": "vtm",
     "title": "Geen uitzending",
     "start": 1786752300000,
-    "end": 1786766700000,
+    "end": 1786766400000,
     "description": null,
     "category": [],
     "image": null,
@@ -48,11 +48,71 @@
     }
   },
   {
-    "id": "vtm:1786766700000:1sw9g2k",
+    "id": "vtm:1786766400000:9sxbym",
+    "channel": "vtm",
+    "title": "Plop & de Peppers",
+    "start": 1786766400000,
+    "end": 1786767000000,
+    "description": "Plop en Pepijn krijgen de belangrijke taak de feesttafel te dekken. Maar gulzige Pepijn kan het niet laten om stiekem te proeven van de lekkernijen die Pip en Pol gemaakt hebben.",
+    "category": [
+      "Kids",
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20737460~~2FEP025207930038%2Cimi%3A4257b88e338a61c6c2da0543f05f4b479455749e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 12,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20737460~~2FEP025207930038,imi:4257b88e338a61c6c2da0543f05f4b479455749e",
+      "episodeName": "Slokoppen",
+      "genres": [
+        "Kids",
+        "Entertainment"
+      ],
+      "productionDate": "2016",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330894~~2FSH025207930000"
+    }
+  },
+  {
+    "id": "vtm:1786767000000:1sw9g2k",
     "channel": "vtm",
     "title": "Bol & Smik",
-    "start": 1786766700000,
-    "end": 1786767300000,
+    "start": 1786767000000,
+    "end": 1786767600000,
+    "description": "Smik is jaloers op de dinosaurusknuffel van Bol en gaat op zoek naar een eigen slaapknuffel.",
+    "category": [
+      "Kids",
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18285126~~2FEP021727620030%2Cimi%3A8e942cd0e938176d7c792253dff2899bcb3304ad/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 18,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18285126~~2FEP021727620030,imi:8e942cd0e938176d7c792253dff2899bcb3304ad",
+      "episodeName": "Het knuffeltuttelbeest",
+      "genres": [
+        "Kids",
+        "Entertainment"
+      ],
+      "productionDate": "2008",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Ff3cbd60b-3721-4cb8-8c3a-dfb4abc8aa7d"
+    }
+  },
+  {
+    "id": "vtm:1786767600000:1sw9g2k",
+    "channel": "vtm",
+    "title": "Bol & Smik",
+    "start": 1786767600000,
+    "end": 1786768200000,
     "description": "Smik besluit om Bol te helpen met het uitkiezen van de mooiste tomaat.",
     "category": [
       "Kids",
@@ -78,11 +138,11 @@
     }
   },
   {
-    "id": "vtm:1786767300000:4bj6iw",
+    "id": "vtm:1786768200000:4bj6iw",
     "channel": "vtm",
     "title": "Heidi",
-    "start": 1786767300000,
-    "end": 1786768800000,
+    "start": 1786768200000,
+    "end": 1786769700000,
     "description": "Clara's vader komt thuis en Heidi en Clara willen hem de vooruitgang van Clara laten zien. Wanneer Clara probeert te gaan staan en per ongeluk de klok omgooit, krijgt Heidi de schuld en vraagt juffrouw Rottenmeier meneer Sesemann Heidi weg te sturen.",
     "category": [
       "Kids",
@@ -108,11 +168,11 @@
     }
   },
   {
-    "id": "vtm:1786768800000:qh1ga3",
+    "id": "vtm:1786769700000:qh1ga3",
     "channel": "vtm",
     "title": "Maya de Bij",
-    "start": 1786768800000,
-    "end": 1786769400000,
+    "start": 1786769700000,
+    "end": 1786770300000,
     "description": "Tijdens het spelen komen Maya, Willy en Flip de regenworm Max tegen. Hij is heel moe en durft al een paar nachten niet te slapen omdat hij rare geluiden in zijn huisje hoort. Het groepje gaat op onderzoek.",
     "category": [
       "Kids",
@@ -138,11 +198,11 @@
     }
   },
   {
-    "id": "vtm:1786769400000:qh1ga3",
+    "id": "vtm:1786770300000:qh1ga3",
     "channel": "vtm",
     "title": "Maya de Bij",
-    "start": 1786769400000,
-    "end": 1786770000000,
+    "start": 1786770300000,
+    "end": 1786771200000,
     "description": "Juf Cassandra vertelt over de dag dat Maya en Willy uit hun ei kwamen. Maya bedenkt de bijendag: de verjaardag van de bijen. Ze wil een feestje vieren met haar vrienden, maar dan gaat het regenen.",
     "category": [
       "Kids",
@@ -168,11 +228,11 @@
     }
   },
   {
-    "id": "vtm:1786770000000:zvz6n4",
+    "id": "vtm:1786771200000:zvz6n4",
     "channel": "vtm",
     "title": "Vegesauriërs",
-    "start": 1786770000000,
-    "end": 1786770300000,
+    "start": 1786771200000,
+    "end": 1786771500000,
     "description": "Het is een bijzonder koude nacht in de Vegesaurusvallei. Het meer is dichtgevroren en Gingers staart zit onder de ijspegels.",
     "category": [
       "Kids",
@@ -198,11 +258,11 @@
     }
   },
   {
-    "id": "vtm:1786770300000:zvz6n4",
+    "id": "vtm:1786771500000:zvz6n4",
     "channel": "vtm",
     "title": "Vegesauriërs",
-    "start": 1786770300000,
-    "end": 1786770600000,
+    "start": 1786771500000,
+    "end": 1786771800000,
     "description": "Ginger en de jonge P-Rexen ontdekken een nieuw spel: Pe-Rex stuiteren.",
     "category": [
       "Kids",
@@ -228,11 +288,11 @@
     }
   },
   {
-    "id": "vtm:1786770600000:1nbdk3d",
+    "id": "vtm:1786771800000:1nbdk3d",
     "channel": "vtm",
     "title": "Move On",
-    "start": 1786770600000,
-    "end": 1786771800000,
+    "start": 1786771800000,
+    "end": 1786772700000,
     "description": "Steffi start haar nieuwe avontuur in dansschool Move on. Maar haar eerste dag loopt al meteen niet volgens plan. Als ze toekomt, merkt ze dat de dansschool nog een krot is en ook haar collega's vallen niet allemaal mee.",
     "category": [
       "Dramaserie"
@@ -256,11 +316,11 @@
     }
   },
   {
-    "id": "vtm:1786771800000:n3twre",
+    "id": "vtm:1786772700000:n3twre",
     "channel": "vtm",
     "title": "De Buurtpolitie Extra",
-    "start": 1786771800000,
-    "end": 1786772700000,
+    "start": 1786772700000,
+    "end": 1786773600000,
     "description": "Koen en Barry onderzoeken een woninginbraak waarbij juwelen en geld zijn verdwenen. De bewoonster verdenkt meteen de matrassenleverancier die eerder die dag langskwam.",
     "category": [
       "Entertainment",
@@ -286,11 +346,11 @@
     }
   },
   {
-    "id": "vtm:1786772700000:p5m4dq",
+    "id": "vtm:1786773600000:p5m4dq",
     "channel": "vtm",
     "title": "Echte Verhalen: De Buurtpolitie",
-    "start": 1786772700000,
-    "end": 1786774500000,
+    "start": 1786773600000,
+    "end": 1786775400000,
     "description": "Wanneer Koen en Lotte een hond volgen die eenzaam en alleen op een bosweg rondloopt, doen ze een onaangename ontdekking. Floor denkt te weten wie de briefschrijver is die ermee dreigt een vrouw en haar gezin te vermoorden als ze niet snel verhuizen.",
     "category": [
       "Dramaserie",
@@ -316,11 +376,11 @@
     }
   },
   {
-    "id": "vtm:1786774500000:1wyd4gb",
+    "id": "vtm:1786775400000:1wyd4gb",
     "channel": "vtm",
     "title": "Lego Masters",
-    "start": 1786774500000,
-    "end": 1786779000000,
+    "start": 1786775400000,
+    "end": 1786779900000,
     "description": "Voor opdracht 1 wordt er een beroep gedaan op de kennis van de bouwers over biologie, iets met een voedselketen. De teams bewijzen dat ze echt de allerbeste bouwers van Nederland en België zijn. Voor opdracht 2 wordt de hele studio op zijn kop gezet.",
     "category": [
       "Entertainment",
@@ -346,11 +406,11 @@
     }
   },
   {
-    "id": "vtm:1786779000000:6rcn1d",
+    "id": "vtm:1786779900000:6rcn1d",
     "channel": "vtm",
     "title": "Nonkel Jef",
-    "start": 1786779000000,
-    "end": 1786780500000,
+    "start": 1786779900000,
+    "end": 1786781100000,
     "description": "Nonkel Jef wordt geplaagd door tandpijn, maar hij durft niet naar de tandarts gaan. Hij trekt de slechte kies er nog liever zelf uit. Dat blijkt echter niet zo'n eenvoudige klus. Magda heeft ondertussen drie rijke vrijers aan de haak geslagen.",
     "category": [
       "Comedy"
@@ -374,11 +434,11 @@
     }
   },
   {
-    "id": "vtm:1786780500000:48zb9",
+    "id": "vtm:1786781100000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1786780500000,
-    "end": 1786787700000,
+    "start": 1786781100000,
+    "end": 1786788600000,
     "description": null,
     "category": [],
     "image": null,
@@ -398,10 +458,10 @@
     }
   },
   {
-    "id": "vtm:1786787700000:1bpb4o3",
+    "id": "vtm:1786788600000:1bpb4o3",
     "channel": "vtm",
     "title": "Chicago P.D.",
-    "start": 1786787700000,
+    "start": 1786788600000,
     "end": 1786791600000,
     "description": "Als er eindelijk concreet bewijs tegen Sean O'Neal opduikt, werken Upton en het team in het geheim door om een rechtszaak voor te bereiden. Maar Sean blijkt gewiekster en gevaarlijker dan gedacht.",
     "category": [
@@ -488,7 +548,7 @@
     "channel": "vtm",
     "title": "Chicago P.D.",
     "start": 1786793700000,
-    "end": 1786797000000,
+    "end": 1786796700000,
     "description": "Om de aandacht van zijn zoon af te leiden zet O'Neal het team op een uitzichtloze zaak. Maar als het een grote zaak en een mediaspektakel wordt, wordt Burgess aan een moeilijk verleden herinnerd.",
     "category": [
       "Misdaaddrama",
@@ -514,11 +574,11 @@
     }
   },
   {
-    "id": "vtm:1786797000000:1bpb4o3",
+    "id": "vtm:1786796700000:1bpb4o3",
     "channel": "vtm",
     "title": "Chicago P.D.",
-    "start": 1786797000000,
-    "end": 1786800300000,
+    "start": 1786796700000,
+    "end": 1786799700000,
     "description": "Na een schokkende ontdekking sluit het net zich rond Sean O'Neal. Hoofdcommissaris O'Neal is vastbesloten zijn zoon uit de gevangenis te houden en neemt een advocaat in de arm.",
     "category": [
       "Misdaaddrama",
@@ -544,11 +604,11 @@
     }
   },
   {
-    "id": "vtm:1786800300000:1bpb4o3",
+    "id": "vtm:1786799700000:1bpb4o3",
     "channel": "vtm",
     "title": "Chicago P.D.",
-    "start": 1786800300000,
-    "end": 1786803300000,
+    "start": 1786799700000,
+    "end": 1786802700000,
     "description": "Het team moet samenwerken met rechercheur Borkowski, een oude vriend van Ruzek, om een reeks gewelddadige inbraken op te lossen. Borkowski blijkt heel anders te werk te gaan dan Torres gewend is.",
     "category": [
       "Misdaaddrama",
@@ -574,11 +634,41 @@
     }
   },
   {
-    "id": "vtm:1786803300000:7ddzkg",
+    "id": "vtm:1786802700000:2vp1ef",
+    "channel": "vtm",
+    "title": "America's Funniest Home Video's",
+    "start": 1786802700000,
+    "end": 1786803600000,
+    "description": "Amerikaanse show rond grappige, waargebeurde videobeelden, ingestuurd door de kijkers. Elke week kan het studiopubliek aangeven welke clip zij het grappigst vinden.",
+    "category": [
+      "Reality",
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F184249~~2FSH044169890000~~2F528776424%2Cimi%3Ac61570feed08f811794f10bc104059e2c28fd457/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 69890000,
+    "episode": 528776424,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F184249~~2FSH044169890000~~2F528776424,imi:c61570feed08f811794f10bc104059e2c28fd457",
+      "episodeName": null,
+      "genres": [
+        "Reality",
+        "Comedy"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F184249~~2FSH044169890000"
+    }
+  },
+  {
+    "id": "vtm:1786803600000:7ddzkg",
     "channel": "vtm",
     "title": "SOS Piet XL",
-    "start": 1786803300000,
-    "end": 1786805700000,
+    "start": 1786803600000,
+    "end": 1786806000000,
     "description": "Ricky uit Wevelgem waagt zich aan gevulde flensjes met garnalen, maar zijn keukenavontuur loopt niet van een leien dakje. De flensjes scheuren, de saus mislukt en het resultaat is allesbehalve verfijnd.",
     "category": [
       "Koken"
@@ -602,11 +692,11 @@
     }
   },
   {
-    "id": "vtm:1786805700000:16ehcrk",
+    "id": "vtm:1786806000000:16ehcrk",
     "channel": "vtm",
     "title": "Tien Om Te Zien",
-    "start": 1786805700000,
-    "end": 1786810500000,
+    "start": 1786806000000,
+    "end": 1786810800000,
     "description": "Middelkerke is volledig klaar voor dé soundtrack van de zomer met de 'Top 10 om te zien'. De allergrootste artiesten geven nog een keer het beste van zichzelf. Milk Inc. zorgt met hun miniconcert voor een knallend slot van 'Tien om te zien 2026'.",
     "category": [
       "Muziek",
@@ -632,10 +722,10 @@
     }
   },
   {
-    "id": "vtm:1786810500000:9v8na5",
+    "id": "vtm:1786810800000:9v8na5",
     "channel": "vtm",
     "title": "VTMies",
-    "start": 1786810500000,
+    "start": 1786810800000,
     "end": 1786813200000,
     "description": "De VTMies uit voor 'Strafste stunt', 'Tofste trouw', 'Sterkste stopwoord' en 'Dolste gave'. Ook de stijlvolle carrière van Jens Dendoncker wordt in de bloemetjes gezet met een Lifetime Achievement VTMie.",
     "category": [
@@ -722,7 +812,7 @@
     "channel": "vtm",
     "title": "De Zonen van Van As",
     "start": 1786816500000,
-    "end": 1786818300000,
+    "end": 1786818600000,
     "description": "Een groot oud boerenhof moet worden afgebroken. Tussen de oude landbouwmachines staan nog twee oldtimers. Pol en Valère beweren dat die niets meer waard zijn, maar komen 's nachts terug om ze te stelen.",
     "category": [
       "Sitcom"
@@ -746,11 +836,11 @@
     }
   },
   {
-    "id": "vtm:1786818300000:1bpfx6l",
+    "id": "vtm:1786818600000:1bpfx6l",
     "channel": "vtm",
     "title": "Eenmaal Andermaal",
-    "start": 1786818300000,
-    "end": 1786822800000,
+    "start": 1786818600000,
+    "end": 1786822500000,
     "description": "Jacques vormt deze week een duo met Sergio Quisquater en Axel met Jacques' dochter Julie. Met een startkapitaal van 750 euro schuimen ze rommelmarkten en antiquairs af op zoek naar unieke stukken.",
     "category": [
       "Entertainment",
@@ -776,11 +866,11 @@
     }
   },
   {
-    "id": "vtm:1786822800000:1y69nxn",
+    "id": "vtm:1786822500000:1y69nxn",
     "channel": "vtm",
     "title": "Fast X",
-    "start": 1786822800000,
-    "end": 1786831800000,
+    "start": 1786822500000,
+    "end": 1786831200000,
     "description": "Het lukt Dom Toretto en zijn familie, maar niet om met pensioen te gaan. Ze moeten de confrontatie aangaan met een vijand die opduikt uit de schaduwen van het verleden, uit op wraak.",
     "category": [
       "Film",

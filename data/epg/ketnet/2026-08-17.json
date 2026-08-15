@@ -234,7 +234,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1786941300000,
-    "end": 1786941900000,
+    "end": 1786941600000,
     "description": "Dropje helpt Matis om groot te zijn, maar de grote broer van Matis is juist blij met zijn 'kleine' broertje.",
     "category": [
       "Kids",
@@ -260,11 +260,11 @@
     }
   },
   {
-    "id": "ketnet:1786941900000:dvn84u",
+    "id": "ketnet:1786941600000:dvn84u",
     "channel": "ketnet",
     "title": "Sarah knutselt",
-    "start": 1786941900000,
-    "end": 1786942200000,
+    "start": 1786941600000,
+    "end": 1786941900000,
     "description": "Sarah knutselt samen met haar vriendjes de leukste knutselwerkjes.",
     "category": [
       "Kids",
@@ -290,11 +290,11 @@
     }
   },
   {
-    "id": "ketnet:1786942200000:ykedwl",
+    "id": "ketnet:1786941900000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1786942200000,
-    "end": 1786942800000,
+    "start": 1786941900000,
+    "end": 1786942500000,
     "description": "Bing voelt zich niet lekker, dus Flop laat hem een dagje thuisblijven om uit te rusten en zijn bacillen voor zichzelf te houden.",
     "category": [
       "Kids",
@@ -320,11 +320,11 @@
     }
   },
   {
-    "id": "ketnet:1786942800000:1ysf81w",
+    "id": "ketnet:1786942500000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1786942800000,
-    "end": 1786943400000,
+    "start": 1786942500000,
+    "end": 1786943100000,
     "description": "Op de heetste dag van het jaar blokkeert Betty de ijskar. Mojo en Bo moeten haar stoppen voor het hele dorp bedolven wordt onder ijs.",
     "category": [
       "Kids",
@@ -350,11 +350,11 @@
     }
   },
   {
-    "id": "ketnet:1786943400000:18mo0rb",
+    "id": "ketnet:1786943100000:18mo0rb",
     "channel": "ketnet",
     "title": "Sarah leest voor",
-    "start": 1786943400000,
-    "end": 1786943700000,
+    "start": 1786943100000,
+    "end": 1786943400000,
     "description": "Sarah woont in een kleurrijke blokkentoren met een gezellig voortuintje aan de rand van de stad. Ze betovert iedereen met haar mooie glimlach en leest graag 'de avonturen van Sokpop' voor. Lezen jullie allemaal mee?",
     "category": [
       "Kids",
@@ -380,11 +380,11 @@
     }
   },
   {
-    "id": "ketnet:1786943700000:ne1xug",
+    "id": "ketnet:1786943400000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1786943700000,
-    "end": 1786944300000,
+    "start": 1786943400000,
+    "end": 1786944000000,
     "description": "Drie konijntjes willen graag bouwers worden dus de biggen geven hen les. De biggen zijn supergoed in bouwen, maar niet zo in lesgeven en de lessen lopen al snel uit de hand. Zullen de konijntjes wel iets leren?",
     "category": [
       "Kids",
@@ -407,6 +407,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1786944000000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1786944000000,
+    "end": 1786944300000,
+    "description": "Samson en Marie zijn onderweg naar een optreden, maar de gps en het mobieltje van Marie werken niet. Samson zoekt de weg op een kaart en stuurt Marie de juiste kant op, dat denkt hij tenminste.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18978555~~2FEP036193980016%2Cimi%3A8c81850fc947a4b2355c386686afdb2b8292ea81/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 13,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18978555~~2FEP036193980016,imi:8c81850fc947a4b2355c386686afdb2b8292ea81",
+      "episodeName": "De weg kwijt",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -652,7 +682,7 @@
     "channel": "ketnet",
     "title": "Orla de Kikkerslikker",
     "start": 1786950000000,
-    "end": 1786954800000,
+    "end": 1786954740000,
     "description": "Victor kijkt al uit naar een zomer lang luieren en lekker niets doen. Bovendien is het circus onderweg naar het dorp. Circus Bardini is op zoek naar een gloednieuwe act voor hun spektakel.",
     "category": [
       "Kids",
@@ -678,10 +708,40 @@
     }
   },
   {
-    "id": "ketnet:1786954800000:p8c4k7",
+    "id": "ketnet:1786954740000:usts0h",
+    "channel": "ketnet",
+    "title": "Videoclips #likeme",
+    "start": 1786954740000,
+    "end": 1786955100000,
+    "description": "Clip #LikeMe van Reeks 05 Aflevering 13: #Wontyoustay - Kom wat dichterbij.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29979240~~2FEP056506200012%2Cimi%3Ae816c2c8d4bd176e0fde3a78dce5b0e0ba4cf6b4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 26,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29979240~~2FEP056506200012,imi:e816c2c8d4bd176e0fde3a78dce5b0e0ba4cf6b4",
+      "episodeName": "Kom wat dichterbij",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
+    }
+  },
+  {
+    "id": "ketnet:1786955100000:p8c4k7",
     "channel": "ketnet",
     "title": "Grizzy & the Lemmings",
-    "start": 1786954800000,
+    "start": 1786955100000,
     "end": 1786955400000,
     "description": "Grizzly ontmantelt de glijbaan die door de Lemmings in de hut is gebouwd en hergebruikt de stukken bamboe om een bubbelbad te bouwen. Bij het ontdekken van het werk van de beer, bedenken de Lemmings een reusachtig waterpark.",
     "category": [
@@ -982,7 +1042,7 @@
     "channel": "ketnet",
     "title": "Vos en Haas",
     "start": 1786958700000,
-    "end": 1786959300000,
+    "end": 1786959600000,
     "description": "Uil is bij Pluim voor een chique lunch en belooft op zijn beurt de volgende lunch te organiseren. De druk is hoog en de verwachtingen zijn hooggespannen, aangezien Pluim wordt verwacht naar de thuisboom van Uil te komen.",
     "category": [
       "Kids",
@@ -1005,36 +1065,6 @@
       "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0b48fff3-2f6c-43cb-b4c5-3f982cd324fa"
-    }
-  },
-  {
-    "id": "ketnet:1786959300000:1djaw1n",
-    "channel": "ketnet",
-    "title": "Yetili vertelt",
-    "start": 1786959300000,
-    "end": 1786959600000,
-    "description": "Yeti vindt eindelijk het boek waar hij zo lang naar op zoek was. Ze kunnen nu lekker gaan lezen. Meneer Chien wacht bij de gevonden voorwerpen op de eigenaars die hun spulletjes komen ophalen. Door de dag heen ziet hij een boel dieren langskomen.",
-    "category": [
-      "Kids",
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14989393~~2FEP034525560066%2Cimi%3A510ae19cade9ddaa707fe7c6ed81a4f4892b84a7/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 26,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14989393~~2FEP034525560066,imi:510ae19cade9ddaa707fe7c6ed81a4f4892b84a7",
-      "episodeName": "Verloren voorwerpen",
-      "genres": [
-        "Kids",
-        "Comedy"
-      ],
-      "productionDate": "2017",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13576269~~2FSH034525560000"
     }
   },
   {
@@ -1639,7 +1669,7 @@
     "title": "Charlie",
     "start": 1786970100000,
     "end": 1786970400000,
-    "description": "Charlie logeert bij oma terwijl zijn ouders op reis zijn. Maar als zijn favoriete deken nergens te vinden is, zet hij samen met Monica een mysterieuze schattenjacht op. De avond verandert in een feestelijk avontuur en net als de slaap toeslaat.",
+    "description": "Wat is het toch dat dingen laat vallen? Alles beweegt naar de grond: speelgoed, boeken, breekbare dingen gaan zelfs kapot, en ook stuiterende ballen blijven uiteindelijk op de vloer liggen.",
     "category": [],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33497095~~2FEP064107460015%2Cimi%3A57a185f3987a3a8cece04afde1bab6010971f317/posterTile",
     "icon": null,
@@ -1783,7 +1813,7 @@
     "title": "Sam & Julia",
     "start": 1786971900000,
     "end": 1786972500000,
-    "description": "Oma Gouda geeft Sam en Julia een kalender van Het Muizenhuis. Daarin zitten briefjes met nummers. Elke briefje verhult een appartement, zoals het vroeger was toen de eerste bewoners arriveerden.",
+    "description": "Oma Gouda geeft Sam en Julia een kalender van Het Muizenhuis. Daarin zitten briefjes met nummers. Elk briefje verhult een appartement, zoals het vroeger was toen de eerste bewoners arriveerden.",
     "category": [
       "Kids",
       "Animatie"
@@ -1843,7 +1873,7 @@
     "title": "Mojo Wisseltop",
     "start": 1786972800000,
     "end": 1786973400000,
-    "description": "Filo het bestelwagentje rijdt rond met Fabio de kok zijn kaastaart. Maar er te hard mee schudden en de taart ontploft. Mojo en Bo voorkomen een kaasknal.",
+    "description": "Filo het bestelwagentje rijdt rond met Fabio de kok zijn kaastaart. Maar als er te hard mee geschud wordt, kan de taart ontploffen. Mojo en Bo voorkomen een kaasknal.",
     "category": [
       "Kids",
       "Animatie"
@@ -2110,7 +2140,7 @@
     "channel": "ketnet",
     "title": "Kratts in het wild",
     "start": 1786977300000,
-    "end": 1786978500000,
+    "end": 1786978800000,
     "description": "Aviva en Koki maken een katapult. Chris en Martin willen alles leren over sprinkhanen en hun springvermogen.",
     "category": [
       "Kids",
@@ -2133,36 +2163,6 @@
       "productionDate": "2017",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F610863f6-30e6-4af1-a1a8-750def8c8de4"
-    }
-  },
-  {
-    "id": "ketnet:1786978500000:1ind05c",
-    "channel": "ketnet",
-    "title": "Athleticus Urban Games",
-    "start": 1786978500000,
-    "end": 1786978800000,
-    "description": "De babyolifant en de giraf spelen een racketspel, maar hebben nog niet de juiste techniek onder de knie. Daarom besluit een kung-fu-schildpad-sensei hen een aantal vechtkunsten aan te leren, zodat ze kampioenen worden.",
-    "category": [
-      "Animatie",
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20900135~~2FEP054806600018%2Cimi%3A0ef5812fd50fcb235c6f5bbf12d9eb79b17f5129/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 3,
-    "episode": 18,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20900135~~2FEP054806600018,imi:0ef5812fd50fcb235c6f5bbf12d9eb79b17f5129",
-      "episodeName": "Kung Fu",
-      "genres": [
-        "Animatie",
-        "Comedy"
-      ],
-      "productionDate": "2022",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F15191163~~2FSH054806600000"
     }
   },
   {
@@ -2317,7 +2317,7 @@
     "title": "De camping",
     "start": 1786982400000,
     "end": 1786983000000,
-    "description": "TE: 50 Noorse fictiereeks over de avonturen van een groep vrienden op kampeervakantie. Nederlandstalige versie (orig.: 'Campingplassen')",
+    "description": "Een nieuwe jongen, Romeo, arriveert met zijn familie op de camping en Andrine leidt hen rond. Ze mag Romeo graag en hij bewondert haar om haar heerlijke leven op de camping. Op een feestje komen de twee dichter bij elkaar.",
     "category": [
       "Familie",
       "Comedy"
@@ -2464,7 +2464,7 @@
     "channel": "ketnet",
     "title": "#LikeMe",
     "start": 1786985400000,
-    "end": 1786987200000,
+    "end": 1786986900000,
     "description": "Caro en Maria merken dat er iets is met hun BFF Yemi. Hij gedraagt zich immers opvallend anders. Ze willen weten wat er speelt, maar de jongen zweert dat alles prima is. Ondertussen lijken Emma en Caro meer naar elkaar toe te groeien.",
     "category": [
       "Avontuur",
@@ -2487,6 +2487,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F12d4f139-bb21-496c-a7f4-1b3e8e5cf17d"
+    }
+  },
+  {
+    "id": "ketnet:1786986900000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1786986900000,
+    "end": 1786987200000,
+    "description": "Grizzly hoopt eindelijk een keer rust te hebben, maar de Lemmingen werken aan een raket. Als Grizzly de boel om zeep probeert te helpen, gaat alles mis.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20085148~~2FEP041241250597%2Cimi%3Abc2e1adf00250983b42794aa476949319b768806/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 29,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20085148~~2FEP041241250597,imi:bc2e1adf00250983b42794aa476949319b768806",
+      "episodeName": "Extreme Dominos",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {
