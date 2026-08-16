@@ -30,11 +30,41 @@
     }
   },
   {
-    "id": "play5:1787015700000:48zb9",
+    "id": "play5:1787012400000:hxtisv",
+    "channel": "play5",
+    "title": "Grey's Anatomy",
+    "start": 1787012400000,
+    "end": 1787015100000,
+    "description": "Het bloedtekort bij Gray Sloan Memorial duurt voort. Meredith neemt een riskante beslissing over een patiënt. De acties van Owen om zijn medeveteranen te helpen komen aan het licht.",
+    "category": [
+      "Dramaserie",
+      "Medisch"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22051587~~2FEP027786290428%2Cimi%3A1dc33686c9ea10888c8e15e46c8e202188167fce/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 18,
+    "episode": 20,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22051587~~2FEP027786290428,imi:1dc33686c9ea10888c8e15e46c8e202188167fce",
+      "episodeName": "You Are the Blood",
+      "genres": [
+        "Dramaserie",
+        "Medisch"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5e08c502-7198-4669-b6f8-4121e88b8a69"
+    }
+  },
+  {
+    "id": "play5:1787015100000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1787015700000,
-    "end": 1787022000000,
+    "start": 1787015100000,
+    "end": 1787021400000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:df6779c3c5911f6899e085b623b510c303d25087",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1787021400000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1787021400000,
+    "end": 1787022000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:69d3c2b65186023ffcb6c7396bb45f6b8579d9bf",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

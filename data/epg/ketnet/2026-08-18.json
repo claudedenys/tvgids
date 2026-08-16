@@ -258,7 +258,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1787027700000,
-    "end": 1787028300000,
+    "end": 1787028000000,
     "description": "Dropje ontmoet de dochter van de glazenwasser, die heel graag op vakantie wil. Samen maken ze een tent en echte regendruppels op het tentdoek. En dan is het net een 'echte' vakantie.",
     "category": [
       "Kids",
@@ -284,11 +284,11 @@
     }
   },
   {
-    "id": "ketnet:1787028300000:dvn84u",
+    "id": "ketnet:1787028000000:dvn84u",
     "channel": "ketnet",
     "title": "Sarah knutselt",
-    "start": 1787028300000,
-    "end": 1787028600000,
+    "start": 1787028000000,
+    "end": 1787028300000,
     "description": "Sarah knutselt samen met haar vriendjes de leukste knutselwerkjes.",
     "category": [
       "Kids",
@@ -314,11 +314,11 @@
     }
   },
   {
-    "id": "ketnet:1787028600000:ykedwl",
+    "id": "ketnet:1787028300000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1787028600000,
-    "end": 1787029200000,
+    "start": 1787028300000,
+    "end": 1787028900000,
     "description": "Bing speelt verstoppertje op de crèche met Sula, Pando en Coco. Bing gaat niet naar de wc met alle anderen voordat het spel begint en als hij dan toch moet plassen terwijl hij verstopt zit, moet hij besluiten of hij zijn verstopplek gaat opgeven.",
     "category": [
       "Kids",
@@ -344,11 +344,11 @@
     }
   },
   {
-    "id": "ketnet:1787029200000:1ysf81w",
+    "id": "ketnet:1787028900000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1787029200000,
-    "end": 1787029800000,
+    "start": 1787028900000,
+    "end": 1787029500000,
     "description": "Mojo en Bo brengen de post rond. Ook het geheime verjaardagscadeau voor Bryan de veerboot. Maar bezorgen blijkt spannender dan gedacht.",
     "category": [
       "Kids",
@@ -374,11 +374,11 @@
     }
   },
   {
-    "id": "ketnet:1787029800000:1yt1qve",
+    "id": "ketnet:1787029500000:1yt1qve",
     "channel": "ketnet",
     "title": "Sarah: Sokpop en de klanken",
-    "start": 1787029800000,
-    "end": 1787030100000,
+    "start": 1787029500000,
+    "end": 1787029800000,
     "description": "Sarah en Sokpop ontdekken de wereld van de klanken. Doen jullie mee?",
     "category": [
       "Educatie"
@@ -402,11 +402,11 @@
     }
   },
   {
-    "id": "ketnet:1787030100000:ne1xug",
+    "id": "ketnet:1787029800000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1787030100000,
-    "end": 1787030700000,
+    "start": 1787029800000,
+    "end": 1787030400000,
     "description": "Charlie bakt een grote taart die de biggen willen delen met hun vrienden. Maar Wilf ruikt de taart en wil ze voor hem alleen. Hij saboteert zijn eigen huis om de biggen in de val te lokken.",
     "category": [
       "Kids",
@@ -429,6 +429,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1787030400000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1787030400000,
+    "end": 1787030700000,
+    "description": "Samson speelt met de dominostenen. Hij wil de langste rij steentjes ooit bouwen en gaat aan de slag. Maar Marie laat de dominosteentjes telkens per ongeluk omvallen nog voor ze een lange rij hebben gevormd.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19077539~~2FEP036193980033%2Cimi%3Ae70a00aa6d16a055ef479d860c6cb768c4bac7d6/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 33,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19077539~~2FEP036193980033,imi:e70a00aa6d16a055ef479d860c6cb768c4bac7d6",
+      "episodeName": "Domino",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -702,7 +732,7 @@
     "channel": "ketnet",
     "title": "De Smurfen",
     "start": 1787040600000,
-    "end": 1787041200000,
+    "end": 1787041140000,
     "description": "Begonia, Smurflili en Smurfbloesem besluiten om Wilde Smurf samen een lesje te leren.",
     "category": [
       "Kids",
@@ -728,10 +758,40 @@
     }
   },
   {
-    "id": "ketnet:1787041200000:p8c4k7",
+    "id": "ketnet:1787041140000:usts0h",
+    "channel": "ketnet",
+    "title": "Videoclips #likeme",
+    "start": 1787041140000,
+    "end": 1787041500000,
+    "description": "Clip #LikeMe van Reeks 05 Aflevering 13: #Wontyoustay - Vonken en vuur.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29979241~~2FEP056506200013%2Cimi%3Adf2889d2cca2a0fe9aa4d6b2cda27dde6a238a48/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 27,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29979241~~2FEP056506200013,imi:df2889d2cca2a0fe9aa4d6b2cda27dde6a238a48",
+      "episodeName": "Vonken en vuur",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
+    }
+  },
+  {
+    "id": "ketnet:1787041500000:p8c4k7",
     "channel": "ketnet",
     "title": "Grizzy & the Lemmings",
-    "start": 1787041200000,
+    "start": 1787041500000,
     "end": 1787041800000,
     "description": "Grizzly, een grizzly beer, en een heleboel lemmingen proberen samen te leven in het huisje van een boswachter. Beide partijen proberen hun territorium te claimen wat leidt tot een voortdurende verhitte strijd.",
     "category": [
@@ -1030,7 +1090,7 @@
     "channel": "ketnet",
     "title": "Vos en Haas",
     "start": 1787045100000,
-    "end": 1787045700000,
+    "end": 1787046000000,
     "description": "Ever het zwijn heeft van zijn scooter een waar racemonster gemaakt waarmee hij verschrikkelijk hard kan rijden, maar ook vreselijk veel herrie maakt. Anderen vinden het geluid ondraaglijk, maar de Vos kan niet wachten om een ritje te maken.",
     "category": [
       "Kids",
@@ -1056,63 +1116,33 @@
     }
   },
   {
-    "id": "ketnet:1787045700000:1djaw1n",
+    "id": "ketnet:1787046000000:ozsre8",
     "channel": "ketnet",
-    "title": "Yetili vertelt",
-    "start": 1787045700000,
-    "end": 1787046000000,
-    "description": "Yeti vertelt over een rups in een tuin. Deze rups denkt dat hij een oger is en eet alles wat op zijn pad komt. Des te meer de rups eet, des te groter hij wordt. Hij blijft ook van kleur veranderen.",
-    "category": [
-      "Kids",
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15172854~~2FEP034525560068%2Cimi%3A208e3d0d7024e578455344c913576c093b1a0a53/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 28,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15172854~~2FEP034525560068,imi:208e3d0d7024e578455344c913576c093b1a0a53",
-      "episodeName": "Wacht even, vlinder",
-      "genres": [
-        "Kids",
-        "Comedy"
-      ],
-      "productionDate": "2017",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13576269~~2FSH034525560000"
-    }
-  },
-  {
-    "id": "ketnet:1787046000000:1k7riyw",
-    "channel": "ketnet",
-    "title": "Sarah & Zola koken",
+    "title": "Sarah doet yoga",
     "start": 1787046000000,
     "end": 1787046300000,
-    "description": "Er staat een smoothie op het menu. Sarah vergat mango te kopen, maar gelukkig zorgt Sokpop voor een oplossing. Zola legt stap voor stap uit hoe je het gerecht maakt. Sarah, Zola, Sokpop, Bavo en hun vriendjes smullen van de smoothie.",
+    "description": "Sarah woont in een kleurrijke blokkentoren met een gezellig voortuintje aan de rand van de stad en betovert iedereen met haar mooie glimlach. Samen met Sokpop probeert ze leuke yogahoudingen uit. Iedereen doet mee.",
     "category": [
-      "Koken",
-      "Entertainment"
+      "Kids",
+      "Zelfhulp"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30675354~~2FEP059146210003%2Cimi%3A5165ab437978def6dc058549c020d85fb847ae6b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20545037~~2FEP039713600001%2Cimi%3Ae8821bfe88e6fe3b691e8fc83106fde45eda7bb5/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 2025,
-    "episode": 3,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30675354~~2FEP059146210003,imi:5165ab437978def6dc058549c020d85fb847ae6b",
-      "episodeName": "Smoothie",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20545037~~2FEP039713600001,imi:e8821bfe88e6fe3b691e8fc83106fde45eda7bb5",
+      "episodeName": "Boom en hond",
       "genres": [
-        "Koken",
-        "Entertainment"
+        "Kids",
+        "Zelfhulp"
       ],
-      "productionDate": "2025",
+      "productionDate": "2021",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30675337~~2FSH059146210000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0df1ed0f-69cf-4746-87a9-18f9885925cb"
     }
   },
   {
@@ -2363,7 +2393,7 @@
     "title": "De camping",
     "start": 1787068800000,
     "end": 1787069100000,
-    "description": "TE: 50 Noorse fictiereeks over de avonturen van een groep vrienden op kampeervakantie. Nederlandstalige versie (orig.: 'Campingplassen')",
+    "description": "Andrine is diepbedroefd: Romeo is met zijn gezin vertrokken zonder afscheid te nemen! Ze trekt zich terug op het balkon. Dan wordt Mattis gestoken door een kwal, en alleen Andrine kan hem helpen. Wat zal ze doen?",
     "category": [
       "Familie",
       "Comedy"
@@ -2422,7 +2452,7 @@
     "channel": "ketnet",
     "title": "De Faker",
     "start": 1787069400000,
-    "end": 1787070300000,
+    "end": 1787070600000,
     "description": "Op het eerste zicht lijkt het een doodgewoon gezin, maar er klopt iets niet. Eén iemand hoort er eigenlijk niet thuis en doet maar alsof. Annabel mag vandaag gaan speuren in Kortrijk.",
     "category": [
       "Reality-competitie"
@@ -2443,36 +2473,6 @@
       "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23142217~~2FSH044898080000"
-    }
-  },
-  {
-    "id": "ketnet:1787070300000:190wcfy",
-    "channel": "ketnet",
-    "title": "Noodle and Bun",
-    "start": 1787070300000,
-    "end": 1787070600000,
-    "description": "Bun is ziek en Noodle doet er alles aan om hem weer beter te maken.",
-    "category": [
-      "Animatie",
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25206807~~2FEP061953590009%2Cimi%3A1c40d234184ae3be98070947c2695f2a1c4ff53a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 9,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F25206807~~2FEP061953590009,imi:1c40d234184ae3be98070947c2695f2a1c4ff53a",
-      "episodeName": "Bun is ziek!",
-      "genres": [
-        "Animatie",
-        "Comedy"
-      ],
-      "productionDate": "2023",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25206763~~2FSH061953590000"
     }
   },
   {
@@ -2540,7 +2540,7 @@
     "channel": "ketnet",
     "title": "#LikeMe",
     "start": 1787071800000,
-    "end": 1787073600000,
+    "end": 1787073300000,
     "description": "Vriendschapsperikelen liggen aan de oorsprong van een hevige ruzie op school en iedereen wijst naar elkaar voor wie er de schuld van draagt. Maar het is vooral Yemi die het gelag betaalt, waardoor de jongen zich plots heel eenzaam voelt.",
     "category": [
       "Avontuur",
@@ -2563,6 +2563,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F12d4f139-bb21-496c-a7f4-1b3e8e5cf17d"
+    }
+  },
+  {
+    "id": "ketnet:1787073300000:190wcfy",
+    "channel": "ketnet",
+    "title": "Noodle and Bun",
+    "start": 1787073300000,
+    "end": 1787073600000,
+    "description": "Bun is ziek en Noodle doet er alles aan om hem weer beter te maken.",
+    "category": [
+      "Animatie",
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25206807~~2FEP061953590009%2Cimi%3A1c40d234184ae3be98070947c2695f2a1c4ff53a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 9,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25206807~~2FEP061953590009,imi:1c40d234184ae3be98070947c2695f2a1c4ff53a",
+      "episodeName": "Bun is ziek!",
+      "genres": [
+        "Animatie",
+        "Comedy"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25206763~~2FSH061953590000"
     }
   },
   {

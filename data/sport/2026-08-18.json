@@ -230,17 +230,40 @@
     ]
   },
   {
-    "id": "sport:playsports3:1787011800000:xykime",
+    "id": "sport:playsports3:1787011500000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1787011800000,
-    "end": 1787035500000,
+    "start": 1787011500000,
+    "end": 1787031600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1787079000000:1xivszf",
+    "externalId": null,
+    "title": "UEFA Champions League",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1787079000000,
+    "end": 1787086500000,
+    "status": "aankomend",
+    "description": "Samenvattingen en hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -276,15 +299,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787037600000:1nnswin",
+    "id": "sport:playsports4:1787031900000:1nnswin",
     "externalId": null,
-    "title": "Vuelta a Burgos: Etappe 4",
+    "title": "Vuelta a Burgos: Etappe 3",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Wielrennen",
-    "start": 1787037600000,
-    "end": 1787043840000,
+    "start": 1787031900000,
+    "end": 1787037840000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
     "source": "epg",
@@ -299,15 +322,38 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787043840000:arbcat",
+    "id": "sport:playsports4:1787037840000:1nnswin",
+    "externalId": null,
+    "title": "Vuelta a Burgos: Etappe 4",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Wielrennen",
+    "start": 1787037840000,
+    "end": 1787044080000,
+    "status": "aankomend",
+    "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1787044080000:arbcat",
     "externalId": null,
     "title": "ePrix van Tokio: Race 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1787043840000,
-    "end": 1787049480000,
+    "start": 1787044080000,
+    "end": 1787049720000,
     "status": "aankomend",
     "description": "Verslag van de tweede race van de ePrix van Tokio, gereden in Tokio, Japan.",
     "source": "epg",
@@ -322,15 +368,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787049480000:arbc9f",
+    "id": "sport:playsports4:1787049720000:arbc9f",
     "externalId": null,
     "title": "GP van Hongarije: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1787049480000,
-    "end": 1787053440000,
+    "start": 1787049720000,
+    "end": 1787053680000,
     "status": "aankomend",
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "source": "epg",
@@ -345,15 +391,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787053440000:arbc9e",
+    "id": "sport:playsports4:1787053680000:arbc9e",
     "externalId": null,
     "title": "GP van Hongarije: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1787053440000,
-    "end": 1787058000000,
+    "start": 1787053680000,
+    "end": 1787058180000,
     "status": "aankomend",
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "source": "epg",
@@ -368,15 +414,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787058000000:12oeiq8",
+    "id": "sport:playsports4:1787058180000:12oeiq8",
     "externalId": null,
     "title": "Boedapest: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1787058000000,
-    "end": 1787061240000,
+    "start": 1787058180000,
+    "end": 1787061480000,
     "status": "aankomend",
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "source": "epg",
@@ -391,15 +437,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787061240000:8a2n92",
+    "id": "sport:playsports4:1787061480000:8a2n92",
     "externalId": null,
     "title": "Tennis",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1787061240000,
-    "end": 1787067300000,
+    "start": 1787061480000,
+    "end": 1787067480000,
     "status": "aankomend",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
@@ -414,15 +460,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787067300000:11oizv7",
+    "id": "sport:playsports4:1787067480000:11oizv7",
     "externalId": null,
     "title": "Dag 5",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1787067300000,
-    "end": 1787072880000,
+    "start": 1787067480000,
+    "end": 1787072820000,
     "status": "aankomend",
     "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
     "source": "epg",
@@ -437,17 +483,40 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787072880000:1nnswin",
+    "id": "sport:playsports4:1787072820000:1nnswin",
     "externalId": null,
     "title": "Vuelta a Burgos: Etappe 5",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Wielrennen",
-    "start": 1787072880000,
-    "end": 1787078880000,
+    "start": 1787072820000,
+    "end": 1787079000000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1787079000000:1xivszf",
+    "externalId": null,
+    "title": "UEFA Champions League",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1787079000000,
+    "end": 1787086500000,
+    "status": "aankomend",
+    "description": "Samenvattingen en hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -537,52 +606,6 @@
     "competition": null,
     "sport": null,
     "start": 1787068800000,
-    "end": 1787079000000,
-    "status": "aankomend",
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 5"
-    ],
-    "channels": [
-      "Play Sports 5"
-    ],
-    "channelIds": [
-      "playsports-premierleague"
-    ]
-  },
-  {
-    "id": "sport:playsports-premierleague:1787079000000:1xivszf",
-    "externalId": null,
-    "title": "UEFA Champions League",
-    "home": null,
-    "away": null,
-    "competition": "UEFA Champions League",
-    "sport": "Voetbal",
-    "start": 1787079000000,
-    "end": 1787086500000,
-    "status": "aankomend",
-    "description": "Samenvattingen en hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 5"
-    ],
-    "channels": [
-      "Play Sports 5"
-    ],
-    "channelIds": [
-      "playsports-premierleague"
-    ]
-  },
-  {
-    "id": "sport:playsports-premierleague:1787086500000:xykime",
-    "externalId": null,
-    "title": "Play Sports",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1787086500000,
     "end": 1787090400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -1127,15 +1150,38 @@
     ]
   },
   {
-    "id": "sport:match:1787035500000:sparta rotterdam - feyenoord",
+    "id": "sport:match:1787031600000:psv - fortuna sittard",
+    "externalId": null,
+    "title": "PSV - Fortuna Sittard",
+    "home": "PSV",
+    "away": "Fortuna Sittard",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1787031600000,
+    "end": 1787038020000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1787038020000:sparta rotterdam - feyenoord",
     "externalId": null,
     "title": "Sparta Rotterdam - Feyenoord",
     "home": "Sparta Rotterdam",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787035500000,
-    "end": 1787042700000,
+    "start": 1787038020000,
+    "end": 1787044620000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1150,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1787042700000:pec zwolle - ajax",
+    "id": "sport:match:1787044620000:pec zwolle - ajax",
     "externalId": null,
     "title": "PEC Zwolle - Ajax",
     "home": "PEC Zwolle",
     "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787042700000,
-    "end": 1787049240000,
+    "start": 1787044620000,
+    "end": 1787051220000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1173,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1787049240000:finale: crystal palace - rayo vallecano",
+    "id": "sport:match:1787051220000:finale: crystal palace - rayo vallecano",
     "externalId": null,
     "title": "Finale: Crystal Palace - Rayo Vallecano",
     "home": "Finale: Crystal Palace",
     "away": "Rayo Vallecano",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1787049240000,
-    "end": 1787056320000,
+    "start": 1787051220000,
+    "end": 1787058240000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Crystal Palace - Rayo Vallecano, gespeeld in de finale van de UEFA Conference League.",
     "source": "epg",
@@ -1196,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1787056320000:finale: sc freiburg - aston villa",
+    "id": "sport:match:1787058240000:finale: sc freiburg - aston villa",
     "externalId": null,
     "title": "Finale: SC Freiburg - Aston Villa",
     "home": "Finale: SC Freiburg",
     "away": "Aston Villa",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1787056320000,
-    "end": 1787063100000,
+    "start": 1787058240000,
+    "end": 1787064900000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
     "source": "epg",
@@ -1219,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1787063100000:psv - az",
+    "id": "sport:match:1787064900000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1787063100000,
-    "end": 1787070840000,
+    "start": 1787064900000,
+    "end": 1787072520000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "source": "epg",
@@ -1242,17 +1288,40 @@
     ]
   },
   {
-    "id": "sport:match:1787086500000:sparta rotterdam - feyenoord",
+    "id": "sport:match:1787072520000:psv - fortuna sittard",
     "externalId": null,
-    "title": "Sparta Rotterdam - Feyenoord",
-    "home": "Sparta Rotterdam",
-    "away": "Feyenoord",
+    "title": "PSV - Fortuna Sittard",
+    "home": "PSV",
+    "away": "Fortuna Sittard",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1787072520000,
+    "end": 1787079000000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1787086500000:psv - fortuna sittard",
+    "externalId": null,
+    "title": "PSV - Fortuna Sittard",
+    "home": "PSV",
+    "away": "Fortuna Sittard",
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1787086500000,
-    "end": 1787093640000,
+    "end": 1787092860000,
     "status": "aankomend",
-    "description": "Verslag van de wedstrijd Sparta Rotterdam - Feyenoord uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"

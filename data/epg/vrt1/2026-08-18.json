@@ -356,7 +356,7 @@
     "channel": "vrt1",
     "title": "De camping",
     "start": 1787032800000,
-    "end": 1787033400000,
+    "end": 1787033220000,
     "description": "Er is iets geheimzinnigs aan de hand en Noor en Silje proberen uit te vinden wat.",
     "category": [
       "Dramaserie",
@@ -379,6 +379,36 @@
       "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25052321~~2FSH051697300000"
+    }
+  },
+  {
+    "id": "vrt1:1787033220000:usts0h",
+    "channel": "vrt1",
+    "title": "Videoclips #likeme",
+    "start": 1787033220000,
+    "end": 1787033400000,
+    "description": "De videoclip van 'Lach naar mij' uit aflevering 1.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32667735~~2FEP056506200031%2Cimi%3A1db113a6993fd4bde5753225b62191e73783bd97/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32667735~~2FEP056506200031,imi:1db113a6993fd4bde5753225b62191e73783bd97",
+      "episodeName": "Lach naar mij",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
     }
   },
   {
@@ -1178,7 +1208,7 @@
     "channel": "vrt1",
     "title": "Euromillions",
     "start": 1787089380000,
-    "end": 1787089500000,
+    "end": 1787089800000,
     "description": "De trekkingen van het EuroMillions-spel.",
     "category": [
       "Spelprogramma",
@@ -1204,11 +1234,11 @@
     }
   },
   {
-    "id": "vrt1:1787089500000:1rkrji",
+    "id": "vrt1:1787089800000:1rkrji",
     "channel": "vrt1",
     "title": "Dertigers",
-    "start": 1787089500000,
-    "end": 1787091120000,
+    "start": 1787089800000,
+    "end": 1787091420000,
     "description": "Ruben twijfelt of hij eerlijk moet zijn tegen Sander over de kus met Jonas. De sfeer tussen Agnes en Lieve daalt ver onder nul. Laura blijft hopen dat Jonas haar zal vergeven. Sami beseft dat hij Lies nooit meer kwijt wil.",
     "category": [
       "Soap"

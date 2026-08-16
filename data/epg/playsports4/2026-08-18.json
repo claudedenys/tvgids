@@ -28,11 +28,41 @@
     }
   },
   {
-    "id": "playsports4:1787037600000:1nnswin",
+    "id": "playsports4:1787031900000:1nnswin",
     "channel": "playsports4",
     "title": "UCI ProSeries Mannen",
-    "start": 1787037600000,
-    "end": 1787043840000,
+    "start": 1787031900000,
+    "end": 1787037840000,
+    "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
+    "category": [
+      "Sport",
+      "Wielrennen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33636306~~2FEP049636290359%2Cimi%3A1e5be2e8986cd86cd8268cb3be2b7a8bb6c396b9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 36290000,
+    "episode": 2026080659,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636306~~2FEP049636290359,imi:1e5be2e8986cd86cd8268cb3be2b7a8bb6c396b9",
+      "episodeName": "Vuelta a Burgos: Etappe 3",
+      "genres": [
+        "Sport",
+        "Wielrennen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26272749~~2FSH049636290000"
+    }
+  },
+  {
+    "id": "playsports4:1787037840000:1nnswin",
+    "channel": "playsports4",
+    "title": "UCI ProSeries Mannen",
+    "start": 1787037840000,
+    "end": 1787044080000,
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
     "category": [
       "Sport",
@@ -58,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1787043840000:arbcat",
+    "id": "playsports4:1787044080000:arbcat",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule E",
-    "start": 1787043840000,
-    "end": 1787049480000,
+    "start": 1787044080000,
+    "end": 1787049720000,
     "description": "Verslag van de tweede race van de ePrix van Tokio, gereden in Tokio, Japan.",
     "category": [
       "Sport",
@@ -88,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1787049480000:arbc9f",
+    "id": "playsports4:1787049720000:arbc9f",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 3",
-    "start": 1787049480000,
-    "end": 1787053440000,
+    "start": 1787049720000,
+    "end": 1787053680000,
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "category": [
       "Sport",
@@ -118,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1787053440000:arbc9e",
+    "id": "playsports4:1787053680000:arbc9e",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 2",
-    "start": 1787053440000,
-    "end": 1787058000000,
+    "start": 1787053680000,
+    "end": 1787058180000,
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "category": [
       "Sport",
@@ -148,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1787058000000:12oeiq8",
+    "id": "playsports4:1787058180000:12oeiq8",
     "channel": "playsports4",
     "title": "Porsche Supercup",
-    "start": 1787058000000,
-    "end": 1787061240000,
+    "start": 1787058180000,
+    "end": 1787061480000,
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "category": [
       "Sport",
@@ -178,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1787061240000:8a2n92",
+    "id": "playsports4:1787061480000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1787061240000,
-    "end": 1787067300000,
+    "start": 1787061480000,
+    "end": 1787067480000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -208,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1787067300000:11oizv7",
+    "id": "playsports4:1787067480000:11oizv7",
     "channel": "playsports4",
     "title": "Tennis: Mubadala Citi DC Open 2026",
-    "start": 1787067300000,
-    "end": 1787072880000,
+    "start": 1787067480000,
+    "end": 1787072820000,
     "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
     "category": [
       "Sport",
@@ -238,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1787072880000:1nnswin",
+    "id": "playsports4:1787072820000:1nnswin",
     "channel": "playsports4",
     "title": "UCI ProSeries Mannen",
-    "start": 1787072880000,
-    "end": 1787078880000,
+    "start": 1787072820000,
+    "end": 1787079000000,
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
     "category": [
       "Sport",
@@ -268,27 +298,33 @@
     }
   },
   {
-    "id": "playsports4:1787078880000:48zb9",
+    "id": "playsports4:1787079000000:1xivszf",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1787078880000,
+    "title": "UEFA Champions League",
+    "start": 1787079000000,
     "end": 1787086500000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Samenvattingen en hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F519455~~2FSH035820350000~~2F527735675%2Cimi%3Abd052e4ffa2a0d6d2fe7c5afa579b6735b13ae6d/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 20350000,
+    "episode": 527735675,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a684bff51fdcf7ab77762f1518f3730a92b81cbd",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F519455~~2FSH035820350000~~2F527735675,imi:bd052e4ffa2a0d6d2fe7c5afa579b6735b13ae6d",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F519455~~2FSH035820350000"
     }
   },
   {

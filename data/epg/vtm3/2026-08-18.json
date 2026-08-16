@@ -56,7 +56,7 @@
     "channel": "vtm3",
     "title": "Geen uitzending",
     "start": 1787036400000,
-    "end": 1787054700000,
+    "end": 1787055000000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,11 +76,11 @@
     }
   },
   {
-    "id": "vtm3:1787054700000:goasy2",
+    "id": "vtm3:1787055000000:goasy2",
     "channel": "vtm3",
     "title": "Community",
-    "start": 1787054700000,
-    "end": 1787056500000,
+    "start": 1787055000000,
+    "end": 1787056800000,
     "description": "Shirley verheugt zich op een christelijke kerst, maar Dean Pelton besluit om een politiek correct, geloofsneutraal feest te organiseren. Ondertussen krijgt Jeff ruzie met de pestkop van de campus.",
     "category": [
       "Sitcom",
@@ -106,10 +106,10 @@
     }
   },
   {
-    "id": "vtm3:1787056500000:1se11jz",
+    "id": "vtm3:1787056800000:1se11jz",
     "channel": "vtm3",
     "title": "The Da Vinci Code",
-    "start": 1787056500000,
+    "start": 1787056800000,
     "end": 1787066100000,
     "description": "Er wordt een moord in het Louvre gepleegd. Een cryptoloog en een Harvard-professor werken samen om het mysterie achter deze moord op te lossen.",
     "category": [
@@ -140,7 +140,7 @@
     "channel": "vtm3",
     "title": "The Good Doctor",
     "start": 1787066100000,
-    "end": 1787069400000,
+    "end": 1787069100000,
     "description": "Shaun Murphy is in een supermarkt net wanneer deze wordt beroofd. Door zijn beperkte communicatieve vaardigheden lopen levens gevaar.",
     "category": [
       "Dramaserie",
@@ -166,10 +166,10 @@
     }
   },
   {
-    "id": "vtm3:1787069400000:szy0o0",
+    "id": "vtm3:1787069100000:szy0o0",
     "channel": "vtm3",
     "title": "How I Met Your Mother",
-    "start": 1787069400000,
+    "start": 1787069100000,
     "end": 1787070900000,
     "description": "Als Ted de bar vroeg verlaat om een Thanksgiving-menu te bereiden voor zijn vrienden, feesten zij de hele nacht door met Zoey, zijn tegenstreefster, en de Blitz, een oude studievriend die altijd pech heeft - behalve nu.",
     "category": [
@@ -200,7 +200,7 @@
     "channel": "vtm3",
     "title": "Community",
     "start": 1787070900000,
-    "end": 1787072700000,
+    "end": 1787072400000,
     "description": "Het nieuwe semester is van start gegaan op Greendale. Als de studiegroep weer bijeenkomt, zijn ze verrast dat een nieuw lid zich bij de groep heeft aangesloten. Jeff meldt zich aan als redacteur voor de schoolkrant.",
     "category": [
       "Sitcom",
@@ -226,11 +226,11 @@
     }
   },
   {
-    "id": "vtm3:1787072700000:15vnov6",
+    "id": "vtm3:1787072400000:15vnov6",
     "channel": "vtm3",
     "title": "The Simpsons",
-    "start": 1787072700000,
-    "end": 1787074500000,
+    "start": 1787072400000,
+    "end": 1787074200000,
     "description": "Bart wil wraak nemen op Homer nadat deze hem als straf in een konijnenhok had opgesloten. Hij besluit overal in de stad graffiti-karikaturen van zijn vader te verspreiden. Hij trekt al snel de aandacht van andere artiesten.",
     "category": [
       "Animatie",
@@ -256,10 +256,10 @@
     }
   },
   {
-    "id": "vtm3:1787074500000:12naan0",
+    "id": "vtm3:1787074200000:12naan0",
     "channel": "vtm3",
     "title": "S.W.A.T.",
-    "start": 1787074500000,
+    "start": 1787074200000,
     "end": 1787077800000,
     "description": "Het team probeert een schutter te stoppen die het gemunt heeft op afkickklinieken en degenen die hij verantwoordelijk acht voor de dood van zijn broer. Deacon wordt verrast wanneer zijn vrouw een beslissing neemt die gevolgen heeft voor hun dochter.",
     "category": [
@@ -320,7 +320,7 @@
     "channel": "vtm3",
     "title": "The Irrational",
     "start": 1787086800000,
-    "end": 1787090400000,
+    "end": 1787090100000,
     "description": "Als Alec en Kylie getuige zijn van een aanrijding tijdens de livestream van een vriend, willen ze bewijzen dat het geen ongeluk was. Marisa en Jace verdenken een senator.",
     "category": [
       "Misdaaddrama",
@@ -343,6 +343,34 @@
       "productionDate": "2023",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24599597~~2FSH050175200000"
+    }
+  },
+  {
+    "id": "vtm3:1787090100000:fs9io7",
+    "channel": "vtm3",
+    "title": "Godfather of Harlem",
+    "start": 1787090100000,
+    "end": 1787093700000,
+    "description": "Bumpy en Chin roepen Morgenthau's hulp in om te voorkomen dat Colombo en Battle een lading heroïne, wapens en cocaïne binnenbrengen. Stella moet kiezen tussen Colombo en haar vader.",
+    "category": [
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23106521~~2FEP036301610039%2Cimi%3A19e752034af710f1e767a2fb619297a9065ebd4d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 10,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23106521~~2FEP036301610039,imi:19e752034af710f1e767a2fb619297a9065ebd4d",
+      "episodeName": "Our Black Shining Prince",
+      "genres": [
+        "Misdaaddrama"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F09fdf47d-877f-45b8-b029-3a907de3ca1b"
     }
   }
 ]

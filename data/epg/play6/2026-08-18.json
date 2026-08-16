@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1787013900000:48zb9",
+    "id": "play6:1787013000000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1787013900000,
-    "end": 1787022000000,
+    "start": 1787013000000,
+    "end": 1787021400000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6575d28d0af690c24d6f0688d04dfdfd7a70f2cb",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1787021400000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1787021400000,
+    "end": 1787022000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a3933abea915207d97fbe329412abd05468eada8",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
