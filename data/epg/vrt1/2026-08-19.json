@@ -212,7 +212,7 @@
     "channel": "vrt1",
     "title": "Karrewiet met VGT",
     "start": 1787115600000,
-    "end": 1787116200000,
+    "end": 1787115900000,
     "description": "Infomagazine voor de jeugd. Getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
       "Actua"
@@ -236,11 +236,11 @@
     }
   },
   {
-    "id": "vrt1:1787116200000:1cd3zt1",
+    "id": "vrt1:1787115900000:1cd3zt1",
     "channel": "vrt1",
     "title": "Hallo Kroket",
-    "start": 1787116200000,
-    "end": 1787117100000,
+    "start": 1787115900000,
+    "end": 1787116800000,
     "description": "Dagelijkse liveshow waarin de KETNET-wrappers je meetrekken in de wereld van KETNET en die van de Ketnetters. Verwacht je aan bekende gasten, zotte primeurs, leuke optredens, spannende spelletjes en nog zo veel meer. HALLO KROKET!",
     "category": [
       "Spelprogramma",
@@ -266,11 +266,11 @@
     }
   },
   {
-    "id": "vrt1:1787117100000:p8c4k7",
+    "id": "vrt1:1787116800000:p8c4k7",
     "channel": "vrt1",
     "title": "Grizzy & the Lemmings",
-    "start": 1787117100000,
-    "end": 1787117400000,
+    "start": 1787116800000,
+    "end": 1787117100000,
     "description": "Wanneer Grizzly per ongeluk zijn favoriete bank vernielt, ziet hij een charmant vissershuisje op een naburig eiland. Hij grijpt de kano van de Lemmingen, maar ontdekt dat de hut vervallen is. Gelukkig is er een prachtige jacht in de buurt.",
     "category": [
       "Kids",
@@ -296,11 +296,11 @@
     }
   },
   {
-    "id": "vrt1:1787117400000:1wu7k5",
+    "id": "vrt1:1787117100000:1wu7k5",
     "channel": "vrt1",
     "title": "Ket & Doc",
-    "start": 1787117400000,
-    "end": 1787118300000,
+    "start": 1787117100000,
+    "end": 1787118000000,
     "description": "Een zomer vol vriendschap en wheelie avonturen met Garvey, Bas en Stag. Gedreven door hun gedeelde passie voor wheelies doen de drie prille tieners er alles aan om hun vriendschapsband te versterken voordat het middelbaar hun wegen mogelijks scheidt.",
     "category": [
       "Docu"
@@ -324,11 +324,11 @@
     }
   },
   {
-    "id": "vrt1:1787118300000:377440",
+    "id": "vrt1:1787118000000:377440",
     "channel": "vrt1",
     "title": "D5R",
-    "start": 1787118300000,
-    "end": 1787119200000,
+    "start": 1787118000000,
+    "end": 1787118900000,
     "description": "Leyla durft haar gevoelens voor Jan niet te bekennen. Kyra helpt Mol tijdens de dansles. Vincent ontmoet Sacha bij de vijver.",
     "category": [
       "Dramaserie"
@@ -352,12 +352,12 @@
     }
   },
   {
-    "id": "vrt1:1787119200000:1wag2r1",
+    "id": "vrt1:1787118900000:1wag2r1",
     "channel": "vrt1",
     "title": "De camping",
-    "start": 1787119200000,
-    "end": 1787119800000,
-    "description": "TE: 50 Noorse fictiereeks over de avonturen van een groep vrienden op kampeervakantie. Nederlandstalige versie (orig.: 'Campingplassen')",
+    "start": 1787118900000,
+    "end": 1787119500000,
+    "description": "Sebbe bedenkt een stunt voor het campingfeest, geïnspireerd op de film Dirty Dancing, om Anja voor zich te winnen. Maar Anja heeft geen interesse en wil niet komen. Sebbe weet haar uiteindelijk toch naar het feest te lokken, maar dan gaat alles mis.",
     "category": [
       "Dramaserie",
       "Familie"
@@ -379,6 +379,36 @@
       "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25052321~~2FSH051697300000"
+    }
+  },
+  {
+    "id": "vrt1:1787119500000:usts0h",
+    "channel": "vrt1",
+    "title": "Videoclips #likeme",
+    "start": 1787119500000,
+    "end": 1787119800000,
+    "description": "De videoclip van 'Kom bij mij' uit aflevering 10.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33062214~~2FEP056506200039%2Cimi%3A0af0ac15a539a98a49b5b1efe08843a5ef4976dd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 19,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33062214~~2FEP056506200039,imi:0af0ac15a539a98a49b5b1efe08843a5ef4976dd",
+      "episodeName": "Kom bij mij",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
     }
   },
   {

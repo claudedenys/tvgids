@@ -258,7 +258,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1787114100000,
-    "end": 1787114700000,
+    "end": 1787114400000,
     "description": "Dropje ontmoet een jongetje dat zijn konijn los heeft gelaten, omdat hij dat fijn vindt. Maar als er een grote hond langskomt, is het ook wel fijn om in een hok te zitten.",
     "category": [
       "Kids",
@@ -284,11 +284,11 @@
     }
   },
   {
-    "id": "ketnet:1787114700000:dvn84u",
+    "id": "ketnet:1787114400000:dvn84u",
     "channel": "ketnet",
     "title": "Sarah knutselt",
-    "start": 1787114700000,
-    "end": 1787115000000,
+    "start": 1787114400000,
+    "end": 1787114700000,
     "description": "Sarah knutselt samen met haar vriendjes de leukste knutselwerkjes.",
     "category": [
       "Kids",
@@ -314,11 +314,11 @@
     }
   },
   {
-    "id": "ketnet:1787115000000:ykedwl",
+    "id": "ketnet:1787114700000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1787115000000,
-    "end": 1787115600000,
+    "start": 1787114700000,
+    "end": 1787115300000,
     "description": "Bing en Flop maken konijnenkoekjes voor Charlie en Coco. Maar als Charlie en Coco arriveren, blijkt dat Charlie een superpoepie-luier heeft. Terwijl ze hem verschonen, hoort niemand de Kuiken-wekker afgaan, die waarschuwt dat de koekjes klaar zijn.",
     "category": [
       "Kids",
@@ -344,11 +344,11 @@
     }
   },
   {
-    "id": "ketnet:1787115600000:1ysf81w",
+    "id": "ketnet:1787115300000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1787115600000,
-    "end": 1787116200000,
+    "start": 1787115300000,
+    "end": 1787115900000,
     "description": "Bolleboos Preston wil een foto van een superzeldzame vogel. Mojo en Bo helpen hem met zijn vogelballon, maar het wordt een dolle vlucht.",
     "category": [
       "Kids",
@@ -374,11 +374,11 @@
     }
   },
   {
-    "id": "ketnet:1787116200000:1yt1qve",
+    "id": "ketnet:1787115900000:1yt1qve",
     "channel": "ketnet",
     "title": "Sarah: Sokpop en de klanken",
-    "start": 1787116200000,
-    "end": 1787116500000,
+    "start": 1787115900000,
+    "end": 1787116200000,
     "description": "Sarah en Sokpop ontdekken de wereld van de klanken. Doen jullie mee?",
     "category": [
       "Educatie"
@@ -402,11 +402,11 @@
     }
   },
   {
-    "id": "ketnet:1787116500000:ne1xug",
+    "id": "ketnet:1787116200000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1787116500000,
-    "end": 1787117100000,
+    "start": 1787116200000,
+    "end": 1787116800000,
     "description": "De biggen schieten Fred te hulp om zijn boek terug te vinden, maar als ze aankomen, stort zijn hele boekenkast in. De biggen schieten in actie: Cornelia en Charlie repareren de boekenkast en Cesar gaat op zoek naar het boek, met behulp van de buren.",
     "category": [
       "Kids",
@@ -429,6 +429,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1787116800000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1787116800000,
+    "end": 1787117100000,
+    "description": "Marie heeft een nieuwe grote liefde in haar leven, Frederik. Frederik is dol op rood haar. Daarom wil Marie haar haardos rood verven. Maar dat mislukt helaas. Ze heeft de verkeerde shampoo gebruikt en zit nu met groen haar opgescheept.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19077983~~2FEP036193980042%2Cimi%3A3924b1a1163cbc71dfb54240e49929d4ddaf6380/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 42,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19077983~~2FEP036193980042,imi:3924b1a1163cbc71dfb54240e49929d4ddaf6380",
+      "episodeName": "Het groentje",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -672,7 +702,7 @@
     "channel": "ketnet",
     "title": "Strijder",
     "start": 1787122800000,
-    "end": 1787128200000,
+    "end": 1787127900000,
     "description": "De vrienden Dylan en Youssef willen de Touzani Cup winnen. Alleen met het beste team komen ze een stap dichter bij hun droom om profvoetballer te worden. Wanneer Dylan een heftig ongeluk krijgt, staat niet alleen deze droom, maar ook hun vriendschap op het spel. Dylan doet er alles aan om terug te keren in het team. Daarbij krijgt hij hulp van zijn voetbalheld Soufiane Touzani, een optimist die zegt dat alles mogelijk is, als je maar doorzet.",
     "category": [
       "Drama",
@@ -695,6 +725,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
+    }
+  },
+  {
+    "id": "ketnet:1787127900000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1787127900000,
+    "end": 1787128200000,
+    "description": "Voor een publiek bestaande uit pinguïns en walrussen voeren twee Lemmings-teams acrobatische sprongen uit en strijden om de prijs. Wanneer Grizzly per ongeluk in het spel terechtkomt, raakt hij er al snel in verstrikt.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20485567~~2FEP041241250468%2Cimi%3Adda4f3eafa2666a29f0d97038514c00206aeb39b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 35,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20485567~~2FEP041241250468,imi:dda4f3eafa2666a29f0d97038514c00206aeb39b",
+      "episodeName": "Poolster",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {
@@ -970,7 +1030,7 @@
     "channel": "ketnet",
     "title": "Vos en Haas",
     "start": 1787131500000,
-    "end": 1787132100000,
+    "end": 1787132400000,
     "description": "Ever speelt pingpong in zijn eentje, maar blijft steeds zijn ballen verliezen. Uil stuit op een verlaten ei dat hij mee naar huis neemt om het te beschermen. In het bos wordt Uil geholpen door Vos en Haas om de ouders van het verloren ei te vinden.",
     "category": [
       "Kids",
@@ -993,36 +1053,6 @@
       "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0b48fff3-2f6c-43cb-b4c5-3f982cd324fa"
-    }
-  },
-  {
-    "id": "ketnet:1787132100000:1djaw1n",
-    "channel": "ketnet",
-    "title": "Yetili vertelt",
-    "start": 1787132100000,
-    "end": 1787132400000,
-    "description": "Dokter Nina en dokter Leon onderzoeken Yeti, wiens buik rare geluiden maakt. Hij begint te vertellen over een kikker die met oorpijn naar de dokter gaat. Ze wordt steeds naar een andere arts gestuurd. Dan besluit ze om haar opa om advies te vragen.",
-    "category": [
-      "Kids",
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15638634~~2FEP034525560029%2Cimi%3A2beef5025819468b4bfccfc93a54bed79e0136f5/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 30,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15638634~~2FEP034525560029,imi:2beef5025819468b4bfccfc93a54bed79e0136f5",
-      "episodeName": "Klein kikkertje heeft oorpijn",
-      "genres": [
-        "Kids",
-        "Comedy"
-      ],
-      "productionDate": "2017",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13576269~~2FSH034525560000"
     }
   },
   {
@@ -1918,7 +1948,7 @@
     "channel": "ketnet",
     "title": "Saïd & Anna",
     "start": 1787147100000,
-    "end": 1787147700000,
+    "end": 1787147400000,
     "description": "Saïd en Anna gaan samen slapen in hun zelfgemaakte tent. Anna wil gelijk gaan slapen, omdat ze zin heeft in een leuke droom, maar Saïd kan de slaap maar niet vatten. Hoe weet je nu wat je gaat dromen? De kinderen knutselen een eigen dromenvanger.",
     "category": [
       "Kids",
@@ -1941,6 +1971,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25788099~~2FSH048878860000"
+    }
+  },
+  {
+    "id": "ketnet:1787147400000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1787147400000,
+    "end": 1787147700000,
+    "description": "Samson zegt Marie de hele tijd na. Marie raakt al snel geïrriteerd en bedenkt een plannetje om Samson te laten stoppen.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18978595~~2FEP036193980022%2Cimi%3Adb2f96e5af7699b517b6ceb447bf25bf1da45bc1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 20,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18978595~~2FEP036193980022,imi:db2f96e5af7699b517b6ceb447bf25bf1da45bc1",
+      "episodeName": "Samson zegt Marie na",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -2122,41 +2182,11 @@
     }
   },
   {
-    "id": "ketnet:1787151300000:1ind05c",
-    "channel": "ketnet",
-    "title": "Athleticus Urban Games",
-    "start": 1787151300000,
-    "end": 1787151600000,
-    "description": "Een onverslaanbare skatende zeeleeuw krijgt twee nieuwe vreemde rivalen.",
-    "category": [
-      "Animatie",
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20900168~~2FEP054806600019%2Cimi%3Ae3d2a4ad4ad392e06c1859b19e204d40a2fb5e99/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 3,
-    "episode": 20,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20900168~~2FEP054806600019,imi:e3d2a4ad4ad392e06c1859b19e204d40a2fb5e99",
-      "episodeName": "Skateboarding",
-      "genres": [
-        "Animatie",
-        "Comedy"
-      ],
-      "productionDate": "2022",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F15191163~~2FSH054806600000"
-    }
-  },
-  {
-    "id": "ketnet:1787151600000:8wbaah",
+    "id": "ketnet:1787151300000:8wbaah",
     "channel": "ketnet",
     "title": "Diede-Skate: compilaties",
-    "start": 1787151600000,
-    "end": 1787152800000,
+    "start": 1787151300000,
+    "end": 1787152500000,
     "description": "Compilatieafleveringen van de Vlaamse fictiereeks die zich afspeelt in de skatescene.",
     "category": [
       "Dramaserie"
@@ -2180,11 +2210,11 @@
     }
   },
   {
-    "id": "ketnet:1787152800000:3o2hmp",
+    "id": "ketnet:1787152500000:3o2hmp",
     "channel": "ketnet",
     "title": "Schijtluizen",
-    "start": 1787152800000,
-    "end": 1787153400000,
+    "start": 1787152500000,
+    "end": 1787153100000,
     "description": "Een VIP-ontmoeting voor Sien en Nidal: ze maken kennis met het vliegend hert, een reusachtige en heel zeldzame kever.",
     "category": [
       "Kids",
@@ -2210,11 +2240,11 @@
     }
   },
   {
-    "id": "ketnet:1787153400000:93mi5q",
+    "id": "ketnet:1787153100000:93mi5q",
     "channel": "ketnet",
     "title": "United",
-    "start": 1787153400000,
-    "end": 1787154600000,
+    "start": 1787153100000,
+    "end": 1787154300000,
     "description": "Selma stopt met haar podcast omdat er weinig mensen kijken. Loubna schakelt een bekende voetbalanalist in om Selma van gedachten te doen veranderen. De spelers moeten extra trainingen doen van Kim. Warre heeft daar geen zin in en liegt dat hij de extra trainingen doet. Mira staat voor een dilemma: de repetities van de toneelclub vallen samen met de voetbaltrainingen.",
     "category": [
       "Comedy"
@@ -2238,10 +2268,10 @@
     }
   },
   {
-    "id": "ketnet:1787154600000:p8c4k7",
+    "id": "ketnet:1787154300000:p8c4k7",
     "channel": "ketnet",
     "title": "Grizzy & the Lemmings",
-    "start": 1787154600000,
+    "start": 1787154300000,
     "end": 1787154900000,
     "description": "Midden in een hittegolf vechten Grizzly en de Lemmingen om een koelkast. Nadat ze hem doormidden hebben gebroken, vinden ze een vriezer die de Lemmingen willen gebruiken om een curlingbaan te bouwen.",
     "category": [
@@ -2450,7 +2480,7 @@
     "channel": "ketnet",
     "title": "#LikeMe",
     "start": 1787158200000,
-    "end": 1787160000000,
+    "end": 1787159700000,
     "description": "Vince doet iets heel liefs en romantisch voor Caro. Ondertussen zingt Yemi de pannen van het dak in het gospelkoor. Zijn geluk is echter van korte duur wanneer Merel een bezwarende foto van hem neemt. Scotts schuldgevoel groeit met de dag.",
     "category": [
       "Avontuur",
@@ -2473,6 +2503,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F12d4f139-bb21-496c-a7f4-1b3e8e5cf17d"
+    }
+  },
+  {
+    "id": "ketnet:1787159700000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1787159700000,
+    "end": 1787160000000,
+    "description": "Terwijl Grizzly en de Lemmingen ruzie maken over een pot chocoladepasta vinden ze stukjes chocola in goudpapier in de jungle. Ze ontdekken dat de chocola afkomstig is van een vrachtwagen en gaan op zoek naar de hele lading.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20976010~~2FEP041241250419%2Cimi%3Acda653bec8ecca84f2c21a9294c024133e32c185/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 75,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20976010~~2FEP041241250419,imi:cda653bec8ecca84f2c21a9294c024133e32c185",
+      "episodeName": "Goldrush",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {

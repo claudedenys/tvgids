@@ -276,14 +276,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1787100180000:xykime",
+    "id": "sport:playsports3:1787099520000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1787100180000,
+    "start": 1787099520000,
     "end": 1787115300000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -322,40 +322,17 @@
     ]
   },
   {
-    "id": "sport:playsports3:1787172900000:uf67wi",
+    "id": "sport:playsports3:1787165400000:1xivszf",
     "externalId": null,
-    "title": "Hamburg: Finale heren",
+    "title": "UEFA Champions League",
     "home": null,
     "away": null,
-    "competition": null,
-    "sport": "Volleybal",
-    "start": 1787172900000,
-    "end": 1787176500000,
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1787165400000,
+    "end": 1787172900000,
     "status": "aankomend",
-    "description": "Professionele teams nemen het tegen elkaar op tijdens een prestigieus beachvolleybalkampioenschap in een poging om als winnaar uit de bus te komen en de felbegeerde titel te winnen.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1787176500000:uf67wi",
-    "externalId": null,
-    "title": "Hamburg: Finale dames",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Volleybal",
-    "start": 1787176500000,
-    "end": 1787180100000,
-    "status": "aankomend",
-    "description": "Professionele teams nemen het tegen elkaar op tijdens een prestigieus beachvolleybalkampioenschap in een poging om als winnaar uit de bus te komen en de felbegeerde titel te winnen.",
+    "description": "Samenvattingen en hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1518,6 +1495,52 @@
     ]
   },
   {
+    "id": "sport:match:1787172900000:een nieuw premier league-seizoen",
+    "externalId": null,
+    "title": "Een nieuw Premier League-seizoen",
+    "home": "Een nieuw Premier League",
+    "away": "seizoen",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1787172900000,
+    "end": 1787175600000,
+    "status": "aankomend",
+    "description": "Commentatoren en (oud-)profsporters ploffen neer aan onze tafel voor een rondje 'eens of oneens'.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1787175600000:excelsior - psv",
+    "externalId": null,
+    "title": "Excelsior - PSV",
+    "home": "Excelsior",
+    "away": "PSV",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1787175600000,
+    "end": 1787181900000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Excelsior - PSV uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:match:1787094840000:gp van groot-brittannie: race",
     "externalId": null,
     "title": "GP van Groot-Brittannië: Race",
@@ -1529,6 +1552,29 @@
     "end": 1787098740000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Groot-Brittannië, gereden in Silverstone, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1787165400000:slovan bratislava - celje",
+    "externalId": null,
+    "title": "Slovan Bratislava - Celje",
+    "home": "Slovan Bratislava",
+    "away": "Celje",
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1787165400000,
+    "end": 1787172900000,
+    "status": "aankomend",
+    "description": "Verslag van de heenwedstrijd Slovan Bratislava - Celje, gespeeld in de play-off ronde van de UEFA Champions League.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"

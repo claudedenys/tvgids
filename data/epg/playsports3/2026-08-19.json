@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports3:1787100180000:xykime",
+    "id": "playsports3:1787099520000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1787100180000,
+    "start": 1787099520000,
     "end": 1787115300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -302,7 +302,7 @@
     "channel": "playsports3",
     "title": "Geen uitzending",
     "start": 1787157120000,
-    "end": 1787172900000,
+    "end": 1787165400000,
     "description": null,
     "category": [],
     "image": null,
@@ -322,63 +322,93 @@
     }
   },
   {
-    "id": "playsports3:1787172900000:uf67wi",
+    "id": "playsports3:1787165400000:1xivszf",
     "channel": "playsports3",
-    "title": "Beachvolleybal",
-    "start": 1787172900000,
-    "end": 1787176500000,
-    "description": "Professionele teams nemen het tegen elkaar op tijdens een prestigieus beachvolleybalkampioenschap in een poging om als winnaar uit de bus te komen en de felbegeerde titel te winnen.",
+    "title": "UEFA Champions League",
+    "start": 1787165400000,
+    "end": 1787172900000,
+    "description": "Samenvattingen en hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.",
     "category": [
       "Sport",
-      "Beachvolleybal"
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33829802~~2FEP036051160093%2Cimi%3Ab77a954d73cc4084e1fee3984b6b53864df7be7d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F519455~~2FSH035820350000~~2F527737102%2Cimi%3A4bfe5aeef40759465e34d4812f3e864535ec021a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 51160000,
-    "episode": 2026081993,
+    "season": 20350000,
+    "episode": 527737102,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33829802~~2FEP036051160093,imi:b77a954d73cc4084e1fee3984b6b53864df7be7d",
-      "episodeName": "Hamburg: Finale heren",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F519455~~2FSH035820350000~~2F527737102,imi:4bfe5aeef40759465e34d4812f3e864535ec021a",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Beachvolleybal"
+        "Voetbal"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589882~~2FSH036051160000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F519455~~2FSH035820350000"
     }
   },
   {
-    "id": "playsports3:1787176500000:uf67wi",
+    "id": "playsports3:1787172900000:1k3q69q",
     "channel": "playsports3",
-    "title": "Beachvolleybal",
-    "start": 1787176500000,
-    "end": 1787180100000,
-    "description": "Professionele teams nemen het tegen elkaar op tijdens een prestigieus beachvolleybalkampioenschap in een poging om als winnaar uit de bus te komen en de felbegeerde titel te winnen.",
+    "title": "(On)eens",
+    "start": 1787172900000,
+    "end": 1787175600000,
+    "description": "Commentatoren en (oud-)profsporters ploffen neer aan onze tafel voor een rondje 'eens of oneens'.",
     "category": [
       "Sport",
-      "Beachvolleybal"
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33829854~~2FEP036051160095%2Cimi%3A7e7958861131c1e36f325defe73bf763546c0835/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016%2Cimi%3A5fdcc8c73e73a2f1c12e167ddd35a64c998c5669/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 51160000,
-    "episode": 2026081995,
+    "season": 2,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33829854~~2FEP036051160095,imi:7e7958861131c1e36f325defe73bf763546c0835",
-      "episodeName": "Hamburg: Finale dames",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016,imi:5fdcc8c73e73a2f1c12e167ddd35a64c998c5669",
+      "episodeName": "Een nieuw Premier League-seizoen",
       "genres": [
         "Sport",
-        "Beachvolleybal"
+        "Voetbal"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589882~~2FSH036051160000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24064241~~2FSH046502810000"
+    }
+  },
+  {
+    "id": "playsports3:1787175600000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787175600000,
+    "end": 1787181900000,
+    "description": "Verslag van de wedstrijd Excelsior - PSV uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956%2Cimi%3Aa5ea96dba9ab6b418535d2e884f44a44edf63cad/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026081556,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956,imi:a5ea96dba9ab6b418535d2e884f44a44edf63cad",
+      "episodeName": "Excelsior - PSV",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   }
 ]

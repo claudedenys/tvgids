@@ -382,27 +382,33 @@
     }
   },
   {
-    "id": "playsports4:1787165400000:48zb9",
+    "id": "playsports4:1787165400000:1xivszf",
     "channel": "playsports4",
-    "title": "Geen uitzending",
+    "title": "UEFA Champions League",
     "start": 1787165400000,
     "end": 1787172900000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Verslag van de heenwedstrijd Slovan Bratislava - Celje, gespeeld in de play-off ronde van de UEFA Champions League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33454275~~2FEP021727851355%2Cimi%3Aeb0b753c8b0da697f3deddd987f65b21e45c2f61/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 27850000,
+    "episode": 2026081955,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:283d355523e904da75c2818a9af716577f6aaa2e",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33454275~~2FEP021727851355,imi:eb0b753c8b0da697f3deddd987f65b21e45c2f61",
+      "episodeName": "Slovan Bratislava - Celje",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc467eede-e003-4905-a1f6-2c15a4b14182"
     }
   },
   {

@@ -1,51 +1,10 @@
 [
   {
-    "id": "rtl4:1786914720000:1d1jxkf",
-    "channel": "rtl4",
-    "title": "Vals spel",
-    "start": 1786914720000,
-    "end": 1786918380000,
-    "description": "Het spel wordt nog harder nu de eindstrijd in Vals Spel in zicht komt.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/vals-spel-753611332.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "tip"
-      ]
-    }
-  },
-  {
-    "id": "rtl4:1786918380000:1d1jxkf",
-    "channel": "rtl4",
-    "title": "Vals spel",
-    "start": 1786918380000,
-    "end": 1786922040000,
-    "description": "Tien bekende deelnemers gaan een strategische strijd met elkaar aan waarbij op onverwachte momenten iemand wordt...",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/vals-spel-751007902.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
-    "id": "rtl4:1786922040000:1v43lh7",
+    "id": "rtl4:1787261400000:1v43lh7",
     "channel": "rtl4",
     "title": "RTL Boulevard",
-    "start": 1786922040000,
-    "end": 1786924380000,
+    "start": 1787261400000,
+    "end": 1787264100000,
     "description": "Dagelijkse mix van actualiteiten, vermaak en opinies met een of twee deskundigen, gasten of andere nieuwsmakers.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-boulevard-750744022.jpg",
@@ -63,14 +22,14 @@
     }
   },
   {
-    "id": "rtl4:1786924380000:1avzef3",
+    "id": "rtl4:1787264100000:1mq7lcb",
     "channel": "rtl4",
-    "title": "Teleshop 4: Tommy teleshopping",
-    "start": 1786924380000,
-    "end": 1786924980000,
-    "description": "Homeshoppingprogramma.",
+    "title": "Nederland met vakantie",
+    "start": 1787264100000,
+    "end": 1787267100000,
+    "description": "Programma waarin dagelijks gevolgd wordt hoe Nederland de zomer beleeft: van files en campings tot strand, festivals...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-4-tommy-teleshopping-760631072.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nederland-met-vakantie-753957332.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -85,11 +44,35 @@
     }
   },
   {
-    "id": "rtl4:1786924920000:1avzef3",
+    "id": "rtl4:1787267100000:1hhn3jn",
+    "channel": "rtl4",
+    "title": "EditieNL",
+    "start": 1787267100000,
+    "end": 1787268300000,
+    "description": "Nieuwsprogramma met aandacht voor achtergronden bij het binnenlands nieuws en onderwerpen die meestal niet in de...",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/editienl-755435512.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "rtl4:1787268300000:1avzef3",
     "channel": "rtl4",
     "title": "Teleshop 4: Tommy teleshopping",
-    "start": 1786924920000,
-    "end": 1786939200000,
+    "start": 1787268300000,
+    "end": 1787271000000,
     "description": "Homeshoppingprogramma.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-4-tommy-teleshopping-758245032.jpg",
@@ -107,16 +90,38 @@
     }
   },
   {
-    "id": "rtl4:1786940040000:1hhn3jn",
+    "id": "rtl4:1787271000000:1avzef3",
+    "channel": "rtl4",
+    "title": "Teleshop 4: Tommy teleshopping",
+    "start": 1787271000000,
+    "end": 1787284800000,
+    "description": "Homeshoppingprogramma.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-4-tommy-teleshopping-758245032.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl4:1787285700000:1hhn3jn",
     "channel": "rtl4",
     "title": "EditieNL",
-    "start": 1786940040000,
-    "end": 1786941000000,
+    "start": 1787285700000,
+    "end": 1787286600000,
     "description": "Nieuwsprogramma met aandacht voor achtergronden bij het binnenlands nieuws en onderwerpen die meestal niet in de...",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/editienl-754003332.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/editienl-756408462.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -131,16 +136,16 @@
     }
   },
   {
-    "id": "rtl4:1786941000000:8caatu",
+    "id": "rtl4:1787286600000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786941000000,
-    "end": 1786941360000,
+    "start": 1787286600000,
+    "end": 1787286900000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -155,16 +160,16 @@
     }
   },
   {
-    "id": "rtl4:1786941360000:146wvl6",
+    "id": "rtl4:1787286900000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786941360000,
-    "end": 1786941900000,
+    "start": 1787286900000,
+    "end": 1787287500000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -179,16 +184,16 @@
     }
   },
   {
-    "id": "rtl4:1786941900000:8caatu",
+    "id": "rtl4:1787287500000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786941900000,
-    "end": 1786942320000,
+    "start": 1787287500000,
+    "end": 1787287800000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -204,16 +209,16 @@
     }
   },
   {
-    "id": "rtl4:1786942320000:146wvl6",
+    "id": "rtl4:1787287800000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786942320000,
-    "end": 1786942800000,
+    "start": 1787287800000,
+    "end": 1787288400000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": null,
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -229,16 +234,16 @@
     }
   },
   {
-    "id": "rtl4:1786942800000:8caatu",
+    "id": "rtl4:1787288400000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786942800000,
-    "end": 1786943400000,
+    "start": 1787288400000,
+    "end": 1787289000000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -253,16 +258,16 @@
     }
   },
   {
-    "id": "rtl4:1786943400000:146wvl6",
+    "id": "rtl4:1787289000000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786943400000,
-    "end": 1786943700000,
+    "start": 1787289000000,
+    "end": 1787289300000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -277,16 +282,16 @@
     }
   },
   {
-    "id": "rtl4:1786943700000:8caatu",
+    "id": "rtl4:1787289300000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786943700000,
-    "end": 1786944300000,
+    "start": 1787289300000,
+    "end": 1787289900000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -301,16 +306,16 @@
     }
   },
   {
-    "id": "rtl4:1786944300000:146wvl6",
+    "id": "rtl4:1787289900000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786944300000,
-    "end": 1786944600000,
+    "start": 1787289900000,
+    "end": 1787290200000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -325,16 +330,16 @@
     }
   },
   {
-    "id": "rtl4:1786944600000:8caatu",
+    "id": "rtl4:1787290200000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786944600000,
-    "end": 1786945200000,
+    "start": 1787290200000,
+    "end": 1787290800000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -350,16 +355,16 @@
     }
   },
   {
-    "id": "rtl4:1786945200000:146wvl6",
+    "id": "rtl4:1787290800000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786945200000,
-    "end": 1786945500000,
+    "start": 1787290800000,
+    "end": 1787291100000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -375,16 +380,16 @@
     }
   },
   {
-    "id": "rtl4:1786945500000:8caatu",
+    "id": "rtl4:1787291100000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786945500000,
-    "end": 1786946100000,
+    "start": 1787291100000,
+    "end": 1787291700000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -400,16 +405,16 @@
     }
   },
   {
-    "id": "rtl4:1786946100000:146wvl6",
+    "id": "rtl4:1787291700000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786946100000,
-    "end": 1786946400000,
+    "start": 1787291700000,
+    "end": 1787292000000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -425,16 +430,16 @@
     }
   },
   {
-    "id": "rtl4:1786946400000:8caatu",
+    "id": "rtl4:1787292000000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786946400000,
-    "end": 1786947120000,
+    "start": 1787292000000,
+    "end": 1787292900000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -449,16 +454,16 @@
     }
   },
   {
-    "id": "rtl4:1786947120000:146wvl6",
+    "id": "rtl4:1787292900000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786947120000,
-    "end": 1786947600000,
+    "start": 1787292900000,
+    "end": 1787293200000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -473,16 +478,16 @@
     }
   },
   {
-    "id": "rtl4:1786947600000:8caatu",
+    "id": "rtl4:1787293200000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786947600000,
-    "end": 1786948320000,
+    "start": 1787293200000,
+    "end": 1787294100000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -497,16 +502,16 @@
     }
   },
   {
-    "id": "rtl4:1786948320000:146wvl6",
+    "id": "rtl4:1787294100000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786948320000,
-    "end": 1786948800000,
+    "start": 1787294100000,
+    "end": 1787294400000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -521,16 +526,16 @@
     }
   },
   {
-    "id": "rtl4:1786948800000:8caatu",
+    "id": "rtl4:1787294400000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786948800000,
-    "end": 1786949520000,
+    "start": 1787294400000,
+    "end": 1787295300000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -546,16 +551,16 @@
     }
   },
   {
-    "id": "rtl4:1786949520000:146wvl6",
+    "id": "rtl4:1787295300000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786949520000,
-    "end": 1786950000000,
+    "start": 1787295300000,
+    "end": 1787295600000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -571,16 +576,16 @@
     }
   },
   {
-    "id": "rtl4:1786950000000:8caatu",
+    "id": "rtl4:1787295600000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786950000000,
-    "end": 1786951200000,
+    "start": 1787295600000,
+    "end": 1787296800000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -595,16 +600,16 @@
     }
   },
   {
-    "id": "rtl4:1786951200000:146wvl6",
+    "id": "rtl4:1787296800000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786951200000,
-    "end": 1786951800000,
+    "start": 1787296800000,
+    "end": 1787297400000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -619,16 +624,16 @@
     }
   },
   {
-    "id": "rtl4:1786951800000:8caatu",
+    "id": "rtl4:1787297400000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786951800000,
-    "end": 1786953000000,
+    "start": 1787297400000,
+    "end": 1787298600000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -644,16 +649,16 @@
     }
   },
   {
-    "id": "rtl4:1786953000000:146wvl6",
+    "id": "rtl4:1787298600000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786953000000,
-    "end": 1786953540000,
+    "start": 1787298600000,
+    "end": 1787299200000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -669,14 +674,14 @@
     }
   },
   {
-    "id": "rtl4:1786953540000:1v43lh7",
+    "id": "rtl4:1787299200000:1v43lh7",
     "channel": "rtl4",
     "title": "RTL Boulevard",
-    "start": 1786953540000,
-    "end": 1786956240000,
+    "start": 1787299200000,
+    "end": 1787301900000,
     "description": "Dagelijkse mix van actualiteiten, vermaak en opinies met een of twee deskundigen, gasten of andere nieuwsmakers.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-boulevard-750744022.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-boulevard-755791492.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -691,11 +696,11 @@
     }
   },
   {
-    "id": "rtl4:1786956240000:6lf4f2",
+    "id": "rtl4:1787301900000:6lf4f2",
     "channel": "rtl4",
     "title": "Eigen huis & tuin: Lekker leven",
-    "start": 1786956240000,
-    "end": 1786959660000,
+    "start": 1787301900000,
+    "end": 1787305500000,
     "description": "Dagelijkse inspiratie voor in en om het huis.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/eigen-huis-tuin-lekker-leven-753958292.jpg",
@@ -713,11 +718,11 @@
     }
   },
   {
-    "id": "rtl4:1786959660000:uc3zmk",
+    "id": "rtl4:1787305500000:uc3zmk",
     "channel": "rtl4",
     "title": "Ik weet er alles van!",
-    "start": 1786959660000,
-    "end": 1786963080000,
+    "start": 1787305500000,
+    "end": 1787309100000,
     "description": "Quiz waarin zes kandidaten, ieder met een eigen specialisme, een week lang proberen een groot geldbedrag te winnen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/i/carrousel/ik-weet-er-alles-van-751392152.jpg",
@@ -735,14 +740,14 @@
     }
   },
   {
-    "id": "rtl4:1786963080000:ql0xto",
+    "id": "rtl4:1787309100000:ql0xto",
     "channel": "rtl4",
     "title": "The bold and the beautiful",
-    "start": 1786963080000,
-    "end": 1786965840000,
-    "description": "Deke vertelt Remy dat hij nog niet klaar is om hem een nieuwe kans te geven.",
+    "start": 1787309100000,
+    "end": 1787311200000,
+    "description": "Finn wordt verrast door een onverwachte bezoeker.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/the-bold-and-the-beautiful-754102372.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/the-bold-and-the-beautiful-755909572.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -757,14 +762,14 @@
     }
   },
   {
-    "id": "rtl4:1786965840000:qpixbd",
+    "id": "rtl4:1787311200000:1nla7u1",
     "channel": "rtl4",
-    "title": "Love At Sea",
-    "start": 1786965840000,
-    "end": 1786974000000,
-    "description": "Eventplanner Olivia mag een groot ?",
+    "title": "Love In the Sun",
+    "start": 1787311200000,
+    "end": 1787319600000,
+    "description": "Een succesvolle ontwikkelaar van een datingapp heeft zich verloofd en keert terug naar haar geboorteplaats in Florida...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/love-at-sea-753958322.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/love-in-the-sun-755791792.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -776,11 +781,11 @@
     }
   },
   {
-    "id": "rtl4:1786974000000:1mq7lcb",
+    "id": "rtl4:1787319600000:1mq7lcb",
     "channel": "rtl4",
     "title": "Nederland met vakantie",
-    "start": 1786974000000,
-    "end": 1786976460000,
+    "start": 1787319600000,
+    "end": 1787322600000,
     "description": "Programma waarin dagelijks gevolgd wordt hoe Nederland de zomer beleeft: van files en campings tot strand, festivals...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nederland-met-vakantie-753957332.jpg",
@@ -798,14 +803,14 @@
     }
   },
   {
-    "id": "rtl4:1786976460000:10f5ucr",
+    "id": "rtl4:1787322600000:16j7vt5",
     "channel": "rtl4",
-    "title": "Oh, wat een jaar!",
-    "start": 1786976460000,
-    "end": 1786982400000,
-    "description": "Chantal, Ruben en Gerard gaan terug naar 1990.",
+    "title": "B&B vol liefde",
+    "start": 1787322600000,
+    "end": 1787328000000,
+    "description": "Thomas krijgt in Dénia bezoek van nieuwkomer Lynn terwijl de band met Mexx steeds hechter lijkt te worden.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/oh-wat-een-jaar-753958232.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/b-b-vol-liefde-754355782.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -820,16 +825,16 @@
     }
   },
   {
-    "id": "rtl4:1786982400000:8caatu",
+    "id": "rtl4:1787328000000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786982400000,
-    "end": 1786983360000,
+    "start": 1787328000000,
+    "end": 1787328900000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -844,16 +849,16 @@
     }
   },
   {
-    "id": "rtl4:1786983360000:1hhn3jn",
+    "id": "rtl4:1787328900000:1hhn3jn",
     "channel": "rtl4",
     "title": "EditieNL",
-    "start": 1786983360000,
-    "end": 1786984380000,
+    "start": 1787328900000,
+    "end": 1787329800000,
     "description": "Nieuwsprogramma met aandacht voor achtergronden bij het binnenlands nieuws en onderwerpen die meestal niet in de...",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/editienl-754003332.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/editienl-756408462.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -868,16 +873,16 @@
     }
   },
   {
-    "id": "rtl4:1786984380000:146wvl6",
+    "id": "rtl4:1787329800000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786984380000,
-    "end": 1786984500000,
+    "start": 1787329800000,
+    "end": 1787330100000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -892,14 +897,14 @@
     }
   },
   {
-    "id": "rtl4:1786984500000:1v43lh7",
+    "id": "rtl4:1787330100000:1v43lh7",
     "channel": "rtl4",
     "title": "RTL Boulevard",
-    "start": 1786984500000,
-    "end": 1786987800000,
+    "start": 1787330100000,
+    "end": 1787333400000,
     "description": "Dagelijkse mix van actualiteiten, vermaak en opinies met een of twee deskundigen, gasten of andere nieuwsmakers.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-boulevard-750744022.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-boulevard-755791492.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -911,16 +916,16 @@
     }
   },
   {
-    "id": "rtl4:1786987800000:8caatu",
+    "id": "rtl4:1787333400000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1786987800000,
-    "end": 1786989420000,
+    "start": 1787333400000,
+    "end": 1787334900000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -935,16 +940,16 @@
     }
   },
   {
-    "id": "rtl4:1786989420000:146wvl6",
+    "id": "rtl4:1787334900000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1786989420000,
-    "end": 1786989660000,
+    "start": 1787334900000,
+    "end": 1787335200000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -959,11 +964,11 @@
     }
   },
   {
-    "id": "rtl4:1786989660000:uc3zmk",
+    "id": "rtl4:1787335200000:uc3zmk",
     "channel": "rtl4",
     "title": "Ik weet er alles van!",
-    "start": 1786989660000,
-    "end": 1786992780000,
+    "start": 1787335200000,
+    "end": 1787338500000,
     "description": "Quiz waarin zes kandidaten, ieder met een eigen specialisme, een week lang proberen een groot geldbedrag te winnen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/i/carrousel/ik-weet-er-alles-van-751392152.jpg",
@@ -978,14 +983,14 @@
     }
   },
   {
-    "id": "rtl4:1786992780000:16j7vt5",
+    "id": "rtl4:1787338500000:1kpe8ls",
     "channel": "rtl4",
-    "title": "B&B vol liefde",
-    "start": 1786992780000,
-    "end": 1786998000000,
-    "description": "Een flamboyante vrouw in een bloemetjesjurk die samen met hem zijn B&B's op Bonaire wil runnen, dat is Freds...",
+    "title": "Secret duets",
+    "start": 1787338500000,
+    "end": 1787343600000,
+    "description": "Muzikale spelshow waarin vier bekende artiesten klaarstaan om een duet te zingen met een bekende Nederlander, maar ze...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/b-b-vol-liefde-753957392.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/secret-duets-755791732.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -995,16 +1000,16 @@
     "meta": {
       "labels": [
         "program",
-        "tip"
+        "rerun"
       ]
     }
   },
   {
-    "id": "rtl4:1786998000000:1mq7lcb",
+    "id": "rtl4:1787343600000:1mq7lcb",
     "channel": "rtl4",
     "title": "Nederland met vakantie",
-    "start": 1786998000000,
-    "end": 1787000820000,
+    "start": 1787343600000,
+    "end": 1787346600000,
     "description": "Programma waarin dagelijks gevolgd wordt hoe Nederland de zomer beleeft: van files en campings tot strand, festivals...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nederland-met-vakantie-753957332.jpg",
@@ -1019,16 +1024,16 @@
     }
   },
   {
-    "id": "rtl4:1787000820000:8caatu",
+    "id": "rtl4:1787346600000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1787000820000,
-    "end": 1787001660000,
+    "start": 1787346600000,
+    "end": 1787347500000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-754332622.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-nieuws-756081992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1043,16 +1048,16 @@
     }
   },
   {
-    "id": "rtl4:1787001660000:146wvl6",
+    "id": "rtl4:1787347500000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1787001660000,
-    "end": 1787001900000,
+    "start": 1787347500000,
+    "end": 1787347800000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-755435812.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-756408912.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1067,14 +1072,14 @@
     }
   },
   {
-    "id": "rtl4:1787001900000:1v43lh7",
+    "id": "rtl4:1787347800000:1v43lh7",
     "channel": "rtl4",
     "title": "RTL Boulevard",
-    "start": 1787001900000,
-    "end": 1787004600000,
+    "start": 1787347800000,
+    "end": 1787350500000,
     "description": "Dagelijkse mix van actualiteiten, vermaak en opinies met een of twee deskundigen, gasten of andere nieuwsmakers.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-boulevard-750744022.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-boulevard-755791492.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

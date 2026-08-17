@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1787180100000:1va4v2m",
+    "id": "playsports3:1787181900000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787180100000,
-    "end": 1787186460000,
+    "start": 1787181900000,
+    "end": 1787188380000,
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -27,34 +27,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1787186460000:xykime",
-    "channel": "playsports3",
-    "title": "Play Sports",
-    "start": 1787186460000,
-    "end": 1787202000000,
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ad0b5541f037785cbd60f8b61cc6a9140d420f684/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:d0b5541f037785cbd60f8b61cc6a9140d420f684",
-      "episodeName": null,
-      "genres": [
-        "Sport"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {
@@ -258,36 +230,6 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33557382~~2FEP035850991960,imi:73eebacf29306787f06183a2fb5971222d61ec39",
       "episodeName": "Feyenoord - Go Ahead Eagles",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1787236200000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1787236200000,
-    "end": 1787236920000,
-    "description": "Verslag van de wedstrijd Excelsior - PSV uit de 2e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956%2Cimi%3Aa5ea96dba9ab6b418535d2e884f44a44edf63cad/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026081556,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956,imi:a5ea96dba9ab6b418535d2e884f44a44edf63cad",
-      "episodeName": "Excelsior - PSV",
       "genres": [
         "Sport",
         "Voetbal"
