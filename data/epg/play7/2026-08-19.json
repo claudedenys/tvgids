@@ -1,9 +1,37 @@
 [
   {
-    "id": "play7:1787097600000:anhdp4",
+    "id": "play7:1787095800000:anhdp4",
     "channel": "play7",
     "title": "First on Scene",
-    "start": 1787097600000,
+    "start": 1787095800000,
+    "end": 1787097900000,
+    "description": "Tijdens een routineklus komen de brandweermannen plotseling in levensgevaar door een explosie.",
+    "category": [
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26437663~~2FEP049807360011%2Cimi%3Ab65128a29735df778087d51fb7116bce5e53f44f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 11,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26437663~~2FEP049807360011,imi:b65128a29735df778087d51fb7116bce5e53f44f",
+      "episodeName": "Aflevering 11",
+      "genres": [
+        "Docu"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25277573~~2FSH049807360000"
+    }
+  },
+  {
+    "id": "play7:1787097900000:anhdp4",
+    "channel": "play7",
+    "title": "First on Scene",
+    "start": 1787097900000,
     "end": 1787099400000,
     "description": "Een man zit bijna twaalf meter onder de grond vast in een verlaten raketbasis.",
     "category": [
@@ -32,7 +60,7 @@
     "channel": "play7",
     "title": "Geen uitzending",
     "start": 1787099400000,
-    "end": 1787108400000,
+    "end": 1787107800000,
     "description": null,
     "category": [],
     "image": null,
@@ -44,6 +72,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:dc1d453cc9073b9d3517657ea37dece0e90c461a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1787107800000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1787107800000,
+    "end": 1787108400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0513117ec77fdf8ad481222f4f0a4f86284bd38c",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

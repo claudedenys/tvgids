@@ -258,7 +258,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1787200500000,
-    "end": 1787201100000,
+    "end": 1787200800000,
     "description": "Dropje ontmoet een jongetje dat veel liever piano speelt dan voetbalt met zijn vader.",
     "category": [
       "Kids",
@@ -284,11 +284,11 @@
     }
   },
   {
-    "id": "ketnet:1787201100000:dvn84u",
+    "id": "ketnet:1787200800000:dvn84u",
     "channel": "ketnet",
     "title": "Sarah knutselt",
-    "start": 1787201100000,
-    "end": 1787201400000,
+    "start": 1787200800000,
+    "end": 1787201100000,
     "description": "Sarah knutselt samen met haar vriendjes de leukste knutselwerkjes.",
     "category": [
       "Kids",
@@ -314,11 +314,11 @@
     }
   },
   {
-    "id": "ketnet:1787201400000:ykedwl",
+    "id": "ketnet:1787201100000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1787201400000,
-    "end": 1787202000000,
+    "start": 1787201100000,
+    "end": 1787201700000,
     "description": "Bing en Pando experimenteren met Bings speelgoedtrein op het klimtoestel in de speeltuin. De trein kan heel goed over bruggen rijden en doet het uitstekend op de glijbaan. Maar als Bing de trein van het dakje van het klimtoestel af laat rijden, valt de trein kapot. Bing is verdrietig totdat hij zich realiseert dat de stukjes ook op een andere manier in elkaar passen en vervolgens een geheel ander object vormen.",
     "category": [
       "Kids",
@@ -344,11 +344,11 @@
     }
   },
   {
-    "id": "ketnet:1787202000000:1ysf81w",
+    "id": "ketnet:1787201700000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1787202000000,
-    "end": 1787202600000,
+    "start": 1787201700000,
+    "end": 1787202300000,
     "description": "Dot wil het verjaardagscadeautje van oma Nan te vroeg openen. Mojo en Bo doen er alles aan om het pakje veilig te bewaren tot het feest begint.",
     "category": [
       "Kids",
@@ -374,11 +374,11 @@
     }
   },
   {
-    "id": "ketnet:1787202600000:1yt1qve",
+    "id": "ketnet:1787202300000:1yt1qve",
     "channel": "ketnet",
     "title": "Sarah: Sokpop en de klanken",
-    "start": 1787202600000,
-    "end": 1787202900000,
+    "start": 1787202300000,
+    "end": 1787202600000,
     "description": "Sarah en Sokpop ontdekken de wereld van de klanken. Doen jullie mee?",
     "category": [
       "Educatie"
@@ -402,11 +402,11 @@
     }
   },
   {
-    "id": "ketnet:1787202900000:ne1xug",
+    "id": "ketnet:1787202600000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1787202900000,
-    "end": 1787203500000,
+    "start": 1787202600000,
+    "end": 1787203200000,
     "description": "Katty wilt weten hoe het voelt om overal naartoe te stuiteren, net als Sacha. De Biggenbouwers bouwen speciaal voor haar een eierbuggy. Wilf laat het echter op hol slaan en de biggen moeten alles eraan doen om de buggy te stoppen.",
     "category": [
       "Kids",
@@ -429,6 +429,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1787203200000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1787203200000,
+    "end": 1787203500000,
+    "description": "Samson en Marie willen vogels spotten. Ze hebben nog geen enkele vogel kunnen zien. Ze hebben een plan om de vogels naar hen te lokken. Ze hangen hun busje vol vogelhuisjes. Nu is het wachten. Lang wachten.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19556492~~2FEP036193980061%2Cimi%3A459aa807113f91e83a6c54c42ab69c41f0aa1d33/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 60,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19556492~~2FEP036193980061,imi:459aa807113f91e83a6c54c42ab69c41f0aa1d33",
+      "episodeName": "Vogelspotten",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -702,7 +732,7 @@
     "channel": "ketnet",
     "title": "De Smurfen",
     "start": 1787213400000,
-    "end": 1787214000000,
+    "end": 1787213940000,
     "description": "Het weer is chaotisch, omdat Blaadje ziek is. De Smurfen zoeken een manier om haar te genezen, terwijl Gargamel de kans aangrijpt en een plan smeedt om Blaadjes toverstok te stelen.",
     "category": [
       "Kids",
@@ -728,10 +758,40 @@
     }
   },
   {
-    "id": "ketnet:1787214000000:p8c4k7",
+    "id": "ketnet:1787213940000:usts0h",
+    "channel": "ketnet",
+    "title": "Videoclips #likeme",
+    "start": 1787213940000,
+    "end": 1787214300000,
+    "description": "Videoclips uit de Vlaamse fictiereeks '#LikeMe'.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33850446~~2FEP056506200048%2Cimi%3Ad2ed058206df7d71c8c3026c8a7b8e8eb9cba363/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 8,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33850446~~2FEP056506200048,imi:d2ed058206df7d71c8c3026c8a7b8e8eb9cba363",
+      "episodeName": "Madammen met een bontjas",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
+    }
+  },
+  {
+    "id": "ketnet:1787214300000:p8c4k7",
     "channel": "ketnet",
     "title": "Grizzy & the Lemmings",
-    "start": 1787214000000,
+    "start": 1787214300000,
     "end": 1787214600000,
     "description": "Grizzly die terugkeert van een visreis, brengt onbewust een elektrode mee die een robot kan besturen. De gadget vervult elke behoefte van de beer, maar de jaloerse Lemmingen willen het voor zichzelf.",
     "category": [
@@ -1030,7 +1090,7 @@
     "channel": "ketnet",
     "title": "Vos en Haas",
     "start": 1787217900000,
-    "end": 1787218500000,
+    "end": 1787218800000,
     "description": "Vos merkt op dat Uil verdrietig en verveeld is. Hij besluit hem op te vrolijken door een nieuwe feestdag uit te vinden: vrolijke gezichtendag. De voorbereidingen voor het feest beginnen direct.",
     "category": [
       "Kids",
@@ -1053,36 +1113,6 @@
       "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0b48fff3-2f6c-43cb-b4c5-3f982cd324fa"
-    }
-  },
-  {
-    "id": "ketnet:1787218500000:1djaw1n",
-    "channel": "ketnet",
-    "title": "Yetili vertelt",
-    "start": 1787218500000,
-    "end": 1787218800000,
-    "description": "Nina en Leon maken dieren met klei. Leon heeft de heldin van vandaag gemaakt en daarmee ook het verhaal. Deze gaat over Martha die treinreizen niet leuk vindt. Ze houdt van racefietsen, ballonvaarten maken en reisjes met een onderzeeër.",
-    "category": [
-      "Kids",
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15687728~~2FEP034525560028%2Cimi%3A0880b15f1f045963af13a03df830a65048f794da/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 32,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15687728~~2FEP034525560028,imi:0880b15f1f045963af13a03df830a65048f794da",
-      "episodeName": "Martha komt naar huis",
-      "genres": [
-        "Kids",
-        "Comedy"
-      ],
-      "productionDate": "2017",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13576269~~2FSH034525560000"
     }
   },
   {
@@ -1687,7 +1717,7 @@
     "title": "Charlie",
     "start": 1787229300000,
     "end": 1787229600000,
-    "description": "Charlie logeert bij oma terwijl zijn ouders op reis zijn. Maar als zijn favoriete deken nergens te vinden is, zet hij samen met Monica een mysterieuze schattenjacht op. De avond verandert in een feestelijk avontuur en net als de slaap toeslaat.",
+    "description": "Charlie logeert bij oma terwijl zijn ouders op reis zijn. Maar als zijn favoriete deken nergens te vinden is, zet hij samen met Monica een mysterieuze schattenjacht op. De avond verandert in een feestelijk avontuur.",
     "category": [],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33497106~~2FEP064107460017%2Cimi%3A89164e99e70776173600b3d5f78bc3734390ea4e/posterTile",
     "icon": null,
@@ -1978,7 +2008,7 @@
     "channel": "ketnet",
     "title": "Saïd & Anna",
     "start": 1787233500000,
-    "end": 1787234100000,
+    "end": 1787233800000,
     "description": "Anna ontdekt een verdwaalde kitten in de Repair Shop. Maar als Anna aan Saïd voorstelt dat de kitten net als zijzelf kan logeren, begint hij te niezen. Dat mag nooit want hij is allergisch voor poezen. Anna laat het er niet bij zitten.",
     "category": [
       "Kids",
@@ -2001,6 +2031,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25788099~~2FSH048878860000"
+    }
+  },
+  {
+    "id": "ketnet:1787233800000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1787233800000,
+    "end": 1787234100000,
+    "description": "Samson krijgt telefoon van Van Leemhuyzen, hij vraagt of Samson naar de tijgers wil komen kijken.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19633797~~2FEP036193980070%2Cimi%3Ade1ca31a7cbcd4b6027f8af4298275afedad1455/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 70,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19633797~~2FEP036193980070,imi:de1ca31a7cbcd4b6027f8af4298275afedad1455",
+      "episodeName": "De tijgers",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -2274,7 +2334,7 @@
     "channel": "ketnet",
     "title": "United",
     "start": 1787239800000,
-    "end": 1787241000000,
+    "end": 1787241300000,
     "description": "Doelman Warre heeft nogmaals geflaterd tijdens de match. Hij voelt veel druk om de volgende match geen fouten te maken. Door de strenge aanpak van coach Kim speelt United veel beter. Voor de eerste maal geloven ze dat ze kampioen kunnen spelen. De relatie tussen Mira en Hannes komt onder druk te staan omdat ze door de voetbaltrainingen en toneellessen nog maar weinig tijd voor elkaar hebben.",
     "category": [
       "Comedy"
@@ -2295,36 +2355,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32836872~~2FSH063826810000"
-    }
-  },
-  {
-    "id": "ketnet:1787241000000:p8c4k7",
-    "channel": "ketnet",
-    "title": "Grizzy & the Lemmings",
-    "start": 1787241000000,
-    "end": 1787241300000,
-    "description": "Grizzly's droom van een vrouwelijke beer wordt plotseling onderbroken als de Lemmingen de hut binnen rennen. Ze hebben een masker gevonden dat dromen kan beheersen. Grizzly wil hem pakken om zijn droom terug te krijgen.",
-    "category": [
-      "Kids",
-      "Animatie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20717355~~2FEP041241250364%2Cimi%3A9d887bd5f86c9b5b0a34ea9d79f6f06631d0030b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 3,
-    "episode": 51,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20717355~~2FEP041241250364,imi:9d887bd5f86c9b5b0a34ea9d79f6f06631d0030b",
-      "episodeName": "Dromen zijn bedrog",
-      "genres": [
-        "Kids",
-        "Animatie"
-      ],
-      "productionDate": "2020",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {
@@ -2362,7 +2392,7 @@
     "channel": "ketnet",
     "title": "De camping",
     "start": 1787241600000,
-    "end": 1787242200000,
+    "end": 1787241840000,
     "description": "Op de camping arriveert een jongen op wie Andrine vorig jaar verliefd was geworden.",
     "category": [
       "Familie",
@@ -2385,6 +2415,36 @@
       "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25052321~~2FSH051697300000"
+    }
+  },
+  {
+    "id": "ketnet:1787241840000:usts0h",
+    "channel": "ketnet",
+    "title": "Videoclips #likeme",
+    "start": 1787241840000,
+    "end": 1787242200000,
+    "description": "Clip #LikeMe van reeks 05, aflevering 05: #Upcycling - Vrijgezel.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29787524~~2FEP056506200006%2Cimi%3A1539ec11ed0c91a471f5a6172b96355f5f86cdd5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 10,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29787524~~2FEP056506200006,imi:1539ec11ed0c91a471f5a6172b96355f5f86cdd5",
+      "episodeName": "Vrijgezel",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
     }
   },
   {
@@ -2512,7 +2572,7 @@
     "channel": "ketnet",
     "title": "#LikeMe",
     "start": 1787244600000,
-    "end": 1787246400000,
+    "end": 1787246100000,
     "description": "Wolfs annuleert de eindejaarsfuif, maar daar zijn de leerlingen het niet mee eens. Ze hopen de directeur dan ook van mening te doen veranderen. Vince stelt voor dat Caro en Emma de koppige directeur op andere gedachten proberen te brengen.",
     "category": [
       "Avontuur",
@@ -2535,6 +2595,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F12d4f139-bb21-496c-a7f4-1b3e8e5cf17d"
+    }
+  },
+  {
+    "id": "ketnet:1787246100000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1787246100000,
+    "end": 1787246400000,
+    "description": "Grizzly's droom van een vrouwelijke beer wordt plotseling onderbroken als de Lemmingen de hut binnen rennen. Ze hebben een masker gevonden dat dromen kan beheersen. Grizzly wil hem pakken om zijn droom terug te krijgen.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20717355~~2FEP041241250364%2Cimi%3A9d887bd5f86c9b5b0a34ea9d79f6f06631d0030b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 51,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20717355~~2FEP041241250364,imi:9d887bd5f86c9b5b0a34ea9d79f6f06631d0030b",
+      "episodeName": "Dromen zijn bedrog",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {

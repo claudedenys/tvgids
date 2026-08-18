@@ -1,32 +1,26 @@
 [
   {
-    "id": "playsports3:1787264100000:1va4v2m",
+    "id": "playsports3:1787270280000:48zb9",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1787264100000,
+    "title": "Geen uitzending",
+    "start": 1787270280000,
     "end": 1787271300000,
-    "description": "Verslag van de wedstrijd Excelsior - PSV uit de 2e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956%2Cimi%3Aa33515dfaeb9649b94714ff2c6266ab09b1ece93/posterTile",
+    "description": null,
+    "category": [],
+    "image": null,
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026081556,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956,imi:a33515dfaeb9649b94714ff2c6266ab09b1ece93",
-      "episodeName": "Excelsior - PSV",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:64157f4dbaf8f875c1e044cae7b13ba6080475be",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

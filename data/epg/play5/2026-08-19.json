@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "How to Get Away With Murder",
     "start": 1787096700000,
-    "end": 1787100000000,
+    "end": 1787099400000,
     "description": "Een keiharde hoogleraar strafrecht daagt haar beste studenten uit om moeilijke zaken op te lossen, maar vijf van hen komen er al snel achter hoe moeilijk het is om indruk op haar te maken.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1787100000000:48zb9",
+    "id": "play5:1787099400000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1787100000000,
-    "end": 1787108400000,
+    "start": 1787099400000,
+    "end": 1787108220000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:7b6f177ffdee1232b454d6d8989a40c520917722",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1787108220000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1787108220000,
+    "end": 1787108400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e2f741293b0c1c288ba4e36a593e48d54588fc93",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
