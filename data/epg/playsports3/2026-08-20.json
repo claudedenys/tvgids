@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports3:1787181900000:1va4v2m",
+    "id": "playsports3:1787177700000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787181900000,
-    "end": 1787188380000,
+    "start": 1787177700000,
+    "end": 1787184060000,
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947%2Cimi%3A5c74e2aeebd3682cca422717b40ce2627a3f7f8c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026080847,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947,imi:5c74e2aeebd3682cca422717b40ce2627a3f7f8c",
+      "episodeName": "PSV - Fortuna Sittard",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787184060000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787184060000,
+    "end": 1787190240000,
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,10 +60,10 @@
     }
   },
   {
-    "id": "playsports3:1787188380000:xykime",
+    "id": "playsports3:1787190240000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1787188380000,
+    "start": 1787190240000,
     "end": 1787202000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -62,7 +92,7 @@
     "channel": "playsports3",
     "title": "UEFA Europa League",
     "start": 1787202000000,
-    "end": 1787208600000,
+    "end": 1787208660000,
     "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -88,10 +118,10 @@
     }
   },
   {
-    "id": "playsports3:1787208600000:1va4v2m",
+    "id": "playsports3:1787208660000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787208600000,
+    "start": 1787208660000,
     "end": 1787214900000,
     "description": "Verslag van de wedstrijd Feyenoord - Go Ahead Eagles uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -122,22 +152,22 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1787214900000,
-    "end": 1787221200000,
-    "description": "Verslag van de wedstrijd Excelsior - PSV uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "end": 1787221260000,
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956%2Cimi%3A44e2aab955806e556c69acd16a9cd82517e9cde3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947%2Cimi%3A15252cdda0f55ddf20fb1b45a6d40c1ea612c801/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 50990000,
-    "episode": 2026081556,
+    "episode": 2026080847,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956,imi:44e2aab955806e556c69acd16a9cd82517e9cde3",
-      "episodeName": "Excelsior - PSV",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947,imi:15252cdda0f55ddf20fb1b45a6d40c1ea612c801",
+      "episodeName": "PSV - Fortuna Sittard",
       "genres": [
         "Sport",
         "Voetbal"
@@ -148,10 +178,10 @@
     }
   },
   {
-    "id": "playsports3:1787221200000:1va4v2m",
+    "id": "playsports3:1787221260000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787221200000,
+    "start": 1787221260000,
     "end": 1787227500000,
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -208,100 +238,70 @@
     }
   },
   {
-    "id": "playsports3:1787234700000:1k3q69q",
+    "id": "playsports3:1787234700000:3tkxx5",
     "channel": "playsports3",
-    "title": "(On)eens",
+    "title": "MIDMID",
     "start": 1787234700000,
-    "end": 1787237400000,
-    "description": "Commentatoren en (oud-)profsporters ploffen neer aan onze tafel voor een rondje 'eens of oneens'.",
+    "end": 1787235900000,
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016%2Cimi%3Af200cfd886d388f39fd74d8852c3b4daa062f18a/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A0bcf4da7259c18380896479c4d24ea7c3fd69a45/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 2,
+    "season": 7,
     "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016,imi:f200cfd886d388f39fd74d8852c3b4daa062f18a",
-      "episodeName": "Een nieuw Premier League-seizoen",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:0bcf4da7259c18380896479c4d24ea7c3fd69a45",
+      "episodeName": "Beoordeelt de Pro League-shirts",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24064241~~2FSH046502810000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports3:1787237400000:1va4v2m",
+    "id": "playsports3:1787235900000:i67pjl",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1787237400000,
-    "end": 1787238000000,
-    "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "title": "Play Sports Highlights",
+    "start": 1787235900000,
+    "end": 1787238600000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961%2Cimi%3A7fee6ff626aa646c2f1af6a69d45989cba664f5f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F532384455%2Cimi%3A62ad593682e928f3294fbc783de0a3e86366ab24/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026081661,
+    "season": 50390000,
+    "episode": 532384455,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961,imi:7fee6ff626aa646c2f1af6a69d45989cba664f5f",
-      "episodeName": "Ajax - sc Heerenveen",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F532384455,imi:62ad593682e928f3294fbc783de0a3e86366ab24",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports3:1787238000000:1va4v2m",
+    "id": "playsports3:1787238600000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787238000000,
-    "end": 1787238540000,
-    "description": "Verslag van de wedstrijd Feyenoord - Go Ahead Eagles uit de 2e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557382~~2FEP035850991960%2Cimi%3A73eebacf29306787f06183a2fb5971222d61ec39/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026081660,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557382~~2FEP035850991960,imi:73eebacf29306787f06183a2fb5971222d61ec39",
-      "episodeName": "Feyenoord - Go Ahead Eagles",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1787238540000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1787238540000,
+    "start": 1787238600000,
     "end": 1787245200000,
     "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [

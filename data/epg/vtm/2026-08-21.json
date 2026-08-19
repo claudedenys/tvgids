@@ -1,33 +1,65 @@
 [
   {
-    "id": "vtm:1787267400000:48zb9",
+    "id": "vtm:1787268000000:iug1rc",
     "channel": "vtm",
-    "title": "Geen uitzending",
-    "start": 1787267400000,
-    "end": 1787271000000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "title": "NYPD Blue",
+    "start": 1787268000000,
+    "end": 1787270700000,
+    "description": "Simone denkt dat een jonge jongen een moord heeft bekend om iemand te beschermen.",
+    "category": [
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F1647635~~2FEP042733750063%2Cimi%3A4bafd887f5788612fc5f9bdf1c8c1827fd59ee96/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 2,
+    "episode": 7,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:fbb9ea45c904da10df73ae69c6002b41278f0c72",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F1647635~~2FEP042733750063,imi:4bafd887f5788612fc5f9bdf1c8c1827fd59ee96",
+      "episodeName": "Double Abandando",
+      "genres": [
+        "Misdaaddrama"
+      ],
+      "productionDate": "1994",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F183902~~2FSH042733750000"
     }
   },
   {
-    "id": "vtm:1787271000000:48zb9",
+    "id": "vtm:1787270700000:pwoge1",
+    "channel": "vtm",
+    "title": "Tv winkel",
+    "start": 1787270700000,
+    "end": 1787274300000,
+    "description": "Homeshoppingprogramma waarin kijkers mogen bellen om producten te bestellen.",
+    "category": [
+      "Shoppen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14991578~~2FSH028580180000~~2F531842464%2Cimi%3A2a2426255f049a71707894d7f4e1193ec1eff2c4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 80180000,
+    "episode": 531842464,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14991578~~2FSH028580180000~~2F531842464,imi:2a2426255f049a71707894d7f4e1193ec1eff2c4",
+      "episodeName": null,
+      "genres": [
+        "Shoppen"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F6b52bc58-749d-4d5b-a9d8-21638b7e3ebd"
+    }
+  },
+  {
+    "id": "vtm:1787274300000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1787271000000,
+    "start": 1787274300000,
     "end": 1787283000000,
     "description": null,
     "category": [],
@@ -1042,7 +1074,7 @@
     "channel": "vtm",
     "title": "K3 Originals: De Reünie",
     "start": 1787337300000,
-    "end": 1787341800000,
+    "end": 1787342100000,
     "description": "Herbeleef de magie van 'K3 Originals: De reünie' met K3-iconen Karen Damen, Kristel Verbeke en Kathleen Aerts. Een feestelijke en emotionele concertcaptatie vol nostalgie, glitter en hun grootste hits.",
     "category": [
       "Entertainment"
@@ -1066,41 +1098,41 @@
     }
   },
   {
-    "id": "vtm:1787341800000:uc3zmk",
+    "id": "vtm:1787342100000:9peyx7",
     "channel": "vtm",
-    "title": "Ik Weet Er Alles Van!",
-    "start": 1787341800000,
-    "end": 1787344800000,
-    "description": "Kennisquiz waarin zes deelnemers vijf dagen lang zoveel mogelijk vragen goed moeten beantwoorden. Elke deelnemer heeft zijn of haar specialisme, maar naast feitenkennis speelt ook mensenkennis een rol. De winnaar kan een groot geldbedrag winnen.",
+    "title": "K3 Originals",
+    "start": 1787342100000,
+    "end": 1787346000000,
+    "description": "Voor het eerst in jaren staan Karen, Kristel en Kathleen weer samen in de repetitieruimte. Kennen ze de pasjes en teksten nog? Eén blik in de spiegel tijdens de make-uptest en het is duidelijk: ze zijn opnieuw K3.",
     "category": [
-      "Spelprogramma",
-      "Entertainment"
+      "Miniserie",
+      "Docu"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33566605~~2FEP032582410288%2Cimi%3A2478809ccc9085141421ef75c92e3fb5bee87337/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31780970~~2FEP061712030001%2Cimi%3Ad1f2f11a562bf427eb2d0335d5c48dcede7a35b6/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 8,
-    "episode": 10,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33566605~~2FEP032582410288,imi:2478809ccc9085141421ef75c92e3fb5bee87337",
-      "episodeName": "Aflevering 10",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31780970~~2FEP061712030001,imi:d1f2f11a562bf427eb2d0335d5c48dcede7a35b6",
+      "episodeName": "Alles oya lélé",
       "genres": [
-        "Spelprogramma",
-        "Entertainment"
+        "Miniserie",
+        "Docu"
       ],
-      "productionDate": "2026",
+      "productionDate": "2025",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F86382093-dd0a-40c6-8bee-09cc46a83681"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31780873~~2FSH061712030000"
     }
   },
   {
-    "id": "vtm:1787344800000:1ntku2n",
+    "id": "vtm:1787346000000:1ntku2n",
     "channel": "vtm",
     "title": "Pak alles wat je kan - Een Kamping Kitsch Club Documentaire",
-    "start": 1787344800000,
-    "end": 1787346900000,
+    "start": 1787346000000,
+    "end": 1787348100000,
     "description": "De grote dag is aangebroken voor Linda, Joeri, Mel en Den. Kamping Kitsch Club barst los. Linda bijt de spits af en doet de Slagertente op zijn grondvesten daveren. Later die dag gaat haar grote droom in vervulling, wat menig Kamping Kitsch Club-fan niet onberoerd laat.",
     "category": [
       "Docu"
@@ -1124,33 +1156,33 @@
     }
   },
   {
-    "id": "vtm:1787346900000:1bpb4o3",
+    "id": "vtm:1787348100000:uc3zmk",
     "channel": "vtm",
-    "title": "Chicago P.D.",
-    "start": 1787346900000,
-    "end": 1787350500000,
-    "description": "Voight treedt als getuige op in een moordzaak tegen drugsbaron Arturo Morales. Zodra blijkt dat Morales een jurylid heeft beïnvloed, doet Voight er alles aan om het recht te laten zegevieren.",
+    "title": "Ik Weet Er Alles Van!",
+    "start": 1787348100000,
+    "end": 1787351100000,
+    "description": "Kennisquiz waarin zes deelnemers vijf dagen lang zoveel mogelijk vragen goed moeten beantwoorden. Elke deelnemer heeft zijn of haar specialisme, maar naast feitenkennis speelt ook mensenkennis een rol. De winnaar kan een groot geldbedrag winnen.",
     "category": [
-      "Misdaaddrama",
-      "Actie"
+      "Spelprogramma",
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24230174~~2FEP029012480204%2Cimi%3Ab10a89b9bc3709409b0c966a9402ef212cbfcf92/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33566605~~2FEP032582410288%2Cimi%3A2478809ccc9085141421ef75c92e3fb5bee87337/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 10,
-    "episode": 16,
+    "season": 8,
+    "episode": 10,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24230174~~2FEP029012480204,imi:b10a89b9bc3709409b0c966a9402ef212cbfcf92",
-      "episodeName": "Deadlocked",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33566605~~2FEP032582410288,imi:2478809ccc9085141421ef75c92e3fb5bee87337",
+      "episodeName": "Aflevering 10",
       "genres": [
-        "Misdaaddrama",
-        "Actie"
+        "Spelprogramma",
+        "Entertainment"
       ],
-      "productionDate": "2022",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2fcb7184-31df-43da-8953-ee7dc0807abd"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F86382093-dd0a-40c6-8bee-09cc46a83681"
     }
   }
 ]

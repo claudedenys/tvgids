@@ -1,0 +1,706 @@
+[
+  {
+    "id": "npo1:1787434800000:1f18jbp",
+    "channel": "npo1",
+    "title": "Studio sport",
+    "start": 1787434800000,
+    "end": 1787436600000,
+    "description": "Met livebeelden en samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/studio-sport-753357772.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "sport"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787436600000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787436600000,
+    "end": 1787437500000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756293422.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787437500000:1p4jqfd",
+    "channel": "npo1",
+    "title": "Muziekfeest op het plein",
+    "start": 1787437500000,
+    "end": 1787440800000,
+    "description": "Het grootste muziekspektakel van het land is in Zwolle.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/muziekfeest-op-het-plein-756293602.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787440800000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787440800000,
+    "end": 1787441400000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756293422.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787441400000:1byfm7j",
+    "channel": "npo1",
+    "title": "EenVandaag",
+    "start": 1787441400000,
+    "end": 1787443200000,
+    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/eenvandaag-756293112.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787443200000:1ebhvrh",
+    "channel": "npo1",
+    "title": "NOS Journaal met gebarentaal",
+    "start": 1787443200000,
+    "end": 1787444400000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-met-gebarentaal-757021082.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787444400000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787444400000,
+    "end": 1787444700000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756293422.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787444700000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787444700000,
+    "end": 1787462400000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756293422.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": true,
+    "meta": {
+      "labels": [
+        "program",
+        "live",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787462400000:1c293u9",
+    "channel": "npo1",
+    "title": "Nederland in beweging",
+    "start": 1787462400000,
+    "end": 1787463900000,
+    "description": "Beweeg mee met 'Nederland in beweging'.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nederland-in-beweging-756593822.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787463900000:1labiwm",
+    "channel": "npo1",
+    "title": "Triviant",
+    "start": 1787463900000,
+    "end": 1787466600000,
+    "description": "Vijf bekende Nederlanders nemen het tegen elkaar op.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviant-756593672.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787466600000:3nn4st",
+    "channel": "npo1",
+    "title": "Bloemencorso",
+    "start": 1787466600000,
+    "end": 1787469600000,
+    "description": "Jan Slagter doet verslag van de stoet rijkversierde praalwagens, muziekwagens, bloemenauto's en muziekkorpsen.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/bloemencorso-759649742.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787469600000:rvd9s8",
+    "channel": "npo1",
+    "title": "Van onschatbare waarde",
+    "start": 1787469600000,
+    "end": 1787472600000,
+    "description": "Verkopers van bijzondere en waardevolle spullen krijgen de kans om hun object te verkopen aan een van de vier experts.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/van-onschatbare-waarde-757716542.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787472600000:1y91lqh",
+    "channel": "npo1",
+    "title": "Bed & breakfast",
+    "start": 1787472600000,
+    "end": 1787475900000,
+    "description": "De eerste deelnemers zijn Marelva en Marjorie uit de provincie Gelderland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/bed-breakfast-753618232.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787475900000:cha5d9",
+    "channel": "npo1",
+    "title": "Zussen",
+    "start": 1787475900000,
+    "end": 1787479200000,
+    "description": "Op het dorpsfeest brengt Faya zichzelf en anderen in de problemen.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/z/carrousel/zussen-753618182.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun",
+        "audiodescription"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787479200000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787479200000,
+    "end": 1787479800000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756446152.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787479800000:11h9ymc",
+    "channel": "npo1",
+    "title": "Een buitengewoon gesprek",
+    "start": 1787479800000,
+    "end": 1787482200000,
+    "description": "Acteur Frank Lammers weet niet wat hij kan verwachten, maar algauw blijkt de groep journalisten even ontwapenend als...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-buitengewoon-gesprek-753618122.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787482200000:fmxwos",
+    "channel": "npo1",
+    "title": "Kook mee met MAX",
+    "start": 1787482200000,
+    "end": 1787483400000,
+    "description": "Wat eet ik vanavond?",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kook-mee-met-max-756594982.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787483400000:1h2jqyt",
+    "channel": "npo1",
+    "title": "Studio sport live",
+    "start": 1787483400000,
+    "end": 1787489700000,
+    "description": "Met turnen: EK in Zagreb, teamfinales; paardensport: WK in Aken, finale springen; hockey: WK in Nederland en België;...",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/studio-sport-753357772.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "sport"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787489700000:1h2jqyt",
+    "channel": "npo1",
+    "title": "Studio sport live",
+    "start": 1787489700000,
+    "end": 1787492700000,
+    "description": "Livebeelden en/of samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/studio-sport-753357772.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "sport"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787492700000:x0u9ph",
+    "channel": "npo1",
+    "title": "Studio sport live - WK hockey (v): Tweede groepsfase",
+    "start": 1787492700000,
+    "end": 1787496600000,
+    "description": "Liveverslag van het WK hockey (v) in Nederland en België.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/sporza-wk-hockey-m-belgie-frankrijk-753360212.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": true,
+    "meta": {
+      "labels": [
+        "program",
+        "live",
+        "sport"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787496600000:x0u9ph",
+    "channel": "npo1",
+    "title": "Studio sport live - WK hockey (v): Tweede groepsfase",
+    "start": 1787496600000,
+    "end": 1787500800000,
+    "description": "Verslag van het WK hockey in Nederland en België.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/sporza-wk-hockey-m-belgie-frankrijk-753360212.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": true,
+    "meta": {
+      "labels": [
+        "program",
+        "live",
+        "sport"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787500800000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787500800000,
+    "end": 1787501400000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756446152.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787501400000:1f18jbp",
+    "channel": "npo1",
+    "title": "Studio sport",
+    "start": 1787501400000,
+    "end": 1787504400000,
+    "description": "Met livebeelden en samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/studio-sport-753357772.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "sport"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787504400000:tc69gi",
+    "channel": "npo1",
+    "title": "Studio sport voetbal",
+    "start": 1787504400000,
+    "end": 1787508000000,
+    "description": "Samenvattingen van de Eredivisieduels Go Ahead Eagles - ADO Den Haag, PSV - FC Groningen en SC Cambuur - Feyenoord.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/studio-sport-voetbal-756593612.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "sport"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787508000000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787508000000,
+    "end": 1787509500000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756446152.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": true,
+    "meta": {
+      "labels": [
+        "program",
+        "live",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787509500000:ylsm7h",
+    "channel": "npo1",
+    "title": "Beestenboel",
+    "start": 1787509500000,
+    "end": 1787512500000,
+    "description": "Andr&eacute; van Duin en Janny van der Heijden presenteren Beestenboel, het nieuwe dierenprogramma vanaf een...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/beestenboeleersteafleveringmetjannyandretv.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "tip"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787512500000:y8pnyt",
+    "channel": "npo1",
+    "title": "Tussen kunst en kitsch",
+    "start": 1787512500000,
+    "end": 1787515800000,
+    "description": "Op vier locaties brengen mensen hun bijzonderheden, van Museum Arnhem tot De Lakenhal in Leiden.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tussen-kunst-en-kitsch-756380852.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "tip"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787515800000:fwnd0y",
+    "channel": "npo1",
+    "title": "Tatort: Over grenzen",
+    "start": 1787515800000,
+    "end": 1787518800000,
+    "description": "Lynn de Baer krijgt in deze aflevering van Tatort: Over Grenzen een tip over een drugstransport over de snelweg...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tatort-over-grenzen-756380812.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "tip"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787518800000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787518800000,
+    "end": 1787520000000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756446152.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787520000000:iycy62",
+    "channel": "npo1",
+    "title": "MAX Vakantieman",
+    "start": 1787520000000,
+    "end": 1787523000000,
+    "description": "Nep-advertenties op Booking.com leiden tot grote schades en teleurstellingen.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/max-vakantieman-756716362.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  }
+]

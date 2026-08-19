@@ -1,16 +1,16 @@
 [
   {
-    "id": "playsports1:1787348100000:11wg5yb",
+    "id": "playsports1:1787352900000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1787348100000,
-    "end": 1787356980000,
+    "start": 1787352900000,
+    "end": 1787361900000,
     "description": "Vanuit de Home Deluxe Arena in Paderborn, Duitsland.",
     "category": [
       "Sport",
       "Competitiesporten"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33124954~~2FEP033948601823%2Cimi%3Ade286518660f862ebddd48b184df3d685c17bc73/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33124954~~2FEP033948601823%2Cimi%3A4071594b1e81ad971fc6ecd1b2685864cb4d2daf/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -18,7 +18,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33124954~~2FEP033948601823,imi:de286518660f862ebddd48b184df3d685c17bc73",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33124954~~2FEP033948601823,imi:4071594b1e81ad971fc6ecd1b2685864cb4d2daf",
       "episodeName": "SC Paderborn 07 - VfL Wolfsburg",
       "genres": [
         "Sport",
@@ -27,34 +27,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
-    }
-  },
-  {
-    "id": "playsports1:1787356980000:xykime",
-    "channel": "playsports1",
-    "title": "Play Sports",
-    "start": 1787356980000,
-    "end": 1787374800000,
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A513db33018cc4d0cfd3e1234fb7b79058087eb8c/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:513db33018cc4d0cfd3e1234fb7b79058087eb8c",
-      "episodeName": null,
-      "genres": [
-        "Sport"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {

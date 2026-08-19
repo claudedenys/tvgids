@@ -1026,33 +1026,33 @@
     }
   },
   {
-    "id": "vrt1:1787335800000:palhk",
+    "id": "vrt1:1787335800000:dx9u16",
     "channel": "vrt1",
-    "title": "Hockey",
+    "title": "Sporza: WK Hockey Mannen 2026",
     "start": 1787335800000,
     "end": 1787344200000,
-    "description": "Verslagen van wedstrijden uit de hockeysport.",
+    "description": "Verslag van een wedstrijd gespeeld in de tweede poulefase op het WK Hockey mannen 2026.",
     "category": [
       "Sport",
       "Hockey"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15224042~~2FSH029869810000~~2F520932179%2Cimi%3A3dc3123e1dd282238bb7faa4bf3b61a8be33db78/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32623199~~2FEP065463310010%2Cimi%3A37dfd9e25cee7364f6428569316dd74489afac1b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 69810000,
-    "episode": 520932179,
+    "season": 63310000,
+    "episode": 2026082110,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15224042~~2FSH029869810000~~2F520932179,imi:3dc3123e1dd282238bb7faa4bf3b61a8be33db78",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32623199~~2FEP065463310010,imi:37dfd9e25cee7364f6428569316dd74489afac1b",
+      "episodeName": "Poule F",
       "genres": [
         "Sport",
         "Hockey"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F15224042~~2FSH029869810000"
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580330~~2FSH065463310000"
     }
   },
   {

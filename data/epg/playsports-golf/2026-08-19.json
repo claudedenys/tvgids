@@ -454,7 +454,7 @@
     "channel": "playsports-golf",
     "title": "PGA Tour - The Cut",
     "start": 1787164200000,
-    "end": 1787173200000,
+    "end": 1787166000000,
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
     "category": [
       "Sport",
@@ -480,33 +480,33 @@
     }
   },
   {
-    "id": "playsports-golf:1787173200000:1869fxq",
+    "id": "playsports-golf:1787166000000:186xtnc",
     "channel": "playsports-golf",
-    "title": "EPGA Legends Tour Hoogtepunten",
-    "start": 1787173200000,
+    "title": "Ryder Cup 2021",
+    "start": 1787166000000,
     "end": 1787176800000,
-    "description": "Hoogtepunten van de Staysure PGA Seniors Championship, gespeeld in de European Legends Tour 2025.",
+    "description": "Verslag van de derde en beslissende dag van de Ryder Cup 2021.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30524688~~2FEP043415830040%2Cimi%3Adba082c90d428d1412ba8bddddf5194c3a831a25/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20410689~~2FEP040045550008%2Cimi%3A8b99575a63fe6264dac31a00464f3157444d0556/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102025,
-    "episode": 2025070940,
+    "season": 45550000,
+    "episode": 2021092608,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30524688~~2FEP043415830040,imi:dba082c90d428d1412ba8bddddf5194c3a831a25",
-      "episodeName": "Staysure PGA Seniors Championship",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20410689~~2FEP040045550008,imi:8b99575a63fe6264dac31a00464f3157444d0556",
+      "episodeName": "Dag 3",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": "2025",
+      "productionDate": "2021",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22396263~~2FSH043415830000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20049183~~2FSH040045550000"
     }
   }
 ]

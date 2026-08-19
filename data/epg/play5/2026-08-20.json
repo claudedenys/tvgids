@@ -1,9 +1,9 @@
 [
   {
-    "id": "play5:1787180700000:1l3wd65",
+    "id": "play5:1787181000000:1l3wd65",
     "channel": "play5",
     "title": "Superman & Lois",
-    "start": 1787180700000,
+    "start": 1787181000000,
     "end": 1787184600000,
     "description": "Clark wil dat Lois hulp gaat zoeken nadat hij merkt dat het slecht met haar gaat. Jonathan komt terecht in een hele gevaarlijke situatie.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "How to Get Away With Murder",
     "start": 1787184600000,
-    "end": 1787187900000,
+    "end": 1787187000000,
     "description": "Annalise daagt haar studenten uit om de onschuld te bewijzen van een excentrieke miljonair die ervan wordt verdacht zijn vrouw te hebben vermoord. Wes lijkt ondertussen geheimen te hebben.",
     "category": [
       "Dramaserie",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1787187900000:48zb9",
+    "id": "play5:1787187000000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1787187900000,
-    "end": 1787194800000,
+    "start": 1787187000000,
+    "end": 1787194680000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0b52ffa0ea9fb610eef7d339ff44c5fd33454790",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1787194680000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1787194680000,
+    "end": 1787194800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6fcb2e552f40d85f14c787a56ca253395e403543",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

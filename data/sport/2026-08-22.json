@@ -1,28 +1,5 @@
 [
   {
-    "id": "sport:playsports1:1787356980000:xykime",
-    "externalId": null,
-    "title": "Play Sports",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1787356980000,
-    "end": 1787374800000,
-    "status": "aankomend",
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
     "id": "sport:playsports1:1787396400000:qjkkk5",
     "externalId": null,
     "title": "Kevin Keegan",
@@ -345,15 +322,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787354460000:xykime",
+    "id": "sport:playsports4:1787355720000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1787354460000,
-    "end": 1787374200000,
+    "start": 1787355720000,
+    "end": 1787374500000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -851,15 +828,15 @@
     ]
   },
   {
-    "id": "sport:match:1787348100000:sc paderborn 07 - vfl wolfsburg",
+    "id": "sport:match:1787352900000:sc paderborn 07 - vfl wolfsburg",
     "externalId": null,
     "title": "SC Paderborn 07 - VfL Wolfsburg",
     "home": "SC Paderborn 07",
     "away": "VfL Wolfsburg",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1787348100000,
-    "end": 1787356980000,
+    "start": 1787352900000,
+    "end": 1787361900000,
     "status": "aankomend",
     "description": "Vanuit de Home Deluxe Arena in Paderborn, Duitsland.",
     "source": "epg",
@@ -1012,29 +989,6 @@
     ]
   },
   {
-    "id": "sport:match:1787350500000:ajax - sc heerenveen",
-    "externalId": null,
-    "title": "Ajax - sc Heerenveen",
-    "home": "Ajax",
-    "away": "sc Heerenveen",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1787350500000,
-    "end": 1787357700000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
     "id": "sport:match:1787372700000:feyenoord - go ahead eagles",
     "externalId": null,
     "title": "Feyenoord - Go Ahead Eagles",
@@ -1101,29 +1055,6 @@
     ],
     "channelIds": [
       "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1787374200000:gp van groot-brittannie: race",
-    "externalId": null,
-    "title": "GP van Groot-Brittannië: Race",
-    "home": "GP van Groot",
-    "away": "Brittannië: Race",
-    "competition": null,
-    "sport": null,
-    "start": 1787374200000,
-    "end": 1787378100000,
-    "status": "aankomend",
-    "description": "Verslag van de race van de MotoGP van Groot-Brittannië, gereden in Silverstone, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
     ]
   },
   {

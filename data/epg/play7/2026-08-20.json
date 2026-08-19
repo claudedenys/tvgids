@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1787179500000:tr45on",
+    "id": "play7:1787179800000:tr45on",
     "channel": "play7",
     "title": "MasterChef UK",
-    "start": 1787179500000,
-    "end": 1787184300000,
+    "start": 1787179800000,
+    "end": 1787184600000,
     "description": "De competitie gaat verder met een derde week van culinaire wedstrijden, waarin twaalf van de beste amateurkoks van het land alles uit de kast moeten halen voor een kans op de kwartfinales.",
     "category": [
       "Koken",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "play7:1787184300000:anhdp4",
+    "id": "play7:1787184600000:anhdp4",
     "channel": "play7",
     "title": "First on Scene",
-    "start": 1787184300000,
+    "start": 1787184600000,
     "end": 1787186100000,
     "description": "Eerstehulpverleners arriveren op de plaats van een grote schietpartij in Californië.",
     "category": [
@@ -62,7 +62,7 @@
     "channel": "play7",
     "title": "First on Scene",
     "start": 1787186100000,
-    "end": 1787187900000,
+    "end": 1787187600000,
     "description": "Ongepubliceerde beelden documenteren de brute dood van een beroemdheid.",
     "category": [
       "Docu"
@@ -86,11 +86,11 @@
     }
   },
   {
-    "id": "play7:1787187900000:48zb9",
+    "id": "play7:1787187600000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1787187900000,
-    "end": 1787194800000,
+    "start": 1787187600000,
+    "end": 1787194560000,
     "description": null,
     "category": [],
     "image": null,
@@ -102,6 +102,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c5d34ef4fbdd5556ab626738e6311b20feac3842",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1787194560000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1787194560000,
+    "end": 1787194800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e126381b750b128857a71fd238e1d126d132808f",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

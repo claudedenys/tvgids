@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1787094480000,
     "end": 1787115600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +193,7 @@
     "sport": null,
     "start": 1787090400000,
     "end": 1787112000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": null,
     "start": 1787112000000,
     "end": 1787133600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -285,7 +285,7 @@
     "sport": null,
     "start": 1787101320000,
     "end": 1787115300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -307,7 +307,7 @@
     "competition": null,
     "sport": "Wielrennen",
     "start": 1787140800000,
-    "end": 1787148000000,
+    "end": 1787148060000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
     "source": "epg",
@@ -322,15 +322,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1787148000000:i67pjl",
+    "id": "sport:playsports3:1787148060000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1787148000000,
-    "end": 1787150100000,
+    "start": 1787148060000,
+    "end": 1787149440000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -377,7 +377,7 @@
     "sport": null,
     "start": 1787098860000,
     "end": 1787103540000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Echte Vlaamse koppels, kijk mee hoe het er in hun vrije tijd aan toe gaat!",
     "source": "epg",
     "platforms": [
@@ -400,7 +400,7 @@
     "sport": null,
     "start": 1787103540000,
     "end": 1787117100000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -445,7 +445,7 @@
     "competition": null,
     "sport": "Motorsport",
     "start": 1787122740000,
-    "end": 1787126700000,
+    "end": 1787126760000,
     "status": "aankomend",
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "source": "epg",
@@ -460,15 +460,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787126700000:arbc9e",
+    "id": "sport:playsports4:1787126760000:arbc9e",
     "externalId": null,
     "title": "GP van Hongarije: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1787126700000,
-    "end": 1787131200000,
+    "start": 1787126760000,
+    "end": 1787131260000,
     "status": "aankomend",
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "source": "epg",
@@ -483,15 +483,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787131200000:12oeiq8",
+    "id": "sport:playsports4:1787131260000:12oeiq8",
     "externalId": null,
     "title": "Boedapest: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1787131200000,
-    "end": 1787134500000,
+    "start": 1787131260000,
+    "end": 1787134560000,
     "status": "aankomend",
     "description": "Vanaf de Hungaroring in Mogyoród, Hongarije.",
     "source": "epg",
@@ -506,15 +506,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787134500000:8a2n92",
+    "id": "sport:playsports4:1787134560000:8a2n92",
     "externalId": null,
     "title": "Tennis",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1787134500000,
-    "end": 1787140560000,
+    "start": 1787134560000,
+    "end": 1787140620000,
     "status": "aankomend",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
@@ -529,15 +529,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787140560000:11oizv7",
+    "id": "sport:playsports4:1787140620000:11oizv7",
     "externalId": null,
     "title": "Dag 5",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1787140560000,
-    "end": 1787145900000,
+    "start": 1787140620000,
+    "end": 1787145960000,
     "status": "aankomend",
     "description": "Verslag van de Mubadala Citi DC Open, gespeeld in Washington D.C., Verenigde Staten.",
     "source": "epg",
@@ -552,15 +552,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787145900000:1nnswin",
+    "id": "sport:playsports4:1787145960000:1nnswin",
     "externalId": null,
     "title": "Vuelta a Burgos: Etappe 1",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Wielrennen",
-    "start": 1787145900000,
-    "end": 1787152020000,
+    "start": 1787145960000,
+    "end": 1787152080000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
     "source": "epg",
@@ -575,15 +575,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787152020000:1nnswin",
+    "id": "sport:playsports4:1787152080000:1nnswin",
     "externalId": null,
     "title": "Vuelta a Burgos: Etappe 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Wielrennen",
-    "start": 1787152020000,
-    "end": 1787159400000,
+    "start": 1787152080000,
+    "end": 1787159340000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
     "source": "epg",
@@ -598,14 +598,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787159400000:8a2n92",
+    "id": "sport:playsports4:1787159340000:8a2n92",
     "externalId": null,
     "title": "Tennis",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1787159400000,
+    "start": 1787159340000,
     "end": 1787165400000,
     "status": "aankomend",
     "description": "Live verslag van verschillende tennisevenementen.",
@@ -629,7 +629,7 @@
     "competition": null,
     "sport": "Wielrennen",
     "start": 1787172900000,
-    "end": 1787178900000,
+    "end": 1787179020000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
     "source": "epg",
@@ -653,7 +653,7 @@
     "sport": null,
     "start": 1787090400000,
     "end": 1787112000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -676,7 +676,7 @@
     "sport": null,
     "start": 1787112000000,
     "end": 1787133600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -791,7 +791,7 @@
     "sport": "Golf",
     "start": 1787092200000,
     "end": 1787103000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de FedEx St. Jude Championship, gespeeld in Memphis, Tennessee.",
     "source": "epg",
     "platforms": [
@@ -814,7 +814,7 @@
     "sport": "Golf",
     "start": 1787103000000,
     "end": 1787113800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Danish Golf Championship, gespeeld in Kerteminde, Denemarken.",
     "source": "epg",
     "platforms": [
@@ -837,7 +837,7 @@
     "sport": "Golf",
     "start": 1787113800000,
     "end": 1787115540000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
     "source": "epg",
     "platforms": [
@@ -1135,7 +1135,7 @@
     "competition": null,
     "sport": "Golf",
     "start": 1787164200000,
-    "end": 1787173200000,
+    "end": 1787166000000,
     "status": "aankomend",
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
     "source": "epg",
@@ -1150,17 +1150,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1787173200000:1869fxq",
+    "id": "sport:playsports-golf:1787166000000:186xtnc",
     "externalId": null,
-    "title": "Staysure PGA Seniors Championship",
+    "title": "Dag 3",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1787173200000,
+    "start": 1787166000000,
     "end": 1787176800000,
     "status": "aankomend",
-    "description": "Hoogtepunten van de Staysure PGA Seniors Championship, gespeeld in de European Legends Tour 2025.",
+    "description": "Verslag van de derde en beslissende dag van de Ryder Cup 2021.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1343,7 +1343,7 @@
     "sport": "Voetbal",
     "start": 1787094780000,
     "end": 1787101320000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PEC Zwolle - Ajax uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1365,8 +1365,8 @@
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
     "start": 1787115300000,
-    "end": 1787121900000,
-    "status": "aankomend",
+    "end": 1787121840000,
+    "status": "live",
     "description": "Verslag van de wedstrijd SC Freiburg - Aston Villa, gespeeld in de finale van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1380,15 +1380,15 @@
     ]
   },
   {
-    "id": "sport:match:1787121900000:ajax - sc heerenveen",
+    "id": "sport:match:1787121840000:ajax - sc heerenveen",
     "externalId": null,
     "title": "Ajax - sc Heerenveen",
     "home": "Ajax",
     "away": "sc Heerenveen",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787121900000,
-    "end": 1787128140000,
+    "start": 1787121840000,
+    "end": 1787127960000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1403,15 +1403,15 @@
     ]
   },
   {
-    "id": "sport:match:1787128140000:feyenoord - go ahead eagles",
+    "id": "sport:match:1787127960000:feyenoord - go ahead eagles",
     "externalId": null,
     "title": "Feyenoord - Go Ahead Eagles",
     "home": "Feyenoord",
     "away": "Go Ahead Eagles",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787128140000,
-    "end": 1787134500000,
+    "start": 1787127960000,
+    "end": 1787134200000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - Go Ahead Eagles uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1426,17 +1426,17 @@
     ]
   },
   {
-    "id": "sport:match:1787134500000:excelsior - psv",
+    "id": "sport:match:1787134200000:psv - fortuna sittard",
     "externalId": null,
-    "title": "Excelsior - PSV",
-    "home": "Excelsior",
-    "away": "PSV",
+    "title": "PSV - Fortuna Sittard",
+    "home": "PSV",
+    "away": "Fortuna Sittard",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787134500000,
+    "start": 1787134200000,
     "end": 1787140800000,
     "status": "aankomend",
-    "description": "Verslag van de wedstrijd Excelsior - PSV uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1449,15 +1449,15 @@
     ]
   },
   {
-    "id": "sport:match:1787150100000:psv - az",
+    "id": "sport:match:1787149440000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1787150100000,
-    "end": 1787157900000,
+    "start": 1787149440000,
+    "end": 1787157240000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "source": "epg",
@@ -1472,17 +1472,40 @@
     ]
   },
   {
-    "id": "sport:match:1787157900000:feyenoord - go ahead eagles",
+    "id": "sport:match:1787157240000:feyenoord - go ahead eagles",
     "externalId": null,
     "title": "Feyenoord - Go Ahead Eagles",
     "home": "Feyenoord",
     "away": "Go Ahead Eagles",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787157900000,
-    "end": 1787164200000,
+    "start": 1787157240000,
+    "end": 1787163480000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - Go Ahead Eagles uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1787163480000:ajax - sc heerenveen",
+    "externalId": null,
+    "title": "Ajax - sc Heerenveen",
+    "home": "Ajax",
+    "away": "sc Heerenveen",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1787163480000,
+    "end": 1787164200000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1526,32 +1549,9 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1787172900000,
-    "end": 1787175600000,
+    "end": 1787177700000,
     "status": "aankomend",
     "description": "Commentatoren en (oud-)profsporters ploffen neer aan onze tafel voor een rondje 'eens of oneens'.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1787175600000:excelsior - psv",
-    "externalId": null,
-    "title": "Excelsior - PSV",
-    "home": "Excelsior",
-    "away": "PSV",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1787175600000,
-    "end": 1787181900000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Excelsior - PSV uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1573,7 +1573,7 @@
     "sport": null,
     "start": 1787094840000,
     "end": 1787098860000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Groot-Brittannië, gereden in Silverstone, Engeland.",
     "source": "epg",
     "platforms": [

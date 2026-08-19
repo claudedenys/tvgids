@@ -149,7 +149,7 @@
     "title": "NOS Journaal",
     "start": 1787101800000,
     "end": 1787111400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Regen, maar nog gevolgen van droogte * Het kabinet overlegt...",
     "category": [
       "Actueel"
     ],
@@ -170,10 +170,10 @@
     }
   },
   {
-    "id": "npo1:1787112600000:1dw9gp4",
+    "id": "npo1:1787112300000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1787112600000,
+    "start": 1787112300000,
     "end": 1787113800000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -250,7 +250,7 @@
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-755143672.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1079,7 +1079,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1787140800000,
-    "end": 1787142000000,
+    "end": 1787141700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1099,10 +1099,10 @@
     }
   },
   {
-    "id": "npo1:1787142000000:1qmbii9",
+    "id": "npo1:1787141700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787142000000,
+    "start": 1787141700000,
     "end": 1787142600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1441,9 +1441,9 @@
     "title": "Triviant",
     "start": 1787167500000,
     "end": 1787170500000,
-    "description": "Vijf bekende Nederlanders nemen het tegen elkaar op.",
+    "description": "Anniko van Santen is halverwege haar tweede week als quizmaster van Triviant en verwelkomt weer nieuwe spelers op de...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviant-756341452.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviantannikovansantenavrotrosnieuw.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1451,7 +1451,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

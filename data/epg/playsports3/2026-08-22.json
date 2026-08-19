@@ -1,32 +1,26 @@
 [
   {
-    "id": "playsports3:1787350500000:1va4v2m",
+    "id": "playsports3:1787356320000:48zb9",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1787350500000,
+    "title": "Geen uitzending",
+    "start": 1787356320000,
     "end": 1787357700000,
-    "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961%2Cimi%3Aaf4dec847f1b1f988ea7b636adef5dd88cc17df3/posterTile",
+    "description": null,
+    "category": [],
+    "image": null,
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026081661,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961,imi:af4dec847f1b1f988ea7b636adef5dd88cc17df3",
-      "episodeName": "Ajax - sc Heerenveen",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:29dc884378eea35307e88969f6d0b8012d224fc4",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
