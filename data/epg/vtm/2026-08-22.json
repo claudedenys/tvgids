@@ -1,10 +1,10 @@
 [
   {
-    "id": "vtm:1787354400000:iug1rc",
+    "id": "vtm:1787354100000:iug1rc",
     "channel": "vtm",
     "title": "NYPD Blue",
-    "start": 1787354400000,
-    "end": 1787357400000,
+    "start": 1787354100000,
+    "end": 1787357100000,
     "description": "Terwijl Simone en Sipowicz twee jonge mannen ondervragen over de verkoolde resten van een zwangere vrouw, onderzoekt Martinez een overval op een pandjeshuis. Sipowicz is geschokt als Dan Breen wordt geslagen door zijn geestelijk instabiele zoon.",
     "category": [
       "Misdaaddrama"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "vtm:1787358000000:48zb9",
+    "id": "vtm:1787357100000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1787358000000,
-    "end": 1787370600000,
+    "start": 1787357100000,
+    "end": 1787361000000,
     "description": null,
     "category": [],
     "image": null,
@@ -44,6 +44,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:33a1d8c6d2852878e8a1eb72c780f6c60afd108b",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm:1787361000000:48zb9",
+    "channel": "vtm",
+    "title": "Geen uitzending",
+    "start": 1787361000000,
+    "end": 1787370600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:50b1ada91d859f74a6b8836a091deb43dbf1ac10",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

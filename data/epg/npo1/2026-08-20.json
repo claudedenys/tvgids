@@ -149,7 +149,7 @@
     "title": "NOS Journaal",
     "start": 1787188200000,
     "end": 1787197800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Berendsen keurt VS-sancties ICC af * Fedorov roept op tot...",
     "category": [
       "Actueel"
     ],
@@ -170,10 +170,10 @@
     }
   },
   {
-    "id": "npo1:1787199000000:1dw9gp4",
+    "id": "npo1:1787198700000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1787199000000,
+    "start": 1787198700000,
     "end": 1787200200000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -300,7 +300,7 @@
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-755457962.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1462,9 +1462,9 @@
     "title": "Triviant",
     "start": 1787253600000,
     "end": 1787256600000,
-    "description": "Vijf bekende Nederlanders nemen het tegen elkaar op.",
+    "description": "De twee nieuwe kandidaten van Triviant hebben een gemene deler.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviant-756341422.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviantannikonieuweafleveringavrotros.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1472,7 +1472,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

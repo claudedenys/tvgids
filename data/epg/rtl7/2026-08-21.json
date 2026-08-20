@@ -1,10 +1,10 @@
 [
   {
-    "id": "rtl7:1787259900000:x0vrce",
+    "id": "rtl7:1787259840000:x0vrce",
     "channel": "rtl7",
     "title": "Gasoline Alley",
-    "start": 1787259900000,
-    "end": 1787267400000,
+    "start": 1787259840000,
+    "end": 1787266920000,
     "description": "Tatoeëerder Jimmy wordt verdacht van de moord op drie Hollywoodsterren.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/gasoline-alley-755375892.jpg",
@@ -19,11 +19,11 @@
     }
   },
   {
-    "id": "rtl7:1787267400000:o13nu0",
+    "id": "rtl7:1787266920000:o13nu0",
     "channel": "rtl7",
     "title": "Pawn stars",
-    "start": 1787267400000,
-    "end": 1787269200000,
+    "start": 1787266920000,
+    "end": 1787268600000,
     "description": "Drie generaties van de familie Harrison worden gevolgd tijdens hun werkzaamheden in het pandjeshuis Gold & Silver...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/pawn-stars-752865422.jpg",
@@ -41,10 +41,10 @@
     }
   },
   {
-    "id": "rtl7:1787269200000:1td3lbd",
+    "id": "rtl7:1787268600000:1td3lbd",
     "channel": "rtl7",
     "title": "Teleshop",
-    "start": 1787269200000,
+    "start": 1787268600000,
     "end": 1787271000000,
     "description": "Homeshopping.",
     "category": [],
@@ -504,7 +504,7 @@
     "channel": "rtl7",
     "title": "Pawn stars hit the road",
     "start": 1787333400000,
-    "end": 1787336700000,
+    "end": 1787336820000,
     "description": "Rick Harrison, Corey Harrison en Austin Russell van de Gold & Silver Pawn Shop in Las Vegas reizen door Amerika.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/pawn-stars-hit-the-road-754860102.jpg",
@@ -522,10 +522,10 @@
     }
   },
   {
-    "id": "rtl7:1787336700000:gmtqn5",
+    "id": "rtl7:1787336820000:gmtqn5",
     "channel": "rtl7",
     "title": "A Good Day to Die Hard",
-    "start": 1787336700000,
+    "start": 1787336820000,
     "end": 1787343900000,
     "description": "Vijfentwintig jaar na Die Hard schopt John McClane in A Good Day to Die Hard nog steeds kont en in deze vijfde Die...",
     "category": [],
@@ -549,9 +549,9 @@
     "title": "American Siege",
     "start": 1787343900000,
     "end": 1787351100000,
-    "description": "In het rustige stadje Fitzgerald wordt de vooraanstaande dokter John Keats gegijzeld.",
+    "description": "In American Siege moet sheriff Ben Watts een gijzelingssituatie in goede banen zien te leiden.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/american-siege-755793802.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/american-siege-755793822.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -559,7 +559,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   }
 ]

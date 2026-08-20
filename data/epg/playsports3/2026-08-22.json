@@ -1,33 +1,9 @@
 [
   {
-    "id": "playsports3:1787356320000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1787356320000,
-    "end": 1787357700000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:29dc884378eea35307e88969f6d0b8012d224fc4",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1787357700000:xykime",
+    "id": "playsports3:1787356500000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1787357700000,
+    "start": 1787356500000,
     "end": 1787372700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -56,7 +32,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1787372700000,
-    "end": 1787379000000,
+    "end": 1787378880000,
     "description": "Verslag van de wedstrijd Feyenoord - Go Ahead Eagles uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -82,26 +58,26 @@
     }
   },
   {
-    "id": "playsports3:1787379000000:1va4v2m",
+    "id": "playsports3:1787378880000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787379000000,
-    "end": 1787385300000,
-    "description": "Verslag van de wedstrijd Excelsior - PSV uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "start": 1787378880000,
+    "end": 1787385180000,
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956%2Cimi%3Aff68d3d78297fbdde33bd7721d2dfa6e27ea733c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947%2Cimi%3Ae87a55cbe97adafd9935cdc9c03152fb8569241f/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 50990000,
-    "episode": 2026081556,
+    "episode": 2026080847,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557354~~2FEP035850991956,imi:ff68d3d78297fbdde33bd7721d2dfa6e27ea733c",
-      "episodeName": "Excelsior - PSV",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947,imi:e87a55cbe97adafd9935cdc9c03152fb8569241f",
+      "episodeName": "PSV - Fortuna Sittard",
       "genres": [
         "Sport",
         "Voetbal"
@@ -112,10 +88,10 @@
     }
   },
   {
-    "id": "playsports3:1787385300000:1va4v2m",
+    "id": "playsports3:1787385180000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787385300000,
+    "start": 1787385180000,
     "end": 1787391600000,
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -172,27 +148,93 @@
     }
   },
   {
-    "id": "playsports3:1787397900000:48zb9",
+    "id": "playsports3:1787397900000:3tkxx5",
     "channel": "playsports3",
-    "title": "Geen uitzending",
+    "title": "MIDMID",
     "start": 1787397900000,
-    "end": 1787406000000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "end": 1787399100000,
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A824b7167da8ee3d9f606be950d66f3350421e7c2/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 7,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9b9063f0692aaf5cd3a95f007c5c8227cb8b6c83",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:824b7167da8ee3d9f606be950d66f3350421e7c2",
+      "episodeName": "Beoordeelt de Pro League-shirts",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
+    }
+  },
+  {
+    "id": "playsports3:1787399100000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1787399100000,
+    "end": 1787401200000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F531084766%2Cimi%3A8afd25472f648b97b8b539105ff585221becbea4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 531084766,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F531084766,imi:8afd25472f648b97b8b539105ff585221becbea4",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1787401200000:1k3q69q",
+    "channel": "playsports3",
+    "title": "(On)eens",
+    "start": 1787401200000,
+    "end": 1787406000000,
+    "description": "Commentatoren en (oud-)profsporters ploffen neer aan onze tafel voor een rondje 'eens of oneens'.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016%2Cimi%3Afd1faded873cb1d3c927ac9bb7f56ed1b29de6f0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016,imi:fd1faded873cb1d3c927ac9bb7f56ed1b29de6f0",
+      "episodeName": "Een nieuw Premier League-seizoen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24064241~~2FSH046502810000"
     }
   },
   {
@@ -226,27 +268,33 @@
     }
   },
   {
-    "id": "playsports3:1787412300000:48zb9",
+    "id": "playsports3:1787412300000:i67pjl",
     "channel": "playsports3",
-    "title": "Geen uitzending",
+    "title": "Play Sports Highlights",
     "start": 1787412300000,
     "end": 1787414100000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F532384443%2Cimi%3Aaf86a0414b9d065b2a15c854d46e968d4bcc3ca2/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 532384443,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3a6b7ee8ee2a513e031760061000186f17f2982f",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F532384443,imi:af86a0414b9d065b2a15c854d46e968d4bcc3ca2",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -280,27 +328,33 @@
     }
   },
   {
-    "id": "playsports3:1787417400000:48zb9",
+    "id": "playsports3:1787417400000:i67pjl",
     "channel": "playsports3",
-    "title": "Geen uitzending",
+    "title": "Play Sports Highlights",
     "start": 1787417400000,
     "end": 1787419800000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F532384444%2Cimi%3Add6444fa54698344b682633db5262272b9bed879/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 532384444,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3e82c62519c084cec2a578c7600f016dbbe2f693",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F532384444,imi:dd6444fa54698344b682633db5262272b9bed879",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -364,27 +418,33 @@
     }
   },
   {
-    "id": "playsports3:1787434200000:48zb9",
+    "id": "playsports3:1787434200000:1va4v2m",
     "channel": "playsports3",
-    "title": "Geen uitzending",
+    "title": "Eredivisie",
     "start": 1787434200000,
-    "end": 1787444100000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "end": 1787440560000,
+    "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947%2Cimi%3A9a981f4492f9b8255bdb0cc03965e2989000b2dd/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50990000,
+    "episode": 2026080847,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:43efa2cbcd76df2a10a1e322bc161e5ab231e2c5",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557181~~2FEP035850991947,imi:9a981f4492f9b8255bdb0cc03965e2989000b2dd",
+      "episodeName": "PSV - Fortuna Sittard",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   }
 ]

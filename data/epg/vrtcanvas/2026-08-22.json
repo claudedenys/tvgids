@@ -92,7 +92,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 2 Top 30",
     "start": 1787389200000,
-    "end": 1787394300000,
+    "end": 1787392800000,
     "description": "Live vanuit de studio van Radio 2. Een lijst met de dertig grootste hits in Vlaanderen.",
     "category": [
       "Muziek"
@@ -116,11 +116,39 @@
     }
   },
   {
-    "id": "vrtcanvas:1787394300000:hewopk",
+    "id": "vrtcanvas:1787392800000:1vqipm8",
+    "channel": "vrtcanvas",
+    "title": "Pukkelpop live",
+    "start": 1787392800000,
+    "end": 1787397900000,
+    "description": "Live verslag van het festival Pukkelpop met daarin interviews, sfeerbeelden en uiteraard veel muziek...",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33736287~~2FEP048239940017%2Cimi%3A62f91fca0e7b2c3f84d9af64055d6250cf10a5f0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33736287~~2FEP048239940017,imi:62f91fca0e7b2c3f84d9af64055d6250cf10a5f0",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25304818~~2FSH048239940000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1787397900000:hewopk",
     "channel": "vrtcanvas",
     "title": "Sporza: EK Volleybal Vrouwen 2026",
-    "start": 1787394300000,
-    "end": 1787400900000,
+    "start": 1787397900000,
+    "end": 1787404500000,
     "description": "Verslag van de wedstrijd België - Spanje, gespeeld in de groepsfase van het EK Volleybal Vrouwen 2026.",
     "category": [
       "Sport",
@@ -146,25 +174,25 @@
     }
   },
   {
-    "id": "vrtcanvas:1787400900000:1vqipm8",
+    "id": "vrtcanvas:1787404500000:1vqipm8",
     "channel": "vrtcanvas",
     "title": "Pukkelpop live",
-    "start": 1787400900000,
+    "start": 1787404500000,
     "end": 1787409000000,
     "description": "Live verslag van het festival Pukkelpop met daarin interviews, sfeerbeelden en uiteraard veel muziek...",
     "category": [
       "Muziek"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33736287~~2FEP048239940017%2Cimi%3A62f91fca0e7b2c3f84d9af64055d6250cf10a5f0/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33736291~~2FEP048239940018%2Cimi%3A29af3c2dd2d41c11074c8abf5f3bc6d133d770d0/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
-    "episode": 3,
+    "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33736287~~2FEP048239940017,imi:62f91fca0e7b2c3f84d9af64055d6250cf10a5f0",
-      "episodeName": "Aflevering 3",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33736291~~2FEP048239940018,imi:29af3c2dd2d41c11074c8abf5f3bc6d133d770d0",
+      "episodeName": "Aflevering 4",
       "genres": [
         "Muziek"
       ],
@@ -209,27 +237,27 @@
     "title": "Sporza: WK Hockey Vrouwen 2026",
     "start": 1787417700000,
     "end": 1787419800000,
-    "description": "Verslag van het WK Hockey 2026 voor vrouwen, gehouden in Nederland en België.",
+    "description": "Verslag van een wedstrijd gespeeld in de tweede poulefase op het WK Hockey vrouwen 2026.",
     "category": [
       "Sport",
       "Hockey"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32580151~~2FSH065463280000~~2F521284340%2Cimi%3Af70ada7cf344978e56283bb76da5e3e886df90c9/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32622839~~2FEP065463280010%2Cimi%3Ae7ed596a68913d9a0056bbb3e1d44d3f4abfce2e/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 63280000,
-    "episode": 521284340,
+    "episode": 2026082210,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32580151~~2FSH065463280000~~2F521284340,imi:f70ada7cf344978e56283bb76da5e3e886df90c9",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32622839~~2FEP065463280010,imi:e7ed596a68913d9a0056bbb3e1d44d3f4abfce2e",
+      "episodeName": "Poule F",
       "genres": [
         "Sport",
         "Hockey"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580151~~2FSH065463280000"
     }
   },
@@ -239,20 +267,20 @@
     "title": "Pukkelpop live",
     "start": 1787419800000,
     "end": 1787439600000,
-    "description": "Live verslag van het festival Pukkelpop met daarin interviews, sfeerbeelden en uiteraard veel muziek...",
+    "description": "Live verslag van het festival Pukkelpop met interviews, sfeerbeelden en uiteraard veel muziek.",
     "category": [
       "Muziek"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33736291~~2FEP048239940018%2Cimi%3A29af3c2dd2d41c11074c8abf5f3bc6d133d770d0/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33749879~~2FEP048239940019%2Cimi%3A7c2409f4c07a6e8a61f8314279677b0644e2f9ca/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
-    "episode": 4,
+    "episode": 5,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33736291~~2FEP048239940018,imi:29af3c2dd2d41c11074c8abf5f3bc6d133d770d0",
-      "episodeName": "Aflevering 4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33749879~~2FEP048239940019,imi:7c2409f4c07a6e8a61f8314279677b0644e2f9ca",
+      "episodeName": "Aflevering 5",
       "genres": [
         "Muziek"
       ],

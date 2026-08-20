@@ -4,7 +4,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1787352900000,
-    "end": 1787361900000,
+    "end": 1787361780000,
     "description": "Vanuit de Home Deluxe Arena in Paderborn, Duitsland.",
     "category": [
       "Sport",
@@ -30,14 +30,16 @@
     }
   },
   {
-    "id": "playsports1:1787374800000:48zb9",
+    "id": "playsports1:1787361780000:xykime",
     "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1787374800000,
-    "end": 1787376900000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "title": "Play Sports",
+    "start": 1787361780000,
+    "end": 1787372100000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A513db33018cc4d0cfd3e1234fb7b79058087eb8c/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -45,20 +47,22 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:61b8e61e3b2a0e9fc1b663a1eec567fb03448d9b",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:513db33018cc4d0cfd3e1234fb7b79058087eb8c",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
     }
   },
   {
-    "id": "playsports1:1787376900000:1prlzbg",
+    "id": "playsports1:1787372100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787376900000,
-    "end": 1787383200000,
+    "start": 1787372100000,
+    "end": 1787378400000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -84,11 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1787383200000:1prlzbg",
+    "id": "playsports1:1787378400000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787383200000,
-    "end": 1787389500000,
+    "start": 1787378400000,
+    "end": 1787384580000,
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "category": [
       "Sport",
@@ -114,17 +118,17 @@
     }
   },
   {
-    "id": "playsports1:1787389500000:1prlzbg",
+    "id": "playsports1:1787384580000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787389500000,
-    "end": 1787396400000,
+    "start": 1787384580000,
+    "end": 1787391480000,
     "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22436808~~2FEP033946610813%2Cimi%3A01db3d2b87c24c6408c0863230b0dc3e4c6aa429/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22436808~~2FEP033946610813%2Cimi%3Ae4aa03eea8cedc8a0f50dbb9c3264dc149d555d2/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -132,7 +136,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22436808~~2FEP033946610813,imi:01db3d2b87c24c6408c0863230b0dc3e4c6aa429",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22436808~~2FEP033946610813,imi:e4aa03eea8cedc8a0f50dbb9c3264dc149d555d2",
       "episodeName": "Crystal Palace - Arsenal",
       "genres": [
         "Sport",
@@ -144,17 +148,17 @@
     }
   },
   {
-    "id": "playsports1:1787396400000:qjkkk5",
+    "id": "playsports1:1787391480000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1787396400000,
-    "end": 1787397900000,
+    "start": 1787391480000,
+    "end": 1787393040000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266%2Cimi%3A7d21d137e8a0842bc0d7cd548dcf3bc30fa2caa7/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266%2Cimi%3A395ff3963e71bcaba55b3cc67f002784f037abc0/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 6,
@@ -162,7 +166,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266,imi:7d21d137e8a0842bc0d7cd548dcf3bc30fa2caa7",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266,imi:395ff3963e71bcaba55b3cc67f002784f037abc0",
       "episodeName": "Kevin Keegan",
       "genres": [
         "Docu",
@@ -174,27 +178,213 @@
     }
   },
   {
-    "id": "playsports1:1787397900000:48zb9",
+    "id": "playsports1:1787393040000:1k3q69q",
     "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1787397900000,
-    "end": 1787424300000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "title": "(On)eens",
+    "start": 1787393040000,
+    "end": 1787397900000,
+    "description": "Commentatoren en (oud-)profsporters ploffen neer aan onze tafel voor een rondje 'eens of oneens'.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016%2Cimi%3Ad8ecd6b27c4bcc7375df9916b548e2e12509ebb4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 2,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4be3943f2804f28080ea6720f595916802af7138",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016,imi:d8ecd6b27c4bcc7375df9916b548e2e12509ebb4",
+      "episodeName": "Een nieuw Premier League-seizoen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24064241~~2FSH046502810000"
+    }
+  },
+  {
+    "id": "playsports1:1787397900000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1787397900000,
+    "end": 1787405100000,
+    "description": "Vanuit het MKM Stadium in Hull, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427%2Cimi%3A73031429d8c3df8e3ea8401ec10cd0b12115fe1e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082227,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427,imi:73031429d8c3df8e3ea8401ec10cd0b12115fe1e",
+      "episodeName": "Hull City - Manchester United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1787405100000:yfvb26",
+    "channel": "playsports1",
+    "title": "The Ballroom",
+    "start": 1787405100000,
+    "end": 1787406900000,
+    "description": "In The Ballroom beleef je de Premier League vanop de eerste rij, gewoon vanuit je zetel. Elke zaterdag ontvangen Gilles De Coster en Dennis Xhaët de grootste Premier League-liefhebbers en nemen ze je mee langs alle actie op de Engelse velden.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33879986~~2FEP065730280001%2Cimi%3Aa05c0d7bd6b1bf144858889eede700e1ce389250/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33879986~~2FEP065730280001,imi:a05c0d7bd6b1bf144858889eede700e1ce389250",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33879968~~2FSH065730280000"
+    }
+  },
+  {
+    "id": "playsports1:1787406900000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1787406900000,
+    "end": 1787414100000,
+    "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577428~~2FEP033946612430%2Cimi%3Adbd6fdc048b04bf37f44627f6530da5af9e73855/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082230,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577428~~2FEP033946612430,imi:dbd6fdc048b04bf37f44627f6530da5af9e73855",
+      "episodeName": "Ipswich Town - Sunderland",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1787414100000:yfvb26",
+    "channel": "playsports1",
+    "title": "The Ballroom",
+    "start": 1787414100000,
+    "end": 1787415900000,
+    "description": "In The Ballroom beleef je de Premier League vanop de eerste rij, gewoon vanuit je zetel. Elke zaterdag ontvangen Gilles De Coster en Dennis Xhaët de grootste Premier League-liefhebbers en nemen ze je mee langs alle actie op de Engelse velden.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33879988~~2FEP065730280002%2Cimi%3A7192e8d9c645b82c8d0c18e4bad8527b8ed6a752/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33879988~~2FEP065730280002,imi:7192e8d9c645b82c8d0c18e4bad8527b8ed6a752",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33879968~~2FSH065730280000"
+    }
+  },
+  {
+    "id": "playsports1:1787415900000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1787415900000,
+    "end": 1787423100000,
+    "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577483~~2FEP033946612431%2Cimi%3A43058512679fd0f1c6d2fba7fc61e14b0e2633ae/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082231,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577483~~2FEP033946612431,imi:43058512679fd0f1c6d2fba7fc61e14b0e2633ae",
+      "episodeName": "Brentford - Tottenham Hotspur",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1787423100000:yfvb26",
+    "channel": "playsports1",
+    "title": "The Ballroom",
+    "start": 1787423100000,
+    "end": 1787424300000,
+    "description": "In The Ballroom beleef je de Premier League vanop de eerste rij, gewoon vanuit je zetel. Elke zaterdag ontvangen Gilles De Coster en Dennis Xhaët de grootste Premier League-liefhebbers en nemen ze je mee langs alle actie op de Engelse velden.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33880036~~2FEP065730280003%2Cimi%3Aab48aa1b2418a89e31edc31112060e5710fc4e77/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33880036~~2FEP065730280003,imi:ab48aa1b2418a89e31edc31112060e5710fc4e77",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33879968~~2FSH065730280000"
     }
   },
   {
@@ -262,7 +452,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787426700000,
-    "end": 1787433300000,
+    "end": 1787433360000,
     "description": "Verslag van de wedstrijd Everton - Liverpool, gespeeld in de 6e speelronde van de Premier League.",
     "category": [
       "Sport",
@@ -288,17 +478,17 @@
     }
   },
   {
-    "id": "playsports1:1787433300000:11wg5yb",
+    "id": "playsports1:1787433360000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1787433300000,
+    "start": 1787433360000,
     "end": 1787441340000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30766589~~2FEP033948601801%2Cimi%3A7b28d385d34a68829c52101b77f424b1f8e9ba04/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30766589~~2FEP033948601801%2Cimi%3A379132bfff86861066e3b390d8f13c75d1d89c03/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -306,7 +496,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30766589~~2FEP033948601801,imi:7b28d385d34a68829c52101b77f424b1f8e9ba04",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30766589~~2FEP033948601801,imi:379132bfff86861066e3b390d8f13c75d1d89c03",
       "episodeName": "Bayern München - 1. FC Köln",
       "genres": [
         "Sport",

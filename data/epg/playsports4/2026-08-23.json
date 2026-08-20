@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports4:1787440140000:xykime",
+    "id": "playsports4:1787442480000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1787440140000,
-    "end": 1787462100000,
+    "start": 1787442480000,
+    "end": 1787463900000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "playsports4:1787462100000:1nnswin",
+    "id": "playsports4:1787463900000:1nnswin",
     "channel": "playsports4",
     "title": "UCI ProSeries Mannen",
-    "start": 1787462100000,
-    "end": 1787469300000,
+    "start": 1787463900000,
+    "end": 1787469240000,
     "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
     "category": [
       "Sport",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports4:1787469300000:3y5tln",
+    "id": "playsports4:1787469240000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1787469300000,
-    "end": 1787473200000,
+    "start": 1787469240000,
+    "end": 1787473260000,
     "description": "Verslag van de race van de MotoGP van Groot-Brittannië, gereden in Silverstone, Engeland.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1787473200000:8a2n92",
+    "id": "playsports4:1787473260000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1787473200000,
-    "end": 1787479200000,
+    "start": 1787473260000,
+    "end": 1787479260000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -118,10 +118,10 @@
     }
   },
   {
-    "id": "playsports4:1787479200000:8a2n92",
+    "id": "playsports4:1787479260000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1787479200000,
+    "start": 1787479260000,
     "end": 1787487900000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
@@ -152,7 +152,7 @@
     "channel": "playsports4",
     "title": "Eredivisie",
     "start": 1787487900000,
-    "end": 1787494860000,
+    "end": 1787495100000,
     "description": "Verslag van de wedstrijd PSV - FC Groningen uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -178,27 +178,33 @@
     }
   },
   {
-    "id": "playsports4:1787494860000:48zb9",
+    "id": "playsports4:1787495100000:1va4v2m",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1787494860000,
+    "title": "Eredivisie",
+    "start": 1787495100000,
     "end": 1787496000000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Verslag van de wedstrijd Feyenoord - Go Ahead Eagles uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557382~~2FEP035850991960%2Cimi%3A3b8d7d126c18bbf2b002587c74808d8d8eeb1960/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50990000,
+    "episode": 2026081660,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ecbf731aaae763ca5c73fa056e04b9582353dadc",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557382~~2FEP035850991960,imi:3b8d7d126c18bbf2b002587c74808d8d8eeb1960",
+      "episodeName": "Feyenoord - Go Ahead Eagles",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {
@@ -206,7 +212,7 @@
     "channel": "playsports4",
     "title": "Eredivisie",
     "start": 1787496000000,
-    "end": 1787502960000,
+    "end": 1787503200000,
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -232,27 +238,123 @@
     }
   },
   {
-    "id": "playsports4:1787502960000:48zb9",
+    "id": "playsports4:1787503200000:3tkxx5",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1787502960000,
-    "end": 1787526000000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "title": "MIDMID",
+    "start": 1787503200000,
+    "end": 1787504400000,
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A84fa3c684ef37c3938f1e31b7bad8d10601db935/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 7,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e1430398858e9fee7a293139fa7022aafc29bac4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:84fa3c684ef37c3938f1e31b7bad8d10601db935",
+      "episodeName": "Beoordeelt de Pro League-shirts",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
+    }
+  },
+  {
+    "id": "playsports4:1787504400000:8a2n92",
+    "channel": "playsports4",
+    "title": "Tennis",
+    "start": 1787504400000,
+    "end": 1787510460000,
+    "description": "Live verslag van verschillende tennisevenementen.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F935636~~2FSH028686360000~~2F531084801%2Cimi%3A5eda58f41ab7c61bfb6a754230e9bdaf966fdfd9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 86360000,
+    "episode": 531084801,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F935636~~2FSH028686360000~~2F531084801,imi:5eda58f41ab7c61bfb6a754230e9bdaf966fdfd9",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F71818c23-56e7-41c1-8def-9b99474678e7"
+    }
+  },
+  {
+    "id": "playsports4:1787510460000:8a2n92",
+    "channel": "playsports4",
+    "title": "Tennis",
+    "start": 1787510460000,
+    "end": 1787519100000,
+    "description": "Live verslag van verschillende tennisevenementen.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F935636~~2FSH028686360000~~2F531084802%2Cimi%3Ad267e802324aa69a13adaf35dc05cc89e394c117/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 86360000,
+    "episode": 531084802,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F935636~~2FSH028686360000~~2F531084802,imi:d267e802324aa69a13adaf35dc05cc89e394c117",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F71818c23-56e7-41c1-8def-9b99474678e7"
+    }
+  },
+  {
+    "id": "playsports4:1787519100000:1nnswin",
+    "channel": "playsports4",
+    "title": "UCI ProSeries Mannen",
+    "start": 1787519100000,
+    "end": 1787526300000,
+    "description": "Verslag van de races gereden in de UCI ProSeries voor mannen.",
+    "category": [
+      "Sport",
+      "Wielrennen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33636635~~2FEP049636290364%2Cimi%3Aeb62548b11656d9f968f358aa5de51d45de4a730/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 36290000,
+    "episode": 2026081564,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33636635~~2FEP049636290364,imi:eb62548b11656d9f968f358aa5de51d45de4a730",
+      "episodeName": "Arctic Race of Norway: Etappe 3",
+      "genres": [
+        "Sport",
+        "Wielrennen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26272749~~2FSH049636290000"
     }
   }
 ]

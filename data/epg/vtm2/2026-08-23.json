@@ -110,16 +110,17 @@
     }
   },
   {
-    "id": "vtm2:1787487600000:1viexit",
+    "id": "vtm2:1787487600000:rd7no2",
     "channel": "vtm2",
-    "title": "Te bepalen",
+    "title": "Ode to Joy",
     "start": 1787487600000,
-    "end": 1787494200000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "end": 1787494500000,
+    "description": "Charlie heeft een ziekte waarbij hij verlamd wanneer hij emoties ervaart, voornamelijk vreugde. Hij heeft manieren gevonden in zijn leven om daarmee om te gaan, totdat hij Francesca ontmoet en verliefd wordt.",
     "category": [
-      "Entertainment"
+      "Film",
+      "Romantische komedie"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba%2Cimi%3A9cf7946cc8fbd929c1413b17e1fed46f60ae94ce/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16821920~~2FMV020255830000%2Cimi%3A9ed10774298b8e3a1666dd0c5b16999e0c78420c/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -127,50 +128,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba,imi:9cf7946cc8fbd929c1413b17e1fed46f60ae94ce",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16821920~~2FMV020255830000,imi:9ed10774298b8e3a1666dd0c5b16999e0c78420c",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Film",
+        "Romantische komedie"
       ],
-      "productionDate": null,
+      "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
     }
   },
   {
-    "id": "vtm2:1787494200000:13gtlu6",
-    "channel": "vtm2",
-    "title": "Alles Mag Weg",
-    "start": 1787494200000,
-    "end": 1787498400000,
-    "description": "Raf en Koen, de goedlachse broers van Belga Veilingen moeten meer dan driehonderd koekoeksklokken taxeren. Kimbo en Kevin van Openbare Verkopen hebben de handen vol met het uitpakken van retourgoederen van Amazon.",
-    "category": [
-      "Reality"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F27004265~~2FEP050714410001%2Cimi%3A6af200fd4cbb08907aef662946f5eed4dfec34e4/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 1,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F27004265~~2FEP050714410001,imi:6af200fd4cbb08907aef662946f5eed4dfec34e4",
-      "episodeName": "Aflevering 1",
-      "genres": [
-        "Reality"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27004252~~2FSH050714410000"
-    }
-  },
-  {
-    "id": "vtm2:1787498400000:1jmr5ch",
+    "id": "vtm2:1787494500000:1jmr5ch",
     "channel": "vtm2",
     "title": "Viva De Costas",
-    "start": 1787498400000,
-    "end": 1787500200000,
+    "start": 1787494500000,
+    "end": 1787496300000,
     "description": "Programma waarin we Nederlandse en Belgische stellen volgen die in Spanje op zoek gaan naar een nieuwe woning of een tweede verblijf. Onder begeleiding van twee makelaars bekijken zij telkens drie woningen.",
     "category": [
       "Reality"
@@ -191,6 +165,34 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31967930~~2FSH062126410000"
+    }
+  },
+  {
+    "id": "vtm2:1787496300000:13gtlu6",
+    "channel": "vtm2",
+    "title": "Alles Mag Weg",
+    "start": 1787496300000,
+    "end": 1787500200000,
+    "description": "Raf en Koen, de goedlachse broers van Belga Veilingen moeten meer dan driehonderd koekoeksklokken taxeren. Kimbo en Kevin van Openbare Verkopen hebben de handen vol met het uitpakken van retourgoederen van Amazon.",
+    "category": [
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F27004265~~2FEP050714410001%2Cimi%3A6af200fd4cbb08907aef662946f5eed4dfec34e4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F27004265~~2FEP050714410001,imi:6af200fd4cbb08907aef662946f5eed4dfec34e4",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27004252~~2FSH050714410000"
     }
   },
   {
@@ -224,44 +226,47 @@
     }
   },
   {
-    "id": "vtm2:1787503800000:1viexit",
+    "id": "vtm2:1787503800000:1lgnhxi",
     "channel": "vtm2",
-    "title": "Te bepalen",
+    "title": "Axel Gaat Binnen",
     "start": 1787503800000,
     "end": 1787507700000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Axel Daeseleire neemt voor vijf dagen en vier nachten zijn intrek in het Forensisch Psychiatrisch Centrum (FPC) van Gent. Nooit eerder mocht hier een buitenstaander verblijven, laat staan met een cameraploeg.",
     "category": [
-      "Entertainment"
+      "Samenleving",
+      "Docu"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba%2Cimi%3A6a9482982b291ad29759ad0ac0ad1d395054448c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20912580~~2FEP036430220010%2Cimi%3A0d76d458544fb2bf84e43af618814964f991b7c9/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 2,
+    "episode": 9,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba,imi:6a9482982b291ad29759ad0ac0ad1d395054448c",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20912580~~2FEP036430220010,imi:0d76d458544fb2bf84e43af618814964f991b7c9",
+      "episodeName": "Axel Gaat Binnen: forensisch psychiatrisch centrum",
       "genres": [
-        "Entertainment"
+        "Samenleving",
+        "Docu"
       ],
-      "productionDate": null,
+      "productionDate": "2021",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F540b7dc6-1108-409b-86e3-56870749c886"
     }
   },
   {
-    "id": "vtm2:1787507700000:1viexit",
+    "id": "vtm2:1787507700000:5h81jm",
     "channel": "vtm2",
-    "title": "Te bepalen",
+    "title": "Jurassic Park III",
     "start": 1787507700000,
     "end": 1787514000000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Wanneer een rijke avonturier en zijn vrouw hem een flinke som geld bieden, laat paleontoloog Alan Grant zich overhalen om, na acht jaar, terug te keren naar de dinosaurussen. De luchttoer is van korte duur, want het vliegtuigje stort neer.",
     "category": [
-      "Entertainment"
+      "Film",
+      "Avontuur"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba%2Cimi%3A0c45ab1a6241116db834c11db86cf6948a83b9af/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28034~~2FMV011656610000%2Cimi%3Abb67eeaf3f7d4312bf6f0c7c2cdddde35721b008/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -269,12 +274,13 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba,imi:0c45ab1a6241116db834c11db86cf6948a83b9af",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28034~~2FMV011656610000,imi:bb67eeaf3f7d4312bf6f0c7c2cdddde35721b008",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Film",
+        "Avontuur"
       ],
-      "productionDate": null,
+      "productionDate": "2001",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
     }

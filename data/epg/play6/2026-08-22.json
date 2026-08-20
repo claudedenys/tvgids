@@ -544,31 +544,33 @@
     }
   },
   {
-    "id": "play6:1787406000000:3ho64",
+    "id": "play6:1787406000000:7c38q8",
     "channel": "play6",
-    "title": "F1",
+    "title": "Formule 1",
     "start": 1787406000000,
     "end": 1787412600000,
-    "description": "Elke Grand Prix wordt ontleed door Formule 1-watcher Erik van Haren van De Telegraaf en voormalig coureur Christijan Albers. Ze bespreken daarnaast al het nieuws rond Max Verstappen.",
+    "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
-      "Sporttalkshow"
+      "Sport",
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30008714~~2FSH057392200000~~2Fspecial%2Cimi%3A33311723451751ec9c296cbae8973d91c554f14b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32387549~~2FEP034610232588%2Cimi%3Acf019af58269d544e6952efa1bb127451d6ca342/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 10230000,
+    "episode": 2026082288,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30008714~~2FSH057392200000~~2Fspecial,imi:33311723451751ec9c296cbae8973d91c554f14b",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32387549~~2FEP034610232588,imi:cf019af58269d544e6952efa1bb127451d6ca342",
+      "episodeName": "GP van Nederland: Kwalificaties",
       "genres": [
-        "Sporttalkshow"
+        "Sport",
+        "Motorsport"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fca1d61f0-d2cd-4e40-a4dc-6fbcd374d62b"
     }
   },
   {

@@ -84,27 +84,33 @@
     }
   },
   {
-    "id": "playsports2:1787489700000:48zb9",
+    "id": "playsports2:1787489700000:1prlzbg",
     "channel": "playsports2",
-    "title": "Geen uitzending",
+    "title": "Premier League",
     "start": 1787489700000,
     "end": 1787496900000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577800~~2FEP033946612433%2Cimi%3Adbf172098d3309dfc700b9d0619be3c149c09d02/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 46610000,
+    "episode": 2026082333,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3fc63f291036deef788ed5c73640582b3f8975c1",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577800~~2FEP033946612433,imi:dbf172098d3309dfc700b9d0619be3c149c09d02",
+      "episodeName": "Brighton & Hove Albion - Aston Villa",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {

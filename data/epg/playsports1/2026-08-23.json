@@ -4,7 +4,7 @@
     "channel": "playsports1",
     "title": "Play Sports",
     "start": 1787441340000,
-    "end": 1787460720000,
+    "end": 1787462100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,41 +28,11 @@
     }
   },
   {
-    "id": "playsports1:1787460720000:1prlzbg",
+    "id": "playsports1:1787462100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787460720000,
-    "end": 1787466840000,
-    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30538331~~2FEP033946612349%2Cimi%3Adcd4a56974b50cdea96d40528d68b451b3b14f0e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026051749,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30538331~~2FEP033946612349,imi:dcd4a56974b50cdea96d40528d68b451b3b14f0e",
-      "episodeName": "Newcastle United - West Ham United",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1787466840000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787466840000,
-    "end": 1787473140000,
+    "start": 1787462100000,
+    "end": 1787468400000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -88,11 +58,11 @@
     }
   },
   {
-    "id": "playsports1:1787473140000:11wg5yb",
+    "id": "playsports1:1787468400000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1787473140000,
-    "end": 1787481120000,
+    "start": 1787468400000,
+    "end": 1787476320000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
@@ -118,11 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1787481120000:1prlzbg",
+    "id": "playsports1:1787476320000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787481120000,
-    "end": 1787488200000,
+    "start": 1787476320000,
+    "end": 1787483220000,
     "description": "Verslag van de wedstrijd Crystal Palace - Arsenal, gespeeld in de 1e speelronde van de Premier League.",
     "category": [
       "Sport",
@@ -148,11 +118,11 @@
     }
   },
   {
-    "id": "playsports1:1787488200000:qjkkk5",
+    "id": "playsports1:1787483220000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1787488200000,
-    "end": 1787489700000,
+    "start": 1787483220000,
+    "end": 1787484840000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
@@ -178,27 +148,153 @@
     }
   },
   {
-    "id": "playsports1:1787489700000:48zb9",
+    "id": "playsports1:1787484840000:1k3q69q",
     "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1787489700000,
-    "end": 1787507100000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "title": "(On)eens",
+    "start": 1787484840000,
+    "end": 1787489700000,
+    "description": "Commentatoren en (oud-)profsporters ploffen neer aan onze tafel voor een rondje 'eens of oneens'.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016%2Cimi%3A34fd57511ca037c4a6a927718e1424252572a803/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 2,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:286a8bd31c50b4bf64f8f0d97c06f9ba851de874",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837865~~2FEP046502810016,imi:34fd57511ca037c4a6a927718e1424252572a803",
+      "episodeName": "Een nieuw Premier League-seizoen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24064241~~2FSH046502810000"
+    }
+  },
+  {
+    "id": "playsports1:1787489700000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1787489700000,
+    "end": 1787496900000,
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432%2Cimi%3A1e54468d64a87bd61644aed46fcdf362ccbe37f9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082332,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432,imi:1e54468d64a87bd61644aed46fcdf362ccbe37f9",
+      "episodeName": "Manchester City - Bournemouth",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1787496900000:fl98t7",
+    "channel": "playsports1",
+    "title": "The Premier Show",
+    "start": 1787496900000,
+    "end": 1787498700000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871314~~2FEP065715530001%2Cimi%3A2fe24f0ee12f825b3e5641e70d5e551ffaee333e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871314~~2FEP065715530001,imi:2fe24f0ee12f825b3e5641e70d5e551ffaee333e",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33871301~~2FSH065715530000"
+    }
+  },
+  {
+    "id": "playsports1:1787498700000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1787498700000,
+    "end": 1787505900000,
+    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434%2Cimi%3Ac59201e9e82834fda59dd8a38f0d15f0e228af1b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082334,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434,imi:c59201e9e82834fda59dd8a38f0d15f0e228af1b",
+      "episodeName": "Newcastle United - Liverpool",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1787505900000:fl98t7",
+    "channel": "playsports1",
+    "title": "The Premier Show",
+    "start": 1787505900000,
+    "end": 1787507100000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871320~~2FEP065715530002%2Cimi%3Ac1f1363fac152b00fd386c167d6fec150400886b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871320~~2FEP065715530002,imi:c1f1363fac152b00fd386c167d6fec150400886b",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33871301~~2FSH065715530000"
     }
   },
   {
@@ -206,7 +302,7 @@
     "channel": "playsports1",
     "title": "Premier League Stories",
     "start": 1787507100000,
-    "end": 1787509500000,
+    "end": 1787508660000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
@@ -232,10 +328,40 @@
     }
   },
   {
-    "id": "playsports1:1787509500000:1prlzbg",
+    "id": "playsports1:1787508660000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787509500000,
+    "start": 1787508660000,
+    "end": 1787509380000,
+    "description": "Vanuit het MKM Stadium in Hull, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427%2Cimi%3Aca637e46885e163707510218ab7ac6ad8d0e310f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082227,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427,imi:ca637e46885e163707510218ab7ac6ad8d0e310f",
+      "episodeName": "Hull City - Manchester United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1787509380000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1787509380000,
     "end": 1787515800000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
@@ -266,7 +392,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1787515800000,
-    "end": 1787524560000,
+    "end": 1787524680000,
     "description": "Vanuit de Home Deluxe Arena in Paderborn, Duitsland.",
     "category": [
       "Sport",

@@ -64,7 +64,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 2 Kick-start",
     "start": 1787472000000,
-    "end": 1787480700000,
+    "end": 1787479200000,
     "description": "Live vanuit de studio van Radio 2, met je favoriete song voor een fijne dag.",
     "category": [
       "Muziek"
@@ -88,11 +88,39 @@
     }
   },
   {
-    "id": "vrtcanvas:1787480700000:hewopk",
+    "id": "vrtcanvas:1787479200000:1vqipm8",
+    "channel": "vrtcanvas",
+    "title": "Pukkelpop live",
+    "start": 1787479200000,
+    "end": 1787484300000,
+    "description": "Live verslag van het festival Pukkelpop met interviews, sfeerbeelden en uiteraard veel muziek.",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33749912~~2FEP048239940020%2Cimi%3A56bfb6709644ed44cf543e65f89179df8ceb397e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 6,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33749912~~2FEP048239940020,imi:56bfb6709644ed44cf543e65f89179df8ceb397e",
+      "episodeName": "Aflevering 6",
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25304818~~2FSH048239940000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1787484300000:hewopk",
     "channel": "vrtcanvas",
     "title": "Sporza: EK Volleybal Vrouwen 2026",
-    "start": 1787480700000,
-    "end": 1787487300000,
+    "start": 1787484300000,
+    "end": 1787490900000,
     "description": "Verslag van de wedstrijd Portugal - België, gespeeld in de groepsfase van het EK Volleybal Vrouwen 2026.",
     "category": [
       "Sport",
@@ -118,10 +146,10 @@
     }
   },
   {
-    "id": "vrtcanvas:1787487300000:11j7fgq",
+    "id": "vrtcanvas:1787490900000:11j7fgq",
     "channel": "vrtcanvas",
     "title": "Sporza: EK Gymnastiek",
-    "start": 1787487300000,
+    "start": 1787490900000,
     "end": 1787497200000,
     "description": "Verslag van het Europees kampioenschap gymnastiek in Zagreb, Kroatië. Mannen teamfinale.",
     "category": [
@@ -181,27 +209,27 @@
     "title": "Sporza: WK Hockey Mannen 2026",
     "start": 1787504100000,
     "end": 1787506200000,
-    "description": "Verslag van het WK Hockey 2026 voor mannen, gehouden in Nederland en België.",
+    "description": "Verslag van een wedstrijd gespeeld in de tweede poulefase op het WK Hockey mannen 2026.",
     "category": [
       "Sport",
       "Hockey"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32580330~~2FSH065463310000~~2F521644635%2Cimi%3Af26fc4bf9be06e0368914280f5540291a55c3bf0/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32623842~~2FEP065463310011%2Cimi%3A8415960ea28ecffa34091fa124244d011e8a532a/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 63310000,
-    "episode": 521644635,
+    "episode": 2026082311,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32580330~~2FSH065463310000~~2F521644635,imi:f26fc4bf9be06e0368914280f5540291a55c3bf0",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32623842~~2FEP065463310011,imi:8415960ea28ecffa34091fa124244d011e8a532a",
+      "episodeName": "Poule F",
       "genres": [
         "Sport",
         "Hockey"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580330~~2FSH065463310000"
     }
   },
