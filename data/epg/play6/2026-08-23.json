@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "The Terminator",
     "start": 1787439000000,
-    "end": 1787446200000,
+    "end": 1787445300000,
     "description": "Een ogenschijnlijk onverwoestbare cyborg reist vanuit de toekomst naar Los Angeles in 1984. Zijn doel is het doden van een serveerster, wiens ongeboren zoon de oorlog tegen de machines zal leiden.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1787446200000:48zb9",
+    "id": "play6:1787445300000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1787446200000,
-    "end": 1787454000000,
+    "start": 1787445300000,
+    "end": 1787453880000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ae1729b01e8bc6658e6909e8d07afc23240a302c",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1787453880000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1787453880000,
+    "end": 1787454000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a17144bcb86dc64b26026204f672c1cff2e22aa1",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

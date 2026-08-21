@@ -27,7 +27,7 @@
     "title": "NOS Journaal",
     "start": 1787265300000,
     "end": 1787266800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met sport: * Autosport: F1: Verstappen verlengt * Hockey: WK: Nederland - Japan (m) *...",
     "category": [
       "Actueel"
     ],
@@ -102,7 +102,7 @@
     "title": "NOS Journaal",
     "start": 1787270100000,
     "end": 1787271300000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met sport: * Autosport: F1: Verstappen verlengt * Hockey: WK: Nederland - Japan (m) *...",
     "category": [
       "Actueel"
     ],
@@ -127,7 +127,7 @@
     "title": "NOS Journaal",
     "start": 1787271300000,
     "end": 1787284200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Veiligheid vrouwen jaar na moord Lisa * Meer startersleningen afgesloten...",
     "category": [
       "Actueel"
     ],
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "npo1:1787285400000:1dw9gp4",
+    "id": "npo1:1787285100000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1787285400000,
+    "start": 1787285100000,
     "end": 1787286600000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -278,7 +278,7 @@
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756293422.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1276,10 +1276,32 @@
     "channel": "npo1",
     "title": "Op safari",
     "start": 1787325300000,
-    "end": 1787327220000,
+    "end": 1787327100000,
     "description": "Er worden röntgenfoto's gemaakt bij Okapi Zukuma en er komen drie Brazzameerkatten naar het safaripark.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/op-safari-756445702.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787327100000:12b58co",
+    "channel": "npo1",
+    "title": "Politieke partijen",
+    "start": 1787327100000,
+    "end": 1787327220000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-761524392.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1298,28 +1320,6 @@
     "channel": "npo1",
     "title": "Politieke partijen",
     "start": 1787327220000,
-    "end": 1787327280000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-761524392.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1787327280000:12b58co",
-    "channel": "npo1",
-    "title": "Politieke partijen",
-    "start": 1787327280000,
     "end": 1787327400000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
@@ -1440,9 +1440,9 @@
     "title": "Triviant",
     "start": 1787340600000,
     "end": 1787343600000,
-    "description": "Vijf bekende Nederlanders nemen het tegen elkaar op.",
+    "description": "In deze laatste aflevering van de tweede speelweek van Triviant maakt musicalacteur Samir Hassan zijn quizdebuut, net...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviant-756341362.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviant-756341372.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1450,7 +1450,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

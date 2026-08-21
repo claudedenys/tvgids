@@ -4,7 +4,7 @@
     "channel": "npo1",
     "title": "MAX Vakantieman",
     "start": 1787520000000,
-    "end": 1787523000000,
+    "end": 1787523300000,
     "description": "Nep-advertenties op Booking.com leiden tot grote schades en teleurstellingen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/max-vakantieman-756716362.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "npo1:1787523000000:1qmbii9",
+    "id": "npo1:1787523300000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787523000000,
-    "end": 1787524200000,
+    "start": 1787523300000,
+    "end": 1787524500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -47,11 +47,11 @@
     }
   },
   {
-    "id": "npo1:1787524200000:rvd9s8",
+    "id": "npo1:1787524500000:rvd9s8",
     "channel": "npo1",
     "title": "Van onschatbare waarde",
-    "start": 1787524200000,
-    "end": 1787527200000,
+    "start": 1787524500000,
+    "end": 1787527800000,
     "description": "Verkopers van bijzondere en waardevolle spullen krijgen de kans om hun object te verkopen aan een van de vier experts.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/van-onschatbare-waarde-757716542.jpg",
@@ -69,11 +69,11 @@
     }
   },
   {
-    "id": "npo1:1787527200000:1ebhvrh",
+    "id": "npo1:1787527800000:1ebhvrh",
     "channel": "npo1",
     "title": "NOS Journaal met gebarentaal",
-    "start": 1787527200000,
-    "end": 1787528100000,
+    "start": 1787527800000,
+    "end": 1787528700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -94,36 +94,11 @@
     }
   },
   {
-    "id": "npo1:1787528100000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1787528100000,
-    "end": 1787528700000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756446152.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
     "id": "npo1:1787528700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1787528700000,
-    "end": 1787543400000,
+    "end": 1787529300000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -139,6 +114,31 @@
       "labels": [
         "program",
         "live",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1787529300000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1787529300000,
+    "end": 1787543400000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-756446152.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
         "actueel",
         "rerun"
       ]
@@ -319,7 +319,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1787548200000,
-    "end": 1787549100000,
+    "end": 1787548800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -340,10 +340,10 @@
     }
   },
   {
-    "id": "npo1:1787549100000:1qmbii9",
+    "id": "npo1:1787548800000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787549100000,
+    "start": 1787548800000,
     "end": 1787549700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -567,7 +567,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1787555700000,
-    "end": 1787556300000,
+    "end": 1787556000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -588,11 +588,11 @@
     }
   },
   {
-    "id": "npo1:1787556300000:1qmbii9",
+    "id": "npo1:1787556000000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787556300000,
-    "end": 1787556900000,
+    "start": 1787556000000,
+    "end": 1787556600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -613,11 +613,11 @@
     }
   },
   {
-    "id": "npo1:1787556900000:1qmbii9",
+    "id": "npo1:1787556600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787556900000,
-    "end": 1787557800000,
+    "start": 1787556600000,
+    "end": 1787557500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -638,10 +638,10 @@
     }
   },
   {
-    "id": "npo1:1787557800000:1qmbii9",
+    "id": "npo1:1787557500000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787557800000,
+    "start": 1787557500000,
     "end": 1787558400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -884,7 +884,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1787565600000,
-    "end": 1787566500000,
+    "end": 1787566800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -904,10 +904,10 @@
     }
   },
   {
-    "id": "npo1:1787566500000:1qmbii9",
+    "id": "npo1:1787566800000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787566500000,
+    "start": 1787566800000,
     "end": 1787567400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -983,7 +983,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1787569200000,
-    "end": 1787569800000,
+    "end": 1787570700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1003,34 +1003,10 @@
     }
   },
   {
-    "id": "npo1:1787569800000:ejkxyx",
-    "channel": "npo1",
-    "title": "Sportjournaal",
-    "start": 1787569800000,
-    "end": 1787570400000,
-    "description": "Aandacht voor het laatste sportnieuws.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/sportjournaal-753965002.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "sport"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1787570400000:fmxwos",
+    "id": "npo1:1787570700000:fmxwos",
     "channel": "npo1",
     "title": "Kook mee met MAX",
-    "start": 1787570400000,
+    "start": 1787570700000,
     "end": 1787571300000,
     "description": "Wat eet ik vanavond?",
     "category": [],
@@ -1078,7 +1054,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1787572800000,
-    "end": 1787573700000,
+    "end": 1787574000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1098,10 +1074,10 @@
     }
   },
   {
-    "id": "npo1:1787573700000:1qmbii9",
+    "id": "npo1:1787574000000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787573700000,
+    "start": 1787574000000,
     "end": 1787574600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1177,7 +1153,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1787576400000,
-    "end": 1787577600000,
+    "end": 1787577900000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1197,11 +1173,11 @@
     }
   },
   {
-    "id": "npo1:1787577600000:1qmbii9",
+    "id": "npo1:1787577900000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787577600000,
-    "end": 1787578500000,
+    "start": 1787577900000,
+    "end": 1787578800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1222,10 +1198,10 @@
     }
   },
   {
-    "id": "npo1:1787578500000:1qmbii9",
+    "id": "npo1:1787578800000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787578500000,
+    "start": 1787578800000,
     "end": 1787580300000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1297,7 +1273,7 @@
     "channel": "npo1",
     "title": "Op safari",
     "start": 1787584500000,
-    "end": 1787586240000,
+    "end": 1787586360000,
     "description": "We zien hoe verschillende dieren omgaan met de hitte en hoe de zwarte neushoorns steeds meer oog voor elkaar krijgen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/op-safari-756843902.jpg",
@@ -1315,33 +1291,14 @@
     }
   },
   {
-    "id": "npo1:1787586240000:12b58co",
+    "id": "npo1:1787586360000:12b58co",
     "channel": "npo1",
     "title": "Politieke partijen",
-    "start": 1787586240000,
-    "end": 1787586420000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-757985882.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
-    "id": "npo1:1787586420000:12b58co",
-    "channel": "npo1",
-    "title": "Politieke partijen",
-    "start": 1787586420000,
+    "start": 1787586360000,
     "end": 1787586600000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-757985882.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-762639282.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1349,7 +1306,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -1473,7 +1433,7 @@
     "channel": "npo1",
     "title": "Goedenavond Nederland",
     "start": 1787602500000,
-    "end": 1787605800000,
+    "end": 1787606100000,
     "description": "Alles wat Nederland bezighoudt, wordt besproken.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/goedenavond-nederland-756984812.jpg",
@@ -1488,11 +1448,11 @@
     }
   },
   {
-    "id": "npo1:1787605800000:1qmbii9",
+    "id": "npo1:1787606100000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1787605800000,
-    "end": 1787607600000,
+    "start": 1787606100000,
+    "end": 1787607900000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1512,11 +1472,11 @@
     }
   },
   {
-    "id": "npo1:1787607600000:1x6xx3w",
+    "id": "npo1:1787607900000:1x6xx3w",
     "channel": "npo1",
     "title": "Goedenavond Nederland",
-    "start": 1787607600000,
-    "end": 1787610900000,
+    "start": 1787607900000,
+    "end": 1787611200000,
     "description": "Alles wat Nederland bezighoudt, wordt besproken.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/goedenavond-nederland-756984812.jpg",

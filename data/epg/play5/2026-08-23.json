@@ -1,10 +1,40 @@
 [
   {
-    "id": "play5:1787443200000:dswtyn",
+    "id": "play5:1787439900000:dswtyn",
     "channel": "play5",
     "title": "Criminal Minds",
-    "start": 1787443200000,
-    "end": 1787446500000,
+    "start": 1787439900000,
+    "end": 1787443500000,
+    "description": "Het team trekt naar San Bernardino in Californië om een reeks inbraken te onderzoeken. De daders gingen bijzonder gewelddadig te werk en deinsden niet terug om enkele bewoners van het leven te beroven.",
+    "category": [
+      "Dramaserie",
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9075153~~2FEP027942270205%2Cimi%3Ad1458d782dda4961221a80114d29379cc34e985f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 15,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9075153~~2FEP027942270205,imi:d1458d782dda4961221a80114d29379cc34e985f",
+      "episodeName": "A Thin Line",
+      "genres": [
+        "Dramaserie",
+        "Misdaaddrama"
+      ],
+      "productionDate": "2011",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8d082383-bb57-406b-b7ff-14ae1661d82f"
+    }
+  },
+  {
+    "id": "play5:1787443500000:dswtyn",
+    "channel": "play5",
+    "title": "Criminal Minds",
+    "start": 1787443500000,
+    "end": 1787445900000,
     "description": "Het team reist af naar Atlanta om de verdachte dood van twee prostituees te onderzoeken. De twee vrouwen werden op bijzonder brute wijze doodgestoken en hun lichamen werden daarna in een park gedumpt.",
     "category": [
       "Dramaserie",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1787446500000:48zb9",
+    "id": "play5:1787445900000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1787446500000,
-    "end": 1787454000000,
+    "start": 1787445900000,
+    "end": 1787453760000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:724594b9934f905510ea6f194143547cc10d6370",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1787453760000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1787453760000,
+    "end": 1787454000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2321e079a3c5759ba51bf3dab1ea7a56b0108858",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

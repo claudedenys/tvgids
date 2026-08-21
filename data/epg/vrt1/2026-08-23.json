@@ -62,7 +62,7 @@
     "channel": "vrt1",
     "title": "Coop Troep",
     "start": 1787457900000,
-    "end": 1787458500000,
+    "end": 1787458620000,
     "description": "Agnes roept de troep om hulp om Reggie's verrassingsverjaardagsfeestje te organiseren. Flo probeert Reggie weg te houden van het huis totdat hij besluit weg te sluipen en een wilde tijd te beleven.",
     "category": [
       "Kids",
@@ -88,10 +88,10 @@
     }
   },
   {
-    "id": "vrt1:1787458500000:15h1cya",
+    "id": "vrt1:1787458620000:15h1cya",
     "channel": "vrt1",
     "title": "Sisters",
-    "start": 1787458500000,
+    "start": 1787458620000,
     "end": 1787459400000,
     "description": "Marine wil het nieuwe spelletje De Eenhoornhoeve spelen op Wendy haar tablet. Omdat haar zus hem niet aan haar wil geven, moet Marine een list bedenken.",
     "category": [
@@ -680,7 +680,7 @@
     "channel": "vrt1",
     "title": "Sporza: Renewi Tour",
     "start": 1787488200000,
-    "end": 1787495100000,
+    "end": 1787494800000,
     "description": "Rit 5: Leuven - Leuven.",
     "category": [
       "Sport",
@@ -706,10 +706,38 @@
     }
   },
   {
-    "id": "vrt1:1787495100000:izi5ax",
+    "id": "vrt1:1787494800000:485hmo",
+    "channel": "vrt1",
+    "title": "Clips",
+    "start": 1787494800000,
+    "end": 1787495400000,
+    "description": "Clips.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16954694~~2FSH032321380000~~2F525832343%2Cimi%3A696b1a7534b854437ca7bc127c1ef891009f4ccf/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 21380000,
+    "episode": 525832343,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16954694~~2FSH032321380000~~2F525832343,imi:696b1a7534b854437ca7bc127c1ef891009f4ccf",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4face6bf-4d53-4a33-8cba-34715311b75b"
+    }
+  },
+  {
+    "id": "vrt1:1787495400000:izi5ax",
     "channel": "vrt1",
     "title": "Flikken Maastricht",
-    "start": 1787495100000,
+    "start": 1787495400000,
     "end": 1787498100000,
     "description": "De financial controller van een goededoelenorganisatie raakt met haar auto van de weg en sterft op weg naar het ziekenhuis. Een eenvoudig ongeluk, totdat blijkt dat ze een dodelijke hoeveelheid medicijnen in haar bloed heeft.",
     "category": [
@@ -736,33 +764,91 @@
     }
   },
   {
-    "id": "vrt1:1787498100000:dx9u16",
+    "id": "vrt1:1787498100000:1c9nygj",
     "channel": "vrt1",
-    "title": "Sporza: WK Hockey Mannen 2026",
+    "title": "VRT Zomerhit",
     "start": 1787498100000,
-    "end": 1787504400000,
-    "description": "Verslag van een wedstrijd gespeeld in de tweede poulefase op het WK Hockey mannen 2026.",
+    "end": 1787501520000,
+    "description": "Deze 5 genomineerden stellen zich aan u voor: Berre, Bart Kaëll, Bas Serra, Laura Tesoro en Niels Destadsbader. En je kan luidkeels meezingen met een internationale act. Het is pas echt zomer, met VRT Zomerhit!",
     "category": [
-      "Sport",
-      "Hockey"
+      "Muziek",
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32623842~~2FEP065463310011%2Cimi%3Ae3e7d267fe705e92a0602180ba7d03b4cd81e146/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33738728~~2FEP059245410009%2Cimi%3Af2aeeed2936b9c8454478c180853eeff2ae11c16/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 63310000,
-    "episode": 2026082311,
+    "season": 102026,
+    "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32623842~~2FEP065463310011,imi:e3e7d267fe705e92a0602180ba7d03b4cd81e146",
-      "episodeName": "Poule F",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33738728~~2FEP059245410009,imi:f2aeeed2936b9c8454478c180853eeff2ae11c16",
+      "episodeName": "Aflevering 4",
       "genres": [
-        "Sport",
-        "Hockey"
+        "Muziek",
+        "Entertainment"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580330~~2FSH065463310000"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30708197~~2FSH059245410000"
+    }
+  },
+  {
+    "id": "vrt1:1787501520000:knzn0c",
+    "channel": "vrt1",
+    "title": "VRT NWS Update",
+    "start": 1787501520000,
+    "end": 1787502000000,
+    "description": "Kort nieuwsoverzicht. Met het laatste nieuws, sport en de weersverwachting voor de komende dagen.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16191099~~2FSH030854400000~~2F533632865%2Cimi%3A9aeaf4f7ff4806dad319f41600c7443cfda161c0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 54400000,
+    "episode": 533632865,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16191099~~2FSH030854400000~~2F533632865,imi:9aeaf4f7ff4806dad319f41600c7443cfda161c0",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F16191099~~2FSH030854400000"
+    }
+  },
+  {
+    "id": "vrt1:1787502000000:19p3bgl",
+    "channel": "vrt1",
+    "title": "Chateau Planckaert",
+    "start": 1787502000000,
+    "end": 1787504400000,
+    "description": "In volle voorbereiding op hun glampingevent laat het wagenpark van de familie het afweten. Gelukkig is er Francesco, hij haalt zijn trukendoos boven om hun aftandse tractor draaiende te houden. Iluna is nu zeventien en krijgt haar eerste rijles.",
+    "category": [
+      "Docu",
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23472058~~2FEP035885290038%2Cimi%3Adde5fd3240131d41278a1ae7b6c9a2b97daaa3d2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 11,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23472058~~2FEP035885290038,imi:dde5fd3240131d41278a1ae7b6c9a2b97daaa3d2",
+      "episodeName": "Aflevering 11",
+      "genres": [
+        "Docu",
+        "Reality"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F45c57503-175a-413e-bc48-7f59861a2fc1"
     }
   },
   {
@@ -828,7 +914,7 @@
     "channel": "vrt1",
     "title": "F.C. De Kampioenen 4: Viva Boma",
     "start": 1787507400000,
-    "end": 1787513400000,
+    "end": 1787513700000,
     "description": "Ronaldinho wordt door Boma en Goedele klaargestoomd als nieuwe PDG van de 'Boma Vleesindustrie NV'. Maar zijn hart ligt meer bij het voetbal – en bij Niki, zijn nieuwe vlam. Terwijl de Kampioenen een promotiestunt voorbereiden om de 'Viva Boma'-worst te lanceren tijdens Aalst Carnaval, zien eeuwige vijanden Fernand en DDT hun kans schoon om de Kampioenen voorgoed uit te schakelen.",
     "category": [
       "Film",
@@ -854,11 +940,11 @@
     }
   },
   {
-    "id": "vrt1:1787513400000:1mxycgu",
+    "id": "vrt1:1787513700000:1mxycgu",
     "channel": "vrt1",
     "title": "Menopauzia",
-    "start": 1787513400000,
-    "end": 1787515800000,
+    "start": 1787513700000,
+    "end": 1787516100000,
     "description": "In deze aflevering heeft Tine het over hormoontherapie, seks en onderzoekt ze hoe men vroeger omging met de menopauze.",
     "category": [
       "Miniserie",
@@ -884,11 +970,11 @@
     }
   },
   {
-    "id": "vrt1:1787515800000:39vxy3",
+    "id": "vrt1:1787516100000:39vxy3",
     "channel": "vrt1",
     "title": "VRT NWS laat",
-    "start": 1787515800000,
-    "end": 1787516640000,
+    "start": 1787516100000,
+    "end": 1787516940000,
     "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
     "category": [
       "Actua"
@@ -912,11 +998,11 @@
     }
   },
   {
-    "id": "vrt1:1787516640000:ykl842",
+    "id": "vrt1:1787516940000:ykl842",
     "channel": "vrt1",
     "title": "Keno",
-    "start": 1787516640000,
-    "end": 1787516700000,
+    "start": 1787516940000,
+    "end": 1787517000000,
     "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
     "category": [
       "Spelprogramma",
@@ -942,11 +1028,11 @@
     }
   },
   {
-    "id": "vrt1:1787516700000:behtd8",
+    "id": "vrt1:1787517000000:behtd8",
     "channel": "vrt1",
     "title": "Het weer (laat)",
-    "start": 1787516700000,
-    "end": 1787517000000,
+    "start": 1787517000000,
+    "end": 1787517300000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -970,11 +1056,41 @@
     }
   },
   {
-    "id": "vrt1:1787517000000:rhc7op",
+    "id": "vrt1:1787517300000:eqaa15",
+    "channel": "vrt1",
+    "title": "Sporza: Formule 1",
+    "start": 1787517300000,
+    "end": 1787518500000,
+    "description": "Autosport highlights van de Grote Prijs Formule 1.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33749908~~2FEP047709640056%2Cimi%3A497faaccfb760a7fa930d73a92ef995264e0ab4c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 14,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33749908~~2FEP047709640056,imi:497faaccfb760a7fa930d73a92ef995264e0ab4c",
+      "episodeName": "Aflevering 14",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24921268~~2FSH047709640000"
+    }
+  },
+  {
+    "id": "vrt1:1787518500000:rhc7op",
     "channel": "vrt1",
     "title": "112 Hulp is onderweg",
-    "start": 1787517000000,
-    "end": 1787519700000,
+    "start": 1787518500000,
+    "end": 1787521200000,
     "description": "In Antwerpen krijgen ambulanciers Steven en Jesse te maken met een koppige patiënt. In Diest rukken Roland en Annebet uit voor een man die van een ladder is gevallen. In Gent krijgt Laure complimentjes van een kranige patiënt.",
     "category": [
       "Medisch",
@@ -1000,11 +1116,11 @@
     }
   },
   {
-    "id": "vrt1:1787519700000:1ps72zp",
+    "id": "vrt1:1787521200000:1ps72zp",
     "channel": "vrt1",
     "title": "Goesting",
-    "start": 1787519700000,
-    "end": 1787523000000,
+    "start": 1787521200000,
+    "end": 1787524500000,
     "description": "Fictiereeks over zes mensen met een heel verschillende achtergrond die samen een restaurant openen.",
     "category": [
       "Dramaserie"

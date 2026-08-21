@@ -203,7 +203,7 @@
     "channel": "npo2",
     "title": "Rail away",
     "start": 1787557800000,
-    "end": 1787559900000,
+    "end": 1787559600000,
     "description": "De Tsjechische Bohemen is een gebied dat eeuwenlang onder de Duitse en Oostenrijkse kroon viel, maar sinds 1993 in de...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rail-away-757022522.jpg",
@@ -222,10 +222,10 @@
     }
   },
   {
-    "id": "npo2:1787559900000:ts0apa",
+    "id": "npo2:1787559600000:ts0apa",
     "channel": "npo2",
     "title": "De streken van Van Boven",
-    "start": 1787559900000,
+    "start": 1787559600000,
     "end": 1787561400000,
     "description": "In de Wildernis van de Hondsrug, een gebied uit de IJstijd, treedt Yvette van Boven in de voetsporen van jagers en...",
     "category": [],
@@ -563,7 +563,7 @@
     "channel": "npo2",
     "title": "Wildernis onder water",
     "start": 1787581800000,
-    "end": 1787583300000,
+    "end": 1787583360000,
     "description": "In Nederland is bijna elke vierkante meter in gebruik voor wonen, werken en recreëren.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/w/carrousel/wildernis-onder-water-758493882.jpg",
@@ -581,33 +581,14 @@
     }
   },
   {
-    "id": "npo2:1787583300000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1787583300000,
-    "end": 1787583360000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-757985882.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
     "id": "npo2:1787583360000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1787583360000,
-    "end": 1787583900000,
+    "end": 1787583480000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-757985882.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-762641992.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -615,7 +596,32 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1787583480000:12b58co",
+    "channel": "npo2",
+    "title": "Politieke partijen",
+    "start": 1787583480000,
+    "end": 1787583900000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-762641992.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -868,7 +874,7 @@
     "title": "Pauscast",
     "start": 1787607600000,
     "end": 1787609100000,
-    "description": "Stijn Fens bespreekt het laatste nieuws uit de wondere wereld van paus Leo XIV en het Vaticaan.",
+    "description": "Het is zomer in Rome, de paus doet het rustig aan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/pauscast-756107522.jpg",
     "icon": null,

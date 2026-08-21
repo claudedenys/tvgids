@@ -1,10 +1,40 @@
 [
   {
-    "id": "vtm3:1787529600000:48zb9",
+    "id": "vtm3:1787526600000:1oyd2uy",
+    "channel": "vtm3",
+    "title": "The Good Doctor",
+    "start": 1787526600000,
+    "end": 1787529900000,
+    "description": "Het team besluit een jongen uit Congo die problemen heeft met zijn hart te behandelen. Murphy is in de war na een confrontatie met zijn buurvrouw Lea.",
+    "category": [
+      "Dramaserie",
+      "Medisch"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14810668~~2FEP028766880010%2Cimi%3A5056e2709851f0d9ef75bb1fbd755ee020d23e27/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 9,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14810668~~2FEP028766880010,imi:5056e2709851f0d9ef75bb1fbd755ee020d23e27",
+      "episodeName": "Intangibles",
+      "genres": [
+        "Dramaserie",
+        "Medisch"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F37222e9c-2676-4603-95ab-56db3e744a39"
+    }
+  },
+  {
+    "id": "vtm3:1787529900000:48zb9",
     "channel": "vtm3",
     "title": "Geen uitzending",
-    "start": 1787529600000,
-    "end": 1787538600000,
+    "start": 1787529900000,
+    "end": 1787544300000,
     "description": null,
     "category": [],
     "image": null,
@@ -24,11 +54,11 @@
     }
   },
   {
-    "id": "vtm3:1787538600000:48zb9",
+    "id": "vtm3:1787544300000:48zb9",
     "channel": "vtm3",
     "title": "Geen uitzending",
-    "start": 1787538600000,
-    "end": 1787544000000,
+    "start": 1787544300000,
+    "end": 1787554800000,
     "description": null,
     "category": [],
     "image": null,
@@ -42,34 +72,6 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:82e97b48b159bdf170ea2e412e80cf743aa3afb3",
       "episodeName": null,
       "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "vtm3:1787544000000:6hz2uv",
-    "channel": "vtm3",
-    "title": "Qmusic",
-    "start": 1787544000000,
-    "end": 1787554800000,
-    "description": "Geniet van de allerleukste muziek met Qmusic. Livebeelden vanuit de radiostudio, Twitter- en Instagram-updates, videoclips, weerberichten en nog veel meer.",
-    "category": [
-      "Muziek"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial%2Cimi%3A52616c5feddff6538cfaca0a54d12b33d508591b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial,imi:52616c5feddff6538cfaca0a54d12b33d508591b",
-      "episodeName": null,
-      "genres": [
-        "Muziek"
-      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null

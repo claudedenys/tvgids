@@ -32,7 +32,7 @@
     "channel": "npo3",
     "title": "NOS Jeugdjournaal met gebarentaal",
     "start": 1787455500000,
-    "end": 1787457660000,
+    "end": 1787457600000,
     "description": "Nieuwsprogramma voor de Nederlandse jeugd. Geschikt voor kinderen van negen tot twaalf. Met gebarentolk.",
     "category": [
       "Actua"
@@ -56,10 +56,10 @@
     }
   },
   {
-    "id": "npo3:1787457660000:lbnla8",
+    "id": "npo3:1787457600000:lbnla8",
     "channel": "npo3",
     "title": "Timmy tijd",
-    "start": 1787457660000,
+    "start": 1787457600000,
     "end": 1787457900000,
     "description": "Timmy houdt meer van alle blauwe dingen dan van wat dan ook. Hij drinkt uit een blauwe mok, zit op een blauw kussen en houdt alleen van blauw speelgoed. Maar een foto met alleen blauwe kleur is saai. Vanaf nu wil hij weer van alle kleuren houden.",
     "category": [
@@ -450,7 +450,7 @@
     "channel": "npo3",
     "title": "Olivia",
     "start": 1787463300000,
-    "end": 1787463960000,
+    "end": 1787464020000,
     "description": "Op de avond voor de jaarlijkse Maywood Zeepkistenrace ruïneert een regenbui de kartonnen wagen van Olivia. In plaats van de handdoek in de ring te gooien, verandert ze Perry's hondenhok in een zeepkist. Ze wint de race met Perry als haar copiloot!",
     "category": [
       "Kids",
@@ -476,10 +476,10 @@
     }
   },
   {
-    "id": "npo3:1787463960000:1gurqa8",
+    "id": "npo3:1787464020000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1787463960000,
+    "start": 1787464020000,
     "end": 1787464200000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
@@ -510,7 +510,7 @@
     "channel": "npo3",
     "title": "Mojo Fliptop",
     "start": 1787464200000,
-    "end": 1787464800000,
+    "end": 1787464860000,
     "description": "Fabio heeft een zeer plakkerige plaksaus gemaakt en raakt per ongeluk vastgeplakt aan Mojo. Komen ze ooit weer los?",
     "category": [
       "Kids",
@@ -536,11 +536,11 @@
     }
   },
   {
-    "id": "npo3:1787464800000:1gurqa8",
+    "id": "npo3:1787464860000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1787464800000,
-    "end": 1787464980000,
+    "start": 1787464860000,
+    "end": 1787465040000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -566,10 +566,10 @@
     }
   },
   {
-    "id": "npo3:1787464980000:1gurqa8",
+    "id": "npo3:1787465040000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1787464980000,
+    "start": 1787465040000,
     "end": 1787465100000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
@@ -626,39 +626,11 @@
     }
   },
   {
-    "id": "npo3:1787465400000:1ghnc7x",
-    "channel": "npo3",
-    "title": "Samson & Marie ijsjestijd",
-    "start": 1787465400000,
-    "end": 1787466000000,
-    "description": "Wanneer Marie Samson in een babyolifantpakje steekt, denkt de burgemeester dat hij echt een babyolifant is. Hij nodigt meteen alle burgemeesters van de omringende steden uit om via een onlinemeeting de babyolifant voor te stellen.",
-    "category": [
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23220377~~2FEP044236820032%2Cimi%3A3d55f0c585268a4502b6659178d49cd227d93580/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 32,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23220377~~2FEP044236820032,imi:3d55f0c585268a4502b6659178d49cd227d93580",
-      "episodeName": "De babyolifant",
-      "genres": [
-        "Entertainment"
-      ],
-      "productionDate": "2022",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22783491~~2FSH044236820000"
-    }
-  },
-  {
-    "id": "npo3:1787466000000:iu3vup",
+    "id": "npo3:1787465400000:iu3vup",
     "channel": "npo3",
     "title": "Pop Papierstad",
-    "start": 1787466000000,
-    "end": 1787466600000,
+    "start": 1787465400000,
+    "end": 1787466300000,
     "description": "Plom overwint zijn voorleesangst als iedereen tijdens de Blije Boekendag voorleest.",
     "category": [
       "Kids",
@@ -684,11 +656,11 @@
     }
   },
   {
-    "id": "npo3:1787466600000:1sow940",
+    "id": "npo3:1787466300000:1sow940",
     "channel": "npo3",
     "title": "Raad eens wat ik doe",
-    "start": 1787466600000,
-    "end": 1787467500000,
+    "start": 1787466300000,
+    "end": 1787467200000,
     "description": "Welk beroep zit er deze keer in de mysteriebox? Is het een brandweer, een conducteur, een dj of een heel ander beroep? Drie kinderen gaan door middel van een spel op zoek naar het juiste beroep.",
     "category": [
       "Kids",
@@ -714,11 +686,11 @@
     }
   },
   {
-    "id": "npo3:1787467500000:fa7rxp",
+    "id": "npo3:1787467200000:fa7rxp",
     "channel": "npo3",
     "title": "Kindertijd",
-    "start": 1787467500000,
-    "end": 1787468100000,
+    "start": 1787467200000,
+    "end": 1787467800000,
     "description": "In de serie Kom Buitenspelen laten kinderen zien waar ze graag buitenspelen. Dit keer in Rotterdam.",
     "category": [
       "Kids",
@@ -744,11 +716,11 @@
     }
   },
   {
-    "id": "npo3:1787468100000:1npxwf7",
+    "id": "npo3:1787467800000:1npxwf7",
     "channel": "npo3",
     "title": "Beestenbrigade missie",
-    "start": 1787468100000,
-    "end": 1787469000000,
+    "start": 1787467800000,
+    "end": 1787468700000,
     "description": "De missie: koeien bekappen.",
     "category": [
       "Entertainment"
@@ -772,11 +744,11 @@
     }
   },
   {
-    "id": "npo3:1787469000000:19njthn",
+    "id": "npo3:1787468700000:19njthn",
     "channel": "npo3",
     "title": "BabyBeestenBoel",
-    "start": 1787469000000,
-    "end": 1787469600000,
+    "start": 1787468700000,
+    "end": 1787469300000,
     "description": "Jonge dieren zijn heel nieuwsgierig, maar moeten veel leren voor ze op eigen benen kunnen staan. Hierna volgt een ontdekkingsreis waarbij ze alles wat de natuur te bieden heeft gaan ontdekken.",
     "category": [
       "Kids",
@@ -802,11 +774,11 @@
     }
   },
   {
-    "id": "npo3:1787469600000:7ktexw",
+    "id": "npo3:1787469300000:7ktexw",
     "channel": "npo3",
     "title": "Het betoverde dorp van Pinokkio",
-    "start": 1787469600000,
-    "end": 1787470200000,
+    "start": 1787469300000,
+    "end": 1787469900000,
     "description": "Pinokkio, Bettina en Floris raken in de problemen als ze op bezoek gaan bij Albuza het oude vrouwtje. Het lijkt er namelijk op dat ze plannen heeft om de vriendjes op te peuzelen.",
     "category": [
       "Kids",
@@ -832,11 +804,11 @@
     }
   },
   {
-    "id": "npo3:1787470200000:161jtqa",
+    "id": "npo3:1787469900000:161jtqa",
     "channel": "npo3",
     "title": "Zo is Joey!",
-    "start": 1787470200000,
-    "end": 1787470800000,
+    "start": 1787469900000,
+    "end": 1787470500000,
     "description": "Joey moet op Lilly passen, maar dat valt niet mee want ze verstopt steeds alles.",
     "category": [
       "Kids",
@@ -862,11 +834,11 @@
     }
   },
   {
-    "id": "npo3:1787470800000:1qsoju6",
+    "id": "npo3:1787470500000:1qsoju6",
     "channel": "npo3",
     "title": "De Smurfen",
-    "start": 1787470800000,
-    "end": 1787471700000,
+    "start": 1787470500000,
+    "end": 1787471400000,
     "description": "Smurfin en de leerlingen van haar Smurf-Fu-lessen zien Babysmurf ten onrechte als Smurf-Fu-goeroe.",
     "category": [
       "Kids",
@@ -892,11 +864,11 @@
     }
   },
   {
-    "id": "npo3:1787471700000:7jxi7b",
+    "id": "npo3:1787471400000:7jxi7b",
     "channel": "npo3",
     "title": "SamSam",
-    "start": 1787471700000,
-    "end": 1787472300000,
+    "start": 1787471400000,
+    "end": 1787472000000,
     "description": "Martsjel maakt het zó koud op de SamPlaneet dat de kinderen er niet meer kunnen wonen.",
     "category": [
       "Kids",
@@ -922,11 +894,11 @@
     }
   },
   {
-    "id": "npo3:1787472300000:vk2ib9",
+    "id": "npo3:1787472000000:vk2ib9",
     "channel": "npo3",
     "title": "Kiwi & Strit",
-    "start": 1787472300000,
-    "end": 1787472600000,
+    "start": 1787472000000,
+    "end": 1787472300000,
     "description": "Kiwi heeft een nieuwe fiets, en hij daagt Strit uit voor een wedstrijdje.",
     "category": [
       "Kids",
@@ -952,11 +924,11 @@
     }
   },
   {
-    "id": "npo3:1787472600000:his6qo",
+    "id": "npo3:1787472300000:his6qo",
     "channel": "npo3",
     "title": "Lucas de spin",
-    "start": 1787472600000,
-    "end": 1787472900000,
+    "start": 1787472300000,
+    "end": 1787472600000,
     "description": "Lucas ontdekt dat er uit een piepklein zaadje een prachtige zonnebloem kan groeien.",
     "category": [
       "Kids",
@@ -982,11 +954,11 @@
     }
   },
   {
-    "id": "npo3:1787472900000:4k98ix",
+    "id": "npo3:1787472600000:4k98ix",
     "channel": "npo3",
     "title": "Masha en de Beer",
-    "start": 1787472900000,
-    "end": 1787473500000,
+    "start": 1787472600000,
+    "end": 1787473200000,
     "description": "Beer moet naar het huis van Beer om haar te helpen met wat werk, en in haar afwezigheid laat hij de leiding eerst over aan Panda en dan aan Masha, met onverwachte gevolgen.",
     "category": [
       "Kids",
@@ -1012,11 +984,11 @@
     }
   },
   {
-    "id": "npo3:1787473500000:o103md",
+    "id": "npo3:1787473200000:o103md",
     "channel": "npo3",
     "title": "Shaun het schaap",
-    "start": 1787473500000,
-    "end": 1787473800000,
+    "start": 1787473200000,
+    "end": 1787473500000,
     "description": "De boer ontdekt zijn oude golfclubs en besluit in het veld te gaan golfen. Hij krijgt rugklachten waarna Shaun een kans krijgt om de sport te beoefenen. Bitzer mag daarentegen voor zijn geblesseerde baasje zorgen.",
     "category": [
       "Kids",
@@ -1042,10 +1014,10 @@
     }
   },
   {
-    "id": "npo3:1787473800000:1gurqa8",
+    "id": "npo3:1787473500000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1787473800000,
+    "start": 1787473500000,
     "end": 1787474700000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
@@ -1076,7 +1048,7 @@
     "channel": "npo3",
     "title": "Splat & Seymour",
     "start": 1787474700000,
-    "end": 1787475600000,
+    "end": 1787475300000,
     "description": "Splat weet papa ervan te overtuigen dat hij op de Kwaak-kwaak winkel kan passen met Seymour, terwijl papa weg moet. Maar ze geven per ongeluk de eend van meneer Manx aan mevrouw Gatinio. Splat wil het zelf rechtzetten zonder dat papa erachter komt.",
     "category": [
       "Kids",
@@ -1102,11 +1074,11 @@
     }
   },
   {
-    "id": "npo3:1787475600000:804gxe",
+    "id": "npo3:1787475300000:804gxe",
     "channel": "npo3",
     "title": "Wickie de Viking",
-    "start": 1787475600000,
-    "end": 1787476200000,
+    "start": 1787475300000,
+    "end": 1787475900000,
     "description": "Faxe redt een walvis het leven en die gaat hem overal volgen. Deze vriendschap bewijst goede diensten wanneer Sven opduikt.",
     "category": [
       "Kids",
@@ -1132,11 +1104,11 @@
     }
   },
   {
-    "id": "npo3:1787476200000:1qkff7d",
+    "id": "npo3:1787475900000:1qkff7d",
     "channel": "npo3",
     "title": "Superworm",
-    "start": 1787476200000,
-    "end": 1787477700000,
+    "start": 1787475900000,
+    "end": 1787477400000,
     "description": "Superworm is super-lang en super-sterk en hij redt altijd alles en iedereen. Maar wie redt Superworm wanneer hij gevangengenomen wordt door de gemene Tijn Toverhagedis?",
     "category": [
       "Kids",
@@ -1162,11 +1134,11 @@
     }
   },
   {
-    "id": "npo3:1787477700000:ol732",
+    "id": "npo3:1787477400000:ol732",
     "channel": "npo3",
     "title": "Helemaal de Baas",
-    "start": 1787477700000,
-    "end": 1787482620000,
+    "start": 1787477400000,
+    "end": 1787482500000,
     "description": "Twee slimme jongens van dertien starten een onderneming met een mysterieuze investeerder, maar om hun geheim te bewaren, moeten ze een riskant plan uitvoeren: Olivers werkloze vader inhuren zonder dat hij weet dat hij voor zijn eigen zoon werkt.",
     "category": [
       "Film",
@@ -1192,11 +1164,11 @@
     }
   },
   {
-    "id": "npo3:1787482620000:1r4n1gy",
+    "id": "npo3:1787482500000:1r4n1gy",
     "channel": "npo3",
     "title": "Kinderprinsengrachtconcert 2026",
-    "start": 1787482620000,
-    "end": 1787484900000,
+    "start": 1787482500000,
+    "end": 1787484600000,
     "description": "Jonge talenten zorgen samen met bekende Nederlandse artiesten voor een muziekspektakel op de Prinsengracht in Amsterdam. Ze combineren klassieke muziek met populaire nummers van nu, voor jong en oud. De veertienjarige harpist Nora Gommers, de twaalfjarige violist Sara Kazama en de twaalfjarige pianist Yulianna Beziazychna treden op met een ensemble, bestaande uit onder anderen leden van het Jeugdorkest Nederland. Het ensemble staat onder leiding van dirigent en arrangeur Edwin Schimscheimer.",
     "category": [
       "Muziek"
@@ -1220,11 +1192,11 @@
     }
   },
   {
-    "id": "npo3:1787484900000:1uyh4qz",
+    "id": "npo3:1787484600000:1uyh4qz",
     "channel": "npo3",
     "title": "Zeven kleine criminelen",
-    "start": 1787484900000,
-    "end": 1787486400000,
+    "start": 1787484600000,
+    "end": 1787486100000,
     "description": "Nu de overval niet door kan gaan, omdat Tenno op de hoogte is van het plan, lijkt de huisuitzetting onvermijdelijk. Totdat Raffie bedenkt om Tenno bij het team te vragen. Iedereen is blij behalve Wahid.",
     "category": [
       "Kids",
@@ -1250,10 +1222,10 @@
     }
   },
   {
-    "id": "npo3:1787486400000:141n5pw",
+    "id": "npo3:1787486100000:141n5pw",
     "channel": "npo3",
     "title": "De zomer van Zoë",
-    "start": 1787486400000,
+    "start": 1787486100000,
     "end": 1787487000000,
     "description": "Is de liefde van Zoë en Daan wel bestand tegen de grote afstand van elkaar, nu de manege gaat verhuizen? En wat voor wraakzuchtige plannen hebben Kelly en Lauren?",
     "category": [
@@ -1282,7 +1254,7 @@
     "channel": "npo3",
     "title": "De zomer van Zoë",
     "start": 1787487000000,
-    "end": 1787487900000,
+    "end": 1787487600000,
     "description": "Wanneer haar vader met Corona in een zorghotel ligt en haar moeder dubbele diensten draait om de kost te verdienen, is de manege de belangrijkste plek in haar leven. Daar beleeft ze samen met haar BFF Kate en de stalhulp Daan een spannend avontuur.",
     "category": [
       "Dramaserie"
@@ -1306,10 +1278,10 @@
     }
   },
   {
-    "id": "npo3:1787487900000:141n5pw",
+    "id": "npo3:1787487600000:141n5pw",
     "channel": "npo3",
     "title": "De zomer van Zoë",
-    "start": 1787487900000,
+    "start": 1787487600000,
     "end": 1787488500000,
     "description": "De ouders van Zoë nemen de moeilijke beslissing om te gaan scheiden, wat grote gevolgen heeft voor Zoë. Haar vader vertrekt naar het buitenland en Zoë blijft alleen achter met haar moeder.",
     "category": [
@@ -1396,7 +1368,7 @@
     "channel": "npo3",
     "title": "The Lady Grace Mysteries",
     "start": 1787490300000,
-    "end": 1787491800000,
+    "end": 1787491500000,
     "description": "Iedereen denkt dat een spook het hof onveilig maakt, maar Grace ontdekt wat er echt aan de hand is en komt lijnrecht tegenover haar vrienden te staan.",
     "category": [
       "Dramaserie",
@@ -1422,11 +1394,11 @@
     }
   },
   {
-    "id": "npo3:1787491800000:1drg16p",
+    "id": "npo3:1787491500000:1drg16p",
     "channel": "npo3",
     "title": "Dunya & Desie in Marokko",
-    "start": 1787491800000,
-    "end": 1787497500000,
+    "start": 1787491500000,
+    "end": 1787497200000,
     "description": "Op haar achttiende verjaardag krijgt Dunya tot haar grote schrik te horen dat ze uitgehuwelijkt wordt aan een Marokkaanse neef. Tegelijkertijd raakt Desie zwanger van haar rijschoolleraar. Ze weet niet of ze het kindje moet houden en besluit samen met Dunya op zoek te gaan naar haar biologische vader. Wanneer deze in Marokko blijkt te wonen, lijkt dit een uitweg voor hen allebei. In Marokko komen ze in komische, romantische en confronterende situaties terecht die hen dwingen tot keuzes.",
     "category": [
       "Film",
@@ -1452,10 +1424,10 @@
     }
   },
   {
-    "id": "npo3:1787497500000:1vusrqt",
+    "id": "npo3:1787497200000:1vusrqt",
     "channel": "npo3",
     "title": "Bollox",
-    "start": 1787497500000,
+    "start": 1787497200000,
     "end": 1787498100000,
     "description": "Het broertje van Daisy (11) heeft een verstandelijke beperking en wordt daardoor niet altijd goed begrepen door andere mensen. Sterker nog, er zijn mensen die hem schofferen. Onbegrijpelijk en reden genoeg om ontzettend kwaad te worden!",
     "category": [
@@ -1546,7 +1518,7 @@
     "channel": "npo3",
     "title": "Topdoks in de tropen",
     "start": 1787500500000,
-    "end": 1787502000000,
+    "end": 1787501700000,
     "description": "Rachel en Elbert zijn in Sierra Leone. Op het ziekenhuisschip in de haven van Freetown gaan de patiënten af en toe naar buiten. Elbert doet met hen de stoelendans. Rachel ziet in de operatiekamer hoe het verbrande handje van Hawa wordt geopereerd.",
     "category": [
       "Educatie"
@@ -1570,10 +1542,10 @@
     }
   },
   {
-    "id": "npo3:1787502000000:1d04ymu",
+    "id": "npo3:1787501700000:1d04ymu",
     "channel": "npo3",
     "title": "Wilde buren",
-    "start": 1787502000000,
+    "start": 1787501700000,
     "end": 1787502900000,
     "description": "In Friesland geeft Hasan in zijn ecologische tuin een stuk land terug aan de natuur. Maar nu een aantal herten zijn tuin regelmatig slopen, komt die natuur wel erg dichtbij. Kan Wildebras bemiddelen?",
     "category": [

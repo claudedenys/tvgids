@@ -1,33 +1,9 @@
 [
   {
-    "id": "ketnet:1787511600000:48zb9",
+    "id": "ketnet:1787519400000:48zb9",
     "channel": "ketnet",
     "title": "Geen uitzending",
-    "start": 1787511600000,
-    "end": 1787540400000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e4bc2bfd3abd01cba67e4ee3f739fca99ac81f8e",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "ketnet:1787540400000:48zb9",
-    "channel": "ketnet",
-    "title": "Geen uitzending",
-    "start": 1787540400000,
+    "start": 1787519400000,
     "end": 1787544000000,
     "description": null,
     "category": [],
@@ -39,7 +15,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4f53d91475eba967ca4fe20b5c6f1cb975cd45ca",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e4bc2bfd3abd01cba67e4ee3f739fca99ac81f8e",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -258,7 +234,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1787546100000,
-    "end": 1787546700000,
+    "end": 1787546400000,
     "description": "Dropje haalt `de kriebel' uit de trui van een buurmeisje. Het is fijn dat het nu niet meer kriebelt, maar het is wel een beetje koud.",
     "category": [
       "Kids",
@@ -284,11 +260,11 @@
     }
   },
   {
-    "id": "ketnet:1787546700000:dvn84u",
+    "id": "ketnet:1787546400000:dvn84u",
     "channel": "ketnet",
     "title": "Sarah knutselt",
-    "start": 1787546700000,
-    "end": 1787547000000,
+    "start": 1787546400000,
+    "end": 1787546700000,
     "description": "Sarah knutselt samen met haar vriendjes de leukste knutselwerkjes.",
     "category": [
       "Kids",
@@ -314,11 +290,11 @@
     }
   },
   {
-    "id": "ketnet:1787547000000:ykedwl",
+    "id": "ketnet:1787546700000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1787547000000,
-    "end": 1787547600000,
+    "start": 1787546700000,
+    "end": 1787547300000,
     "description": "Bing en Sula vinden een heliumballon die vastzit in een boom in het park. Ze willen er allebei tegelijkertijd mee spelen, dus Flop maakt twee touwtjes en ze verzinnen een vrolijk spel, genaamd Uppie-Eendje.",
     "category": [
       "Kids",
@@ -344,11 +320,11 @@
     }
   },
   {
-    "id": "ketnet:1787547600000:1ysf81w",
+    "id": "ketnet:1787547300000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1787547600000,
-    "end": 1787548200000,
+    "start": 1787547300000,
+    "end": 1787547900000,
     "description": "Jackson de boer kan zijn schapen niet terug in de wei krijgen. Mojo en Bo proberen ze te lokken met een bloemenhoed, terwijl Preston trots is op zijn bloemenshow. Maar de schapen hebben andere plannen.",
     "category": [
       "Kids",
@@ -374,11 +350,11 @@
     }
   },
   {
-    "id": "ketnet:1787548200000:1yt1qve",
+    "id": "ketnet:1787547900000:1yt1qve",
     "channel": "ketnet",
     "title": "Sarah: Sokpop en de klanken",
-    "start": 1787548200000,
-    "end": 1787548500000,
+    "start": 1787547900000,
+    "end": 1787548200000,
     "description": "TE: 20 Sarah en Sokpop ontdekken de wereld van de klanken. Doen jullie mee?",
     "category": [
       "Educatie"
@@ -402,11 +378,11 @@
     }
   },
   {
-    "id": "ketnet:1787548500000:ne1xug",
+    "id": "ketnet:1787548200000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1787548500000,
-    "end": 1787549100000,
+    "start": 1787548200000,
+    "end": 1787548800000,
     "description": "Fiona roept de hulp in van de Biggenbouwers om haar pompoen te verplaatsen naar Bens Grote Groentefestival. De biggen gaan aan de slag, maar de klus lijkt onmogelijk.",
     "category": [
       "Kids",
@@ -429,6 +405,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1787548800000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1787548800000,
+    "end": 1787549100000,
+    "description": "Samson en Marie hebben auditie gedaan voor een toneelstuk. Het is tof aan het koninklijke hof. Het stuk gaat over een koning en een koningin in een kasteel. Marie is er zeker van dat ze de hoofdrol zal bemachtigen.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19127168~~2FEP036193980046%2Cimi%3A626caa62b9303e9b533dfa5393530d1fb9c82baf/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 46,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19127168~~2FEP036193980046,imi:626caa62b9303e9b533dfa5393530d1fb9c82baf",
+      "episodeName": "Het toneel",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -730,7 +736,7 @@
     "channel": "ketnet",
     "title": "De Smurfen",
     "start": 1787559000000,
-    "end": 1787559600000,
+    "end": 1787559540000,
     "description": "Potige Smurf probeert Smurfins aandacht te trekken, maar dit lijkt niet te lukken. Hij is ervan overtuigd dat het door zijn grote neus komt en gaat op zoek naar een manier om zijn neus kleiner te maken.",
     "category": [
       "Kids",
@@ -756,10 +762,40 @@
     }
   },
   {
-    "id": "ketnet:1787559600000:p8c4k7",
+    "id": "ketnet:1787559540000:3xzc6b",
+    "channel": "ketnet",
+    "title": "Molang",
+    "start": 1787559540000,
+    "end": 1787559900000,
+    "description": "Molang en Piu Piu zijn op hun kleine boot als ze in de verte een wrak schip zien liggen. De kapitein zweert dat een monster hem heeft aangevallen en ze vragen zich af of het monster misschien alleen de zee verdedigt.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20661330~~2FEP029973130503%2Cimi%3A72bb355d64f07ed5899446575d1bda6c83114d64/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 31,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20661330~~2FEP029973130503,imi:72bb355d64f07ed5899446575d1bda6c83114d64",
+      "episodeName": "20 000 Scraps Under the Sea",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fac960665-9961-42de-af0f-35667a166431"
+    }
+  },
+  {
+    "id": "ketnet:1787559900000:p8c4k7",
     "channel": "ketnet",
     "title": "Grizzy & the Lemmings",
-    "start": 1787559600000,
+    "start": 1787559900000,
     "end": 1787560200000,
     "description": "De Lemmingen zijn op hun hoofden geslagen en raken gehypnotiseerd door een fitnessposter. Vervolgens denken ze dat ze sportcoaches zijn. Ze sporen Grizzly aan om keihard te trainen, maar die zou veel liever zitten.",
     "category": [
@@ -1058,7 +1094,7 @@
     "channel": "ketnet",
     "title": "Vos en Haas",
     "start": 1787563500000,
-    "end": 1787564100000,
+    "end": 1787564400000,
     "description": "Om in Lola's ogen te schitteren, besluit Bernard een dappere ridder te worden om haar te bewijzen wat hij waard is. Hij vraagt Rock om hem te helpen een draak te bouwen die hij kan verslaan om indruk te maken op zijn geliefde.",
     "category": [
       "Kids",
@@ -1084,63 +1120,31 @@
     }
   },
   {
-    "id": "ketnet:1787564100000:1djaw1n",
+    "id": "ketnet:1787564400000:45jrgh",
     "channel": "ketnet",
-    "title": "Yetili vertelt",
-    "start": 1787564100000,
-    "end": 1787564400000,
-    "description": "Meneer Felix heeft zichzelf een doel gegeven. Hij wil een uitvinding per week door het jaar heen maken, oftewel 52 uitvindingen in totaal. Hij vraagt zich af of hij een machine kan maken die mensen nog rijker maakt.",
-    "category": [
-      "Kids",
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15211660~~2FEP034525560077%2Cimi%3A991e876088ba3d901320f5d92ddecc5d0c135c53/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 40,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F15211660~~2FEP034525560077,imi:991e876088ba3d901320f5d92ddecc5d0c135c53",
-      "episodeName": "De uitvinder",
-      "genres": [
-        "Kids",
-        "Comedy"
-      ],
-      "productionDate": "2017",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13576269~~2FSH034525560000"
-    }
-  },
-  {
-    "id": "ketnet:1787564400000:1k7riyw",
-    "channel": "ketnet",
-    "title": "Sarah & Zola koken",
+    "title": "Sarah: Sokpop en Doosje",
     "start": 1787564400000,
     "end": 1787564700000,
-    "description": "Er staat pompoensoep op het menu. Zola vergat een pompoen te kopen, maar gelukkig zorgt Sokpop voor een oplossing. Sarah legt stap voor stap uit hoe je het gerecht maakt. Sarah, Zola, Sokpop, Bavo en hun vriendjes smullen van de pompoensoep.",
+    "description": "Sokpop raadt wat er in Doosje zit. Iedereen mag proberen om met Sokpop mee te raden.",
     "category": [
-      "Koken",
       "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30718777~~2FEP059146210007%2Cimi%3Aba952d43a045b03330fa0672b293e0125ec8dcfd/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23220308~~2FEP044944410005%2Cimi%3A2e6ae6f3ca8fbd561afa4eb5ac696cff451bfcfc/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 2025,
-    "episode": 9,
+    "season": 1,
+    "episode": 5,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30718777~~2FEP059146210007,imi:ba952d43a045b03330fa0672b293e0125ec8dcfd",
-      "episodeName": "Pompoensoep",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23220308~~2FEP044944410005,imi:2e6ae6f3ca8fbd561afa4eb5ac696cff451bfcfc",
+      "episodeName": "Auto",
       "genres": [
-        "Koken",
         "Entertainment"
       ],
-      "productionDate": "2025",
+      "productionDate": "2022",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30675337~~2FSH059146210000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23169729~~2FSH044944410000"
     }
   },
   {
@@ -2548,7 +2552,7 @@
     "channel": "ketnet",
     "title": "#LikeMe",
     "start": 1787590200000,
-    "end": 1787592000000,
+    "end": 1787591700000,
     "description": "Door aanhoudende problemen wordt Wolfs verplicht om met pensioen te gaan. De rave van Caro en Emma was de laatste druppel. Peter is niet te spreken over het gedrag van zijn dochter. Caro moet het goed zien te maken met haar vrienden en familie.",
     "category": [
       "Avontuur",
@@ -2571,6 +2575,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F12d4f139-bb21-496c-a7f4-1b3e8e5cf17d"
+    }
+  },
+  {
+    "id": "ketnet:1787591700000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1787591700000,
+    "end": 1787592000000,
+    "description": "De Lemmingen hebben een plan bedacht om hun pot Yummy weer terug te krijgen en weten zichzelf heel erg klein te maken.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20461749~~2FEP041241250464%2Cimi%3A3aa3f1a2db266944db564af5355669a3601ffd84/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 43,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20461749~~2FEP041241250464,imi:3aa3f1a2db266944db564af5355669a3601ffd84",
+      "episodeName": "Klein leed",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {

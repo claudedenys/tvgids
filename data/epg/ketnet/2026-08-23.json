@@ -2484,7 +2484,7 @@
     "channel": "ketnet",
     "title": "Geen uitzending",
     "start": 1787508000000,
-    "end": 1787508900000,
+    "end": 1787509200000,
     "description": null,
     "category": [],
     "image": null,
@@ -2504,11 +2504,41 @@
     }
   },
   {
-    "id": "ketnet:1787508900000:1ym5uq4",
+    "id": "ketnet:1787509200000:dx9u16",
+    "channel": "ketnet",
+    "title": "Sporza: WK Hockey Mannen 2026",
+    "start": 1787509200000,
+    "end": 1787516700000,
+    "description": "Verslag van een wedstrijd gespeeld in de tweede poulefase op het WK Hockey mannen 2026.",
+    "category": [
+      "Sport",
+      "Hockey"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32623842~~2FEP065463310011%2Cimi%3Aa4e6da0b19ad1a382f6abb6539df0a16f3ef935d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 63310000,
+    "episode": 2026082311,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32623842~~2FEP065463310011,imi:a4e6da0b19ad1a382f6abb6539df0a16f3ef935d",
+      "episodeName": "Poule F: Germany - Australia",
+      "genres": [
+        "Sport",
+        "Hockey"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580330~~2FSH065463310000"
+    }
+  },
+  {
+    "id": "ketnet:1787516700000:1ym5uq4",
     "channel": "ketnet",
     "title": "VRT NWS journaal met VGT",
-    "start": 1787508900000,
-    "end": 1787511600000,
+    "start": 1787516700000,
+    "end": 1787519400000,
     "description": "Nieuws en sport, getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
       "Actua"
@@ -2532,11 +2562,11 @@
     }
   },
   {
-    "id": "ketnet:1787511600000:48zb9",
+    "id": "ketnet:1787519400000:48zb9",
     "channel": "ketnet",
     "title": "Geen uitzending",
-    "start": 1787511600000,
-    "end": 1787540400000,
+    "start": 1787519400000,
+    "end": 1787544000000,
     "description": null,
     "category": [],
     "image": null,

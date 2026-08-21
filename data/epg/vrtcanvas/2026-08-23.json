@@ -180,7 +180,7 @@
     "channel": "vrtcanvas",
     "title": "Pukkelpop live",
     "start": 1787497200000,
-    "end": 1787504100000,
+    "end": 1787526000000,
     "description": "Live verslag van het festival Pukkelpop met interviews, sfeerbeelden en uiteraard veel muziek.",
     "category": [
       "Muziek"
@@ -195,94 +195,6 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33749879~~2FEP048239940019,imi:fee062c80218b888898d0523bcbaf65ecb8dacfb",
       "episodeName": "Aflevering 5",
-      "genres": [
-        "Muziek"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25304818~~2FSH048239940000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1787504100000:dx9u16",
-    "channel": "vrtcanvas",
-    "title": "Sporza: WK Hockey Mannen 2026",
-    "start": 1787504100000,
-    "end": 1787506200000,
-    "description": "Verslag van een wedstrijd gespeeld in de tweede poulefase op het WK Hockey mannen 2026.",
-    "category": [
-      "Sport",
-      "Hockey"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32623842~~2FEP065463310011%2Cimi%3A8415960ea28ecffa34091fa124244d011e8a532a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 63310000,
-    "episode": 2026082311,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32623842~~2FEP065463310011,imi:8415960ea28ecffa34091fa124244d011e8a532a",
-      "episodeName": "Poule F",
-      "genres": [
-        "Sport",
-        "Hockey"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580330~~2FSH065463310000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1787506200000:eqaa15",
-    "channel": "vrtcanvas",
-    "title": "Sporza: Formule 1",
-    "start": 1787506200000,
-    "end": 1787507400000,
-    "description": "Autosport highlights van de Grote Prijs Formule 1.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33749908~~2FEP047709640056%2Cimi%3A9a50a75427cbb764949325f3d5a816dc3248bada/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 14,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33749908~~2FEP047709640056,imi:9a50a75427cbb764949325f3d5a816dc3248bada",
-      "episodeName": "Aflevering 14",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24921268~~2FSH047709640000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1787507400000:1vqipm8",
-    "channel": "vrtcanvas",
-    "title": "Pukkelpop live",
-    "start": 1787507400000,
-    "end": 1787526000000,
-    "description": "Live verslag van het festival Pukkelpop met interviews, sfeerbeelden en uiteraard veel muziek.",
-    "category": [
-      "Muziek"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33749912~~2FEP048239940020%2Cimi%3Afc1a61a33e97760c5728bd97ebe565157b29de45/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 6,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33749912~~2FEP048239940020,imi:fc1a61a33e97760c5728bd97ebe565157b29de45",
-      "episodeName": "Aflevering 6",
       "genres": [
         "Muziek"
       ],

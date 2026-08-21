@@ -49,7 +49,7 @@
     "title": "Nieuwsuur",
     "start": 1787264400000,
     "end": 1787266800000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Kritiek op onderzoek naar medische missers Ziekenhuizen pakken het onderzoek naar...",
     "category": [
       "Actueel"
     ],
@@ -74,11 +74,11 @@
     "title": "Nieuwsuur",
     "start": 1787266800000,
     "end": 1787288400000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Kritiek op onderzoek naar medische missers Ziekenhuizen pakken het onderzoek naar...",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nieuwsuur-756293172.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -303,7 +303,7 @@
     "channel": "npo2",
     "title": "BinnensteBuiten",
     "start": 1787302800000,
-    "end": 1787304900000,
+    "end": 1787304600000,
     "description": "Met in deze uitzending: * Carin en Diederik zoeken een atypisch huis en vinden dat in een voormalige slachterij in...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/binnenstebuiten-756595042.jpg",
@@ -321,10 +321,10 @@
     }
   },
   {
-    "id": "npo2:1787304900000:1rpt2na",
+    "id": "npo2:1787304600000:1rpt2na",
     "channel": "npo2",
     "title": "NPO Cultuur",
-    "start": 1787304900000,
+    "start": 1787304600000,
     "end": 1787306400000,
     "description": "Kunstliefhebber Rachel Pouwer duikt in het Nederlandse culturele aanbod en laat zien wat er voor moois te zien, te...",
     "category": [],
@@ -347,7 +347,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1787306400000,
-    "end": 1787307300000,
+    "end": 1787307600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -367,10 +367,10 @@
     }
   },
   {
-    "id": "npo2:1787307300000:vg9k6u",
+    "id": "npo2:1787307600000:vg9k6u",
     "channel": "npo2",
     "title": "Bak mee met MAX",
-    "start": 1787307300000,
+    "start": 1787307600000,
     "end": 1787308200000,
     "description": "Toegankelijke en inspirerende lekkernijen worden bereid.",
     "category": [],
@@ -483,7 +483,7 @@
     "channel": "npo2",
     "title": "Het uur van de wolf",
     "start": 1787313900000,
-    "end": 1787317800000,
+    "end": 1787317620000,
     "description": "Documentaire over de Vereniging Rembrandt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/het-uur-van-de-wolf-755802272.jpg",
@@ -501,14 +501,36 @@
     }
   },
   {
-    "id": "npo2:1787317800000:vg9k6u",
+    "id": "npo2:1787317620000:vg9k6u",
     "channel": "npo2",
     "title": "Bak mee met MAX",
-    "start": 1787317800000,
-    "end": 1787318400000,
+    "start": 1787317620000,
+    "end": 1787317680000,
     "description": "Toegankelijke en inspirerende lekkernijen worden bereid.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/bak-mee-met-max-759492942.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1787317680000:fmxwos",
+    "channel": "npo2",
+    "title": "Kook mee met MAX",
+    "start": 1787317680000,
+    "end": 1787318400000,
+    "description": "Wat eet ik vanavond?",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kook-mee-met-max-762639312.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
