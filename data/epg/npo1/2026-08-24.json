@@ -145,10 +145,10 @@
     }
   },
   {
-    "id": "npo1:1787544600000:1dw9gp4",
+    "id": "npo1:1787544300000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1787544600000,
+    "start": 1787544300000,
     "end": 1787545800000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -1414,10 +1414,10 @@
     "channel": "npo1",
     "title": "Triviant",
     "start": 1787599500000,
-    "end": 1787602500000,
-    "description": "Vijf bekende Nederlanders nemen het tegen elkaar op.",
+    "end": 1787602800000,
+    "description": "Actrice Melissa Drost speelde de gelijknamige juf in de kinderserie Juf Roos.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviant-756772032.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/triviant-756984802.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1425,14 +1425,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {
-    "id": "npo1:1787602500000:1x6xx3w",
+    "id": "npo1:1787602800000:1x6xx3w",
     "channel": "npo1",
     "title": "Goedenavond Nederland",
-    "start": 1787602500000,
+    "start": 1787602800000,
     "end": 1787606100000,
     "description": "Alles wat Nederland bezighoudt, wordt besproken.",
     "category": [],

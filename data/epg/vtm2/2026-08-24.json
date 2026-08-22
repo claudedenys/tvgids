@@ -4,7 +4,7 @@
     "channel": "vtm2",
     "title": "Geen uitzending",
     "start": 1787526300000,
-    "end": 1787558400000,
+    "end": 1787560500000,
     "description": null,
     "category": [],
     "image": null,
@@ -24,11 +24,11 @@
     }
   },
   {
-    "id": "vtm2:1787558400000:1dml2ik",
+    "id": "vtm2:1787560500000:1dml2ik",
     "channel": "vtm2",
     "title": "My Kitchen Rules",
-    "start": 1787558400000,
-    "end": 1787563800000,
+    "start": 1787560500000,
+    "end": 1787565300000,
     "description": "De beste vriendinnen Coco en Pearls uit Northern Rivers in New South Wales, Australië, doen er alles aan om hun gasten zowel stijl als inhoud te bieden met een creatief menu.",
     "category": [
       "Koken",
@@ -54,11 +54,11 @@
     }
   },
   {
-    "id": "vtm2:1787563800000:71qygw",
+    "id": "vtm2:1787565300000:71qygw",
     "channel": "vtm2",
     "title": "Achter gesloten deuren",
-    "start": 1787563800000,
-    "end": 1787567100000,
+    "start": 1787565300000,
+    "end": 1787568300000,
     "description": "Lize en Tess zijn hartsvriendinnen die elkaar steunen door dik en dun. En dat is meer nodig dan ooit, nu een van de grappen die ze hebben uitgehaald serieus uit de hand is gelopen.",
     "category": [
       "Reality"
@@ -82,11 +82,11 @@
     }
   },
   {
-    "id": "vtm2:1787567100000:1ccpmln",
+    "id": "vtm2:1787568300000:1ccpmln",
     "channel": "vtm2",
     "title": "Onderweg naar liefde",
-    "start": 1787567100000,
-    "end": 1787571000000,
+    "start": 1787568300000,
+    "end": 1787571900000,
     "description": "Martijn begint zijn dag alleen, maar daar komt snel verandering in door de komst van een nieuwe date. In Noorwegen neemt Marieke juist afscheid van een van haar dates. En in Oostenrijk is het bij Joeri volle bak met drie dates tegelijk.",
     "category": [
       "Romantiek",
@@ -112,11 +112,11 @@
     }
   },
   {
-    "id": "vtm2:1787571000000:1dml2ik",
+    "id": "vtm2:1787571900000:1dml2ik",
     "channel": "vtm2",
     "title": "My Kitchen Rules",
-    "start": 1787571000000,
-    "end": 1787576400000,
+    "start": 1787571900000,
+    "end": 1787577000000,
     "description": "Nick en Christian uit Melbourne zijn ervan overtuigd dat ze Radha en Prabha kunnen verslaan.",
     "category": [
       "Koken",
@@ -142,41 +142,11 @@
     }
   },
   {
-    "id": "vtm2:1787576400000:18z5aj7",
-    "channel": "vtm2",
-    "title": "Hell's Kitchen USA",
-    "start": 1787576400000,
-    "end": 1787580000000,
-    "description": "De chefs worden op de proef gesteld wanneer Gordon en zijn speciale gast Stephanie Izard de chefs uitdagen om het perfecte gerecht te maken met obscure ingrediënten. Ze mogen alleen een wok gebruiken.",
-    "category": [
-      "Koken",
-      "Reality-competitie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23249868~~2FEP038690190106%2Cimi%3Ae38de3d7004ca039b17a6ba9e2edf89a591a60af/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 21,
-    "episode": 7,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23249868~~2FEP038690190106,imi:e38de3d7004ca039b17a6ba9e2edf89a591a60af",
-      "episodeName": "Wok This Way",
-      "genres": [
-        "Koken",
-        "Reality-competitie"
-      ],
-      "productionDate": "2022",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb67666f5-75cf-428e-97c2-504e84aa679e"
-    }
-  },
-  {
-    "id": "vtm2:1787580000000:1ccpmln",
+    "id": "vtm2:1787577000000:1ccpmln",
     "channel": "vtm2",
     "title": "Onderweg naar liefde",
-    "start": 1787580000000,
-    "end": 1787583900000,
+    "start": 1787577000000,
+    "end": 1787580900000,
     "description": "Marieke en Niels voeren emotionele gesprekken. In Spanje leert Niek op een bijzondere manier naar de wc gaan tijdens wildkamperen. Joeri's date met Karlijn gaat van verdrietig naar zingen in de bus.",
     "category": [
       "Romantiek",
@@ -202,26 +172,56 @@
     }
   },
   {
-    "id": "vtm2:1787583900000:7aqr9i",
+    "id": "vtm2:1787580900000:18z5aj7",
+    "channel": "vtm2",
+    "title": "Hell's Kitchen USA",
+    "start": 1787580900000,
+    "end": 1787584200000,
+    "description": "De chefs worden op de proef gesteld wanneer Gordon en zijn speciale gast Stephanie Izard de chefs uitdagen om het perfecte gerecht te maken met obscure ingrediënten. Ze mogen alleen een wok gebruiken.",
+    "category": [
+      "Koken",
+      "Reality-competitie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23249868~~2FEP038690190106%2Cimi%3Ae38de3d7004ca039b17a6ba9e2edf89a591a60af/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 21,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23249868~~2FEP038690190106,imi:e38de3d7004ca039b17a6ba9e2edf89a591a60af",
+      "episodeName": "Wok This Way",
+      "genres": [
+        "Koken",
+        "Reality-competitie"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb67666f5-75cf-428e-97c2-504e84aa679e"
+    }
+  },
+  {
+    "id": "vtm2:1787584200000:7aqr9i",
     "channel": "vtm2",
     "title": "De Planckaerts",
-    "start": 1787583900000,
-    "end": 1787586300000,
-    "description": "Junior mag gaan karten. Eddy wil het werken wat afbouwen en gaan schilderen. Hij leidt Christopher op tot aankoper van bomen voor parket. De Planckaerts wijden een nieuwe attractie in Océade in.",
+    "start": 1787584200000,
+    "end": 1787586900000,
+    "description": "Eddy moet van de gemeente zijn erf opruimen. Junior bedient de kraan voor het afbreken. Een groepje wandelaars bewondert ondertussen het Planckaert-erf. Bernice's caravan moet ook weg. Eddy's zus Vera en haar man komen plots op bezoek.",
     "category": [
       "Reality",
       "Soap"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22546896~~2FEP040418100104%2Cimi%3A69cd6e5b65d98e7e2c8ad365fc548d7c352c4248/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22546895~~2FEP040418100103%2Cimi%3Ae239f8fcb09ff8df9c0c944872a6b1f50d3a6688/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 3,
-    "episode": 15,
+    "episode": 14,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22546896~~2FEP040418100104,imi:69cd6e5b65d98e7e2c8ad365fc548d7c352c4248",
-      "episodeName": "Aflevering 15",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22546895~~2FEP040418100103,imi:e239f8fcb09ff8df9c0c944872a6b1f50d3a6688",
+      "episodeName": "Aflevering 14",
       "genres": [
         "Reality",
         "Soap"
@@ -232,11 +232,11 @@
     }
   },
   {
-    "id": "vtm2:1787586300000:1229ak6",
+    "id": "vtm2:1787586900000:1229ak6",
     "channel": "vtm2",
     "title": "B&B zoekt Lief NL",
-    "start": 1787586300000,
-    "end": 1787591100000,
+    "start": 1787586900000,
+    "end": 1787591400000,
     "description": "In het zonnige Spanje ontvangt Jean-Paul zijn eerste dame. In Griekenland is Ingrid er helemaal klaar voor om opnieuw liefde toe te laten in haar leven. Verderop in Frankrijk is het château van Illya het romantische decor voor zijn eerste ontmoeting.",
     "category": [
       "Reality",
@@ -262,11 +262,11 @@
     }
   },
   {
-    "id": "vtm2:1787591100000:ou6wlv",
+    "id": "vtm2:1787591400000:ou6wlv",
     "channel": "vtm2",
     "title": "Home and Away",
-    "start": 1787591100000,
-    "end": 1787592900000,
+    "start": 1787591400000,
+    "end": 1787593200000,
     "description": "Zon, zee en strand blijken geen garantie op een zorgeloos leven. Leef mee met alle ups en downs van de inwoners van Summer Bay.",
     "category": [
       "Dramaserie",
@@ -292,10 +292,10 @@
     }
   },
   {
-    "id": "vtm2:1787592900000:efnb6o",
+    "id": "vtm2:1787593200000:efnb6o",
     "channel": "vtm2",
     "title": "Mr. Frank Visser Doet Uitspraak",
-    "start": 1787592900000,
+    "start": 1787593200000,
     "end": 1787596500000,
     "description": "Mr. Visser reist af naar Roelofarendsveen waar Frans en Berna in de clinch liggen met de gemeente Kaag & Braassem. Ze ergeren zich al jaren aan veertien elzen in de straat waar continu rotzooi uit valt.",
     "category": [
@@ -324,7 +324,7 @@
     "channel": "vtm2",
     "title": "Doctor Odyssey",
     "start": 1787596500000,
-    "end": 1787599800000,
+    "end": 1787599500000,
     "description": "Nadat zijn relatie met Avery door zijn verklaring is stukgelopen, verlaat Max het schip en komt hij terecht in een aardbeving die mogelijk een tsunami veroorzaakt. De Odyssey wordt gedwongen de haven te verlaten.",
     "category": [
       "Dramaserie",
@@ -350,11 +350,11 @@
     }
   },
   {
-    "id": "vtm2:1787599800000:nvpqi2",
+    "id": "vtm2:1787599500000:nvpqi2",
     "channel": "vtm2",
     "title": "Will Trent",
-    "start": 1787599800000,
-    "end": 1787603100000,
+    "start": 1787599500000,
+    "end": 1787602800000,
     "description": "Het uitje van Amanda en Evelyn Mitchell krijgt een duistere wending.",
     "category": [
       "Misdaaddrama"
@@ -378,11 +378,11 @@
     }
   },
   {
-    "id": "vtm2:1787603100000:nvpqi2",
+    "id": "vtm2:1787602800000:nvpqi2",
     "channel": "vtm2",
     "title": "Will Trent",
-    "start": 1787603100000,
-    "end": 1787606400000,
+    "start": 1787602800000,
+    "end": 1787606100000,
     "description": "Will en Faith proberen de naam van een onschuldige vrouw te zuiveren.",
     "category": [
       "Misdaaddrama"
@@ -406,11 +406,11 @@
     }
   },
   {
-    "id": "vtm2:1787606400000:12naan0",
+    "id": "vtm2:1787606100000:12naan0",
     "channel": "vtm2",
     "title": "S.W.A.T.",
-    "start": 1787606400000,
-    "end": 1787610000000,
+    "start": 1787606100000,
+    "end": 1787609100000,
     "description": "Het team start een zoektocht naar een groep vermiste studenten en hun buschauffeur, die Hondo's voormalige coach op de middelbare school blijkt te zijn.",
     "category": [
       "Misdaaddrama",

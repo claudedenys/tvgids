@@ -1,10 +1,40 @@
 [
   {
-    "id": "play7:1787616000000:rmqxmh",
+    "id": "play7:1787611500000:tr45on",
+    "channel": "play7",
+    "title": "MasterChef UK",
+    "start": 1787611500000,
+    "end": 1787616300000,
+    "description": "Week vier van de voorrondes is aangebroken en twaalf nieuwe deelnemers hebben hun hoop gevestigd op het winnen van een 'MasterChef'-schort, hun ticket om verder te komen in de competitie.",
+    "category": [
+      "Koken",
+      "Reality-competitie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F27174464~~2FEP028484860201%2Cimi%3Aa12428a8e46e5741e6309e11c447c00536339061/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 20,
+    "episode": 10,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F27174464~~2FEP028484860201,imi:a12428a8e46e5741e6309e11c447c00536339061",
+      "episodeName": "Aflevering 10",
+      "genres": [
+        "Koken",
+        "Reality-competitie"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2692ab9b-8d2f-4aa7-bc18-21ea746ab7bc"
+    }
+  },
+  {
+    "id": "play7:1787616300000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1787616000000,
-    "end": 1787619600000,
+    "start": 1787616300000,
+    "end": 1787619000000,
     "description": "Marc en Matt werden zes jaar geleden tijdens hun vakantie verliefd op Mallorca en willen nu hun eigen vakantieverblijf kopen. Ben Hillman helpt hen bij het vinden van hun droomhuis.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play7:1787619600000:48zb9",
+    "id": "play7:1787619000000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1787619600000,
-    "end": 1787626800000,
+    "start": 1787619000000,
+    "end": 1787626500000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3c3870286986d52b7b0236ff5afcbc3a7a76e31b",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1787626500000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1787626500000,
+    "end": 1787626800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b01cffb4433abb3f33356f5654e16b31439a421f",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

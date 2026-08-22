@@ -34,7 +34,7 @@
     "channel": "vtm3",
     "title": "Geen uitzending",
     "start": 1787529900000,
-    "end": 1787544300000,
+    "end": 1787544000000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,14 +54,16 @@
     }
   },
   {
-    "id": "vtm3:1787544300000:48zb9",
+    "id": "vtm3:1787544000000:6hz2uv",
     "channel": "vtm3",
-    "title": "Geen uitzending",
-    "start": 1787544300000,
+    "title": "Qmusic",
+    "start": 1787544000000,
     "end": 1787554800000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Geniet van de allerleukste muziek met Qmusic. Livebeelden vanuit de radiostudio, Twitter- en Instagram-updates, videoclips, weerberichten en nog veel meer.",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial%2Cimi%3A52616c5feddff6538cfaca0a54d12b33d508591b/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -69,9 +71,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:82e97b48b159bdf170ea2e412e80cf743aa3afb3",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial,imi:52616c5feddff6538cfaca0a54d12b33d508591b",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Muziek"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
@@ -82,7 +86,7 @@
     "channel": "vtm3",
     "title": "Geen uitzending",
     "start": 1787554800000,
-    "end": 1787572500000,
+    "end": 1787572200000,
     "description": null,
     "category": [],
     "image": null,
@@ -102,11 +106,11 @@
     }
   },
   {
-    "id": "vtm3:1787572500000:goasy2",
+    "id": "vtm3:1787572200000:goasy2",
     "channel": "vtm3",
     "title": "Community",
-    "start": 1787572500000,
-    "end": 1787574300000,
+    "start": 1787572200000,
+    "end": 1787574000000,
     "description": "Op Valentijnsdag worstelt Jeff met zijn gevoelens voor Britta. Professor Slater, Pierce en Troy worden ten onrechte beschuldigd van een grap die Annie en Shirley met señor Chang uithaalden.",
     "category": [
       "Sitcom",
@@ -132,11 +136,11 @@
     }
   },
   {
-    "id": "vtm3:1787574300000:3x9oi3",
+    "id": "vtm3:1787574000000:3x9oi3",
     "channel": "vtm3",
     "title": "Family History Mysteries: Buried Past",
-    "start": 1787574300000,
-    "end": 1787580600000,
+    "start": 1787574000000,
+    "end": 1787580000000,
     "description": "Sophie McClaren is genealoog. Wanneer haar goede vriend Jonathan een beenmergdonor nodigt heeft, gaat ze op zoek naar zijn vervreemde vader.",
     "category": [
       "Drama",
@@ -162,11 +166,11 @@
     }
   },
   {
-    "id": "vtm3:1787580600000:3d4196",
+    "id": "vtm3:1787580000000:3d4196",
     "channel": "vtm3",
     "title": "9-1-1",
-    "start": 1787580600000,
-    "end": 1787583900000,
+    "start": 1787580000000,
+    "end": 1787583600000,
     "description": "Wanneer een zeppelin mechanisch defect raakt en de motor in brand vliegt, moeten Athena en de 118 slachtoffers redden. Bobby en Athena zetten May af op haar eerste schooldag en bespreken huwelijksreisplannen.",
     "category": [
       "Dramaserie",
@@ -192,11 +196,11 @@
     }
   },
   {
-    "id": "vtm3:1787583900000:3d4196",
+    "id": "vtm3:1787583600000:3d4196",
     "channel": "vtm3",
     "title": "9-1-1",
-    "start": 1787583900000,
-    "end": 1787587500000,
+    "start": 1787583600000,
+    "end": 1787587200000,
     "description": "De 118 snelt te hulp wanneer er tijdens een bijeenkomst over geluk een constructie instort, waardoor er mensen onder het puin terechtkomen. Terwijl ze aan het facetimen is met haar moeder, krijgt Athena's vader een beroerte.",
     "category": [
       "Dramaserie",
@@ -222,11 +226,11 @@
     }
   },
   {
-    "id": "vtm3:1787587500000:szy0o0",
+    "id": "vtm3:1787587200000:szy0o0",
     "channel": "vtm3",
     "title": "How I Met Your Mother",
-    "start": 1787587500000,
-    "end": 1787589300000,
+    "start": 1787587200000,
+    "end": 1787589000000,
     "description": "De vrienden gaan met Marshall naar Minnesota voor de begrafenis van zijn vader. Ted en Barney doen er alles aan om hem een beetje aan het lachen te krijgen. Ook komt Marshall een oude schoolgenoot tegen, die hem vroeger altijd pestte.",
     "category": [
       "Dramaserie",
@@ -252,11 +256,11 @@
     }
   },
   {
-    "id": "vtm3:1787589300000:goasy2",
+    "id": "vtm3:1787589000000:goasy2",
     "channel": "vtm3",
     "title": "Community",
-    "start": 1787589300000,
-    "end": 1787591100000,
+    "start": 1787589000000,
+    "end": 1787590800000,
     "description": "Jeff woont een zwemles bij, maar wordt getreiterd door de leraar. Ondertussen probeert de rest van de groep een date voor Abed te regelen met een meisje dat verliefd op hem lijkt te zijn.",
     "category": [
       "Sitcom",
@@ -282,11 +286,11 @@
     }
   },
   {
-    "id": "vtm3:1787591100000:15vnov6",
+    "id": "vtm3:1787590800000:15vnov6",
     "channel": "vtm3",
     "title": "The Simpsons",
-    "start": 1787591100000,
-    "end": 1787592900000,
+    "start": 1787590800000,
+    "end": 1787592600000,
     "description": "Bart haalt zijn ouders over om op een cruise te gaan en hoopt dat er nooit een einde aan komt. Als een crisis het schip dwingt om op zee te blijven, is hij dan ook dolblij.",
     "category": [
       "Animatie",
@@ -312,11 +316,11 @@
     }
   },
   {
-    "id": "vtm3:1787592900000:12naan0",
+    "id": "vtm3:1787592600000:12naan0",
     "channel": "vtm3",
     "title": "S.W.A.T.",
-    "start": 1787592900000,
-    "end": 1787596500000,
+    "start": 1787592600000,
+    "end": 1787596200000,
     "description": "Wanneer geheime informatie in verkeerde handen valt, moet het team een gevaarlijke samenzwering tegen voormalige leden van het Amerikaanse leger stoppen. Luca staat voor een moeilijke keuze wanneer een familielid plotseling ziek wordt.",
     "category": [
       "Misdaaddrama",
@@ -342,11 +346,11 @@
     }
   },
   {
-    "id": "vtm3:1787596500000:nsuvg6",
+    "id": "vtm3:1787596200000:nsuvg6",
     "channel": "vtm3",
     "title": "47 Ronin",
-    "start": 1787596500000,
-    "end": 1787604300000,
+    "start": 1787596200000,
+    "end": 1787604000000,
     "description": "Een groep van 47 samoerai wil wraak nemen op Lord Kira, een verraderlijke heerser die hun leider heeft vermoord en hen vervolgens heeft weggejaagd.",
     "category": [
       "Drama",
@@ -372,11 +376,11 @@
     }
   },
   {
-    "id": "vtm3:1787604300000:1r36rfb",
+    "id": "vtm3:1787604000000:1r36rfb",
     "channel": "vtm3",
     "title": "Dracula Untold",
-    "start": 1787604300000,
-    "end": 1787610600000,
+    "start": 1787604000000,
+    "end": 1787610300000,
     "description": "Prins Vlad Tepes leidt een gelukkig leven en heerst over een klein koninkrijk. Wanneer de door hem gevestigde vrede wordt bedreigd door een moordlustige sultan, ruilt hij zijn menselijkheid in voor de macht om zijn land en mensen te verdedigen.",
     "category": [
       "Film",
