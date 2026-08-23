@@ -1,0 +1,354 @@
+[
+  {
+    "id": "playsports3:1787788620000:48zb9",
+    "channel": "playsports3",
+    "title": "Geen uitzending",
+    "start": 1787788620000,
+    "end": 1787789700000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ab3250ee0f7cbb858d13d0923dd9bd535e968962",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports3:1787789700000:xykime",
+    "channel": "playsports3",
+    "title": "Play Sports",
+    "start": 1787789700000,
+    "end": 1787806800000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A4e21ab800c62cd4dd8624b515066cb441da21dc4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:4e21ab800c62cd4dd8624b515066cb441da21dc4",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports3:1787806800000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787806800000,
+    "end": 1787813040000,
+    "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961%2Cimi%3A7a449373f865b7d0500acf69410da6752c64cba2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026081661,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961,imi:7a449373f865b7d0500acf69410da6752c64cba2",
+      "episodeName": "Ajax - sc Heerenveen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787813040000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787813040000,
+    "end": 1787819400000,
+    "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557544~~2FEP035850991968%2Cimi%3A32bb7ddd569dd4eb048f367ef86e8b137fed9c7d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026082368,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557544~~2FEP035850991968,imi:32bb7ddd569dd4eb048f367ef86e8b137fed9c7d",
+      "episodeName": "SC Cambuur - Feyenoord",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787819400000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787819400000,
+    "end": 1787825700000,
+    "description": "Verslag van de wedstrijd PSV - FC Groningen uit de 3e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557530~~2FEP035850991967%2Cimi%3A7d1de619d61b97ffbc6868c1ca0401d64eccab2a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026082367,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557530~~2FEP035850991967,imi:7d1de619d61b97ffbc6868c1ca0401d64eccab2a",
+      "episodeName": "PSV - FC Groningen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787825700000:99kgtm",
+    "channel": "playsports3",
+    "title": "Johan Cruijff Schaal",
+    "start": 1787825700000,
+    "end": 1787833500000,
+    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006%2Cimi%3A7efd467657c58290401b57cc364184285206deed/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 8910000,
+    "episode": 2026080206,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006,imi:7efd467657c58290401b57cc364184285206deed",
+      "episodeName": "PSV - AZ",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20424370~~2FSH039508910000"
+    }
+  },
+  {
+    "id": "playsports3:1787833500000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787833500000,
+    "end": 1787839740000,
+    "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961%2Cimi%3A48381aff5bbe48743cd41f961dc4ec8753ead2a2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026081661,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961,imi:48381aff5bbe48743cd41f961dc4ec8753ead2a2",
+      "episodeName": "Ajax - sc Heerenveen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787839740000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787839740000,
+    "end": 1787846100000,
+    "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557544~~2FEP035850991968%2Cimi%3Aeef15689c2fd69d3db9e0e0d6ed0cf6b4716ae2b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026082368,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557544~~2FEP035850991968,imi:eef15689c2fd69d3db9e0e0d6ed0cf6b4716ae2b",
+      "episodeName": "SC Cambuur - Feyenoord",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787846100000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787846100000,
+    "end": 1787852400000,
+    "description": "Verslag van de wedstrijd PSV - FC Groningen uit de 3e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557530~~2FEP035850991967%2Cimi%3Aeb3eb5819b6fd70cfa1207c372f3def32fb84142/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026082367,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557530~~2FEP035850991967,imi:eb3eb5819b6fd70cfa1207c372f3def32fb84142",
+      "episodeName": "PSV - FC Groningen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787852400000:99kgtm",
+    "channel": "playsports3",
+    "title": "Johan Cruijff Schaal",
+    "start": 1787852400000,
+    "end": 1787860140000,
+    "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006%2Cimi%3Aa1bfd1066486326edfc62299cf0fcd699873d1cd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 8910000,
+    "episode": 2026080206,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33528381~~2FEP039508910006,imi:a1bfd1066486326edfc62299cf0fcd699873d1cd",
+      "episodeName": "PSV - AZ",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20424370~~2FSH039508910000"
+    }
+  },
+  {
+    "id": "playsports3:1787860140000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787860140000,
+    "end": 1787866440000,
+    "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961%2Cimi%3A6fa2b16b1a91a4794745746db5b30d556f913bde/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026081661,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557391~~2FEP035850991961,imi:6fa2b16b1a91a4794745746db5b30d556f913bde",
+      "episodeName": "Ajax - sc Heerenveen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787866440000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1787866440000,
+    "end": 1787872740000,
+    "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557544~~2FEP035850991968%2Cimi%3Adb4c9feb3705588f574fbd0cc19b6a4a3abf7c41/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026082368,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557544~~2FEP035850991968,imi:db4c9feb3705588f574fbd0cc19b6a4a3abf7c41",
+      "episodeName": "SC Cambuur - Feyenoord",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  }
+]
