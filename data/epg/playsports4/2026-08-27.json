@@ -1,9 +1,9 @@
 [
   {
-    "id": "playsports4:1787785200000:xykime",
+    "id": "playsports4:1787784300000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1787785200000,
+    "start": 1787784300000,
     "end": 1787806800000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -182,7 +182,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule E",
     "start": 1787825880000,
-    "end": 1787831460000,
+    "end": 1787831700000,
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "category": [
       "Sport",
@@ -208,11 +208,41 @@
     }
   },
   {
-    "id": "playsports4:1787831460000:qbgze4",
+    "id": "playsports4:1787831700000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1787831460000,
-    "end": 1787838660000,
+    "start": 1787831700000,
+    "end": 1787836140000,
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33751164~~2FEP065346450038%2Cimi%3Ab67108b6c1eb8c9f6f2c300d103589abcde475c6/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46450000,
+    "episode": 2026082238,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33751164~~2FEP065346450038,imi:b67108b6c1eb8c9f6f2c300d103589abcde475c6",
+      "episodeName": "Dag 10",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33188385~~2FSH065346450000"
+    }
+  },
+  {
+    "id": "playsports4:1787836140000:qbgze4",
+    "channel": "playsports4",
+    "title": "Tennis: Cincinnati Open 2026",
+    "start": 1787836140000,
+    "end": 1787843400000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -238,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1787838660000:qbgze4",
+    "id": "playsports4:1787843400000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1787838660000,
-    "end": 1787845920000,
+    "start": 1787843400000,
+    "end": 1787854800000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -268,40 +298,10 @@
     }
   },
   {
-    "id": "playsports4:1787845920000:arbc9d",
-    "channel": "playsports4",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1787845920000,
-    "end": 1787854920000,
-    "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32387586~~2FEP063235100081%2Cimi%3A710f8f3399d4c1fde7f4529f4f616010d85e8dc7/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026082381,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32387586~~2FEP063235100081,imi:710f8f3399d4c1fde7f4529f4f616010d85e8dc7",
-      "episodeName": "GP van Nederland: Race",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
-    }
-  },
-  {
-    "id": "playsports4:1787854920000:12oeiq8",
+    "id": "playsports4:1787854800000:12oeiq8",
     "channel": "playsports4",
     "title": "Porsche Supercup",
-    "start": 1787854920000,
+    "start": 1787854800000,
     "end": 1787858220000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [

@@ -4,7 +4,7 @@
     "channel": "playsports1",
     "title": "Play Sports",
     "start": 1787787360000,
-    "end": 1787806800000,
+    "end": 1787789100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,11 +28,39 @@
     }
   },
   {
+    "id": "playsports1:1787789100000:xykime",
+    "channel": "playsports1",
+    "title": "Play Sports",
+    "start": 1787789100000,
+    "end": 1787806800000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Aecad9ab5c4e328b476bb10f00c52fe27c1c46b2d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:ecad9ab5c4e328b476bb10f00c52fe27c1c46b2d",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "playsports1:1787806800000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787806800000,
-    "end": 1787812920000,
+    "end": 1787813100000,
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "category": [
       "Sport",
@@ -58,35 +86,11 @@
     }
   },
   {
-    "id": "playsports1:1787812920000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1787812920000,
-    "end": 1787814000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:af1e4d1d03d74bf95f3749a87a0760c88de352f0",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1787814000000:1prlzbg",
+    "id": "playsports1:1787813100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787814000000,
-    "end": 1787820300000,
+    "start": 1787813100000,
+    "end": 1787819700000,
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "category": [
       "Sport",
@@ -112,11 +116,11 @@
     }
   },
   {
-    "id": "playsports1:1787820300000:1prlzbg",
+    "id": "playsports1:1787819700000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787820300000,
-    "end": 1787826540000,
+    "start": 1787819700000,
+    "end": 1787826240000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -142,11 +146,11 @@
     }
   },
   {
-    "id": "playsports1:1787826540000:1prlzbg",
+    "id": "playsports1:1787826240000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787826540000,
-    "end": 1787832960000,
+    "start": 1787826240000,
+    "end": 1787832540000,
     "description": "Vanuit The City Ground in Nottingham, England.",
     "category": [
       "Sport",
@@ -172,11 +176,11 @@
     }
   },
   {
-    "id": "playsports1:1787832960000:1prlzbg",
+    "id": "playsports1:1787832540000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787832960000,
-    "end": 1787839320000,
+    "start": 1787832540000,
+    "end": 1787838900000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",
@@ -202,11 +206,11 @@
     }
   },
   {
-    "id": "playsports1:1787839320000:1prlzbg",
+    "id": "playsports1:1787838900000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787839320000,
-    "end": 1787846400000,
+    "start": 1787838900000,
+    "end": 1787847000000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -232,11 +236,11 @@
     }
   },
   {
-    "id": "playsports1:1787846400000:amnfa6",
+    "id": "playsports1:1787847000000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
-    "start": 1787846400000,
-    "end": 1787849700000,
+    "start": 1787847000000,
+    "end": 1787850300000,
     "description": "Deskundigen bespreken de prestaties van professionele voetbalclubs en spelers, wedstrijdstatistieken en de mooiste doelpunten in de Premier League, een Engels topvoetbaltoernooi.",
     "category": [
       "Sport",
@@ -262,10 +266,10 @@
     }
   },
   {
-    "id": "playsports1:1787849700000:1prlzbg",
+    "id": "playsports1:1787850300000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787849700000,
+    "start": 1787850300000,
     "end": 1787856900000,
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "category": [
@@ -296,7 +300,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787856900000,
-    "end": 1787862900000,
+    "end": 1787862840000,
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "category": [
       "Sport",
@@ -322,35 +326,11 @@
     }
   },
   {
-    "id": "playsports1:1787862900000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1787862900000,
-    "end": 1787864040000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0b679f56c1ff8dc04e797b81eb33766c783341c6",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1787864040000:1prlzbg",
+    "id": "playsports1:1787862840000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787864040000,
-    "end": 1787870460000,
+    "start": 1787862840000,
+    "end": 1787871000000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",

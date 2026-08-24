@@ -31,6 +31,29 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787760000000,
+    "end": 1787761800000,
+    "status": "aankomend",
+    "description": "Deskundigen bespreken de prestaties van professionele voetbalclubs en spelers, wedstrijdstatistieken en de mooiste doelpunten in de Premier League, een Engels topvoetbaltoernooi.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1787761800000:amnfa6",
+    "externalId": null,
+    "title": "Premier League Review",
+    "home": null,
+    "away": null,
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787761800000,
     "end": 1787763240000,
     "status": "aankomend",
     "description": "Deskundigen bespreken de prestaties van professionele voetbalclubs en spelers, wedstrijdstatistieken en de mooiste doelpunten in de Premier League, een Engels topvoetbaltoernooi.",
@@ -192,7 +215,7 @@
     "competition": null,
     "sport": "Motorsport",
     "start": 1787699340000,
-    "end": 1787704920000,
+    "end": 1787704980000,
     "status": "aankomend",
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "source": "epg",
@@ -207,14 +230,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787704920000:pkxqys",
+    "id": "sport:playsports4:1787704980000:pkxqys",
     "externalId": null,
     "title": "3 x Gewipt & Geschoren",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1787704920000,
+    "start": 1787704980000,
     "end": 1787709600000,
     "status": "aankomend",
     "description": "Bij Lorena word je geknipt en geschoren... precies zoals je het wilt! Als ze voorover bukt om haar spulletjes te pakken, laat ze net iets te veel van haar geile billen zien. Lekker!",
@@ -238,7 +261,7 @@
     "competition": null,
     "sport": null,
     "start": 1787709600000,
-    "end": 1787719500000,
+    "end": 1787720400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -253,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787723340000:qbgze4",
+    "id": "sport:playsports4:1787724300000:qbgze4",
     "externalId": null,
     "title": "Dag 10",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1787723340000,
-    "end": 1787730540000,
+    "start": 1787724300000,
+    "end": 1787735700000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -276,15 +299,38 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787730540000:qbgze4",
+    "id": "sport:playsports4:1787735700000:qbgze4",
+    "externalId": null,
+    "title": "Dag 10",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1787735700000,
+    "end": 1787740200000,
+    "status": "aankomend",
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1787740200000:qbgze4",
     "externalId": null,
     "title": "Dag 11",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1787730540000,
-    "end": 1787737740000,
+    "start": 1787740200000,
+    "end": 1787746800000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -299,37 +345,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787737740000:12oeiq8",
+    "id": "sport:playsports4:1787746800000:12oeiq8",
     "externalId": null,
     "title": "Zandvoort: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1787737740000,
-    "end": 1787741040000,
-    "status": "aankomend",
-    "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1787741040000:arbc9d",
-    "externalId": null,
-    "title": "GP van Nederland: Race",
-    "home": null,
-    "away": null,
-    "competition": "Formule 1",
-    "sport": "Motorsport",
-    "start": 1787741040000,
+    "start": 1787746800000,
     "end": 1787750040000,
     "status": "aankomend",
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
@@ -376,7 +399,7 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1787777700000,
-    "end": 1787785200000,
+    "end": 1787784300000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -951,6 +974,29 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787727540000,
+    "end": 1787728440000,
+    "status": "aankomend",
+    "description": "Vanuit het MKM Stadium in Hull, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787728440000:hull city - manchester united",
+    "externalId": null,
+    "title": "Hull City - Manchester United",
+    "home": "Hull City",
+    "away": "Manchester United",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787728440000,
     "end": 1787733840000,
     "status": "aankomend",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
@@ -974,6 +1020,75 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787733840000,
+    "end": 1787734800000,
+    "status": "aankomend",
+    "description": "Vanuit The City Ground in Nottingham, England.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787734800000:arsenal - coventry city",
+    "externalId": null,
+    "title": "Arsenal - Coventry City",
+    "home": "Arsenal",
+    "away": "Coventry City",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787734800000,
+    "end": 1787735400000,
+    "status": "aankomend",
+    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787735400000:ipswich town - sunderland",
+    "externalId": null,
+    "title": "Ipswich Town - Sunderland",
+    "home": "Ipswich Town",
+    "away": "Sunderland",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787735400000,
+    "end": 1787735940000,
+    "status": "aankomend",
+    "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787735940000:nottingham forest - leeds united",
+    "externalId": null,
+    "title": "Nottingham Forest - Leeds United",
+    "home": "Nottingham Forest",
+    "away": "Leeds United",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787735940000,
     "end": 1787740200000,
     "status": "aankomend",
     "description": "Vanuit The City Ground in Nottingham, England.",
@@ -997,6 +1112,29 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787740200000,
+    "end": 1787742300000,
+    "status": "aankomend",
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787742300000:manchester city - bournemouth",
+    "externalId": null,
+    "title": "Manchester City - Bournemouth",
+    "home": "Manchester City",
+    "away": "Bournemouth",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787742300000,
     "end": 1787746500000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
@@ -1020,6 +1158,29 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787746500000,
+    "end": 1787748900000,
+    "status": "aankomend",
+    "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787748900000:brighton & hove albion - aston villa",
+    "externalId": null,
+    "title": "Brighton & Hove Albion - Aston Villa",
+    "home": "Brighton & Hove Albion",
+    "away": "Aston Villa",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787748900000,
     "end": 1787752740000,
     "status": "aankomend",
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
@@ -1043,7 +1204,30 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787752740000,
-    "end": 1787758920000,
+    "end": 1787755440000,
+    "status": "aankomend",
+    "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787755440000:ipswich town - sunderland",
+    "externalId": null,
+    "title": "Ipswich Town - Sunderland",
+    "home": "Ipswich Town",
+    "away": "Sunderland",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787755440000,
+    "end": 1787760000000,
     "status": "aankomend",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
@@ -1066,7 +1250,30 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787763240000,
-    "end": 1787769240000,
+    "end": 1787765100000,
+    "status": "aankomend",
+    "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787765100000:brentford - tottenham hotspur",
+    "externalId": null,
+    "title": "Brentford - Tottenham Hotspur",
+    "home": "Brentford",
+    "away": "Tottenham Hotspur",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787765100000,
+    "end": 1787770500000,
     "status": "aankomend",
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "source": "epg",
@@ -1089,6 +1296,29 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787770500000,
+    "end": 1787771100000,
+    "status": "aankomend",
+    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1787771100000:newcastle united - liverpool",
+    "externalId": null,
+    "title": "Newcastle United - Liverpool",
+    "home": "Newcastle United",
+    "away": "Liverpool",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787771100000,
     "end": 1787777700000,
     "status": "aankomend",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
@@ -1158,7 +1388,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1787719800000,
-    "end": 1787726040000,
+    "end": 1787726100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1173,14 +1403,14 @@
     ]
   },
   {
-    "id": "sport:match:1787726040000:sc cambuur - feyenoord",
+    "id": "sport:match:1787726100000:sc cambuur - feyenoord",
     "externalId": null,
     "title": "SC Cambuur - Feyenoord",
     "home": "SC Cambuur",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787726040000,
+    "start": 1787726100000,
     "end": 1787732400000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
@@ -1250,7 +1480,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1787746500000,
-    "end": 1787752740000,
+    "end": 1787752800000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1265,14 +1495,14 @@
     ]
   },
   {
-    "id": "sport:match:1787752740000:sc cambuur - feyenoord",
+    "id": "sport:match:1787752800000:sc cambuur - feyenoord",
     "externalId": null,
     "title": "SC Cambuur - Feyenoord",
     "home": "SC Cambuur",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787752740000,
+    "start": 1787752800000,
     "end": 1787759100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
@@ -1380,15 +1610,15 @@
     ]
   },
   {
-    "id": "sport:match:1787719500000:gp van groot-brittannie: race",
+    "id": "sport:match:1787720400000:gp van groot-brittannie: race",
     "externalId": null,
     "title": "GP van Groot-Brittannië: Race",
     "home": "GP van Groot",
     "away": "Brittannië: Race",
     "competition": null,
     "sport": null,
-    "start": 1787719500000,
-    "end": 1787723340000,
+    "start": 1787720400000,
+    "end": 1787724300000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Groot-Brittannië, gereden in Silverstone, Engeland.",
     "source": "epg",
