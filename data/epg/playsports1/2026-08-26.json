@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1787701740000:xykime",
+    "id": "playsports1:1787701980000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1787701740000,
+    "start": 1787701980000,
     "end": 1787720400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ad3f6a83a3eeacdb71e6fc24b32e262ac071c78d5/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A028611b3b304d8945a9454aef0bf107a81598d9c/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +17,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:d3f6a83a3eeacdb71e6fc24b32e262ac071c78d5",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:028611b3b304d8945a9454aef0bf107a81598d9c",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -32,7 +32,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787720400000,
-    "end": 1787727540000,
+    "end": 1787728380000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports1:1787727540000:1prlzbg",
+    "id": "playsports1:1787728380000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787727540000,
-    "end": 1787728440000,
+    "start": 1787728380000,
+    "end": 1787734740000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",
@@ -88,41 +88,41 @@
     }
   },
   {
-    "id": "playsports1:1787728440000:1prlzbg",
+    "id": "playsports1:1787734740000:i67pjl",
     "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787728440000,
-    "end": 1787733840000,
-    "description": "Vanuit het MKM Stadium in Hull, Engeland.",
+    "title": "Play Sports Highlights",
+    "start": 1787734740000,
+    "end": 1787736360000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427%2Cimi%3A74816e078da32b30d65554e45667cb70b2c3181f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F537193501%2Cimi%3Ae0c6c168fe54000587704ca1d45a4bcb7425927a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082227,
+    "season": 50390000,
+    "episode": 537193501,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427,imi:74816e078da32b30d65554e45667cb70b2c3181f",
-      "episodeName": "Hull City - Manchester United",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F537193501,imi:e0c6c168fe54000587704ca1d45a4bcb7425927a",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports1:1787733840000:1prlzbg",
+    "id": "playsports1:1787736360000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787733840000,
-    "end": 1787734800000,
+    "start": 1787736360000,
+    "end": 1787742660000,
     "description": "Vanuit The City Ground in Nottingham, England.",
     "category": [
       "Sport",
@@ -148,101 +148,11 @@
     }
   },
   {
-    "id": "playsports1:1787734800000:1prlzbg",
+    "id": "playsports1:1787742660000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787734800000,
-    "end": 1787735400000,
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577137~~2FEP033946612426%2Cimi%3A3d155bb6760a9854573c7e95d26f2a2f9a2847e1/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082126,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577137~~2FEP033946612426,imi:3d155bb6760a9854573c7e95d26f2a2f9a2847e1",
-      "episodeName": "Arsenal - Coventry City",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1787735400000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787735400000,
-    "end": 1787735940000,
-    "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577428~~2FEP033946612430%2Cimi%3A0039e85d9d33434ae6396a6fbd9c0465e1a3da7a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082230,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577428~~2FEP033946612430,imi:0039e85d9d33434ae6396a6fbd9c0465e1a3da7a",
-      "episodeName": "Ipswich Town - Sunderland",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1787735940000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787735940000,
-    "end": 1787740200000,
-    "description": "Vanuit The City Ground in Nottingham, England.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577331~~2FEP033946612428%2Cimi%3Aea44a3305d94696eba1854cece55f8b37b01f1b5/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082228,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577331~~2FEP033946612428,imi:ea44a3305d94696eba1854cece55f8b37b01f1b5",
-      "episodeName": "Nottingham Forest - Leeds United",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1787740200000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787740200000,
-    "end": 1787742300000,
+    "start": 1787742660000,
+    "end": 1787749200000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -268,41 +178,11 @@
     }
   },
   {
-    "id": "playsports1:1787742300000:1prlzbg",
+    "id": "playsports1:1787749200000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787742300000,
-    "end": 1787746500000,
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432%2Cimi%3Ae2a87584bbc456bc7f9f4f9a080127a21cba5003/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082332,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432,imi:e2a87584bbc456bc7f9f4f9a080127a21cba5003",
-      "episodeName": "Manchester City - Bournemouth",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1787746500000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787746500000,
-    "end": 1787748900000,
+    "start": 1787749200000,
+    "end": 1787755680000,
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "category": [
       "Sport",
@@ -328,41 +208,11 @@
     }
   },
   {
-    "id": "playsports1:1787748900000:1prlzbg",
+    "id": "playsports1:1787755680000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787748900000,
-    "end": 1787752740000,
-    "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577800~~2FEP033946612433%2Cimi%3A61e1c35c012e3c6da17478d8ff812836dafe00d4/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082333,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577800~~2FEP033946612433,imi:61e1c35c012e3c6da17478d8ff812836dafe00d4",
-      "episodeName": "Brighton & Hove Albion - Aston Villa",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1787752740000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787752740000,
-    "end": 1787755440000,
+    "start": 1787755680000,
+    "end": 1787761800000,
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "category": [
       "Sport",
@@ -388,123 +238,33 @@
     }
   },
   {
-    "id": "playsports1:1787755440000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787755440000,
-    "end": 1787760000000,
-    "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577428~~2FEP033946612430%2Cimi%3A85a3781bba8e63d243c620a8ee33f928d9144056/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082230,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577428~~2FEP033946612430,imi:85a3781bba8e63d243c620a8ee33f928d9144056",
-      "episodeName": "Ipswich Town - Sunderland",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1787760000000:amnfa6",
-    "channel": "playsports1",
-    "title": "Premier League Review",
-    "start": 1787760000000,
-    "end": 1787761800000,
-    "description": "Deskundigen bespreken de prestaties van professionele voetbalclubs en spelers, wedstrijdstatistieken en de mooiste doelpunten in de Premier League, een Engels topvoetbaltoernooi.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000~~2F525880301%2Cimi%3A9113d635c0bfdb748dba9522cfc4874d6ef513a5/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 11400000,
-    "episode": 525880301,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000~~2F525880301,imi:9113d635c0bfdb748dba9522cfc4874d6ef513a5",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
-    }
-  },
-  {
     "id": "playsports1:1787761800000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
     "start": 1787761800000,
-    "end": 1787763240000,
-    "description": "Deskundigen bespreken de prestaties van professionele voetbalclubs en spelers, wedstrijdstatistieken en de mooiste doelpunten in de Premier League, een Engels topvoetbaltoernooi.",
+    "end": 1787765100000,
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000~~2F536426060%2Cimi%3A468caa1765d5263841c3841464583b501c675b66/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059%2Cimi%3A46306f69c1993d54a6f24fbc2a431549356a243b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 11400000,
-    "episode": 536426060,
+    "season": 102026,
+    "episode": 2026082659,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000~~2F536426060,imi:468caa1765d5263841c3841464583b501c675b66",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059,imi:46306f69c1993d54a6f24fbc2a431549356a243b",
       "episodeName": null,
       "genres": [
         "Sport",
         "Voetbal"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
-    }
-  },
-  {
-    "id": "playsports1:1787763240000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787763240000,
-    "end": 1787765100000,
-    "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577483~~2FEP033946612431%2Cimi%3Aa94be3e11487cc1bb5abd6182ebc4bef80d36b66/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082231,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577483~~2FEP033946612431,imi:a94be3e11487cc1bb5abd6182ebc4bef80d36b66",
-      "episodeName": "Brentford - Tottenham Hotspur",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
@@ -512,7 +272,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787765100000,
-    "end": 1787770500000,
+    "end": 1787771100000,
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "category": [
       "Sport",
@@ -528,36 +288,6 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33577483~~2FEP033946612431,imi:6510802facea21792fe01e7f7b06b11a4a9d2001",
       "episodeName": "Brentford - Tottenham Hotspur",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1787770500000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787770500000,
-    "end": 1787771100000,
-    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434%2Cimi%3A965f3306b30dbd672b086d933eae701c5a3237b5/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082334,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434,imi:965f3306b30dbd672b086d933eae701c5a3237b5",
-      "episodeName": "Newcastle United - Liverpool",
       "genres": [
         "Sport",
         "Voetbal"
@@ -603,26 +333,26 @@
     "title": "Premier League Review",
     "start": 1787777700000,
     "end": 1787780820000,
-    "description": "Deskundigen bespreken de prestaties van professionele voetbalclubs en spelers, wedstrijdstatistieken en de mooiste doelpunten in de Premier League, een Engels topvoetbaltoernooi.",
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000~~2F525880304%2Cimi%3A83905deb5f10b716052d3aaec395c15a3de1ebfe/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059%2Cimi%3A35b664a508844c1a679b8a52d9444bd7ffec1fc9/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 11400000,
-    "episode": 525880304,
+    "season": 102026,
+    "episode": 2026082659,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000~~2F525880304,imi:83905deb5f10b716052d3aaec395c15a3de1ebfe",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059,imi:35b664a508844c1a679b8a52d9444bd7ffec1fc9",
       "episodeName": null,
       "genres": [
         "Sport",
         "Voetbal"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
     }
@@ -632,7 +362,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787780820000,
-    "end": 1787787360000,
+    "end": 1787789100000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",

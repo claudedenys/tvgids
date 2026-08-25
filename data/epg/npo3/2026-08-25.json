@@ -62,7 +62,7 @@
     "channel": "npo3",
     "title": "NOS Jeugdjournaal met gebarentaal",
     "start": 1787622600000,
-    "end": 1787630460000,
+    "end": 1787623260000,
     "description": "Nieuwsprogramma voor de Nederlandse jeugd. Geschikt voor kinderen van negen tot twaalf. Met gebarentolk.",
     "category": [
       "Actua"
@@ -83,6 +83,34 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Feee099f5-e9c3-4fde-894e-9585046d5dcc"
+    }
+  },
+  {
+    "id": "npo3:1787623260000:1szo1ev",
+    "channel": "npo3",
+    "title": "Tekst-TV",
+    "start": 1787623260000,
+    "end": 1787630460000,
+    "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000~~2F537271920%2Cimi%3Ad48e51c8c46a7acd16f26f221ed1a0eb75c01466/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 22710000,
+    "episode": 537271920,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000~~2F537271920,imi:d48e51c8c46a7acd16f26f221ed1a0eb75c01466",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000"
     }
   },
   {
@@ -931,7 +959,7 @@
     "title": "Ta-daaa!",
     "start": 1787643600000,
     "end": 1787644140000,
-    "description": "Programma voor peuters. In een poppenkast worden sketches uitgevoerd. Deze wordt bewoond door een vrolijk poppenvolkje die dingen uitvoeren die peuters ook doen: zingen, dansen, tekenen, schilderen, bouwen en verstoppertje spelen.",
+    "description": "Programma voor peuters. In een poppenkast worden sketches uitgevoerd. Deze wordt bewoond door een vrolijk poppenvolkje dat dingen uitvoert die peuters ook doen: zingen, dansen, tekenen, schilderen, bouwen en verstoppertje spelen.",
     "category": [
       "Entertainment",
       "Educatie"

@@ -62,7 +62,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1787631600000,
-    "end": 1787637900000,
+    "end": 1787637720000,
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1787637900000:1va4v2m",
+    "id": "playsports3:1787637720000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787637900000,
-    "end": 1787644200000,
+    "start": 1787637720000,
+    "end": 1787643900000,
     "description": "Verslag van de wedstrijd Feyenoord - Go Ahead Eagles uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports3:1787644200000:1va4v2m",
+    "id": "playsports3:1787643900000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787644200000,
-    "end": 1787650500000,
+    "start": 1787643900000,
+    "end": 1787650200000,
     "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports3:1787650500000:99kgtm",
+    "id": "playsports3:1787650200000:99kgtm",
     "channel": "playsports3",
     "title": "Johan Cruijff Schaal",
-    "start": 1787650500000,
-    "end": 1787658240000,
+    "start": 1787650200000,
+    "end": 1787657940000,
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "category": [
       "Sport",
@@ -178,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1787658240000:1va4v2m",
+    "id": "playsports3:1787657940000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787658240000,
-    "end": 1787664420000,
+    "start": 1787657940000,
+    "end": 1787664120000,
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -208,11 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1787664420000:1va4v2m",
+    "id": "playsports3:1787664120000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1787664420000,
-    "end": 1787670900000,
+    "start": 1787664120000,
+    "end": 1787670300000,
     "description": "Verslag van de wedstrijd Feyenoord - Go Ahead Eagles uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -235,6 +235,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1787670300000:1prlzbg",
+    "channel": "playsports3",
+    "title": "Premier League",
+    "start": 1787670300000,
+    "end": 1787670900000,
+    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577137~~2FEP033946612426%2Cimi%3Ac83255957f84e3af89bcec8d4796614bab91f4b3/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082126,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577137~~2FEP033946612426,imi:c83255957f84e3af89bcec8d4796614bab91f4b3",
+      "episodeName": "Arsenal - Coventry City",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {

@@ -32,7 +32,7 @@
     "channel": "play6",
     "title": "Pawn Stars",
     "start": 1787703600000,
-    "end": 1787706900000,
+    "end": 1787706000000,
     "description": "Rick Dale komt tussenbeide en helpt Corey en Chumlee bij de restauratie van een antiek spel uit de 20e eeuw. Rick zet zijn zinnen op een kaart van de Slag om Gettysburg, die nooit eerder werd gezien.",
     "category": [
       "Reality",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play6:1787706900000:48zb9",
+    "id": "play6:1787706000000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1787706900000,
-    "end": 1787713200000,
+    "start": 1787706000000,
+    "end": 1787713020000,
     "description": null,
     "category": [],
     "image": null,
@@ -74,6 +74,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:44de19857b27a3f7c9f81d2db9255296c289e4b4",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1787713020000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1787713020000,
+    "end": 1787713200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ddd77a8e951d81740140843adc5a4e4134d23916",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

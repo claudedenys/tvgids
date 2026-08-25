@@ -1,30 +1,32 @@
 [
   {
-    "id": "playsports1:1787787360000:xykime",
+    "id": "playsports1:1787780820000:1prlzbg",
     "channel": "playsports1",
-    "title": "Play Sports",
-    "start": 1787787360000,
+    "title": "Premier League",
+    "start": 1787780820000,
     "end": 1787789100000,
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
-      "Sport"
+      "Sport",
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A028611b3b304d8945a9454aef0bf107a81598d9c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577137~~2FEP033946612426%2Cimi%3A8db162e0914a4200af81ee0793aa3001bebf7ff7/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 46610000,
+    "episode": 2026082126,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:028611b3b304d8945a9454aef0bf107a81598d9c",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577137~~2FEP033946612426,imi:8db162e0914a4200af81ee0793aa3001bebf7ff7",
+      "episodeName": "Arsenal - Coventry City",
       "genres": [
-        "Sport"
+        "Sport",
+        "Voetbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
@@ -241,26 +243,26 @@
     "title": "Premier League Review",
     "start": 1787847000000,
     "end": 1787850300000,
-    "description": "Deskundigen bespreken de prestaties van professionele voetbalclubs en spelers, wedstrijdstatistieken en de mooiste doelpunten in de Premier League, een Engels topvoetbaltoernooi.",
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000~~2F531541849%2Cimi%3A4ebb52a5f1e018706a0e872923488926ae62ab5a/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059%2Cimi%3A812cc6062e747d722f74971ba869aa111243f276/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 11400000,
-    "episode": 531541849,
+    "season": 102026,
+    "episode": 2026082659,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000~~2F531541849,imi:4ebb52a5f1e018706a0e872923488926ae62ab5a",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059,imi:812cc6062e747d722f74971ba869aa111243f276",
       "episodeName": null,
       "genres": [
         "Sport",
         "Voetbal"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
     }
