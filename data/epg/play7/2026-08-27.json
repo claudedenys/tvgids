@@ -1,9 +1,9 @@
 [
   {
-    "id": "play7:1787786700000:rmqxmh",
+    "id": "play7:1787787000000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1787786700000,
+    "start": 1787787000000,
     "end": 1787790300000,
     "description": "Een stel verkent woningen in Kent en aan de Costa Blanca, op zoek naar hun ideale huis onder de zon met advies van een expert.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play7",
     "title": "Geen uitzending",
     "start": 1787790300000,
-    "end": 1787799600000,
+    "end": 1787799540000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4620d12894559bf400aec19aec6a8cb71b64a0af",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1787799540000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1787799540000,
+    "end": 1787799600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d97896fb04725978f0f18abe76bf629ee744ad95",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

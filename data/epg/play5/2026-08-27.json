@@ -1,40 +1,10 @@
 [
   {
-    "id": "play5:1787785500000:1l3wd65",
-    "channel": "play5",
-    "title": "Superman & Lois",
-    "start": 1787785500000,
-    "end": 1787789100000,
-    "description": "Superman brengt een bezoekje aan Morgan Edge. Lois en Chrissy werken samen aan een verhaal. Jonathan gaat op zoek naar afleiding.",
-    "category": [
-      "Dramaserie",
-      "Actie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20257022~~2FEP043728750024%2Cimi%3A8fe407d9092b8552c27cf224d155f9c58c24f691/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 13,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20257022~~2FEP043728750024,imi:8fe407d9092b8552c27cf224d155f9c58c24f691",
-      "episodeName": "Fail Safe",
-      "genres": [
-        "Dramaserie",
-        "Actie"
-      ],
-      "productionDate": "2021",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F18320269~~2FSH043728750000"
-    }
-  },
-  {
-    "id": "play5:1787789100000:1vr1iur",
+    "id": "play5:1787788500000:1vr1iur",
     "channel": "play5",
     "title": "How to Get Away With Murder",
-    "start": 1787789100000,
-    "end": 1787792400000,
+    "start": 1787788500000,
+    "end": 1787791200000,
     "description": "Wanneer de rechter in de zaak van Rebecca een spreekverbod afdwingt, neemt ze vervolgens de touwtjes in eigen handen. Michaela is verbaasd over een akte met huwelijkse voorwaarden.",
     "category": [
       "Dramaserie",
@@ -60,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1787792400000:48zb9",
+    "id": "play5:1787791200000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1787792400000,
-    "end": 1787799600000,
+    "start": 1787791200000,
+    "end": 1787799300000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9686dcc594507d2fb8710e22656231ee7cb85914",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1787799300000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1787799300000,
+    "end": 1787799600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5776d3bd9a45a724f4f8ec27f2e1a0372b8972ed",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

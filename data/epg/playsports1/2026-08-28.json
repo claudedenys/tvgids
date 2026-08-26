@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1787871000000:xykime",
+    "id": "playsports1:1787869920000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1787871000000,
+    "start": 1787869920000,
     "end": 1787893200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Afe807fdc57d987af5039df4beea5b63871376948/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ad3f6a83a3eeacdb71e6fc24b32e262ac071c78d5/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +17,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:fe807fdc57d987af5039df4beea5b63871376948",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:d3f6a83a3eeacdb71e6fc24b32e262ac071c78d5",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -32,7 +32,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787893200000,
-    "end": 1787901240000,
+    "end": 1787899380000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -55,6 +55,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1787899380000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1787899380000,
+    "end": 1787901240000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6ab093473b86a5010b6d56d121172765492fd092",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

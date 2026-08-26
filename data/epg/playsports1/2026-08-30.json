@@ -1,0 +1,474 @@
+[
+  {
+    "id": "playsports1:1788044160000:xykime",
+    "channel": "playsports1",
+    "title": "Play Sports",
+    "start": 1788044160000,
+    "end": 1788065700000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A830196e939fa55b7d42d2d412a8febf94e2c3117/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:830196e939fa55b7d42d2d412a8febf94e2c3117",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1788065700000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788065700000,
+    "end": 1788071880000,
+    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577137~~2FEP033946612426%2Cimi%3A37208d1b5ac1e26189bd0f07c52ba4b869b62439/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082126,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577137~~2FEP033946612426,imi:37208d1b5ac1e26189bd0f07c52ba4b869b62439",
+      "episodeName": "Arsenal - Coventry City",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788071880000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1788071880000,
+    "end": 1788073740000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:fdc2e55d3b9cf2ce9c960c81eedf3e7e64fc2412",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1788073740000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788073740000,
+    "end": 1788080040000,
+    "description": "Vanuit het MKM Stadium in Hull, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427%2Cimi%3Ad51e16211d6898013c36ddfb9f18936160260c68/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082227,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427,imi:d51e16211d6898013c36ddfb9f18936160260c68",
+      "episodeName": "Hull City - Manchester United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788080040000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788080040000,
+    "end": 1788086400000,
+    "description": "Vanuit The City Ground in Nottingham, England.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577331~~2FEP033946612428%2Cimi%3A163929f3a85fa998529872b73ad24995b051d7b5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082228,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577331~~2FEP033946612428,imi:163929f3a85fa998529872b73ad24995b051d7b5",
+      "episodeName": "Nottingham Forest - Leeds United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788086400000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788086400000,
+    "end": 1788093000000,
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432%2Cimi%3A90b8bf5cc981049c9ff570b9ee56ebfe460e2507/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082332,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432,imi:90b8bf5cc981049c9ff570b9ee56ebfe460e2507",
+      "episodeName": "Manchester City - Bournemouth",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788093000000:qjkkk5",
+    "channel": "playsports1",
+    "title": "Premier League Stories",
+    "start": 1788093000000,
+    "end": 1788094500000,
+    "description": "Van onverschrokken spits tot een van de meest inspirerende figuren uit het Engelse voetbal: dit is het verhaal van Kevin Keegan. We volgen zijn opmerkelijke spelerscarrière bij Liverpool, Hamburg en het Engelse nationale elftal, waarna we ingaan op zijn invloed als trainer.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266%2Cimi%3A93bbed23fc95bda052a14411cb9ff3c47ed80faa/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 9,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266,imi:93bbed23fc95bda052a14411cb9ff3c47ed80faa",
+      "episodeName": "Kevin Keegan",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports1:1788094500000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788094500000,
+    "end": 1788101700000,
+    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33578541~~2FEP033946612443%2Cimi%3A8ae4c0aa560a36ffe6fa5441e34f0ac2b22bb54d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026083043,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33578541~~2FEP033946612443,imi:8ae4c0aa560a36ffe6fa5441e34f0ac2b22bb54d",
+      "episodeName": "Chelsea - Brighton & Hove Albion",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788101700000:fl98t7",
+    "channel": "playsports1",
+    "title": "The Premier Show",
+    "start": 1788101700000,
+    "end": 1788103500000,
+    "description": "In The Premier Show zetten Ruben Van Gucht en Caro Houbreghts elke zondag de mooiste affiche van de Premier League in de spotlights. Met hun gasten fileren ze de topper van het weekend en bespreken ze wat er leeft in de beste competitie ter wereld.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33879937~~2FEP065715530003%2Cimi%3Afda3cd16ca49539fe1a2cbbb496fa86789ddede5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33879937~~2FEP065715530003,imi:fda3cd16ca49539fe1a2cbbb496fa86789ddede5",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33871301~~2FSH065715530000"
+    }
+  },
+  {
+    "id": "playsports1:1788103500000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788103500000,
+    "end": 1788110700000,
+    "description": "Vanuit Old Trafford in Manchester, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33578608~~2FEP033946612444%2Cimi%3Ad2fe5d984a3df11771943301a6732272d8d9f150/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026083044,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33578608~~2FEP033946612444,imi:d2fe5d984a3df11771943301a6732272d8d9f150",
+      "episodeName": "Manchester United - Ipswich Town",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788110700000:fl98t7",
+    "channel": "playsports1",
+    "title": "The Premier Show",
+    "start": 1788110700000,
+    "end": 1788111900000,
+    "description": "In The Premier Show zetten Ruben Van Gucht en Caro Houbreghts elke zondag de mooiste affiche van de Premier League in de spotlights. Met hun gasten fileren ze de topper van het weekend en bespreken ze wat er leeft in de beste competitie ter wereld.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33879952~~2FEP065715530004%2Cimi%3A4fe441f9425e0f8ab0d2b6582dc1f9749d78cc21/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33879952~~2FEP065715530004,imi:4fe441f9425e0f8ab0d2b6582dc1f9749d78cc21",
+      "episodeName": "Aflevering 4",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33871301~~2FSH065715530000"
+    }
+  },
+  {
+    "id": "playsports1:1788111900000:qjkkk5",
+    "channel": "playsports1",
+    "title": "Premier League Stories",
+    "start": 1788111900000,
+    "end": 1788113400000,
+    "description": "Van onverschrokken spits tot een van de meest inspirerende figuren uit het Engelse voetbal: dit is het verhaal van Kevin Keegan. We volgen zijn opmerkelijke spelerscarrière bij Liverpool, Hamburg en het Engelse nationale elftal, waarna we ingaan op zijn invloed als trainer.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266%2Cimi%3A7cc640924d51d2a9e7382a9d58518c25b50c52e1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 9,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266,imi:7cc640924d51d2a9e7382a9d58518c25b50c52e1",
+      "episodeName": "Kevin Keegan",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports1:1788113400000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788113400000,
+    "end": 1788114300000,
+    "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33578139~~2FEP033946612440%2Cimi%3A9c86ddbadadee5a29a3c59df80273667cb2ff447/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082940,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33578139~~2FEP033946612440,imi:9c86ddbadadee5a29a3c59df80273667cb2ff447",
+      "episodeName": "Tottenham Hotspur - Newcastle United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788114300000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788114300000,
+    "end": 1788120300000,
+    "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577483~~2FEP033946612431%2Cimi%3A96cd2a8b41a6a3cd8261c844377a48e864bdf73a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082231,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577483~~2FEP033946612431,imi:96cd2a8b41a6a3cd8261c844377a48e864bdf73a",
+      "episodeName": "Brentford - Tottenham Hotspur",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788120300000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788120300000,
+    "end": 1788126900000,
+    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434%2Cimi%3A38ef11cc0355ecd2d72490e507b41dfca402e463/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082334,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434,imi:38ef11cc0355ecd2d72490e507b41dfca402e463",
+      "episodeName": "Newcastle United - Liverpool",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788126900000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788126900000,
+    "end": 1788133200000,
+    "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577428~~2FEP033946612430%2Cimi%3A5998d1e344d42256d29b86971328d4f199600155/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082230,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577428~~2FEP033946612430,imi:5998d1e344d42256d29b86971328d4f199600155",
+      "episodeName": "Ipswich Town - Sunderland",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  }
+]

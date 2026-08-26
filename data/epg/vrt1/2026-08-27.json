@@ -740,7 +740,7 @@
     "channel": "vrt1",
     "title": "Clips",
     "start": 1787833200000,
-    "end": 1787834400000,
+    "end": 1787833800000,
     "description": "Clips.",
     "category": [
       "Entertainment"
@@ -764,11 +764,11 @@
     }
   },
   {
-    "id": "vrt1:1787834400000:1t94b9l",
+    "id": "vrt1:1787833800000:1t94b9l",
     "channel": "vrt1",
     "title": "Kinderen van Dewindt",
-    "start": 1787834400000,
-    "end": 1787837400000,
+    "start": 1787833800000,
+    "end": 1787836800000,
     "description": "Dramaserie over de familie Dewindt, die in Antwerpen een familiebedrijf hebben. De familiale verhoudingen binnen het bedrijf zorgen voor complicaties en verwikkelingen, en de toekomst van het bedrijf staat op losse schroeven.",
     "category": [
       "Dramaserie"
@@ -792,11 +792,11 @@
     }
   },
   {
-    "id": "vrt1:1787837400000:izi5ax",
+    "id": "vrt1:1787836800000:izi5ax",
     "channel": "vrt1",
     "title": "Flikken Maastricht",
-    "start": 1787837400000,
-    "end": 1787840400000,
+    "start": 1787836800000,
+    "end": 1787839800000,
     "description": "Een vrouw vermoordt haar man 's nachts in zijn slaap. Ze blijkt te veel antidepressiva in haar bloed te hebben. De vrouw staat onder behandeling om het verlies van haar enige kind te verwerken.",
     "category": [
       "Dramaserie",
@@ -822,39 +822,41 @@
     }
   },
   {
-    "id": "vrt1:1787840400000:11o60uf",
+    "id": "vrt1:1787839800000:1tp4qhs",
     "channel": "vrt1",
-    "title": "De jaren 90 voor tieners",
-    "start": 1787840400000,
-    "end": 1787843700000,
-    "description": "Steven Van Herreweghe laat een groep tieners binnen in de wondere wereld van de jaren negentig. In ruil wil hij weten hoe het leven van een tiener anno 2023 eruitziet. In deze aflevering het jaar 1998.",
+    "title": "De playlist",
+    "start": 1787839800000,
+    "end": 1787841900000,
+    "description": "Een artiest toont zijn of haar playlist met favoriete nummers uit het rijke VRT-archief, doorspekt met eigen anekdotes en persoonlijke herinneringen.",
     "category": [
-      "Geschiedenis"
+      "Muziek",
+      "Spelprogramma"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25902700~~2FEP048494330009%2Cimi%3A95fb27f2bfd748fa72ce886b5728ed77775491cd/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18676652~~2FEP035516880035%2Cimi%3A0551c08ff87feb7bde71be33bb8cae885d69e1b4/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 1,
-    "episode": 9,
+    "episode": 34,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F25902700~~2FEP048494330009,imi:95fb27f2bfd748fa72ce886b5728ed77775491cd",
-      "episodeName": "1998",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18676652~~2FEP035516880035,imi:0551c08ff87feb7bde71be33bb8cae885d69e1b4",
+      "episodeName": "Stan Van Samang",
       "genres": [
-        "Geschiedenis"
+        "Muziek",
+        "Spelprogramma"
       ],
-      "productionDate": "2023",
+      "productionDate": "2020",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25488766~~2FSH048494330000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8b31aaeb-ea27-4cda-a0ff-fc13b9d3edbb"
     }
   },
   {
-    "id": "vrt1:1787843700000:1n9gogy",
+    "id": "vrt1:1787841900000:1n9gogy",
     "channel": "vrt1",
     "title": "Undercover",
-    "start": 1787843700000,
-    "end": 1787846880000,
+    "start": 1787841900000,
+    "end": 1787845200000,
     "description": "Bob verleidt Ferry eindelijk tot een grote deal. Maar Ferry heeft meer vijanden dan gedacht, waardoor het strak uitgedachte plan volledig dreigt te mislukken.",
     "category": [
       "Misdaaddrama",
@@ -880,91 +882,33 @@
     }
   },
   {
-    "id": "vrt1:1787846880000:knzn0c",
+    "id": "vrt1:1787845200000:1oyvjab",
     "channel": "vrt1",
-    "title": "VRT NWS Update",
-    "start": 1787846880000,
-    "end": 1787847000000,
-    "description": "Kort nieuwsoverzicht. Met het laatste nieuws, sport en de weersverwachting voor de komende dagen.",
-    "category": [
-      "Actua"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16191099~~2FSH030854400000~~2F525818624%2Cimi%3A089b5e54e68eb6ddc3626b7821a52e87705b841e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 54400000,
-    "episode": 525818624,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F16191099~~2FSH030854400000~~2F525818624,imi:089b5e54e68eb6ddc3626b7821a52e87705b841e",
-      "episodeName": null,
-      "genres": [
-        "Actua"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F16191099~~2FSH030854400000"
-    }
-  },
-  {
-    "id": "vrt1:1787847000000:qpj1ag",
-    "channel": "vrt1",
-    "title": "Het weer (vooravond)",
-    "start": 1787847000000,
-    "end": 1787847300000,
-    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
-    "category": [
-      "Weer",
-      "Actua"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310245~~2FSH043331480000~~2F525818625%2Cimi%3Ace7d8190b707f3696a5e5ac27fcf8e9334cf2c69/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 31480000,
-    "episode": 525818625,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310245~~2FSH043331480000~~2F525818625,imi:ce7d8190b707f3696a5e5ac27fcf8e9334cf2c69",
-      "episodeName": null,
-      "genres": [
-        "Weer",
-        "Actua"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8eefed63-59b2-400c-8b2f-c46a632a1849"
-    }
-  },
-  {
-    "id": "vrt1:1787847300000:19p3bgl",
-    "channel": "vrt1",
-    "title": "Chateau Planckaert",
-    "start": 1787847300000,
+    "title": "Sporza: WK Hockey Vrouwen 2026",
+    "start": 1787845200000,
     "end": 1787850000000,
-    "description": "De kinderen en kleinkinderen verlaten Frankrijk. Eddy en Christa blijven achter aan het kasteel. Zij genieten van de rust en maken van de gelegenheid gebruik om een ritje te maken met de motor.",
+    "description": "Verslag van een wedstrijd gespeeld in de halve finale op het WK Hockey vrouwen 2026.",
     "category": [
-      "Docu",
-      "Reality"
+      "Sport",
+      "Hockey"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24255144~~2FEP035885290042%2Cimi%3Ac66f4ba6afe7a739b7733ad46d9deea457199749/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32623174~~2FEP065463280008%2Cimi%3A48417feddd54692c03dc91702531cbe835c365a2/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 4,
-    "episode": 3,
+    "season": 63280000,
+    "episode": 2026082708,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24255144~~2FEP035885290042,imi:c66f4ba6afe7a739b7733ad46d9deea457199749",
-      "episodeName": "Aflevering 3",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32623174~~2FEP065463280008,imi:48417feddd54692c03dc91702531cbe835c365a2",
+      "episodeName": "Halve Finale: Netherlands - Belgium",
       "genres": [
-        "Docu",
-        "Reality"
+        "Sport",
+        "Hockey"
       ],
-      "productionDate": "2023",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F45c57503-175a-413e-bc48-7f59861a2fc1"
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580151~~2FSH065463280000"
     }
   },
   {

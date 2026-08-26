@@ -212,7 +212,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 1: De Wereld Vandaag",
     "start": 1787839200000,
-    "end": 1787843400000,
+    "end": 1787841300000,
     "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
     "category": [
       "Actualiteitsmagazine"
@@ -236,11 +236,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1787843400000:1kekhoo",
+    "id": "vrtcanvas:1787841300000:1kekhoo",
     "channel": "vrtcanvas",
     "title": "JFK: the home movie that changed the world",
-    "start": 1787843400000,
-    "end": 1787846400000,
+    "start": 1787841300000,
+    "end": 1787844300000,
     "description": "Slechts één persoon filmde de schietpartij op de Amerikaanse president John F. Kennedy in Dallas, Texas op 22 november 1963. De homevideo van Abraham Zapruder zou worden gebruikt door zowat iedereen met een theorie over de moord op JFK.",
     "category": [
       "Docu",
@@ -266,17 +266,17 @@
     }
   },
   {
-    "id": "vrtcanvas:1787846400000:qy9uhf",
+    "id": "vrtcanvas:1787844300000:9kg6lu",
     "channel": "vrtcanvas",
-    "title": "Disease X: Hunting the Next Pandemic",
-    "start": 1787846400000,
-    "end": 1787850000000,
-    "description": "BBC-documentaire over de wereldwijde zoektocht naar een onbekend, potentieel dodelijk virus dat volgens wetenschappers de volgende pandemie kan veroorzaken.",
+    "title": "Dolly Parton: Here I Am",
+    "start": 1787844300000,
+    "end": 1787849700000,
+    "description": "Deze documentaire verkent het leven en de muziek van Dolly Parton. Middels archiefbeelden en interviews met Dolly en met sterren als Jane Fonda en Lily Tomlin, toont de film de totstandkoming van hits als 'I Will Always Love You' en 'Jolene'.",
     "category": [
       "Docu",
-      "Wetenschap"
+      "Biografie"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31192275~~2FSH065581290000~~2Fspecial%2Cimi%3Ad3caa28e3d15b5fb0e6079e9da556bead886e187/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17688544~~2FSH037488730000~~2Fspecial%2Cimi%3Ad2f4af952c8909e91bee56a548ad02202e96cb7e/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -284,11 +284,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31192275~~2FSH065581290000~~2Fspecial,imi:d3caa28e3d15b5fb0e6079e9da556bead886e187",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17688544~~2FSH037488730000~~2Fspecial,imi:d2f4af952c8909e91bee56a548ad02202e96cb7e",
       "episodeName": null,
       "genres": [
         "Docu",
-        "Wetenschap"
+        "Biografie"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
@@ -296,31 +296,33 @@
     }
   },
   {
-    "id": "vrtcanvas:1787850000000:jzpzez",
+    "id": "vrtcanvas:1787849700000:1oyvjab",
     "channel": "vrtcanvas",
-    "title": "Rise of the Billionaires",
-    "start": 1787850000000,
+    "title": "Sporza: WK Hockey Vrouwen 2026",
+    "start": 1787849700000,
     "end": 1787853600000,
-    "description": "De merkwaardige transformatie die de miljardairs de voorbije dertig jaar hebben ondergaan.",
+    "description": "Verslag van een wedstrijd gespeeld in de halve finale op het WK Hockey vrouwen 2026.",
     "category": [
-      "Docudrama"
+      "Sport",
+      "Hockey"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23093058~~2FEP045809220004%2Cimi%3A680161df8c65fc1f51f4a8d7860a499f02b0bd9b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32623174~~2FEP065463280008%2Cimi%3Ae1ff43bd0e706f0fa5f3adf71604b93d156dbbac/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 1,
-    "episode": 4,
+    "season": 63280000,
+    "episode": 2026082708,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23093058~~2FEP045809220004,imi:680161df8c65fc1f51f4a8d7860a499f02b0bd9b",
-      "episodeName": "Moonshots 2016-...?",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32623174~~2FEP065463280008,imi:e1ff43bd0e706f0fa5f3adf71604b93d156dbbac",
+      "episodeName": "Halve Finale: Netherlands - Belgium",
       "genres": [
-        "Docudrama"
+        "Sport",
+        "Hockey"
       ],
-      "productionDate": "2022",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23082765~~2FSH045809220000"
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580151~~2FSH065463280000"
     }
   },
   {
