@@ -1,37 +1,9 @@
 [
   {
-    "id": "play4:1787871000000:ve7h1t",
-    "channel": "play4",
-    "title": "De Tafel van Gert",
-    "start": 1787871000000,
-    "end": 1787875800000,
-    "description": "Samen met een karrenvracht aan Tafelgasten en Tafelspringers werpt Gert Verhulst een kritische, scherpe, interessante en soms ook grappige blik op de actualiteit van de dag.",
-    "category": [
-      "Talkshow"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32141160~~2FEP048627500304%2Cimi%3A4313a9be69819e7b7178cccc01d7b8e4a2823455/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 8,
-    "episode": 4,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32141160~~2FEP048627500304,imi:4313a9be69819e7b7178cccc01d7b8e4a2823455",
-      "episodeName": "Aflevering 4",
-      "genres": [
-        "Talkshow"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25584372~~2FSH048627500000"
-    }
-  },
-  {
-    "id": "play4:1787875800000:48zb9",
+    "id": "play4:1787874600000:48zb9",
     "channel": "play4",
     "title": "Geen uitzending",
-    "start": 1787875800000,
+    "start": 1787874600000,
     "end": 1787885400000,
     "description": null,
     "category": [],
@@ -245,15 +217,15 @@
     "category": [
       "Talkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32141160~~2FEP048627500304%2Cimi%3A895224e176dd9f54cb5fc3debf93ab3350536e18/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33920893~~2FEP048627500374%2Cimi%3Abfe180e2402282cd652921208c5d59eafdd50d43/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 8,
+    "season": 9,
     "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32141160~~2FEP048627500304,imi:895224e176dd9f54cb5fc3debf93ab3350536e18",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33920893~~2FEP048627500374,imi:bfe180e2402282cd652921208c5d59eafdd50d43",
       "episodeName": "Aflevering 4",
       "genres": [
         "Talkshow"
@@ -331,15 +303,15 @@
     "category": [
       "Talkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32141160~~2FEP048627500304%2Cimi%3A0fe84b96dd6b13855b93c7923a100036e3dc0ce7/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33920893~~2FEP048627500374%2Cimi%3Ac2f261a5ad8f209f195ad3ac0c7e9e62db1c2ccf/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 8,
+    "season": 9,
     "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32141160~~2FEP048627500304,imi:0fe84b96dd6b13855b93c7923a100036e3dc0ce7",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33920893~~2FEP048627500374,imi:c2f261a5ad8f209f195ad3ac0c7e9e62db1c2ccf",
       "episodeName": "Aflevering 4",
       "genres": [
         "Talkshow"
@@ -436,31 +408,33 @@
     }
   },
   {
-    "id": "play4:1787940000000:1ltn7gx",
+    "id": "play4:1787940000000:1f76dxw",
     "channel": "play4",
-    "title": "Wordt aangekondigd",
+    "title": "De Tafel van de Week",
     "start": 1787940000000,
     "end": 1787942100000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Een bundel van alle beste momenten, emotionele gesprekken, pakkende verhalen en respectvolle discussies van een ganse week aan De Tafel van Gert of Tine.",
     "category": [
-      "Entertainment"
+      "Talkshow",
+      "Interview"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Ab0a94eac7e717dba99c490d0e51277500f07982b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33934594~~2FEP060235400043%2Cimi%3A7d4ec20297e22b1527afeb5b1a1820f6b6f86b7a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 3,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:b0a94eac7e717dba99c490d0e51277500f07982b",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33934594~~2FEP060235400043,imi:7d4ec20297e22b1527afeb5b1a1820f6b6f86b7a",
+      "episodeName": "Aflevering 1",
       "genres": [
-        "Entertainment"
+        "Talkshow",
+        "Interview"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31099277~~2FSH060235400000"
     }
   },
   {

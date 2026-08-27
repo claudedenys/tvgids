@@ -1,14 +1,14 @@
 [
   {
-    "id": "sport:playsports1:1787959380000:xykime",
+    "id": "sport:playsports1:1787958960000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1787959380000,
-    "end": 1787978400000,
+    "start": 1787958960000,
+    "end": 1787979000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -23,40 +23,17 @@
     ]
   },
   {
-    "id": "sport:playsports1:1787997900000:amnfa6",
+    "id": "sport:playsports1:1787998200000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787997900000,
-    "end": 1788001200000,
+    "start": 1787998200000,
+    "end": 1788001320000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:playsports1:1788001200000:qjkkk5",
-    "externalId": null,
-    "title": "Kevin Keegan",
-    "home": null,
-    "away": null,
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1788001200000,
-    "end": 1788002700000,
-    "status": "aankomend",
-    "description": "Van onverschrokken spits tot een van de meest inspirerende figuren uit het Engelse voetbal: dit is het verhaal van Kevin Keegan. We volgen zijn opmerkelijke spelerscarrière bij Liverpool, Hamburg en het Engelse nationale elftal, waarna we ingaan op zijn invloed als trainer.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -138,15 +115,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1788029100000:qjkkk5",
+    "id": "sport:playsports1:1788030300000:qjkkk5",
     "externalId": null,
     "title": "Kevin Keegan",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788029100000,
-    "end": 1788030600000,
+    "start": 1788030300000,
+    "end": 1788031920000,
     "status": "aankomend",
     "description": "Van onverschrokken spits tot een van de meest inspirerende figuren uit het Engelse voetbal: dit is het verhaal van Kevin Keegan. We volgen zijn opmerkelijke spelerscarrière bij Liverpool, Hamburg en het Engelse nationale elftal, waarna we ingaan op zijn invloed als trainer.",
     "source": "epg",
@@ -299,14 +276,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787958180000:xykime",
+    "id": "sport:playsports4:1787958600000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1787958180000,
+    "start": 1787958600000,
     "end": 1787979600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -736,15 +713,15 @@
     ]
   },
   {
-    "id": "sport:match:1787978400000:ipswich town - sunderland",
+    "id": "sport:match:1787979000000:ipswich town - sunderland",
     "externalId": null,
     "title": "Ipswich Town - Sunderland",
     "home": "Ipswich Town",
     "away": "Sunderland",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787978400000,
-    "end": 1787984700000,
+    "start": 1787979000000,
+    "end": 1787985120000,
     "status": "aankomend",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
@@ -759,15 +736,15 @@
     ]
   },
   {
-    "id": "sport:match:1787984700000:brighton & hove albion - aston villa",
+    "id": "sport:match:1787985120000:brighton & hove albion - aston villa",
     "externalId": null,
     "title": "Brighton & Hove Albion - Aston Villa",
     "home": "Brighton & Hove Albion",
     "away": "Aston Villa",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787984700000,
-    "end": 1787991300000,
+    "start": 1787985120000,
+    "end": 1787991600000,
     "status": "aankomend",
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "source": "epg",
@@ -782,17 +759,40 @@
     ]
   },
   {
-    "id": "sport:match:1787991300000:manchester city - bournemouth",
+    "id": "sport:match:1787991600000:manchester city - bournemouth",
     "externalId": null,
     "title": "Manchester City - Bournemouth",
     "home": "Manchester City",
     "away": "Bournemouth",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787991300000,
-    "end": 1787997900000,
+    "start": 1787991600000,
+    "end": 1787998200000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1788001320000:beoordeelt de pro league-shirts",
+    "externalId": null,
+    "title": "Beoordeelt de Pro League-shirts",
+    "home": "Beoordeelt de Pro League",
+    "away": "shirts",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1788001320000,
+    "end": 1788002700000,
+    "status": "aankomend",
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -874,15 +874,38 @@
     ]
   },
   {
-    "id": "sport:match:1788030600000:crystal palace - manchester city",
+    "id": "sport:match:1788029100000:beoordeelt de pro league-shirts",
+    "externalId": null,
+    "title": "Beoordeelt de Pro League-shirts",
+    "home": "Beoordeelt de Pro League",
+    "away": "shirts",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1788029100000,
+    "end": 1788030300000,
+    "status": "aankomend",
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1788031920000:crystal palace - manchester city",
     "externalId": null,
     "title": "Crystal Palace - Manchester City",
     "home": "Crystal Palace",
     "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788030600000,
-    "end": 1788031500000,
+    "start": 1788031920000,
+    "end": 1788032700000,
     "status": "aankomend",
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
@@ -897,15 +920,15 @@
     ]
   },
   {
-    "id": "sport:match:1788031500000:newcastle united - liverpool",
+    "id": "sport:match:1788032700000:newcastle united - liverpool",
     "externalId": null,
     "title": "Newcastle United - Liverpool",
     "home": "Newcastle United",
     "away": "Liverpool",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788031500000,
-    "end": 1788038100000,
+    "start": 1788032700000,
+    "end": 1788039300000,
     "status": "aankomend",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "source": "epg",
@@ -920,15 +943,15 @@
     ]
   },
   {
-    "id": "sport:match:1788038100000:brentford - tottenham hotspur",
+    "id": "sport:match:1788039300000:brentford - tottenham hotspur",
     "externalId": null,
     "title": "Brentford - Tottenham Hotspur",
     "home": "Brentford",
     "away": "Tottenham Hotspur",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788038100000,
-    "end": 1788044160000,
+    "start": 1788039300000,
+    "end": 1788045360000,
     "status": "aankomend",
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "source": "epg",

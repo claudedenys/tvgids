@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1787787000000,
     "end": 1787806800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -23,15 +23,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1787844780000:amnfa6",
+    "id": "sport:playsports1:1787845020000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787844780000,
-    "end": 1787847900000,
+    "start": 1787845020000,
+    "end": 1787848200000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -46,15 +46,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1787860500000:amnfa6",
+    "id": "sport:playsports1:1787860920000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787860500000,
-    "end": 1787863680000,
+    "start": 1787860920000,
+    "end": 1787864100000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -78,7 +78,7 @@
     "sport": null,
     "start": 1787781600000,
     "end": 1787803200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1787803200000,
     "end": 1787824800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +124,7 @@
     "sport": null,
     "start": 1787824800000,
     "end": 1787846400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,7 +170,7 @@
     "sport": null,
     "start": 1787788680000,
     "end": 1787806800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +193,7 @@
     "sport": null,
     "start": 1787786700000,
     "end": 1787806800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": "Motorsport",
     "start": 1787817540000,
     "end": 1787822220000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste race van de ePrix van Londen, gereden in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -239,7 +239,7 @@
     "sport": "Motorsport",
     "start": 1787822220000,
     "end": 1787827860000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -262,7 +262,7 @@
     "sport": "Tennis",
     "start": 1787827860000,
     "end": 1787832180000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -276,17 +276,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787832180000:1ltn7gx",
+    "id": "sport:playsports4:1787832180000:qbgze4",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Dag 9",
     "home": null,
     "away": null,
-    "competition": null,
-    "sport": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
     "start": 1787832180000,
     "end": 1787840520000,
-    "status": "aankomend",
-    "description": "De programmering wordt nog aangekondigd.",
+    "status": "afgelopen",
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -299,17 +299,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787840520000:1ltn7gx",
+    "id": "sport:playsports4:1787840520000:qbgze4",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Dag 9",
     "home": null,
     "away": null,
-    "competition": null,
-    "sport": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
     "start": 1787840520000,
     "end": 1787850780000,
-    "status": "aankomend",
-    "description": "De programmering wordt nog aangekondigd.",
+    "status": "live",
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -377,7 +377,7 @@
     "sport": null,
     "start": 1787781600000,
     "end": 1787803200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -400,7 +400,7 @@
     "sport": null,
     "start": 1787803200000,
     "end": 1787824800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -423,7 +423,7 @@
     "sport": null,
     "start": 1787824800000,
     "end": 1787846400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -469,7 +469,7 @@
     "sport": "Golf",
     "start": 1787785200000,
     "end": 1787790600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de CPKC Women's Open, gespeeld op de Royal Mayfair Golf Club in Edmonton, Canada.",
     "source": "epg",
     "platforms": [
@@ -492,7 +492,7 @@
     "sport": "Golf",
     "start": 1787790600000,
     "end": 1787792400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Irish Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
@@ -515,7 +515,7 @@
     "sport": "Golf",
     "start": 1787792400000,
     "end": 1787794200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
     "source": "epg",
     "platforms": [
@@ -538,7 +538,7 @@
     "sport": "Golf",
     "start": 1787794200000,
     "end": 1787796000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Nexo Championship, gespeeld op de Trump International Golf Links in Balmedie, Schotland.",
     "source": "epg",
     "platforms": [
@@ -561,7 +561,7 @@
     "sport": "Golf",
     "start": 1787796000000,
     "end": 1787799600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de BMW Championship, gespeeld op de Bellerive Country Club in St. Louis, Missouri.",
     "source": "epg",
     "platforms": [
@@ -584,7 +584,7 @@
     "sport": "Golf",
     "start": 1787799600000,
     "end": 1787803200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Rogers Charity Classic, gespeeld in de PGA Tour Champions.",
     "source": "epg",
     "platforms": [
@@ -607,7 +607,7 @@
     "sport": "Golf",
     "start": 1787803200000,
     "end": 1787806740000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de VP Bank Swiss Ladies Open, gespeeld in Zug, Zwitserland.",
     "source": "epg",
     "platforms": [
@@ -630,7 +630,7 @@
     "sport": "Golf",
     "start": 1787806740000,
     "end": 1787817600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Nexo Championship, gespeeld in Balmedie, Schotland.",
     "source": "epg",
     "platforms": [
@@ -653,7 +653,7 @@
     "sport": "Golf",
     "start": 1787817600000,
     "end": 1787828400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de PGA Tour.",
     "source": "epg",
     "platforms": [
@@ -676,7 +676,7 @@
     "sport": "Golf",
     "start": 1787828400000,
     "end": 1787830200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
     "source": "epg",
     "platforms": [
@@ -699,7 +699,7 @@
     "sport": "Golf",
     "start": 1787830200000,
     "end": 1787850000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de eerste dag van de Husqvarna British Masters, gespeeld in Sutton Coldfield, Engeland.",
     "source": "epg",
     "platforms": [
@@ -745,7 +745,7 @@
     "sport": "Voetbal",
     "start": 1787806800000,
     "end": 1787812920000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
     "platforms": [
@@ -768,7 +768,7 @@
     "sport": "Voetbal",
     "start": 1787812920000,
     "end": 1787819400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "source": "epg",
     "platforms": [
@@ -790,8 +790,8 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787819400000,
-    "end": 1787825940000,
-    "status": "aankomend",
+    "end": 1787826000000,
+    "status": "afgelopen",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "source": "epg",
     "platforms": [
@@ -805,16 +805,16 @@
     ]
   },
   {
-    "id": "sport:match:1787825940000:nottingham forest - leeds united",
+    "id": "sport:match:1787826000000:nottingham forest - leeds united",
     "externalId": null,
     "title": "Nottingham Forest - Leeds United",
     "home": "Nottingham Forest",
     "away": "Leeds United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787825940000,
-    "end": 1787832180000,
-    "status": "aankomend",
+    "start": 1787826000000,
+    "end": 1787832360000,
+    "status": "afgelopen",
     "description": "Vanuit The City Ground in Nottingham, England.",
     "source": "epg",
     "platforms": [
@@ -828,16 +828,16 @@
     ]
   },
   {
-    "id": "sport:match:1787832180000:hull city - manchester united",
+    "id": "sport:match:1787832360000:hull city - manchester united",
     "externalId": null,
     "title": "Hull City - Manchester United",
     "home": "Hull City",
     "away": "Manchester United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787832180000,
-    "end": 1787838540000,
-    "status": "aankomend",
+    "start": 1787832360000,
+    "end": 1787838780000,
+    "status": "afgelopen",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
     "platforms": [
@@ -851,16 +851,16 @@
     ]
   },
   {
-    "id": "sport:match:1787838540000:arsenal - coventry city",
+    "id": "sport:match:1787838780000:arsenal - coventry city",
     "externalId": null,
     "title": "Arsenal - Coventry City",
     "home": "Arsenal",
     "away": "Coventry City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787838540000,
-    "end": 1787844780000,
-    "status": "aankomend",
+    "start": 1787838780000,
+    "end": 1787845020000,
+    "status": "live",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -874,15 +874,15 @@
     ]
   },
   {
-    "id": "sport:match:1787847900000:newcastle united - liverpool",
+    "id": "sport:match:1787848200000:newcastle united - liverpool",
     "externalId": null,
     "title": "Newcastle United - Liverpool",
     "home": "Newcastle United",
     "away": "Liverpool",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787847900000,
-    "end": 1787854500000,
+    "start": 1787848200000,
+    "end": 1787854860000,
     "status": "aankomend",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "source": "epg",
@@ -897,15 +897,15 @@
     ]
   },
   {
-    "id": "sport:match:1787854500000:brentford - tottenham hotspur",
+    "id": "sport:match:1787854860000:brentford - tottenham hotspur",
     "externalId": null,
     "title": "Brentford - Tottenham Hotspur",
     "home": "Brentford",
     "away": "Tottenham Hotspur",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787854500000,
-    "end": 1787860500000,
+    "start": 1787854860000,
+    "end": 1787860920000,
     "status": "aankomend",
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "source": "epg",
@@ -920,15 +920,15 @@
     ]
   },
   {
-    "id": "sport:match:1787863680000:arsenal - coventry city",
+    "id": "sport:match:1787864100000:arsenal - coventry city",
     "externalId": null,
     "title": "Arsenal - Coventry City",
     "home": "Arsenal",
     "away": "Coventry City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787863680000,
-    "end": 1787869920000,
+    "start": 1787864100000,
+    "end": 1787870340000,
     "status": "aankomend",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
@@ -952,7 +952,7 @@
     "sport": "Voetbal",
     "start": 1787806800000,
     "end": 1787812920000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -975,7 +975,7 @@
     "sport": "Voetbal",
     "start": 1787812920000,
     "end": 1787819340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -998,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1787819340000,
     "end": 1787825640000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - Fortuna Sittard uit de 1e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1021,7 +1021,7 @@
     "sport": "Voetbal",
     "start": 1787825640000,
     "end": 1787833380000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "source": "epg",
     "platforms": [
@@ -1044,7 +1044,7 @@
     "sport": "Voetbal",
     "start": 1787833380000,
     "end": 1787839500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1067,7 +1067,7 @@
     "sport": "Voetbal",
     "start": 1787839500000,
     "end": 1787845920000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1182,7 +1182,7 @@
     "sport": null,
     "start": 1787806800000,
     "end": 1787810280000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1205,7 @@
     "sport": null,
     "start": 1787810280000,
     "end": 1787813880000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1228,7 @@
     "sport": null,
     "start": 1787813880000,
     "end": 1787817540000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [

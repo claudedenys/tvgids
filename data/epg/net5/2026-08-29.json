@@ -1,10 +1,10 @@
 [
   {
-    "id": "net5:1787951700000:1bp4tcp",
+    "id": "net5:1787952180000:1bp4tcp",
     "channel": "net5",
     "title": "Chicago fire",
-    "start": 1787951700000,
-    "end": 1787954700000,
+    "start": 1787952180000,
+    "end": 1787955000000,
     "description": "Kidd en Severide wachten vol spanning op groot nieuws.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/c/carrousel/chicago-fire-762210182.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "net5:1787954700000:1o656hw",
+    "id": "net5:1787955000000:1o656hw",
     "channel": "net5",
     "title": "House rules Australië",
-    "start": 1787954700000,
-    "end": 1787958000000,
+    "start": 1787955000000,
+    "end": 1787958720000,
     "description": "Katie en Alex zien voor het eerst hun gerenoveerde huisje.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/house-rules-australie-754851602.jpg",
@@ -44,11 +44,33 @@
     }
   },
   {
-    "id": "net5:1787958000000:ttd30a",
+    "id": "net5:1787958720000:1aas33z",
+    "channel": "net5",
+    "title": "Fire country",
+    "start": 1787958720000,
+    "end": 1787962140000,
+    "description": "Het team van station 42 rukt uit voor een ogenschijnlijk gewone woningbrand, die uitloopt in een gevaarlijke situatie...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/fire-country-764758742.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "net5:1787962140000:ttd30a",
     "channel": "net5",
     "title": "Loop: Hart van Nederland",
-    "start": 1787958000000,
-    "end": 1787976000000,
+    "start": 1787962140000,
+    "end": 1787976060000,
     "description": "Toegankelijk nieuwsprogramma over het gesprek van de dag.",
     "category": [
       "Actueel"
@@ -69,11 +91,36 @@
     }
   },
   {
-    "id": "net5:1787984100000:o3kl7d",
+    "id": "net5:1787976060000:ttd30a",
+    "channel": "net5",
+    "title": "Loop: Hart van Nederland",
+    "start": 1787976060000,
+    "end": 1787983560000,
+    "description": "Toegankelijk nieuwsprogramma over het gesprek van de dag.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/loop-hart-van-nederland-760250442.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "net5:1787983560000:o3kl7d",
     "channel": "net5",
     "title": "Signed, sealed, delivered",
-    "start": 1787984100000,
-    "end": 1787990700000,
+    "start": 1787983560000,
+    "end": 1787990220000,
     "description": "De Postables gaan verder dan hun taak vraagt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/signed-sealed-delivered-758561912.jpg",
@@ -88,11 +135,11 @@
     }
   },
   {
-    "id": "net5:1787990700000:ou6wlv",
+    "id": "net5:1787990220000:ou6wlv",
     "channel": "net5",
     "title": "Home and away",
-    "start": 1787990700000,
-    "end": 1787992200000,
+    "start": 1787990220000,
+    "end": 1787991900000,
     "description": "Mackenzie regelt een vrije dag zodat zij en Levi hun jubileum alsnog kunnen vieren.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/home-and-away-756443622.jpg",
@@ -110,33 +157,11 @@
     }
   },
   {
-    "id": "net5:1787992200000:ou6wlv",
+    "id": "net5:1787991900000:ou6wlv",
     "channel": "net5",
     "title": "Home and away",
-    "start": 1787992200000,
-    "end": 1787992500000,
-    "description": "Justin, Theo, Remi en Bree houden een spontane jamsessie, tot Rose ingrijpt.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/home-and-away-756443622.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "net5:1787992500000:ou6wlv",
-    "channel": "net5",
-    "title": "Home and away",
-    "start": 1787992500000,
-    "end": 1787994300000,
+    "start": 1787991900000,
+    "end": 1787993640000,
     "description": "Mali wisselt verhalen uit met John en Mackenzie.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/home-and-away-756443622.jpg",
@@ -154,11 +179,11 @@
     }
   },
   {
-    "id": "net5:1787994300000:ou6wlv",
+    "id": "net5:1787993640000:ou6wlv",
     "channel": "net5",
     "title": "Home and away",
-    "start": 1787994300000,
-    "end": 1787997600000,
+    "start": 1787993640000,
+    "end": 1787995380000,
     "description": "Abigail en Nerida vertellen dat hun klachten worden onderzocht.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/home-and-away-756443622.jpg",
@@ -176,11 +201,33 @@
     }
   },
   {
-    "id": "net5:1787997600000:ou6wlv",
+    "id": "net5:1787995380000:ou6wlv",
     "channel": "net5",
     "title": "Home and away",
-    "start": 1787997600000,
-    "end": 1787999400000,
+    "start": 1787995380000,
+    "end": 1787997060000,
+    "description": "Justin, Theo, Remi en Bree houden een spontane jamsessie, tot Rose ingrijpt.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/home-and-away-756443622.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "net5:1787997060000:ou6wlv",
+    "channel": "net5",
+    "title": "Home and away",
+    "start": 1787997060000,
+    "end": 1787998800000,
     "description": "Remi stelt Theo, Kirby en Eden voor om een tijdje weg te gaan om te repeteren.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/home-and-away-756443622.jpg",
@@ -198,11 +245,11 @@
     }
   },
   {
-    "id": "net5:1787999400000:1mrnm0l",
+    "id": "net5:1787998800000:1mrnm0l",
     "channel": "net5",
     "title": "Gilmore girls",
-    "start": 1787999400000,
-    "end": 1788002100000,
+    "start": 1787998800000,
+    "end": 1788001680000,
     "description": "Luke leent zijn truck aan Lorelai zodat ze Rory kan helpen te verhuizen naar haar studentenwoning, maar hij is niet...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/gilmore-girls-756096042.jpg",
@@ -220,11 +267,11 @@
     }
   },
   {
-    "id": "net5:1788002100000:1mrnm0l",
+    "id": "net5:1788001680000:1mrnm0l",
     "channel": "net5",
     "title": "Gilmore girls",
-    "start": 1788002100000,
-    "end": 1788005400000,
+    "start": 1788001680000,
+    "end": 1788005220000,
     "description": "Om de kosten van het openen van de herberg te helpen dekken, besluiten Lorelai en Sookie om naast hun werk ook...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/gilmore-girls-756096042.jpg",
@@ -242,11 +289,11 @@
     }
   },
   {
-    "id": "net5:1788005400000:1mrnm0l",
+    "id": "net5:1788005220000:1mrnm0l",
     "channel": "net5",
     "title": "Gilmore girls",
-    "start": 1788005400000,
-    "end": 1788009000000,
+    "start": 1788005220000,
+    "end": 1788008760000,
     "description": "Rory gaat een weekendje naar huis en loopt haar ex-lief Dean tegen het lijf die haar uitnodigt op zijn huwelijk dat...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/gilmore-girls-756096042.jpg",
@@ -264,11 +311,11 @@
     }
   },
   {
-    "id": "net5:1788009000000:1mrnm0l",
+    "id": "net5:1788008760000:1mrnm0l",
     "channel": "net5",
     "title": "Gilmore girls",
-    "start": 1788009000000,
-    "end": 1788012300000,
+    "start": 1788008760000,
+    "end": 1788012240000,
     "description": "Rory gaat op haar eerste date sinds haar relatie uit is met Jess en ontdekt dat daten op de universiteit niet...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/gilmore-girls-756096042.jpg",
@@ -286,11 +333,11 @@
     }
   },
   {
-    "id": "net5:1788012300000:ccqpvr",
+    "id": "net5:1788012240000:ccqpvr",
     "channel": "net5",
     "title": "Een dag in de dierenkliniek",
-    "start": 1788012300000,
-    "end": 1788015900000,
+    "start": 1788012240000,
+    "end": 1788015720000,
     "description": "Billy komt in actie na een noodoproep van boeren in North Queensland die kippen verliezen door een reusachtige slang.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-dag-in-de-dierenkliniek-758561132.jpg",
@@ -308,11 +355,11 @@
     }
   },
   {
-    "id": "net5:1788015900000:ccqpvr",
+    "id": "net5:1788015720000:ccqpvr",
     "channel": "net5",
     "title": "Een dag in de dierenkliniek",
-    "start": 1788015900000,
-    "end": 1788019200000,
+    "start": 1788015720000,
+    "end": 1788019380000,
     "description": "Billy beleeft een spannend moment tijdens de gezondheidscheck van Cassius, 's werelds grootste krokodil.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-dag-in-de-dierenkliniek-758561132.jpg",
@@ -330,11 +377,11 @@
     }
   },
   {
-    "id": "net5:1788019200000:ccqpvr",
+    "id": "net5:1788019380000:ccqpvr",
     "channel": "net5",
     "title": "Een dag in de dierenkliniek",
-    "start": 1788019200000,
-    "end": 1788022800000,
+    "start": 1788019380000,
+    "end": 1788022860000,
     "description": "Rob behandelt een akelig gezwel dat achter het oog van teckel Leo groeit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-dag-in-de-dierenkliniek-758561132.jpg",
@@ -349,10 +396,10 @@
     }
   },
   {
-    "id": "net5:1788022800000:ccqpvr",
+    "id": "net5:1788022860000:ccqpvr",
     "channel": "net5",
     "title": "Een dag in de dierenkliniek",
-    "start": 1788022800000,
+    "start": 1788022860000,
     "end": 1788026400000,
     "description": "Rob opereert greyhoundpup Jemima aan een ernstig gebroken poot.",
     "category": [],
@@ -372,7 +419,7 @@
     "channel": "net5",
     "title": "NCIS: Sydney",
     "start": 1788026400000,
-    "end": 1788029700000,
+    "end": 1788029820000,
     "description": "De ontdekking van twee vermiste Amerikaanse marinepiloten, die stuurloos ronddrijven in de Koraalzee, leidt het team...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/ncis-sydney-759279162.jpg",
@@ -387,11 +434,11 @@
     }
   },
   {
-    "id": "net5:1788029700000:yknhhu",
+    "id": "net5:1788029820000:yknhhu",
     "channel": "net5",
     "title": "NCIS",
-    "start": 1788029700000,
-    "end": 1788033000000,
+    "start": 1788029820000,
+    "end": 1788033300000,
     "description": "Een marineofficier, Derek Bailey, wordt ontvoerd en zijn verloofde Tanya wendt zich pas drie dagen na zijn...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/ncis-759278962.jpg",
@@ -409,11 +456,11 @@
     }
   },
   {
-    "id": "net5:1788033000000:1sj6e1o",
+    "id": "net5:1788033300000:1sj6e1o",
     "channel": "net5",
     "title": "Soko Köln",
-    "start": 1788033000000,
-    "end": 1788036600000,
+    "start": 1788033300000,
+    "end": 1788036900000,
     "description": "Anna Maiwald geniet van haar nieuwe liefde met tangodocent Carlos.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/soko-koln-759237262.jpg",
@@ -428,11 +475,11 @@
     }
   },
   {
-    "id": "net5:1788036600000:1sj6e1o",
+    "id": "net5:1788036900000:1sj6e1o",
     "channel": "net5",
     "title": "Soko Köln",
-    "start": 1788036600000,
-    "end": 1788040200000,
+    "start": 1788036900000,
+    "end": 1788040560000,
     "description": "De SOKO kijkt uit naar de komst van hun nieuwe chef Helena Jung.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/soko-koln-759237262.jpg",
@@ -447,11 +494,11 @@
     }
   },
   {
-    "id": "net5:1788040200000:10ovpvo",
+    "id": "net5:1788040560000:10ovpvo",
     "channel": "net5",
     "title": "The resident",
-    "start": 1788040200000,
-    "end": 1788043500000,
+    "start": 1788040560000,
+    "end": 1788044040000,
     "description": "Nic en Conrad plannen een ontspannen vrije dag nu haar uitgerekende datum nadert, maar een patiënt met een...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/the-resident-753961232.jpg",

@@ -91,10 +91,10 @@
     }
   },
   {
-    "id": "rtl4:1787962200000:1avzef3",
+    "id": "rtl4:1787961840000:1avzef3",
     "channel": "rtl4",
     "title": "Teleshop 4: Tommy teleshopping",
-    "start": 1787962200000,
+    "start": 1787961840000,
     "end": 1787976000000,
     "description": "Homeshoppingprogramma.",
     "category": [],
@@ -980,9 +980,9 @@
     "title": "Taskmaster",
     "start": 1788032700000,
     "end": 1788036600000,
-    "description": "Vijf comedians storten zich op de meest uiteenlopende, absurde en verrassende opdrachten.",
+    "description": "Een simpele opdracht, een tikkende klok en vijf comedians die er ieder hun eigen draai aan geven.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/taskmaster-761163432.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/arjendiederiktaskmasterrtl42026.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -990,7 +990,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

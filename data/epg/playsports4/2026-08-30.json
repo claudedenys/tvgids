@@ -4,7 +4,7 @@
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
     "start": 1788046860000,
-    "end": 1788050520000,
+    "end": 1788050640000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -30,41 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1788050520000:arbcat",
-    "channel": "playsports4",
-    "title": "The Paddock Live: Formule E",
-    "start": 1788050520000,
-    "end": 1788056100000,
-    "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31804667~~2FEP063346410044%2Cimi%3Ad318cae0d4e7332654a452bd780334ad5f3bc7a3/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46410000,
-    "episode": 2026081644,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31804667~~2FEP063346410044,imi:d318cae0d4e7332654a452bd780334ad5f3bc7a3",
-      "episodeName": "ePrix van Londen: Race 2",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F11055708~~2FSH063346410000"
-    }
-  },
-  {
-    "id": "playsports4:1788056100000:xykime",
+    "id": "playsports4:1788050640000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1788056100000,
-    "end": 1788066000000,
+    "start": 1788050640000,
+    "end": 1788065100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,35 +58,11 @@
     }
   },
   {
-    "id": "playsports4:1788066000000:48zb9",
-    "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1788066000000,
-    "end": 1788069000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:019d76c2ed0c4b26127a65539c22a097addaf889",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1788069000000:qbgze4",
+    "id": "playsports4:1788065100000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1788069000000,
-    "end": 1788073200000,
+    "start": 1788065100000,
+    "end": 1788069720000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -142,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1788073200000:qbgze4",
+    "id": "playsports4:1788069720000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1788073200000,
-    "end": 1788079800000,
+    "start": 1788069720000,
+    "end": 1788076080000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -172,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1788079800000:arbc9d",
+    "id": "playsports4:1788076080000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1788079800000,
-    "end": 1788090900000,
+    "start": 1788076080000,
+    "end": 1788087180000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",
@@ -199,6 +145,34 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1788087180000:1ltn7gx",
+    "channel": "playsports4",
+    "title": "Wordt aangekondigd",
+    "start": 1788087180000,
+    "end": 1788090900000,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A124b6a238c248fe72379d524370e8f6519eb3a23/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:124b6a238c248fe72379d524370e8f6519eb3a23",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -446,22 +420,22 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1788122100000,
-    "end": 1788131460000,
+    "end": 1788133260000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",
       "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617482~~2FEP063235100080%2Cimi%3Ae1eb56b82aff32ebf4a425bffbb7547c190664c2/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32387586~~2FEP063235100081%2Cimi%3Af064ab43be95cbb70c12a2628f6f4e2473609b9f/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 35100000,
-    "episode": 2026082380,
+    "episode": 2026082381,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617482~~2FEP063235100080,imi:e1eb56b82aff32ebf4a425bffbb7547c190664c2",
-      "episodeName": "F1 Kids: GP van Nederland",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32387586~~2FEP063235100081,imi:f064ab43be95cbb70c12a2628f6f4e2473609b9f",
+      "episodeName": "GP van Nederland: Race",
       "genres": [
         "Sport",
         "Motorsport"

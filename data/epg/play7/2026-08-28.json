@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1787874300000:rmqxmh",
+    "id": "play7:1787874600000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1787874300000,
-    "end": 1787877900000,
+    "start": 1787874600000,
+    "end": 1787877600000,
     "description": "Een stel zoekt hun droomhuis en twijfelt tussen het Britse Ipswich en het zonnige Perpignan, met hulp van een expert die hen begeleidt bij hun keuze.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1787877900000:48zb9",
+    "id": "play7:1787877600000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1787877900000,
-    "end": 1787886000000,
+    "start": 1787877600000,
+    "end": 1787885820000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f28d5268959687043713c168006e5225e9e61d2a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1787885820000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1787885820000,
+    "end": 1787886000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4aaef599acd328b70f05e3038a7ef102fd72ab7f",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

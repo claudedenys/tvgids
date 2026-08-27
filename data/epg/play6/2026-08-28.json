@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1787874600000:o13nu0",
+    "id": "play6:1787873400000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1787874600000,
-    "end": 1787877900000,
+    "start": 1787873400000,
+    "end": 1787876100000,
     "description": "Een gesigneerd item van Game of Thrones, uit een beperkte oplage, ligt voor het grijpen. Later veroorzaakt Chumlee opschudding met een blaaspijp uit het Amazonegebied.",
     "category": [
       "Reality",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1787877900000:48zb9",
+    "id": "play6:1787876100000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1787877900000,
-    "end": 1787886000000,
+    "start": 1787876100000,
+    "end": 1787885700000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6c19a3da42d6e58f9ef14133626ac60ee616c0da",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1787885700000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1787885700000,
+    "end": 1787886000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:23b2536acd2c3af546bdce8f62aff39974a7a73a",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -171,7 +195,7 @@
     "title": "The Ark",
     "start": 1787899800000,
     "end": 1787903400000,
-    "description": null,
+    "description": "Ark One dreigt uit koers te raken. Terwijl de bemanning alles op alles zet om het ruimteschip te redden, moeten enkele teamleden een levensgevaarlijke missie buiten het schip uitvoeren.",
     "category": [
       "Sciencefiction"
     ],

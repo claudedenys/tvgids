@@ -916,7 +916,7 @@
     "channel": "vrt1",
     "title": "F.C. De Kampioenen",
     "start": 1787940900000,
-    "end": 1787943300000,
+    "end": 1787943000000,
     "description": "De Kampioenen moeten op zoek naar een twaalfde man, maar dat loopt niet van een leien dakje, met name omdat Fernand zijn buik vol heeft van al het 'supportersgeweld' op zondag en de boel wil saboteren.",
     "category": [
       "Sitcom"
@@ -940,11 +940,11 @@
     }
   },
   {
-    "id": "vrt1:1787943300000:11o60uf",
+    "id": "vrt1:1787943000000:11o60uf",
     "channel": "vrt1",
     "title": "De jaren 90 voor tieners",
-    "start": 1787943300000,
-    "end": 1787946900000,
+    "start": 1787943000000,
+    "end": 1787946600000,
     "description": "Steven Van Herreweghe laat een groep tieners binnen in de wondere wereld van de jaren 90. In ruil wil hij weten hoe het leven van een tiener anno 2023 eruitziet. Welke dingen zijn veranderd en wat is hetzelfde gebleven? Deze keer het jaar 1999.",
     "category": [
       "Geschiedenis"
@@ -968,11 +968,11 @@
     }
   },
   {
-    "id": "vrt1:1787946900000:14v2xp7",
+    "id": "vrt1:1787946600000:14v2xp7",
     "channel": "vrt1",
     "title": "Eviva España",
-    "start": 1787946900000,
-    "end": 1787950200000,
+    "start": 1787946600000,
+    "end": 1787949900000,
     "description": "Voor Debby en Jo telt elke cent, nu het opstarten van hun cafeetje veel meer kost dan ze hadden ingeschat. Na een lang huwelijk met een man vinden San en Annie nu het geluk bij elkaar, in de onherbergzame Alpujarras.",
     "category": [
       "Docu"
@@ -996,11 +996,11 @@
     }
   },
   {
-    "id": "vrt1:1787950200000:39vxy3",
+    "id": "vrt1:1787949900000:39vxy3",
     "channel": "vrt1",
     "title": "VRT NWS laat",
-    "start": 1787950200000,
-    "end": 1787951100000,
+    "start": 1787949900000,
+    "end": 1787950800000,
     "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
     "category": [
       "Actua"
@@ -1024,11 +1024,11 @@
     }
   },
   {
-    "id": "vrt1:1787951100000:behtd8",
+    "id": "vrt1:1787950800000:behtd8",
     "channel": "vrt1",
     "title": "Het weer (laat)",
-    "start": 1787951100000,
-    "end": 1787951400000,
+    "start": 1787950800000,
+    "end": 1787951100000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1052,11 +1052,11 @@
     }
   },
   {
-    "id": "vrt1:1787951400000:1ps72zp",
+    "id": "vrt1:1787951100000:1ps72zp",
     "channel": "vrt1",
     "title": "Goesting",
-    "start": 1787951400000,
-    "end": 1787954520000,
+    "start": 1787951100000,
+    "end": 1787954220000,
     "description": "Fictiereeks over zes mensen met een heel verschillende achtergrond die samen een restaurant openen.",
     "category": [
       "Dramaserie"
@@ -1077,6 +1077,66 @@
       "productionDate": "2010",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33576718~~2FSH065204980000"
+    }
+  },
+  {
+    "id": "vrt1:1787954220000:ykl842",
+    "channel": "vrt1",
+    "title": "Keno",
+    "start": 1787954220000,
+    "end": 1787954280000,
+    "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
+    "category": [
+      "Spelprogramma",
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33817456~~2FEP032302521522%2Cimi%3Add451acd3787b92785740ab98fb01040b3a3f952/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 171,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33817456~~2FEP032302521522,imi:dd451acd3787b92785740ab98fb01040b3a3f952",
+      "episodeName": "Aflevering 171",
+      "genres": [
+        "Spelprogramma",
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fae9111c0-9f33-41d5-ba9f-dd37052e485d"
+    }
+  },
+  {
+    "id": "vrt1:1787954280000:6z58qv",
+    "channel": "vrt1",
+    "title": "Euromillions",
+    "start": 1787954280000,
+    "end": 1787954400000,
+    "description": "De trekkingen van het EuroMillions-spel.",
+    "category": [
+      "Spelprogramma",
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33816285~~2FEP032294100520%2Cimi%3A69a99411cd5d0ab77649bc31a5906f14aea796bf/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 69,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33816285~~2FEP032294100520,imi:69a99411cd5d0ab77649bc31a5906f14aea796bf",
+      "episodeName": "Aflevering 69",
+      "genres": [
+        "Spelprogramma",
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F9f3ced27-9582-4745-981f-ba99fe8441f5"
     }
   }
 ]

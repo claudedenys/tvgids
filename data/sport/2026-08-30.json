@@ -1,39 +1,16 @@
 [
   {
-    "id": "sport:playsports1:1788044160000:xykime",
+    "id": "sport:playsports1:1788045360000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1788044160000,
-    "end": 1788065700000,
+    "start": 1788045360000,
+    "end": 1788066000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:playsports1:1788093000000:qjkkk5",
-    "externalId": null,
-    "title": "Kevin Keegan",
-    "home": null,
-    "away": null,
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1788093000000,
-    "end": 1788094500000,
-    "status": "aankomend",
-    "description": "Van onverschrokken spits tot een van de meest inspirerende figuren uit het Engelse voetbal: dit is het verhaal van Kevin Keegan. We volgen zijn opmerkelijke spelerscarrière bij Liverpool, Hamburg en het Engelse nationale elftal, waarna we ingaan op zijn invloed als trainer.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -253,38 +230,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788050520000:arbcat",
-    "externalId": null,
-    "title": "ePrix van Londen: Race 2",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Motorsport",
-    "start": 1788050520000,
-    "end": 1788056100000,
-    "status": "aankomend",
-    "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1788056100000:xykime",
+    "id": "sport:playsports4:1788050640000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1788056100000,
-    "end": 1788066000000,
+    "start": 1788050640000,
+    "end": 1788065100000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -299,15 +253,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788069000000:qbgze4",
+    "id": "sport:playsports4:1788065100000:qbgze4",
     "externalId": null,
     "title": "Dag 10",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1788069000000,
-    "end": 1788073200000,
+    "start": 1788065100000,
+    "end": 1788069720000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -322,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788073200000:qbgze4",
+    "id": "sport:playsports4:1788069720000:qbgze4",
     "externalId": null,
     "title": "Dag 11",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1788073200000,
-    "end": 1788079800000,
+    "start": 1788069720000,
+    "end": 1788076080000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -345,17 +299,40 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788079800000:arbc9d",
+    "id": "sport:playsports4:1788076080000:arbc9d",
     "externalId": null,
     "title": "GP van Nederland: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1788079800000,
-    "end": 1788090900000,
+    "start": 1788076080000,
+    "end": 1788087180000,
     "status": "aankomend",
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1788087180000:1ltn7gx",
+    "externalId": null,
+    "title": "Wordt aangekondigd",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1788087180000,
+    "end": 1788090900000,
+    "status": "aankomend",
+    "description": "De programmering wordt nog aangekondigd.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -462,13 +439,13 @@
   {
     "id": "sport:playsports4:1788122100000:arbc9d",
     "externalId": null,
-    "title": "F1 Kids: GP van Nederland",
+    "title": "GP van Nederland: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1788122100000,
-    "end": 1788131460000,
+    "end": 1788133260000,
     "status": "aankomend",
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "source": "epg",
@@ -736,15 +713,15 @@
     ]
   },
   {
-    "id": "sport:match:1788065700000:arsenal - coventry city",
+    "id": "sport:match:1788067800000:arsenal - coventry city",
     "externalId": null,
     "title": "Arsenal - Coventry City",
     "home": "Arsenal",
     "away": "Coventry City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788065700000,
-    "end": 1788071880000,
+    "start": 1788067800000,
+    "end": 1788073980000,
     "status": "aankomend",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
@@ -759,15 +736,15 @@
     ]
   },
   {
-    "id": "sport:match:1788073740000:hull city - manchester united",
+    "id": "sport:match:1788073980000:hull city - manchester united",
     "externalId": null,
     "title": "Hull City - Manchester United",
     "home": "Hull City",
     "away": "Manchester United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788073740000,
-    "end": 1788080040000,
+    "start": 1788073980000,
+    "end": 1788080400000,
     "status": "aankomend",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
@@ -782,15 +759,15 @@
     ]
   },
   {
-    "id": "sport:match:1788080040000:nottingham forest - leeds united",
+    "id": "sport:match:1788080400000:nottingham forest - leeds united",
     "externalId": null,
     "title": "Nottingham Forest - Leeds United",
     "home": "Nottingham Forest",
     "away": "Leeds United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788080040000,
-    "end": 1788086400000,
+    "start": 1788080400000,
+    "end": 1788086700000,
     "status": "aankomend",
     "description": "Vanuit The City Ground in Nottingham, England.",
     "source": "epg",
@@ -805,17 +782,40 @@
     ]
   },
   {
-    "id": "sport:match:1788086400000:manchester city - bournemouth",
+    "id": "sport:match:1788086700000:manchester city - bournemouth",
     "externalId": null,
     "title": "Manchester City - Bournemouth",
     "home": "Manchester City",
     "away": "Bournemouth",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788086400000,
-    "end": 1788093000000,
+    "start": 1788086700000,
+    "end": 1788093240000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1788093240000:beoordeelt de pro league-shirts",
+    "externalId": null,
+    "title": "Beoordeelt de Pro League-shirts",
+    "home": "Beoordeelt de Pro League",
+    "away": "shirts",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1788093240000,
+    "end": 1788094500000,
+    "status": "aankomend",
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -1319,7 +1319,7 @@
     "competition": null,
     "sport": null,
     "start": 1788046860000,
-    "end": 1788050520000,
+    "end": 1788050640000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",

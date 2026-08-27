@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1788044160000:xykime",
+    "id": "playsports1:1788045360000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1788044160000,
-    "end": 1788065700000,
+    "start": 1788045360000,
+    "end": 1788066000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A830196e939fa55b7d42d2d412a8febf94e2c3117/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A3f0e1157e8df487ad4d9efc46fa1cb0ffd5fd5a7/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +17,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:830196e939fa55b7d42d2d412a8febf94e2c3117",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:3f0e1157e8df487ad4d9efc46fa1cb0ffd5fd5a7",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -28,11 +28,35 @@
     }
   },
   {
-    "id": "playsports1:1788065700000:1prlzbg",
+    "id": "playsports1:1788066000000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1788066000000,
+    "end": 1788067800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:fdc2e55d3b9cf2ce9c960c81eedf3e7e64fc2412",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1788067800000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788065700000,
-    "end": 1788071880000,
+    "start": 1788067800000,
+    "end": 1788073980000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -58,35 +82,11 @@
     }
   },
   {
-    "id": "playsports1:1788071880000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1788071880000,
-    "end": 1788073740000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:fdc2e55d3b9cf2ce9c960c81eedf3e7e64fc2412",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1788073740000:1prlzbg",
+    "id": "playsports1:1788073980000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788073740000,
-    "end": 1788080040000,
+    "start": 1788073980000,
+    "end": 1788080400000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",
@@ -112,11 +112,11 @@
     }
   },
   {
-    "id": "playsports1:1788080040000:1prlzbg",
+    "id": "playsports1:1788080400000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788080040000,
-    "end": 1788086400000,
+    "start": 1788080400000,
+    "end": 1788086700000,
     "description": "Vanuit The City Ground in Nottingham, England.",
     "category": [
       "Sport",
@@ -142,11 +142,11 @@
     }
   },
   {
-    "id": "playsports1:1788086400000:1prlzbg",
+    "id": "playsports1:1788086700000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788086400000,
-    "end": 1788093000000,
+    "start": 1788086700000,
+    "end": 1788093240000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -172,33 +172,33 @@
     }
   },
   {
-    "id": "playsports1:1788093000000:qjkkk5",
+    "id": "playsports1:1788093240000:3tkxx5",
     "channel": "playsports1",
-    "title": "Premier League Stories",
-    "start": 1788093000000,
+    "title": "MIDMID",
+    "start": 1788093240000,
     "end": 1788094500000,
-    "description": "Van onverschrokken spits tot een van de meest inspirerende figuren uit het Engelse voetbal: dit is het verhaal van Kevin Keegan. We volgen zijn opmerkelijke spelerscarrière bij Liverpool, Hamburg en het Engelse nationale elftal, waarna we ingaan op zijn invloed als trainer.",
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "category": [
-      "Docu",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266%2Cimi%3A93bbed23fc95bda052a14411cb9ff3c47ed80faa/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A5f6607c5ec53dbd0d71ac7d808f1f0a4a126b858/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 6,
-    "episode": 9,
+    "season": 7,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33552578~~2FEP043309820266,imi:93bbed23fc95bda052a14411cb9ff3c47ed80faa",
-      "episodeName": "Kevin Keegan",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:5f6607c5ec53dbd0d71ac7d808f1f0a4a126b858",
+      "episodeName": "Beoordeelt de Pro League-shirts",
       "genres": [
-        "Docu",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {

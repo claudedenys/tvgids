@@ -2646,11 +2646,41 @@
     }
   },
   {
-    "id": "ketnet:1788117300000:48zb9",
+    "id": "ketnet:1788117300000:7ukbdw",
+    "channel": "ketnet",
+    "title": "Sporza",
+    "start": 1788117300000,
+    "end": 1788120900000,
+    "description": "Verslag van de verschillende sporten die worden uitgezonden in het programma Sporza.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21589708~~2FSH041947340000~~2F538238275%2Cimi%3A3c909cb67443a3d9f2c5b4e09e448cb5189b8251/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 47340000,
+    "episode": 538238275,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21589708~~2FSH041947340000~~2F538238275,imi:3c909cb67443a3d9f2c5b4e09e448cb5189b8251",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F9dcc4f08-4166-4302-ba78-deed9580f2bf"
+    }
+  },
+  {
+    "id": "ketnet:1788120900000:48zb9",
     "channel": "ketnet",
     "title": "Geen uitzending",
-    "start": 1788117300000,
-    "end": 1788146100000,
+    "start": 1788120900000,
+    "end": 1788148800000,
     "description": null,
     "category": [],
     "image": null,
