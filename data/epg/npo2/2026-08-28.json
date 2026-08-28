@@ -257,7 +257,7 @@
     "channel": "npo2",
     "title": "Nieuwsuur",
     "start": 1787903400000,
-    "end": 1787905800000,
+    "end": 1787906400000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
       "Actueel"
@@ -278,11 +278,11 @@
     }
   },
   {
-    "id": "npo2:1787905800000:a12qya",
+    "id": "npo2:1787906400000:a12qya",
     "channel": "npo2",
     "title": "Noord-Zuid-Oost-West",
-    "start": 1787905800000,
-    "end": 1787907900000,
+    "start": 1787906400000,
+    "end": 1787908500000,
     "description": "'Goud! vertelt de verhalen van Overijsselse artiesten die een gouden plaat behaalden.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/noord-zuid-oost-west-758494732.jpg",
@@ -300,10 +300,10 @@
     }
   },
   {
-    "id": "npo2:1787907900000:1x7jjgk",
+    "id": "npo2:1787908500000:1x7jjgk",
     "channel": "npo2",
     "title": "Verborgen verleden",
-    "start": 1787907900000,
+    "start": 1787908500000,
     "end": 1787911200000,
     "description": "Zangeres en presentatrice Edsilia Rombley reist af naar het Caribisch gebied, waar ze een omvangrijke...",
     "category": [],
@@ -327,7 +327,7 @@
     "title": "NOS Journaal",
     "start": 1787911200000,
     "end": 1787912100000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Noorse koning Harald (89) overleden * Dodental Nepal loopt op.....",
     "category": [
       "Actueel"
     ],
@@ -341,7 +341,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -417,7 +418,7 @@
     "title": "NOS Journaal",
     "start": 1787914800000,
     "end": 1787916000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Noorse koning Harald (89) overleden * Dodental Nepal loopt op naar 469 *...",
     "category": [
       "Actueel"
     ],
@@ -431,7 +432,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -548,7 +550,7 @@
     "title": "NOS Journaal",
     "start": 1787925600000,
     "end": 1787926200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met het laatste nieuws en de weersverwachting.Coalitie oneens over toezegging ProLevenslang voor genocide...",
     "category": [
       "Actueel"
     ],
@@ -562,7 +564,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -773,11 +776,11 @@
     "title": "EenVandaag",
     "start": 1787934600000,
     "end": 1787936700000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Kan een situatie zoals in Nepal ook dichterbij voorkomen?..",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/eenvandaag-758494642.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -787,7 +790,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -885,7 +889,7 @@
     "title": "Nieuwsuur",
     "start": 1787947200000,
     "end": 1787949600000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Handelsoorlog Canada VS De handelsoorlog tussen de VS en Canada escaleert...",
     "category": [
       "Actueel"
     ],
@@ -899,7 +903,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },

@@ -1,40 +1,10 @@
 [
   {
-    "id": "play6:1787958900000:o13nu0",
-    "channel": "play6",
-    "title": "Pawn Stars",
-    "start": 1787958900000,
-    "end": 1787961900000,
-    "description": "Corey vindt een prototype van een geweer uit de vroege negentiende eeuw, gemaakt door de man die het Baker-geweer uitvond. Dan vormt een origineel werk van de enige echte Pablo Picasso een geweldige toegevoegde waarde.",
-    "category": [
-      "Reality",
-      "Veiling"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16941395~~2FEP027840300299%2Cimi%3A8d58d147dfa7ed3dbae5cf22ad09a1099ec87480/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 16,
-    "episode": 14,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F16941395~~2FEP027840300299,imi:8d58d147dfa7ed3dbae5cf22ad09a1099ec87480",
-      "episodeName": "Pawning Picasso",
-      "genres": [
-        "Reality",
-        "Veiling"
-      ],
-      "productionDate": "2019",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
-    }
-  },
-  {
-    "id": "play6:1787961900000:48zb9",
+    "id": "play6:1787961000000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1787961900000,
-    "end": 1787972400000,
+    "start": 1787961000000,
+    "end": 1787971800000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +24,35 @@
     }
   },
   {
+    "id": "play6:1787971800000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1787971800000,
+    "end": 1787972400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:8f55e52ac620a6805d0230ee235bc786fe0181c9",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play6:1787972400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1787972400000,
-    "end": 1787975400000,
+    "end": 1787979000000,
     "description": null,
     "category": [],
     "image": null,
@@ -78,17 +72,17 @@
     }
   },
   {
-    "id": "play6:1787975400000:sofoqs",
+    "id": "play6:1787979000000:sofoqs",
     "channel": "play6",
     "title": "Ice Airport Alaska",
-    "start": 1787975400000,
-    "end": 1787978100000,
+    "start": 1787979000000,
+    "end": 1787981700000,
     "description": "Een noodlanding van een 747 stelt de bemanning van Anchorage op de proef, terwijl militaire piloten zich voorbereiden op gevechtsmissies in ijskoude omstandigheden.",
     "category": [
       "Docu",
       "Vliegsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26116314~~2FEP045388940029%2Cimi%3Ae40d31ac81ca615584c056336cb6891c6e3e1ae5/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26116314~~2FEP045388940029%2Cimi%3Aef3a8e3055c6c8255e12b0293a789e4bddb7ffea/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 4,
@@ -96,7 +90,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26116314~~2FEP045388940029,imi:e40d31ac81ca615584c056336cb6891c6e3e1ae5",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26116314~~2FEP045388940029,imi:ef3a8e3055c6c8255e12b0293a789e4bddb7ffea",
       "episodeName": "Runway Mayday",
       "genres": [
         "Docu",
@@ -108,11 +102,11 @@
     }
   },
   {
-    "id": "play6:1787978100000:sofoqs",
+    "id": "play6:1787981700000:sofoqs",
     "channel": "play6",
     "title": "Ice Airport Alaska",
-    "start": 1787978100000,
-    "end": 1787980800000,
+    "start": 1787981700000,
+    "end": 1787984400000,
     "description": "Een piloot droomt ervan een 727 om te bouwen, terwijl technici werken aan het tegengaan van corrosie op oudere vliegtuigen.",
     "category": [
       "Docu",
@@ -138,11 +132,11 @@
     }
   },
   {
-    "id": "play6:1787980800000:12r5kk8",
+    "id": "play6:1787984400000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1787980800000,
-    "end": 1787983500000,
+    "start": 1787984400000,
+    "end": 1787987100000,
     "description": "Een ongeluk met een oplegger zorgt voor chaos op de snelweg. Operateurs moeten ondertussen een geschaarde truck ruimen in een zware storm. Truckers racen om een oplegger te bergen.",
     "category": [
       "Reality"
@@ -166,11 +160,11 @@
     }
   },
   {
-    "id": "play6:1787983500000:12r5kk8",
+    "id": "play6:1787987100000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1787983500000,
-    "end": 1787986500000,
+    "start": 1787987100000,
+    "end": 1787990100000,
     "description": "Door een kettingbotsing met 40 voertuigen komt het verkeer ten noorden van Toronto helemaal vast te zitten en gaan reddingsoperateurs van diverse bedrijven op weg naar het rampgebied.",
     "category": [
       "Reality"
@@ -194,11 +188,11 @@
     }
   },
   {
-    "id": "play6:1787986500000:12r5kk8",
+    "id": "play6:1787990100000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1787986500000,
-    "end": 1787990100000,
+    "start": 1787990100000,
+    "end": 1787993400000,
     "description": "Door een storm komen chauffeurs in gevaar. Een posttrailer rolt om, waardoor chaos op de snelweg ontstaat. Een wrak zorgt ondertussen voor grote problemen voor de reddingsoperateurs.",
     "category": [
       "Reality"
@@ -222,11 +216,11 @@
     }
   },
   {
-    "id": "play6:1787990100000:1lmrwl3",
+    "id": "play6:1787993400000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1787990100000,
-    "end": 1787991600000,
+    "start": 1787993400000,
+    "end": 1787994900000,
     "description": "In Adelanto doet Ivy een forse vondst. Brandi en Jarrod schatten de situatie in en worden vorstelijk beloond. Mary schroeft haar winst op wanneer ze de zoete smaak van succes proeft.",
     "category": [
       "Reality",
@@ -252,11 +246,11 @@
     }
   },
   {
-    "id": "play6:1787991600000:1lmrwl3",
+    "id": "play6:1787994900000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1787991600000,
-    "end": 1787993400000,
+    "start": 1787994900000,
+    "end": 1787996400000,
     "description": "In Orange haalt Kenny herinneringen op. Brandi en Jarrod gaan aan de slag met een box vol gereedschap, terwijl Darrell en zijn kleindochter een griezelige vondst doen.",
     "category": [
       "Reality",
@@ -282,11 +276,11 @@
     }
   },
   {
-    "id": "play6:1787993400000:48zb9",
+    "id": "play6:1787996400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1787993400000,
-    "end": 1787997000000,
+    "start": 1787996400000,
+    "end": 1788000000000,
     "description": null,
     "category": [],
     "image": null,
@@ -306,11 +300,11 @@
     }
   },
   {
-    "id": "play6:1787997000000:1lmrwl3",
+    "id": "play6:1788000000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1787997000000,
-    "end": 1787998800000,
+    "start": 1788000000000,
+    "end": 1788001800000,
     "description": "De kopers worden helemaal gek in West Covina. Kenny is op jacht naar poema's, maar vindt een draagbare preekstoel. Ivy laat de dames zien hoe ze zich moeten kleden om succes te hebben.",
     "category": [
       "Reality",
@@ -336,11 +330,11 @@
     }
   },
   {
-    "id": "play6:1787998800000:1lmrwl3",
+    "id": "play6:1788001800000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1787998800000,
-    "end": 1788000600000,
+    "start": 1788001800000,
+    "end": 1788003300000,
     "description": "De kopers gaan naar Moreno Valley in Californië. Justin verdient de goodwill van René. Darrells buisvormige kluis lijkt in orde te zijn.",
     "category": [
       "Reality",
@@ -366,11 +360,11 @@
     }
   },
   {
-    "id": "play6:1788000600000:1lmrwl3",
+    "id": "play6:1788003300000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1788000600000,
-    "end": 1788002400000,
+    "start": 1788003300000,
+    "end": 1788005100000,
     "description": "Kenny biedt op een massieve kluis. René en Casey proberen het klein te houden. De mysterieuze kluis van Shana en Edwina heeft het verkeerde label.",
     "category": [
       "Reality",
@@ -396,11 +390,11 @@
     }
   },
   {
-    "id": "play6:1788002400000:1lmrwl3",
+    "id": "play6:1788005100000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1788002400000,
-    "end": 1788003900000,
+    "start": 1788005100000,
+    "end": 1788006600000,
     "description": "Darrell helpt de nieuweling. Brandi en Jarrod vinden iets mysterieus in hun kluis. Justin lijkt een degelijke kluis te hebben gevonden.",
     "category": [
       "Reality",
@@ -426,11 +420,11 @@
     }
   },
   {
-    "id": "play6:1788003900000:1lmrwl3",
+    "id": "play6:1788006600000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1788003900000,
-    "end": 1788005700000,
+    "start": 1788006600000,
+    "end": 1788008100000,
     "description": "De kopers zien tien kluizen die allemaal dezelfde eigenaar blijken te hebben. Ivy maakt winst. Mary en Kenny doen al het zware werk.",
     "category": [
       "Reality",
@@ -456,11 +450,11 @@
     }
   },
   {
-    "id": "play6:1788005700000:1lmrwl3",
+    "id": "play6:1788008100000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1788005700000,
-    "end": 1788007500000,
+    "start": 1788008100000,
+    "end": 1788009600000,
     "description": "Dave ontdekt dat het maken van winst een beetje lijkt op het verwijderen van tanden. Mary probeert winst te maken. Ivy's kluis blijkt een bijzonder geval te zijn.",
     "category": [
       "Reality",
@@ -486,11 +480,11 @@
     }
   },
   {
-    "id": "play6:1788007500000:1lmrwl3",
+    "id": "play6:1788009600000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1788007500000,
-    "end": 1788009300000,
+    "start": 1788009600000,
+    "end": 1788011400000,
     "description": "Shana en Edwina gaan naar Riverside, Californië. Dave spot een intrigerende onnette kluis. Rene probeert een keer iets te verkopen.",
     "category": [
       "Reality",
@@ -516,11 +510,11 @@
     }
   },
   {
-    "id": "play6:1788009300000:1lmrwl3",
+    "id": "play6:1788011400000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1788009300000,
-    "end": 1788010800000,
+    "start": 1788011400000,
+    "end": 1788012900000,
     "description": "Brandi en Jarrod stuiten op een interessant object uit de oorlog. Kenny leert hoe je dingen met opgraven. Mary experimenteert met Daves duistere kunsten.",
     "category": [
       "Reality",
@@ -546,11 +540,11 @@
     }
   },
   {
-    "id": "play6:1788010800000:1m0ktji",
+    "id": "play6:1788012900000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788010800000,
-    "end": 1788012600000,
+    "start": 1788012900000,
+    "end": 1788014700000,
     "description": "Wanneer Alan beslist om volledig eerlijk te zijn tegen Lyndsey over zijn verleden, dumpt ze hem. Daarom probeert Walden hem op te beuren door een feestje te organiseren.",
     "category": [
       "Sitcom"
@@ -574,11 +568,11 @@
     }
   },
   {
-    "id": "play6:1788012600000:1m0ktji",
+    "id": "play6:1788014700000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788012600000,
-    "end": 1788014400000,
+    "start": 1788014700000,
+    "end": 1788016200000,
     "description": "Walden is verbaasd wanneer hij de scheidingspapieren van Bridget onder ogen krijgt. Net op dat moment ontmoet hij een vrouw die sprekend op Bridget lijkt.",
     "category": [
       "Sitcom"
@@ -602,11 +596,11 @@
     }
   },
   {
-    "id": "play6:1788014400000:1m0ktji",
+    "id": "play6:1788016200000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788014400000,
-    "end": 1788016200000,
+    "start": 1788016200000,
+    "end": 1788017700000,
     "description": "Walden wil het huis opnieuw inrichten en Evelyn biedt haar professionele hulp aan. Ondertussen probeert Jake de aandacht van zijn lerares te krijgen, maar zij is geobsedeerd door Walden.",
     "category": [
       "Sitcom"
@@ -630,11 +624,11 @@
     }
   },
   {
-    "id": "play6:1788016200000:1m0ktji",
+    "id": "play6:1788017700000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788016200000,
-    "end": 1788018000000,
+    "start": 1788017700000,
+    "end": 1788019500000,
     "description": "Wanneer Walden Charlies piano verkoopt, raakt Alan andermaal geëmotioneerd over de dood van zijn broer. Om te dealen met zijn gevoelens, gaat hij op zoek naar zijn innerlijke Charlie.",
     "category": [
       "Sitcom"
@@ -658,11 +652,11 @@
     }
   },
   {
-    "id": "play6:1788018000000:1m0ktji",
+    "id": "play6:1788019500000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788018000000,
-    "end": 1788019800000,
+    "start": 1788019500000,
+    "end": 1788020700000,
     "description": "Alan mag de psychiatrie verlaten. Bij zijn thuiskomst wordt hij meteen geconfronteerd met enkele schokkende gebeurtenissen, en wordt zijn mentale toestand op de proef gesteld.",
     "category": [
       "Sitcom"
@@ -686,11 +680,11 @@
     }
   },
   {
-    "id": "play6:1788019800000:1m0ktji",
+    "id": "play6:1788020700000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788019800000,
-    "end": 1788021600000,
+    "start": 1788020700000,
+    "end": 1788022500000,
     "description": "Walden probeert een einde te maken aan zijn gevoelens voor Bridget, door zich opnieuw op de datingmarkt te storten. Ondertussen probeert Alan een oplossing te vinden voor zijn financiële problemen.",
     "category": [
       "Sitcom"
@@ -714,11 +708,11 @@
     }
   },
   {
-    "id": "play6:1788021600000:1m0ktji",
+    "id": "play6:1788022500000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788021600000,
-    "end": 1788023400000,
+    "start": 1788022500000,
+    "end": 1788024000000,
     "description": "Walden probeert een nieuwe stap binnen zijn relatie met Zoey te zetten. Maar de verschijning van Bridget bemoeilijkt deze plannen.",
     "category": [
       "Sitcom"
@@ -742,11 +736,11 @@
     }
   },
   {
-    "id": "play6:1788023400000:1m0ktji",
+    "id": "play6:1788024000000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788023400000,
-    "end": 1788025200000,
+    "start": 1788024000000,
+    "end": 1788025500000,
     "description": "De moeder van Walden komt, zonder aankondiging, op bezoek bij de mannen. Ze vertelt een geheim over haar zoon waar zelfs Alan stomverbaasd over is.",
     "category": [
       "Sitcom"
@@ -770,10 +764,10 @@
     }
   },
   {
-    "id": "play6:1788025200000:1m0ktji",
+    "id": "play6:1788025500000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1788025200000,
+    "start": 1788025500000,
     "end": 1788027000000,
     "description": "Wanneer Bridget en Waldens moeder, Robin, het bedrijf van Walden proberen over te nemen, schakelt Walden de hulp van Alan in.",
     "category": [
@@ -830,7 +824,7 @@
     "channel": "play6",
     "title": "San Andreas",
     "start": 1788028500000,
-    "end": 1788036000000,
+    "end": 1788035700000,
     "description": "Nadat Californië getroffen werd door een verwoestende aardbeving trachten reddingspiloot Ray en zijn vrouw Emma uit Los Angeles weg te komen om hun verloren dochter te redden die vastzit in San Francisco.",
     "category": [
       "Film",
@@ -856,11 +850,11 @@
     }
   },
   {
-    "id": "play6:1788036000000:mgbyzt",
+    "id": "play6:1788035700000:mgbyzt",
     "channel": "play6",
     "title": "The War With Grandpa",
-    "start": 1788036000000,
-    "end": 1788042900000,
+    "start": 1788035700000,
+    "end": 1788042000000,
     "description": "De tienjarige Peter vindt het leuk om te horen dat zijn opa, wiens vrouw pas overleden is, bij hem thuis komt wonen. Er is echter wel één groot minpunt: opa is slecht ter been en kan dus niet in de gastenkamer verblijven.",
     "category": [
       "Film",

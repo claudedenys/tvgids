@@ -32,7 +32,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787979000000,
-    "end": 1787985120000,
+    "end": 1787985180000,
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "category": [
       "Sport",
@@ -58,17 +58,17 @@
     }
   },
   {
-    "id": "playsports1:1787985120000:1prlzbg",
+    "id": "playsports1:1787985180000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787985120000,
-    "end": 1787991600000,
+    "start": 1787985180000,
+    "end": 1787991660000,
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577800~~2FEP033946612433%2Cimi%3A2ce901cc1c5d2c9f2325743bc5e9dbcffb026560/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577800~~2FEP033946612433%2Cimi%3A92687a0cfe827bc6aefb999dede877b5f8a42214/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -76,7 +76,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577800~~2FEP033946612433,imi:2ce901cc1c5d2c9f2325743bc5e9dbcffb026560",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577800~~2FEP033946612433,imi:92687a0cfe827bc6aefb999dede877b5f8a42214",
       "episodeName": "Brighton & Hove Albion - Aston Villa",
       "genres": [
         "Sport",
@@ -88,11 +88,41 @@
     }
   },
   {
-    "id": "playsports1:1787991600000:1prlzbg",
+    "id": "playsports1:1787991660000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1787991600000,
-    "end": 1787998200000,
+    "start": 1787991660000,
+    "end": 1787991720000,
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432%2Cimi%3A112c905122a4217af221151aa1112a94ad634e87/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082332,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432,imi:112c905122a4217af221151aa1112a94ad634e87",
+      "episodeName": "Manchester City - Bournemouth",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1787991720000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1787991720000,
+    "end": 1787998260000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -118,11 +148,41 @@
     }
   },
   {
-    "id": "playsports1:1787998200000:amnfa6",
+    "id": "playsports1:1787998260000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
-    "start": 1787998200000,
-    "end": 1788001320000,
+    "start": 1787998260000,
+    "end": 1787998320000,
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059%2Cimi%3A08d71c61b55bf3ee3b1fd0a8eaa42e76bd54fa60/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026082659,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059,imi:08d71c61b55bf3ee3b1fd0a8eaa42e76bd54fa60",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
+    }
+  },
+  {
+    "id": "playsports1:1787998320000:amnfa6",
+    "channel": "playsports1",
+    "title": "Premier League Review",
+    "start": 1787998320000,
+    "end": 1788001440000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
@@ -148,10 +208,40 @@
     }
   },
   {
-    "id": "playsports1:1788001320000:3tkxx5",
+    "id": "playsports1:1788001440000:3tkxx5",
     "channel": "playsports1",
     "title": "MIDMID",
-    "start": 1788001320000,
+    "start": 1788001440000,
+    "end": 1788001500000,
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A20ea5d1b25e74d2284c800527b84fe87abca7730/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:20ea5d1b25e74d2284c800527b84fe87abca7730",
+      "episodeName": "Beoordeelt de Pro League-shirts",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
+    }
+  },
+  {
+    "id": "playsports1:1788001500000:3tkxx5",
+    "channel": "playsports1",
+    "title": "MIDMID",
+    "start": 1788001500000,
     "end": 1788002700000,
     "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "category": [
@@ -392,7 +482,7 @@
     "channel": "playsports1",
     "title": "Premier League Stories",
     "start": 1788030300000,
-    "end": 1788031920000,
+    "end": 1788031860000,
     "description": "Van onverschrokken spits tot een van de meest inspirerende figuren uit het Engelse voetbal: dit is het verhaal van Kevin Keegan. We volgen zijn opmerkelijke spelerscarrière bij Liverpool, Hamburg en het Engelse nationale elftal, waarna we ingaan op zijn invloed als trainer.",
     "category": [
       "Docu",
@@ -418,17 +508,17 @@
     }
   },
   {
-    "id": "playsports1:1788031920000:1prlzbg",
+    "id": "playsports1:1788031860000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788031920000,
-    "end": 1788032700000,
+    "start": 1788031860000,
+    "end": 1788032580000,
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577939~~2FEP033946612436%2Cimi%3Abf7442fb5b7cb7fefbf2dbc547bd302151ba4fe3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577939~~2FEP033946612436%2Cimi%3Af56d75a636fdc31dccda7e28200eaa5b90517060/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -436,7 +526,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577939~~2FEP033946612436,imi:bf7442fb5b7cb7fefbf2dbc547bd302151ba4fe3",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577939~~2FEP033946612436,imi:f56d75a636fdc31dccda7e28200eaa5b90517060",
       "episodeName": "Crystal Palace - Manchester City",
       "genres": [
         "Sport",
@@ -448,17 +538,17 @@
     }
   },
   {
-    "id": "playsports1:1788032700000:1prlzbg",
+    "id": "playsports1:1788032580000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788032700000,
+    "start": 1788032580000,
     "end": 1788039300000,
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434%2Cimi%3Ab3016a6b2963750baa3bcb05bdbef45e0944a3cb/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434%2Cimi%3A0f814d4e3e666bd991799df348182cf4849263ee/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -466,7 +556,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434,imi:b3016a6b2963750baa3bcb05bdbef45e0944a3cb",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577842~~2FEP033946612434,imi:0f814d4e3e666bd991799df348182cf4849263ee",
       "episodeName": "Newcastle United - Liverpool",
       "genres": [
         "Sport",
@@ -482,7 +572,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1788039300000,
-    "end": 1788045360000,
+    "end": 1788045420000,
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "category": [
       "Sport",

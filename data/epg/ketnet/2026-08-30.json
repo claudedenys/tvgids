@@ -2646,33 +2646,33 @@
     }
   },
   {
-    "id": "ketnet:1788117300000:7ukbdw",
+    "id": "ketnet:1788117300000:jd7om",
     "channel": "ketnet",
-    "title": "Sporza",
+    "title": "Sporza: WK Mountainbike",
     "start": 1788117300000,
     "end": 1788120900000,
-    "description": "Verslag van de verschillende sporten die worden uitgezonden in het programma Sporza.",
+    "description": null,
     "category": [
       "Sport",
-      "Multisportevenement"
+      "Mountainbiken"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21589708~~2FSH041947340000~~2F538238275%2Cimi%3A3c909cb67443a3d9f2c5b4e09e448cb5189b8251/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33966273~~2FEP065881890001%2Cimi%3A3be57b49edf7532e285e29557325d32439be1699/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 47340000,
-    "episode": 538238275,
+    "season": 81890000,
+    "episode": 2026083001,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F21589708~~2FSH041947340000~~2F538238275,imi:3c909cb67443a3d9f2c5b4e09e448cb5189b8251",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33966273~~2FEP065881890001,imi:3be57b49edf7532e285e29557325d32439be1699",
+      "episodeName": "Cross-country",
       "genres": [
         "Sport",
-        "Multisportevenement"
+        "Mountainbiken"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F9dcc4f08-4166-4302-ba78-deed9580f2bf"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33966235~~2FSH065881890000"
     }
   },
   {

@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports4:1788046860000:133mms5",
+    "id": "playsports4:1788047280000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788046860000,
-    "end": 1788050640000,
+    "start": 1788047280000,
+    "end": 1788050940000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports4:1788050640000:xykime",
+    "id": "playsports4:1788050940000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1788050640000,
+    "start": 1788050940000,
     "end": 1788065100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -62,7 +62,7 @@
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
     "start": 1788065100000,
-    "end": 1788069720000,
+    "end": 1788069420000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1788069720000:qbgze4",
+    "id": "playsports4:1788069420000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1788069720000,
-    "end": 1788076080000,
+    "start": 1788069420000,
+    "end": 1788075840000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -118,10 +118,10 @@
     }
   },
   {
-    "id": "playsports4:1788076080000:arbc9d",
+    "id": "playsports4:1788075840000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1788076080000,
+    "start": 1788075840000,
     "end": 1788087180000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
@@ -148,31 +148,33 @@
     }
   },
   {
-    "id": "playsports4:1788087180000:1ltn7gx",
+    "id": "playsports4:1788087180000:1p2p7re",
     "channel": "playsports4",
-    "title": "Wordt aangekondigd",
+    "title": "The Paddock Podcast",
     "start": 1788087180000,
     "end": 1788090900000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A124b6a238c248fe72379d524370e8f6519eb3a23/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33805290~~2FEP063090210016%2Cimi%3Aae2c13c4548520673d7a39af7d7420389d95ea9b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 6,
+    "episode": 14,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:124b6a238c248fe72379d524370e8f6519eb3a23",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33805290~~2FEP063090210016,imi:ae2c13c4548520673d7a39af7d7420389d95ea9b",
+      "episodeName": "Aflevering 14",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Motorsport"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20976076~~2FSH063090210000"
     }
   },
   {
@@ -180,7 +182,7 @@
     "channel": "playsports4",
     "title": "MotoGP",
     "start": 1788090900000,
-    "end": 1788095100000,
+    "end": 1788094800000,
     "description": "Verslag van de race van de MotoGP van Aragón, gereden in Aragón, Spanje.",
     "category": [
       "Sport",
@@ -206,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1788095100000:arbc9d",
+    "id": "playsports4:1788094800000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1788095100000,
-    "end": 1788095700000,
+    "start": 1788094800000,
+    "end": 1788095520000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",
@@ -236,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1788095700000:133mms5",
+    "id": "playsports4:1788095520000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788095700000,
-    "end": 1788099300000,
+    "start": 1788095520000,
+    "end": 1788099060000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -266,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1788099300000:133mms5",
+    "id": "playsports4:1788099060000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788099300000,
-    "end": 1788102900000,
+    "start": 1788099060000,
+    "end": 1788102660000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -296,11 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1788102900000:133mms5",
+    "id": "playsports4:1788102660000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788102900000,
-    "end": 1788106500000,
+    "start": 1788102660000,
+    "end": 1788106320000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -326,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1788106500000:133mms5",
+    "id": "playsports4:1788106320000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788106500000,
-    "end": 1788110100000,
+    "start": 1788106320000,
+    "end": 1788110040000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -356,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1788110100000:arbcat",
+    "id": "playsports4:1788110040000:arbcat",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule E",
-    "start": 1788110100000,
-    "end": 1788115800000,
+    "start": 1788110040000,
+    "end": 1788115680000,
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "category": [
       "Sport",
@@ -386,10 +388,10 @@
     }
   },
   {
-    "id": "playsports4:1788115800000:qbgze4",
+    "id": "playsports4:1788115680000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1788115800000,
+    "start": 1788115680000,
     "end": 1788122100000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
@@ -420,7 +422,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1788122100000,
-    "end": 1788133260000,
+    "end": 1788133200000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",

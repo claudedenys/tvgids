@@ -92,7 +92,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 2 Top 30",
     "start": 1787994000000,
-    "end": 1788001200000,
+    "end": 1788003600000,
     "description": "Live vanuit de studio van Radio 2. Een lijst met de dertig grootste hits in Vlaanderen.",
     "category": [
       "Muziek"
@@ -116,41 +116,41 @@
     }
   },
   {
-    "id": "vrtcanvas:1788001200000:1l0ln6p",
+    "id": "vrtcanvas:1788003600000:1l0ln6p",
     "channel": "vrtcanvas",
     "title": "Zomerbeelden",
-    "start": 1788001200000,
-    "end": 1788015000000,
+    "start": 1788003600000,
+    "end": 1788014700000,
     "description": "Programma waarin rustige zomerse beelden langskomen.",
     "category": [
       "Entertainment",
       "Natuur"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33578210~~2FEP032428740065%2Cimi%3A257a602d11f28383c77548c2331fbb8725c99f5c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17007328~~2FSH032428740000~~2F540802650%2Cimi%3A8153f6d1f98a071b7ba4236c8c9215175ad0ab3c/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 4,
-    "episode": 46,
+    "season": 28740000,
+    "episode": 540802650,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33578210~~2FEP032428740065,imi:257a602d11f28383c77548c2331fbb8725c99f5c",
-      "episodeName": "Aflevering 46",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17007328~~2FSH032428740000~~2F540802650,imi:8153f6d1f98a071b7ba4236c8c9215175ad0ab3c",
+      "episodeName": null,
       "genres": [
         "Entertainment",
         "Natuur"
       ],
-      "productionDate": "2022",
+      "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F49053e1e-ce44-41aa-9e3f-9c9cc61aefca"
     }
   },
   {
-    "id": "vrtcanvas:1788015000000:1msc48h",
+    "id": "vrtcanvas:1788014700000:1msc48h",
     "channel": "vrtcanvas",
     "title": "Roots of Life",
-    "start": 1788015000000,
-    "end": 1788018000000,
+    "start": 1788014700000,
+    "end": 1788017700000,
     "description": "In het hart van de Amazone torent een titan hoog boven de jungle uit: de paranotenboom is een krachtige mastodont die verscheidene bewoners van de jungle voedt en onderdak biedt.",
     "category": [
       "Docu"
@@ -174,11 +174,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1788018000000:xrou7w",
+    "id": "vrtcanvas:1788017700000:xrou7w",
     "channel": "vrtcanvas",
     "title": "The Zelensky Story",
-    "start": 1788018000000,
-    "end": 1788021000000,
+    "start": 1788017700000,
+    "end": 1788020700000,
     "description": "Zelensky maakt kennis met de machtspolitiek door zijn gesprekken met Poetin en Trump. Wanneer de Russen zijn land binnenvallen, besluit hij in Oekraïne te blijven en zijn te land verdedigen.",
     "category": [
       "Docu",
@@ -204,10 +204,10 @@
     }
   },
   {
-    "id": "vrtcanvas:1788021000000:24budh",
+    "id": "vrtcanvas:1788020700000:24budh",
     "channel": "vrtcanvas",
     "title": "The Brokenwood Mysteries",
-    "start": 1788021000000,
+    "start": 1788020700000,
     "end": 1788026400000,
     "description": "Mike, Kristin en het team onderzoeken de moord op de eigenares van een boerenmarkt die tussen de marktbezoekers dood neerviel met een stuk tuingereedschap in haar rug.",
     "category": [

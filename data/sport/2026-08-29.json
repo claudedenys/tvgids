@@ -23,15 +23,38 @@
     ]
   },
   {
-    "id": "sport:playsports1:1787998200000:amnfa6",
+    "id": "sport:playsports1:1787998260000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787998200000,
-    "end": 1788001320000,
+    "start": 1787998260000,
+    "end": 1787998320000,
+    "status": "aankomend",
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1787998320000:amnfa6",
+    "externalId": null,
+    "title": "Premier League Review",
+    "home": null,
+    "away": null,
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787998320000,
+    "end": 1788001440000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -123,7 +146,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1788030300000,
-    "end": 1788031920000,
+    "end": 1788031860000,
     "status": "aankomend",
     "description": "Van onverschrokken spits tot een van de meest inspirerende figuren uit het Engelse voetbal: dit is het verhaal van Kevin Keegan. We volgen zijn opmerkelijke spelerscarrière bij Liverpool, Hamburg en het Engelse nationale elftal, waarna we ingaan op zijn invloed als trainer.",
     "source": "epg",
@@ -276,6 +299,52 @@
     ]
   },
   {
+    "id": "sport:playsports3:1788033000000:qbgze4",
+    "externalId": null,
+    "title": "Dag 11",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1788033000000,
+    "end": 1788033600000,
+    "status": "aankomend",
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1788033600000:8a2n92",
+    "externalId": null,
+    "title": "Tennis",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1788033600000,
+    "end": 1788040800000,
+    "status": "aankomend",
+    "description": "Live verslag van verschillende tennisevenementen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:playsports4:1787958600000:xykime",
     "externalId": null,
     "title": "Play Sports",
@@ -307,7 +376,7 @@
     "competition": null,
     "sport": "Motorsport",
     "start": 1787993880000,
-    "end": 1787998560000,
+    "end": 1787998620000,
     "status": "aankomend",
     "description": "Verslag van de eerste race van de ePrix van Londen, gereden in Londen, Engeland.",
     "source": "epg",
@@ -322,15 +391,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1787998560000:arbcat",
+    "id": "sport:playsports4:1787998620000:arbcat",
     "externalId": null,
     "title": "ePrix van Londen: Race 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1787998560000,
-    "end": 1788004140000,
+    "start": 1787998620000,
+    "end": 1788004260000,
     "status": "aankomend",
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "source": "epg",
@@ -345,15 +414,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788004140000:qbgze4",
+    "id": "sport:playsports4:1788004260000:qbgze4",
     "externalId": null,
     "title": "Dag 11",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1788004140000,
-    "end": 1788010560000,
+    "start": 1788004260000,
+    "end": 1788010740000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -368,15 +437,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788010560000:qbgze4",
+    "id": "sport:playsports4:1788010740000:qbgze4",
     "externalId": null,
     "title": "Dag 10",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1788010560000,
-    "end": 1788021840000,
+    "start": 1788010740000,
+    "end": 1788022020000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -391,15 +460,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788021840000:arbc9d",
+    "id": "sport:playsports4:1788022020000:arbc9d",
     "externalId": null,
     "title": "GP van Nederland: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1788021840000,
-    "end": 1788032940000,
+    "start": 1788022020000,
+    "end": 1788033180000,
     "status": "aankomend",
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "source": "epg",
@@ -414,15 +483,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788032940000:12oeiq8",
+    "id": "sport:playsports4:1788033180000:12oeiq8",
     "externalId": null,
     "title": "Zandvoort: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1788032940000,
-    "end": 1788036240000,
+    "start": 1788033180000,
+    "end": 1788036540000,
     "status": "aankomend",
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "source": "epg",
@@ -721,7 +790,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1787979000000,
-    "end": 1787985120000,
+    "end": 1787985180000,
     "status": "aankomend",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
@@ -736,15 +805,15 @@
     ]
   },
   {
-    "id": "sport:match:1787985120000:brighton & hove albion - aston villa",
+    "id": "sport:match:1787985180000:brighton & hove albion - aston villa",
     "externalId": null,
     "title": "Brighton & Hove Albion - Aston Villa",
     "home": "Brighton & Hove Albion",
     "away": "Aston Villa",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787985120000,
-    "end": 1787991600000,
+    "start": 1787985180000,
+    "end": 1787991660000,
     "status": "aankomend",
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "source": "epg",
@@ -759,15 +828,15 @@
     ]
   },
   {
-    "id": "sport:match:1787991600000:manchester city - bournemouth",
+    "id": "sport:match:1787991660000:manchester city - bournemouth",
     "externalId": null,
     "title": "Manchester City - Bournemouth",
     "home": "Manchester City",
     "away": "Bournemouth",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1787991600000,
-    "end": 1787998200000,
+    "start": 1787991660000,
+    "end": 1787991720000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "source": "epg",
@@ -782,14 +851,60 @@
     ]
   },
   {
-    "id": "sport:match:1788001320000:beoordeelt de pro league-shirts",
+    "id": "sport:match:1787991720000:manchester city - bournemouth",
+    "externalId": null,
+    "title": "Manchester City - Bournemouth",
+    "home": "Manchester City",
+    "away": "Bournemouth",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1787991720000,
+    "end": 1787998260000,
+    "status": "aankomend",
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1788001440000:beoordeelt de pro league-shirts",
     "externalId": null,
     "title": "Beoordeelt de Pro League-shirts",
     "home": "Beoordeelt de Pro League",
     "away": "shirts",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1788001320000,
+    "start": 1788001440000,
+    "end": 1788001500000,
+    "status": "aankomend",
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1788001500000:beoordeelt de pro league-shirts",
+    "externalId": null,
+    "title": "Beoordeelt de Pro League-shirts",
+    "home": "Beoordeelt de Pro League",
+    "away": "shirts",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1788001500000,
     "end": 1788002700000,
     "status": "aankomend",
     "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
@@ -897,15 +1012,15 @@
     ]
   },
   {
-    "id": "sport:match:1788031920000:crystal palace - manchester city",
+    "id": "sport:match:1788031860000:crystal palace - manchester city",
     "externalId": null,
     "title": "Crystal Palace - Manchester City",
     "home": "Crystal Palace",
     "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788031920000,
-    "end": 1788032700000,
+    "start": 1788031860000,
+    "end": 1788032580000,
     "status": "aankomend",
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
@@ -920,14 +1035,14 @@
     ]
   },
   {
-    "id": "sport:match:1788032700000:newcastle united - liverpool",
+    "id": "sport:match:1788032580000:newcastle united - liverpool",
     "externalId": null,
     "title": "Newcastle United - Liverpool",
     "home": "Newcastle United",
     "away": "Liverpool",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788032700000,
+    "start": 1788032580000,
     "end": 1788039300000,
     "status": "aankomend",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
@@ -951,7 +1066,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1788039300000,
-    "end": 1788045360000,
+    "end": 1788045420000,
     "status": "aankomend",
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "source": "epg",
@@ -1043,7 +1158,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1787979600000,
-    "end": 1787985900000,
+    "end": 1787985720000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1058,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1787985900000:sc cambuur - feyenoord",
+    "id": "sport:match:1787985720000:sc cambuur - feyenoord",
     "externalId": null,
     "title": "SC Cambuur - Feyenoord",
     "home": "SC Cambuur",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787985900000,
-    "end": 1787992200000,
+    "start": 1787985720000,
+    "end": 1787992140000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1081,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1787992200000:psv - fc groningen",
+    "id": "sport:match:1787992140000:psv - fc groningen",
     "externalId": null,
     "title": "PSV - FC Groningen",
     "home": "PSV",
     "away": "FC Groningen",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1787992200000,
-    "end": 1787998500000,
+    "start": 1787992140000,
+    "end": 1787998440000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - FC Groningen uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1104,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1787998500000:psv - az",
+    "id": "sport:match:1787998440000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1787998500000,
-    "end": 1788006300000,
+    "start": 1787998440000,
+    "end": 1788006240000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "source": "epg",
@@ -1127,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1788006300000:ajax - sc heerenveen",
+    "id": "sport:match:1788006240000:ajax - sc heerenveen",
     "externalId": null,
     "title": "Ajax - sc Heerenveen",
     "home": "Ajax",
     "away": "sc Heerenveen",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788006300000,
-    "end": 1788012600000,
+    "start": 1788006240000,
+    "end": 1788012360000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1150,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1788012600000:sc cambuur - feyenoord",
+    "id": "sport:match:1788012360000:sc cambuur - feyenoord",
     "externalId": null,
     "title": "SC Cambuur - Feyenoord",
     "home": "SC Cambuur",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788012600000,
-    "end": 1788018900000,
+    "start": 1788012360000,
+    "end": 1788018780000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1173,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1788018900000:psv - fc groningen",
+    "id": "sport:match:1788018780000:psv - fc groningen",
     "externalId": null,
     "title": "PSV - FC Groningen",
     "home": "PSV",
     "away": "FC Groningen",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788018900000,
-    "end": 1788025200000,
+    "start": 1788018780000,
+    "end": 1788025140000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - FC Groningen uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1196,63 +1311,17 @@
     ]
   },
   {
-    "id": "sport:match:1788025200000:psv - az",
+    "id": "sport:match:1788025140000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1788025200000,
-    "end": 1788032940000,
+    "start": 1788025140000,
+    "end": 1788033000000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1788032940000:ajax - sc heerenveen",
-    "externalId": null,
-    "title": "Ajax - sc Heerenveen",
-    "home": "Ajax",
-    "away": "sc Heerenveen",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1788032940000,
-    "end": 1788039300000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1788039300000:sc cambuur - feyenoord",
-    "externalId": null,
-    "title": "SC Cambuur - Feyenoord",
-    "home": "SC Cambuur",
-    "away": "Feyenoord",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1788039300000,
-    "end": 1788045540000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1357,15 +1426,15 @@
     ]
   },
   {
-    "id": "sport:match:1788036240000:nederland - mx2: race 1",
+    "id": "sport:match:1788036540000:nederland - mx2: race 1",
     "externalId": null,
     "title": "Nederland - MX2: Race 1",
     "home": "Nederland",
     "away": "MX2: Race 1",
     "competition": null,
     "sport": null,
-    "start": 1788036240000,
-    "end": 1788039720000,
+    "start": 1788036540000,
+    "end": 1788040080000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1380,15 +1449,15 @@
     ]
   },
   {
-    "id": "sport:match:1788039720000:nederland - mxgp: race 1",
+    "id": "sport:match:1788040080000:nederland - mxgp: race 1",
     "externalId": null,
     "title": "Nederland - MXGP: Race 1",
     "home": "Nederland",
     "away": "MXGP: Race 1",
     "competition": null,
     "sport": null,
-    "start": 1788039720000,
-    "end": 1788043260000,
+    "start": 1788040080000,
+    "end": 1788043680000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",

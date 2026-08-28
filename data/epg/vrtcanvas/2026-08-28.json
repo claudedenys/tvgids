@@ -152,7 +152,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 1: De Wereld Vandaag",
     "start": 1787925600000,
-    "end": 1787932200000,
+    "end": 1787930100000,
     "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
     "category": [
       "Actualiteitsmagazine"
@@ -176,41 +176,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1787932200000:47fz56",
-    "channel": "vrtcanvas",
-    "title": "Blend",
-    "start": 1787932200000,
-    "end": 1787936100000,
-    "description": "Het Master of Wine-examen is het meest uitdagende examen in de wijnwereld. De meeste kandidaten doen er bijna tien jaar over om de cursus af te ronden. Een echte marathon die ijzeren wil, doorzettingsvermogen en veel opofferingen vereist.",
-    "category": [
-      "Film",
-      "Docu"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26334775~~2FMV021185060000%2Cimi%3Ad5aff1e31e8549cc63debd2e09faf8e115adece6/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26334775~~2FMV021185060000,imi:d5aff1e31e8549cc63debd2e09faf8e115adece6",
-      "episodeName": null,
-      "genres": [
-        "Film",
-        "Docu"
-      ],
-      "productionDate": "2023",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "vrtcanvas:1787936100000:aymx17",
+    "id": "vrtcanvas:1787930100000:aymx17",
     "channel": "vrtcanvas",
     "title": "Meet the Roman Emperor with Mary Beard",
-    "start": 1787936100000,
-    "end": 1787940000000,
+    "start": 1787930100000,
+    "end": 1787933700000,
     "description": "Historische documentaire over de verborgen wereld van de Romeinse keizers. (BBC Studios, 2024)",
     "category": [
       "Docu",
@@ -233,6 +203,36 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vrtcanvas:1787933700000:dx9u16",
+    "channel": "vrtcanvas",
+    "title": "Sporza: WK Hockey Mannen 2026",
+    "start": 1787933700000,
+    "end": 1787940000000,
+    "description": "Vanuit de Belfius Hockey Arena in Waver, België.",
+    "category": [
+      "Sport",
+      "Hockey"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32623263~~2FEP065463310015%2Cimi%3A0f6129b13047ce7a142416d600e432b77433f9aa/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 63310000,
+    "episode": 2026082815,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32623263~~2FEP065463310015,imi:0f6129b13047ce7a142416d600e432b77433f9aa",
+      "episodeName": "India - België",
+      "genres": [
+        "Sport",
+        "Hockey"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580330~~2FSH065463310000"
     }
   },
   {
