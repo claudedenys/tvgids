@@ -212,7 +212,7 @@
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
     "start": 1788004260000,
-    "end": 1788010740000,
+    "end": 1788010680000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -238,10 +238,10 @@
     }
   },
   {
-    "id": "playsports4:1788010740000:qbgze4",
+    "id": "playsports4:1788010680000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1788010740000,
+    "start": 1788010680000,
     "end": 1788022020000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
@@ -272,7 +272,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1788022020000,
-    "end": 1788033180000,
+    "end": 1788030240000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",
@@ -298,11 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1788033180000:12oeiq8",
+    "id": "playsports4:1788030240000:12oeiq8",
     "channel": "playsports4",
     "title": "Porsche Supercup",
-    "start": 1788033180000,
-    "end": 1788036540000,
+    "start": 1788030240000,
+    "end": 1788033600000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",
@@ -328,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1788036540000:133mms5",
+    "id": "playsports4:1788033600000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788036540000,
-    "end": 1788040080000,
+    "start": 1788033600000,
+    "end": 1788037140000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -358,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1788040080000:133mms5",
+    "id": "playsports4:1788037140000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788040080000,
-    "end": 1788043680000,
+    "start": 1788037140000,
+    "end": 1788040680000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -378,6 +378,36 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33807316~~2FEP050375640301,imi:53d3bb94cd55f31dead01a352c11d7e684866f9f",
       "episodeName": "Nederland - MXGP: Race 1",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
+    }
+  },
+  {
+    "id": "playsports4:1788040680000:133mms5",
+    "channel": "playsports4",
+    "title": "FIM Motocross World Championship",
+    "start": 1788040680000,
+    "end": 1788044280000,
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33807335~~2FEP050375640302%2Cimi%3A3632cc390ae5150ffe535b643acac70952019e26/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 75640000,
+    "episode": 2026082302,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33807335~~2FEP050375640302,imi:3632cc390ae5150ffe535b643acac70952019e26",
+      "episodeName": "Nederland - MX2: Race 2",
       "genres": [
         "Sport",
         "Motorracen"

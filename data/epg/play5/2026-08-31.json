@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1788135000000:48zb9",
+    "id": "play5:1788134400000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1788135000000,
-    "end": 1788150600000,
+    "start": 1788134400000,
+    "end": 1788144900000,
     "description": null,
     "category": [],
     "image": null,
@@ -24,11 +24,89 @@
     }
   },
   {
-    "id": "play5:1788150600000:l0nfps",
+    "id": "play5:1788144900000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1788144900000,
+    "end": 1788145200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2f5d11bbd88d260c62e1e163477b028a9f93aade",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1788145200000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1788145200000,
+    "end": 1788149400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:892799f12444d452484f443fb6f7a798cf7a40aa",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1788149400000:hxtisv",
+    "channel": "play5",
+    "title": "Grey's Anatomy",
+    "start": 1788149400000,
+    "end": 1788151800000,
+    "description": "De zussen van een patiënte die na een valpartij hersendood blijkt te zijn, moeten een moeilijke knoop doorhakken. Meredith probeert Jo van afstand te helpen.",
+    "category": [
+      "Dramaserie",
+      "Medisch"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17388232~~2FEP027786290248%2Cimi%3A4f6fc1cf7bf3cf4a3742cab3473f5ec01e4b8835/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 16,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17388232~~2FEP027786290248,imi:4f6fc1cf7bf3cf4a3742cab3473f5ec01e4b8835",
+      "episodeName": "Reunited",
+      "genres": [
+        "Dramaserie",
+        "Medisch"
+      ],
+      "productionDate": "2019",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5e08c502-7198-4669-b6f8-4121e88b8a69"
+    }
+  },
+  {
+    "id": "play5:1788151800000:l0nfps",
     "channel": "play5",
     "title": "Good American Family",
-    "start": 1788150600000,
-    "end": 1788153600000,
+    "start": 1788151800000,
+    "end": 1788154800000,
     "description": "Na het verdriet van een mislukte adoptie krijgt de familie Barnett een tweede kans wanneer ze een telefoontje krijgen over een klein meisje genaamd Natalia.",
     "category": [
       "Dramaserie",
@@ -54,11 +132,11 @@
     }
   },
   {
-    "id": "play5:1788153600000:l0nfps",
+    "id": "play5:1788154800000:l0nfps",
     "channel": "play5",
     "title": "Good American Family",
-    "start": 1788153600000,
-    "end": 1788157200000,
+    "start": 1788154800000,
+    "end": 1788158100000,
     "description": "Natalia begint op school en Kristines twijfels over de adoptie worden groter. Michael ontvangt op zijn werk verrassend nieuws.",
     "category": [
       "Dramaserie",
@@ -84,11 +162,11 @@
     }
   },
   {
-    "id": "play5:1788157200000:48zb9",
+    "id": "play5:1788158100000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1788157200000,
-    "end": 1788159000000,
+    "start": 1788158100000,
+    "end": 1788159900000,
     "description": null,
     "category": [],
     "image": null,
@@ -108,11 +186,11 @@
     }
   },
   {
-    "id": "play5:1788159000000:1w8dao1",
+    "id": "play5:1788159900000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1788159000000,
-    "end": 1788162000000,
+    "start": 1788159900000,
+    "end": 1788162900000,
     "description": "Castle en Beckett onderzoeken de moord op een officier van justitie. Ondertussen vertrouwt Alexis Beckett een geheim toe in plaats van haar vader.",
     "category": [
       "Misdaaddrama",
@@ -138,11 +216,11 @@
     }
   },
   {
-    "id": "play5:1788162000000:1w8dao1",
+    "id": "play5:1788162900000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1788162000000,
-    "end": 1788165300000,
+    "start": 1788162900000,
+    "end": 1788165900000,
     "description": "Het lichaam van een man die een dubbelleven leidde wordt gevonden in een vuilnisbak. Er ontstaat een ingewikkelde situatie wanneer zowel zijn vrouw en verloofde langskomen om het lichaam te identificeren.",
     "category": [
       "Misdaaddrama",
@@ -168,11 +246,11 @@
     }
   },
   {
-    "id": "play5:1788165300000:br4tdi",
+    "id": "play5:1788165900000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1788165300000,
-    "end": 1788168600000,
+    "start": 1788165900000,
+    "end": 1788169200000,
     "description": "Het team gaat op zoek naar de daders van de moord op vier Mohawk-jongeren nabij de Canadese grens. Ze achten de kans groot dat een groep extremistische militairen hierbij betrokken is.",
     "category": [
       "Misdaaddrama",
@@ -198,11 +276,11 @@
     }
   },
   {
-    "id": "play5:1788168600000:br4tdi",
+    "id": "play5:1788169200000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1788168600000,
-    "end": 1788171600000,
+    "start": 1788169200000,
+    "end": 1788172200000,
     "description": "Een mislukte overval eindigt met moord en een ontvoering. Het team haast zich om een moeder en dochter te redden, maar de ontvoerders zijn niet wat ze lijken. Crosby komt in een nieuwe woonsituatie terecht.",
     "category": [
       "Misdaaddrama",
@@ -228,11 +306,11 @@
     }
   },
   {
-    "id": "play5:1788171600000:yknhhu",
+    "id": "play5:1788172200000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1788171600000,
-    "end": 1788175200000,
+    "start": 1788172200000,
+    "end": 1788175500000,
     "description": "Parker vecht voor een zaak waarin een geheime immuniteitsovereenkomst dreigt een man vrijuit te laten gaan. De strijd wordt persoonlijk als zijn vervreemde zus plotseling opduikt en oude familiewonden oprakelt.",
     "category": [
       "Misdaaddrama",
@@ -258,11 +336,11 @@
     }
   },
   {
-    "id": "play5:1788175200000:1n4m9uo",
+    "id": "play5:1788175500000:1n4m9uo",
     "channel": "play5",
     "title": "CSI: Crime Scene Investigation",
-    "start": 1788175200000,
-    "end": 1788178500000,
+    "start": 1788175500000,
+    "end": 1788178800000,
     "description": "Als er vuur uitbreekt tijdens een concert, vinden vier mensen de dood. Het team ontdekt een potentieel motief voor brandstichting naarmate ze meer te weten komen over de optredende band.",
     "category": [
       "Misdaaddrama",
@@ -288,10 +366,10 @@
     }
   },
   {
-    "id": "play5:1788178500000:aucomi",
+    "id": "play5:1788178800000:aucomi",
     "channel": "play5",
     "title": "My Super Ex-Girlfriend",
-    "start": 1788178500000,
+    "start": 1788178800000,
     "end": 1788184500000,
     "description": "Matt Saunders is in het geheim verliefd op een vrouw genaamd Hannah Lewis, maar durft haar nooit mee uit te vragen. Op een dag ontmoet hij de verlegen Jenny Johnson. Nadat hij haar tas, die was gestolen, terugbezorgt, krijgen de twee een relatie. Uiteindelijk biecht ze op dat ze in werkelijkheid de superheldin G-Girl is. Jenny wordt echter steeds baziger en agressiever in hun relatie en Matt schraapt eindelijk de moed bijeen om het uit te maken met Jenny.",
     "category": [
@@ -322,7 +400,7 @@
     "channel": "play5",
     "title": "Castle",
     "start": 1788184500000,
-    "end": 1788187500000,
+    "end": 1788187800000,
     "description": "Een kunsthandelaar wordt neergeschoten in zijn galerie in New York. Castle en Beckett ontdekken dat er een kogel mist op de plaats delict. Bovendien lijdt de enige getuige aan geheugenverlies.",
     "category": [
       "Misdaaddrama",
@@ -348,11 +426,11 @@
     }
   },
   {
-    "id": "play5:1788187500000:1w8dao1",
+    "id": "play5:1788187800000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1788187500000,
-    "end": 1788190800000,
+    "start": 1788187800000,
+    "end": 1788191100000,
     "description": "Castle en Beckett onderzoeken de dood van een bruidsmeisje op een trouwerij. Tijdens hun speurtocht loopt Castle een oude vlam tegen het lijf, Beckett raakt al gauw jaloers.",
     "category": [
       "Misdaaddrama",
@@ -378,11 +456,11 @@
     }
   },
   {
-    "id": "play5:1788190800000:br4tdi",
+    "id": "play5:1788191100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1788190800000,
-    "end": 1788194100000,
+    "start": 1788191100000,
+    "end": 1788194400000,
     "description": "Een verdachte komt op vrije voeten en gaat aan het moorden. Vervolgens slaat het team de handen ineen met Jackie Ward, een zogenaamde borgtochtgeldschieter, om de man op te sporen. En het liefdespad van Jess gaat nog steeds niet over rozen.",
     "category": [
       "Misdaaddrama",
@@ -408,10 +486,10 @@
     }
   },
   {
-    "id": "play5:1788194100000:br4tdi",
+    "id": "play5:1788194400000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1788194100000,
+    "start": 1788194400000,
     "end": 1788197700000,
     "description": "Het team verwelkomt een nieuwe collega. Het is vervolgens alle hens aan dek wanneer ze een recidivist moeten opsporen nadat hij een kind ontvoert en diens moeder vermoordt. En Jess probeert het lastige gesprek dat hij met Sarah had, te vergeten.",
     "category": [
@@ -502,7 +580,7 @@
     "channel": "play5",
     "title": "Friends",
     "start": 1788211800000,
-    "end": 1788214200000,
+    "end": 1788213900000,
     "description": "Monica en Ross rouwen om de dood van hun oma. Chandler heeft twijfels over zijn seksuele geaardheid.",
     "category": [
       "Sitcom"

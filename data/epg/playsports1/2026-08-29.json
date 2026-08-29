@@ -62,7 +62,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787985180000,
-    "end": 1787991660000,
+    "end": 1787991720000,
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "category": [
       "Sport",
@@ -88,41 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1787991660000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1787991660000,
-    "end": 1787991720000,
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432%2Cimi%3A112c905122a4217af221151aa1112a94ad634e87/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026082332,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577549~~2FEP033946612432,imi:112c905122a4217af221151aa1112a94ad634e87",
-      "episodeName": "Manchester City - Bournemouth",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
     "id": "playsports1:1787991720000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1787991720000,
-    "end": 1787998260000,
+    "end": 1787998320000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -148,41 +118,11 @@
     }
   },
   {
-    "id": "playsports1:1787998260000:amnfa6",
-    "channel": "playsports1",
-    "title": "Premier League Review",
-    "start": 1787998260000,
-    "end": 1787998320000,
-    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059%2Cimi%3A08d71c61b55bf3ee3b1fd0a8eaa42e76bd54fa60/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 2026082659,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33923887~~2FEP055411400059,imi:08d71c61b55bf3ee3b1fd0a8eaa42e76bd54fa60",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
-    }
-  },
-  {
     "id": "playsports1:1787998320000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
     "start": 1787998320000,
-    "end": 1788001440000,
+    "end": 1788001500000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
@@ -205,36 +145,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
-    }
-  },
-  {
-    "id": "playsports1:1788001440000:3tkxx5",
-    "channel": "playsports1",
-    "title": "MIDMID",
-    "start": 1788001440000,
-    "end": 1788001500000,
-    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
-    "category": [
-      "Voetbal",
-      "Sporttalkshow"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A20ea5d1b25e74d2284c800527b84fe87abca7730/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 7,
-    "episode": 1,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:20ea5d1b25e74d2284c800527b84fe87abca7730",
-      "episodeName": "Beoordeelt de Pro League-shirts",
-      "genres": [
-        "Voetbal",
-        "Sporttalkshow"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {

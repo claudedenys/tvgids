@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1788220500000:o13nu0",
+    "id": "play6:1788219900000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1788220500000,
-    "end": 1788223800000,
+    "start": 1788219900000,
+    "end": 1788222300000,
     "description": "Een gesigneerde gitaar van BB King komt in de winkel centraal te staan. Dan bekijken Chum en Rick een huis vol popart, geïnspireerd door Andy Warhol. En een Japanse zwaardschede zet Corey op scherp.",
     "category": [
       "Reality",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1788223800000:48zb9",
+    "id": "play6:1788222300000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1788223800000,
-    "end": 1788231600000,
+    "start": 1788222300000,
+    "end": 1788231000000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:db16f98f30c815f8b85e24428b0f5a9209c043ea",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1788231000000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1788231000000,
+    "end": 1788231600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:8e7a594f463f736d6d2ea09b34179cdbcce4993d",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

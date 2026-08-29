@@ -127,7 +127,7 @@
     "title": "NOS Journaal",
     "start": 1787962200000,
     "end": 1787974500000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Zorgen om twee meren in Nepal * Pro waarschuwt kabinet...",
     "category": [
       "Actueel"
     ],
@@ -286,11 +286,11 @@
     "title": "NOS Journaal",
     "start": 1788001200000,
     "end": 1788001800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met het laatste nieuws en de weersverwachting.Doden bij luchtaanval voorstad KyivNepal vraagt hulp...",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-758734942.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -300,7 +300,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },

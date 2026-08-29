@@ -30,6 +30,34 @@
     }
   },
   {
+    "id": "playsports1:1788135660000:xykime",
+    "channel": "playsports1",
+    "title": "Play Sports",
+    "start": 1788135660000,
+    "end": 1788153600000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A830196e939fa55b7d42d2d412a8febf94e2c3117/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:830196e939fa55b7d42d2d412a8febf94e2c3117",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "playsports1:1788153600000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",

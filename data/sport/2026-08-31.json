@@ -1,5 +1,28 @@
 [
   {
+    "id": "sport:playsports1:1788135660000:xykime",
+    "externalId": null,
+    "title": "Play Sports",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1788135660000,
+    "end": 1788153600000,
+    "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
     "id": "sport:playsports1:1788209700000:qjkkk5",
     "externalId": null,
     "title": "Kevin Keegan",
@@ -115,14 +138,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1788135840000:xykime",
+    "id": "sport:playsports3:1788136140000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1788135840000,
+    "start": 1788136140000,
     "end": 1788152400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -138,14 +161,37 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788133200000:xykime",
+    "id": "sport:playsports4:1788130260000:qbgze4",
+    "externalId": null,
+    "title": "Dag 10",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1788130260000,
+    "end": 1788134580000,
+    "status": "aankomend",
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1788134580000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1788133200000,
+    "start": 1788134580000,
     "end": 1788152400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -238,7 +284,7 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1788177420000,
-    "end": 1788188520000,
+    "end": 1788185580000,
     "status": "aankomend",
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "source": "epg",
@@ -253,15 +299,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788203040000:arbcat",
+    "id": "sport:playsports4:1788200100000:arbcat",
     "externalId": null,
     "title": "ePrix van Londen: Race 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1788203040000,
-    "end": 1788208680000,
+    "start": 1788200100000,
+    "end": 1788205740000,
     "status": "aankomend",
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "source": "epg",
@@ -276,17 +322,40 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788208680000:qbgze4",
+    "id": "sport:playsports4:1788205740000:qbgze4",
     "externalId": null,
     "title": "Dag 11",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1788208680000,
-    "end": 1788215100000,
+    "start": 1788205740000,
+    "end": 1788212160000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1788212160000:arbc9d",
+    "externalId": null,
+    "title": "GP van Nederland: Race",
+    "home": null,
+    "away": null,
+    "competition": "Formule 1",
+    "sport": "Motorsport",
+    "start": 1788212160000,
+    "end": 1788220260000,
+    "status": "aankomend",
+    "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -920,15 +989,15 @@
     ]
   },
   {
-    "id": "sport:match:1788129540000:ajax - sc heerenveen",
+    "id": "sport:match:1788129960000:ajax - sc heerenveen",
     "externalId": null,
     "title": "Ajax - sc Heerenveen",
     "home": "Ajax",
     "away": "sc Heerenveen",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788129540000,
-    "end": 1788135840000,
+    "start": 1788129960000,
+    "end": 1788136140000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -997,7 +1066,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1788164940000,
-    "end": 1788171300000,
+    "end": 1788171240000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - FC Groningen uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1012,14 +1081,14 @@
     ]
   },
   {
-    "id": "sport:match:1788171300000:psv - az",
+    "id": "sport:match:1788171240000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1788171300000,
+    "start": 1788171240000,
     "end": 1788179100000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
@@ -1043,7 +1112,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1788179100000,
-    "end": 1788185340000,
+    "end": 1788185280000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1058,14 +1127,14 @@
     ]
   },
   {
-    "id": "sport:match:1788185340000:sc cambuur - feyenoord",
+    "id": "sport:match:1788185280000:sc cambuur - feyenoord",
     "externalId": null,
     "title": "SC Cambuur - Feyenoord",
     "home": "SC Cambuur",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788185340000,
+    "start": 1788185280000,
     "end": 1788191760000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
@@ -1089,7 +1158,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1788191760000,
-    "end": 1788198180000,
+    "end": 1788198060000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - FC Groningen uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1104,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1788198180000:psv - az",
+    "id": "sport:match:1788198060000:psv - az",
     "externalId": null,
     "title": "PSV - AZ",
     "home": "PSV",
     "away": "AZ",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1788198180000,
-    "end": 1788205980000,
+    "start": 1788198060000,
+    "end": 1788205860000,
     "status": "aankomend",
     "description": "Verslag van de strijd om de Johan Cruijff Schaal tussen landskampioen PSV en bekerwinnaar AZ.",
     "source": "epg",
@@ -1127,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1788205980000:ajax - sc heerenveen",
+    "id": "sport:match:1788205860000:ajax - sc heerenveen",
     "externalId": null,
     "title": "Ajax - sc Heerenveen",
     "home": "Ajax",
     "away": "sc Heerenveen",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788205980000,
-    "end": 1788212160000,
+    "start": 1788205860000,
+    "end": 1788212100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - sc Heerenveen uit de 2e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1150,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1788212160000:sc cambuur - feyenoord",
+    "id": "sport:match:1788212100000:sc cambuur - feyenoord",
     "externalId": null,
     "title": "SC Cambuur - Feyenoord",
     "home": "SC Cambuur",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788212160000,
-    "end": 1788218700000,
+    "start": 1788212100000,
+    "end": 1788218580000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Cambuur - Feyenoord uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1196,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1788188520000:nederland - mx2: race 1",
+    "id": "sport:match:1788185580000:nederland - mx2: race 1",
     "externalId": null,
     "title": "Nederland - MX2: Race 1",
     "home": "Nederland",
     "away": "MX2: Race 1",
     "competition": null,
     "sport": null,
-    "start": 1788188520000,
-    "end": 1788192120000,
+    "start": 1788185580000,
+    "end": 1788189120000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1219,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1788192120000:nederland - mxgp: race 1",
+    "id": "sport:match:1788189120000:nederland - mxgp: race 1",
     "externalId": null,
     "title": "Nederland - MXGP: Race 1",
     "home": "Nederland",
     "away": "MXGP: Race 1",
     "competition": null,
     "sport": null,
-    "start": 1788192120000,
-    "end": 1788195660000,
+    "start": 1788189120000,
+    "end": 1788192720000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1242,15 +1311,15 @@
     ]
   },
   {
-    "id": "sport:match:1788195660000:nederland - mx2: race 2",
+    "id": "sport:match:1788192720000:nederland - mx2: race 2",
     "externalId": null,
     "title": "Nederland - MX2: Race 2",
     "home": "Nederland",
     "away": "MX2: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1788195660000,
-    "end": 1788199320000,
+    "start": 1788192720000,
+    "end": 1788196380000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1265,15 +1334,15 @@
     ]
   },
   {
-    "id": "sport:match:1788199320000:nederland - mxgp: race 2",
+    "id": "sport:match:1788196380000:nederland - mxgp: race 2",
     "externalId": null,
     "title": "Nederland - MXGP: Race 2",
     "home": "Nederland",
     "away": "MXGP: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1788199320000,
-    "end": 1788203040000,
+    "start": 1788196380000,
+    "end": 1788200100000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",

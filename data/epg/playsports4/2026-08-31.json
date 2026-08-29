@@ -1,9 +1,39 @@
 [
   {
-    "id": "playsports4:1788133200000:xykime",
+    "id": "playsports4:1788130260000:qbgze4",
+    "channel": "playsports4",
+    "title": "Tennis: Cincinnati Open 2026",
+    "start": 1788130260000,
+    "end": 1788134580000,
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33751164~~2FEP065346450038%2Cimi%3A9037b2a52dcd2464ff3cdfd33b881f32f118ea08/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46450000,
+    "episode": 2026082238,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33751164~~2FEP065346450038,imi:9037b2a52dcd2464ff3cdfd33b881f32f118ea08",
+      "episodeName": "Dag 10",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33188385~~2FSH065346450000"
+    }
+  },
+  {
+    "id": "playsports4:1788134580000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1788133200000,
+    "start": 1788134580000,
     "end": 1788152400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -152,7 +182,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1788177420000,
-    "end": 1788188520000,
+    "end": 1788185580000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",
@@ -178,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1788188520000:133mms5",
+    "id": "playsports4:1788185580000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788188520000,
-    "end": 1788192120000,
+    "start": 1788185580000,
+    "end": 1788189120000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -208,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1788192120000:133mms5",
+    "id": "playsports4:1788189120000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788192120000,
-    "end": 1788195660000,
+    "start": 1788189120000,
+    "end": 1788192720000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -238,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1788195660000:133mms5",
+    "id": "playsports4:1788192720000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788195660000,
-    "end": 1788199320000,
+    "start": 1788192720000,
+    "end": 1788196380000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -268,11 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1788199320000:133mms5",
+    "id": "playsports4:1788196380000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788199320000,
-    "end": 1788203040000,
+    "start": 1788196380000,
+    "end": 1788200100000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -298,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1788203040000:arbcat",
+    "id": "playsports4:1788200100000:arbcat",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule E",
-    "start": 1788203040000,
-    "end": 1788208680000,
+    "start": 1788200100000,
+    "end": 1788205740000,
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "category": [
       "Sport",
@@ -328,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1788208680000:qbgze4",
+    "id": "playsports4:1788205740000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1788208680000,
-    "end": 1788215100000,
+    "start": 1788205740000,
+    "end": 1788212160000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -355,6 +385,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33188385~~2FSH065346450000"
+    }
+  },
+  {
+    "id": "playsports4:1788212160000:arbc9d",
+    "channel": "playsports4",
+    "title": "The Paddock Live: Formule 1",
+    "start": 1788212160000,
+    "end": 1788220260000,
+    "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32387586~~2FEP063235100081%2Cimi%3A64ce2265278bce50345bef4b8845d92e340aeca1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35100000,
+    "episode": 2026082381,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32387586~~2FEP063235100081,imi:64ce2265278bce50345bef4b8845d92e340aeca1",
+      "episodeName": "GP van Nederland: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
     }
   }
 ]
