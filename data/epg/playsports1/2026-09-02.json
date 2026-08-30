@@ -182,7 +182,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1788357660000,
-    "end": 1788364800000,
+    "end": 1788363720000,
     "description": "Vanuit het Vitality Stadium in Bournemouth, Engeland.",
     "category": [
       "Sport",
@@ -205,6 +205,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788363720000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1788363720000,
+    "end": 1788364800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b77a9549ec010fd26740af544197e19572059b74",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -272,7 +296,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1788371400000,
-    "end": 1788378540000,
+    "end": 1788377460000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -295,6 +319,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788377460000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1788377460000,
+    "end": 1788378540000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a6baacae3a615d3d7ea6efe3b8ed044582141f52",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

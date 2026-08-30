@@ -4,7 +4,7 @@
     "channel": "play7",
     "title": "A Place in the Sun",
     "start": 1788217800000,
-    "end": 1788221700000,
+    "end": 1788221400000,
     "description": "Een koppel staat voor de keuze tussen een huis in het mooie Devon of in de Franse Dordogne.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1788221700000:48zb9",
+    "id": "play7:1788221400000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1788221700000,
-    "end": 1788231600000,
+    "start": 1788221400000,
+    "end": 1788231360000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3dd39fbf0fd64c5c3d9e6b54e8cb62d81421f3c6",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1788231360000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1788231360000,
+    "end": 1788231600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9d6f5303b76976735e17f41f2352420e1970717b",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
