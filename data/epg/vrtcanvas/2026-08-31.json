@@ -152,7 +152,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 1: De Wereld Vandaag",
     "start": 1788184800000,
-    "end": 1788189000000,
+    "end": 1788188940000,
     "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
     "category": [
       "Actualiteitsmagazine"
@@ -176,11 +176,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1788189000000:5bud7o",
+    "id": "vrtcanvas:1788188940000:5bud7o",
     "channel": "vrtcanvas",
     "title": "Nicole Kidman Eyes Wide Open",
-    "start": 1788189000000,
-    "end": 1788192300000,
+    "start": 1788188940000,
+    "end": 1788192180000,
     "description": "Nicole Kidman, winnares van een Oscar en twee Emmy Awards, is zowel een popcultuuricoon als een complex, dramatisch personage geworden. Haar carrière is een uniek oeuvre dat haar persoonlijke leven weerspiegelt, dat politieker is dan het lijkt.",
     "category": [
       "Docu",
@@ -206,11 +206,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1788192300000:825pz9",
+    "id": "vrtcanvas:1788192180000:825pz9",
     "channel": "vrtcanvas",
     "title": "The Future of Nature",
-    "start": 1788192300000,
-    "end": 1788195600000,
+    "start": 1788192180000,
+    "end": 1788195480000,
     "description": "Graslanden zijn de longen van onze planeet en kunnen de sleutel zijn tot het redden van ons klimaat.",
     "category": [
       "Natuur",
@@ -236,10 +236,10 @@
     }
   },
   {
-    "id": "vrtcanvas:1788195600000:1tck2z3",
+    "id": "vrtcanvas:1788195480000:1tck2z3",
     "channel": "vrtcanvas",
     "title": "Forensics: The Real CSI",
-    "start": 1788195600000,
+    "start": 1788195480000,
     "end": 1788199200000,
     "description": "De politie van West Midlands werd gealarmeerd door ambulancepersoneel dat een gruwelijke ontdekking had gedaan. Een man die als gewond was opgegeven, is dood aangetroffen in een slaapkamer van een huis in Birmingham.",
     "category": [
@@ -266,9 +266,9 @@
     }
   },
   {
-    "id": "vrtcanvas:1788199200000:1o85viz",
+    "id": "vrtcanvas:1788199200000:eiur5b",
     "channel": "vrtcanvas",
-    "title": "Terzake",
+    "title": "VRT NWS Terzake",
     "start": 1788199200000,
     "end": 1788201000000,
     "description": "Terzake gaat dieper in op de actualiteit. Met gasten en reportages die het nieuws bepalen aan de hand van scherpe, kritische en verhelderende interviews.",
@@ -300,7 +300,7 @@
     "channel": "vrtcanvas",
     "title": "Het weer",
     "start": 1788201000000,
-    "end": 1788201300000,
+    "end": 1788201180000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
@@ -326,11 +326,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1788201300000:v6y787",
+    "id": "vrtcanvas:1788201180000:v6y787",
     "channel": "vrtcanvas",
     "title": "De Afspraak",
-    "start": 1788201300000,
-    "end": 1788204300000,
+    "start": 1788201180000,
+    "end": 1788204060000,
     "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
     "category": [
       "Talkshow",
@@ -356,11 +356,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1788204300000:iks5rz",
+    "id": "vrtcanvas:1788204060000:iks5rz",
     "channel": "vrtcanvas",
     "title": "Louvre Heist",
-    "start": 1788204300000,
-    "end": 1788207600000,
+    "start": 1788204060000,
+    "end": 1788207300000,
     "description": "Op 19 oktober 2025 pleegde een commando in amper 3 minuten en 19 seconden één van de meest geruchtmakende kunstroven ooit. Midden op de dag, voor de ogen van bewakers en bezoekers, verdwenen kroonjuwelen uit het Louvre. Hoe kon het meest bezochte museum ter wereld zo makkelijk worden leeggeroofd? We duiken in de coulissen van de diefstal van de eeuw, met ongeziene beelden van de roof, exclusieve getuigenissen en afgeluisterde gesprekken die onthullen wat er écht misliep.",
     "category": [
       "Actua"
@@ -384,11 +384,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1788207600000:1ey3ol9",
+    "id": "vrtcanvas:1788207300000:1ey3ol9",
     "channel": "vrtcanvas",
     "title": "Super/Man: The Christopher Reeve Story",
-    "start": 1788207600000,
-    "end": 1788213600000,
+    "start": 1788207300000,
+    "end": 1788213240000,
     "description": "Acteur Christopher Reeve wordt beroemd als hij de rol van Superman krijgt. Als hij verlamd raakt als gevolg van een ongeluk tijdens het paardrijden, besteedt Reeve de rest van zijn leven aan het zoeken naar een geneesmiddel voor ruggenmergletsels.",
     "category": [
       "Film",
@@ -411,6 +411,66 @@
       "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vrtcanvas:1788213240000:1rw80yh",
+    "channel": "vrtcanvas",
+    "title": "Het weer",
+    "start": 1788213240000,
+    "end": 1788213480000,
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": [
+      "Weer",
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F533052595%2Cimi%3A8a073dc304bf71b725891622ba6d21c480d42791/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 31670000,
+    "episode": 533052595,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F533052595,imi:8a073dc304bf71b725891622ba6d21c480d42791",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+    }
+  },
+  {
+    "id": "vrtcanvas:1788213480000:hib74j",
+    "channel": "vrtcanvas",
+    "title": "90 minutes",
+    "start": 1788213480000,
+    "end": 1788220680000,
+    "description": "Voetbalmagazine waarin de voetbalactualiteit wordt besproken.",
+    "category": [
+      "Sport",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32113131~~2FEP059737540017%2Cimi%3A03604fa91cb8f6adc825e1d61900ef4b1d8ce03f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32113131~~2FEP059737540017,imi:03604fa91cb8f6adc825e1d61900ef4b1d8ce03f",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Sport",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30890192~~2FSH059737540000"
     }
   }
 ]

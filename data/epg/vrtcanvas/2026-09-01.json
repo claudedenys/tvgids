@@ -1,32 +1,32 @@
 [
   {
-    "id": "vrtcanvas:1788213900000:hib74j",
+    "id": "vrtcanvas:1788220680000:1rw80yh",
     "channel": "vrtcanvas",
-    "title": "90 minutes",
-    "start": 1788213900000,
+    "title": "Het weer",
+    "start": 1788220680000,
     "end": 1788221100000,
-    "description": "Voetbalmagazine waarin de voetbalactualiteit wordt besproken.",
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
-      "Sport",
-      "Sporttalkshow"
+      "Weer",
+      "Actua"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32113131~~2FEP059737540017%2Cimi%3A03604fa91cb8f6adc825e1d61900ef4b1d8ce03f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F525830999%2Cimi%3Ac63759bdd6a7d76d616ce507b7a00baa979ce800/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 7,
-    "episode": 1,
+    "season": 31670000,
+    "episode": 525830999,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32113131~~2FEP059737540017,imi:03604fa91cb8f6adc825e1d61900ef4b1d8ce03f",
-      "episodeName": "Aflevering 1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F525830999,imi:c63759bdd6a7d76d616ce507b7a00baa979ce800",
+      "episodeName": null,
       "genres": [
-        "Sport",
-        "Sporttalkshow"
+        "Weer",
+        "Actua"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30890192~~2FSH059737540000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
     }
   },
   {
@@ -264,9 +264,9 @@
     }
   },
   {
-    "id": "vrtcanvas:1788285600000:1o85viz",
+    "id": "vrtcanvas:1788285600000:eiur5b",
     "channel": "vrtcanvas",
-    "title": "Terzake",
+    "title": "VRT NWS Terzake",
     "start": 1788285600000,
     "end": 1788287400000,
     "description": "Terzake gaat dieper in op de actualiteit. Met gasten en reportages die het nieuws bepalen aan de hand van scherpe, kritische en verhelderende interviews.",

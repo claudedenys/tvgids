@@ -230,7 +230,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1788445020000,
-    "end": 1788452400000,
+    "end": 1788451440000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -253,6 +253,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788451440000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1788451440000,
+    "end": 1788452400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:8a6ce97abb3cda7a9bf2c5d0a00361297dc4b5ea",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
