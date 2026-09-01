@@ -1,9 +1,9 @@
 [
   {
-    "id": "playsports4:1788392640000:xykime",
+    "id": "playsports4:1788393420000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1788392640000,
+    "start": 1788393420000,
     "end": 1788411600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -272,7 +272,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1788453840000,
-    "end": 1788462000000,
+    "end": 1788461940000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",
@@ -298,35 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1788462000000:48zb9",
-    "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1788462000000,
-    "end": 1788464940000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:38c200630226b8ef3e88d9021cee6cb77959ca8c",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1788464940000:12oeiq8",
+    "id": "playsports4:1788461940000:12oeiq8",
     "channel": "playsports4",
     "title": "Porsche Supercup",
-    "start": 1788464940000,
-    "end": 1788468240000,
+    "start": 1788461940000,
+    "end": 1788465240000,
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "category": [
       "Sport",
@@ -352,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1788468240000:133mms5",
+    "id": "playsports4:1788465240000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788468240000,
-    "end": 1788471720000,
+    "start": 1788465240000,
+    "end": 1788468780000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -382,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1788471720000:133mms5",
+    "id": "playsports4:1788468780000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1788471720000,
-    "end": 1788475260000,
+    "start": 1788468780000,
+    "end": 1788472320000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -402,6 +378,36 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33807316~~2FEP050375640301,imi:7d0559f1d98bff435b11dc304f773194b85a4521",
       "episodeName": "Nederland - MXGP: Race 1",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
+    }
+  },
+  {
+    "id": "playsports4:1788472320000:133mms5",
+    "channel": "playsports4",
+    "title": "FIM Motocross World Championship",
+    "start": 1788472320000,
+    "end": 1788475860000,
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33807335~~2FEP050375640302%2Cimi%3Ab081e5e7c2cbf659f2fa0e223d5eeca1f79cc730/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 75640000,
+    "episode": 2026082302,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33807335~~2FEP050375640302,imi:b081e5e7c2cbf659f2fa0e223d5eeca1f79cc730",
+      "episodeName": "Nederland - MX2: Race 2",
       "genres": [
         "Sport",
         "Motorracen"

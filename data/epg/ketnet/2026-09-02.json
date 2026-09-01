@@ -3034,35 +3034,41 @@
     }
   },
   {
-    "id": "ketnet:1788372000000:48zb9",
+    "id": "ketnet:1788372000000:1s7zpgh",
     "channel": "ketnet",
-    "title": "Geen uitzending",
+    "title": "Sporza: Voetbal Vrouwen",
     "start": 1788372000000,
-    "end": 1788372900000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "end": 1788378600000,
+    "description": "Verslag van de vriendschappelijke voetbalwedstrijden voor internationale vrouwenteams.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23914633~~2FSH058541650000~~2F542832505%2Cimi%3Ac30eba29c17965158417433902da1b242281e0a0/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 41650000,
+    "episode": 542832505,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e19a6beb5283d0638105965db38ba3d595ea8eee",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23914633~~2FSH058541650000~~2F542832505,imi:c30eba29c17965158417433902da1b242281e0a0",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23914633~~2FSH058541650000"
     }
   },
   {
-    "id": "ketnet:1788372900000:1ym5uq4",
+    "id": "ketnet:1788378600000:1ym5uq4",
     "channel": "ketnet",
     "title": "VRT NWS journaal met VGT",
-    "start": 1788372900000,
-    "end": 1788375600000,
+    "start": 1788378600000,
+    "end": 1788381300000,
     "description": "Nieuws en sport, getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
       "Actua"
@@ -3086,11 +3092,11 @@
     }
   },
   {
-    "id": "ketnet:1788375600000:od7lly",
+    "id": "ketnet:1788381300000:od7lly",
     "channel": "ketnet",
     "title": "Time: out",
-    "start": 1788375600000,
-    "end": 1788377100000,
+    "start": 1788381300000,
+    "end": 1788382800000,
     "description": "Ellis begrijpt niets van Brechts beslissing. Tarik kan het flirten niet laten, zelfs niet op het werk. Olivia en Rani snakken naar me-time. Fré krijgt minder goed nieuws.",
     "category": [
       "Entertainment"
@@ -3114,11 +3120,11 @@
     }
   },
   {
-    "id": "ketnet:1788377100000:48zb9",
+    "id": "ketnet:1788382800000:48zb9",
     "channel": "ketnet",
     "title": "Geen uitzending",
-    "start": 1788377100000,
-    "end": 1788405900000,
+    "start": 1788382800000,
+    "end": 1788408000000,
     "description": null,
     "category": [],
     "image": null,

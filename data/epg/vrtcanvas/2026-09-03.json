@@ -64,22 +64,22 @@
     "channel": "vrtcanvas",
     "title": "Zomerbeelden",
     "start": 1788418800000,
-    "end": 1788429600000,
+    "end": 1788426900000,
     "description": "Programma waarin rustige zomerse beelden langskomen.",
     "category": [
       "Entertainment",
       "Natuur"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033%2Cimi%3A4333b94d4849ea43cea6d0dd90c52afa9347a2a1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25371171~~2FEP032428740026%2Cimi%3Aef763e1272f1e3f4a7d9bd04bce3bf50d04f9933/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 4,
-    "episode": 36,
+    "episode": 27,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033,imi:4333b94d4849ea43cea6d0dd90c52afa9347a2a1",
-      "episodeName": "Aflevering 36",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25371171~~2FEP032428740026,imi:ef763e1272f1e3f4a7d9bd04bce3bf50d04f9933",
+      "episodeName": "Aflevering 27",
       "genres": [
         "Entertainment",
         "Natuur"
@@ -87,6 +87,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F49053e1e-ce44-41aa-9e3f-9c9cc61aefca"
+    }
+  },
+  {
+    "id": "vrtcanvas:1788426900000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1788426900000,
+    "end": 1788429600000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33891186~~2FEP029086300713%2Cimi%3A84e05cdd27c16876fbfa036a6ce49cd6a106934e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 73,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33891186~~2FEP029086300713,imi:84e05cdd27c16876fbfa036a6ce49cd6a106934e",
+      "episodeName": "Aflevering 73",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
     }
   },
   {
@@ -241,7 +271,7 @@
     "title": "VRT NWS Terzake",
     "start": 1788458400000,
     "end": 1788460200000,
-    "description": "Terzake gaat dieper in op de actualiteit. Met gasten en reportages die het nieuws bepalen aan de hand van scherpe, kritische en verhelderende interviews.",
+    "description": "De actualiteit aan de hand van kritische en verhelderende interviews. Achtergrond en duiding bij het nieuws van de dag.",
     "category": [
       "Actualiteitsmagazine",
       "Interview"

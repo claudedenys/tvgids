@@ -64,22 +64,22 @@
     "channel": "vrtcanvas",
     "title": "Zomerbeelden",
     "start": 1788332400000,
-    "end": 1788343200000,
+    "end": 1788340500000,
     "description": "Programma waarin rustige zomerse beelden langskomen.",
     "category": [
       "Entertainment",
       "Natuur"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033%2Cimi%3Ae3ad53957bf6e6469ac3cae47fd62c68a4f7eb21/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25371171~~2FEP032428740026%2Cimi%3A266e8c86f77bcc4ce80256e67c8f6bd09b307d03/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 4,
-    "episode": 36,
+    "episode": 27,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033,imi:e3ad53957bf6e6469ac3cae47fd62c68a4f7eb21",
-      "episodeName": "Aflevering 36",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25371171~~2FEP032428740026,imi:266e8c86f77bcc4ce80256e67c8f6bd09b307d03",
+      "episodeName": "Aflevering 27",
       "genres": [
         "Entertainment",
         "Natuur"
@@ -87,6 +87,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F49053e1e-ce44-41aa-9e3f-9c9cc61aefca"
+    }
+  },
+  {
+    "id": "vrtcanvas:1788340500000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1788340500000,
+    "end": 1788343200000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33891070~~2FEP029086300712%2Cimi%3A27da3bf30b3a29fc6ede01ac78515e27697731e6/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 72,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33891070~~2FEP029086300712,imi:27da3bf30b3a29fc6ede01ac78515e27697731e6",
+      "episodeName": "Aflevering 72",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
     }
   },
   {
@@ -152,7 +182,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 1: De Wereld Vandaag",
     "start": 1788357600000,
-    "end": 1788363900000,
+    "end": 1788363600000,
     "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
     "category": [
       "Actualiteitsmagazine"
@@ -176,11 +206,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1788363900000:375zh2",
+    "id": "vrtcanvas:1788363600000:375zh2",
     "channel": "vrtcanvas",
     "title": "2M2",
-    "start": 1788363900000,
-    "end": 1788369000000,
+    "start": 1788363600000,
+    "end": 1788368700000,
     "description": "In 2m² volgt Volkan Üce de evenwichtsoefening tussen religie en commercie van een Turkse begrafenisondernemer in België en zijn collega in Turkije. Elk overlijden roept de fundamentele vraag op na een leven tussen twee landen en twee culturen.",
     "category": [
       "Docu"
@@ -204,10 +234,10 @@
     }
   },
   {
-    "id": "vrtcanvas:1788369000000:1cpecb8",
+    "id": "vrtcanvas:1788368700000:1cpecb8",
     "channel": "vrtcanvas",
     "title": "Drugsdelta",
-    "start": 1788369000000,
+    "start": 1788368700000,
     "end": 1788372000000,
     "description": "Een leger aan jongeren en havenarbeiders uit de stadswijken wordt gerekruteerd voor de grootschalige drugshandel. Hoe kon de cocaïneaanvoer in de laatste jaren zo sterk groeien? Sinan Can onderzoekt de gevolgen in de Delta, het gebied rond de Nederlandse en Belgische zeehavens. Rudi Vranckx volgt in Colombia en Brazilië de nieuwste cocaïneroutes, waar het geweld nooit ver weg is.",
     "category": [
@@ -237,7 +267,7 @@
     "title": "VRT NWS Terzake",
     "start": 1788372000000,
     "end": 1788373800000,
-    "description": "Terzake gaat dieper in op de actualiteit. Met gasten en reportages die het nieuws bepalen aan de hand van scherpe, kritische en verhelderende interviews.",
+    "description": "De actualiteit aan de hand van kritische en verhelderende interviews. Achtergrond en duiding bij het nieuws van de dag.",
     "category": [
       "Actualiteitsmagazine",
       "Interview"

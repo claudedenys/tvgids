@@ -49,7 +49,7 @@
     "title": "Nieuwsuur",
     "start": 1788215100000,
     "end": 1788217800000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Deadline voor een begrotingsakkoord Coalitiepartijen D66, VVD en CDA hebben, na...",
     "category": [
       "Actueel"
     ],
@@ -74,7 +74,7 @@
     "title": "Nieuwsuur",
     "start": 1788217800000,
     "end": 1788238800000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Deadline voor een begrotingsakkoord Coalitiepartijen D66, VVD en CDA hebben, na...",
     "category": [
       "Actueel"
     ],
@@ -193,7 +193,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1788241200000,
-    "end": 1788241560000,
+    "end": 1788241620000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -214,10 +214,10 @@
     }
   },
   {
-    "id": "npo2:1788241560000:1qmbii9",
+    "id": "npo2:1788241620000:1qmbii9",
     "channel": "npo2",
     "title": "NOS Journaal",
-    "start": 1788241560000,
+    "start": 1788241620000,
     "end": 1788241800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -481,7 +481,7 @@
     "channel": "npo2",
     "title": "Expeditie Nederland",
     "start": 1788252000000,
-    "end": 1788254100000,
+    "end": 1788254400000,
     "description": "Samen koken brengt mensen bij elkaar.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/expeditie-nederland-760856482.jpg",
@@ -499,14 +499,14 @@
     }
   },
   {
-    "id": "npo2:1788254100000:14ri0ia",
+    "id": "npo2:1788254400000:14ri0ia",
     "channel": "npo2",
     "title": "BinnensteBuiten",
-    "start": 1788254100000,
+    "start": 1788254400000,
     "end": 1788256800000,
     "description": "Met in deze uitzending: * Jolie en Robbert voelen zich geluksvogels omdat zij een loft konden kopen in een oud...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/binnenstebuiten-760133572.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -616,7 +616,7 @@
     "title": "NOS Journaal",
     "start": 1788260400000,
     "end": 1788261600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Tennis: Griekspoor op US Open.....",
     "category": [
       "Actueel"
     ],
@@ -630,7 +630,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -640,7 +641,7 @@
     "title": "Radar",
     "start": 1788261600000,
     "end": 1788264300000,
-    "description": "Multimediaal consumentenplatform met Antoinette Hertsenberg en Fons Hendriks.",
+    "description": "Met in deze uitzending: * Makelaars maken huizen mooier dan ze zijn Een woning lijkt op een foto op Funda heel...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/radar-760856452.jpg",
     "icon": null,
@@ -683,7 +684,7 @@
     "channel": "npo2",
     "title": "Nu te zien!",
     "start": 1788267000000,
-    "end": 1788267300000,
+    "end": 1788267600000,
     "description": "Sietske van Zanten, directeur van het LAM museum, bekijkt in Antwerpen een groot overzicht van het werk van een van...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nu-te-zien-762695822.jpg",
@@ -701,11 +702,11 @@
     }
   },
   {
-    "id": "npo2:1788267300000:1ounzzk",
+    "id": "npo2:1788267600000:1ounzzk",
     "channel": "npo2",
     "title": "NPO Doc: Door de bomen",
-    "start": 1788267300000,
-    "end": 1788269100000,
+    "start": 1788267600000,
+    "end": 1788269400000,
     "description": "Tim zat vaak langdurig thuis omdat het op geen enkele school met hem wilde lukken.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/npo-doc-door-de-bomen-759862912.jpg",
@@ -723,10 +724,10 @@
     }
   },
   {
-    "id": "npo2:1788269100000:1n2e4sl",
+    "id": "npo2:1788269400000:1n2e4sl",
     "channel": "npo2",
     "title": "NPO Doc: Brandstof",
-    "start": 1788269100000,
+    "start": 1788269400000,
     "end": 1788271200000,
     "description": "Jongvolwassenen vertellen op intieme wijze hoe het is om in een vroeg levensstadium al compleet opgebrand te zijn.",
     "category": [],

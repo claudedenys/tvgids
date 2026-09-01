@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "How to Get Away With Murder",
     "start": 1788306300000,
-    "end": 1788309600000,
+    "end": 1788309000000,
     "description": "Na de wintervakantie gaat de school weer open en gonst het op de campus over de verdwijning van Sam. Terwijl Hannah onderzoek doet, richt Annalise zich op een slachtoffer van huiselijk geweld.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1788309600000:48zb9",
+    "id": "play5:1788309000000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1788309600000,
-    "end": 1788318000000,
+    "start": 1788309000000,
+    "end": 1788317760000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:22c9763ffdf30e87f3ba3d76cc2d4b4b494168c7",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1788317760000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1788317760000,
+    "end": 1788318000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b3fb4898ea27d195dedb1d00f0392a1d094d59c9",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
