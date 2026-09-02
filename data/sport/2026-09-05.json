@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1788564180000:xykime",
+    "id": "sport:playsports1:1788565260000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1788564180000,
+    "start": 1788565260000,
     "end": 1788583200000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -138,15 +138,38 @@
     ]
   },
   {
-    "id": "sport:playsports1:1788633900000:qjkkk5",
+    "id": "sport:playsports1:1788633900000:1fzlwrf",
+    "externalId": null,
+    "title": "Hot Quiz: Ipswich met Leroy Deltour en Frank Boeckx",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1788633900000,
+    "end": 1788634920000,
+    "status": "aankomend",
+    "description": "De mouwsponsor van Ipswich Town? De hot sauce van niemand minder dan Ed Sheeran. Aan de hand van 10 pittige vragen en 10 verschillende hot sauces leren Leroy Deltour en Frank Boeckx de Tractor Boys beter kennen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1788634920000:qjkkk5",
     "externalId": null,
     "title": "Rúben Dias",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788633900000,
-    "end": 1788635400000,
+    "start": 1788634920000,
+    "end": 1788636420000,
     "status": "aankomend",
     "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
     "source": "epg",
@@ -276,15 +299,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1788567420000:xykime",
+    "id": "sport:playsports3:1788567300000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1788567420000,
-    "end": 1788584400000,
+    "start": 1788567300000,
+    "end": 1788584280000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -310,6 +333,29 @@
     "end": 1788596700000,
     "status": "aankomend",
     "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1788596700000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1788596700000,
+    "end": 1788597600000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -391,14 +437,37 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788565800000:xykime",
+    "id": "sport:playsports3:1788629700000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1788629700000,
+    "end": 1788630900000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1788566160000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1788565800000,
+    "start": 1788566160000,
     "end": 1788584700000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -414,14 +483,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788599100000:qbgze4",
+    "id": "sport:playsports4:1788599040000:qbgze4",
     "externalId": null,
     "title": "Dag 10",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1788599100000,
+    "start": 1788599040000,
     "end": 1788603300000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
@@ -468,7 +537,7 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1788623100000,
-    "end": 1788623700000,
+    "end": 1788623820000,
     "status": "aankomend",
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "source": "epg",
@@ -483,15 +552,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788623700000:3y5tln",
+    "id": "sport:playsports4:1788623820000:3y5tln",
     "externalId": null,
     "title": "GP van Aragón: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1788623700000,
-    "end": 1788628080000,
+    "start": 1788623820000,
+    "end": 1788628140000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Aragón, gereden in Aragón, Spanje.",
     "source": "epg",
@@ -506,15 +575,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1788628080000:12oeiq8",
+    "id": "sport:playsports4:1788628140000:12oeiq8",
     "externalId": null,
     "title": "Zandvoort: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1788628080000,
-    "end": 1788631380000,
+    "start": 1788628140000,
+    "end": 1788631500000,
     "status": "aankomend",
     "description": "Vanaf het Circuit Zandvoort in Zandvoort, Nederland.",
     "source": "epg",
@@ -1058,15 +1127,15 @@
     ]
   },
   {
-    "id": "sport:match:1788635400000:ipswich town - liverpool",
+    "id": "sport:match:1788636420000:ipswich town - liverpool",
     "externalId": null,
     "title": "Ipswich Town - Liverpool",
     "home": "Ipswich Town",
     "away": "Liverpool",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788635400000,
-    "end": 1788636180000,
+    "start": 1788636420000,
+    "end": 1788637200000,
     "status": "aankomend",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
@@ -1081,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1788636180000:manchester united - ipswich town",
+    "id": "sport:match:1788637200000:manchester united - ipswich town",
     "externalId": null,
     "title": "Manchester United - Ipswich Town",
     "home": "Manchester United",
     "away": "Ipswich Town",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788636180000,
-    "end": 1788642600000,
+    "start": 1788637200000,
+    "end": 1788643620000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
@@ -1104,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1788642600000:hull city - manchester united",
+    "id": "sport:match:1788643620000:hull city - manchester united",
     "externalId": null,
     "title": "Hull City - Manchester United",
     "home": "Hull City",
     "away": "Manchester United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788642600000,
-    "end": 1788649200000,
+    "start": 1788643620000,
+    "end": 1788650100000,
     "status": "aankomend",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
@@ -1173,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1788561000000:feyenoord - ado den haag",
+    "id": "sport:match:1788560940000:feyenoord - ado den haag",
     "externalId": null,
     "title": "Feyenoord - ADO Den Haag",
     "home": "Feyenoord",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788561000000,
-    "end": 1788567420000,
+    "start": 1788560940000,
+    "end": 1788567300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1196,40 +1265,17 @@
     ]
   },
   {
-    "id": "sport:match:1788586800000:feyenoord - ado den haag",
+    "id": "sport:match:1788586500000:feyenoord - ado den haag",
     "externalId": null,
     "title": "Feyenoord - ADO Den Haag",
     "home": "Feyenoord",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1788586800000,
+    "start": 1788586500000,
     "end": 1788593100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1788596700000:aston villa - arsenal",
-    "externalId": null,
-    "title": "Aston Villa - Arsenal",
-    "home": "Aston Villa",
-    "away": "Arsenal",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1788596700000,
-    "end": 1788597600000,
-    "status": "aankomend",
-    "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1311,40 +1357,17 @@
     ]
   },
   {
-    "id": "sport:match:1788623400000:feyenoord - ado den haag",
+    "id": "sport:match:1788623400000:telstar - ajax",
     "externalId": null,
-    "title": "Feyenoord - ADO Den Haag",
-    "home": "Feyenoord",
-    "away": "ADO Den Haag",
+    "title": "Telstar - Ajax",
+    "home": "Telstar",
+    "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1788623400000,
-    "end": 1788630240000,
+    "end": 1788629700000,
     "status": "aankomend",
-    "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1788630240000:ipswich town - liverpool",
-    "externalId": null,
-    "title": "Ipswich Town - Liverpool",
-    "home": "Ipswich Town",
-    "away": "Liverpool",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1788630240000,
-    "end": 1788630900000,
-    "status": "aankomend",
-    "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
+    "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1434,7 +1457,7 @@
     "competition": null,
     "sport": null,
     "start": 1788584700000,
-    "end": 1788588300000,
+    "end": 1788588180000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1449,15 +1472,15 @@
     ]
   },
   {
-    "id": "sport:match:1788588300000:nederland - mxgp: race 1",
+    "id": "sport:match:1788588180000:nederland - mxgp: race 1",
     "externalId": null,
     "title": "Nederland - MXGP: Race 1",
     "home": "Nederland",
     "away": "MXGP: Race 1",
     "competition": null,
     "sport": null,
-    "start": 1788588300000,
-    "end": 1788591900000,
+    "start": 1788588180000,
+    "end": 1788591720000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1472,15 +1495,15 @@
     ]
   },
   {
-    "id": "sport:match:1788591900000:nederland - mx2: race 2",
+    "id": "sport:match:1788591720000:nederland - mx2: race 2",
     "externalId": null,
     "title": "Nederland - MX2: Race 2",
     "home": "Nederland",
     "away": "MX2: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1788591900000,
-    "end": 1788595500000,
+    "start": 1788591720000,
+    "end": 1788595320000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1495,15 +1518,15 @@
     ]
   },
   {
-    "id": "sport:match:1788595500000:nederland - mxgp: race 2",
+    "id": "sport:match:1788595320000:nederland - mxgp: race 2",
     "externalId": null,
     "title": "Nederland - MXGP: Race 2",
     "home": "Nederland",
     "away": "MXGP: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1788595500000,
-    "end": 1788599100000,
+    "start": 1788595320000,
+    "end": 1788599040000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1564,15 +1587,15 @@
     ]
   },
   {
-    "id": "sport:match:1788631380000:nederland - mx2: race 1",
+    "id": "sport:match:1788631500000:nederland - mx2: race 1",
     "externalId": null,
     "title": "Nederland - MX2: Race 1",
     "home": "Nederland",
     "away": "MX2: Race 1",
     "competition": null,
     "sport": null,
-    "start": 1788631380000,
-    "end": 1788634980000,
+    "start": 1788631500000,
+    "end": 1788635040000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1587,15 +1610,15 @@
     ]
   },
   {
-    "id": "sport:match:1788634980000:nederland - mxgp: race 1",
+    "id": "sport:match:1788635040000:nederland - mxgp: race 1",
     "externalId": null,
     "title": "Nederland - MXGP: Race 1",
     "home": "Nederland",
     "away": "MXGP: Race 1",
     "competition": null,
     "sport": null,
-    "start": 1788634980000,
-    "end": 1788638580000,
+    "start": 1788635040000,
+    "end": 1788638640000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1610,15 +1633,15 @@
     ]
   },
   {
-    "id": "sport:match:1788638580000:nederland - mx2: race 2",
+    "id": "sport:match:1788638640000:nederland - mx2: race 2",
     "externalId": null,
     "title": "Nederland - MX2: Race 2",
     "home": "Nederland",
     "away": "MX2: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1788638580000,
-    "end": 1788642180000,
+    "start": 1788638640000,
+    "end": 1788642240000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1633,15 +1656,15 @@
     ]
   },
   {
-    "id": "sport:match:1788642180000:nederland - mxgp: race 2",
+    "id": "sport:match:1788642240000:nederland - mxgp: race 2",
     "externalId": null,
     "title": "Nederland - MXGP: Race 2",
     "home": "Nederland",
     "away": "MXGP: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1788642180000,
-    "end": 1788645840000,
+    "start": 1788642240000,
+    "end": 1788645960000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",

@@ -1,9 +1,9 @@
 [
   {
-    "id": "veronica:1788467700000:vb7qxx",
+    "id": "veronica:1788467400000:vb7qxx",
     "channel": "veronica",
     "title": "Now You See Me",
-    "start": 1788467700000,
+    "start": 1788467400000,
     "end": 1788475500000,
     "description": "De illusionisten in Now You See Me gebruiken hun vaardigheden voor minder frisse doeleinden: ze 'toveren'...",
     "category": [],
@@ -66,11 +66,33 @@
     }
   },
   {
-    "id": "veronica:1788477900000:1k6yy12",
+    "id": "veronica:1788477900000:5qfq6c",
+    "channel": "veronica",
+    "title": "Veronica film",
+    "start": 1788477900000,
+    "end": 1788479400000,
+    "description": "Filmmagazine over alle films op Veronica.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/veronica-film-767036182.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "veronica:1788479400000:1k6yy12",
     "channel": "veronica",
     "title": "Hart van Nederland",
-    "start": 1788477900000,
-    "end": 1788479040000,
+    "start": 1788479400000,
+    "end": 1788480540000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"

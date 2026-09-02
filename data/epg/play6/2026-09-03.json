@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "Pawn Stars",
     "start": 1788393300000,
-    "end": 1788396600000,
+    "end": 1788396000000,
     "description": "Voor een 18e-eeuwse zeekaart van de legendarische Captain Cook onderzoekt Rick zijn kans. Chumlee hoopt een voorwerp te bemachtigen dat eens in Saturday Night Live werd gebruikt.",
     "category": [
       "Reality",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1788396600000:48zb9",
+    "id": "play6:1788396000000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1788396600000,
-    "end": 1788404400000,
+    "start": 1788396000000,
+    "end": 1788404100000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b7ee3ff25dfbd4f5c08b2d8ca809838cb03f1f70",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1788404100000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1788404100000,
+    "end": 1788404400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e59c2201b217bf34da7ceadd93b2a4ad9286ae94",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -171,20 +195,20 @@
     "title": "The Ark",
     "start": 1788418500000,
     "end": 1788422100000,
-    "description": "De bemanning ontdekt verontrustende geheimen over de missie van Ark One. Ondertussen dwingt een nieuw gevaar hen tot moeilijke keuzes om te kunnen overleven.",
+    "description": null,
     "category": [
       "Sciencefiction"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23839550~~2FEP065599110004%2Cimi%3Aaa321d027a15b0ca6e1dfff1c966eee882da31d4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24018420~~2FEP065599110013%2Cimi%3A06d483f64a05f1dc0d4701ac2836894f9a70e2f2/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 1,
-    "episode": 4,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23839550~~2FEP065599110004,imi:aa321d027a15b0ca6e1dfff1c966eee882da31d4",
-      "episodeName": "We Weren't Supposed to Be Awake",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24018420~~2FEP065599110013,imi:06d483f64a05f1dc0d4701ac2836894f9a70e2f2",
+      "episodeName": "Two by Two",
       "genres": [
         "Sciencefiction"
       ],

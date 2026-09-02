@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1788564180000:xykime",
+    "id": "playsports1:1788565260000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1788564180000,
+    "start": 1788565260000,
     "end": 1788583200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A4f1bec465ca27142c5e2bd49911eedf7bf50d8d5/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ada81efdf40c8c47167a934b5e1831f8bbe56ce0a/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +17,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:4f1bec465ca27142c5e2bd49911eedf7bf50d8d5",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:da81efdf40c8c47167a934b5e1831f8bbe56ce0a",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -358,11 +358,41 @@
     }
   },
   {
-    "id": "playsports1:1788633900000:qjkkk5",
+    "id": "playsports1:1788633900000:1fzlwrf",
+    "channel": "playsports1",
+    "title": "Hot Quiz: Ipswich met Leroy Deltour en Frank Boeckx",
+    "start": 1788633900000,
+    "end": 1788634920000,
+    "description": "De mouwsponsor van Ipswich Town? De hot sauce van niemand minder dan Ed Sheeran. Aan de hand van 10 pittige vragen en 10 verschillende hot sauces leren Leroy Deltour en Frank Boeckx de Tractor Boys beter kennen.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33970916~~2FSH065891390000~~2Fspecial%2Cimi%3A89b53f4669e771f400c350720ce85b99940b89fe/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33970916~~2FSH065891390000~~2Fspecial,imi:89b53f4669e771f400c350720ce85b99940b89fe",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1788634920000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1788633900000,
-    "end": 1788635400000,
+    "start": 1788634920000,
+    "end": 1788636420000,
     "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
     "category": [
       "Docu",
@@ -388,11 +418,11 @@
     }
   },
   {
-    "id": "playsports1:1788635400000:1prlzbg",
+    "id": "playsports1:1788636420000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788635400000,
-    "end": 1788636180000,
+    "start": 1788636420000,
+    "end": 1788637200000,
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "category": [
       "Sport",
@@ -418,11 +448,11 @@
     }
   },
   {
-    "id": "playsports1:1788636180000:1prlzbg",
+    "id": "playsports1:1788637200000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788636180000,
-    "end": 1788642600000,
+    "start": 1788637200000,
+    "end": 1788643620000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -448,11 +478,11 @@
     }
   },
   {
-    "id": "playsports1:1788642600000:1prlzbg",
+    "id": "playsports1:1788643620000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788642600000,
-    "end": 1788649200000,
+    "start": 1788643620000,
+    "end": 1788650100000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",

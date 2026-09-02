@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1788561000000:1va4v2m",
+    "id": "playsports3:1788560940000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1788561000000,
-    "end": 1788567420000,
+    "start": 1788560940000,
+    "end": 1788567300000,
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1788567420000:xykime",
+    "id": "playsports3:1788567300000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1788567420000,
-    "end": 1788584400000,
+    "start": 1788567300000,
+    "end": 1788584280000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1788584400000:48zb9",
+    "id": "playsports3:1788584280000:48zb9",
     "channel": "playsports3",
     "title": "Geen uitzending",
-    "start": 1788584400000,
-    "end": 1788586800000,
+    "start": 1788584280000,
+    "end": 1788586500000,
     "description": null,
     "category": [],
     "image": null,
@@ -82,10 +82,10 @@
     }
   },
   {
-    "id": "playsports3:1788586800000:1va4v2m",
+    "id": "playsports3:1788586500000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1788586800000,
+    "start": 1788586500000,
     "end": 1788593100000,
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -142,33 +142,33 @@
     }
   },
   {
-    "id": "playsports3:1788596700000:1prlzbg",
+    "id": "playsports3:1788596700000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1788596700000,
     "end": 1788597600000,
-    "description": "Vanuit het Villa Park in Birmingham, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33578697~~2FEP033946612445%2Cimi%3A95c76dc0b5aa21986380b44629837a8d10bd4a81/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F543688369%2Cimi%3A79b7ba67680e2e5c5f16c0f1e3b63eed4dd5842a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026083145,
+    "season": 50390000,
+    "episode": 543688369,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33578697~~2FEP033946612445,imi:95c76dc0b5aa21986380b44629837a8d10bd4a81",
-      "episodeName": "Aston Villa - Arsenal",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F543688369,imi:79b7ba67680e2e5c5f16c0f1e3b63eed4dd5842a",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -356,22 +356,22 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1788623400000,
-    "end": 1788630240000,
-    "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
+    "end": 1788629700000,
+    "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557670~~2FEP035850991974%2Cimi%3A06f45a1d011799c05dd806885b7849f8529530b1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557705~~2FEP035850991976%2Cimi%3Acaadeef47fecd27a0599f7bd5138a097c58f2694/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 50990000,
-    "episode": 2026083074,
+    "episode": 2026083076,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557670~~2FEP035850991974,imi:06f45a1d011799c05dd806885b7849f8529530b1",
-      "episodeName": "Feyenoord - ADO Den Haag",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557705~~2FEP035850991976,imi:caadeef47fecd27a0599f7bd5138a097c58f2694",
+      "episodeName": "Telstar - Ajax",
       "genres": [
         "Sport",
         "Voetbal"
@@ -382,33 +382,33 @@
     }
   },
   {
-    "id": "playsports3:1788630240000:1prlzbg",
+    "id": "playsports3:1788629700000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1788630240000,
+    "title": "Play Sports Highlights",
+    "start": 1788629700000,
     "end": 1788630900000,
-    "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33579107~~2FEP033946612446%2Cimi%3A5adcb757ad7f3276d3fd43a7f4b61c4ed3a37ff8/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F543688370%2Cimi%3A374712964a4f17ff0ac381da85281bd4fc153b40/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090446,
+    "season": 50390000,
+    "episode": 543688370,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33579107~~2FEP033946612446,imi:5adcb757ad7f3276d3fd43a7f4b61c4ed3a37ff8",
-      "episodeName": "Ipswich Town - Liverpool",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F543688370,imi:374712964a4f17ff0ac381da85281bd4fc153b40",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {

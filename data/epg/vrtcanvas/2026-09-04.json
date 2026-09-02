@@ -64,22 +64,22 @@
     "channel": "vrtcanvas",
     "title": "Zomerbeelden",
     "start": 1788505200000,
-    "end": 1788516000000,
+    "end": 1788513300000,
     "description": "Programma waarin rustige zomerse beelden langskomen.",
     "category": [
       "Entertainment",
       "Natuur"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033%2Cimi%3A63c5b894b5cb824da60f24928e16606aa1e4d1f6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25371171~~2FEP032428740026%2Cimi%3Ae5627bc3b693f20c3f63da9aada231ef35595ab7/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 4,
-    "episode": 36,
+    "episode": 27,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28182927~~2FEP032428740033,imi:63c5b894b5cb824da60f24928e16606aa1e4d1f6",
-      "episodeName": "Aflevering 36",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25371171~~2FEP032428740026,imi:e5627bc3b693f20c3f63da9aada231ef35595ab7",
+      "episodeName": "Aflevering 27",
       "genres": [
         "Entertainment",
         "Natuur"
@@ -87,6 +87,36 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F49053e1e-ce44-41aa-9e3f-9c9cc61aefca"
+    }
+  },
+  {
+    "id": "vrtcanvas:1788513300000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1788513300000,
+    "end": 1788516000000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33891213~~2FEP029086300714%2Cimi%3A45d26cab036d5ffaa6b2cab0fe146c890e80a454/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 74,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33891213~~2FEP029086300714,imi:45d26cab036d5ffaa6b2cab0fe146c890e80a454",
+      "episodeName": "Aflevering 74",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
     }
   },
   {
@@ -206,33 +236,33 @@
     }
   },
   {
-    "id": "vrtcanvas:1788535200000:1gx9q2v",
+    "id": "vrtcanvas:1788535200000:1xftmg9",
     "channel": "vrtcanvas",
-    "title": "Sporza: Basketbal",
+    "title": "Sporza: WK Basketbal Vrouwen 2026",
     "start": 1788535200000,
     "end": 1788542100000,
-    "description": "Verslag van basketbalwedstrijden.",
+    "description": "Verslag van de wedstrijd België - Turkije, gespeeld in de groepsfase van het WK basketbal vrouwen 2026.",
     "category": [
       "Sport",
       "Basketbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24805416~~2FSH047562790000~~2F533361375%2Cimi%3A88a9d9178cd1777407cea3d3bb942aa7b930a8f6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33839749~~2FEP065944630001%2Cimi%3A78ed31e3467dfcd9eb6a4615de7bbd1290901bba/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 62790000,
-    "episode": 533361375,
+    "season": 44630000,
+    "episode": 2026090401,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24805416~~2FSH047562790000~~2F533361375,imi:88a9d9178cd1777407cea3d3bb942aa7b930a8f6",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33839749~~2FEP065944630001,imi:78ed31e3467dfcd9eb6a4615de7bbd1290901bba",
+      "episodeName": "Groep C: België - Turkije",
       "genres": [
         "Sport",
         "Basketbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24805416~~2FSH047562790000"
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33580700~~2FSH065944630000"
     }
   },
   {
@@ -246,21 +276,21 @@
       "Sport",
       "Atletiek"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25519390~~2FSH048533550000~~2F533092235%2Cimi%3Adee2c5224a120846f965432eb7f96900dcb1a52d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33997089~~2FEP048533550005%2Cimi%3A1c6b937e37e720990d37440b80db4a0ce08cf5ca/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 33550000,
-    "episode": 533092235,
+    "episode": 2026090405,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F25519390~~2FSH048533550000~~2F533092235,imi:dee2c5224a120846f965432eb7f96900dcb1a52d",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33997089~~2FEP048533550005,imi:1c6b937e37e720990d37440b80db4a0ce08cf5ca",
       "episodeName": null,
       "genres": [
         "Sport",
         "Atletiek"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25519390~~2FSH048533550000"
     }

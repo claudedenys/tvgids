@@ -4,7 +4,7 @@
     "channel": "npo1",
     "title": "Eva",
     "start": 1788471600000,
-    "end": 1788474900000,
+    "end": 1788474600000,
     "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/eva-760523862.jpg",
@@ -22,10 +22,10 @@
     }
   },
   {
-    "id": "npo1:1788474900000:1qmbii9",
+    "id": "npo1:1788474600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1788474900000,
+    "start": 1788474600000,
     "end": 1788476400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1279,7 +1279,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "audiodescription"
+      ]
     }
   },
   {

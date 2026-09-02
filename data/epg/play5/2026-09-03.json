@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1788393300000:1vr1iur",
+    "id": "play5:1788393600000:1vr1iur",
     "channel": "play5",
     "title": "How to Get Away With Murder",
-    "start": 1788393300000,
-    "end": 1788396900000,
+    "start": 1788393600000,
+    "end": 1788396000000,
     "description": "Een vreselijke ontdekking in de zaak van Sam verandert alles voor Annalise en het team. De studenten bevinden zich ondertussen in een lastige zaak waarbij ook de maffia betrokken is.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1788396900000:48zb9",
+    "id": "play5:1788396000000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1788396900000,
-    "end": 1788404400000,
+    "start": 1788396000000,
+    "end": 1788404100000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6cf2206a8a32ef825332ea46bc3eff24700a68a1",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1788404100000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1788404100000,
+    "end": 1788404400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1c6b8899d4f075b76612bdffb9050edee891d8ed",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -639,7 +663,7 @@
     "title": "Doc",
     "start": 1788460500000,
     "end": 1788463800000,
-    "description": "Na een auto-ongeluk kan dr. Amy Larsen zich niks meer herinneren van de laatste acht jaar van haar leven. Met weinig herinneringen die ze nog heeft, bouwt ze stukje bij beetje haar leven weer op.",
+    "description": "Een patiënt dwingt Amy om de realiteit van medisch toerisme onder ogen te zien, TJ helpt een veteraan met zijn prothese en Joan doet een schokkende onthulling.",
     "category": [
       "Dramaserie",
       "Medisch"
