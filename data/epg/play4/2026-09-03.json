@@ -180,7 +180,7 @@
     "channel": "play4",
     "title": "Lang Leve de Liefde",
     "start": 1788427800000,
-    "end": 1788429300000,
+    "end": 1788429600000,
     "description": "Suzanne wordt positief verrast door Kasper. Wat zij ziet als een struikelblok is voor hem niet veel meer dan een hobbeltje. Miranda is gelukkig niet de enige in haar familie die super enthousiast is over Peter.",
     "category": [
       "Reality",
@@ -206,10 +206,10 @@
     }
   },
   {
-    "id": "play4:1788429300000:191p48k",
+    "id": "play4:1788429600000:191p48k",
     "channel": "play4",
     "title": "Huizenjagers",
-    "start": 1788429300000,
+    "start": 1788429600000,
     "end": 1788432300000,
     "description": "De twintigers Lindsey en Joni hebben een gigantische verlanglijst en een minder gigantisch budget. De villa die ze zoeken tussen Halle en Dilbeek moet beschikken over twee slaapkamers, een mooie tuin, een fitnessruimte, een inkomhal en een dressing.",
     "category": [
@@ -413,9 +413,9 @@
     "title": "Zeg Eens Euh",
     "start": 1788455400000,
     "end": 1788458400000,
-    "description": "4 bekende panelleden krijgen elk een thema waarover ze één minuut lang moeten praten. De uitdaging? Ze mogen een specifiek verbodswoord niet gebruiken en uiteraard het woord 'euh' niet laten vallen.",
+    "description": "Panelleden: Joris Brys, Zoë Voet, Julia Boschman en Ward Lemmelijn.",
     "category": [
-      "Entertainment"
+      "Spelprogramma"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33865967~~2FEP065647500007%2Cimi%3A1569e0276fb6889622604fa5770e3c5857ef011b/posterTile",
     "icon": null,
@@ -428,7 +428,7 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33865967~~2FEP065647500007,imi:1569e0276fb6889622604fa5770e3c5857ef011b",
       "episodeName": "Aflevering 7",
       "genres": [
-        "Entertainment"
+        "Spelprogramma"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
@@ -469,7 +469,7 @@
     "title": "Jade en de Belgen",
     "start": 1788462900000,
     "end": 1788465300000,
-    "description": "Jade Mintjens ontdekt hoe de Belg omgaat met artificiële intelligentie, datingapps en… Facebookcomments.",
+    "description": "Jade Mintjens ontdekt hoe de Belg omgaat met artificiële intelligentie, datingapps en Facebookcomments.",
     "category": [
       "Entertainment"
     ],
@@ -496,10 +496,10 @@
     "channel": "play4",
     "title": "Zeg Eens Euh",
     "start": 1788465300000,
-    "end": 1788468600000,
-    "description": "4 bekende panelleden krijgen elk een thema waarover ze één minuut lang moeten praten. De uitdaging? Ze mogen een specifiek verbodswoord niet gebruiken en uiteraard het woord 'euh' niet laten vallen.",
+    "end": 1788468300000,
+    "description": "Panelleden: Niels Albert, Erik Van Looy, William Boeva en Peter Van de Veire.",
     "category": [
-      "Entertainment"
+      "Spelprogramma"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33879647~~2FEP065647500008%2Cimi%3Ac4ac7196361b926841c4d51684f63f66815d34a7/posterTile",
     "icon": null,
@@ -512,7 +512,7 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33879647~~2FEP065647500008,imi:c4ac7196361b926841c4d51684f63f66815d34a7",
       "episodeName": "Aflevering 8",
       "genres": [
-        "Entertainment"
+        "Spelprogramma"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
@@ -520,11 +520,11 @@
     }
   },
   {
-    "id": "play4:1788468600000:1q5fp0s",
+    "id": "play4:1788468300000:1q5fp0s",
     "channel": "play4",
     "title": "Kijken en Kijken Kijken",
-    "start": 1788468600000,
-    "end": 1788472800000,
+    "start": 1788468300000,
+    "end": 1788472500000,
     "description": "Kruip mee in de zetel bij BV's voor een avond gevuld met de meest opmerkelijke televisiefragmenten uit de dertig jaar oude contentdoos van VT4, VIER en Play4.",
     "category": [
       "Entertainment"
@@ -545,6 +545,34 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31481366~~2FSH061124310000"
+    }
+  },
+  {
+    "id": "play4:1788472500000:ve7h1t",
+    "channel": "play4",
+    "title": "De Tafel van Gert",
+    "start": 1788472500000,
+    "end": 1788476700000,
+    "description": "Samen met een karrenvracht aan Tafelgasten en Tafelspringers werpt Gert Verhulst een kritische, scherpe, interessante en soms ook grappige blik op de actualiteit van de dag.",
+    "category": [
+      "Talkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33920867~~2FEP048627500370%2Cimi%3A3410c61e6b850f309fd146ffdad95ec8d605af1e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 9,
+    "episode": 8,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33920867~~2FEP048627500370,imi:3410c61e6b850f309fd146ffdad95ec8d605af1e",
+      "episodeName": "Aflevering 8",
+      "genres": [
+        "Talkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25584372~~2FSH048627500000"
     }
   }
 ]

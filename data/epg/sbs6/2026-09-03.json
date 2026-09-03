@@ -1,10 +1,10 @@
 [
   {
-    "id": "sbs6:1788386100000:1ddldj5",
+    "id": "sbs6:1788386280000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1788386100000,
-    "end": 1788389700000,
+    "start": 1788386280000,
+    "end": 1788389640000,
     "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-bondgenoten-759205622.jpg",
@@ -22,10 +22,10 @@
     }
   },
   {
-    "id": "sbs6:1788389700000:16r3jxd",
+    "id": "sbs6:1788389640000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1788389700000,
+    "start": 1788389640000,
     "end": 1788392400000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
@@ -48,7 +48,31 @@
     "channel": "sbs6",
     "title": "Hart van Nederland",
     "start": 1788392400000,
-    "end": 1788408000000,
+    "end": 1788408180000,
+    "description": "'Waar praat Nederland vandaag over?",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/hart-van-nederland-759589042.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "sbs6:1788408180000:1k6yy12",
+    "channel": "sbs6",
+    "title": "Hart van Nederland",
+    "start": 1788408180000,
+    "end": 1788409800000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -312,7 +336,7 @@
     "channel": "sbs6",
     "title": "Hart van Nederland",
     "start": 1788418800000,
-    "end": 1788419700000,
+    "end": 1788419640000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -332,11 +356,11 @@
     }
   },
   {
-    "id": "sbs6:1788419700000:1k6yy12",
+    "id": "sbs6:1788419640000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1788419700000,
-    "end": 1788420600000,
+    "start": 1788419640000,
+    "end": 1788420480000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -356,11 +380,11 @@
     }
   },
   {
-    "id": "sbs6:1788420600000:1k6yy12",
+    "id": "sbs6:1788420480000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1788420600000,
-    "end": 1788421500000,
+    "start": 1788420480000,
+    "end": 1788421380000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -380,11 +404,11 @@
     }
   },
   {
-    "id": "sbs6:1788421500000:1k6yy12",
+    "id": "sbs6:1788421380000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1788421500000,
-    "end": 1788422400000,
+    "start": 1788421380000,
+    "end": 1788422220000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -404,11 +428,11 @@
     }
   },
   {
-    "id": "sbs6:1788422400000:1k6yy12",
+    "id": "sbs6:1788422220000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1788422400000,
-    "end": 1788423300000,
+    "start": 1788422220000,
+    "end": 1788423120000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -428,11 +452,11 @@
     }
   },
   {
-    "id": "sbs6:1788423300000:1k6yy12",
+    "id": "sbs6:1788423120000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1788423300000,
-    "end": 1788424200000,
+    "start": 1788423120000,
+    "end": 1788423960000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -452,14 +476,14 @@
     }
   },
   {
-    "id": "sbs6:1788424200000:16r3jxd",
+    "id": "sbs6:1788423960000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1788424200000,
-    "end": 1788427200000,
+    "start": 1788423960000,
+    "end": 1788427080000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/shownieuws-759939342.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -474,12 +498,12 @@
     }
   },
   {
-    "id": "sbs6:1788427200000:1e1evyy",
+    "id": "sbs6:1788427080000:1e1evyy",
     "channel": "sbs6",
     "title": "Nieuws van de dag",
-    "start": 1788427200000,
-    "end": 1788430800000,
-    "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
+    "start": 1788427080000,
+    "end": 1788430560000,
+    "description": "Met in deze uitzending: * 'Overasselt legt drugsproblematiek in Nederland weer eens bloot' Na het extreme...",
     "category": [
       "Actueel"
     ],
@@ -499,11 +523,11 @@
     }
   },
   {
-    "id": "sbs6:1788430800000:1f7k9zu",
+    "id": "sbs6:1788430560000:1f7k9zu",
     "channel": "sbs6",
     "title": "Overtreders",
-    "start": 1788430800000,
-    "end": 1788432600000,
+    "start": 1788430560000,
+    "end": 1788432540000,
     "description": "Bij de RET in Rotterdam wordt een poortduwer betrapt, spreekt Rijkswaterstaat pleziervaarders aan op hun vaargedrag...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/overtreders-761829452.jpg",
@@ -521,11 +545,11 @@
     }
   },
   {
-    "id": "sbs6:1788432600000:1fry72r",
+    "id": "sbs6:1788432540000:1fry72r",
     "channel": "sbs6",
     "title": "De hygiënepolitie",
-    "start": 1788432600000,
-    "end": 1788436200000,
+    "start": 1788432540000,
+    "end": 1788435900000,
     "description": "Rob is in het Brabantse Veghel en bezoekt een all-you-can-eatrestaurant.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-hygienepolitie-760334362.jpg",
@@ -543,12 +567,12 @@
     }
   },
   {
-    "id": "sbs6:1788436200000:1ddldj5",
+    "id": "sbs6:1788435900000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1788436200000,
-    "end": 1788439500000,
-    "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
+    "start": 1788435900000,
+    "end": 1788439200000,
+    "description": "De finale van First and Last.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-bondgenoten-759205622.jpg",
     "icon": null,
@@ -565,11 +589,11 @@
     }
   },
   {
-    "id": "sbs6:1788439500000:1dlb7zb",
+    "id": "sbs6:1788439200000:1dlb7zb",
     "channel": "sbs6",
     "title": "De grote verbouwing Australië",
-    "start": 1788439500000,
-    "end": 1788442800000,
+    "start": 1788439200000,
+    "end": 1788442680000,
     "description": "Hoe transformeer je een klein vervallen arbeidershuisje, midden in een drukke wijk van Sydney, in een prachtig,...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-grote-verbouwing-australie-758812532.jpg",
@@ -587,10 +611,10 @@
     }
   },
   {
-    "id": "sbs6:1788442800000:4xdmkm",
+    "id": "sbs6:1788442680000:4xdmkm",
     "channel": "sbs6",
     "title": "Huizen onder de hamer",
-    "start": 1788442800000,
+    "start": 1788442680000,
     "end": 1788447000000,
     "description": "Martin krijgt gezelschap van 'Changing rooms'-legende Laurence Llewelyn-Bowen om een rijtjeshuis met drie slaapkamers...",
     "category": [],
@@ -613,7 +637,7 @@
     "channel": "sbs6",
     "title": "Droomhuis op het platteland",
     "start": 1788447000000,
-    "end": 1788450600000,
+    "end": 1788450540000,
     "description": "Jules Hudson helpt een stel dat zestien jaar in Australië heeft gewoond en nu terug wil verhuizen naar Blighty.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/escape-to-the-country-758841662.jpg",
@@ -631,10 +655,10 @@
     }
   },
   {
-    "id": "sbs6:1788450600000:1k6yy12",
+    "id": "sbs6:1788450540000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1788450600000,
+    "start": 1788450540000,
     "end": 1788451500000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
@@ -659,7 +683,7 @@
     "channel": "sbs6",
     "title": "Nieuws van de dag",
     "start": 1788451500000,
-    "end": 1788454800000,
+    "end": 1788454560000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -679,11 +703,11 @@
     }
   },
   {
-    "id": "sbs6:1788454800000:1f7k9zu",
+    "id": "sbs6:1788454560000:1f7k9zu",
     "channel": "sbs6",
     "title": "Overtreders",
-    "start": 1788454800000,
-    "end": 1788456600000,
+    "start": 1788454560000,
+    "end": 1788456540000,
     "description": "Een groeiende afvalberg op straat in Rotterdam, er wordt door het GVB afgegaan op een brandmelding en boswachters...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/overtreders-761829452.jpg",
@@ -698,12 +722,12 @@
     }
   },
   {
-    "id": "sbs6:1788456600000:1ddldj5",
+    "id": "sbs6:1788456540000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1788456600000,
-    "end": 1788460200000,
-    "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
+    "start": 1788456540000,
+    "end": 1788460020000,
+    "description": "Alle gevonden Eenden mogen worden ingewisseld, maar de vraag is natuurlijk waarvoor.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-bondgenoten-759205622.jpg",
     "icon": null,
@@ -717,11 +741,11 @@
     }
   },
   {
-    "id": "sbs6:1788460200000:gti2il",
+    "id": "sbs6:1788460020000:gti2il",
     "channel": "sbs6",
     "title": "Code van Coppens",
-    "start": 1788460200000,
-    "end": 1788464100000,
+    "start": 1788460020000,
+    "end": 1788464280000,
     "description": "Visagist Nikkie de Jager en haar manager Wes van Os moeten in Code van Coppens de Mona Lisa stelen en uit het Louvre...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/c/carrousel/code-van-coppens-763396542.jpg",
@@ -739,11 +763,11 @@
     }
   },
   {
-    "id": "sbs6:1788464100000:1rq69gz",
+    "id": "sbs6:1788464280000:1rq69gz",
     "channel": "sbs6",
     "title": "Vandaag inside",
-    "start": 1788464100000,
-    "end": 1788468000000,
+    "start": 1788464280000,
+    "end": 1788468180000,
     "description": "In 'Vandaag inside' geven Wilfred Genee, Johan Derksen en René van der Gijp hun kijk op het nieuws en de actualiteit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/vandaag-inside-756768302.jpg",
@@ -758,11 +782,11 @@
     }
   },
   {
-    "id": "sbs6:1788468000000:1k6yy12",
+    "id": "sbs6:1788468180000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1788468000000,
-    "end": 1788469200000,
+    "start": 1788468180000,
+    "end": 1788469320000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -782,11 +806,11 @@
     }
   },
   {
-    "id": "sbs6:1788469200000:16r3jxd",
+    "id": "sbs6:1788469320000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1788469200000,
-    "end": 1788472500000,
+    "start": 1788469320000,
+    "end": 1788472740000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/shownieuws-759939342.jpg",
@@ -801,12 +825,12 @@
     }
   },
   {
-    "id": "sbs6:1788472500000:1ddldj5",
+    "id": "sbs6:1788472740000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1788472500000,
+    "start": 1788472740000,
     "end": 1788476100000,
-    "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
+    "description": "Alle gevonden Eenden mogen worden ingewisseld, maar de vraag is natuurlijk waarvoor.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-bondgenoten-759205622.jpg",
     "icon": null,
