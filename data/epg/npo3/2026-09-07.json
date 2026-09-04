@@ -30,41 +30,11 @@
     }
   },
   {
-    "id": "npo3:1788740700000:ycmt2q",
-    "channel": "npo3",
-    "title": "NOS Studio Sport Voetbal",
-    "start": 1788740700000,
-    "end": 1788744300000,
-    "description": "Met uitgebreide samenvattingen van alle eredivisiewedstrijden. Inclusief doelpunten, hoogtepunten en analyses.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33855371~~2FEP059532490122%2Cimi%3A93d381bb4b7d8dffce5e68425fa40dbb6230403a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 85,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33855371~~2FEP059532490122,imi:93d381bb4b7d8dffce5e68425fa40dbb6230403a",
-      "episodeName": "Aflevering 85",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30814593~~2FSH059532490000"
-    }
-  },
-  {
-    "id": "npo3:1788744300000:1olmvr0",
+    "id": "npo3:1788740700000:1olmvr0",
     "channel": "npo3",
     "title": "NOS Jeugdjournaal met gebarentaal",
-    "start": 1788744300000,
-    "end": 1788753660000,
+    "start": 1788740700000,
+    "end": 1788750840000,
     "description": "Nieuwsprogramma voor de Nederlandse jeugd. Geschikt voor kinderen van negen tot twaalf. Met gebarentolk.",
     "category": [
       "Actua"
@@ -88,10 +58,38 @@
     }
   },
   {
-    "id": "npo3:1788753660000:lbnla8",
+    "id": "npo3:1788750840000:1szo1ev",
+    "channel": "npo3",
+    "title": "Tekst-TV",
+    "start": 1788750840000,
+    "end": 1788753600000,
+    "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000~~2F537875883%2Cimi%3A0c9430a746ce43701699ae80a388a4afec8ac341/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 22710000,
+    "episode": 537875883,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000~~2F537875883,imi:0c9430a746ce43701699ae80a388a4afec8ac341",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000"
+    }
+  },
+  {
+    "id": "npo3:1788753600000:lbnla8",
     "channel": "npo3",
     "title": "Timmy tijd",
-    "start": 1788753660000,
+    "start": 1788753600000,
     "end": 1788753900000,
     "description": "Iedereen in de crèche doet mee aan de sportdag. Timmy is vastbesloten om te winnen, maar nadat hij race na race de eerste prijs misloopt, beginnen zijn dromen om te winnen te haperen.",
     "category": [
@@ -332,7 +330,7 @@
     "channel": "npo3",
     "title": "Lucas de spin",
     "start": 1788757200000,
-    "end": 1788757740000,
+    "end": 1788757680000,
     "description": "Findley vindt dat Lucas niet erg ver of hoog kan springen. Lucas pikt dit niet en wil zich bewijzen door steeds hoger en verder te springen. Findley heeft spijt van zijn opmerking wanneer Lucas te veel risico neemt in zijn sprongen.",
     "category": [
       "Kids",
@@ -358,11 +356,11 @@
     }
   },
   {
-    "id": "npo3:1788757740000:1gurqa8",
+    "id": "npo3:1788757680000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1788757740000,
-    "end": 1788757980000,
+    "start": 1788757680000,
+    "end": 1788757920000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -388,10 +386,10 @@
     }
   },
   {
-    "id": "npo3:1788757980000:1gurqa8",
+    "id": "npo3:1788757920000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1788757980000,
+    "start": 1788757920000,
     "end": 1788758100000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
@@ -422,7 +420,7 @@
     "channel": "npo3",
     "title": "Billy de Cowboyhamster",
     "start": 1788758100000,
-    "end": 1788758760000,
+    "end": 1788758700000,
     "description": "Billy wil het nieuwste boek van Jessy Hond lezen en gaat met Pierke naar de bibliotheekwagen. Daar ontmoeten ze een nieuwe bibliothecaris, maar al snel blijkt dat het eigenlijk een verklede vos is.",
     "category": [
       "Kids",
@@ -448,10 +446,10 @@
     }
   },
   {
-    "id": "npo3:1788758760000:1gurqa8",
+    "id": "npo3:1788758700000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1788758760000,
+    "start": 1788758700000,
     "end": 1788759000000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
@@ -662,7 +660,7 @@
     "channel": "npo3",
     "title": "Masha en de Beer",
     "start": 1788761700000,
-    "end": 1788762300000,
+    "end": 1788762000000,
     "description": "Tijdens een vissessie vermaken Beer en Tijger zich met dammen, maar ze worden voortdurend gestoord door Masha en haar vrienden. Om hen bezig te houden, verzinnen de twee een gewaagde schattenjacht.",
     "category": [
       "Kids",
@@ -688,10 +686,10 @@
     }
   },
   {
-    "id": "npo3:1788762300000:p2k44",
+    "id": "npo3:1788762000000:p2k44",
     "channel": "npo3",
     "title": "Koekiemonsters eetkar",
-    "start": 1788762300000,
+    "start": 1788762000000,
     "end": 1788762600000,
     "description": "Koekiemonster en Gonger zoeken erwten om erwtensoep te maken.",
     "category": [
@@ -1022,7 +1020,7 @@
     "channel": "npo3",
     "title": "Nelli en Nora",
     "start": 1788768000000,
-    "end": 1788768600000,
+    "end": 1788768300000,
     "description": "Het is een warme zomerdag, het heeft al heel lang niet geregend. Vandaar dat er een zielig bloempje in de tuin staat, Nelli en Nora gaan op zoek naar water.",
     "category": [
       "Kids",
@@ -1048,10 +1046,10 @@
     }
   },
   {
-    "id": "npo3:1788768600000:47n34c",
+    "id": "npo3:1788768300000:47n34c",
     "channel": "npo3",
     "title": "Bumba",
-    "start": 1788768600000,
+    "start": 1788768300000,
     "end": 1788768900000,
     "description": "Vlaamse animatiereeks over de avonturen van circusclown Bumba en zijn vriendjes Bumbina, Bumbalu, Kiwi de vogel, Nanadu de berin en Tumbi de olifant. Samen verkennen ze op een grappige en educatieve manier de wereld waarin ze leven.",
     "category": [
@@ -1367,7 +1365,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33867949~~2FEP032985845305,imi:76fe35c57f903c5322315864cd3304b8212e935e",
-      "episodeName": "Compilatie:",
+      "episodeName": "Compilatie: Theater",
       "genres": [
         "Kids",
         "Avontuur"
@@ -1740,7 +1738,7 @@
     "channel": "npo3",
     "title": "Kindertijd",
     "start": 1788779700000,
-    "end": 1788780240000,
+    "end": 1788780300000,
     "description": "Een gevarieerd kleutermagazine op Zappelin en YouTube, met en voor kinderen.",
     "category": [
       "Kids",
@@ -1766,10 +1764,10 @@
     }
   },
   {
-    "id": "npo3:1788780240000:1gurqa8",
+    "id": "npo3:1788780300000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1788780240000,
+    "start": 1788780300000,
     "end": 1788780480000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
@@ -1830,7 +1828,7 @@
     "channel": "npo3",
     "title": "Pieter Konijn",
     "start": 1788780600000,
-    "end": 1788781200000,
+    "end": 1788781500000,
     "description": "De konijnen zijn omsingeld. Peter moet een ingenieuze ontsnappingsroute bedenken.",
     "category": [
       "Kids",
@@ -1856,10 +1854,10 @@
     }
   },
   {
-    "id": "npo3:1788781200000:23jw9d",
+    "id": "npo3:1788781500000:23jw9d",
     "channel": "npo3",
     "title": "Calimero",
-    "start": 1788781200000,
+    "start": 1788781500000,
     "end": 1788782100000,
     "description": "De kinderen van Kakeldam begraven een tijdcapsule voor de toekomst, maar Pieter krijgt spijt dat hij Beertje in de capsule heeft gestopt. En dan wordt de tijdcapsule ook nog gestolen.",
     "category": [
@@ -1980,7 +1978,7 @@
     "channel": "npo3",
     "title": "Interstellar Ella",
     "start": 1788783900000,
-    "end": 1788784500000,
+    "end": 1788784800000,
     "description": "Voordat ze meegaat op een jaarlijks uitstapje met haar familie wil Ella graag haar vrienden helpen. Als ze daardoor eigenlijk al te laat is om met haar familie mee te gaan, ontdekt ze de zwaartekrachtslinger. Komt ze met supersnelheid nog op tijd?",
     "category": [
       "Kids",
@@ -2006,10 +2004,10 @@
     }
   },
   {
-    "id": "npo3:1788784500000:1lxbkmm",
+    "id": "npo3:1788784800000:1lxbkmm",
     "channel": "npo3",
     "title": "Mike de Ridder",
-    "start": 1788784500000,
+    "start": 1788784800000,
     "end": 1788785400000,
     "description": "Mike wil niet dat Eva meegaat op jacht naar de schat van een tovenaar in een van de grotten. Maar als hij denkt dat ze gevangen is genomen door grotmonsters, verandert hij van gedachten en leert hij dat zelfs ridders soms hulp nodig hebben.",
     "category": [
@@ -2040,7 +2038,7 @@
     "channel": "npo3",
     "title": "Het betoverde dorp van Pinokkio",
     "start": 1788785400000,
-    "end": 1788786000000,
+    "end": 1788786300000,
     "description": "Floris traint iedereen voor het jaarlijkse Elven Festival. Pinokkio is echter niet zo goed, en wordt uit het team gezet. Hij verzint een list om toch mee te mogen doen.",
     "category": [
       "Kids",
@@ -2066,10 +2064,10 @@
     }
   },
   {
-    "id": "npo3:1788786000000:7jxi7b",
+    "id": "npo3:1788786300000:7jxi7b",
     "channel": "npo3",
     "title": "SamSam",
-    "start": 1788786000000,
+    "start": 1788786300000,
     "end": 1788786900000,
     "description": "SamSam bevriest iedereen om zich heen om meer tijd te hebben om leuke dingen te doen.",
     "category": [
@@ -2160,7 +2158,7 @@
     "channel": "npo3",
     "title": "De Smurfen",
     "start": 1788788100000,
-    "end": 1788788700000,
+    "end": 1788789000000,
     "description": "Grote Smurf gedraagt zich erg vreemd nadat een mus een gedaanteverwisselingspoeder heeft verspreid.",
     "category": [
       "Kids",
@@ -2186,10 +2184,10 @@
     }
   },
   {
-    "id": "npo3:1788788700000:t7ylqw",
+    "id": "npo3:1788789000000:t7ylqw",
     "channel": "npo3",
     "title": "Mojo Fliptop",
-    "start": 1788788700000,
+    "start": 1788789000000,
     "end": 1788789600000,
     "description": "Als Felix het varken een groeimiddel eet, verandert hij in een reuzenvarken. Aan Bo en Mojo de taak om dit probleem klein te krijgen.",
     "category": [
@@ -2580,7 +2578,7 @@
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33869075~~2FEP065711850001%2Cimi%3A83a8f08af2be857c726bb0002a2090b985700694/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
+    "season": 1,
     "episode": 1,
     "actors": [],
     "live": false,
@@ -2608,7 +2606,7 @@
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33789059~~2FEP065547400001%2Cimi%3A8ffc4ed68ca21b8dbc4d7ea2de584cb647791a7c/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
+    "season": 1,
     "episode": 1,
     "actors": [],
     "live": false,

@@ -332,7 +332,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1788624900000,
-    "end": 1788631260000,
+    "end": 1788633900000,
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "category": [
       "Sport",
@@ -358,35 +358,41 @@
     }
   },
   {
-    "id": "playsports1:1788631260000:48zb9",
+    "id": "playsports1:1788633900000:1dvjy1m",
     "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1788631260000,
-    "end": 1788633900000,
+    "title": "Meester Tacticus",
+    "start": 1788633900000,
+    "end": 1788634800000,
     "description": null,
-    "category": [],
-    "image": null,
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34022388~~2FEP065986550001%2Cimi%3A584cb9dd53310001ab27f8d7ca5d67d14530040d/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 86550000,
+    "episode": 2026090501,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a84da2dccb230e85b8aa637e920b06caf1166b9a",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34022388~~2FEP065986550001,imi:584cb9dd53310001ab27f8d7ca5d67d14530040d",
+      "episodeName": "De principes van Xabi Alonso",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34022384~~2FSH065986550000"
     }
   },
   {
-    "id": "playsports1:1788633900000:1fzlwrf",
+    "id": "playsports1:1788634800000:1fzlwrf",
     "channel": "playsports1",
     "title": "Hot Quiz: Ipswich met Leroy Deltour en Frank Boeckx",
-    "start": 1788633900000,
-    "end": 1788634980000,
+    "start": 1788634800000,
+    "end": 1788635880000,
     "description": "De mouwsponsor van Ipswich Town? De hot sauce van niemand minder dan Ed Sheeran. Aan de hand van 10 pittige vragen en 10 verschillende hot sauces leren Leroy Deltour en Frank Boeckx de Tractor Boys beter kennen.",
     "category": [
       "Sport",
@@ -412,17 +418,17 @@
     }
   },
   {
-    "id": "playsports1:1788634980000:qjkkk5",
+    "id": "playsports1:1788635880000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1788634980000,
-    "end": 1788636540000,
+    "start": 1788635880000,
+    "end": 1788637440000,
     "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
     "category": [
       "Docu",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311435~~2FEP043309820201%2Cimi%3Ad8eca20e5d686b4b785f6483be6b28ea2f1044de/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311435~~2FEP043309820201%2Cimi%3Aa0da392637077365c056a9853fe4681bf09fd694/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 5,
@@ -430,7 +436,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311435~~2FEP043309820201,imi:d8eca20e5d686b4b785f6483be6b28ea2f1044de",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311435~~2FEP043309820201,imi:a0da392637077365c056a9853fe4681bf09fd694",
       "episodeName": "Rúben Dias",
       "genres": [
         "Docu",
@@ -442,17 +448,17 @@
     }
   },
   {
-    "id": "playsports1:1788636540000:1prlzbg",
+    "id": "playsports1:1788637440000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788636540000,
-    "end": 1788637260000,
+    "start": 1788637440000,
+    "end": 1788638160000,
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33579107~~2FEP033946612446%2Cimi%3A0d17d347417dbb6448382b8d20a2bc1c37f73fd5/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33579107~~2FEP033946612446%2Cimi%3A5db3a5d7a0f27117932d1214ea1b67f4d9190294/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -460,7 +466,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33579107~~2FEP033946612446,imi:0d17d347417dbb6448382b8d20a2bc1c37f73fd5",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33579107~~2FEP033946612446,imi:5db3a5d7a0f27117932d1214ea1b67f4d9190294",
       "episodeName": "Ipswich Town - Liverpool",
       "genres": [
         "Sport",
@@ -472,17 +478,17 @@
     }
   },
   {
-    "id": "playsports1:1788637260000:1prlzbg",
+    "id": "playsports1:1788638160000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788637260000,
-    "end": 1788643740000,
+    "start": 1788638160000,
+    "end": 1788644640000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33578608~~2FEP033946612444%2Cimi%3A2d90078a46cc10dd65358587085eb589597ed4ff/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33578608~~2FEP033946612444%2Cimi%3Ab71439e78add24753c157a8ff1f4657161aaa8b4/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -490,7 +496,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33578608~~2FEP033946612444,imi:2d90078a46cc10dd65358587085eb589597ed4ff",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33578608~~2FEP033946612444,imi:b71439e78add24753c157a8ff1f4657161aaa8b4",
       "episodeName": "Manchester United - Ipswich Town",
       "genres": [
         "Sport",
@@ -502,17 +508,17 @@
     }
   },
   {
-    "id": "playsports1:1788643740000:1prlzbg",
+    "id": "playsports1:1788644640000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1788643740000,
-    "end": 1788650220000,
+    "start": 1788644640000,
+    "end": 1788651120000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427%2Cimi%3Abcd2763aa948023972fd3dbab739c5cad7b29351/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427%2Cimi%3A97471a55b28d8936ef0525aaca14c3f3513311b5/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -520,7 +526,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427,imi:bcd2763aa948023972fd3dbab739c5cad7b29351",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33577266~~2FEP033946612427,imi:97471a55b28d8936ef0525aaca14c3f3513311b5",
       "episodeName": "Hull City - Manchester United",
       "genres": [
         "Sport",

@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "Criminal Minds",
     "start": 1788652800000,
-    "end": 1788656100000,
+    "end": 1788655500000,
     "description": "Het team zit de Face Cards nog steeds op de hielen en ontdekken dat ze een grote kraak voorbereiden. Ze ontdekken dat Will waarschijnlijk nog leeft en wordt gegijzeld, dus ze moeten voorzichtig te werk gaan.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1788656100000:48zb9",
+    "id": "play5:1788655500000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1788656100000,
-    "end": 1788663600000,
+    "start": 1788655500000,
+    "end": 1788663360000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:64830efca3dd0030c9dc9d352c41249e76b4eb02",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1788663360000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1788663360000,
+    "end": 1788663600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2dbeca2179b3d18ff5683b836fefd0f62d1420f0",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

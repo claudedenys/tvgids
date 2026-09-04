@@ -4,7 +4,7 @@
     "channel": "playsports-golf",
     "title": "EPGA Legends Tour Hoogtepunten",
     "start": 1788480000000,
-    "end": 1788483600000,
+    "end": 1788481800000,
     "description": "Hoogtepunten van de Staysure PGA Seniors Championship, gespeeld in de European Legends Tour 2025.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports-golf:1788483600000:rnzpmx",
+    "id": "playsports-golf:1788481800000:rnzpmx",
     "channel": "playsports-golf",
     "title": "PGA Korn Ferry Tour Hoogtepunten",
-    "start": 1788483600000,
+    "start": 1788481800000,
     "end": 1788487200000,
     "description": "Hoogtepunten van de BMW Charity Pro-Am, gespeeld in de Korn Ferry Tour.",
     "category": [
@@ -64,7 +64,7 @@
     "channel": "playsports-golf",
     "title": "PGA Tour Hoogtepunten",
     "start": 1788487200000,
-    "end": 1788490800000,
+    "end": 1788489000000,
     "description": "Hoogtepunten van de Wyndham Championship, gespeeld op de Sedgefield Country Club in Greensboro, North Carolina.",
     "category": [
       "Sport",
@@ -90,11 +90,11 @@
     }
   },
   {
-    "id": "playsports-golf:1788490800000:1oidiqx",
+    "id": "playsports-golf:1788489000000:1oidiqx",
     "channel": "playsports-golf",
     "title": "PGA Champions Tour Hoogtepunten",
-    "start": 1788490800000,
-    "end": 1788494400000,
+    "start": 1788489000000,
+    "end": 1788492600000,
     "description": "Hoogtepunten van The Ally Challenge, gespeeld in de PGA Tour Champions.",
     "category": [
       "Sport",
@@ -120,17 +120,17 @@
     }
   },
   {
-    "id": "playsports-golf:1788494400000:v0dpte",
+    "id": "playsports-golf:1788492600000:v0dpte",
     "channel": "playsports-golf",
     "title": "LPGA European Tour Hoogtepunten",
-    "start": 1788494400000,
-    "end": 1788497940000,
+    "start": 1788492600000,
+    "end": 1788496200000,
     "description": "Hoogtepunten van de VP Bank Swiss Ladies Open, gespeeld in Zug, Zwitserland.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33727622~~2FEP050323180065%2Cimi%3Aefa77c36ccdb3576f745e8eb6ed48088eaacb97b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33727622~~2FEP050323180065%2Cimi%3A0c41f2a57ad4d025cefe05c8c11907b1114416d1/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -138,7 +138,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33727622~~2FEP050323180065,imi:efa77c36ccdb3576f745e8eb6ed48088eaacb97b",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33727622~~2FEP050323180065,imi:0c41f2a57ad4d025cefe05c8c11907b1114416d1",
       "episodeName": "VP Bank Swiss Ladies Open",
       "genres": [
         "Sport",
@@ -150,10 +150,40 @@
     }
   },
   {
-    "id": "playsports-golf:1788497940000:zzkb3f",
+    "id": "playsports-golf:1788496200000:lt7aff",
+    "channel": "playsports-golf",
+    "title": "DP World Tour Hoogtepunten",
+    "start": 1788496200000,
+    "end": 1788496500000,
+    "description": "In het beste van de DP World Golf tour van 2022 kijken we terug op de boze golfers tijdens de tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23892149~~2FEP049393090096%2Cimi%3Ab8fb089799931a314394692363fbd364875a8c63/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102023,
+    "episode": 2023012596,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23892149~~2FEP049393090096,imi:b8fb089799931a314394692363fbd364875a8c63",
+      "episodeName": "Boze golfers in de Tour van 2022",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
+    }
+  },
+  {
+    "id": "playsports-golf:1788496500000:zzkb3f",
     "channel": "playsports-golf",
     "title": "DP World Tour",
-    "start": 1788497940000,
+    "start": 1788496500000,
     "end": 1788508800000,
     "description": "Verslag van de eerste dag van de Omega European Masters, gespeeld in Crans-Montana, Zwitserland.",
     "category": [
@@ -334,7 +364,7 @@
     "channel": "playsports-golf",
     "title": "LPGA European Tour Hoogtepunten",
     "start": 1788543000000,
-    "end": 1788546600000,
+    "end": 1788544800000,
     "description": "Hoogtepunten van de KPMG Women's Irish Open, gespeeld op The K Club in Straffan, Ierland.",
     "category": [
       "Sport",
@@ -357,6 +387,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F12733886~~2FSH050323180000"
+    }
+  },
+  {
+    "id": "playsports-golf:1788544800000:kdsvv5",
+    "channel": "playsports-golf",
+    "title": "Worst Shots of 2023",
+    "start": 1788544800000,
+    "end": 1788546600000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28886708~~2FSH063750710000~~2Fspecial%2Cimi%3Addc59d77999be54393b5ba22ea6a86f268f3d02b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28886708~~2FSH063750710000~~2Fspecial,imi:ddc59d77999be54393b5ba22ea6a86f268f3d02b",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

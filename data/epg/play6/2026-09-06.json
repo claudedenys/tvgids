@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1788649200000:1sa6yen",
+    "id": "play6:1788649500000:1sa6yen",
     "channel": "play6",
     "title": "Godzilla: King of the Monsters",
-    "start": 1788649200000,
-    "end": 1788657600000,
+    "start": 1788649500000,
+    "end": 1788657000000,
     "description": "Leden van het crypto-zoölogische bureau Monarch nemen het op tegen een groep mythische monsters. Wanneer deze oude supersoorten herrijzen, strijden ze allemaal om de macht, waardoor het bestaan van de mensheid op het spel staat.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1788657600000:48zb9",
+    "id": "play6:1788657000000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1788657600000,
-    "end": 1788663600000,
+    "start": 1788657000000,
+    "end": 1788663000000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:311a39a5cbd756d8391ba1d9992831e1753b15c0",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1788663000000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1788663000000,
+    "end": 1788663600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:dfdadbd56fac3b1b52250699d433cea97928e32c",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

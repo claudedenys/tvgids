@@ -4,7 +4,7 @@
     "channel": "playsports-golf",
     "title": "EPGA Legends Tour Hoogtepunten",
     "start": 1788566400000,
-    "end": 1788570000000,
+    "end": 1788568200000,
     "description": "Hoogtepunten van de Q School, gespeeld in de European Legends Tour 2026.",
     "category": [
       "Sport",
@@ -30,33 +30,63 @@
     }
   },
   {
-    "id": "playsports-golf:1788570000000:rnzpmx",
+    "id": "playsports-golf:1788568200000:5jdleu",
     "channel": "playsports-golf",
-    "title": "PGA Korn Ferry Tour Hoogtepunten",
-    "start": 1788570000000,
-    "end": 1788573600000,
-    "description": "Hoogtepunten van de BMW Charity Pro-Am, gespeeld in de Korn Ferry Tour.",
+    "title": "PGA European Tour",
+    "start": 1788568200000,
+    "end": 1788570000000,
+    "description": "Best of the Hero Masterclasses geeft een fascinerend inzicht in de grootste sterren van de European Tour over recente jaren.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30292273~~2FEP036179500034%2Cimi%3A1d3d97a6b296dc898905b89d6589b6a47ec6e2ee/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20431280~~2FEP036193090013%2Cimi%3Aee0422b373d5af7ed7abfe390dcaa41878605f0d/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 79500000,
-    "episode": 2025061134,
+    "season": 102021,
+    "episode": 12,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30292273~~2FEP036179500034,imi:1d3d97a6b296dc898905b89d6589b6a47ec6e2ee",
-      "episodeName": "BMW Charity Pro-Am",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20431280~~2FEP036193090013,imi:ee0422b373d5af7ed7abfe390dcaa41878605f0d",
+      "episodeName": "Best of the Hero Masterclasses",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": "2025",
+      "productionDate": "2021",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179500000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F381448~~2FSH036193090000"
+    }
+  },
+  {
+    "id": "playsports-golf:1788570000000:1pugty4",
+    "channel": "playsports-golf",
+    "title": "Korn Ferry Tour Highlights",
+    "start": 1788570000000,
+    "end": 1788573600000,
+    "description": "Alle hoogtepunten van een toernooi gespeeld op de Korn Ferry Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33948029~~2FEP036179510044%2Cimi%3Aaf8e73e9a97510347f3a5fcf38a5578a2fda1d1a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026083044,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33948029~~2FEP036179510044,imi:af8e73e9a97510347f3a5fcf38a5578a2fda1d1a",
+      "episodeName": "AdventHealth Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179510000"
     }
   },
   {
@@ -124,7 +154,7 @@
     "channel": "playsports-golf",
     "title": "LPGA European Tour Hoogtepunten",
     "start": 1788580800000,
-    "end": 1788584340000,
+    "end": 1788582900000,
     "description": "Hoogtepunten van de KPMG Women's Irish Open, gespeeld op The K Club in Straffan, Ierland.",
     "category": [
       "Sport",
@@ -150,10 +180,10 @@
     }
   },
   {
-    "id": "playsports-golf:1788584340000:zzkb3f",
+    "id": "playsports-golf:1788582900000:zzkb3f",
     "channel": "playsports-golf",
     "title": "DP World Tour",
-    "start": 1788584340000,
+    "start": 1788582900000,
     "end": 1788595200000,
     "description": "Verslag van de tweede dag van de Omega European Masters, gespeeld in Crans-Montana, Zwitserland.",
     "category": [
@@ -180,33 +210,63 @@
     }
   },
   {
-    "id": "playsports-golf:1788595200000:u5yv5e",
+    "id": "playsports-golf:1788595200000:18uqtlf",
     "channel": "playsports-golf",
-    "title": "LPGA European Tour",
+    "title": "LPGA Tour Hoogtepunten",
     "start": 1788595200000,
-    "end": 1788602400000,
-    "description": "Verslag van de vierde en laatste dag van de KPMG Women's Irish Open, gespeeld in Straffan, Ierland.",
+    "end": 1788600600000,
+    "description": "Hoogtepunten van de FM Championship, gespeeld op de TPC Boston in Norton, Massachusetts.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33790249~~2FEP042378310296%2Cimi%3Ae7c300a062530cafac15bbdbbd4a2870c15dc895/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33996327~~2FEP042788330156%2Cimi%3Ac45ad812b8ff61e33b01d731d2e697f311ee7744/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 78310000,
-    "episode": 2026083096,
+    "season": 102026,
+    "episode": 2026090556,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33790249~~2FEP042378310296,imi:e7c300a062530cafac15bbdbbd4a2870c15dc895",
-      "episodeName": "KPMG Women's Irish Open: Dag 4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33996327~~2FEP042788330156,imi:c45ad812b8ff61e33b01d731d2e697f311ee7744",
+      "episodeName": "FM Championship",
       "genres": [
         "Sport",
         "Golf"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8177536~~2FSH042378310000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22040071~~2FSH042788330000"
+    }
+  },
+  {
+    "id": "playsports-golf:1788600600000:lt7aff",
+    "channel": "playsports-golf",
+    "title": "DP World Tour Hoogtepunten",
+    "start": 1788600600000,
+    "end": 1788602400000,
+    "description": "Hoogtepunten van de Husqvarna British Masters, gespeeld op The Belfry in Sutton Coldfield, Engeland.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837423~~2FEP049393090248%2Cimi%3A1d6346b0e792e3e41e946b8747eb0118eeab6256/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026090248,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837423~~2FEP049393090248,imi:1d6346b0e792e3e41e946b8747eb0118eeab6256",
+      "episodeName": "Husqvarna British Masters",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
     }
   },
   {

@@ -30,33 +30,33 @@
     }
   },
   {
-    "id": "playsports-golf:1788742800000:rnzpmx",
+    "id": "playsports-golf:1788742800000:1pugty4",
     "channel": "playsports-golf",
-    "title": "PGA Korn Ferry Tour Hoogtepunten",
+    "title": "Korn Ferry Tour Highlights",
     "start": 1788742800000,
     "end": 1788746400000,
-    "description": "Hoogtepunten van The Bahamas Great Abaco Classic, gespeeld in de Korn Ferry Tour.",
+    "description": "Alle hoogtepunten van een toernooi gespeeld op de Korn Ferry Tour.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29193053~~2FEP036179500032%2Cimi%3Af2f76eb83e4f637cb31c138ba3c972765be20037/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33948029~~2FEP036179510044%2Cimi%3Afaf12f075784135b8899bd0a1c7a55ab5fbd3d8e/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 79500000,
-    "episode": 2025012732,
+    "season": 102026,
+    "episode": 2026083044,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F29193053~~2FEP036179500032,imi:f2f76eb83e4f637cb31c138ba3c972765be20037",
-      "episodeName": "The Bahamas Great Abaco Classic",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33948029~~2FEP036179510044,imi:faf12f075784135b8899bd0a1c7a55ab5fbd3d8e",
+      "episodeName": "AdventHealth Championship",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": "2025",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179500000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179510000"
     }
   },
   {
@@ -124,7 +124,7 @@
     "channel": "playsports-golf",
     "title": "LPGA European Tour Hoogtepunten",
     "start": 1788753600000,
-    "end": 1788757140000,
+    "end": 1788755700000,
     "description": "Hoogtepunten van de KPMG Women's Irish Open, gespeeld op The K Club in Straffan, Ierland.",
     "category": [
       "Sport",
@@ -150,93 +150,33 @@
     }
   },
   {
-    "id": "playsports-golf:1788757140000:ykidjh",
+    "id": "playsports-golf:1788755700000:zzkb3f",
     "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788757140000,
-    "end": 1788760800000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410423%2Cimi%3A9363e1845ca1074f83cd830f0aa5c1b6010281b2/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410423,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410423,imi:9363e1845ca1074f83cd830f0aa5c1b6010281b2",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
-    }
-  },
-  {
-    "id": "playsports-golf:1788760800000:ykidjh",
-    "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788760800000,
-    "end": 1788764400000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410424%2Cimi%3A0b847f74671ca22aa2203a1901858e6b56241f8a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410424,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410424,imi:0b847f74671ca22aa2203a1901858e6b56241f8a",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
-    }
-  },
-  {
-    "id": "playsports-golf:1788764400000:ykidjh",
-    "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788764400000,
+    "title": "DP World Tour",
+    "start": 1788755700000,
     "end": 1788768000000,
-    "description": null,
+    "description": "Verslag van de vierde en laatste dag van de Omega European Masters, gespeeld in Crans-Montana, Zwitserland.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410425%2Cimi%3Aaee026ff0e3997b5b4e55180375c5c7b07fcf902/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31824616~~2FEP049392790466%2Cimi%3Ab5ebbe56e8279455b06da3bda47bac9888788a87/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410425,
+    "season": 92790000,
+    "episode": 2026090666,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410425,imi:aee026ff0e3997b5b4e55180375c5c7b07fcf902",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31824616~~2FEP049392790466,imi:b5ebbe56e8279455b06da3bda47bac9888788a87",
+      "episodeName": "Omega European Masters: Dag 4",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
     }
   },
   {
@@ -244,389 +184,239 @@
     "channel": "playsports-golf",
     "title": "Golf",
     "start": 1788768000000,
-    "end": 1788769800000,
-    "description": null,
+    "end": 1788778800000,
+    "description": "Verslag van de tweede dag van de 49ste Walker Cup, gespeeld in St Andrews, Schotland.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410426%2Cimi%3A6f272fd16723ab5937af3081ed70acff8008de3e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25366174~~2FEP033380470026%2Cimi%3Aa0df5738cb2501a56b4a05f68f59bff26ff6544d/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 80470000,
-    "episode": 536410426,
+    "episode": 2023090326,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410426,imi:6f272fd16723ab5937af3081ed70acff8008de3e",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25366174~~2FEP033380470026,imi:a0df5738cb2501a56b4a05f68f59bff26ff6544d",
+      "episodeName": "Walker Cup 2023: Dag 2",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2023",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
     }
   },
   {
-    "id": "playsports-golf:1788769800000:ykidjh",
+    "id": "playsports-golf:1788778800000:mkyqbr",
     "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788769800000,
-    "end": 1788775200000,
-    "description": null,
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1788778800000,
+    "end": 1788782400000,
+    "description": "Hoogtepunten van de TOUR Championship, gespeeld op de East Lake Golf Club in Atlanta, Georgia.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410427%2Cimi%3A3f99602914b996741334183ac839c9f2b7be2df6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837513~~2FEP055230080103%2Cimi%3A5ebf37f9e013a6ca39be9a986dd199e5e9736bd2/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410427,
+    "season": 102026,
+    "episode": 2026090203,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410427,imi:3f99602914b996741334183ac839c9f2b7be2df6",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837513~~2FEP055230080103,imi:5ebf37f9e013a6ca39be9a986dd199e5e9736bd2",
+      "episodeName": "TOUR Championship",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
     }
   },
   {
-    "id": "playsports-golf:1788775200000:ykidjh",
+    "id": "playsports-golf:1788782400000:1oidiqx",
     "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788775200000,
-    "end": 1788780600000,
-    "description": null,
+    "title": "PGA Champions Tour Hoogtepunten",
+    "start": 1788782400000,
+    "end": 1788786000000,
+    "description": "Hoogtepunten van The Ally Challenge, gespeeld in de PGA Tour Champions.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410428%2Cimi%3A733ff8f8a8369d4de20c10b91cd2bc43bdbbf54c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30874568~~2FEP036138130117%2Cimi%3Ad1c05c76ee5ad3f2dc19e3a349f902896d6dbf78/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410428,
+    "season": 102025,
+    "episode": 2025082717,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410428,imi:733ff8f8a8369d4de20c10b91cd2bc43bdbbf54c",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30874568~~2FEP036138130117,imi:d1c05c76ee5ad3f2dc19e3a349f902896d6dbf78",
+      "episodeName": "The Ally Challenge",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2025",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1dd41e22-12a3-4fcf-b680-4cc67156fcbf"
     }
   },
   {
-    "id": "playsports-golf:1788780600000:ykidjh",
+    "id": "playsports-golf:1788786000000:v0dpte",
     "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788780600000,
-    "end": 1788784200000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410429%2Cimi%3A4bc8c95c82608546add6a3d800491df54f0b7664/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410429,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410429,imi:4bc8c95c82608546add6a3d800491df54f0b7664",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
-    }
-  },
-  {
-    "id": "playsports-golf:1788784200000:ykidjh",
-    "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788784200000,
-    "end": 1788787800000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410430%2Cimi%3A34905e63e4ec7a80177eed0242dfdd1778213205/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410430,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410430,imi:34905e63e4ec7a80177eed0242dfdd1778213205",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
-    }
-  },
-  {
-    "id": "playsports-golf:1788787800000:ykidjh",
-    "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788787800000,
+    "title": "LPGA European Tour Hoogtepunten",
+    "start": 1788786000000,
     "end": 1788789600000,
-    "description": null,
+    "description": "Hoogtepunten van de KPMG Women's Irish Open, gespeeld op The K Club in Straffan, Ierland.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410431%2Cimi%3A16375a43451f67a3120a8a9e3c2b806cb007d7ec/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837446~~2FEP050323180066%2Cimi%3Afad3e6db5363cf66fa47a7414920513356ded934/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410431,
+    "season": 102026,
+    "episode": 2026090266,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410431,imi:16375a43451f67a3120a8a9e3c2b806cb007d7ec",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837446~~2FEP050323180066,imi:fad3e6db5363cf66fa47a7414920513356ded934",
+      "episodeName": "KPMG Women's Irish Open",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F12733886~~2FSH050323180000"
     }
   },
   {
-    "id": "playsports-golf:1788789600000:ykidjh",
+    "id": "playsports-golf:1788789600000:zzkb3f",
     "channel": "playsports-golf",
-    "title": "Golf",
+    "title": "DP World Tour",
     "start": 1788789600000,
-    "end": 1788795000000,
-    "description": null,
+    "end": 1788796800000,
+    "description": "Verslag van de vierde en laatste dag van de Omega European Masters, gespeeld in Crans-Montana, Zwitserland.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410432%2Cimi%3Acc8e412bf93fb72d190cd4e59daa164c4e7aa716/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31824616~~2FEP049392790466%2Cimi%3Ae9172079b01c08b53036e851420aa1bb3be676d4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410432,
+    "season": 92790000,
+    "episode": 2026090666,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410432,imi:cc8e412bf93fb72d190cd4e59daa164c4e7aa716",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31824616~~2FEP049392790466,imi:e9172079b01c08b53036e851420aa1bb3be676d4",
+      "episodeName": "Omega European Masters: Dag 4",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
     }
   },
   {
-    "id": "playsports-golf:1788795000000:ykidjh",
+    "id": "playsports-golf:1788796800000:ykidjh",
     "channel": "playsports-golf",
     "title": "Golf",
-    "start": 1788795000000,
-    "end": 1788804000000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410433%2Cimi%3Ac2eae342abbe945cfb2592635ea3e3352dbd5a5b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410433,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410433,imi:c2eae342abbe945cfb2592635ea3e3352dbd5a5b",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
-    }
-  },
-  {
-    "id": "playsports-golf:1788804000000:ykidjh",
-    "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788804000000,
+    "start": 1788796800000,
     "end": 1788807600000,
-    "description": null,
+    "description": "Verslag van de tweede dag van de 49ste Walker Cup, gespeeld in St Andrews, Schotland.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410434%2Cimi%3A94d7b35faeb20634f9c92256a9f3ca0acfba4dd2/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25366174~~2FEP033380470026%2Cimi%3A2d4c6aac64234e5ce3a2158b07944147878e5495/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 80470000,
-    "episode": 536410434,
+    "episode": 2023090326,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410434,imi:94d7b35faeb20634f9c92256a9f3ca0acfba4dd2",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25366174~~2FEP033380470026,imi:2d4c6aac64234e5ce3a2158b07944147878e5495",
+      "episodeName": "Walker Cup 2023: Dag 2",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2023",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
     }
   },
   {
-    "id": "playsports-golf:1788807600000:ykidjh",
+    "id": "playsports-golf:1788807600000:zzkb3f",
     "channel": "playsports-golf",
-    "title": "Golf",
+    "title": "DP World Tour",
     "start": 1788807600000,
-    "end": 1788811200000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410435%2Cimi%3Aab9f0ea79456c210af64e3823db5b69b7b31e4de/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410435,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410435,imi:ab9f0ea79456c210af64e3823db5b69b7b31e4de",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
-    }
-  },
-  {
-    "id": "playsports-golf:1788811200000:ykidjh",
-    "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788811200000,
-    "end": 1788813000000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410436%2Cimi%3A02b35526e9cfc2e961e33aabd0813339fffb6954/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410436,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410436,imi:02b35526e9cfc2e961e33aabd0813339fffb6954",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
-    }
-  },
-  {
-    "id": "playsports-golf:1788813000000:ykidjh",
-    "channel": "playsports-golf",
-    "title": "Golf",
-    "start": 1788813000000,
     "end": 1788814800000,
-    "description": null,
+    "description": "Verslag van de vierde en laatste dag van de Omega European Masters, gespeeld in Crans-Montana, Zwitserland.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410437%2Cimi%3Af40a03175b55bffb033a12b1c171096354bb10fa/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31824616~~2FEP049392790466%2Cimi%3A64d722bcb64df652a5e3e3e83c9d4c50ef4e7275/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410437,
+    "season": 92790000,
+    "episode": 2026090666,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410437,imi:f40a03175b55bffb033a12b1c171096354bb10fa",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31824616~~2FEP049392790466,imi:64d722bcb64df652a5e3e3e83c9d4c50ef4e7275",
+      "episodeName": "Omega European Masters: Dag 4",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
     }
   },
   {
-    "id": "playsports-golf:1788814800000:ykidjh",
+    "id": "playsports-golf:1788814800000:mkyqbr",
     "channel": "playsports-golf",
-    "title": "Golf",
+    "title": "PGA Tour Hoogtepunten",
     "start": 1788814800000,
     "end": 1788818400000,
-    "description": null,
+    "description": "Hoogtepunten van de TOUR Championship, gespeeld op de East Lake Golf Club in Atlanta, Georgia.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410438%2Cimi%3Abe177e93e004f6c817b7c50c2277bb47280c2cbc/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33837513~~2FEP055230080103%2Cimi%3A562a6e471375c83419e0ed07a5ead6e4e8f755ef/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80470000,
-    "episode": 536410438,
+    "season": 102026,
+    "episode": 2026090203,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9232187~~2FSH033380470000~~2F536410438,imi:be177e93e004f6c817b7c50c2277bb47280c2cbc",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33837513~~2FEP055230080103,imi:562a6e471375c83419e0ed07a5ead6e4e8f755ef",
+      "episodeName": "TOUR Championship",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fde4fb4b3-7ab3-43a2-af0a-70c63343506c"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
     }
   }
 ]

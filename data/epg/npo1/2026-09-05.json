@@ -126,7 +126,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1788567300000,
-    "end": 1788582300000,
+    "end": 1788585000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "npo1:1788582300000:1c293u9",
+    "id": "npo1:1788585000000:1c293u9",
     "channel": "npo1",
     "title": "Nederland in beweging",
-    "start": 1788582300000,
-    "end": 1788583500000,
+    "start": 1788585000000,
+    "end": 1788586200000,
     "description": "Beweeg mee met 'Nederland in beweging'.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nederland-in-beweging-761678422.jpg",
@@ -170,11 +170,11 @@
     }
   },
   {
-    "id": "npo1:1788583500000:8m1vr7",
+    "id": "npo1:1788586200000:8m1vr7",
     "channel": "npo1",
     "title": "Compilatie Tijd voor MAX",
-    "start": 1788583500000,
-    "end": 1788587400000,
+    "start": 1788586200000,
+    "end": 1788589800000,
     "description": "Compilatie van fragmenten van de afgelopen week.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-766664872.jpg",
@@ -189,11 +189,11 @@
     }
   },
   {
-    "id": "npo1:1788587400000:q2xm3k",
+    "id": "npo1:1788589800000:q2xm3k",
     "channel": "npo1",
     "title": "Close up",
-    "start": 1788587400000,
-    "end": 1788591000000,
+    "start": 1788589800000,
+    "end": 1788593400000,
     "description": "Het verhaal van de Japanse meester Katsushika Hokusai, maker van de beroemde prent 'De grote golf van Kanagawa'.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/c/carrousel/close-up-760904682.jpg",
@@ -211,11 +211,11 @@
     }
   },
   {
-    "id": "npo1:1788591000000:11khrbu",
+    "id": "npo1:1788593400000:11khrbu",
     "channel": "npo1",
     "title": "Nieuw Nederland",
-    "start": 1788591000000,
-    "end": 1788594000000,
+    "start": 1788593400000,
+    "end": 1788596700000,
     "description": "Presentator Kefah Allush stapt virtueel het jaar 2126 binnen om te ontdekken hoe Nederland er over honderd jaar uitziet.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nieuw-nederland-764081122.jpg",
@@ -233,14 +233,36 @@
     }
   },
   {
-    "id": "npo1:1788594000000:k6mw6d",
+    "id": "npo1:1788596700000:k6mw6d",
     "channel": "npo1",
     "title": "Een vergetelijk mooie reis",
-    "start": 1788594000000,
-    "end": 1788600000000,
+    "start": 1788596700000,
+    "end": 1788599400000,
     "description": "Paul de Leeuw reist mee met een groep bewoners van een woonzorgcentrum, hun families en zorgmedewerkers naar het...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-vergetelijk-mooie-reis-760904702.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1788599400000:ylsm7h",
+    "channel": "npo1",
+    "title": "Beestenboel",
+    "start": 1788599400000,
+    "end": 1788600000000,
+    "description": "Alles staat in het teken van gezondheid.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/beestenboel-768085882.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -259,7 +281,7 @@
     "channel": "npo1",
     "title": "Muziekfeest op het plein",
     "start": 1788600000000,
-    "end": 1788603600000,
+    "end": 1788603300000,
     "description": "Het muziekfeest is in Moergestel.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/muziekfeest-op-het-plein-758735412.jpg",
@@ -277,10 +299,10 @@
     }
   },
   {
-    "id": "npo1:1788603600000:1bmphks",
+    "id": "npo1:1788603300000:1bmphks",
     "channel": "npo1",
     "title": "Sterren NL top 25",
-    "start": 1788603600000,
+    "start": 1788603300000,
     "end": 1788606000000,
     "description": "Overzicht van de populairste Nederlandstalige hits.",
     "category": [],
@@ -639,7 +661,7 @@
     "channel": "npo1",
     "title": "Studio sport voetbal",
     "start": 1788640200000,
-    "end": 1788643500000,
+    "end": 1788643800000,
     "description": "De competitie is pas een paar weken onderweg en meteen wordt er al een topduel gespeeld: Ajax ontvangt PSV.",
     "category": [
       "Sport"
@@ -660,10 +682,10 @@
     }
   },
   {
-    "id": "npo1:1788643500000:1f18jbp",
+    "id": "npo1:1788643800000:1f18jbp",
     "channel": "npo1",
     "title": "Studio sport",
-    "start": 1788643500000,
+    "start": 1788643800000,
     "end": 1788645600000,
     "description": "Met livebeelden en samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
     "category": [

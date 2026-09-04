@@ -138,15 +138,38 @@
     ]
   },
   {
-    "id": "sport:playsports1:1788633900000:1fzlwrf",
+    "id": "sport:playsports1:1788633900000:1dvjy1m",
+    "externalId": null,
+    "title": "De principes van Xabi Alonso",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1788633900000,
+    "end": 1788634800000,
+    "status": "aankomend",
+    "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1788634800000:1fzlwrf",
     "externalId": null,
     "title": "Hot Quiz: Ipswich met Leroy Deltour en Frank Boeckx",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Voetbal",
-    "start": 1788633900000,
-    "end": 1788634980000,
+    "start": 1788634800000,
+    "end": 1788635880000,
     "status": "aankomend",
     "description": "De mouwsponsor van Ipswich Town? De hot sauce van niemand minder dan Ed Sheeran. Aan de hand van 10 pittige vragen en 10 verschillende hot sauces leren Leroy Deltour en Frank Boeckx de Tractor Boys beter kennen.",
     "source": "epg",
@@ -161,15 +184,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1788634980000:qjkkk5",
+    "id": "sport:playsports1:1788635880000:qjkkk5",
     "externalId": null,
     "title": "Rúben Dias",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788634980000,
-    "end": 1788636540000,
+    "start": 1788635880000,
+    "end": 1788637440000,
     "status": "aankomend",
     "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
     "source": "epg",
@@ -698,9 +721,55 @@
     "competition": null,
     "sport": "Golf",
     "start": 1788566400000,
-    "end": 1788570000000,
+    "end": 1788568200000,
     "status": "aankomend",
     "description": "Hoogtepunten van de Q School, gespeeld in de European Legends Tour 2026.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1788568200000:5jdleu",
+    "externalId": null,
+    "title": "Best of the Hero Masterclasses",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1788568200000,
+    "end": 1788570000000,
+    "status": "aankomend",
+    "description": "Best of the Hero Masterclasses geeft een fascinerend inzicht in de grootste sterren van de European Tour over recente jaren.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1788570000000:1pugty4",
+    "externalId": null,
+    "title": "AdventHealth Championship",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1788570000000,
+    "end": 1788573600000,
+    "status": "aankomend",
+    "description": "Alle hoogtepunten van een toernooi gespeeld op de Korn Ferry Tour.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -767,7 +836,7 @@
     "competition": null,
     "sport": "Golf",
     "start": 1788580800000,
-    "end": 1788584340000,
+    "end": 1788582900000,
     "status": "aankomend",
     "description": "Hoogtepunten van de KPMG Women's Irish Open, gespeeld op The K Club in Straffan, Ierland.",
     "source": "epg",
@@ -782,14 +851,14 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1788584340000:zzkb3f",
+    "id": "sport:playsports-golf:1788582900000:zzkb3f",
     "externalId": null,
     "title": "Omega European Masters: Dag 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1788584340000,
+    "start": 1788582900000,
     "end": 1788595200000,
     "status": "aankomend",
     "description": "Verslag van de tweede dag van de Omega European Masters, gespeeld in Crans-Montana, Zwitserland.",
@@ -805,17 +874,40 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1788595200000:u5yv5e",
+    "id": "sport:playsports-golf:1788595200000:18uqtlf",
     "externalId": null,
-    "title": "KPMG Women's Irish Open: Dag 4",
+    "title": "FM Championship",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
     "start": 1788595200000,
+    "end": 1788600600000,
+    "status": "aankomend",
+    "description": "Hoogtepunten van de FM Championship, gespeeld op de TPC Boston in Norton, Massachusetts.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1788600600000:lt7aff",
+    "externalId": null,
+    "title": "Husqvarna British Masters",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1788600600000,
     "end": 1788602400000,
     "status": "aankomend",
-    "description": "Verslag van de vierde en laatste dag van de KPMG Women's Irish Open, gespeeld in Straffan, Ierland.",
+    "description": "Hoogtepunten van de Husqvarna British Masters, gespeeld op The Belfry in Sutton Coldfield, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1112,7 +1204,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1788624900000,
-    "end": 1788631260000,
+    "end": 1788633900000,
     "status": "aankomend",
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "source": "epg",
@@ -1127,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1788636540000:ipswich town - liverpool",
+    "id": "sport:match:1788637440000:ipswich town - liverpool",
     "externalId": null,
     "title": "Ipswich Town - Liverpool",
     "home": "Ipswich Town",
     "away": "Liverpool",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788636540000,
-    "end": 1788637260000,
+    "start": 1788637440000,
+    "end": 1788638160000,
     "status": "aankomend",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
@@ -1150,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1788637260000:manchester united - ipswich town",
+    "id": "sport:match:1788638160000:manchester united - ipswich town",
     "externalId": null,
     "title": "Manchester United - Ipswich Town",
     "home": "Manchester United",
     "away": "Ipswich Town",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788637260000,
-    "end": 1788643740000,
+    "start": 1788638160000,
+    "end": 1788644640000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
@@ -1173,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1788643740000:hull city - manchester united",
+    "id": "sport:match:1788644640000:hull city - manchester united",
     "externalId": null,
     "title": "Hull City - Manchester United",
     "home": "Hull City",
     "away": "Manchester United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1788643740000,
-    "end": 1788650220000,
+    "start": 1788644640000,
+    "end": 1788651120000,
     "status": "aankomend",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
@@ -1676,29 +1768,6 @@
     ],
     "channelIds": [
       "playsports4"
-    ]
-  },
-  {
-    "id": "sport:match:1788570000000:bmw charity pro-am",
-    "externalId": null,
-    "title": "BMW Charity Pro-Am",
-    "home": "BMW Charity Pro",
-    "away": "Am",
-    "competition": null,
-    "sport": "Golf",
-    "start": 1788570000000,
-    "end": 1788573600000,
-    "status": "aankomend",
-    "description": "Hoogtepunten van de BMW Charity Pro-Am, gespeeld in de Korn Ferry Tour.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
     ]
   }
 ]

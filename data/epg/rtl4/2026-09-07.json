@@ -92,10 +92,10 @@
     }
   },
   {
-    "id": "rtl4:1788739800000:1avzef3",
+    "id": "rtl4:1788739200000:1avzef3",
     "channel": "rtl4",
     "title": "Teleshop 4: Tommy teleshopping",
-    "start": 1788739800000,
+    "start": 1788739200000,
     "end": 1788753600000,
     "description": "Homeshoppingprogramma.",
     "category": [],
@@ -1009,7 +1009,7 @@
     "title": "B&B vol liefde",
     "start": 1788805800000,
     "end": 1788811200000,
-    "description": "Alleenstaande eigenaren van een B&B in het buitenland gaan op zoek naar de liefde van hun leven.",
+    "description": "Het einde is in zicht voor de deelnemers en hun gasten; de slotweek van dit seizoen van B&B Vol Liefde gaat in.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/b-b-vol-liefde-761478802.jpg",
     "icon": null,
@@ -1019,7 +1019,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

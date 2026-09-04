@@ -236,7 +236,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1788755700000,
-    "end": 1788756300000,
+    "end": 1788756000000,
     "description": "Dropje heeft een meisje te logeren. Eerst vindt ze het eng, maar met al haar eigen spulletjes om zich heen is het eigenlijk best leuk.",
     "category": [
       "Kids",
@@ -262,11 +262,11 @@
     }
   },
   {
-    "id": "ketnet:1788756300000:out9ds",
+    "id": "ketnet:1788756000000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1788756300000,
-    "end": 1788756600000,
+    "start": 1788756000000,
+    "end": 1788756300000,
     "description": "Sarah zingt samen met haar vriendjes de leukste kinderliedjes, en iedereen doet mee.",
     "category": [
       "Kunstnijverheid"
@@ -290,11 +290,11 @@
     }
   },
   {
-    "id": "ketnet:1788756600000:ykedwl",
+    "id": "ketnet:1788756300000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1788756600000,
-    "end": 1788757200000,
+    "start": 1788756300000,
+    "end": 1788756900000,
     "description": "Bing en Sula ontdekken een nieuw stuk speelgoed in Amma's crèche: een pratende taxi waar je op kan rijden. Het lijkt heel leuk totdat Kwebbel Taxi de hele tijd dezelfde dingen zegt. Als de taxi een ongeluk krijgt en eindelijk stil is, gebruiken Bing en Sula hun fantasie om een spel te spelen dat ze wél leuk vinden, zonder dat de luidruchtige taxi zich ermee bemoeit.",
     "category": [
       "Kids",
@@ -320,11 +320,11 @@
     }
   },
   {
-    "id": "ketnet:1788757200000:1ysf81w",
+    "id": "ketnet:1788756900000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1788757200000,
-    "end": 1788757800000,
+    "start": 1788756900000,
+    "end": 1788757500000,
     "description": "Jackson neemt zijn blauwe kip Ludvig mee naar de jaarmarkt. Maar Ludvig laat zich niet zomaar vangen. Mojo en Bo zorgen dat de kip veilig en op tijd aankomt.",
     "category": [
       "Kids",
@@ -350,11 +350,11 @@
     }
   },
   {
-    "id": "ketnet:1788757800000:dvn84u",
+    "id": "ketnet:1788757500000:dvn84u",
     "channel": "ketnet",
     "title": "Sarah knutselt",
-    "start": 1788757800000,
-    "end": 1788758100000,
+    "start": 1788757500000,
+    "end": 1788757800000,
     "description": "Sarah knutselt samen met haar vriendjes de leukste knutselwerkjes.",
     "category": [
       "Kids",
@@ -380,11 +380,11 @@
     }
   },
   {
-    "id": "ketnet:1788758100000:ne1xug",
+    "id": "ketnet:1788757800000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1788758100000,
-    "end": 1788758700000,
+    "start": 1788757800000,
+    "end": 1788758400000,
     "description": "Briek wil op een piratenavontuur gaan dus de biggen bouwen hem een schip op wielen. Samen doorkruisen ze Prachtigbos op zoek naar een schat.",
     "category": [
       "Kids",
@@ -407,6 +407,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1788758400000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1788758400000,
+    "end": 1788758700000,
+    "description": "Samson en Marie zijn naar een tentoonstelling geweest in het dorp. Samson vond de schilderijen heel mooi en wil zelf ook graag een portret schilderen. Marie vindt dat geweldig. Ze wil heel graag poseren terwijl Samson aan de slag gaat.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19779419~~2FEP036193980100%2Cimi%3A7000424932fa85d0162d3e149a1cfb615558c7d7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 100,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19779419~~2FEP036193980100,imi:7000424932fa85d0162d3e149a1cfb615558c7d7",
+      "episodeName": "Het portret",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -560,31 +590,31 @@
     }
   },
   {
-    "id": "ketnet:1788762000000:1vvol5a",
+    "id": "ketnet:1788762000000:2msu2",
     "channel": "ketnet",
-    "title": "Wrappers met een W",
+    "title": "Wrapper met een W videoclip",
     "start": 1788762000000,
     "end": 1788762300000,
-    "description": "De Ketnet-wrappers zijn klaar voor hun eigen reality soap. Of lijkt dat maar zo? Hebben ze ook aan een passende muzikale begingeneriek gedacht?",
+    "description": "Videoclip voor de song 'Wrapper met een W 2026'.",
     "category": [
       "Kids"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33805656~~2FEP065580850002%2Cimi%3Af2153ce764436864bea056fd30c9f37f9840e990/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33957588~~2FEP065867470001%2Cimi%3Aac8797675bcf666132a4463e4cf9f4a69838adbc/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80850000,
-    "episode": 2026082802,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33805656~~2FEP065580850002,imi:f2153ce764436864bea056fd30c9f37f9840e990",
-      "episodeName": "De videoclip",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33957588~~2FEP065867470001,imi:ac8797675bcf666132a4463e4cf9f4a69838adbc",
+      "episodeName": "Wrapper met een W 2026",
       "genres": [
         "Kids"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33805652~~2FSH065580850000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33957580~~2FSH065867470000"
     }
   },
   {
@@ -1542,33 +1572,33 @@
     }
   },
   {
-    "id": "ketnet:1788775800000:ne8lx9",
+    "id": "ketnet:1788775800000:oyct5e",
     "channel": "ketnet",
-    "title": "Zig & Sharko",
+    "title": "Kleine dingen",
     "start": 1788775800000,
     "end": 1788776100000,
-    "description": "Een video van Sharko die zijn teen stoot veroorzaakt een buzz op sociale netwerken. Marina wil ook graag opvallen, maar ze maakt de ene na de andere flop.",
+    "description": "De Ukkepukkies zijn aan het tekenen, en hun verbeelding brengt de tekeningen tot leven.",
     "category": [
       "Kids",
-      "Animatie"
+      "Avontuur"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26746925~~2FEP035178410631%2Cimi%3A64397eec19c0cd9388834a3c43899862f2f1e33f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25030513~~2FEP046890380050%2Cimi%3Ab21f5b32583c4e14c9595601a8a537744ec8522b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 4,
-    "episode": 72,
+    "season": 2,
+    "episode": 8,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26746925~~2FEP035178410631,imi:64397eec19c0cd9388834a3c43899862f2f1e33f",
-      "episodeName": "Mega-Bernie",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25030513~~2FEP046890380050,imi:b21f5b32583c4e14c9595601a8a537744ec8522b",
+      "episodeName": "Tekenen",
       "genres": [
         "Kids",
-        "Animatie"
+        "Avontuur"
       ],
       "productionDate": "2023",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0281727c-5e2e-4d94-a427-57282cfaf93d"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F21137395~~2FSH046890380000"
     }
   },
   {
@@ -1722,31 +1752,31 @@
     }
   },
   {
-    "id": "ketnet:1788781200000:1vvol5a",
+    "id": "ketnet:1788781200000:2msu2",
     "channel": "ketnet",
-    "title": "Wrappers met een W",
+    "title": "Wrapper met een W videoclip",
     "start": 1788781200000,
     "end": 1788781500000,
-    "description": "De Ketnet-wrappers zijn klaar voor hun eigen reality soap. Of lijkt dat maar zo? Hebben ze ook aan een passende muzikale begingeneriek gedacht?",
+    "description": "Videoclip voor de song 'Wrapper met een W 2026'.",
     "category": [
       "Kids"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33805656~~2FEP065580850002%2Cimi%3Ac38a08577f848904bf7c7ab573d86381c42d8fc5/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33957588~~2FEP065867470001%2Cimi%3A7c163cd64082f0070eef6a66869d4210273a988a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80850000,
-    "episode": 2026082802,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33805656~~2FEP065580850002,imi:c38a08577f848904bf7c7ab573d86381c42d8fc5",
-      "episodeName": "De videoclip",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33957588~~2FEP065867470001,imi:7c163cd64082f0070eef6a66869d4210273a988a",
+      "episodeName": "Wrapper met een W 2026",
       "genres": [
         "Kids"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33805652~~2FSH065580850000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33957580~~2FSH065867470000"
     }
   },
   {
@@ -2532,7 +2562,7 @@
     "channel": "ketnet",
     "title": "Shaun het schaap",
     "start": 1788792300000,
-    "end": 1788792900000,
+    "end": 1788792600000,
     "description": "Shaun ontdekt dat de kudde onwillekeurig beweegt op het geluid van Bitzers fluitjes.",
     "category": [
       "Kids",
@@ -2555,6 +2585,34 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F66f483f1-005b-4c67-832d-a12c8dfb0fd3"
+    }
+  },
+  {
+    "id": "ketnet:1788792600000:2msu2",
+    "channel": "ketnet",
+    "title": "Wrapper met een W videoclip",
+    "start": 1788792600000,
+    "end": 1788792900000,
+    "description": "Videoclip voor de song 'Wrapper met een W 2026'.",
+    "category": [
+      "Kids"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33957588~~2FEP065867470001%2Cimi%3A612897fb616a08139703ca1457ab4131aafae145/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33957588~~2FEP065867470001,imi:612897fb616a08139703ca1457ab4131aafae145",
+      "episodeName": "Wrapper met een W 2026",
+      "genres": [
+        "Kids"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33957580~~2FSH065867470000"
     }
   },
   {
@@ -2648,31 +2706,31 @@
     }
   },
   {
-    "id": "ketnet:1788794400000:1vvol5a",
+    "id": "ketnet:1788794400000:2msu2",
     "channel": "ketnet",
-    "title": "Wrappers met een W",
+    "title": "Wrapper met een W videoclip",
     "start": 1788794400000,
     "end": 1788794700000,
-    "description": "De Ketnet-wrappers zijn klaar voor hun eigen reality soap. Of lijkt dat maar zo? Hebben ze ook aan een passende muzikale begingeneriek gedacht?",
+    "description": "Videoclip voor de song 'Wrapper met een W 2026'.",
     "category": [
       "Kids"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33805656~~2FEP065580850002%2Cimi%3Afc752ec5f9052598d78613f2526c40f91699d62d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33957588~~2FEP065867470001%2Cimi%3Ad291a559438ab7dae499f42e587a02d390032fe8/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 80850000,
-    "episode": 2026082802,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33805656~~2FEP065580850002,imi:fc752ec5f9052598d78613f2526c40f91699d62d",
-      "episodeName": "De videoclip",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33957588~~2FEP065867470001,imi:d291a559438ab7dae499f42e587a02d390032fe8",
+      "episodeName": "Wrapper met een W 2026",
       "genres": [
         "Kids"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33805652~~2FSH065580850000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33957580~~2FSH065867470000"
     }
   },
   {

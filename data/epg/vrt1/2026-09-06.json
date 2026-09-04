@@ -507,7 +507,7 @@
     "title": "Erediensten",
     "start": 1788681600000,
     "end": 1788685200000,
-    "description": "De eucharistieviering op de 23ste zondag door het jaarkomt vanuit de Onze-Lieve-Vrouwbasiliek in Scherpenheuvel. Het thema van de viering is: Fratelli tutti. Voorganger is pastoor Luc Van Hilst. Het parochiekoor o.l.v. Jef Beutels verzorgt de zang. Het orgel wordt bespeeld door Pierre Ramakers, organist-titularis van de basiliek.",
+    "description": "De eucharistieviering op de 23ste zondag door het jaar komt vanuit de Onze-Lieve-Vrouwbasiliek in Scherpenheuvel. Het thema van de viering is: Fratelli tutti. Voorganger is pastoor Luc Van Hilst. Het parochiekoor o.l.v. Jef Beutels verzorgt de zang. Het orgel wordt bespeeld door Pierre Ramakers, organist-titularis van de basiliek.",
     "category": [
       "Religie"
     ],
@@ -994,41 +994,39 @@
     }
   },
   {
-    "id": "vrt1:1788724500000:1snzthz",
+    "id": "vrt1:1788724500000:iamzvn",
     "channel": "vrt1",
-    "title": "Andermans zaken",
+    "title": "Kristel",
     "start": 1788724500000,
-    "end": 1788727800000,
-    "description": "Samy Depoorter en zijn ouders Jean-Pierre en Noëlla maken al 43 jaar zetels op maat in hun West-Vlaamse familiebedrijf. Een rijke geschiedenis met een mooi product, alleen de klanten blijven uit. De omzet- en winstcijfers liegen er dan ook niet om.",
+    "end": 1788727500000,
+    "description": "Drie vrouwen vertellen openhartig hoe verslaving hun leven ontwrichtte en hoe ze proberen terug te vechten. Zonder filter spreken ze over schaamte, schuld en angst. Over de momenten waarop ze de controle verloren, hoe de verslaving hun leven volledig overhoop haalde en hun kinderen raakte. Twee van hen staan nog maar aan het begin van hun herstel en gaan de strijd aan waar die het hardst is: in een verslavingskliniek. Over vallen en opnieuw opstaan. En moeder blijven als alles op het spel staat.",
     "category": [
-      "Business & Financiën",
-      "Reality"
+      "Docu"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21415930~~2FEP035885180008%2Cimi%3Aff98374c6777e520dd9ca241414ab4f2848a0d90/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33892140~~2FEP065750910001%2Cimi%3A2c58270c51c154a904bbca4e9014612a8233196b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 2,
+    "season": 1,
     "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F21415930~~2FEP035885180008,imi:ff98374c6777e520dd9ca241414ab4f2848a0d90",
-      "episodeName": "Zetelfabriek Depoorter",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33892140~~2FEP065750910001,imi:2c58270c51c154a904bbca4e9014612a8233196b",
+      "episodeName": "Verslaafd",
       "genres": [
-        "Business & Financiën",
-        "Reality"
+        "Docu"
       ],
-      "productionDate": "2022",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5ff78842-ab80-4226-88de-a9a03cf6201d"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33892134~~2FSH065750910000"
     }
   },
   {
-    "id": "vrt1:1788727800000:39vxy3",
+    "id": "vrt1:1788727500000:39vxy3",
     "channel": "vrt1",
     "title": "VRT NWS laat",
-    "start": 1788727800000,
-    "end": 1788728640000,
+    "start": 1788727500000,
+    "end": 1788728340000,
     "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
     "category": [
       "Actua"
@@ -1052,11 +1050,11 @@
     }
   },
   {
-    "id": "vrt1:1788728640000:ykl842",
+    "id": "vrt1:1788728340000:ykl842",
     "channel": "vrt1",
     "title": "Keno",
-    "start": 1788728640000,
-    "end": 1788728700000,
+    "start": 1788728340000,
+    "end": 1788728400000,
     "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
     "category": [
       "Spelprogramma",
@@ -1082,11 +1080,11 @@
     }
   },
   {
-    "id": "vrt1:1788728700000:behtd8",
+    "id": "vrt1:1788728400000:behtd8",
     "channel": "vrt1",
     "title": "Het weer (laat)",
-    "start": 1788728700000,
-    "end": 1788729000000,
+    "start": 1788728400000,
+    "end": 1788728700000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1110,11 +1108,11 @@
     }
   },
   {
-    "id": "vrt1:1788729000000:eqaa15",
+    "id": "vrt1:1788728700000:eqaa15",
     "channel": "vrt1",
     "title": "Sporza: Formule 1",
-    "start": 1788729000000,
-    "end": 1788730200000,
+    "start": 1788728700000,
+    "end": 1788729900000,
     "description": "Autosport highlights van de Grote Prijs Formule 1.",
     "category": [
       "Sport",
@@ -1140,11 +1138,11 @@
     }
   },
   {
-    "id": "vrt1:1788730200000:1t6g936",
+    "id": "vrt1:1788729900000:1t6g936",
     "channel": "vrt1",
     "title": "Sporza: rally",
-    "start": 1788730200000,
-    "end": 1788731100000,
+    "start": 1788729900000,
+    "end": 1788730800000,
     "description": "Een reeks omtrent autosport highlights.",
     "category": [
       "Sport",
@@ -1170,11 +1168,11 @@
     }
   },
   {
-    "id": "vrt1:1788731100000:xr30jv",
+    "id": "vrt1:1788730800000:xr30jv",
     "channel": "vrt1",
     "title": "Home sweet home: Vlamingen in Amerika",
-    "start": 1788731100000,
-    "end": 1788733800000,
+    "start": 1788730800000,
+    "end": 1788733500000,
     "description": "De Oost-Vlaamse Nenah en haar Amerikaanse vriend Brett zijn stormchasers: ze jagen op tornado's en maken daar zo straf mogelijke foto's van. Ze nodigen Karine uit bij hen thuis in Oklahoma, het hart van Tornado Alley, om samen op jacht te gaan.",
     "category": [
       "Entertainment"

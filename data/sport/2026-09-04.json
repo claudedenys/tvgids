@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1788476640000,
     "end": 1788499200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -32,7 +32,7 @@
     "sport": "Voetbal",
     "start": 1788511920000,
     "end": 1788515040000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
     "platforms": [
@@ -170,7 +170,7 @@
     "sport": null,
     "start": 1788472800000,
     "end": 1788494400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +193,7 @@
     "sport": null,
     "start": 1788494400000,
     "end": 1788516000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -308,7 +308,7 @@
     "sport": null,
     "start": 1788482220000,
     "end": 1788498000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -331,7 +331,7 @@
     "sport": null,
     "start": 1788480000000,
     "end": 1788486060000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Malina bewijst aan haar baas dat ze perfect is voor de horeca wanneer ze hem heerlijk verwent.",
     "source": "epg",
     "platforms": [
@@ -354,7 +354,7 @@
     "sport": null,
     "start": 1788486060000,
     "end": 1788498000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -377,7 +377,7 @@
     "sport": null,
     "start": 1788498000000,
     "end": 1788502260000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Aragón, gereden in Aragón, Spanje.",
     "source": "epg",
     "platforms": [
@@ -400,7 +400,7 @@
     "sport": "Tennis",
     "start": 1788502260000,
     "end": 1788513540000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -561,7 +561,7 @@
     "sport": null,
     "start": 1788472800000,
     "end": 1788494400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -584,7 +584,7 @@
     "sport": null,
     "start": 1788494400000,
     "end": 1788516000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -652,8 +652,8 @@
     "competition": null,
     "sport": "Golf",
     "start": 1788480000000,
-    "end": 1788483600000,
-    "status": "aankomend",
+    "end": 1788481800000,
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Staysure PGA Seniors Championship, gespeeld in de European Legends Tour 2025.",
     "source": "epg",
     "platforms": [
@@ -675,8 +675,8 @@
     "competition": null,
     "sport": "Golf",
     "start": 1788487200000,
-    "end": 1788490800000,
-    "status": "aankomend",
+    "end": 1788489000000,
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Wyndham Championship, gespeeld op de Sedgefield Country Club in Greensboro, North Carolina.",
     "source": "epg",
     "platforms": [
@@ -690,16 +690,16 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1788490800000:1oidiqx",
+    "id": "sport:playsports-golf:1788489000000:1oidiqx",
     "externalId": null,
     "title": "The Ally Challenge",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1788490800000,
-    "end": 1788494400000,
-    "status": "aankomend",
+    "start": 1788489000000,
+    "end": 1788492600000,
+    "status": "afgelopen",
     "description": "Hoogtepunten van The Ally Challenge, gespeeld in de PGA Tour Champions.",
     "source": "epg",
     "platforms": [
@@ -713,16 +713,16 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1788494400000:v0dpte",
+    "id": "sport:playsports-golf:1788492600000:v0dpte",
     "externalId": null,
     "title": "VP Bank Swiss Ladies Open",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1788494400000,
-    "end": 1788497940000,
-    "status": "aankomend",
+    "start": 1788492600000,
+    "end": 1788496200000,
+    "status": "afgelopen",
     "description": "Hoogtepunten van de VP Bank Swiss Ladies Open, gespeeld in Zug, Zwitserland.",
     "source": "epg",
     "platforms": [
@@ -736,16 +736,39 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1788497940000:zzkb3f",
+    "id": "sport:playsports-golf:1788496200000:lt7aff",
+    "externalId": null,
+    "title": "Boze golfers in de Tour van 2022",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1788496200000,
+    "end": 1788496500000,
+    "status": "afgelopen",
+    "description": "In het beste van de DP World Golf tour van 2022 kijken we terug op de boze golfers tijdens de tour.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1788496500000:zzkb3f",
     "externalId": null,
     "title": "Omega European Masters: Dag 1",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1788497940000,
+    "start": 1788496500000,
     "end": 1788508800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de Omega European Masters, gespeeld in Crans-Montana, Zwitserland.",
     "source": "epg",
     "platforms": [
@@ -768,7 +791,7 @@
     "sport": "Golf",
     "start": 1788508800000,
     "end": 1788519600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de PGA Tour.",
     "source": "epg",
     "platforms": [
@@ -882,9 +905,32 @@
     "competition": null,
     "sport": "Golf",
     "start": 1788543000000,
-    "end": 1788546600000,
+    "end": 1788544800000,
     "status": "aankomend",
     "description": "Hoogtepunten van de KPMG Women's Irish Open, gespeeld op The K Club in Straffan, Ierland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1788544800000:kdsvv5",
+    "externalId": null,
+    "title": "Worst Shots of 2023",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1788544800000,
+    "end": 1788546600000,
+    "status": "aankomend",
+    "description": null,
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -975,7 +1021,7 @@
     "sport": "Voetbal",
     "start": 1788499200000,
     "end": 1788505500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -998,7 +1044,7 @@
     "sport": "Voetbal",
     "start": 1788505500000,
     "end": 1788511920000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1251,7 @@
     "sport": "Voetbal",
     "start": 1788475800000,
     "end": 1788482220000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1274,7 @@
     "sport": "Voetbal",
     "start": 1788498000000,
     "end": 1788504300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd FC Utrecht - PSV uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1251,7 +1297,7 @@
     "sport": "Voetbal",
     "start": 1788504300000,
     "end": 1788510660000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1274,7 +1320,7 @@
     "sport": "Voetbal",
     "start": 1788510660000,
     "end": 1788516840000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1541,16 +1587,16 @@
     ]
   },
   {
-    "id": "sport:match:1788483600000:bmw charity pro-am",
+    "id": "sport:match:1788481800000:bmw charity pro-am",
     "externalId": null,
     "title": "BMW Charity Pro-Am",
     "home": "BMW Charity Pro",
     "away": "Am",
     "competition": null,
     "sport": "Golf",
-    "start": 1788483600000,
+    "start": 1788481800000,
     "end": 1788487200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de BMW Charity Pro-Am, gespeeld in de Korn Ferry Tour.",
     "source": "epg",
     "platforms": [

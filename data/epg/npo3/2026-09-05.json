@@ -1,10 +1,38 @@
 [
   {
-    "id": "npo3:1788566400000:1vlvivt",
+    "id": "npo3:1788563100000:1bruxs8",
+    "channel": "npo3",
+    "title": "De Grannies van Amsterdam",
+    "start": 1788563100000,
+    "end": 1788567300000,
+    "description": "De Grannies Good Life Guide blijkt een groter project dan gedacht, maar met hulp van een student journalistiek en vormgever krijgt het steeds meer vorm. Tijdens een minibreak in Limburg genieten de vriendinnen volop samen. Terug in Amsterdam is Joanita's nieuwe huis eindelijk klaar, maar verhuizen blijft ze uitstellen. Tot de anderen besluiten dat het tijd is voor een interventie.",
+    "category": [
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33839613~~2FEP060450080013%2Cimi%3Af31b79d671a90770f29f5ecd382aef3d3a1f821f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33839613~~2FEP060450080013,imi:f31b79d671a90770f29f5ecd382aef3d3a1f821f",
+      "episodeName": "Je kan er maar beter op tijd bij zijn",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31199757~~2FSH060450080000"
+    }
+  },
+  {
+    "id": "npo3:1788567300000:1vlvivt",
     "channel": "npo3",
     "title": "Reizen Waes: terug naar Oekraïne",
-    "start": 1788566400000,
-    "end": 1788569400000,
+    "start": 1788567300000,
+    "end": 1788570300000,
     "description": "Tom Waes reist vanuit Antwerpen tot in Kiev. Hij praat met Oekraïners over hoe zij de oorlog beleven en ontdekt welke impact deze op hen heeft.",
     "category": [
       "Miniserie",
@@ -30,41 +58,11 @@
     }
   },
   {
-    "id": "npo3:1788569400000:3ry3dj",
-    "channel": "npo3",
-    "title": "Sluipschutters",
-    "start": 1788569400000,
-    "end": 1788571200000,
-    "description": "Van autocircuit tot buurthuis, en van kerk tot slagerij. De Sluipschutters verplaatsen zich weer in een moordend tempo. Vlijmscherp, humoristisch sketchprogramma met de vier vrienden Ronald Goedemondt, Bas Hoeflaak, Leo Alkemade en Jochen Otten.",
-    "category": [
-      "Comedy",
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26720445~~2FEP021727170045%2Cimi%3A96dd4ed21f86553164f06f88780ea72900e04d89/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 6,
-    "episode": 8,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26720445~~2FEP021727170045,imi:96dd4ed21f86553164f06f88780ea72900e04d89",
-      "episodeName": "Aflevering 8",
-      "genres": [
-        "Comedy",
-        "Entertainment"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F444ddd29-aaa0-4203-8d4a-8718d5c7f583"
-    }
-  },
-  {
-    "id": "npo3:1788571200000:1olmvr0",
+    "id": "npo3:1788570300000:1olmvr0",
     "channel": "npo3",
     "title": "NOS Jeugdjournaal met gebarentaal",
-    "start": 1788571200000,
-    "end": 1788572400000,
+    "start": 1788570300000,
+    "end": 1788571860000,
     "description": "Nieuwsprogramma voor de Nederlandse jeugd. Geschikt voor kinderen van negen tot twaalf. Met gebarentolk.",
     "category": [
       "Actua"
@@ -88,11 +86,11 @@
     }
   },
   {
-    "id": "npo3:1788572400000:1szo1ev",
+    "id": "npo3:1788571860000:1szo1ev",
     "channel": "npo3",
     "title": "Tekst-TV",
-    "start": 1788572400000,
-    "end": 1788580380000,
+    "start": 1788571860000,
+    "end": 1788579360000,
     "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
     "category": [
       "Actua"
@@ -116,10 +114,10 @@
     }
   },
   {
-    "id": "npo3:1788580380000:1szo1ev",
+    "id": "npo3:1788579360000:1szo1ev",
     "channel": "npo3",
     "title": "Tekst-TV",
-    "start": 1788580380000,
+    "start": 1788579360000,
     "end": 1788580800000,
     "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
     "category": [
@@ -2078,7 +2076,7 @@
     "channel": "npo3",
     "title": "Gek van Geluk",
     "start": 1788638400000,
-    "end": 1788645000000,
+    "end": 1788644700000,
     "description": "Lena schrijft liedjes voor haar vriendin Valerie, maar de liedjes vallen de laatste tijd nogal tegen. Valerie vermoedt dat wat romantiek Lena weer aan het schrijven zal krijgen en koppelt haar aan de zelfingenomen Hugo.",
     "category": [
       "Film",
@@ -2104,10 +2102,10 @@
     }
   },
   {
-    "id": "npo3:1788645000000:acjsbc",
+    "id": "npo3:1788644700000:acjsbc",
     "channel": "npo3",
     "title": "Kasper van der Laan: Warm",
-    "start": 1788645000000,
+    "start": 1788644700000,
     "end": 1788650400000,
     "description": "Is het cool? Chill? Of hot? Nee, het is Warm, de absurde show van Kasper van der Laan. Genomineerd voor de Poelifinario, laat hij je de wereld nét wat vreemder en vrolijker beleven.",
     "category": [
