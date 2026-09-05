@@ -76,7 +76,7 @@
     "channel": "npo1",
     "title": "Pauw & De Wit",
     "start": 1788737400000,
-    "end": 1788740400000,
+    "end": 1788740100000,
     "description": "Talkshow over de actualiteit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/pauw-de-wit-761679512.jpg",
@@ -94,10 +94,10 @@
     }
   },
   {
-    "id": "npo1:1788740400000:1ebhvrh",
+    "id": "npo1:1788740100000:1ebhvrh",
     "channel": "npo1",
     "title": "NOS Journaal met gebarentaal",
-    "start": 1788740400000,
+    "start": 1788740100000,
     "end": 1788741300000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -726,7 +726,7 @@
     "end": 1788775200000,
     "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-766664872.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-768510622.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1038,7 +1038,7 @@
     "channel": "npo1",
     "title": "Pauw & De Wit",
     "start": 1788787200000,
-    "end": 1788790500000,
+    "end": 1788790200000,
     "description": "Talkshow over de actualiteit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/pauw-de-wit-761679512.jpg",
@@ -1056,10 +1056,10 @@
     }
   },
   {
-    "id": "npo1:1788790500000:3nn4st",
+    "id": "npo1:1788790200000:3nn4st",
     "channel": "npo1",
     "title": "Bloemencorso",
-    "start": 1788790500000,
+    "start": 1788790200000,
     "end": 1788793200000,
     "description": "Wie aan Sint Jansklooster denkt, denkt aan dahliareuzen.",
     "category": [],
@@ -1109,7 +1109,7 @@
     "end": 1788796560000,
     "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-766664872.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-768510622.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1125,10 +1125,10 @@
     "channel": "npo1",
     "title": "Politieke partijen",
     "start": 1788796560000,
-    "end": 1788796680000,
+    "end": 1788796620000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-761524412.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-768244132.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1136,18 +1136,21 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "npo1:1788796680000:12b58co",
+    "id": "npo1:1788796620000:12b58co",
     "channel": "npo1",
     "title": "Politieke partijen",
-    "start": 1788796680000,
+    "start": 1788796620000,
     "end": 1788796800000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-761524412.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-768244132.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1155,7 +1158,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
