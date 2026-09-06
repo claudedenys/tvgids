@@ -99,7 +99,7 @@
     "title": "EenVandaag",
     "start": 1788653400000,
     "end": 1788654900000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Het aantal burgerhulpverleners stagneert, terwijl ze doden door hartstilstand helpen...",
     "category": [
       "Actueel"
     ],
@@ -174,7 +174,7 @@
     "title": "NOS Journaal",
     "start": 1788656700000,
     "end": 1788667800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Inspectie statiegeld gedwarsboomd * Witkoff en Kushner geland in Moskou...",
     "category": [
       "Actueel"
     ],
@@ -310,11 +310,11 @@
     "title": "WNL op zondag",
     "start": 1788681600000,
     "end": 1788685500000,
-    "description": "Rechts georiënteerde ochtendshow.",
+    "description": "Rick Nieman is terug.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/w/carrousel/wnl-op-zondag-763547232.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -381,7 +381,7 @@
     "title": "Buitenhof",
     "start": 1788689400000,
     "end": 1788693000000,
-    "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
+    "description": "Met in deze uitzending: * Volgende week dreigt het doek te vallen voor omroep Ongehoord Nederland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/buitenhof-763547952.jpg",
     "icon": null,
@@ -519,7 +519,7 @@
     "title": "Studio sport",
     "start": 1788711000000,
     "end": 1788714000000,
-    "description": "Met livebeelden en samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Motocross: MXGP Turkije * Tennis: US Open *...",
     "category": [
       "Sport"
     ],
@@ -533,7 +533,8 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "sport",
+        "updated"
       ]
     }
   },

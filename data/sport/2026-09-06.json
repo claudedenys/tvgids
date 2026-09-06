@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1788651120000,
     "end": 1788671100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -31,6 +31,29 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1788696780000,
+    "end": 1788696840000,
+    "status": "aankomend",
+    "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1788696840000:qjkkk5",
+    "externalId": null,
+    "title": "Rúben Dias",
+    "home": null,
+    "away": null,
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1788696840000,
     "end": 1788698400000,
     "status": "aankomend",
     "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
@@ -54,6 +77,29 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1788698400000,
+    "end": 1788698460000,
+    "status": "aankomend",
+    "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1788698460000:1dvjy1m",
+    "externalId": null,
+    "title": "De principes van Xabi Alonso",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1788698460000,
     "end": 1788699300000,
     "status": "aankomend",
     "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
@@ -170,7 +216,7 @@
     "sport": null,
     "start": 1788645600000,
     "end": 1788667200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +239,7 @@
     "sport": null,
     "start": 1788667200000,
     "end": 1788688800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -262,7 +308,7 @@
     "sport": null,
     "start": 1788652200000,
     "end": 1788668580000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -285,7 +331,7 @@
     "sport": "Motorsport",
     "start": 1788675000000,
     "end": 1788678600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
     "source": "epg",
     "platforms": [
@@ -308,7 +354,7 @@
     "sport": null,
     "start": 1788678600000,
     "end": 1788680400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
@@ -331,7 +377,7 @@
     "sport": "Motorsport",
     "start": 1788680400000,
     "end": 1788684000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
     "source": "epg",
     "platforms": [
@@ -446,7 +492,7 @@
     "sport": null,
     "start": 1788652320000,
     "end": 1788670800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -469,7 +515,7 @@
     "sport": "Tennis",
     "start": 1788670800000,
     "end": 1788682080000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -492,7 +538,7 @@
     "sport": "Tennis",
     "start": 1788682080000,
     "end": 1788688800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -653,7 +699,7 @@
     "sport": null,
     "start": 1788645600000,
     "end": 1788667200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -676,7 +722,7 @@
     "sport": null,
     "start": 1788667200000,
     "end": 1788688800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -745,7 +791,7 @@
     "sport": "Golf",
     "start": 1788652800000,
     "end": 1788656400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Staysure PGA Seniors Championship, gespeeld in de European Legends Tour 2025.",
     "source": "epg",
     "platforms": [
@@ -768,7 +814,7 @@
     "sport": "Golf",
     "start": 1788656400000,
     "end": 1788660000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Utah Championship, gespeeld in de Korn Ferry Tour.",
     "source": "epg",
     "platforms": [
@@ -791,7 +837,7 @@
     "sport": "Golf",
     "start": 1788660000000,
     "end": 1788663600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Samenvatting van de vierde en laatste dag van The Players Championship 2026, gespeeld op de TPC Sawgrass Stadium Course in Ponte Vedra Beach, Florida.",
     "source": "epg",
     "platforms": [
@@ -814,7 +860,7 @@
     "sport": "Golf",
     "start": 1788663600000,
     "end": 1788667200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van The Ally Challenge, gespeeld in de PGA Tour Champions.",
     "source": "epg",
     "platforms": [
@@ -837,7 +883,7 @@
     "sport": "Golf",
     "start": 1788667200000,
     "end": 1788669300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de VP Bank Swiss Ladies Open, gespeeld in Zug, Zwitserland.",
     "source": "epg",
     "platforms": [
@@ -860,7 +906,7 @@
     "sport": "Golf",
     "start": 1788669300000,
     "end": 1788681600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de derde dag van de Omega European Masters, gespeeld in Crans-Montana, Zwitserland.",
     "source": "epg",
     "platforms": [
@@ -883,7 +929,7 @@
     "sport": "Golf",
     "start": 1788681600000,
     "end": 1788683400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van The Dormy Open, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
@@ -906,7 +952,7 @@
     "sport": "Golf",
     "start": 1788683400000,
     "end": 1788687000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Hoogtepunten van The Ally Challenge, gespeeld in de PGA Tour Champions.",
     "source": "epg",
     "platforms": [
@@ -1090,7 +1136,7 @@
     "sport": "Voetbal",
     "start": 1788671100000,
     "end": 1788677400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1112,9 +1158,32 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1788677400000,
-    "end": 1788683880000,
-    "status": "aankomend",
+    "end": 1788683820000,
+    "status": "afgelopen",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1788683820000:coventry city - hull city",
+    "externalId": null,
+    "title": "Coventry City - Hull City",
+    "home": "Coventry City",
+    "away": "Hull City",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1788683820000,
+    "end": 1788683880000,
+    "status": "afgelopen",
+    "description": "Vanuit de Coventry Building Society Arena in Coventry, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -1136,7 +1205,7 @@
     "sport": "Voetbal",
     "start": 1788683880000,
     "end": 1788690240000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit de Coventry Building Society Arena in Coventry, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1320,7 +1389,7 @@
     "sport": "Voetbal",
     "start": 1788668580000,
     "end": 1788675000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd FC Utrecht - PSV uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1343,7 +1412,7 @@
     "sport": "Voetbal",
     "start": 1788684000000,
     "end": 1788685200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "source": "epg",
     "platforms": [

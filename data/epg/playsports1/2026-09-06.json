@@ -62,7 +62,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1788677400000,
-    "end": 1788683880000,
+    "end": 1788683820000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",
@@ -78,6 +78,36 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33577980~~2FEP033946612437,imi:5cb6eb577546077f400e052797aacdf6226612e3",
       "episodeName": "Liverpool - Nottingham Forest",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1788683820000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1788683820000,
+    "end": 1788683880000,
+    "description": "Vanuit de Coventry Building Society Arena in Coventry, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33578027~~2FEP033946612438%2Cimi%3A3c2f762d6ecc165666a55f001e696b83f4a8a38f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026082938,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33578027~~2FEP033946612438,imi:3c2f762d6ecc165666a55f001e696b83f4a8a38f",
+      "episodeName": "Coventry City - Hull City",
       "genres": [
         "Sport",
         "Voetbal"
@@ -152,7 +182,7 @@
     "channel": "playsports1",
     "title": "Premier League Stories",
     "start": 1788696780000,
-    "end": 1788698400000,
+    "end": 1788696840000,
     "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
     "category": [
       "Docu",
@@ -178,11 +208,41 @@
     }
   },
   {
+    "id": "playsports1:1788696840000:qjkkk5",
+    "channel": "playsports1",
+    "title": "Premier League Stories",
+    "start": 1788696840000,
+    "end": 1788698400000,
+    "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311435~~2FEP043309820201%2Cimi%3A03dc8f9267994fc8c13cc3724ed01b0885cdc5a8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311435~~2FEP043309820201,imi:03dc8f9267994fc8c13cc3724ed01b0885cdc5a8",
+      "episodeName": "Rúben Dias",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
     "id": "playsports1:1788698400000:1dvjy1m",
     "channel": "playsports1",
     "title": "Meester Tacticus",
     "start": 1788698400000,
-    "end": 1788699300000,
+    "end": 1788698460000,
     "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
     "category": [
       "Sport",
@@ -197,6 +257,36 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34022388~~2FEP065986550001,imi:ad30349e98919f56fcab968c76e488e6625c0a1a",
+      "episodeName": "De principes van Xabi Alonso",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34022384~~2FSH065986550000"
+    }
+  },
+  {
+    "id": "playsports1:1788698460000:1dvjy1m",
+    "channel": "playsports1",
+    "title": "Meester Tacticus",
+    "start": 1788698460000,
+    "end": 1788699300000,
+    "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34022388~~2FEP065986550001%2Cimi%3A56794c033a7d4523f5eb1313bd42d77bc0b34f01/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 86550000,
+    "episode": 2026090501,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34022388~~2FEP065986550001,imi:56794c033a7d4523f5eb1313bd42d77bc0b34f01",
       "episodeName": "De principes van Xabi Alonso",
       "genres": [
         "Sport",

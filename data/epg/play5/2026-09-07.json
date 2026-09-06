@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1788739800000,
-    "end": 1788750000000,
+    "end": 1788749880000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +54,35 @@
     }
   },
   {
+    "id": "play5:1788749880000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1788749880000,
+    "end": 1788750000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b34a2bcbf9a61b85345424f3d59a6af32122b9b6",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play5:1788750000000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1788750000000,
-    "end": 1788752700000,
+    "end": 1788753600000,
     "description": null,
     "category": [],
     "image": null,
@@ -78,17 +102,17 @@
     }
   },
   {
-    "id": "play5:1788752700000:hxtisv",
+    "id": "play5:1788753600000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1788752700000,
-    "end": 1788755100000,
+    "start": 1788753600000,
+    "end": 1788756300000,
     "description": "Na het drama in Joe's Bar en de daaropvolgende reddingsoperatie onder leiding van de brandweerlieden van Station 19, werken de artsen van Grey Sloan de hele nacht door om het leven van hun collega's te redden. Bailey heeft het moeilijk.",
     "category": [
       "Dramaserie",
       "Medisch"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17443180~~2FEP027786290295%2Cimi%3A77ab376e0cfd62459b6d900b32f0bc891c105341/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17443180~~2FEP027786290295%2Cimi%3A69cf042bd187ad9515957b72cddad9e37af6af18/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 16,
@@ -96,7 +120,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F17443180~~2FEP027786290295,imi:77ab376e0cfd62459b6d900b32f0bc891c105341",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17443180~~2FEP027786290295,imi:69cf042bd187ad9515957b72cddad9e37af6af18",
       "episodeName": "Help Me Through the Night",
       "genres": [
         "Dramaserie",
@@ -108,11 +132,11 @@
     }
   },
   {
-    "id": "play5:1788755100000:l0nfps",
+    "id": "play5:1788756300000:l0nfps",
     "channel": "play5",
     "title": "Good American Family",
-    "start": 1788755100000,
-    "end": 1788758100000,
+    "start": 1788756300000,
+    "end": 1788759000000,
     "description": "Kristine doet onderzoek naar de leeftijd van Natalia. Terwijl ze steeds meer vermoedens krijgt, wordt Jacob populairder en worden Michaels leugens steeds ingewikkelder.",
     "category": [
       "Dramaserie",
@@ -138,11 +162,11 @@
     }
   },
   {
-    "id": "play5:1788758100000:l0nfps",
+    "id": "play5:1788759000000:l0nfps",
     "channel": "play5",
     "title": "Good American Family",
-    "start": 1788758100000,
-    "end": 1788761400000,
+    "start": 1788759000000,
+    "end": 1788762000000,
     "description": "Wanneer hun meningsverschillen over Natalia een wig drijven tussen Michael en Kristine, dreigt hun huwelijk uiteen te vallen. Wanneer de situatie gevaarlijk wordt, trekt Kristine een grens.",
     "category": [
       "Misdaaddrama",
@@ -168,11 +192,11 @@
     }
   },
   {
-    "id": "play5:1788761400000:48zb9",
+    "id": "play5:1788762000000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1788761400000,
-    "end": 1788763200000,
+    "start": 1788762000000,
+    "end": 1788763800000,
     "description": null,
     "category": [],
     "image": null,
@@ -192,11 +216,11 @@
     }
   },
   {
-    "id": "play5:1788763200000:1w8dao1",
+    "id": "play5:1788763800000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1788763200000,
-    "end": 1788766500000,
+    "start": 1788763800000,
+    "end": 1788766800000,
     "description": "Het onderzoek naar de schokkende dood van de museumcurator van het Natural History Museum in New York neemt een bizarre wending. Het personeel van het museum denkt dat zijn dood verbonden is met een aantal oude ruïnes.",
     "category": [
       "Misdaaddrama",
@@ -222,11 +246,11 @@
     }
   },
   {
-    "id": "play5:1788766500000:1w8dao1",
+    "id": "play5:1788766800000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1788766500000,
-    "end": 1788769500000,
+    "start": 1788766800000,
+    "end": 1788769800000,
     "description": "Presentator Bobby Mann komt op mysterieuze wijze te overlijden. Castle, die hem een aantal dagen voor zijn dood ontmoette op een boekpresentatie, vertrouwt de zaak niet helemaal.",
     "category": [
       "Misdaaddrama",
@@ -252,11 +276,11 @@
     }
   },
   {
-    "id": "play5:1788769500000:br4tdi",
+    "id": "play5:1788769800000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1788769500000,
-    "end": 1788772800000,
+    "start": 1788769800000,
+    "end": 1788773100000,
     "description": "Jubal roept de hulp in van Jess en het Most Wanted-team bij het opsporen van een undercover DEA-agent, die vies en moorddadig lijkt te zijn geworden tijdens een grote drugsringoperatie.",
     "category": [
       "Misdaaddrama",
@@ -282,10 +306,10 @@
     }
   },
   {
-    "id": "play5:1788772800000:br4tdi",
+    "id": "play5:1788773100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1788772800000,
+    "start": 1788773100000,
     "end": 1788776100000,
     "description": "Een lokale FBI-zaak over twee vermoorde vrouwen en een zee van machtige mannen verandert in een klopjacht op de gevaarlijke leider van een verregaande criminele onderneming.",
     "category": [
@@ -556,7 +580,7 @@
     "channel": "play5",
     "title": "Practical Magic",
     "start": 1788806100000,
-    "end": 1788813300000,
+    "end": 1788813600000,
     "description": "Sally en Gillian Owens werden na de plotse dood van hun ouders opgevoed door hun tantes Jet en Frances, die heksen zijn. Er rust echter een vloek op de familie: alle mannen op wie de meisjes verliefd worden, sterven onverwachts.",
     "category": [
       "Film",
@@ -582,11 +606,11 @@
     }
   },
   {
-    "id": "play5:1788813300000:1hk0z8w",
+    "id": "play5:1788813600000:1hk0z8w",
     "channel": "play5",
     "title": "Friends",
-    "start": 1788813300000,
-    "end": 1788815400000,
+    "start": 1788813600000,
+    "end": 1788815700000,
     "description": "Joey valt op Phoebes tweelingzus, waardoor Phoebe zich genegeerd voelt. Ross heeft zijn twijfels over het ouderschap wanneer hij met Carol en Susan naar zwangerschapsgym gaat. Eerste deel van een dubbele aflevering.",
     "category": [
       "Sitcom"
@@ -610,10 +634,10 @@
     }
   },
   {
-    "id": "play5:1788815400000:1hk0z8w",
+    "id": "play5:1788815700000:1hk0z8w",
     "channel": "play5",
     "title": "Friends",
-    "start": 1788815400000,
+    "start": 1788815700000,
     "end": 1788817200000,
     "description": "Wanneer Rachel haar enkel verstuikt, krijgt ze Monica zo ver om van identiteit te wisselen zodat ze haar verzekering kan gebruiken. Phoebe's tweelingzus breekt Joey's hart en Phoebe probeert het te lijmen. Tweede deel van een dubbele aflevering.",
     "category": [
@@ -642,7 +666,7 @@
     "channel": "play5",
     "title": "Modern Family",
     "start": 1788817200000,
-    "end": 1788819000000,
+    "end": 1788819300000,
     "description": "De bruiloftschaos houdt aan als het hele feest van het ene plan op het andere overschakelt. Gasten worden ongedurig, Mitchell en Cameron raken ontmoedigd en bij de arme Claire zijn fysieke gevolgen te zien.",
     "category": [
       "Sitcom"
