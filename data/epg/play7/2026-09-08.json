@@ -4,7 +4,7 @@
     "channel": "play7",
     "title": "A Place in the Sun",
     "start": 1788824400000,
-    "end": 1788828000000,
+    "end": 1788827700000,
     "description": "Laura Hamilton is op het Portugese eiland Madeira om Sandy en Phil te helpen bij het vinden van het perfecte vakantiehuis waar ze met hun hele familie van kunnen genieten. Zal een van de vijf woningen perfect zijn?",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1788828000000:48zb9",
+    "id": "play7:1788827700000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1788828000000,
-    "end": 1788836400000,
+    "start": 1788827700000,
+    "end": 1788836100000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5c992a7ee6a2eb257e3f623a43bb426e75ed92ec",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1788836100000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1788836100000,
+    "end": 1788836400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:aefdedf7640ab5c6d939dc8048910987948351da",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

@@ -92,7 +92,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1789027200000,
-    "end": 1789034400000,
+    "end": 1789033440000,
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "category": [
       "Sport",
@@ -115,6 +115,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1789033440000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1789033440000,
+    "end": 1789034400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:80d3e6a2d3728fe5c332c68b2978c45068a4443b",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -182,7 +206,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1789048800000,
-    "end": 1789056000000,
+    "end": 1789055040000,
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "category": [
       "Sport",
@@ -205,6 +229,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1789055040000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1789055040000,
+    "end": 1789056000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1196379ac9509c02ca6117f627151297fcb44221",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
