@@ -272,7 +272,7 @@
     "channel": "playsports4",
     "title": "UEFA Champions League",
     "start": 1789058100000,
-    "end": 1789066200000,
+    "end": 1789065600000,
     "description": "Verslag van de wedstrijd PSV - Shakhtar Donetsk, gespeeld in de competitiefase van de UEFA Champions League.",
     "category": [
       "Sport",
@@ -295,6 +295,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc467eede-e003-4905-a1f6-2c15a4b14182"
+    }
+  },
+  {
+    "id": "playsports4:1789065600000:i67pjl",
+    "channel": "playsports4",
+    "title": "Play Sports Highlights",
+    "start": 1789065600000,
+    "end": 1789066200000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713478%2Cimi%3Adf23e0e00647b15fa63032d608379fd1fa4dd6dd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 545713478,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713478,imi:df23e0e00647b15fa63032d608379fd1fa4dd6dd",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -328,33 +358,33 @@
     }
   },
   {
-    "id": "playsports4:1789073700000:arbc9d",
+    "id": "playsports4:1789073700000:3tkxx5",
     "channel": "playsports4",
-    "title": "The Paddock Live: Formule 1",
+    "title": "MIDMID",
     "start": 1789073700000,
-    "end": 1789082700000,
-    "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
+    "end": 1789079100000,
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "category": [
-      "Sport",
-      "Motorsport"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32387727~~2FEP063235100084%2Cimi%3A4606ca63a68defa8e55f63f7ec287f92e772a4cc/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A6e34fd77833190b348c0d45cb29e23b8a39b3bc9/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026090684,
+    "season": 7,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32387727~~2FEP063235100084,imi:4606ca63a68defa8e55f63f7ec287f92e772a4cc",
-      "episodeName": "GP van Italië: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:6e34fd77833190b348c0d45cb29e23b8a39b3bc9",
+      "episodeName": "Beoordeelt de Pro League-shirts",
       "genres": [
-        "Sport",
-        "Motorsport"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   }
 ]

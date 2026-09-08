@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "How to Get Away With Murder",
     "start": 1788911400000,
-    "end": 1788914400000,
+    "end": 1788914100000,
     "description": "Annalise Keating en haar studenten moeten hun leven verderzetten alsof er niets gebeurd is, maar de studenten zijn nog steeds in paniekstemming door de verdwijning van Rebecca. Enkel Annalise en Frank zijn op de hoogte van de moord op Rebecca.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1788914400000:48zb9",
+    "id": "play5:1788914100000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1788914400000,
-    "end": 1788922800000,
+    "start": 1788914100000,
+    "end": 1788922200000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:121e7c0941c8d209c25d05eb86493ecd70409642",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1788922200000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1788922200000,
+    "end": 1788922800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:12252345a1df1faabe6ca68b72ff784284dd2f35",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

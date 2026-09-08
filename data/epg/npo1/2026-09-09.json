@@ -1,10 +1,34 @@
 [
   {
-    "id": "npo1:1788904800000:3776ld",
+    "id": "npo1:1788903300000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1788903300000,
+    "end": 1788905100000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762149852.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1788905100000:3776ld",
     "channel": "npo1",
     "title": "Eva",
-    "start": 1788904800000,
-    "end": 1788908100000,
+    "start": 1788905100000,
+    "end": 1788908400000,
     "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/eva-762081212.jpg",
@@ -22,11 +46,11 @@
     }
   },
   {
-    "id": "npo1:1788908100000:1qmbii9",
+    "id": "npo1:1788908400000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1788908100000,
-    "end": 1788909300000,
+    "start": 1788908400000,
+    "end": 1788909600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -47,11 +71,11 @@
     }
   },
   {
-    "id": "npo1:1788909300000:1f3cpph",
+    "id": "npo1:1788909600000:1f3cpph",
     "channel": "npo1",
     "title": "Pauw & De Wit",
-    "start": 1788909300000,
-    "end": 1788912000000,
+    "start": 1788909600000,
+    "end": 1788912600000,
     "description": "Talkshow over de actualiteit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/pauw-de-wit-762082112.jpg",
@@ -69,11 +93,11 @@
     }
   },
   {
-    "id": "npo1:1788912000000:1byfm7j",
+    "id": "npo1:1788912600000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1788912000000,
-    "end": 1788913800000,
+    "start": 1788912600000,
+    "end": 1788914100000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [
       "Actueel"
@@ -94,11 +118,11 @@
     }
   },
   {
-    "id": "npo1:1788913800000:1ebhvrh",
+    "id": "npo1:1788914100000:1ebhvrh",
     "channel": "npo1",
     "title": "NOS Journaal met gebarentaal",
-    "start": 1788913800000,
-    "end": 1788915300000,
+    "start": 1788914100000,
+    "end": 1788915600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -119,11 +143,11 @@
     }
   },
   {
-    "id": "npo1:1788915300000:1qmbii9",
+    "id": "npo1:1788915600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1788915300000,
-    "end": 1788916500000,
+    "start": 1788915600000,
+    "end": 1788916800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -144,10 +168,10 @@
     }
   },
   {
-    "id": "npo1:1788916500000:1qmbii9",
+    "id": "npo1:1788916800000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1788916500000,
+    "start": 1788916800000,
     "end": 1788925800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -744,7 +768,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1788948000000,
-    "end": 1788949200000,
+    "end": 1788948600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -764,16 +788,16 @@
     }
   },
   {
-    "id": "npo1:1788949200000:1qmbii9",
+    "id": "npo1:1788948600000:15xuvpz",
     "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1788949200000,
-    "end": 1788949800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "title": "NOS Uitvaart koning Harald",
+    "start": 1788948600000,
+    "end": 1788956700000,
+    "description": "Koning Harald overleed op 28 augustus op 89-jarige leeftijd in het ziekenhuis van Oslo.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762606832.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -783,67 +807,16 @@
     "meta": {
       "labels": [
         "program",
-        "actueel",
-        "rerun"
+        "actueel"
       ]
     }
   },
   {
-    "id": "npo1:1788949800000:1qmbii9",
+    "id": "npo1:1788956700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1788949800000,
-    "end": 1788950400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762606832.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1788950400000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1788950400000,
-    "end": 1788951600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762606832.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1788951600000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1788951600000,
-    "end": 1788953100000,
+    "start": 1788956700000,
+    "end": 1788957300000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -863,11 +836,11 @@
     }
   },
   {
-    "id": "npo1:1788953100000:fmxwos",
+    "id": "npo1:1788957300000:fmxwos",
     "channel": "npo1",
     "title": "Kook mee met MAX",
-    "start": 1788953100000,
-    "end": 1788953700000,
+    "start": 1788957300000,
+    "end": 1788958800000,
     "description": "Wat eet ik vanavond?",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kook-mee-met-max-762639312.jpg",
@@ -880,130 +853,6 @@
     "meta": {
       "labels": [
         "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1788953700000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1788953700000,
-    "end": 1788955200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762606832.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1788955200000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1788955200000,
-    "end": 1788956400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762606832.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1788956400000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1788956400000,
-    "end": 1788957000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762606832.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1788957000000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1788957000000,
-    "end": 1788957600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762606832.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1788957600000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1788957600000,
-    "end": 1788958800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-762606832.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
         "rerun"
       ]
     }

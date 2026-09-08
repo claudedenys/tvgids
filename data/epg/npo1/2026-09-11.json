@@ -320,7 +320,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789102800000,
-    "end": 1789103400000,
+    "end": 1789103700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -340,10 +340,10 @@
     }
   },
   {
-    "id": "npo1:1789103400000:1qmbii9",
+    "id": "npo1:1789103700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1789103400000,
+    "start": 1789103700000,
     "end": 1789104600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -744,7 +744,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789120800000,
-    "end": 1789121700000,
+    "end": 1789122000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -764,10 +764,10 @@
     }
   },
   {
-    "id": "npo1:1789121700000:1qmbii9",
+    "id": "npo1:1789122000000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1789121700000,
+    "start": 1789122000000,
     "end": 1789122600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -843,7 +843,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789124400000,
-    "end": 1789125000000,
+    "end": 1789125600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -859,30 +859,6 @@
       "labels": [
         "program",
         "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1789125000000:ejkxyx",
-    "channel": "npo1",
-    "title": "Sportjournaal",
-    "start": 1789125000000,
-    "end": 1789125600000,
-    "description": "Aandacht voor het laatste sportnieuws.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/sportjournaal-759211682.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "sport"
       ]
     }
   },

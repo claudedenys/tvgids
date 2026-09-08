@@ -1,62 +1,32 @@
 [
   {
-    "id": "playsports4:1789082700000:3y5tln",
+    "id": "playsports4:1789079100000:arbc9d",
     "channel": "playsports4",
-    "title": "MotoGP",
-    "start": 1789082700000,
-    "end": 1789086900000,
-    "description": "Verslag van de race van de MotoGP van Aragón, gereden in Aragón, Spanje.",
+    "title": "The Paddock Live: Formule 1",
+    "start": 1789079100000,
+    "end": 1789087080000,
+    "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
     "category": [
       "Sport",
-      "Motorracen"
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393415~~2FEP036138911482%2Cimi%3A3620a7e8aab9115274607d52407499cc9e3081cc/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32387727~~2FEP063235100084%2Cimi%3A4606ca63a68defa8e55f63f7ec287f92e772a4cc/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 38910000,
-    "episode": 2026083082,
+    "season": 35100000,
+    "episode": 2026090684,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393415~~2FEP036138911482,imi:3620a7e8aab9115274607d52407499cc9e3081cc",
-      "episodeName": "GP van Aragón: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32387727~~2FEP063235100084,imi:4606ca63a68defa8e55f63f7ec287f92e772a4cc",
+      "episodeName": "GP van Italië: Race",
       "genres": [
         "Sport",
-        "Motorracen"
+        "Motorsport"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
-    }
-  },
-  {
-    "id": "playsports4:1789086900000:bv7uqk",
-    "channel": "playsports4",
-    "title": "Luxure - My wife's indecencies",
-    "start": 1789086900000,
-    "end": 1789092480000,
-    "description": "Plezier is alleen de moeite waard als het wordt gedeeld.",
-    "category": [
-      "Adult",
-      "Film"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30609894~~2FMV026380950000%2Cimi%3Aa1de4640dbae42454545fe3b0a0311f0c9d84a49/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30609894~~2FMV026380950000,imi:a1de4640dbae42454545fe3b0a0311f0c9d84a49",
-      "episodeName": null,
-      "genres": [
-        "Adult",
-        "Film"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
     }
   },
   {

@@ -207,17 +207,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789082700000:3y5tln",
+    "id": "sport:playsports4:1789079100000:arbc9d",
     "externalId": null,
-    "title": "GP van Aragón: Race",
+    "title": "GP van Italië: Race",
     "home": null,
     "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1789082700000,
-    "end": 1789086900000,
+    "competition": "Formule 1",
+    "sport": "Motorsport",
+    "start": 1789079100000,
+    "end": 1789087080000,
     "status": "aankomend",
-    "description": "Verslag van de race van de MotoGP van Aragón, gereden in Aragón, Spanje.",
+    "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -882,7 +882,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1789128240000,
-    "end": 1789134540000,
+    "end": 1789134420000,
     "status": "aankomend",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "source": "epg",
@@ -1239,29 +1239,6 @@
     ],
     "channelIds": [
       "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789086900000:luxure - my wife's indecencies",
-    "externalId": null,
-    "title": "Luxure - My wife's indecencies",
-    "home": "Luxure",
-    "away": "My wife's indecencies",
-    "competition": null,
-    "sport": null,
-    "start": 1789086900000,
-    "end": 1789092480000,
-    "status": "aankomend",
-    "description": "Plezier is alleen de moeite waard als het wordt gedeeld.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
     ]
   },
   {

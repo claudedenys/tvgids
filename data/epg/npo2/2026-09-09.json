@@ -262,7 +262,7 @@
     "channel": "npo2",
     "title": "Noord-Zuid-Oost-West",
     "start": 1788943200000,
-    "end": 1788945600000,
+    "end": 1788945300000,
     "description": "Presentator Fred Zuiderwijk spreekt spontaan mensen aan in de hal van het ziekenhuis en vraagt hoe het met ze gaat.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/noord-zuid-oost-west-762524872.jpg",
@@ -280,10 +280,10 @@
     }
   },
   {
-    "id": "npo2:1788945600000:14ri0ia",
+    "id": "npo2:1788945300000:14ri0ia",
     "channel": "npo2",
     "title": "BinnensteBuiten",
-    "start": 1788945600000,
+    "start": 1788945300000,
     "end": 1788948000000,
     "description": "Met in deze uitzending: * In Vleuten woont Bløf-toetsenist Bas Kennis in de grootste Middeleeuwse woontoren van...",
     "category": [],
@@ -330,32 +330,10 @@
     "channel": "npo2",
     "title": "Kook mee met MAX",
     "start": 1788948900000,
-    "end": 1788949800000,
+    "end": 1788950400000,
     "description": "Wat eet ik vanavond?",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kook-mee-met-max-762639312.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1788949800000:1c58w42",
-    "channel": "npo2",
-    "title": "Andere tijden kort",
-    "start": 1788949800000,
-    "end": 1788950400000,
-    "description": "Wie er niet woont, wil er niet dood gevonden worden.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/andere-tijden-kort-762695622.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -416,11 +394,54 @@
     }
   },
   {
-    "id": "npo2:1788952800000:4dklko",
+    "id": "npo2:1788952800000:fuk2e5",
+    "channel": "npo2",
+    "title": "VPRO Cinema extra",
+    "start": 1788952800000,
+    "end": 1788955200000,
+    "description": "Noa Johannes belicht met nationale en internationale makers de wereld achter het witte doek.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/vpro-cinema-extra-768178342.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": []
+    }
+  },
+  {
+    "id": "npo2:1788955200000:1qmbii9",
+    "channel": "npo2",
+    "title": "NOS Journaal",
+    "start": 1788955200000,
+    "end": 1788955800000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nos-journaal-769619092.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1788955800000:4dklko",
     "channel": "npo2",
     "title": "Kassa",
-    "start": 1788952800000,
-    "end": 1788956100000,
+    "start": 1788955800000,
+    "end": 1788958500000,
     "description": "Met in deze uitzending: * De zomer was lang, heet en droog, zo heeft menig boer ondervonden.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kassa-759947542.jpg",
@@ -438,55 +459,14 @@
     }
   },
   {
-    "id": "npo2:1788956100000:1ii7y3a",
+    "id": "npo2:1788958500000:1ii7y3a",
     "channel": "npo2",
     "title": "Kunststof",
-    "start": 1788956100000,
-    "end": 1788959700000,
+    "start": 1788958500000,
+    "end": 1788962400000,
     "description": "Actrice Tina de Bruin laat in haar boek 'Zeven brieven' een hartverscheurend maar tegelijk geestig verhaal zien van...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kunststof-761418782.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
-    "id": "npo2:1788959700000:r3sp6g",
-    "channel": "npo2",
-    "title": "Nu te zien!",
-    "start": 1788959700000,
-    "end": 1788960000000,
-    "description": "Marieke Uildriks, directeur van Museum JAN, bezoekt de expositie '15 mysteriën van de rozenkrans' in het...",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nu-te-zien-763951492.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1788960000000:fuk2e5",
-    "channel": "npo2",
-    "title": "VPRO Cinema extra",
-    "start": 1788960000000,
-    "end": 1788962400000,
-    "description": "Noa Johannes belicht met nationale en internationale makers de wereld achter het witte doek.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/vpro-cinema-extra-768178342.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

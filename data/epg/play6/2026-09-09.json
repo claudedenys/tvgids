@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "The Paddock",
     "start": 1788907800000,
-    "end": 1788912600000,
+    "end": 1788912300000,
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1788912600000:14ju3nd",
+    "id": "play6:1788912300000:14ju3nd",
     "channel": "play6",
     "title": "Most Outrageous Crimes",
-    "start": 1788912600000,
-    "end": 1788916200000,
+    "start": 1788912300000,
+    "end": 1788915000000,
     "description": "Opmerkelijke beelden tonen criminelen die op heterdaad worden betrapt. Van wilde achtervolgingen en onverwachte confrontaties met de politie tot chaotische incidenten in winkels en op openbare plaatsen.",
     "category": [
       "Misdaad"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play6:1788916200000:o13nu0",
+    "id": "play6:1788915000000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1788916200000,
-    "end": 1788918600000,
+    "start": 1788915000000,
+    "end": 1788917700000,
     "description": "Rick en Chumlee gaan naar Los Angeles om een deal af te sluiten voor verschillende iconische stukken van filmsets. Vervolgens rockt Corey met wat memorabilia van Alice in Chains. Bovendien proberen Rick en Chumlee enkele oude stalen drukplaten uit.",
     "category": [
       "Reality",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "play6:1788918600000:48zb9",
+    "id": "play6:1788917700000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1788918600000,
-    "end": 1788922800000,
+    "start": 1788917700000,
+    "end": 1788922560000,
     "description": null,
     "category": [],
     "image": null,
@@ -104,6 +104,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:286d70e97ba05dcea64d542965b9aead5bfd63a4",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1788922560000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1788922560000,
+    "end": 1788922800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4089b6336828a481bb50666e6f25abf97805ca55",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
