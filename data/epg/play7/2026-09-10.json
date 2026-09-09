@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1788996600000:rmqxmh",
+    "id": "play7:1788996900000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1788996600000,
-    "end": 1789000500000,
+    "start": 1788996900000,
+    "end": 1789000200000,
     "description": "Een koppel zoekt een zonnig toevluchtsoord aan de oostelijke Costa del Sol. Met hulp van een expert bezoeken ze woningen om hun perfecte vakantiehuis te vinden.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1789000500000:48zb9",
+    "id": "play7:1789000200000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1789000500000,
-    "end": 1789009200000,
+    "start": 1789000200000,
+    "end": 1789008600000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9b446429264cd779887458a685f05ecc5dd96948",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1789008600000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1789008600000,
+    "end": 1789009200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ac8ac335e6f0e6c2c45cdf6464f6163e48569671",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

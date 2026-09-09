@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports4:1789166520000:qbgze4",
+    "id": "playsports4:1789166160000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1789166520000,
-    "end": 1789173060000,
+    "start": 1789166160000,
+    "end": 1789172520000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1789173060000:xykime",
+    "id": "playsports4:1789172520000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1789173060000,
-    "end": 1789189620000,
+    "start": 1789172520000,
+    "end": 1789190100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports4:1789189620000:3y5tln",
+    "id": "playsports4:1789190100000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1789189620000,
-    "end": 1789194000000,
+    "start": 1789190100000,
+    "end": 1789194420000,
     "description": "Verslag van de race van de MotoGP van Aragón, gereden in Aragón, Spanje.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1789194000000:qbgze4",
+    "id": "playsports4:1789194420000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1789194000000,
-    "end": 1789205280000,
+    "start": 1789194420000,
+    "end": 1789205700000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -118,71 +118,41 @@
     }
   },
   {
-    "id": "playsports4:1789205280000:133mms5",
+    "id": "playsports4:1789205700000:qbgze4",
     "channel": "playsports4",
-    "title": "FIM Motocross World Championship",
-    "start": 1789205280000,
-    "end": 1789208760000,
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "title": "Tennis: Cincinnati Open 2026",
+    "start": 1789205700000,
+    "end": 1789212120000,
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
-      "Motorracen"
+      "Tennis"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33911459~~2FEP050375640309%2Cimi%3Ac9b642a2460c098faa4ef2003043742d16d6a136/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33751178~~2FEP065346450040%2Cimi%3A52c473537ec80cab3f27b648d3feaada3fb6a91b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 75640000,
-    "episode": 2026090609,
+    "season": 46450000,
+    "episode": 2026082340,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33911459~~2FEP050375640309,imi:c9b642a2460c098faa4ef2003043742d16d6a136",
-      "episodeName": "Turkije - MX2: Race 1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33751178~~2FEP065346450040,imi:52c473537ec80cab3f27b648d3feaada3fb6a91b",
+      "episodeName": "Dag 11",
       "genres": [
         "Sport",
-        "Motorracen"
+        "Tennis"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33188385~~2FSH065346450000"
     }
   },
   {
-    "id": "playsports4:1789208760000:133mms5",
+    "id": "playsports4:1789212120000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1789208760000,
-    "end": 1789212300000,
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33911468~~2FEP050375640310%2Cimi%3Ac8de9561fd1a48e03e8160cddea5377f7e31bddd/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 75640000,
-    "episode": 2026090610,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33911468~~2FEP050375640310,imi:c8de9561fd1a48e03e8160cddea5377f7e31bddd",
-      "episodeName": "Turkije - MXGP: Race 1",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
-    }
-  },
-  {
-    "id": "playsports4:1789212300000:133mms5",
-    "channel": "playsports4",
-    "title": "FIM Motocross World Championship",
-    "start": 1789212300000,
-    "end": 1789215900000,
+    "start": 1789212120000,
+    "end": 1789215720000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -208,10 +178,10 @@
     }
   },
   {
-    "id": "playsports4:1789215900000:133mms5",
+    "id": "playsports4:1789215720000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1789215900000,
+    "start": 1789215720000,
     "end": 1789219500000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
@@ -268,11 +238,71 @@
     }
   },
   {
-    "id": "playsports4:1789226700000:1owb2q5",
+    "id": "playsports4:1789226700000:3tkxx5",
+    "channel": "playsports4",
+    "title": "MIDMID",
+    "start": 1789226700000,
+    "end": 1789232100000,
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A4c3c0329006c432b085abbc46744a23afa280aa1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:4c3c0329006c432b085abbc46744a23afa280aa1",
+      "episodeName": "Beoordeelt de Pro League-shirts",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
+    }
+  },
+  {
+    "id": "playsports4:1789232100000:i67pjl",
+    "channel": "playsports4",
+    "title": "Play Sports Highlights",
+    "start": 1789232100000,
+    "end": 1789234200000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F546123679%2Cimi%3A8222357b5ef69d3bcd0875c1066710c7be025185/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 546123679,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F546123679,imi:8222357b5ef69d3bcd0875c1066710c7be025185",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports4:1789234200000:1owb2q5",
     "channel": "playsports4",
     "title": "Tennis: Abierto GNP Seguros 2026",
-    "start": 1789226700000,
-    "end": 1789237860000,
+    "start": 1789234200000,
+    "end": 1789245420000,
     "description": null,
     "category": [
       "Sport",
@@ -298,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1789237860000:qbgze4",
+    "id": "playsports4:1789245420000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1789237860000,
-    "end": 1789249200000,
+    "start": 1789245420000,
+    "end": 1789256700000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -325,36 +355,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33188385~~2FSH065346450000"
-    }
-  },
-  {
-    "id": "playsports4:1789249200000:133mms5",
-    "channel": "playsports4",
-    "title": "FIM Motocross World Championship",
-    "start": 1789249200000,
-    "end": 1789252740000,
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33911480~~2FEP050375640311%2Cimi%3A6d9af5b934e208eabbfe6053b343ac354fd0b503/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 75640000,
-    "episode": 2026090611,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33911480~~2FEP050375640311,imi:6d9af5b934e208eabbfe6053b343ac354fd0b503",
-      "episodeName": "Turkije - MX2: Race 2",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   }
 ]

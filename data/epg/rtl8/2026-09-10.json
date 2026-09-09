@@ -1,10 +1,10 @@
 [
   {
-    "id": "rtl8:1788989700000:1ffez6t",
+    "id": "rtl8:1788990120000:1ffez6t",
     "channel": "rtl8",
     "title": "Law & order: Special victims unit",
-    "start": 1788989700000,
-    "end": 1788993300000,
+    "start": 1788990120000,
+    "end": 1788993420000,
     "description": "Een American footballspeler wordt gearresteerd in een prostitutiezaak waar een minderjarige bij betrokken is.",
     "category": [],
     "image": null,
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "rtl8:1788993300000:1z0y89z",
+    "id": "rtl8:1788993420000:1z0y89z",
     "channel": "rtl8",
     "title": "Crime scene investigation",
-    "start": 1788993300000,
-    "end": 1788996900000,
+    "start": 1788993420000,
+    "end": 1788996720000,
     "description": "Het team ontdekt een ingewikkeld plan om een overval te plegen tijdens een pokertoernooi.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/c/carrousel/crime-scene-investigation-762516172.jpg",
@@ -44,11 +44,11 @@
     }
   },
   {
-    "id": "rtl8:1788996900000:16iekd8",
+    "id": "rtl8:1788996720000:16iekd8",
     "channel": "rtl8",
     "title": "Teleshop 8: Telvero",
-    "start": 1788996900000,
-    "end": 1788998400000,
+    "start": 1788996720000,
+    "end": 1788998460000,
     "description": "Homeshoppingprogramma.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-8-telvero-761483232.jpg",
@@ -245,7 +245,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

@@ -1,16 +1,16 @@
 [
   {
-    "id": "playsports1:1789165500000:11wg5yb",
+    "id": "playsports1:1789166160000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1789165500000,
-    "end": 1789171980000,
+    "start": 1789166160000,
+    "end": 1789172340000,
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613382~~2FEP033948601837%2Cimi%3A410788b9fc08dbc8b2b75bbc0c426f81e2ad5b4c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613382~~2FEP033948601837%2Cimi%3A8e5f697c096b080d3c16e5d4648a9f082c8e4967/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -18,7 +18,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613382~~2FEP033948601837,imi:410788b9fc08dbc8b2b75bbc0c426f81e2ad5b4c",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613382~~2FEP033948601837,imi:8e5f697c096b080d3c16e5d4648a9f082c8e4967",
       "episodeName": "HSV - 1. FSV Mainz 05",
       "genres": [
         "Sport",
@@ -30,16 +30,16 @@
     }
   },
   {
-    "id": "playsports1:1789171980000:xykime",
+    "id": "playsports1:1789172340000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1789171980000,
-    "end": 1789188000000,
+    "start": 1789172340000,
+    "end": 1789189200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A3b7254a7a7a9bdd9deee8775254f5235e715deed/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A2fe6aac01836d18945d127be0507de6c13dc67ac/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -47,7 +47,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:3b7254a7a7a9bdd9deee8775254f5235e715deed",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:2fe6aac01836d18945d127be0507de6c13dc67ac",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports1:1789188000000:1prlzbg",
+    "id": "playsports1:1789189200000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789188000000,
-    "end": 1789194300000,
+    "start": 1789189200000,
+    "end": 1789195380000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1789194300000:1prlzbg",
+    "id": "playsports1:1789195380000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789194300000,
-    "end": 1789200660000,
+    "start": 1789195380000,
+    "end": 1789201920000,
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports1:1789200660000:1prlzbg",
+    "id": "playsports1:1789201920000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789200660000,
-    "end": 1789206780000,
+    "start": 1789201920000,
+    "end": 1789208040000,
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "category": [
       "Sport",
@@ -148,35 +148,11 @@
     }
   },
   {
-    "id": "playsports1:1789206780000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1789206780000,
-    "end": 1789207800000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:243d55dd546d234ea2ccc7e5c9edbd1744d732c4",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1789207800000:1prlzbg",
+    "id": "playsports1:1789208040000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789207800000,
-    "end": 1789214100000,
+    "start": 1789208040000,
+    "end": 1789214280000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -202,35 +178,11 @@
     }
   },
   {
-    "id": "playsports1:1789214100000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1789214100000,
-    "end": 1789215180000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:265bb8b634c4f9394e6004f34786eacf2dcbba62",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1789215180000:amnfa6",
+    "id": "playsports1:1789214280000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
-    "start": 1789215180000,
-    "end": 1789218300000,
+    "start": 1789214280000,
+    "end": 1789217400000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
@@ -256,11 +208,11 @@
     }
   },
   {
-    "id": "playsports1:1789218300000:qjkkk5",
+    "id": "playsports1:1789217400000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1789218300000,
-    "end": 1789219800000,
+    "start": 1789217400000,
+    "end": 1789218960000,
     "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
     "category": [
       "Docu",
@@ -283,6 +235,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports1:1789218960000:1dvjy1m",
+    "channel": "playsports1",
+    "title": "Meester Tacticus",
+    "start": 1789218960000,
+    "end": 1789219800000,
+    "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34022388~~2FEP065986550001%2Cimi%3Aba76dd1839b7302d91a3dc03f7ff16ac94aaa06a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 86550000,
+    "episode": 2026090501,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34022388~~2FEP065986550001,imi:ba76dd1839b7302d91a3dc03f7ff16ac94aaa06a",
+      "episodeName": "De principes van Xabi Alonso",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34022384~~2FSH065986550000"
     }
   },
   {
@@ -321,21 +303,21 @@
     "title": "Premier League",
     "start": 1789221300000,
     "end": 1789228500000,
-    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
+    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580466~~2FEP033946612457%2Cimi%3A2b499a0f9c50da523051ffe774a66421d74a6132/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580625~~2FEP033946612460%2Cimi%3Ab990686f604973d93bdc72b7a452bc9341da1a7a/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
-    "episode": 2026091257,
+    "episode": 2026091260,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580466~~2FEP033946612457,imi:2b499a0f9c50da523051ffe774a66421d74a6132",
-      "episodeName": "Liverpool - Fulham",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580625~~2FEP033946612460,imi:b990686f604973d93bdc72b7a452bc9341da1a7a",
+      "episodeName": "Chelsea - Hull City",
       "genres": [
         "Sport",
         "Voetbal"
@@ -500,7 +482,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1789248000000,
-    "end": 1789248600000,
+    "end": 1789248720000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -526,11 +508,11 @@
     }
   },
   {
-    "id": "playsports1:1789248600000:1prlzbg",
+    "id": "playsports1:1789248720000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789248600000,
-    "end": 1789254960000,
+    "start": 1789248720000,
+    "end": 1789255200000,
     "description": "Vanuit The City Ground in Nottingham, England.",
     "category": [
       "Sport",

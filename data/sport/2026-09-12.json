@@ -1,14 +1,14 @@
 [
   {
-    "id": "sport:playsports1:1789171980000:xykime",
+    "id": "sport:playsports1:1789172340000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789171980000,
-    "end": 1789188000000,
+    "start": 1789172340000,
+    "end": 1789189200000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -23,15 +23,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789215180000:amnfa6",
+    "id": "sport:playsports1:1789214280000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789215180000,
-    "end": 1789218300000,
+    "start": 1789214280000,
+    "end": 1789217400000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -46,17 +46,40 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789218300000:qjkkk5",
+    "id": "sport:playsports1:1789217400000:qjkkk5",
     "externalId": null,
     "title": "Rúben Dias",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789218300000,
-    "end": 1789219800000,
+    "start": 1789217400000,
+    "end": 1789218960000,
     "status": "aankomend",
     "description": "We volgen de opkomst van Rúben Dias, vanaf zijn vroege dagen in Portugal tot het hart van de verdediging van Manchester City. We ontmoeten de familie, vrienden en coaches die zijn reis hebben gevormd en krijgen een kijkje in de opvoeding en mentaliteit die een Premier League-leider hebben gevormd.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1789218960000:1dvjy1m",
+    "externalId": null,
+    "title": "De principes van Xabi Alonso",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1789218960000,
+    "end": 1789219800000,
+    "status": "aankomend",
+    "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -253,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789172220000:xykime",
+    "id": "sport:playsports3:1789175460000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789172220000,
-    "end": 1789189200000,
+    "start": 1789175460000,
+    "end": 1789190400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -322,17 +345,17 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789210680000:arbc9d",
+    "id": "sport:playsports3:1789208400000:i67pjl",
     "externalId": null,
-    "title": "GP van Italië: Race",
+    "title": "Play Sports Highlights",
     "home": null,
     "away": null,
-    "competition": "Formule 1",
-    "sport": "Motorsport",
-    "start": 1789210680000,
-    "end": 1789211400000,
+    "competition": null,
+    "sport": null,
+    "start": 1789208400000,
+    "end": 1789211100000,
     "status": "aankomend",
-    "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -345,14 +368,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789211400000:1p2p7re",
+    "id": "sport:playsports3:1789211100000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 15",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1789211400000,
+    "start": 1789211100000,
     "end": 1789215000000,
     "status": "aankomend",
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
@@ -391,6 +414,29 @@
     ]
   },
   {
+    "id": "sport:playsports3:1789218600000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1789218600000,
+    "end": 1789220400000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:playsports3:1789220400000:arbc9d",
     "externalId": null,
     "title": "GP van Spanje: Kwalificaties",
@@ -402,6 +448,29 @@
     "end": 1789226700000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1789226700000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1789226700000,
+    "end": 1789228500000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -460,15 +529,38 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789166520000:qbgze4",
+    "id": "sport:playsports3:1789233300000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1789233300000,
+    "end": 1789235700000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1789166160000:qbgze4",
     "externalId": null,
     "title": "Dag 11",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1789166520000,
-    "end": 1789173060000,
+    "start": 1789166160000,
+    "end": 1789172520000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -483,15 +575,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789173060000:xykime",
+    "id": "sport:playsports4:1789172520000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789173060000,
-    "end": 1789189620000,
+    "start": 1789172520000,
+    "end": 1789190100000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -506,15 +598,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789189620000:3y5tln",
+    "id": "sport:playsports4:1789190100000:3y5tln",
     "externalId": null,
     "title": "GP van Aragón: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789189620000,
-    "end": 1789194000000,
+    "start": 1789190100000,
+    "end": 1789194420000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Aragón, gereden in Aragón, Spanje.",
     "source": "epg",
@@ -529,15 +621,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789194000000:qbgze4",
+    "id": "sport:playsports4:1789194420000:qbgze4",
     "externalId": null,
     "title": "Dag 10",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1789194000000,
-    "end": 1789205280000,
+    "start": 1789194420000,
+    "end": 1789205700000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -552,14 +644,37 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789215900000:133mms5",
+    "id": "sport:playsports4:1789205700000:qbgze4",
+    "externalId": null,
+    "title": "Dag 11",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1789205700000,
+    "end": 1789212120000,
+    "status": "aankomend",
+    "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1789215720000:133mms5",
     "externalId": null,
     "title": "MXGP van Turkije: Race 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789215900000,
+    "start": 1789215720000,
     "end": 1789219500000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
@@ -575,15 +690,38 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789226700000:1owb2q5",
+    "id": "sport:playsports4:1789232100000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1789232100000,
+    "end": 1789234200000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1789234200000:1owb2q5",
     "externalId": null,
     "title": "Mertens vs. Parry",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1789226700000,
-    "end": 1789237860000,
+    "start": 1789234200000,
+    "end": 1789245420000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -598,15 +736,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789237860000:qbgze4",
+    "id": "sport:playsports4:1789245420000:qbgze4",
     "externalId": null,
     "title": "Dag 10",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1789237860000,
-    "end": 1789249200000,
+    "start": 1789245420000,
+    "end": 1789256700000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -652,7 +790,7 @@
     "competition": null,
     "sport": null,
     "start": 1789185600000,
-    "end": 1789207200000,
+    "end": 1789190700000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -667,17 +805,17 @@
     ]
   },
   {
-    "id": "sport:playsports-premierleague:1789207200000:xykime",
+    "id": "sport:playsports-premierleague:1789190700000:9ejmq0",
     "externalId": null,
-    "title": "Play Sports",
+    "title": "Dag 2",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1789207200000,
-    "end": 1789228800000,
+    "sport": "Golf",
+    "start": 1789190700000,
+    "end": 1789212300000,
     "status": "aankomend",
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "description": "Verslag van de tweede dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "source": "epg",
     "platforms": [
       "Play Sports 5"
@@ -690,14 +828,37 @@
     ]
   },
   {
-    "id": "sport:playsports-premierleague:1789228800000:xykime",
+    "id": "sport:playsports-premierleague:1789212300000:9ejmq0",
+    "externalId": null,
+    "title": "Dag 2",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1789212300000,
+    "end": 1789232400000,
+    "status": "aankomend",
+    "description": "Verslag van de tweede dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 5"
+    ],
+    "channels": [
+      "Play Sports 5"
+    ],
+    "channelIds": [
+      "playsports-premierleague"
+    ]
+  },
+  {
+    "id": "sport:playsports-premierleague:1789232400000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789228800000,
+    "start": 1789232400000,
     "end": 1789250400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -943,15 +1104,15 @@
     ]
   },
   {
-    "id": "sport:match:1789165500000:hsv - 1. fsv mainz 05",
+    "id": "sport:match:1789166160000:hsv - 1. fsv mainz 05",
     "externalId": null,
     "title": "HSV - 1. FSV Mainz 05",
     "home": "HSV",
     "away": "1. FSV Mainz 05",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789165500000,
-    "end": 1789171980000,
+    "start": 1789166160000,
+    "end": 1789172340000,
     "status": "aankomend",
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "source": "epg",
@@ -966,15 +1127,15 @@
     ]
   },
   {
-    "id": "sport:match:1789188000000:hull city - aston villa",
+    "id": "sport:match:1789189200000:hull city - aston villa",
     "externalId": null,
     "title": "Hull City - Aston Villa",
     "home": "Hull City",
     "away": "Aston Villa",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789188000000,
-    "end": 1789194300000,
+    "start": 1789189200000,
+    "end": 1789195380000,
     "status": "aankomend",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
@@ -989,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1789194300000:everton - manchester united",
+    "id": "sport:match:1789195380000:everton - manchester united",
     "externalId": null,
     "title": "Everton - Manchester United",
     "home": "Everton",
     "away": "Manchester United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789194300000,
-    "end": 1789200660000,
+    "start": 1789195380000,
+    "end": 1789201920000,
     "status": "aankomend",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
@@ -1012,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1789200660000:newcastle united - bournemouth",
+    "id": "sport:match:1789201920000:newcastle united - bournemouth",
     "externalId": null,
     "title": "Newcastle United - Bournemouth",
     "home": "Newcastle United",
     "away": "Bournemouth",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789200660000,
-    "end": 1789206780000,
+    "start": 1789201920000,
+    "end": 1789208040000,
     "status": "aankomend",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "source": "epg",
@@ -1035,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1789207800000:manchester city - coventry city",
+    "id": "sport:match:1789208040000:manchester city - coventry city",
     "externalId": null,
     "title": "Manchester City - Coventry City",
     "home": "Manchester City",
     "away": "Coventry City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789207800000,
-    "end": 1789214100000,
+    "start": 1789208040000,
+    "end": 1789214280000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "source": "epg",
@@ -1058,17 +1219,17 @@
     ]
   },
   {
-    "id": "sport:match:1789221300000:liverpool - fulham",
+    "id": "sport:match:1789221300000:chelsea - hull city",
     "externalId": null,
-    "title": "Liverpool - Fulham",
-    "home": "Liverpool",
-    "away": "Fulham",
+    "title": "Chelsea - Hull City",
+    "home": "Chelsea",
+    "away": "Hull City",
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1789221300000,
     "end": 1789228500000,
     "status": "aankomend",
-    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
+    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -1135,7 +1296,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1789248000000,
-    "end": 1789248600000,
+    "end": 1789248720000,
     "status": "aankomend",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
@@ -1150,15 +1311,15 @@
     ]
   },
   {
-    "id": "sport:match:1789248600000:nottingham forest - tottenham hotspur",
+    "id": "sport:match:1789248720000:nottingham forest - tottenham hotspur",
     "externalId": null,
     "title": "Nottingham Forest - Tottenham Hotspur",
     "home": "Nottingham Forest",
     "away": "Tottenham Hotspur",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789248600000,
-    "end": 1789254960000,
+    "start": 1789248720000,
+    "end": 1789255200000,
     "status": "aankomend",
     "description": "Vanuit The City Ground in Nottingham, England.",
     "source": "epg",
@@ -1173,17 +1334,17 @@
     ]
   },
   {
-    "id": "sport:match:1789221300000:chelsea - hull city",
+    "id": "sport:match:1789221300000:liverpool - fulham",
     "externalId": null,
-    "title": "Chelsea - Hull City",
-    "home": "Chelsea",
-    "away": "Hull City",
+    "title": "Liverpool - Fulham",
+    "home": "Liverpool",
+    "away": "Fulham",
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1789221300000,
     "end": 1789228500000,
     "status": "aankomend",
-    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
+    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 2"
@@ -1196,15 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1789165800000:feyenoord - ado den haag",
+    "id": "sport:match:1789169100000:feyenoord - ado den haag",
     "externalId": null,
     "title": "Feyenoord - ADO Den Haag",
     "home": "Feyenoord",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789165800000,
-    "end": 1789172220000,
+    "start": 1789169100000,
+    "end": 1789175460000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1219,15 +1380,15 @@
     ]
   },
   {
-    "id": "sport:match:1789191000000:ajax - psv",
+    "id": "sport:match:1789190400000:ajax - psv",
     "externalId": null,
     "title": "Ajax - PSV",
     "home": "Ajax",
     "away": "PSV",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789191000000,
-    "end": 1789197300000,
+    "start": 1789190400000,
+    "end": 1789197120000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1242,316 +1403,17 @@
     ]
   },
   {
-    "id": "sport:match:1789197300000:feyenoord - ado den haag",
+    "id": "sport:match:1789197120000:feyenoord - ado den haag",
     "externalId": null,
     "title": "Feyenoord - ADO Den Haag",
     "home": "Feyenoord",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789197300000,
+    "start": 1789197120000,
     "end": 1789203600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789208400000:ajax - psv",
-    "externalId": null,
-    "title": "Ajax - PSV",
-    "home": "Ajax",
-    "away": "PSV",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1789208400000,
-    "end": 1789209120000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789209120000:manchester city - coventry city",
-    "externalId": null,
-    "title": "Manchester City - Coventry City",
-    "home": "Manchester City",
-    "away": "Coventry City",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789209120000,
-    "end": 1789209960000,
-    "status": "aankomend",
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789209960000:arsenal - chelsea",
-    "externalId": null,
-    "title": "Arsenal - Chelsea",
-    "home": "Arsenal",
-    "away": "Chelsea",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789209960000,
-    "end": 1789210680000,
-    "status": "aankomend",
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789218600000:manchester city - coventry city",
-    "externalId": null,
-    "title": "Manchester City - Coventry City",
-    "home": "Manchester City",
-    "away": "Coventry City",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789218600000,
-    "end": 1789219320000,
-    "status": "aankomend",
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789219320000:ajax - psv",
-    "externalId": null,
-    "title": "Ajax - PSV",
-    "home": "Ajax",
-    "away": "PSV",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1789219320000,
-    "end": 1789220100000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789220100000:arsenal - chelsea",
-    "externalId": null,
-    "title": "Arsenal - Chelsea",
-    "home": "Arsenal",
-    "away": "Chelsea",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789220100000,
-    "end": 1789220400000,
-    "status": "aankomend",
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789226700000:everton - manchester united",
-    "externalId": null,
-    "title": "Everton - Manchester United",
-    "home": "Everton",
-    "away": "Manchester United",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789226700000,
-    "end": 1789227300000,
-    "status": "aankomend",
-    "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789227300000:ajax - psv",
-    "externalId": null,
-    "title": "Ajax - PSV",
-    "home": "Ajax",
-    "away": "PSV",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1789227300000,
-    "end": 1789228080000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789228080000:arsenal - chelsea",
-    "externalId": null,
-    "title": "Arsenal - Chelsea",
-    "home": "Arsenal",
-    "away": "Chelsea",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789228080000,
-    "end": 1789228500000,
-    "status": "aankomend",
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789233300000:ajax - psv",
-    "externalId": null,
-    "title": "Ajax - PSV",
-    "home": "Ajax",
-    "away": "PSV",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1789233300000,
-    "end": 1789234020000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789234020000:manchester city - coventry city",
-    "externalId": null,
-    "title": "Manchester City - Coventry City",
-    "home": "Manchester City",
-    "away": "Coventry City",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789234020000,
-    "end": 1789234740000,
-    "status": "aankomend",
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789234740000:everton - manchester united",
-    "externalId": null,
-    "title": "Everton - Manchester United",
-    "home": "Everton",
-    "away": "Manchester United",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789234740000,
-    "end": 1789235040000,
-    "status": "aankomend",
-    "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789235040000:arsenal - chelsea",
-    "externalId": null,
-    "title": "Arsenal - Chelsea",
-    "home": "Arsenal",
-    "away": "Chelsea",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789235040000,
-    "end": 1789235700000,
-    "status": "aankomend",
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1587,15 +1449,38 @@
     ]
   },
   {
-    "id": "sport:match:1789242900000:arsenal - chelsea",
+    "id": "sport:match:1789242900000:beoordeelt de pro league-shirts",
+    "externalId": null,
+    "title": "Beoordeelt de Pro League-shirts",
+    "home": "Beoordeelt de Pro League",
+    "away": "shirts",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1789242900000,
+    "end": 1789248420000,
+    "status": "aankomend",
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1789248420000:arsenal - chelsea",
     "externalId": null,
     "title": "Arsenal - Chelsea",
     "home": "Arsenal",
     "away": "Chelsea",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789242900000,
-    "end": 1789243620000,
+    "start": 1789248420000,
+    "end": 1789249140000,
     "status": "aankomend",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
@@ -1610,15 +1495,15 @@
     ]
   },
   {
-    "id": "sport:match:1789243620000:feyenoord - ado den haag",
+    "id": "sport:match:1789249140000:feyenoord - ado den haag",
     "externalId": null,
     "title": "Feyenoord - ADO Den Haag",
     "home": "Feyenoord",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789243620000,
-    "end": 1789249920000,
+    "start": 1789249140000,
+    "end": 1789256340000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1633,84 +1518,15 @@
     ]
   },
   {
-    "id": "sport:match:1789249920000:ajax - psv",
-    "externalId": null,
-    "title": "Ajax - PSV",
-    "home": "Ajax",
-    "away": "PSV",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1789249920000,
-    "end": 1789256340000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789205280000:turkije - mx2: race 1",
-    "externalId": null,
-    "title": "Turkije - MX2: Race 1",
-    "home": "Turkije",
-    "away": "MX2: Race 1",
-    "competition": null,
-    "sport": null,
-    "start": 1789205280000,
-    "end": 1789208760000,
-    "status": "aankomend",
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:match:1789208760000:turkije - mxgp: race 1",
-    "externalId": null,
-    "title": "Turkije - MXGP: Race 1",
-    "home": "Turkije",
-    "away": "MXGP: Race 1",
-    "competition": null,
-    "sport": null,
-    "start": 1789208760000,
-    "end": 1789212300000,
-    "status": "aankomend",
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:match:1789212300000:turkije - mx2: race 2",
+    "id": "sport:match:1789212120000:turkije - mx2: race 2",
     "externalId": null,
     "title": "Turkije - MX2: Race 2",
     "home": "Turkije",
     "away": "MX2: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1789212300000,
-    "end": 1789215900000,
+    "start": 1789212120000,
+    "end": 1789215720000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
@@ -1748,17 +1564,17 @@
     ]
   },
   {
-    "id": "sport:match:1789249200000:turkije - mx2: race 2",
+    "id": "sport:match:1789226700000:beoordeelt de pro league-shirts",
     "externalId": null,
-    "title": "Turkije - MX2: Race 2",
-    "home": "Turkije",
-    "away": "MX2: Race 2",
+    "title": "Beoordeelt de Pro League-shirts",
+    "home": "Beoordeelt de Pro League",
+    "away": "shirts",
     "competition": null,
-    "sport": null,
-    "start": 1789249200000,
-    "end": 1789252740000,
+    "sport": "Voetbal",
+    "start": 1789226700000,
+    "end": 1789232100000,
     "status": "aankomend",
-    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"

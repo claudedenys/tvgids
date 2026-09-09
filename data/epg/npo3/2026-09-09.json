@@ -1,9 +1,9 @@
 [
   {
-    "id": "npo3:1788911700000:3776ld",
+    "id": "npo3:1788912000000:3776ld",
     "channel": "npo3",
     "title": "Eva",
-    "start": 1788911700000,
+    "start": 1788912000000,
     "end": 1788915000000,
     "description": "Schuif aan bij het gesprek van de dag met Eva Jinek. Met iedere dag de verhalen achter het nieuws, inspirerende gesprekken en verrassende liveoptredens.",
     "category": [
@@ -88,7 +88,7 @@
     "channel": "npo3",
     "title": "NOS Jeugdjournaal met gebarentaal",
     "start": 1788921300000,
-    "end": 1788922440000,
+    "end": 1788922560000,
     "description": "Nieuwsprogramma voor de Nederlandse jeugd. Geschikt voor kinderen van negen tot twaalf. Met gebarentolk.",
     "category": [
       "Actua"
@@ -112,10 +112,10 @@
     }
   },
   {
-    "id": "npo3:1788922440000:1szo1ev",
+    "id": "npo3:1788922560000:1szo1ev",
     "channel": "npo3",
     "title": "Tekst-TV",
-    "start": 1788922440000,
+    "start": 1788922560000,
     "end": 1788926460000,
     "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
     "category": [
@@ -2360,7 +2360,7 @@
     "channel": "npo3",
     "title": "Stip it: de pestpodcast",
     "start": 1788965100000,
-    "end": 1788967800000,
+    "end": 1788966300000,
     "description": "Nick en Floris werden allebei gepest om hun uiterlijk. Nick was heel groot en een beetje dikkig (eigen woorden) en Floris heel lang en met rood haar. Ze hebben allebei ook met terugslaan hun grens aangegeven. Werkte dat? En hebben ze spijt van hun gedrag?",
     "category": [
       "Entertainment"
@@ -2381,6 +2381,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34004638~~2FSH065957210000"
+    }
+  },
+  {
+    "id": "npo3:1788966300000:2gh8on",
+    "channel": "npo3",
+    "title": "The Lady Grace Mysteries",
+    "start": 1788966300000,
+    "end": 1788967800000,
+    "description": "Madam Hilliard is aan het hof om de portretten af te maken. Grace is na haar avontuur met Spinnenweb weer voldoende hersteld om voor haar model te zitten, net als Lady Sarah en Lady Jane, die nu de voornaamste verdachten zijn.",
+    "category": [
+      "Dramaserie",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32874510~~2FEP065210330008%2Cimi%3Ae09b01ab81c5c5fa93df399c70c24a6c1e64f5fd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 8,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32874510~~2FEP065210330008,imi:e09b01ab81c5c5fa93df399c70c24a6c1e64f5fd",
+      "episodeName": "De schilder",
+      "genres": [
+        "Dramaserie",
+        "Avontuur"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32851765~~2FSH065210330000"
     }
   },
   {
@@ -2566,7 +2596,7 @@
     "channel": "npo3",
     "title": "Daten in het Dorp op Texel",
     "start": 1788974700000,
-    "end": 1788978300000,
+    "end": 1788978000000,
     "description": "De mannen zetten hun zoektocht voort en bellen met de vrouwen van hun keuze. Niet iedereen krijgt goed nieuws... Jacco twijfelt en vraagt advies aan zijn moeder. Ondertussen start het echte daten, waardoor de deelnemers elkaar nog beter leren kennen.",
     "category": [
       "Entertainment"
@@ -2590,10 +2620,10 @@
     }
   },
   {
-    "id": "npo3:1788978300000:1omaj2j",
+    "id": "npo3:1788978000000:1omaj2j",
     "channel": "npo3",
     "title": "Concert at SEA 2026",
-    "start": 1788978300000,
+    "start": 1788978000000,
     "end": 1788984000000,
     "description": "Verslag van het driedaagse muziekfestival op de Brouwersdam in Zeeland. Marlijn Weerdenburg neemt de kijker mee langs de hoogtepunten van een weekend vol zon, zee, strand en vooral veel muziek, met optredens van onder anderen Suzan & Freek, DI-RECT, Ilse DeLange, Pommelien Thijs en BLØF.",
     "category": [

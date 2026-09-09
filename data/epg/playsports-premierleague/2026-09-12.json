@@ -32,7 +32,7 @@
     "channel": "playsports-premierleague",
     "title": "Play Sports",
     "start": 1789185600000,
-    "end": 1789207200000,
+    "end": 1789190700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -56,38 +56,70 @@
     }
   },
   {
-    "id": "playsports-premierleague:1789207200000:xykime",
+    "id": "playsports-premierleague:1789190700000:9ejmq0",
     "channel": "playsports-premierleague",
-    "title": "Play Sports",
-    "start": 1789207200000,
-    "end": 1789228800000,
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "title": "Solheim Cup 2026",
+    "start": 1789190700000,
+    "end": 1789212300000,
+    "description": "Verslag van de tweede dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "category": [
-      "Sport"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ada0f75138aca4fb569f4bb2b569fa29f34ff83b1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33883496~~2FEP065738020004%2Cimi%3Ab6620ba7a4a0f12be0b8473d86e3eecb17c7d8f3/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 38020000,
+    "episode": 2026091204,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:da0f75138aca4fb569f4bb2b569fa29f34ff83b1",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33883496~~2FEP065738020004,imi:b6620ba7a4a0f12be0b8473d86e3eecb17c7d8f3",
+      "episodeName": "Dag 2",
       "genres": [
-        "Sport"
+        "Sport",
+        "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33713632~~2FSH065738020000"
     }
   },
   {
-    "id": "playsports-premierleague:1789228800000:xykime",
+    "id": "playsports-premierleague:1789212300000:9ejmq0",
+    "channel": "playsports-premierleague",
+    "title": "Solheim Cup 2026",
+    "start": 1789212300000,
+    "end": 1789232400000,
+    "description": "Verslag van de tweede dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33883496~~2FEP065738020004%2Cimi%3Ab419f1c5e8b37766a405b3bbe7418bbc36d98670/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 38020000,
+    "episode": 2026091204,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33883496~~2FEP065738020004,imi:b419f1c5e8b37766a405b3bbe7418bbc36d98670",
+      "episodeName": "Dag 2",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33713632~~2FSH065738020000"
+    }
+  },
+  {
+    "id": "playsports-premierleague:1789232400000:xykime",
     "channel": "playsports-premierleague",
     "title": "Play Sports",
-    "start": 1789228800000,
+    "start": 1789232400000,
     "end": 1789250400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [

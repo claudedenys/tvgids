@@ -2250,7 +2250,7 @@
     "channel": "ketnet",
     "title": "Quentin Blake's mooiste verhalen",
     "start": 1789223400000,
-    "end": 1789224900000,
+    "end": 1789225200000,
     "description": "Jack en Nancy worden weggeblazen naar een tropisch eiland en beleven veel nieuwe avonturen. Nadat ze heimwee hebben gekregen, zien ze een schip en ontsnappen ze, beseffend dat er geen plek is zoals thuis.",
     "category": [
       "Kids",
@@ -2276,71 +2276,11 @@
     }
   },
   {
-    "id": "ketnet:1789224900000:h5aup8",
-    "channel": "ketnet",
-    "title": "Superheldenschool",
-    "start": 1789224900000,
-    "end": 1789225800000,
-    "description": "Raymond is supersterk geworden en neemt het in een vriendschappelijk gevecht op tegen de levensgevaarlijke Pletter uit een andere klas. Brander en Kine proberen hem te helpen, want Raymonds krachten zijn misschien niet echt.",
-    "category": [
-      "Kids",
-      "Avontuur"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22751522~~2FEP044170750012%2Cimi%3Abc41ca723f967e374535ce6ee5dd75cc75c9777a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 12,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22751522~~2FEP044170750012,imi:bc41ca723f967e374535ce6ee5dd75cc75c9777a",
-      "episodeName": "Overmoedige Raymond",
-      "genres": [
-        "Kids",
-        "Avontuur"
-      ],
-      "productionDate": "2022",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F21369892~~2FSH044170750000"
-    }
-  },
-  {
-    "id": "ketnet:1789225800000:y6kuow",
-    "channel": "ketnet",
-    "title": "Waiko: reis door de ruimte",
-    "start": 1789225800000,
-    "end": 1789226100000,
-    "description": "Elke nacht fonkelen er duizenden sterren aan de hemel. Om ze te herkennen, bedachten mensen figuren zoals de stier en de schorpioen. Nova en Bibi bewonderen al die prachtige sterrenbeelden en proberen ook de Poolster te vinden.",
-    "category": [
-      "Avontuur",
-      "Educatie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32005689~~2FEP061953480013%2Cimi%3Ae041a70c03fa19b05dc2776cc7c9a2c28184bb45/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 13,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32005689~~2FEP061953480013,imi:e041a70c03fa19b05dc2776cc7c9a2c28184bb45",
-      "episodeName": "Verbeelding met sterrenbeelden",
-      "genres": [
-        "Avontuur",
-        "Educatie"
-      ],
-      "productionDate": "2025",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31888542~~2FSH061953480000"
-    }
-  },
-  {
-    "id": "ketnet:1789226100000:1lmofl6",
+    "id": "ketnet:1789225200000:1lmofl6",
     "channel": "ketnet",
     "title": "Nachtwacht",
-    "start": 1789226100000,
-    "end": 1789227900000,
+    "start": 1789225200000,
+    "end": 1789226700000,
     "description": "Sacha maakt kennis met Jim, een leuke jongen. Maar Wilko vertrouwt hem helemaal niet. Hij verbergt iets in de oude schuur, nabij het bos.",
     "category": [
       "Kids",
@@ -2366,11 +2306,41 @@
     }
   },
   {
-    "id": "ketnet:1789227900000:2msu2",
+    "id": "ketnet:1789226700000:2udwcu",
+    "channel": "ketnet",
+    "title": "GameKeepers",
+    "start": 1789226700000,
+    "end": 1789228200000,
+    "description": "Mats gaat het spel in: een duistere versie van de villa. Kopieën van zijn vrienden zijn de tegenstanders. Sari is het spel ingezogen en is van uiterlijk veranderd. Enkel de gamekey, een handspiegel, kan haar terug in zichzelf veranderen.",
+    "category": [
+      "Kids",
+      "Drama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23296252~~2FEP039848130021%2Cimi%3A89b407dbcb92d88a566227a8de014df531e40e4f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23296252~~2FEP039848130021,imi:89b407dbcb92d88a566227a8de014df531e40e4f",
+      "episodeName": "Wrong Reflections",
+      "genres": [
+        "Kids",
+        "Drama"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8f18b814-0b50-4ebc-ad0d-9a6373585d9b"
+    }
+  },
+  {
+    "id": "ketnet:1789228200000:2msu2",
     "channel": "ketnet",
     "title": "Wrapper met een W videoclip",
-    "start": 1789227900000,
-    "end": 1789228200000,
+    "start": 1789228200000,
+    "end": 1789228500000,
     "description": "Videoclip voor de song 'Wrapper met een W 2026'.",
     "category": [
       "Kids"
@@ -2394,11 +2364,11 @@
     }
   },
   {
-    "id": "ketnet:1789228200000:ieb1f1",
+    "id": "ketnet:1789228500000:ieb1f1",
     "channel": "ketnet",
     "title": "De week van Karrewiet",
-    "start": 1789228200000,
-    "end": 1789228800000,
+    "start": 1789228500000,
+    "end": 1789229100000,
     "description": "Weekoverzicht van dit infomagazine voor de jeugd.",
     "category": [
       "Kids",
@@ -2424,11 +2394,11 @@
     }
   },
   {
-    "id": "ketnet:1789228800000:1wu7k5",
+    "id": "ketnet:1789229100000:1wu7k5",
     "channel": "ketnet",
     "title": "Ket & Doc",
-    "start": 1789228800000,
-    "end": 1789229700000,
+    "start": 1789229100000,
+    "end": 1789230000000,
     "description": "De elfjarige Jip is voor het eerst verliefd. Daar wil zijn kleine zusje Fien van negen jaar alles over weten. Ze is nieuwsgierig, maar ook een beetje jaloers en bang dat hun onafscheidelijke band verbroken kan worden.",
     "category": [
       "Docu"
@@ -2452,11 +2422,11 @@
     }
   },
   {
-    "id": "ketnet:1789229700000:1vvol5a",
+    "id": "ketnet:1789230000000:1vvol5a",
     "channel": "ketnet",
     "title": "Wrappers met een W",
-    "start": 1789229700000,
-    "end": 1789230600000,
+    "start": 1789230000000,
+    "end": 1789230900000,
     "description": "Wanneer Harry Styles last minute niet naar Hallo Kroket blijkt te kunnen komen, moeten Emma en Thomas in een race tegen de tijd op zoek naar een waardige vervanger.",
     "category": [
       "Kids"
@@ -2480,11 +2450,11 @@
     }
   },
   {
-    "id": "ketnet:1789230600000:y6kuow",
+    "id": "ketnet:1789230900000:y6kuow",
     "channel": "ketnet",
     "title": "Waiko: reis door de ruimte",
-    "start": 1789230600000,
-    "end": 1789230900000,
+    "start": 1789230900000,
+    "end": 1789231200000,
     "description": "Nova's favoriete planeet is zonder twijfel de mensenplaneet Aarde! Ze voelt zich helemaal thuis op deze blauwe aardbol met lucht om te kunnen ademen en temperaturen die niet te koud of te warm zijn. Wat wil een mens... euh alien nog meer?!",
     "category": [
       "Avontuur",
@@ -2510,11 +2480,11 @@
     }
   },
   {
-    "id": "ketnet:1789230900000:p8c4k7",
+    "id": "ketnet:1789231200000:p8c4k7",
     "channel": "ketnet",
     "title": "Grizzy & the Lemmings",
-    "start": 1789230900000,
-    "end": 1789231500000,
+    "start": 1789231200000,
+    "end": 1789231800000,
     "description": "Grizzy ergert zich aan een luidruchtig gevangenisspel tussen de Lemmingen en een wasbeer en onderbreekt hen. Ze vallen naar beneden en landen op een open plek waar hun val een zwart-witte tegel vernietigt die yin en yang voorstelt.",
     "category": [
       "Kids",
@@ -2540,10 +2510,10 @@
     }
   },
   {
-    "id": "ketnet:1789231500000:vl7ykq",
+    "id": "ketnet:1789231800000:vl7ykq",
     "channel": "ketnet",
     "title": "Hoe moeilijk kan het zijn?",
-    "start": 1789231500000,
+    "start": 1789231800000,
     "end": 1789232400000,
     "description": "Nadat een vliegtuig geland is, moeten de piloten aan de gate parkeren. En er staan zelfs strepen op de landingsbaan, die ze gewoon moeten volgen. Dus waarom staat er daar nog iemand naar hen te zwaaien?",
     "category": [

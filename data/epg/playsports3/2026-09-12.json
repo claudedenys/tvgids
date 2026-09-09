@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1789165800000:1va4v2m",
+    "id": "playsports3:1789169100000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789165800000,
-    "end": 1789172220000,
+    "start": 1789169100000,
+    "end": 1789175460000,
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1789172220000:xykime",
+    "id": "playsports3:1789175460000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1789172220000,
-    "end": 1789189200000,
+    "start": 1789175460000,
+    "end": 1789190400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,35 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1789189200000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1789189200000,
-    "end": 1789191000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:871b6174c7ffb97e0877669b8b0c063d924d37d0",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1789191000000:1va4v2m",
+    "id": "playsports3:1789190400000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789191000000,
-    "end": 1789197300000,
+    "start": 1789190400000,
+    "end": 1789197120000,
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -112,10 +88,10 @@
     }
   },
   {
-    "id": "playsports3:1789197300000:1va4v2m",
+    "id": "playsports3:1789197120000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789197300000,
+    "start": 1789197120000,
     "end": 1789203600000,
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -202,130 +178,40 @@
     }
   },
   {
-    "id": "playsports3:1789208400000:1va4v2m",
+    "id": "playsports3:1789208400000:i67pjl",
     "channel": "playsports3",
-    "title": "Eredivisie",
+    "title": "Play Sports Highlights",
     "start": 1789208400000,
-    "end": 1789209120000,
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
+    "end": 1789211100000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981%2Cimi%3A9ce9e5f3226114e650350c3ef00a6b0d6c858916/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713170%2Cimi%3Ab6329bdcb01db86dcbdd1656df452bd0e0f6514c/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026090581,
+    "season": 50390000,
+    "episode": 545713170,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981,imi:9ce9e5f3226114e650350c3ef00a6b0d6c858916",
-      "episodeName": "Ajax - PSV",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713170,imi:b6329bdcb01db86dcbdd1656df452bd0e0f6514c",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1789209120000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1789209120000,
-    "end": 1789209960000,
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33579586~~2FEP033946612449%2Cimi%3Aa783dde8f890754ad1179f4fc47852584e501b72/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090549,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33579586~~2FEP033946612449,imi:a783dde8f890754ad1179f4fc47852584e501b72",
-      "episodeName": "Manchester City - Coventry City",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1789209960000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1789209960000,
-    "end": 1789210680000,
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580077~~2FEP033946612455%2Cimi%3Adb08c0007df1317907ddb137850a4252216a1981/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090655,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580077~~2FEP033946612455,imi:db08c0007df1317907ddb137850a4252216a1981",
-      "episodeName": "Arsenal - Chelsea",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1789210680000:arbc9d",
-    "channel": "playsports3",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1789210680000,
-    "end": 1789211400000,
-    "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32387727~~2FEP063235100084%2Cimi%3Aab431d5f8479fe29196940009113124cb9c9d464/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026090684,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32387727~~2FEP063235100084,imi:ab431d5f8479fe29196940009113124cb9c9d464",
-      "episodeName": "GP van Italië: Race",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports3:1789211400000:1p2p7re",
+    "id": "playsports3:1789211100000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1789211400000,
+    "start": 1789211100000,
     "end": 1789215000000,
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
@@ -382,93 +268,33 @@
     }
   },
   {
-    "id": "playsports3:1789218600000:1prlzbg",
+    "id": "playsports3:1789218600000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1789218600000,
-    "end": 1789219320000,
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33579586~~2FEP033946612449%2Cimi%3A016cb8a77e29c4dc9e265f4084d81fb983a99c2e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090549,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33579586~~2FEP033946612449,imi:016cb8a77e29c4dc9e265f4084d81fb983a99c2e",
-      "episodeName": "Manchester City - Coventry City",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1789219320000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789219320000,
-    "end": 1789220100000,
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981%2Cimi%3A90527ffcea9af2422f8d5cb83895e4f098c7b199/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026090581,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981,imi:90527ffcea9af2422f8d5cb83895e4f098c7b199",
-      "episodeName": "Ajax - PSV",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1789220100000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1789220100000,
     "end": 1789220400000,
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580077~~2FEP033946612455%2Cimi%3Afcf26b6110b56d9bb420471b517e282e518653de/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713171%2Cimi%3Aa15e34d1e921cbbc0332d5a0c6e89d9bed344ff4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090655,
+    "season": 50390000,
+    "episode": 545713171,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580077~~2FEP033946612455,imi:fcf26b6110b56d9bb420471b517e282e518653de",
-      "episodeName": "Arsenal - Chelsea",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713171,imi:a15e34d1e921cbbc0332d5a0c6e89d9bed344ff4",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -502,93 +328,33 @@
     }
   },
   {
-    "id": "playsports3:1789226700000:1prlzbg",
+    "id": "playsports3:1789226700000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1789226700000,
-    "end": 1789227300000,
-    "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580016~~2FEP033946612454%2Cimi%3Abf9d02e4e87f1e5ede690d1b548c3b8c39246a5a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090654,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580016~~2FEP033946612454,imi:bf9d02e4e87f1e5ede690d1b548c3b8c39246a5a",
-      "episodeName": "Everton - Manchester United",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1789227300000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789227300000,
-    "end": 1789228080000,
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981%2Cimi%3Acd7f470efc78386c9db32f7a8c1c67021d5d5e38/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026090581,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981,imi:cd7f470efc78386c9db32f7a8c1c67021d5d5e38",
-      "episodeName": "Ajax - PSV",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1789228080000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1789228080000,
     "end": 1789228500000,
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580077~~2FEP033946612455%2Cimi%3A894a538e282e33c9519900cc5f633f2c8a660e84/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713172%2Cimi%3Aa1f5111166d363d14252dedb744e3a3d4ad3bf57/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090655,
+    "season": 50390000,
+    "episode": 545713172,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580077~~2FEP033946612455,imi:894a538e282e33c9519900cc5f633f2c8a660e84",
-      "episodeName": "Arsenal - Chelsea",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713172,imi:a1f5111166d363d14252dedb744e3a3d4ad3bf57",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -652,123 +418,33 @@
     }
   },
   {
-    "id": "playsports3:1789233300000:1va4v2m",
+    "id": "playsports3:1789233300000:i67pjl",
     "channel": "playsports3",
-    "title": "Eredivisie",
+    "title": "Play Sports Highlights",
     "start": 1789233300000,
-    "end": 1789234020000,
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981%2Cimi%3A2148db6ac17e6c5b855dfaf8abe9aaecba37a828/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026090581,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981,imi:2148db6ac17e6c5b855dfaf8abe9aaecba37a828",
-      "episodeName": "Ajax - PSV",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1789234020000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1789234020000,
-    "end": 1789234740000,
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33579586~~2FEP033946612449%2Cimi%3A243dafa0cec61b1d08b3200a4c0dfbcfe3dfbf36/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090549,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33579586~~2FEP033946612449,imi:243dafa0cec61b1d08b3200a4c0dfbcfe3dfbf36",
-      "episodeName": "Manchester City - Coventry City",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1789234740000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1789234740000,
-    "end": 1789235040000,
-    "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580016~~2FEP033946612454%2Cimi%3A16a68608fb411e64977c618313b663503db7d417/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090654,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580016~~2FEP033946612454,imi:16a68608fb411e64977c618313b663503db7d417",
-      "episodeName": "Everton - Manchester United",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1789235040000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1789235040000,
     "end": 1789235700000,
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580077~~2FEP033946612455%2Cimi%3A577bb4354a77360d19d8c7897a6c5e3205176f92/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713173%2Cimi%3Aafec9b1f84f48d49a1e130a76bd52bf7792222d2/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026090655,
+    "season": 50390000,
+    "episode": 545713173,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580077~~2FEP033946612455,imi:577bb4354a77360d19d8c7897a6c5e3205176f92",
-      "episodeName": "Arsenal - Chelsea",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F545713173,imi:afec9b1f84f48d49a1e130a76bd52bf7792222d2",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -802,11 +478,41 @@
     }
   },
   {
-    "id": "playsports3:1789242900000:1prlzbg",
+    "id": "playsports3:1789242900000:3tkxx5",
+    "channel": "playsports3",
+    "title": "MIDMID",
+    "start": 1789242900000,
+    "end": 1789248420000,
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3A2b794317f8b28abc2ea6142fa726d90c0a117d9c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:2b794317f8b28abc2ea6142fa726d90c0a117d9c",
+      "episodeName": "Beoordeelt de Pro League-shirts",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
+    }
+  },
+  {
+    "id": "playsports3:1789248420000:1prlzbg",
     "channel": "playsports3",
     "title": "Premier League",
-    "start": 1789242900000,
-    "end": 1789243620000,
+    "start": 1789248420000,
+    "end": 1789249140000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -832,11 +538,11 @@
     }
   },
   {
-    "id": "playsports3:1789243620000:1va4v2m",
+    "id": "playsports3:1789249140000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789243620000,
-    "end": 1789249920000,
+    "start": 1789249140000,
+    "end": 1789256340000,
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -852,36 +558,6 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33557670~~2FEP035850991974,imi:03df98e24656cee5ad1220ca198afd6f740f687b",
       "episodeName": "Feyenoord - ADO Den Haag",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1789249920000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789249920000,
-    "end": 1789256340000,
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981%2Cimi%3Aa969c5bdf6ee20bcc41fccb9a733104e82205452/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026090581,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981,imi:a969c5bdf6ee20bcc41fccb9a733104e82205452",
-      "episodeName": "Ajax - PSV",
       "genres": [
         "Sport",
         "Voetbal"

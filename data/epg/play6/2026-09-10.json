@@ -32,7 +32,7 @@
     "channel": "play6",
     "title": "Pawn Stars",
     "start": 1788998700000,
-    "end": 1789001700000,
+    "end": 1789001100000,
     "description": "Er komt iemand naar de winkel met een foto van Abraham en Mary Todd Lincoln. Chumlee moet een beslissing nemen over een paasei dat getekend is door de hele familie Bush.",
     "category": [
       "Reality",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play6:1789001700000:48zb9",
+    "id": "play6:1789001100000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1789001700000,
-    "end": 1789009200000,
+    "start": 1789001100000,
+    "end": 1789009080000,
     "description": null,
     "category": [],
     "image": null,
@@ -74,6 +74,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6677717294648390f4cf1ff8d317743a47d93653",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1789009080000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1789009080000,
+    "end": 1789009200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:8c59c73ef2099da3524aee4473a76059b3b9201a",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

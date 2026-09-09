@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1789078800000:1va4v2m",
+    "id": "playsports3:1789078980000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789078800000,
-    "end": 1789085280000,
+    "start": 1789078980000,
+    "end": 1789085640000,
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1789085280000:xykime",
+    "id": "playsports3:1789085640000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1789085280000,
-    "end": 1789102800000,
+    "start": 1789085640000,
+    "end": 1789103100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,221 +58,131 @@
     }
   },
   {
-    "id": "playsports3:1789102800000:1va4v2m",
+    "id": "playsports3:1789103100000:3tkxx5",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789102800000,
-    "end": 1789109100000,
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
+    "title": "MIDMID",
+    "start": 1789103100000,
+    "end": 1789104300000,
+    "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981%2Cimi%3Aa67f02e3fb8639b83c826e966abb3d6ba37a708b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188%2Cimi%3Aa572d1ae9640cd630541e4f30eb253c569669145/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026090581,
+    "season": 7,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981,imi:a67f02e3fb8639b83c826e966abb3d6ba37a708b",
-      "episodeName": "Ajax - PSV",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33871186~~2FEP037584270188,imi:a572d1ae9640cd630541e4f30eb253c569669145",
+      "episodeName": "Beoordeelt de Pro League-shirts",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports3:1789109100000:1va4v2m",
+    "id": "playsports3:1789104300000:9ejmq0",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789109100000,
-    "end": 1789115400000,
-    "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
+    "title": "Solheim Cup 2026",
+    "start": 1789104300000,
+    "end": 1789125900000,
+    "description": "Verslag van de eerste dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557670~~2FEP035850991974%2Cimi%3A91b05a60c8d9a3bad28f5b30f68dbc2be19413a2/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33883492~~2FEP065738020003%2Cimi%3A6b38798193a4d0d931a7ead50588788a882894a5/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026083074,
+    "season": 38020000,
+    "episode": 2026091103,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557670~~2FEP035850991974,imi:91b05a60c8d9a3bad28f5b30f68dbc2be19413a2",
-      "episodeName": "Feyenoord - ADO Den Haag",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33883492~~2FEP065738020003,imi:6b38798193a4d0d931a7ead50588788a882894a5",
+      "episodeName": "Dag 1",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Golf"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33713632~~2FSH065738020000"
     }
   },
   {
-    "id": "playsports3:1789115400000:1va4v2m",
+    "id": "playsports3:1789125900000:9ejmq0",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789115400000,
-    "end": 1789121700000,
-    "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
+    "title": "Solheim Cup 2026",
+    "start": 1789125900000,
+    "end": 1789146000000,
+    "description": "Verslag van de eerste dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557705~~2FEP035850991976%2Cimi%3A5f4f9562ee407d94579ea2220e259d2083b5510a/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33883492~~2FEP065738020003%2Cimi%3Ae553bcfd000618f61f2771e8d437dc816354f2e6/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026083076,
+    "season": 38020000,
+    "episode": 2026091103,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557705~~2FEP035850991976,imi:5f4f9562ee407d94579ea2220e259d2083b5510a",
-      "episodeName": "Telstar - Ajax",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33883492~~2FEP065738020003,imi:e553bcfd000618f61f2771e8d437dc816354f2e6",
+      "episodeName": "Dag 1",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Golf"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33713632~~2FSH065738020000"
     }
   },
   {
-    "id": "playsports3:1789121700000:1va4v2m",
+    "id": "playsports3:1789146000000:1p2p7re",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789121700000,
-    "end": 1789128000000,
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
+    "title": "The Paddock Podcast",
+    "start": 1789146000000,
+    "end": 1789149780000,
+    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981%2Cimi%3Ae1c66ba97e123e64588ee97b355f7baccb9b2ed9/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33907904~~2FEP063090210017%2Cimi%3Acdc419a5b28c2de508845d7f95a9f15dd05e701d/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026090581,
+    "season": 6,
+    "episode": 15,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981,imi:e1c66ba97e123e64588ee97b355f7baccb9b2ed9",
-      "episodeName": "Ajax - PSV",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33907904~~2FEP063090210017,imi:cdc419a5b28c2de508845d7f95a9f15dd05e701d",
+      "episodeName": "Aflevering 15",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Motorsport"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20976076~~2FSH063090210000"
     }
   },
   {
-    "id": "playsports3:1789128000000:1va4v2m",
+    "id": "playsports3:1789149780000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789128000000,
-    "end": 1789134300000,
-    "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557670~~2FEP035850991974%2Cimi%3A7a789aa03ee51a60a741da5fa16963f1cc11d515/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026083074,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557670~~2FEP035850991974,imi:7a789aa03ee51a60a741da5fa16963f1cc11d515",
-      "episodeName": "Feyenoord - ADO Den Haag",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1789134300000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789134300000,
-    "end": 1789140600000,
-    "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557705~~2FEP035850991976%2Cimi%3A9c4fe08dc094515e0d113f70b80952d0b989321a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026083076,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557705~~2FEP035850991976,imi:9c4fe08dc094515e0d113f70b80952d0b989321a",
-      "episodeName": "Telstar - Ajax",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1789140600000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789140600000,
-    "end": 1789146900000,
-    "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981%2Cimi%3Ad9a919c14a535f1de737c718b2cf481a64481917/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026090581,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33557829~~2FEP035850991981,imi:d9a919c14a535f1de737c718b2cf481a64481917",
-      "episodeName": "Ajax - PSV",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1789146900000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1789146900000,
-    "end": 1789153200000,
+    "start": 1789149780000,
+    "end": 1789156200000,
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -298,11 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1789153200000:1va4v2m",
+    "id": "playsports3:1789156200000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789153200000,
-    "end": 1789159500000,
+    "start": 1789156200000,
+    "end": 1789162440000,
     "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -328,11 +238,11 @@
     }
   },
   {
-    "id": "playsports3:1789159500000:1va4v2m",
+    "id": "playsports3:1789162440000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789159500000,
-    "end": 1789165800000,
+    "start": 1789162440000,
+    "end": 1789169100000,
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
