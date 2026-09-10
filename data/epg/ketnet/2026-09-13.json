@@ -2702,7 +2702,7 @@
     "channel": "ketnet",
     "title": "Sportweekend met VGT",
     "start": 1789324800000,
-    "end": 1789326900000,
+    "end": 1789326600000,
     "description": "Een uitgebreid overzicht van de sportactualiteit. Getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
       "Actua"
@@ -2726,11 +2726,41 @@
     }
   },
   {
-    "id": "ketnet:1789326900000:k7oyn7",
+    "id": "ketnet:1789326600000:h4oe6o",
+    "channel": "ketnet",
+    "title": "Sporza: FIBA 3x3 Europe Cup 2026",
+    "start": 1789326600000,
+    "end": 1789331400000,
+    "description": "Verslag van FIBA 3x3 Europe Cup 2026, gehouden in Antwerpen, België.",
+    "category": [
+      "Sport",
+      "3x3-basketbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34029378~~2FEP066001050004%2Cimi%3Ad317cd4eca5f5fbb7f418ddb46589db8791edb7e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1050000,
+    "episode": 2026091204,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34029378~~2FEP066001050004,imi:d317cd4eca5f5fbb7f418ddb46589db8791edb7e",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "3x3-basketbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33982036~~2FSH066001050000"
+    }
+  },
+  {
+    "id": "ketnet:1789331400000:k7oyn7",
     "channel": "ketnet",
     "title": "De twaalf - De botoxmoorden",
-    "start": 1789326900000,
-    "end": 1789329900000,
+    "start": 1789331400000,
+    "end": 1789334400000,
     "description": "Walter maakt zich klaar voor zijn mama's verjaardag, in de rechtszaal worden de beklaagden verhoord.",
     "category": [
       "Dramaserie"
@@ -2754,10 +2784,10 @@
     }
   },
   {
-    "id": "ketnet:1789329900000:48zb9",
+    "id": "ketnet:1789334400000:48zb9",
     "channel": "ketnet",
     "title": "Geen uitzending",
-    "start": 1789329900000,
+    "start": 1789334400000,
     "end": 1789358400000,
     "description": null,
     "category": [],

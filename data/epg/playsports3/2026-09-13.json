@@ -1,9 +1,9 @@
 [
   {
-    "id": "playsports3:1789256340000:xykime",
+    "id": "playsports3:1789255620000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1789256340000,
+    "start": 1789255620000,
     "end": 1789274700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -302,7 +302,7 @@
     "channel": "playsports3",
     "title": "MIDMID",
     "start": 1789312200000,
-    "end": 1789317600000,
+    "end": 1789316700000,
     "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "category": [
       "Voetbal",
@@ -328,11 +328,41 @@
     }
   },
   {
-    "id": "playsports3:1789317600000:1prlzbg",
+    "id": "playsports3:1789316700000:1p3n9ye",
+    "channel": "playsports3",
+    "title": "UEFA Champions League Highlights",
+    "start": 1789316700000,
+    "end": 1789318200000,
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34019594~~2FEP052508440035%2Cimi%3A11901cf4adabe5a4147eb3c9e5f174f8ab95700a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34019594~~2FEP052508440035,imi:11901cf4adabe5a4147eb3c9e5f174f8ab95700a",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
+    }
+  },
+  {
+    "id": "playsports3:1789318200000:1prlzbg",
     "channel": "playsports3",
     "title": "Premier League",
-    "start": 1789317600000,
-    "end": 1789318500000,
+    "start": 1789318200000,
+    "end": 1789319100000,
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "category": [
       "Sport",
@@ -358,11 +388,11 @@
     }
   },
   {
-    "id": "playsports3:1789318500000:1va4v2m",
+    "id": "playsports3:1789319100000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789318500000,
-    "end": 1789325100000,
+    "start": 1789319100000,
+    "end": 1789325700000,
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -388,11 +418,11 @@
     }
   },
   {
-    "id": "playsports3:1789325100000:1va4v2m",
+    "id": "playsports3:1789325700000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789325100000,
-    "end": 1789331400000,
+    "start": 1789325700000,
+    "end": 1789332000000,
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -418,11 +448,11 @@
     }
   },
   {
-    "id": "playsports3:1789331400000:1va4v2m",
+    "id": "playsports3:1789332000000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789331400000,
-    "end": 1789337640000,
+    "start": 1789332000000,
+    "end": 1789338240000,
     "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",

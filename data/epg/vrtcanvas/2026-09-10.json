@@ -182,7 +182,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 1: De Wereld Vandaag",
     "start": 1789048800000,
-    "end": 1789055400000,
+    "end": 1789050900000,
     "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
     "category": [
       "Actualiteitsmagazine"
@@ -206,11 +206,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1789055400000:49c2e1",
+    "id": "vrtcanvas:1789050900000:49c2e1",
     "channel": "vrtcanvas",
     "title": "Earth",
-    "start": 1789055400000,
-    "end": 1789058700000,
+    "start": 1789050900000,
+    "end": 1789054200000,
     "description": "Dit is het bijna ongeloofwaardige verhaal van hoe onze wereld veranderde van een dorre rots met een eindeloos zwarte hemel, in de planeet zoals we die nu kennen, gehuld in een dunne blauwe strook: onze levensbepalende atmosfeer.",
     "category": [
       "Docu",
@@ -236,31 +236,33 @@
     }
   },
   {
-    "id": "vrtcanvas:1789058700000:377774",
+    "id": "vrtcanvas:1789054200000:1xftmg9",
     "channel": "vrtcanvas",
-    "title": "FLY",
-    "start": 1789058700000,
+    "title": "Sporza: WK Basketbal Vrouwen 2026",
+    "start": 1789054200000,
     "end": 1789063200000,
-    "description": "Brian, Jason, Jules en Kieran verloren als kind hun zelfvertrouwen door de labels 'autisme' en 'beperking'. Nu, als twintigers, zoeken ze hun weg naar zelfstandigheid, liefde, werk, zingeving en geluk. Samen creëerden ze deze film, inclusief de originele soundtrack. Het resultaat is een emotionele en creatieve reis van hun verleden naar een toekomst die ze zelf vormgeven.",
+    "description": "Verslag van de wedstrijd België - Duitsland, gespeeld in de kwartfinale op het WK basketbal vrouwen 2026.",
     "category": [
-      "Docu"
+      "Sport",
+      "Basketbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33968629~~2FSH065887840000~~2Fspecial%2Cimi%3A716261dd6ee197294e9d4e23d89a8868bbf4469d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33840846~~2FEP065944630023%2Cimi%3A37cc04253a1d291d56c7e11cc6b9b1c24e03745c/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 44630000,
+    "episode": 2026091023,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33968629~~2FSH065887840000~~2Fspecial,imi:716261dd6ee197294e9d4e23d89a8868bbf4469d",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33840846~~2FEP065944630023,imi:37cc04253a1d291d56c7e11cc6b9b1c24e03745c",
+      "episodeName": "Kwartfinale: België - Duitsland",
       "genres": [
-        "Docu"
+        "Sport",
+        "Basketbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33580700~~2FSH065944630000"
     }
   },
   {

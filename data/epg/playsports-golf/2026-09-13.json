@@ -180,11 +180,41 @@
     }
   },
   {
-    "id": "playsports-golf:1789299000000:zzkb3f",
+    "id": "playsports-golf:1789299000000:lcxiw",
+    "channel": "playsports-golf",
+    "title": "Road to the Presidents Cup",
+    "start": 1789299000000,
+    "end": 1789302600000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000~~2F544108418%2Cimi%3A6426d7ac8bfe9071965feea3b847bffddb8c8072/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 45610000,
+    "episode": 544108418,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000~~2F544108418,imi:6426d7ac8bfe9071965feea3b847bffddb8c8072",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000"
+    }
+  },
+  {
+    "id": "playsports-golf:1789302600000:zzkb3f",
     "channel": "playsports-golf",
     "title": "DP World Tour",
-    "start": 1789299000000,
-    "end": 1789317000000,
+    "start": 1789302600000,
+    "end": 1789320600000,
     "description": "Verslag van de vierde en laatste dag van de Amgen Irish Open, gespeeld in Straffan, Ierland.",
     "category": [
       "Sport",
@@ -210,11 +240,11 @@
     }
   },
   {
-    "id": "playsports-golf:1789317000000:qt4vc6",
+    "id": "playsports-golf:1789320600000:qt4vc6",
     "channel": "playsports-golf",
     "title": "HotelPlanner Tour Series Hoogtepunten",
-    "start": 1789317000000,
-    "end": 1789318800000,
+    "start": 1789320600000,
+    "end": 1789322400000,
     "description": "Hoogtepunten van de Rosa Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "category": [
       "Sport",
@@ -237,36 +267,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22039946~~2FSH055625730000"
-    }
-  },
-  {
-    "id": "playsports-golf:1789318800000:lcxiw",
-    "channel": "playsports-golf",
-    "title": "Road to the Presidents Cup",
-    "start": 1789318800000,
-    "end": 1789322400000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000~~2F544108418%2Cimi%3A6426d7ac8bfe9071965feea3b847bffddb8c8072/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 45610000,
-    "episode": 544108418,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000~~2F544108418,imi:6426d7ac8bfe9071965feea3b847bffddb8c8072",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000"
     }
   },
   {

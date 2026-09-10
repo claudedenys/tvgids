@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1789083300000:rmqxmh",
+    "id": "play7:1789083600000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1789083300000,
-    "end": 1789086900000,
+    "start": 1789083600000,
+    "end": 1789086600000,
     "description": "Pasgetrouwde Karen en John uit Essex zijn bijna met pensioen. Nu de laatste van de zes jongens die ze samen hebben op het punt staan het huis te verlaten, zijn ze op zoek naar een nieuw avontuur op Gran Canaria.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1789086900000:48zb9",
+    "id": "play7:1789086600000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1789086900000,
-    "end": 1789095600000,
+    "start": 1789086600000,
+    "end": 1789095000000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f4665b3ffa9e0e4e72fcf045de3db7faa7dcc7e5",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1789095000000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1789095000000,
+    "end": 1789095600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:afffe87d3d08025db6b581e4bea98a0d9db08de4",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

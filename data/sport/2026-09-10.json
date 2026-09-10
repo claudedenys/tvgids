@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1788994800000,
     "end": 1789017900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -78,7 +78,7 @@
     "sport": null,
     "start": 1788991200000,
     "end": 1789012800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1789012800000,
     "end": 1789034400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,7 +170,7 @@
     "sport": null,
     "start": 1788999240000,
     "end": 1789014000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -308,7 +308,7 @@
     "sport": null,
     "start": 1788997920000,
     "end": 1789001640000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -331,7 +331,7 @@
     "sport": null,
     "start": 1789001640000,
     "end": 1789017300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -354,7 +354,7 @@
     "sport": null,
     "start": 1789017300000,
     "end": 1789021560000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Aragón, gereden in Aragón, Spanje.",
     "source": "epg",
     "platforms": [
@@ -377,7 +377,7 @@
     "sport": "Tennis",
     "start": 1789021560000,
     "end": 1789032900000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -469,7 +469,7 @@
     "sport": null,
     "start": 1788991200000,
     "end": 1789012800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -492,7 +492,7 @@
     "sport": null,
     "start": 1789012800000,
     "end": 1789034400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -575,86 +575,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1788994800000:18uqtlf",
+    "id": "sport:playsports-golf:1788971700000:186xtng",
     "externalId": null,
-    "title": "The Solheim Cup",
+    "title": "Dag 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1788994800000,
-    "end": 1789000200000,
-    "status": "aankomend",
-    "description": "Hoogtepunten van The Solheim Cup, gespeeld op de Robert Trent Jones Golf Club in Gainesville, Virginia.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1789000200000:lt7aff",
-    "externalId": null,
-    "title": "Omega European Masters",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1789000200000,
-    "end": 1789002000000,
-    "status": "aankomend",
-    "description": "Hoogtepunten van de Omega European Masters, gespeeld op de Crans-sur-Sierre GC in Crans-Montana, Zwitserland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1789002000000:1869fxq",
-    "externalId": null,
-    "title": "English Legends",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1789002000000,
-    "end": 1789005600000,
-    "status": "aankomend",
-    "description": "Hoogtepunten van de English Legends, gespeeld in de European Legends Tour 2026.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1789005600000:ykidjh",
-    "externalId": null,
-    "title": "Walker Cup 2023: Dag 2",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1789005600000,
+    "start": 1788971700000,
     "end": 1789014900000,
-    "status": "aankomend",
-    "description": "Verslag van de tweede dag van de 49ste Walker Cup, gespeeld in St Andrews, Schotland.",
+    "status": "afgelopen",
+    "description": "Verslag van de tweede dag van de Ryder Cup 2025, gespeeld in Farmingdale, New York.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -676,7 +607,7 @@
     "sport": "Golf",
     "start": 1789014900000,
     "end": 1789027200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de 49ste Walker Cup, gespeeld in St Andrews, Schotland.",
     "source": "epg",
     "platforms": [
@@ -699,7 +630,7 @@
     "sport": "Golf",
     "start": 1789027200000,
     "end": 1789038000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de tweede dag van de 49ste Walker Cup, gespeeld in St Andrews, Schotland.",
     "source": "epg",
     "platforms": [
@@ -791,7 +722,7 @@
     "sport": "Voetbal",
     "start": 1789017900000,
     "end": 1789024080000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
     "platforms": [
@@ -814,7 +745,7 @@
     "sport": "Voetbal",
     "start": 1789024080000,
     "end": 1789030560000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
     "platforms": [
@@ -837,7 +768,7 @@
     "sport": "Voetbal",
     "start": 1789030560000,
     "end": 1789036740000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "source": "epg",
     "platforms": [
@@ -998,7 +929,7 @@
     "sport": "Voetbal",
     "start": 1788992580000,
     "end": 1788999240000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1021,7 +952,7 @@
     "sport": "Voetbal",
     "start": 1789014000000,
     "end": 1789020540000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1044,7 +975,7 @@
     "sport": "Voetbal",
     "start": 1789020540000,
     "end": 1789026900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1067,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1789026900000,
     "end": 1789033080000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1319,7 +1250,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1789073700000,
-    "end": 1789079100000,
+    "end": 1789078320000,
     "status": "aankomend",
     "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "source": "epg",

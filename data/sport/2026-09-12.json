@@ -324,13 +324,13 @@
   {
     "id": "sport:playsports3:1789206900000:1p3n9ye",
     "externalId": null,
-    "title": "Aflevering 2",
+    "title": "Aflevering 1",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
     "start": 1789206900000,
-    "end": 1789208400000,
+    "end": 1789208520000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -345,15 +345,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789208400000:i67pjl",
+    "id": "sport:playsports3:1789208520000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789208400000,
-    "end": 1789211100000,
+    "start": 1789208520000,
+    "end": 1789211160000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -368,14 +368,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789211100000:1p2p7re",
+    "id": "sport:playsports3:1789211160000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 15",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1789211100000,
+    "start": 1789211160000,
     "end": 1789215000000,
     "status": "aankomend",
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
@@ -514,7 +514,7 @@
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
     "start": 1789231800000,
-    "end": 1789233300000,
+    "end": 1789233600000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -529,17 +529,40 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789233300000:i67pjl",
+    "id": "sport:playsports3:1789233600000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789233300000,
+    "start": 1789233600000,
     "end": 1789235700000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1789247400000:1p3n9ye",
+    "externalId": null,
+    "title": "Aflevering 1",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1789247400000,
+    "end": 1789249200000,
+    "status": "aankomend",
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -690,15 +713,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789232100000:i67pjl",
+    "id": "sport:playsports4:1789231320000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789232100000,
-    "end": 1789234200000,
+    "start": 1789231320000,
+    "end": 1789233420000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -713,15 +736,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789234200000:1owb2q5",
+    "id": "sport:playsports4:1789233420000:1owb2q5",
     "externalId": null,
     "title": "Mertens vs. Parry",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1789234200000,
-    "end": 1789245420000,
+    "start": 1789233420000,
+    "end": 1789244640000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -736,15 +759,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789245420000:qbgze4",
+    "id": "sport:playsports4:1789244640000:qbgze4",
     "externalId": null,
     "title": "Dag 10",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1789245420000,
-    "end": 1789256700000,
+    "start": 1789244640000,
+    "end": 1789255920000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -790,7 +813,7 @@
     "competition": null,
     "sport": null,
     "start": 1789185600000,
-    "end": 1789190700000,
+    "end": 1789191000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -805,15 +828,15 @@
     ]
   },
   {
-    "id": "sport:playsports-premierleague:1789190700000:9ejmq0",
+    "id": "sport:playsports-premierleague:1789191000000:9ejmq0",
     "externalId": null,
     "title": "Dag 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1789190700000,
-    "end": 1789212300000,
+    "start": 1789191000000,
+    "end": 1789212600000,
     "status": "aankomend",
     "description": "Verslag van de tweede dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "source": "epg",
@@ -828,14 +851,14 @@
     ]
   },
   {
-    "id": "sport:playsports-premierleague:1789212300000:9ejmq0",
+    "id": "sport:playsports-premierleague:1789212600000:9ejmq0",
     "externalId": null,
     "title": "Dag 2",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1789212300000,
+    "start": 1789212600000,
     "end": 1789232400000,
     "status": "aankomend",
     "description": "Verslag van de tweede dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
@@ -989,38 +1012,15 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1789212600000:zzkb3f",
-    "externalId": null,
-    "title": "Amgen Irish Open: Dag 3",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1789212600000,
-    "end": 1789230600000,
-    "status": "aankomend",
-    "description": "Verslag van de derde dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1789230600000:1yrsq46",
+    "id": "sport:playsports-golf:1789212600000:1yrsq46",
     "externalId": null,
     "title": "Bommel en Birdies",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1789230600000,
-    "end": 1789234200000,
+    "start": 1789212600000,
+    "end": 1789216200000,
     "status": "aankomend",
     "description": "In Bommels en Birdies neemt de golfgekke Van Bommel-familie je mee de golfbaan op. Vader Mark van Bommel (ex-international, bondscoach België), zoon Ruben van Bommel (PSV) en dochter Renée van Bommel ontvangen Ronald de Boer (ex-international) en spelen een spannende wedstrijd op het iconische Bernardus. In september 2026 is dit ook het toneel voor de Solheim Cup, het grootste vrouwengolftoernooi ter wereld.",
     "source": "epg",
@@ -1035,17 +1035,40 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1789234200000:lcxiw",
+    "id": "sport:playsports-golf:1789216200000:lcxiw",
     "externalId": null,
     "title": "Road to the Presidents Cup",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1789234200000,
-    "end": 1789237800000,
+    "start": 1789216200000,
+    "end": 1789219800000,
     "status": "aankomend",
     "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1789219800000:zzkb3f",
+    "externalId": null,
+    "title": "Amgen Irish Open: Dag 3",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1789219800000,
+    "end": 1789237800000,
+    "status": "aankomend",
+    "description": "Verslag van de derde dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1388,7 +1411,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1789190400000,
-    "end": 1789197120000,
+    "end": 1789197060000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1403,14 +1426,14 @@
     ]
   },
   {
-    "id": "sport:match:1789197120000:feyenoord - ado den haag",
+    "id": "sport:match:1789197060000:feyenoord - ado den haag",
     "externalId": null,
     "title": "Feyenoord - ADO Den Haag",
     "home": "Feyenoord",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789197120000,
+    "start": 1789197060000,
     "end": 1789203600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
@@ -1457,7 +1480,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1789242900000,
-    "end": 1789248420000,
+    "end": 1789247400000,
     "status": "aankomend",
     "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "source": "epg",
@@ -1472,38 +1495,15 @@
     ]
   },
   {
-    "id": "sport:match:1789248420000:arsenal - chelsea",
-    "externalId": null,
-    "title": "Arsenal - Chelsea",
-    "home": "Arsenal",
-    "away": "Chelsea",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1789248420000,
-    "end": 1789249140000,
-    "status": "aankomend",
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789249140000:feyenoord - ado den haag",
+    "id": "sport:match:1789249200000:feyenoord - ado den haag",
     "externalId": null,
     "title": "Feyenoord - ADO Den Haag",
     "home": "Feyenoord",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789249140000,
-    "end": 1789256340000,
+    "start": 1789249200000,
+    "end": 1789255620000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1572,7 +1572,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1789226700000,
-    "end": 1789232100000,
+    "end": 1789231320000,
     "status": "aankomend",
     "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "source": "epg",

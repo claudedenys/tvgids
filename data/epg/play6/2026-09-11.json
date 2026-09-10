@@ -32,7 +32,7 @@
     "channel": "play6",
     "title": "Pawn Stars",
     "start": 1789085400000,
-    "end": 1789088700000,
+    "end": 1789087800000,
     "description": "Rick pakt een mysteriedoos uit. Corey en Chumlee bellen Rick Dale om een brandmeldsysteem veilig te stellen. De Pawn Star groep vertrekt op hun motoren naar Oregon om Ricks boerderij te voorzien van nieuwe apparatuur.",
     "category": [
       "Reality",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play6:1789088700000:48zb9",
+    "id": "play6:1789087800000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1789088700000,
-    "end": 1789095600000,
+    "start": 1789087800000,
+    "end": 1789095300000,
     "description": null,
     "category": [],
     "image": null,
@@ -74,6 +74,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ced9c3a7816b3a597f20c57030c41ba40079726b",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1789095300000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1789095300000,
+    "end": 1789095600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5f2a21ad909538d5e6a0c43f4ae90bcc814e4637",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
