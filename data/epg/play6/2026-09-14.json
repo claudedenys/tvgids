@@ -678,17 +678,17 @@
     }
   },
   {
-    "id": "play6:1789410900000:10tg1vf",
+    "id": "play6:1789410900000:3775kv",
     "channel": "play6",
-    "title": "Indiana Jones and the Dial of Destiny",
+    "title": "Dog",
     "start": 1789410900000,
-    "end": 1789419600000,
-    "description": "In een race tegen de klok moet Indiana Jones een legendarische wijzerplaat vinden die de loop van de geschiedenis kan veranderen. Al snel komt hij tegenover Jürgen Voller te staan, een voormalige nazi die voor NASA werkt.",
+    "end": 1789418100000,
+    "description": "Met een hond genaamd Lulu aan zijn zijde racet Army Ranger Briggs langs de Pacifische kust om op tijd bij de begrafenis van een soldaat te zijn. Onderweg maken Briggs en Lulu elkaar helemaal gek, overtreden ze een handvol wetten, ontwijken ze ternauwernood de dood en leren ze hun grenzen los te laten om misschien een kans te hebben op het vinden van geluk.",
     "category": [
-      "Film",
-      "Avontuur"
+      "Drama",
+      "Film"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F13685443~~2FMV020687440000%2Cimi%3Aa2f17b75eba46aa420f5a45c17c29e24e3294b8d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20988295~~2FMV018234720000%2Cimi%3Ace00ae7341423f5485720d815e6a0689eca1f804/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -696,23 +696,23 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F13685443~~2FMV020687440000,imi:a2f17b75eba46aa420f5a45c17c29e24e3294b8d",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20988295~~2FMV018234720000,imi:ce00ae7341423f5485720d815e6a0689eca1f804",
       "episodeName": null,
       "genres": [
-        "Film",
-        "Avontuur"
+        "Drama",
+        "Film"
       ],
-      "productionDate": "2023",
+      "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
     }
   },
   {
-    "id": "play6:1789419600000:1puyjgk",
+    "id": "play6:1789418100000:1puyjgk",
     "channel": "play6",
     "title": "The Ark",
-    "start": 1789419600000,
-    "end": 1789423200000,
+    "start": 1789418100000,
+    "end": 1789421400000,
     "description": "De twee Arks staan voor een moeilijke keuze: samenwerken of samen ten onder gaan. Maar met het vertrouwen tussen beide bemanningen op het spel, is de grote vraag: wie kunnen ze nog vertrouwen?",
     "category": [
       "Sciencefiction"
@@ -733,6 +733,34 @@
       "productionDate": "2023",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23571496~~2FSH065599110000"
+    }
+  },
+  {
+    "id": "play6:1789421400000:8c7jz",
+    "channel": "play6",
+    "title": "Hawaii Five-0",
+    "start": 1789421400000,
+    "end": 1789425300000,
+    "description": "Het team voert een race tegen de klok om Alicia en McGarrett, die ontvoerd zijn door een seriemoordenaar, op tijd te vinden.",
+    "category": [
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F13346912~~2FEP027832650286%2Cimi%3A316edf1ca0926de2367cb439a86777d0273a7a5f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F13346912~~2FEP027832650286,imi:316edf1ca0926de2367cb439a86777d0273a7a5f",
+      "episodeName": "Hu A'e Ke Ahi Lanakila A Kamaile (The Fire of Kamile Rises in Triumph)",
+      "genres": [
+        "Misdaaddrama"
+      ],
+      "productionDate": "2016",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fbdd2d55a-84cf-4ba9-bbe8-675c98ded0eb"
     }
   }
 ]

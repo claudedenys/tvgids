@@ -459,7 +459,7 @@
     "end": 1789118400000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/shownieuws-759939342.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -479,7 +479,7 @@
     "title": "Nieuws van de dag",
     "start": 1789118400000,
     "end": 1789122000000,
-    "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
+    "description": "Met in deze uitzending: * 'Spaanse regering van Sánchez kreeg wel degelijk signalen voor aanstaande bestorming...",
     "category": [
       "Actueel"
     ],
@@ -741,7 +741,7 @@
     "title": "Vandaag inside",
     "start": 1789155300000,
     "end": 1789159200000,
-    "description": "Wilfred Genee, Johan Derksen en René van der Gijp (behalve woensdag) geven hun kijk op het nieuws en de actualiteit.",
+    "description": "<span class=\"label label--updated\">Update</span> Hélène Hendriks schuift aan als tafelgast bij Johan Derksen, Wilfred Genee en René van der Gijp...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/vandaag-inside-762295432.jpg",
     "icon": null,
@@ -751,7 +751,9 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {

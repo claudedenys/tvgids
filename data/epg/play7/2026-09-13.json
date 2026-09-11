@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1789255500000:1muh0gc",
+    "id": "play7:1789255800000:1muh0gc",
     "channel": "play7",
     "title": "Luxe Listings Sydney",
-    "start": 1789255500000,
-    "end": 1789259400000,
+    "start": 1789255800000,
+    "end": 1789259100000,
     "description": "D'Leanne heeft een zenuwslopend einde van de veiling. De zaken voor TRG worden groter en beter als Gavin het nieuwe kantoor te pakken krijgt en een luxe pand opent voor TRG. In Palm Beach bezichtigen Simon en Tammy een prachtig huis.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1789259400000:48zb9",
+    "id": "play7:1789259100000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1789259400000,
-    "end": 1789275600000,
+    "start": 1789259100000,
+    "end": 1789268100000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,54 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c6578df0e57557e5425cfafa29cfcb185aa1d62e",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1789268100000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1789268100000,
+    "end": 1789268400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2c2b8c8bf74cb3f29ff8086a54b89deb5edf2477",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1789268400000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1789268400000,
+    "end": 1789275600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:13417e813e59cd07140fc4124ed9443198945f45",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

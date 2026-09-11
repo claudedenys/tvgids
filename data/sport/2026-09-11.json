@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1789081440000,
     "end": 1789105500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +124,7 @@
     "sport": null,
     "start": 1789077600000,
     "end": 1789099200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -147,7 +147,7 @@
     "sport": null,
     "start": 1789099200000,
     "end": 1789120800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": null,
     "start": 1789085640000,
     "end": 1789103400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -239,7 +239,7 @@
     "sport": "Golf",
     "start": 1789104600000,
     "end": 1789126200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de eerste dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "source": "epg",
     "platforms": [
@@ -308,7 +308,7 @@
     "sport": "Motorsport",
     "start": 1789081080000,
     "end": 1789089060000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
     "source": "epg",
     "platforms": [
@@ -331,7 +331,7 @@
     "sport": null,
     "start": 1789094640000,
     "end": 1789102800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -354,7 +354,7 @@
     "sport": null,
     "start": 1789113300000,
     "end": 1789116960000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -377,7 +377,7 @@
     "sport": "Motorsport",
     "start": 1789116960000,
     "end": 1789122600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -515,7 +515,7 @@
     "sport": null,
     "start": 1789077600000,
     "end": 1789099200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -538,7 +538,7 @@
     "sport": null,
     "start": 1789099200000,
     "end": 1789120800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -607,8 +607,31 @@
     "sport": "Golf",
     "start": 1789077600000,
     "end": 1789088400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1789090200000:lt7aff",
+    "externalId": null,
+    "title": "Grappige momenten in de DP World Tour series van 2025",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1789090200000,
+    "end": 1789092000000,
+    "status": "afgelopen",
+    "description": "Hoogtepunten en samenvattingen van de toernooien gespeeld in de PGA European Tour.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -630,7 +653,7 @@
     "sport": "Golf",
     "start": 1789092000000,
     "end": 1789095600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Wyndham Championship, gespeeld op de Sedgefield Country Club in Greensboro, North Carolina.",
     "source": "epg",
     "platforms": [
@@ -653,7 +676,7 @@
     "sport": "Golf",
     "start": 1789095600000,
     "end": 1789099200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van The Ally Challenge, gespeeld in de PGA Tour Champions.",
     "source": "epg",
     "platforms": [
@@ -676,7 +699,7 @@
     "sport": "Golf",
     "start": 1789099200000,
     "end": 1789101300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de openingsceremonie op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "source": "epg",
     "platforms": [
@@ -699,7 +722,7 @@
     "sport": "Golf",
     "start": 1789101300000,
     "end": 1789113600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
     "source": "epg",
     "platforms": [
@@ -713,17 +736,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1789113600000:oz0rcs",
+    "id": "sport:playsports-golf:1789113600000:qt4vc6",
     "externalId": null,
-    "title": "Dag 4",
+    "title": "Vierumäki Finnish Challenge",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
     "start": 1789113600000,
-    "end": 1789124400000,
-    "status": "aankomend",
-    "description": "Verslag van de vierde en laatste dag van de TOUR Championship, gespeeld in Atlanta, Georgia.",
+    "end": 1789115400000,
+    "status": "afgelopen",
+    "description": "Hoogtepunten van de Vierumäki Finnish Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -736,15 +759,38 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1789124400000:lcxiw",
+    "id": "sport:playsports-golf:1789115400000:zzkb3f",
+    "externalId": null,
+    "title": "Amgen Irish Open: Dag 2",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1789115400000,
+    "end": 1789135200000,
+    "status": "live",
+    "description": "Verslag van de tweede dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1789135200000:lcxiw",
     "externalId": null,
     "title": "Road to the Presidents Cup",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1789124400000,
-    "end": 1789128000000,
+    "start": 1789135200000,
+    "end": 1789138800000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -759,38 +805,15 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1789128000000:zzkb3f",
-    "externalId": null,
-    "title": "Amgen Irish Open: Dag 2",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1789128000000,
-    "end": 1789146000000,
-    "status": "aankomend",
-    "description": "Verslag van de tweede dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1789146000000:qt4vc6",
+    "id": "sport:playsports-golf:1789138800000:qt4vc6",
     "externalId": null,
     "title": "Rosa Challenge",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1789146000000,
-    "end": 1789147800000,
+    "start": 1789138800000,
+    "end": 1789140600000,
     "status": "aankomend",
     "description": "Hoogtepunten van de Rosa Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
@@ -805,17 +828,40 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1789147800000:lt7aff",
+    "id": "sport:playsports-golf:1789140600000:lt7aff",
     "externalId": null,
     "title": "Omega European Masters",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1789147800000,
-    "end": 1789149600000,
+    "start": 1789140600000,
+    "end": 1789142400000,
     "status": "aankomend",
     "description": "Hoogtepunten van de Omega European Masters, gespeeld op de Crans-sur-Sierre GC in Crans-Montana, Zwitserland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1789142400000:zzkb3f",
+    "externalId": null,
+    "title": "Amgen Irish Open: Dag 2",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1789142400000,
+    "end": 1789149600000,
+    "status": "aankomend",
+    "description": "Verslag van de tweede dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -883,7 +929,7 @@
     "sport": "Voetbal",
     "start": 1789105500000,
     "end": 1789111800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
     "platforms": [
@@ -906,7 +952,7 @@
     "sport": "Voetbal",
     "start": 1789111800000,
     "end": 1789118160000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit The City Ground in Nottingham, England.",
     "source": "epg",
     "platforms": [
@@ -1090,7 +1136,7 @@
     "sport": "Voetbal",
     "start": 1789078980000,
     "end": 1789085640000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - PSV uit de 5e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1113,7 +1159,7 @@
     "sport": "Voetbal",
     "start": 1789103400000,
     "end": 1789104600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Een nieuw voetbalseizoen betekent nieuwe truitjes. Joris en Evert neuzen daarom in de Belgische kleedkamers, waar ze een machtig Anderlecht-shirt, hetzelfde KRC Genk-truitje als altijd en een tenue van Charleroi dat enkel bij pastis past vinden.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1251,7 @@
     "sport": null,
     "start": 1789089060000,
     "end": 1789094640000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Plezier is alleen de moeite waard als het wordt gedeeld.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1274,7 @@
     "sport": null,
     "start": 1789102800000,
     "end": 1789106160000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -1251,7 +1297,7 @@
     "sport": null,
     "start": 1789106160000,
     "end": 1789109700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -1274,7 +1320,7 @@
     "sport": null,
     "start": 1789109700000,
     "end": 1789113300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -1365,8 +1411,8 @@
     "competition": null,
     "sport": "Golf",
     "start": 1789088400000,
-    "end": 1789092000000,
-    "status": "aankomend",
+    "end": 1789090200000,
+    "status": "afgelopen",
     "description": "Hoogtepunten van de BMW Charity Pro-Am, gespeeld in de Korn Ferry Tour.",
     "source": "epg",
     "platforms": [

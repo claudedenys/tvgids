@@ -34,7 +34,7 @@
     "channel": "playsports-golf",
     "title": "PGA Korn Ferry Tour Hoogtepunten",
     "start": 1789088400000,
-    "end": 1789092000000,
+    "end": 1789090200000,
     "description": "Hoogtepunten van de BMW Charity Pro-Am, gespeeld in de Korn Ferry Tour.",
     "category": [
       "Sport",
@@ -57,6 +57,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179500000"
+    }
+  },
+  {
+    "id": "playsports-golf:1789090200000:lt7aff",
+    "channel": "playsports-golf",
+    "title": "DP World Tour Hoogtepunten",
+    "start": 1789090200000,
+    "end": 1789092000000,
+    "description": "Hoogtepunten en samenvattingen van de toernooien gespeeld in de PGA European Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33055816~~2FEP049393090220%2Cimi%3A0816d846f37addb779fd498239ef46dca975f456/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026050920,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33055816~~2FEP049393090220,imi:0816d846f37addb779fd498239ef46dca975f456",
+      "episodeName": "Grappige momenten in de DP World Tour series van 2025",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
     }
   },
   {
@@ -180,71 +210,41 @@
     }
   },
   {
-    "id": "playsports-golf:1789113600000:oz0rcs",
+    "id": "playsports-golf:1789113600000:qt4vc6",
     "channel": "playsports-golf",
-    "title": "TOUR Championship 2026",
+    "title": "HotelPlanner Tour Series Hoogtepunten",
     "start": 1789113600000,
-    "end": 1789124400000,
-    "description": "Verslag van de vierde en laatste dag van de TOUR Championship, gespeeld in Atlanta, Georgia.",
+    "end": 1789115400000,
+    "description": "Hoogtepunten van de Vierumäki Finnish Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33714972~~2FEP065549600004%2Cimi%3A29acf22c950544afe455f3b4978edf82604009e1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33827911~~2FEP055625730051%2Cimi%3A69c83c7d6b8a49dd591fccade8e1c37f1d0bd062/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 49600000,
-    "episode": 2026083004,
+    "season": 102026,
+    "episode": 28,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33714972~~2FEP065549600004,imi:29acf22c950544afe455f3b4978edf82604009e1",
-      "episodeName": "Dag 4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33827911~~2FEP055625730051,imi:69c83c7d6b8a49dd591fccade8e1c37f1d0bd062",
+      "episodeName": "Vierumäki Finnish Challenge",
       "genres": [
         "Sport",
         "Golf"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33406701~~2FSH065549600000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22039946~~2FSH055625730000"
     }
   },
   {
-    "id": "playsports-golf:1789124400000:lcxiw",
-    "channel": "playsports-golf",
-    "title": "Road to the Presidents Cup",
-    "start": 1789124400000,
-    "end": 1789128000000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000~~2F544108399%2Cimi%3A6950e3b4f1f69971f1130c4239acbb222b70be97/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 45610000,
-    "episode": 544108399,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000~~2F544108399,imi:6950e3b4f1f69971f1130c4239acbb222b70be97",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000"
-    }
-  },
-  {
-    "id": "playsports-golf:1789128000000:zzkb3f",
+    "id": "playsports-golf:1789115400000:zzkb3f",
     "channel": "playsports-golf",
     "title": "DP World Tour",
-    "start": 1789128000000,
-    "end": 1789146000000,
+    "start": 1789115400000,
+    "end": 1789135200000,
     "description": "Verslag van de tweede dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
     "category": [
       "Sport",
@@ -270,11 +270,41 @@
     }
   },
   {
-    "id": "playsports-golf:1789146000000:qt4vc6",
+    "id": "playsports-golf:1789135200000:lcxiw",
+    "channel": "playsports-golf",
+    "title": "Road to the Presidents Cup",
+    "start": 1789135200000,
+    "end": 1789138800000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000~~2F544108399%2Cimi%3A6950e3b4f1f69971f1130c4239acbb222b70be97/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 45610000,
+    "episode": 544108399,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000~~2F544108399,imi:6950e3b4f1f69971f1130c4239acbb222b70be97",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33378430~~2FSH065845610000"
+    }
+  },
+  {
+    "id": "playsports-golf:1789138800000:qt4vc6",
     "channel": "playsports-golf",
     "title": "HotelPlanner Tour Series Hoogtepunten",
-    "start": 1789146000000,
-    "end": 1789147800000,
+    "start": 1789138800000,
+    "end": 1789140600000,
     "description": "Hoogtepunten van de Rosa Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "category": [
       "Sport",
@@ -300,11 +330,11 @@
     }
   },
   {
-    "id": "playsports-golf:1789147800000:lt7aff",
+    "id": "playsports-golf:1789140600000:lt7aff",
     "channel": "playsports-golf",
     "title": "DP World Tour Hoogtepunten",
-    "start": 1789147800000,
-    "end": 1789149600000,
+    "start": 1789140600000,
+    "end": 1789142400000,
     "description": "Hoogtepunten van de Omega European Masters, gespeeld op de Crans-sur-Sierre GC in Crans-Montana, Zwitserland.",
     "category": [
       "Sport",
@@ -327,6 +357,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
+    }
+  },
+  {
+    "id": "playsports-golf:1789142400000:zzkb3f",
+    "channel": "playsports-golf",
+    "title": "DP World Tour",
+    "start": 1789142400000,
+    "end": 1789149600000,
+    "description": "Verslag van de tweede dag van de Amgen Irish Open, gespeeld in Doonbeg, Ierland.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825172~~2FEP049392790468%2Cimi%3A43393c6c000f4685e6934cbf787473f307e4a0d8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 92790000,
+    "episode": 2026091168,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825172~~2FEP049392790468,imi:43393c6c000f4685e6934cbf787473f307e4a0d8",
+      "episodeName": "Amgen Irish Open: Dag 2",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
     }
   },
   {

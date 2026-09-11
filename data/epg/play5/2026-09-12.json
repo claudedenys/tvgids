@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1789169100000:1vr1iur",
+    "id": "play5:1789169400000:1vr1iur",
     "channel": "play5",
     "title": "How to Get Away With Murder",
-    "start": 1789169100000,
-    "end": 1789172700000,
+    "start": 1789169400000,
+    "end": 1789172400000,
     "description": "Er wordt een tiener vermoord teruggevonden. Annalise en haar team worden ingehuurd om een bijzondere verdachte in de zaak te vertegenwoordigen. Asher wordt geconfronteerd met een onheilspellende bekentenis, Wes komt meer te weten over de verdwijning.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1789172700000:48zb9",
+    "id": "play5:1789172400000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1789172700000,
-    "end": 1789185900000,
+    "start": 1789172400000,
+    "end": 1789181400000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +54,89 @@
     }
   },
   {
-    "id": "play5:1789185900000:br4tdi",
+    "id": "play5:1789181400000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1789181400000,
+    "end": 1789182000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c212fe58d41e0e1f3ae15aa53caec6d85aa42617",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1789182000000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1789182000000,
+    "end": 1789184100000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f67076e76e7e4ae68ebe718bd4629b19acb46c3e",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1789184100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789185900000,
-    "end": 1789188600000,
+    "start": 1789184100000,
+    "end": 1789186800000,
+    "description": "Kristin Gaines, een nieuw lid van de taskforce, voegt zich bij Jess en het team. Ze gaan naar D.C. om een gevaarlijke voortvluchtige van de rellen in het Capitool van 6 januari te vinden.",
+    "category": [
+      "Misdaaddrama",
+      "Actie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20606735~~2FEP036505670030%2Cimi%3A3f6758a6e933ea1f8e912977b8d3de9569ec2e7f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20606735~~2FEP036505670030,imi:3f6758a6e933ea1f8e912977b8d3de9569ec2e7f",
+      "episodeName": "Patriots",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F16945418~~2FSH036505670000"
+    }
+  },
+  {
+    "id": "play5:1789186800000:br4tdi",
+    "channel": "play5",
+    "title": "FBI: Most Wanted",
+    "start": 1789186800000,
+    "end": 1789189200000,
     "description": "Wanneer een rechter die bekend staat om zijn strenge straffen voor minderjarigen vermoord is gaat het team op onderzoek uit. Kristin wordt ook geconfronteerd met familieproblemen wanneer ze zich met haar tienerdochter in New York City vestigt.",
     "category": [
       "Misdaaddrama",
@@ -84,11 +162,11 @@
     }
   },
   {
-    "id": "play5:1789188600000:br4tdi",
+    "id": "play5:1789189200000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789188600000,
-    "end": 1789191000000,
+    "start": 1789189200000,
+    "end": 1789191900000,
     "description": "Nadat een jonge Chinees-Amerikaanse vrouw wordt ontvoerd, onderzoekt het team of de ontvoering een ongepland haatmisdrijf was of dat ze een specifiek doelwit was. Jess en Sarah worstelen met de opstandige houding van Tali.",
     "category": [
       "Misdaaddrama",
@@ -114,11 +192,11 @@
     }
   },
   {
-    "id": "play5:1789191000000:br4tdi",
+    "id": "play5:1789191900000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789191000000,
-    "end": 1789193400000,
+    "start": 1789191900000,
+    "end": 1789194300000,
     "description": "Na een dodelijke brand in een speelhal ontdekt het team dat de brand slechts de eerste stap was van een ingewikkeld plan om wraak te nemen op een van de slachtoffers. Hana sluit zich weer aan bij het team.",
     "category": [
       "Misdaaddrama",
@@ -144,11 +222,11 @@
     }
   },
   {
-    "id": "play5:1789193400000:48zb9",
+    "id": "play5:1789194300000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1789193400000,
-    "end": 1789195200000,
+    "start": 1789194300000,
+    "end": 1789196100000,
     "description": null,
     "category": [],
     "image": null,
@@ -168,11 +246,11 @@
     }
   },
   {
-    "id": "play5:1789195200000:br4tdi",
+    "id": "play5:1789196100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789195200000,
-    "end": 1789198500000,
+    "start": 1789196100000,
+    "end": 1789199100000,
     "description": "Het team probeert een moordenaar op te jagen voordat hij zijn moordgolf voortzet. Ook zet de opdringerige moeder van Barnes haar huwelijk onder druk.",
     "category": [
       "Misdaaddrama",
@@ -198,11 +276,11 @@
     }
   },
   {
-    "id": "play5:1789198500000:br4tdi",
+    "id": "play5:1789199100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789198500000,
-    "end": 1789201800000,
+    "start": 1789199100000,
+    "end": 1789202400000,
     "description": "Het team onderzoekt de moord op de vrouw van een professionele basketballer, die een beroemde lifestylegoeroe was. Kristin en haar ex-man groeien naar elkaar toe. Bevelvoerder Isobel Castille neemt contact op met het team over de spraakmakende zaak.",
     "category": [
       "Misdaaddrama",
@@ -228,11 +306,11 @@
     }
   },
   {
-    "id": "play5:1789201800000:br4tdi",
+    "id": "play5:1789202400000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789201800000,
-    "end": 1789204800000,
+    "start": 1789202400000,
+    "end": 1789205400000,
     "description": "Een waardevol renpaard uit Kentucky is gestolen en de paardenverzochterser wordt gegijzeld. Het team komt er al snel achter dat zij misschien de enigen zijn die de veiligheid van de jonge vrouw belangrijker vinden dan die van het paard.",
     "category": [
       "Misdaaddrama",
@@ -258,11 +336,11 @@
     }
   },
   {
-    "id": "play5:1789204800000:br4tdi",
+    "id": "play5:1789205400000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789204800000,
-    "end": 1789208100000,
+    "start": 1789205400000,
+    "end": 1789208400000,
     "description": "Tijdens het winkelen zitten Barnes en Jess midden in een schietpartij in een winkelcentrum. Gaines, Hana en Ortiz proberen van buitenaf te helpen, terwijl ze weten dat de familieleden van hun team binnen zijn en gevaar lopen.",
     "category": [
       "Misdaaddrama",
@@ -288,11 +366,11 @@
     }
   },
   {
-    "id": "play5:1789208100000:br4tdi",
+    "id": "play5:1789208400000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789208100000,
-    "end": 1789211100000,
+    "start": 1789208400000,
+    "end": 1789211400000,
     "description": "Het team jaagt op een jongeman die napalm-achtige bommen gebruikt om zijn doelwitten aan te vallen. Omdat Tali weg is, beginnen Jess en Sarah zich aan te passen aan hun lege nest.",
     "category": [
       "Misdaaddrama",
@@ -318,10 +396,10 @@
     }
   },
   {
-    "id": "play5:1789211100000:br4tdi",
+    "id": "play5:1789211400000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789211100000,
+    "start": 1789211400000,
     "end": 1789214400000,
     "description": "De Fugitive Task Force achtervolgt een moordenaar die een gestoord kat-en-muisspelletje speelt met zijn slachtoffers. Ook deelt Hana iets persoonlijks over zichzelf met haar nieuwe kamergenoot, Ortiz.",
     "category": [
@@ -352,7 +430,7 @@
     "channel": "play5",
     "title": "NCIS",
     "start": 1789214400000,
-    "end": 1789217400000,
+    "end": 1789217700000,
     "description": "Een helikopter stort neer boven zee en spoelt aan op het strand. Drie passagiers worden lichtgewond teruggevonden, maar van de piloot ontbreekt elk spoor. Ducky vindt het vreemd dat de passagiers er slechts met lichte verwondingen vanaf zijn gekomen.",
     "category": [
       "Misdaaddrama",
@@ -378,10 +456,10 @@
     }
   },
   {
-    "id": "play5:1789217400000:yknhhu",
+    "id": "play5:1789217700000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1789217400000,
+    "start": 1789217700000,
     "end": 1789221000000,
     "description": "Het team onderzoekt de moord op een onderofficier, die dood werd aangetroffen in een peperdure sportwagen. Gibbs ontdekt in een pandjeshuis, waar het moordwapen vandaan komt, een medaille van een vriend van zijn vader naar wie Gibbs is vernoemd.",
     "category": [
@@ -472,7 +550,7 @@
     "channel": "play5",
     "title": "NCIS",
     "start": 1789227600000,
-    "end": 1789230900000,
+    "end": 1789230600000,
     "description": "Lydia en Rosie worden 's avonds op straat overvallen. Lydia's vader, die hen wilde ophalen, grijpt in en wordt neergeschoten. De ontvoerder vlucht met Rosie. Lydia helpt Ziva en Abby de ontvoerder op te sporen.",
     "category": [
       "Misdaaddrama",
@@ -498,10 +576,10 @@
     }
   },
   {
-    "id": "play5:1789230900000:yknhhu",
+    "id": "play5:1789230600000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1789230900000,
+    "start": 1789230600000,
     "end": 1789233900000,
     "description": "FBI-agent Fornell wordt in zijn auto beschoten, maar blijft ongedeerd dankzij zijn kogelwerend vest en schiet de overvaller neer. Diane, de ex-vrouw van zowel Fornell als Gibbs, brengt de nacht door bij McGee.",
     "category": [
