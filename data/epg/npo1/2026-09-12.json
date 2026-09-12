@@ -52,7 +52,7 @@
     "title": "EenVandaag",
     "start": 1789168500000,
     "end": 1789170000000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Zwaar busongeluk in Zwitserland: zo wordt de hulp vanuit Nederland gecoördineerd * Zweden...",
     "category": [
       "Actueel"
     ],
@@ -127,7 +127,7 @@
     "title": "NOS Journaal",
     "start": 1789172700000,
     "end": 1789185900000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Vijf Nederlandse doden bij busongeluk in Zwitserland.",
     "category": [
       "Actueel"
     ],
@@ -215,7 +215,7 @@
     "channel": "npo1",
     "title": "Tussen kunst en kitsch",
     "start": 1789193700000,
-    "end": 1789197000000,
+    "end": 1789196700000,
     "description": "In de rij voor het Kasteel Wijchen staat een man met een zware schommelstoel.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tussen-kunst-en-kitsch-763547892.jpg",
@@ -233,14 +233,14 @@
     }
   },
   {
-    "id": "npo1:1789197000000:1uiu6z3",
+    "id": "npo1:1789196700000:1uiu6z3",
     "channel": "npo1",
     "title": "Musical Awards the kick-off, de opening 2026",
-    "start": 1789197000000,
-    "end": 1789202100000,
+    "start": 1789196700000,
+    "end": 1789201800000,
     "description": "Live vanuit Eindhoven openen Frits Sissing en Marlijn Weerdenburg het nieuwe theaterseizoen met optredens uit...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/musical-awards-the-kick-off-de-opening-2026-764349252.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -255,10 +255,10 @@
     }
   },
   {
-    "id": "npo1:1789202100000:k6mw6d",
+    "id": "npo1:1789201800000:k6mw6d",
     "channel": "npo1",
     "title": "Een vergetelijk mooie reis",
-    "start": 1789202100000,
+    "start": 1789201800000,
     "end": 1789205100000,
     "description": "Er staat een dagtochtje met de boot naar Calpe op de planning; een uitje vol zon en zee.",
     "category": [],
@@ -568,9 +568,9 @@
     "title": "Een huis vol",
     "start": 1789232700000,
     "end": 1789236000000,
-    "description": "Simon Bal gaat op jacht naar een trouwpak.",
+    "description": "In deze aflevering van Een Huis Vol gaat de elfkoppige familie Blom verhuizen.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-huis-vol-763400792.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/familieblomverhuizingwinterkroncrv.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -580,7 +580,8 @@
     "meta": {
       "labels": [
         "program",
-        "audiodescription"
+        "audiodescription",
+        "tip"
       ]
     }
   },

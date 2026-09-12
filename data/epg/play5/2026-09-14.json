@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1789344600000,
-    "end": 1789354800000,
+    "end": 1789354200000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +54,35 @@
     }
   },
   {
+    "id": "play5:1789354200000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1789354200000,
+    "end": 1789354800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5c35b393b2819318ceda6e194e56b161bf81f181",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play5:1789354800000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1789354800000,
-    "end": 1789358100000,
+    "end": 1789358700000,
     "description": null,
     "category": [],
     "image": null,
@@ -78,17 +102,17 @@
     }
   },
   {
-    "id": "play5:1789358100000:hxtisv",
+    "id": "play5:1789358700000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1789358100000,
-    "end": 1789360500000,
+    "start": 1789358700000,
+    "end": 1789361100000,
     "description": "Een rijke uitvinder arriveert bij Gray Sloan en vraagt Koracick om hulp, terwijl Meredith moeite heeft om een vrouw met diabetes te redden. Jo en Link proberen een jongeman te redden.",
     "category": [
       "Dramaserie",
       "Medisch"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17443206~~2FEP027786290337%2Cimi%3Aaf8debf16d8867e2fb772cb12c9f5041f328ed52/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17443206~~2FEP027786290337%2Cimi%3A8dffa740e477b9ee98c8b30c90405e7a53738423/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 16,
@@ -96,7 +120,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F17443206~~2FEP027786290337,imi:af8debf16d8867e2fb772cb12c9f5041f328ed52",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17443206~~2FEP027786290337,imi:8dffa740e477b9ee98c8b30c90405e7a53738423",
       "episodeName": "Life on Mars?",
       "genres": [
         "Dramaserie",
@@ -108,11 +132,11 @@
     }
   },
   {
-    "id": "play5:1789360500000:l0nfps",
+    "id": "play5:1789361100000:l0nfps",
     "channel": "play5",
     "title": "Good American Family",
-    "start": 1789360500000,
-    "end": 1789363200000,
+    "start": 1789361100000,
+    "end": 1789363800000,
     "description": "Natalia wordt aan haar lot overgelaten en wordt geconfronteerd met haar nieuwe situatie en hoe de wereld haar ziet.",
     "category": [
       "Misdaaddrama",
@@ -138,11 +162,11 @@
     }
   },
   {
-    "id": "play5:1789363200000:l0nfps",
+    "id": "play5:1789363800000:l0nfps",
     "channel": "play5",
     "title": "Good American Family",
-    "start": 1789363200000,
-    "end": 1789366800000,
+    "start": 1789363800000,
+    "end": 1789367100000,
     "description": "Natalia vraagt zich af of ze een onverwachte groep vrienden kan vertrouwen. Als er vragen over haar verleden ontstaan, komen er pijnlijke herinneringen boven.",
     "category": [
       "Misdaaddrama",
@@ -168,11 +192,11 @@
     }
   },
   {
-    "id": "play5:1789366800000:48zb9",
+    "id": "play5:1789367100000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1789366800000,
-    "end": 1789368600000,
+    "start": 1789367100000,
+    "end": 1789368900000,
     "description": null,
     "category": [],
     "image": null,
@@ -192,11 +216,11 @@
     }
   },
   {
-    "id": "play5:1789368600000:1w8dao1",
+    "id": "play5:1789368900000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1789368600000,
-    "end": 1789371600000,
+    "start": 1789368900000,
+    "end": 1789371900000,
     "description": "Tijdens een begrafenis valt er een grafkist uit de handen van de dragers, gek genoeg rollen er opeens twee personen uit de kist. Het is aan Castle en Beckett om het mysterie achter deze tweede, onbekende vrouw op te lossen.",
     "category": [
       "Misdaaddrama",
@@ -222,11 +246,11 @@
     }
   },
   {
-    "id": "play5:1789371600000:1w8dao1",
+    "id": "play5:1789371900000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1789371600000,
-    "end": 1789374900000,
+    "start": 1789371900000,
+    "end": 1789375200000,
     "description": "De dood van een beeldschone vrouw wijst op het herrijzen van een beruchte seriemoordenaar, '3XK'. In hun poging om deze gevaarlijke gek te pakken belanden Castle en Beckett in een gevaarlijk kat-en-muisspel.",
     "category": [
       "Misdaaddrama",
@@ -252,11 +276,11 @@
     }
   },
   {
-    "id": "play5:1789374900000:br4tdi",
+    "id": "play5:1789375200000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789374900000,
-    "end": 1789378200000,
+    "start": 1789375200000,
+    "end": 1789378500000,
     "description": "Het team jaagt op een jongeman die napalm-achtige bommen gebruikt om zijn doelwitten aan te vallen. Omdat Tali weg is, beginnen Jess en Sarah zich aan te passen aan hun lege nest.",
     "category": [
       "Misdaaddrama",
@@ -282,10 +306,10 @@
     }
   },
   {
-    "id": "play5:1789378200000:br4tdi",
+    "id": "play5:1789378500000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789378200000,
+    "start": 1789378500000,
     "end": 1789381500000,
     "description": "De Fugitive Task Force achtervolgt een moordenaar die een gestoord kat-en-muisspelletje speelt met zijn slachtoffers. Ook deelt Hana iets persoonlijks over zichzelf met haar nieuwe kamergenoot, Ortiz.",
     "category": [
@@ -614,7 +638,7 @@
     "channel": "play5",
     "title": "Friends",
     "start": 1789420500000,
-    "end": 1789422000000,
+    "end": 1789422300000,
     "description": "Rachel besluit om een van haar exen, Cosimo Fusco, op te zoeken als ze zich volledig verloren voelt nadat ze leert van het bestaan van Ross' nieuwe vriendin, de wonderschone Lauren Tom.",
     "category": [
       "Sitcom"
@@ -638,10 +662,10 @@
     }
   },
   {
-    "id": "play5:1789422000000:7bb6ek",
+    "id": "play5:1789422300000:7bb6ek",
     "channel": "play5",
     "title": "Modern Family",
-    "start": 1789422000000,
+    "start": 1789422300000,
     "end": 1789424100000,
     "description": "Terwijl Phil en Luke het eten voor Thanksgiving voorbereiden, heeft Claire Plan B al klaar staan. De reis van Jay en Gloria wordt op het laatste moment geannuleerd.",
     "category": [

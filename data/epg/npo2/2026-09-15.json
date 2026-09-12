@@ -408,7 +408,7 @@
     "channel": "npo2",
     "title": "Kook mee met MAX",
     "start": 1789481400000,
-    "end": 1789482300000,
+    "end": 1789482600000,
     "description": "Wat eet ik vanavond?",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kook-mee-met-max-765041322.jpg",
@@ -426,14 +426,36 @@
     }
   },
   {
-    "id": "npo2:1789482300000:ddfk14",
+    "id": "npo2:1789482600000:ddfk14",
     "channel": "npo2",
     "title": "Per seconde wijzer",
-    "start": 1789482300000,
-    "end": 1789484160000,
+    "start": 1789482600000,
+    "end": 1789484040000,
     "description": "Twee kandidaten testen onder hoge druk hun kennis in verschillende categorieën.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/per-seconde-wijzer-764606612.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1789484040000:12b58co",
+    "channel": "npo2",
+    "title": "Politieke partijen",
+    "start": 1789484040000,
+    "end": 1789484160000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-771025322.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -452,7 +474,7 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1789484160000,
-    "end": 1789484220000,
+    "end": 1789484400000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-771025322.jpg",
@@ -470,32 +492,10 @@
     }
   },
   {
-    "id": "npo2:1789484220000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1789484220000,
-    "end": 1789484700000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-771025322.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1789484700000:81f6qs",
+    "id": "npo2:1789484400000:81f6qs",
     "channel": "npo2",
     "title": "Wild Alaska: De laatste wildernis",
-    "start": 1789484700000,
+    "start": 1789484400000,
     "end": 1789488000000,
     "description": "De korte zomer in Alaska, een paar weken maar, moet alle dieren voor het hele jaar van voedsel voorzien.",
     "category": [],

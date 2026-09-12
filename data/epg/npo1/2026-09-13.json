@@ -173,7 +173,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789261500000,
-    "end": 1789272900000,
+    "end": 1789275600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -195,36 +195,14 @@
     }
   },
   {
-    "id": "npo1:1789272900000:1c293u9",
+    "id": "npo1:1789275600000:1c293u9",
     "channel": "npo1",
     "title": "Nederland in beweging",
-    "start": 1789272900000,
-    "end": 1789273800000,
+    "start": 1789275600000,
+    "end": 1789276800000,
     "description": "Beweeg mee met 'Nederland in beweging'.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nederland-in-beweging-763795482.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1789273800000:97j1sd",
-    "channel": "npo1",
-    "title": "Dit was het nieuws",
-    "start": 1789273800000,
-    "end": 1789276800000,
-    "description": "Harm Edens, Jan Jaap van der Wal en Peter Pannekoek leggen het nieuws van de afgelopen week onder de satirische loep.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/dit-was-het-nieuws-768815342.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -309,7 +287,7 @@
     "channel": "npo1",
     "title": "WNL op zondag",
     "start": 1789286400000,
-    "end": 1789290600000,
+    "end": 1789290900000,
     "description": "Rechts georiënteerde ochtendshow.",
     "category": [
       "Actueel"
@@ -329,10 +307,10 @@
     }
   },
   {
-    "id": "npo1:1789290600000:cha5d9",
+    "id": "npo1:1789290900000:cha5d9",
     "channel": "npo1",
     "title": "Zussen",
-    "start": 1789290600000,
+    "start": 1789290900000,
     "end": 1789293600000,
     "description": "De drie zussen zijn ieder op hun eigen manier bezig met hun moeders en moederschap.",
     "category": [],
@@ -395,16 +373,14 @@
     }
   },
   {
-    "id": "npo1:1789297800000:1h2jqyt",
+    "id": "npo1:1789297800000:1xgkm7h",
     "channel": "npo1",
-    "title": "Studio sport live",
+    "title": "Keuringsdienst van waarde",
     "start": 1789297800000,
-    "end": 1789305300000,
-    "description": "Met honkbal: vijfde wedstrijd van de Holland Series; 3x3-basketbal: EK in Antwerpen.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/studio-sport-763400552.jpg",
+    "end": 1789299600000,
+    "description": "Vissers, deftige mevrouwen en influencers worden er opgewonden van: parels.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/keuringsdienst-van-waarde-771514222.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -414,21 +390,19 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "rerun"
       ]
     }
   },
   {
-    "id": "npo1:1789305300000:1h2jqyt",
+    "id": "npo1:1789299600000:1f7l3c7",
     "channel": "npo1",
-    "title": "Studio sport live",
-    "start": 1789305300000,
-    "end": 1789309200000,
-    "description": "Met honkbal: vijfde wedstrijd van de Holland Series; 3x3 basketbal: EK in Antwerpen.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/studio-sport-763400552.jpg",
+    "title": "Een huis vol",
+    "start": 1789299600000,
+    "end": 1789302600000,
+    "description": "Simon Bal gaat op jacht naar een trouwpak.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-huis-vol-771514162.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -438,21 +412,87 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "rerun",
+        "audiodescription"
       ]
     }
   },
   {
-    "id": "npo1:1789309200000:1h2jqyt",
+    "id": "npo1:1789302600000:11z5mu0",
     "channel": "npo1",
-    "title": "Studio sport live",
-    "start": 1789309200000,
+    "title": "We zijn er bijna!",
+    "start": 1789302600000,
+    "end": 1789305900000,
+    "description": "De kampeergroep trekt het binnenland in voor een gezamenlijke excursie naar de Meteora Kloosters.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/w/carrousel/we-zijn-er-bijna-771514192.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun",
+        "audiodescription"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1789305900000:j1jgyo",
+    "channel": "npo1",
+    "title": "De Bauers, een nieuwe fase",
+    "start": 1789305900000,
+    "end": 1789308600000,
+    "description": "Niet alleen zoon Jan verlaat het nest; ook Frans en Mariska hebben behoefte aan een eigen plek.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-bauers-een-nieuwe-fase-763400402.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1789308600000:97j1sd",
+    "channel": "npo1",
+    "title": "Dit was het nieuws",
+    "start": 1789308600000,
+    "end": 1789311900000,
+    "description": "Harm Edens, Jan Jaap van der Wal en Peter Pannekoek leggen het nieuws van de afgelopen week onder de satirische loep.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/dit-was-het-nieuws-768815342.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1789311900000:aezw80",
+    "channel": "npo1",
+    "title": "Wolven",
+    "start": 1789311900000,
     "end": 1789315200000,
-    "description": "Met honkbal: vijfde wedstrijd van de Holland Series; 3x3 basketbal: EK in Antwerpen.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/studio-sport-763400552.jpg",
+    "description": "Na een pijnlijke beslissing proberen de spelers hun eerdere keuzes te doorgronden.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/w/carrousel/wolven-771514132.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -462,7 +502,8 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "rerun",
+        "audiodescription"
       ]
     }
   },
@@ -659,7 +700,7 @@
     "end": 1789337400000,
     "description": "Niet alleen zoon Jan verlaat het nest; ook Frans en Mariska hebben behoefte aan een eigen plek.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-bauers-een-nieuwe-fase-763400402.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-bauers-een-nieuwe-fase-771514252.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

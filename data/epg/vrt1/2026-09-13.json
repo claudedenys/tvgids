@@ -942,7 +942,7 @@
     "channel": "vrt1",
     "title": "Sportweekend",
     "start": 1789320300000,
-    "end": 1789322400000,
+    "end": 1789322100000,
     "description": "Een uitgebreid overzicht van de sportactualiteit.",
     "category": [
       "Sport",
@@ -968,11 +968,11 @@
     }
   },
   {
-    "id": "vrt1:1789322400000:1rw80yh",
+    "id": "vrt1:1789322100000:1rw80yh",
     "channel": "vrt1",
     "title": "Het weer",
-    "start": 1789322400000,
-    "end": 1789322700000,
+    "start": 1789322100000,
+    "end": 1789322400000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
@@ -998,11 +998,11 @@
     }
   },
   {
-    "id": "vrt1:1789322700000:z1ajzb",
+    "id": "vrt1:1789322400000:z1ajzb",
     "channel": "vrt1",
     "title": "Is 't gelukt?",
-    "start": 1789322700000,
-    "end": 1789326600000,
+    "start": 1789322400000,
+    "end": 1789326000000,
     "description": "Sven de Leijer deelt geheime uitdagingen uit aan acht bekende deelnemers. Lukt het hen om de uitdagingen tot een goed einde te brengen?",
     "category": [
       "Spelprogramma",
@@ -1028,11 +1028,11 @@
     }
   },
   {
-    "id": "vrt1:1789326600000:k7oyn7",
+    "id": "vrt1:1789326000000:k7oyn7",
     "channel": "vrt1",
     "title": "De twaalf - De botoxmoorden",
-    "start": 1789326600000,
-    "end": 1789329600000,
+    "start": 1789326000000,
+    "end": 1789329300000,
     "description": "Walter maakt zich klaar voor zijn mama's verjaardag, in de rechtszaal worden de beklaagden verhoord.",
     "category": [
       "Dramaserie"
@@ -1056,11 +1056,11 @@
     }
   },
   {
-    "id": "vrt1:1789329600000:1snzthz",
+    "id": "vrt1:1789329300000:1snzthz",
     "channel": "vrt1",
     "title": "Andermans zaken",
-    "start": 1789329600000,
-    "end": 1789332600000,
+    "start": 1789329300000,
+    "end": 1789332300000,
     "description": "Hans is de graag geziene uitbater én bezieler van een kleine muziekwinkel in Tienen. En net zoals zoveel speciaalzaken, moet ook Hans opboksen tegen de grote onlinewinkels. Kamal gooit Hans zijn winkel overhoop en zet volop in op beleving én service.",
     "category": [
       "Business & Financiën",
@@ -1086,11 +1086,11 @@
     }
   },
   {
-    "id": "vrt1:1789332600000:39vxy3",
+    "id": "vrt1:1789332300000:39vxy3",
     "channel": "vrt1",
     "title": "VRT NWS laat",
-    "start": 1789332600000,
-    "end": 1789333440000,
+    "start": 1789332300000,
+    "end": 1789333140000,
     "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
     "category": [
       "Actua"
@@ -1114,11 +1114,11 @@
     }
   },
   {
-    "id": "vrt1:1789333440000:ykl842",
+    "id": "vrt1:1789333140000:ykl842",
     "channel": "vrt1",
     "title": "Keno",
-    "start": 1789333440000,
-    "end": 1789333500000,
+    "start": 1789333140000,
+    "end": 1789333200000,
     "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
     "category": [
       "Spelprogramma",
@@ -1144,11 +1144,11 @@
     }
   },
   {
-    "id": "vrt1:1789333500000:behtd8",
+    "id": "vrt1:1789333200000:behtd8",
     "channel": "vrt1",
     "title": "Het weer (laat)",
-    "start": 1789333500000,
-    "end": 1789333800000,
+    "start": 1789333200000,
+    "end": 1789333500000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1172,11 +1172,11 @@
     }
   },
   {
-    "id": "vrt1:1789333800000:xr30jv",
+    "id": "vrt1:1789333500000:xr30jv",
     "channel": "vrt1",
     "title": "Home sweet home: Vlamingen in Amerika",
-    "start": 1789333800000,
-    "end": 1789336800000,
+    "start": 1789333500000,
+    "end": 1789336500000,
     "description": "Christian Olde Wolbers verliet Antwerpen in 1993 om het in Los Angeles te maken als muzikant. Sindsdien speelde hij met grote namen als Snoop Dogg en Korn. Christian dompelt Karine onder in de latino- en skatecultuur van Venice Beach, en neemt haar mee naar een optreden van zijn band Cypress Hill.",
     "category": [
       "Docu",
@@ -1199,6 +1199,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33892204~~2FSH065751010000"
+    }
+  },
+  {
+    "id": "vrt1:1789336500000:4k2soi",
+    "channel": "vrt1",
+    "title": "Thuis",
+    "start": 1789336500000,
+    "end": 1789338000000,
+    "description": "Het verhaal van verschillende families die met elkaar samenleven in liefde en ruzie. Ze ontmoeten elkaar op het werk, in de bar, maar vooral ook 'Thuis'. De uiteenlopende verhalen worden aan elkaar geweven tot een geheel.",
+    "category": [
+      "Dramaserie",
+      "Soap"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33969077~~2FEP023120352459%2Cimi%3A1c7485e6af3b6788e9db549c65fa46f4f874d53f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 32,
+    "episode": 6119,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33969077~~2FEP023120352459,imi:1c7485e6af3b6788e9db549c65fa46f4f874d53f",
+      "episodeName": "Aflevering 6119",
+      "genres": [
+        "Dramaserie",
+        "Soap"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fe7f97702-c08c-4d38-b008-c773c1d246bc"
     }
   }
 ]
