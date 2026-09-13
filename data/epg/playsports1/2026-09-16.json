@@ -122,7 +122,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1789547400000,
-    "end": 1789554600000,
+    "end": 1789553460000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -145,6 +145,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1789553460000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1789553460000,
+    "end": 1789554600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:221341b6a9ceb1822b0433c3c45a17ddc2422ced",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -362,7 +386,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1789593600000,
-    "end": 1789600860000,
+    "end": 1789599780000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",

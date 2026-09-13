@@ -1,13 +1,279 @@
 [
   {
-    "id": "rtl5:1789332960000:wj2lcb",
+    "id": "rtl5:1789596000000:146wvl6",
+    "channel": "rtl5",
+    "title": "RTL Weer",
+    "start": 1789596000000,
+    "end": 1789596300000,
+    "description": "Een uitgebreide blik op de actuele weerkaart.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-764904692.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789596300000:1mmkxmh",
+    "channel": "rtl5",
+    "title": "Politie in het holst van de nacht",
+    "start": 1789596300000,
+    "end": 1789600200000,
+    "description": "Britse politieagenten worden gevolgd tijdens hun nachtdienst.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politie-in-het-holst-van-de-nacht-763629682.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789600200000:1xdkqps",
+    "channel": "rtl5",
+    "title": "Teleshop 5: Tommy teleshopping",
+    "start": 1789600200000,
+    "end": 1789603800000,
+    "description": "Homeshopping.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshopping-765196612.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789603800000:1xdkqps",
+    "channel": "rtl5",
+    "title": "Teleshop 5: Tommy teleshopping",
+    "start": 1789603800000,
+    "end": 1789615800000,
+    "description": "Homeshopping.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshopping-765196612.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789621200000:1xdkqps",
+    "channel": "rtl5",
+    "title": "Teleshop 5: Tommy teleshopping",
+    "start": 1789621200000,
+    "end": 1789633800000,
+    "description": "Homeshopping.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshopping-765675912.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789633800000:135awqh",
+    "channel": "rtl5",
+    "title": "Teleshop 5: Telvero",
+    "start": 1789633800000,
+    "end": 1789641000000,
+    "description": "Homeshoppingprogramma.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-5-telvero-761487612.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789641000000:1xdkqps",
+    "channel": "rtl5",
+    "title": "Teleshop 5: Tommy teleshopping",
+    "start": 1789641000000,
+    "end": 1789648200000,
+    "description": "Homeshopping.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshopping-765675912.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789648200000:135awqh",
+    "channel": "rtl5",
+    "title": "Teleshop 5: Telvero",
+    "start": 1789648200000,
+    "end": 1789657200000,
+    "description": "Homeshoppingprogramma.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-5-telvero-761487612.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789657200000:f5s2le",
+    "channel": "rtl5",
+    "title": "Stop! Politie UK",
+    "start": 1789657200000,
+    "end": 1789661100000,
+    "description": "Realityserie over het werk van de Britse verkeerspolitie.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/stop-politie-uk-765710832.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789661100000:f5s2le",
+    "channel": "rtl5",
+    "title": "Stop! Politie UK",
+    "start": 1789661100000,
+    "end": 1789664700000,
+    "description": "Realityserie over het werk van de Britse verkeerspolitie.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/stop-politie-uk-765710832.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789664700000:1stldm3",
+    "channel": "rtl5",
+    "title": "De Pfaff's",
+    "start": 1789664700000,
+    "end": 1789667100000,
+    "description": "In het huis van Lyndsey en Dave heerst vroeg in de ochtend al een gezellige drukte.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-pfaff-s-764023512.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789667100000:1stldm3",
+    "channel": "rtl5",
+    "title": "De Pfaff's",
+    "start": 1789667100000,
+    "end": 1789669800000,
+    "description": "Jean-Marie is al enkele maanden bezig met de ontwikkeling van een eigen tijdschrift.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-pfaff-s-764023512.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789669800000:wj2lcb",
     "channel": "rtl5",
     "title": "Adam's family: 25 jaar later",
-    "start": 1789332960000,
-    "end": 1789337940000,
+    "start": 1789669800000,
+    "end": 1789674900000,
     "description": "Realityserie waarin Christina Curry wordt gevolgd tijdens een bijzondere periode in haar leven.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/adam-s-family-25-jaar-later-761166702.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/adam-s-family-25-jaar-later-765275042.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -15,304 +281,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
+      "labels": []
     }
   },
   {
-    "id": "rtl5:1789337940000:1mmkxmh",
-    "channel": "rtl5",
-    "title": "Politie in het holst van de nacht",
-    "start": 1789337940000,
-    "end": 1789342020000,
-    "description": "Britse politieagenten worden gevolgd tijdens hun nachtdienst.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politie-in-het-holst-van-de-nacht-763629682.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789342020000:1xdkqps",
-    "channel": "rtl5",
-    "title": "Teleshop 5: Tommy teleshopping",
-    "start": 1789342020000,
-    "end": 1789344600000,
-    "description": "Homeshopping.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshopping-764362512.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789344600000:1xdkqps",
-    "channel": "rtl5",
-    "title": "Teleshop 5: Tommy teleshopping",
-    "start": 1789344600000,
-    "end": 1789362240000,
-    "description": "Homeshopping.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshopping-764362512.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789362900000:1xdkqps",
-    "channel": "rtl5",
-    "title": "Teleshop 5: Tommy teleshopping",
-    "start": 1789362900000,
-    "end": 1789375500000,
-    "description": "Homeshopping.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshopping-764362512.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789375500000:135awqh",
-    "channel": "rtl5",
-    "title": "Teleshop 5: Telvero",
-    "start": 1789375500000,
-    "end": 1789382700000,
-    "description": "Homeshoppingprogramma.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-5-telvero-761487612.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789382700000:1xdkqps",
-    "channel": "rtl5",
-    "title": "Teleshop 5: Tommy teleshopping",
-    "start": 1789382700000,
-    "end": 1789389900000,
-    "description": "Homeshopping.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshopping-764362512.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789389900000:135awqh",
-    "channel": "rtl5",
-    "title": "Teleshop 5: Telvero",
-    "start": 1789389900000,
-    "end": 1789397100000,
-    "description": "Homeshoppingprogramma.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-5-telvero-761487612.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789397100000:1mmkxmh",
-    "channel": "rtl5",
-    "title": "Politie in het holst van de nacht",
-    "start": 1789397100000,
-    "end": 1789400700000,
-    "description": "Britse politieagenten worden gevolgd tijdens hun nachtdienst.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politie-in-het-holst-van-de-nacht-763629682.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789400700000:1lpsu4y",
-    "channel": "rtl5",
-    "title": "Andy & Melisa",
-    "start": 1789400700000,
-    "end": 1789403220000,
-    "description": "Nino heeft een groot optreden staan midden in het centrum van Apeldoorn.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/andy-melisa-763149022.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789403220000:1lpsu4y",
-    "channel": "rtl5",
-    "title": "Andy & Melisa",
-    "start": 1789403220000,
-    "end": 1789405320000,
-    "description": "Andy van der Meijde en Melisa Schaufeli hebben een familie-uitje op het programma staan.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/andy-melisa-763149022.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789405320000:1stldm3",
-    "channel": "rtl5",
-    "title": "De Pfaff's",
-    "start": 1789405320000,
-    "end": 1789407840000,
-    "description": "Carmen en Jean-Marie verblijven enkele dagen in het Oostenrijkse Gerlos.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-pfaff-s-764023512.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789407840000:1stldm3",
-    "channel": "rtl5",
-    "title": "De Pfaff's",
-    "start": 1789407840000,
-    "end": 1789410480000,
-    "description": "Dave is vastbesloten om korte metten te maken met zijn weelderige haardos.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-pfaff-s-764023512.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789410480000:6d5lme",
-    "channel": "rtl5",
-    "title": "Ontvoerd",
-    "start": 1789410480000,
-    "end": 1789415760000,
-    "description": "Dit is het elfde seizoen van Ontvoerd waarin John van den Heuvel door ouders ontvoerde kinderen poogt op te sporen.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/ontvoerd-764023252.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "tip"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789415760000:1rwmaq3",
+    "id": "rtl5:1789674900000:1rwmaq3",
     "channel": "rtl5",
     "title": "112 vandaag",
-    "start": 1789415760000,
-    "end": 1789417140000,
+    "start": 1789674900000,
+    "end": 1789676700000,
     "description": "Reportages over de meldingen en calamiteiten die bij het nationale noodnummer binnenkomen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/1/carrousel/112-vandaag-767151152.jpg",
@@ -327,16 +304,16 @@
     }
   },
   {
-    "id": "rtl5:1789417140000:146wvl6",
+    "id": "rtl5:1789676700000:146wvl6",
     "channel": "rtl5",
     "title": "RTL Weer",
-    "start": 1789417140000,
-    "end": 1789417800000,
+    "start": 1789676700000,
+    "end": 1789677300000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-764063022.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-765324102.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -352,11 +329,11 @@
     }
   },
   {
-    "id": "rtl5:1789417800000:uc4b4u",
+    "id": "rtl5:1789677300000:uc4b4u",
     "channel": "rtl5",
     "title": "24 uur in de ER",
-    "start": 1789417800000,
-    "end": 1789421760000,
+    "start": 1789677300000,
+    "end": 1789680900000,
     "description": "Realityserie over de eerstehulpafdeling van St.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/2/carrousel/24-uur-in-de-er-764023632.jpg",
@@ -374,11 +351,11 @@
     }
   },
   {
-    "id": "rtl5:1789421760000:1rwmaq3",
+    "id": "rtl5:1789680900000:1rwmaq3",
     "channel": "rtl5",
     "title": "112 vandaag",
-    "start": 1789421760000,
-    "end": 1789423140000,
+    "start": 1789680900000,
+    "end": 1789682400000,
     "description": "Reportages over de meldingen en calamiteiten die bij het nationale noodnummer binnenkomen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/1/carrousel/112-vandaag-767151152.jpg",
@@ -391,31 +368,6 @@
     "meta": {
       "labels": [
         "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl5:1789423140000:146wvl6",
-    "channel": "rtl5",
-    "title": "RTL Weer",
-    "start": 1789423140000,
-    "end": 1789423380000,
-    "description": "Een uitgebreide blik op de actuele weerkaart.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-764063022.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
         "rerun"
       ]
     }
