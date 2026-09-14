@@ -1,35 +1,13 @@
 [
   {
-    "id": "net5:1789332420000:1jckx2h",
+    "id": "net5:1789681500000:ykeob4",
     "channel": "net5",
-    "title": "One Chance",
-    "start": 1789332420000,
-    "end": 1789339860000,
-    "description": "In 2007 had nog nooit iemand iemand van Paul Potts gehoord.",
+    "title": "Buzz",
+    "start": 1789681500000,
+    "end": 1789683000000,
+    "description": "Iris Enthoven en Wiesje Hillen bespreken samen met een vast panel de gesprekken van de dag.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/one-chance-763622132.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "tip"
-      ]
-    }
-  },
-  {
-    "id": "net5:1789339860000:1d3x14h",
-    "channel": "net5",
-    "title": "Royal flying doctor service",
-    "start": 1789339860000,
-    "end": 1789343760000,
-    "description": "Sommige gebieden in Australië liggen zo afgelegen, dat ze alleen bereikbaar zijn per vliegtuig voor medische spoedhulp.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/royal-flying-doctor-service-762263272.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/buzz-761478342.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -44,16 +22,14 @@
     }
   },
   {
-    "id": "net5:1789343760000:ttd30a",
+    "id": "net5:1789683000000:1o656hw",
     "channel": "net5",
-    "title": "Loop: Hart van Nederland",
-    "start": 1789343760000,
-    "end": 1789357560000,
-    "description": "Toegankelijk nieuwsprogramma over het gesprek van de dag.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/loop-hart-van-nederland-760331182.jpg",
+    "title": "House rules Australië",
+    "start": 1789683000000,
+    "end": 1789686600000,
+    "description": "De halve finales gaan verder en het huis van Pete en Courtney krijgt een hoognodige tuin make-over.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/house-rules-australie-764012802.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -63,37 +39,17 @@
     "meta": {
       "labels": [
         "program",
-        "actueel",
         "rerun"
       ]
     }
   },
   {
-    "id": "net5:1789363320000:1o3uds6",
+    "id": "net5:1789686600000:sib630",
     "channel": "net5",
-    "title": "Telvero",
-    "start": 1789363320000,
-    "end": 1789377720000,
-    "description": "Homeshopping.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/telvero-765166032.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
-    "id": "net5:1789377720000:1mo6na0",
-    "channel": "net5",
-    "title": "Million dollar listing NY",
-    "start": 1789377720000,
-    "end": 1789381140000,
-    "description": "Als Ryan hoort dat Fredrik de prijzen van de Bowery appartementen heeft verhoogd, verliest hij bijna al zijn...",
+    "title": "Elsbeth",
+    "start": 1789686600000,
+    "end": 1789689600000,
+    "description": "Een rokkenjagende directeur wordt vermoord na een opera.",
     "category": [],
     "image": null,
     "icon": null,
@@ -110,12 +66,78 @@
     }
   },
   {
-    "id": "net5:1789381140000:1mo6na0",
+    "id": "net5:1789689600000:sib630",
+    "channel": "net5",
+    "title": "Elsbeth",
+    "start": 1789689600000,
+    "end": 1789692000000,
+    "description": "Een miljardair komt om het leven bij een ongeluk tijdens een ruimtetrainingssimulatie.",
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "net5:1789692000000:ttd30a",
+    "channel": "net5",
+    "title": "Loop: Hart van Nederland",
+    "start": 1789692000000,
+    "end": 1789704000000,
+    "description": "Toegankelijk nieuwsprogramma over het gesprek van de dag.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/loop-hart-van-nederland-764850762.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "net5:1789709400000:1o3uds6",
+    "channel": "net5",
+    "title": "Telvero",
+    "start": 1789709400000,
+    "end": 1789723500000,
+    "description": "Homeshopping.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/telvero-768066042.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": []
+    }
+  },
+  {
+    "id": "net5:1789723500000:1mo6na0",
     "channel": "net5",
     "title": "Million dollar listing NY",
-    "start": 1789381140000,
-    "end": 1789384560000,
-    "description": "Luis krijgt een van de grootste opdrachten van het seizoen, wanneer hem wordt gevraagd samen te werken aan een door...",
+    "start": 1789723500000,
+    "end": 1789727100000,
+    "description": "Terwijl Ryans appartement met sky garage nog in aanbouw is, schakelt hij over op een ander appartement.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/million-dollar-listing-ny-764012492.jpg",
     "icon": null,
@@ -132,14 +154,36 @@
     }
   },
   {
-    "id": "net5:1789384560000:1o3uds6",
+    "id": "net5:1789727100000:1mo6na0",
+    "channel": "net5",
+    "title": "Million dollar listing NY",
+    "start": 1789727100000,
+    "end": 1789730400000,
+    "description": "Fredrik blijft op obstakels stuiten met zijn vervloekte woning.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/million-dollar-listing-ny-764012492.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "net5:1789730400000:1o3uds6",
     "channel": "net5",
     "title": "Telvero",
-    "start": 1789384560000,
-    "end": 1789386360000,
+    "start": 1789730400000,
+    "end": 1789732800000,
     "description": "Homeshopping.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/telvero-765166032.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/telvero-768066042.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -151,12 +195,12 @@
     }
   },
   {
-    "id": "net5:1789386360000:37776u",
+    "id": "net5:1789732800000:37776u",
     "channel": "net5",
     "title": "Flo",
-    "start": 1789386360000,
-    "end": 1789388160000,
-    "description": "De Burlesque Bonanza dreigt in het water te vallen.",
+    "start": 1789732800000,
+    "end": 1789734600000,
+    "description": "Alsof het nog niet genoeg is, slaagt Nick erin het nog erger te maken voor Florentina.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/flo-762219262.jpg",
     "icon": null,
@@ -173,14 +217,14 @@
     }
   },
   {
-    "id": "net5:1789388160000:c0l898",
+    "id": "net5:1789734600000:c0l898",
     "channel": "net5",
     "title": "My kitchen rules Australië",
-    "start": 1789388160000,
-    "end": 1789391640000,
-    "description": "In een nieuwe ronde kookt een nieuw team, bestaande uit moeder en zoon Caz en Fergus uit Sydney.",
+    "start": 1789734600000,
+    "end": 1789737900000,
+    "description": "De competitie keert terug naar Perth, waar Mike en Pete hopen hun vorige kookprestatie te verbeteren.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/my-kitchen-rules-australie-764363152.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/my-kitchen-rules-australie-768522142.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -195,12 +239,12 @@
     }
   },
   {
-    "id": "net5:1789391640000:1hhhth7",
+    "id": "net5:1789737900000:1hhhth7",
     "channel": "net5",
     "title": "Neighbours",
-    "start": 1789391640000,
-    "end": 1789393500000,
-    "description": "Nicolette en Kiri proberen uit te vogelen waar ze staan ?",
+    "start": 1789737900000,
+    "end": 1789739700000,
+    "description": "Nicolette reageert slecht op het nieuws over Aarons risico op hepatitis B.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/neighbours-761478152.jpg",
     "icon": null,
@@ -217,12 +261,12 @@
     }
   },
   {
-    "id": "net5:1789393500000:ou6wlv",
+    "id": "net5:1789739700000:ou6wlv",
     "channel": "net5",
     "title": "Home and away",
-    "start": 1789393500000,
-    "end": 1789395240000,
-    "description": "Kirby is boos dat het reclamebureau weigert haar bewerkte foto te verwijderen.",
+    "start": 1789739700000,
+    "end": 1789741500000,
+    "description": "Mali schrikt als hij hoort dat Abigail bij hem wil intrekken, omdat hij dat te snel vindt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/home-and-away-762994432.jpg",
     "icon": null,
@@ -236,12 +280,12 @@
     }
   },
   {
-    "id": "net5:1789395240000:1o656hw",
+    "id": "net5:1789741500000:1o656hw",
     "channel": "net5",
     "title": "House rules Australië",
-    "start": 1789395240000,
-    "end": 1789398960000,
-    "description": "De halve finale gaat verder met het huis van Shayn en Carly in Queensland dat een broodnodige make-over van de tuin...",
+    "start": 1789741500000,
+    "end": 1789745100000,
+    "description": "De laatste onthulling van de tuin is de spectaculairste tot nu toe.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/house-rules-australie-764012802.jpg",
     "icon": null,
@@ -255,12 +299,12 @@
     }
   },
   {
-    "id": "net5:1789398960000:zhq0rb",
+    "id": "net5:1789745100000:zhq0rb",
     "channel": "net5",
     "title": "MasterChef Australië",
-    "start": 1789398960000,
-    "end": 1789402680000,
-    "description": "Voordat ze Doha verlaten, krijgen de koks nog één laatste kans om immuniteit te winnen.",
+    "start": 1789745100000,
+    "end": 1789748100000,
+    "description": "De deelnemers hebben nog een kans om immuniteit te verwerven door deel te nemen aan een uitdaging.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/m/carrousel/masterchef-australie-767180712.jpg",
     "icon": null,
@@ -277,14 +321,14 @@
     }
   },
   {
-    "id": "net5:1789402680000:lfkw5d",
+    "id": "net5:1789748100000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789402680000,
-    "end": 1789404540000,
-    "description": "Zet het cadeau van Else-Marie iets in beweging bij Jeffrey?",
+    "start": 1789748100000,
+    "end": 1789749900000,
+    "description": "Melanie is toch iets nerveuzer dan ze dacht voor haar date met Jarno.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-763582922.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -296,12 +340,12 @@
     }
   },
   {
-    "id": "net5:1789404540000:37776u",
+    "id": "net5:1789749900000:37776u",
     "channel": "net5",
     "title": "Flo",
-    "start": 1789404540000,
-    "end": 1789406400000,
-    "description": "Florentina checkt de kluis van Nadia en de beelden van de beveiligingscamera en doet een verrassende ontdekking.",
+    "start": 1789749900000,
+    "end": 1789752000000,
+    "description": "Nadia neemt de verdediging van Florentina op zich in een radio-interview, maar het pakt anders uit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/flo-762219262.jpg",
     "icon": null,
@@ -315,11 +359,11 @@
     }
   },
   {
-    "id": "net5:1789406400000:ykeob4",
+    "id": "net5:1789752000000:ykeob4",
     "channel": "net5",
     "title": "Buzz",
-    "start": 1789406400000,
-    "end": 1789408440000,
+    "start": 1789752000000,
+    "end": 1789754100000,
     "description": "Iris Enthoven en Wiesje Hillen bespreken samen met een vast panel de gesprekken van de dag.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/buzz-761478342.jpg",
@@ -334,11 +378,11 @@
     }
   },
   {
-    "id": "net5:1789408440000:1uf9v3q",
+    "id": "net5:1789754100000:1uf9v3q",
     "channel": "net5",
     "title": "True crime today",
-    "start": 1789408440000,
-    "end": 1789410360000,
+    "start": 1789754100000,
+    "end": 1789755900000,
     "description": "Kirsten Westrik en Nochtli Peralta Alvarez bespreken misdaad die mensen direct raakt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/true-crime-today-762263232.jpg",
@@ -353,14 +397,14 @@
     }
   },
   {
-    "id": "net5:1789410360000:lgzwyv",
+    "id": "net5:1789755900000:1aas33z",
     "channel": "net5",
-    "title": "Wil je met me bouwen?",
-    "start": 1789410360000,
-    "end": 1789414020000,
-    "description": "Zes vrijgezellen gaan in het nieuwe datingprogramma Wil Je met Me Bouwen?",
+    "title": "Fire country",
+    "start": 1789755900000,
+    "end": 1789759200000,
+    "description": "In de serie Fire Country komt Manny in actie als er brand uitbreekt in een opslagplaats vol graan.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/w/carrousel/wil-je-met-me-bouwen-765669442.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/fire-country-765738072.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -375,14 +419,14 @@
     }
   },
   {
-    "id": "net5:1789414020000:n73x5m",
+    "id": "net5:1789759200000:dzwrds",
     "channel": "net5",
-    "title": "Het roer om",
-    "start": 1789414020000,
-    "end": 1789417500000,
-    "description": "Kappersduo Jeffrey en Michael vindt Benidorm geknipt voor een echte Hollandse kapsalon.",
+    "title": "Sheriff country",
+    "start": 1789759200000,
+    "end": 1789762800000,
+    "description": "Als Skye de hoofdverdachte wordt in een moordzaak, moet Mickey tijdens het onderzoek een stap terugdoen en buiten de...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/het-roer-om-764080472.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/sheriff-country-765738042.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -394,14 +438,14 @@
     }
   },
   {
-    "id": "net5:1789417500000:1qgios3",
+    "id": "net5:1789762800000:1bp4tcp",
     "channel": "net5",
-    "title": "Over de liefde",
-    "start": 1789417500000,
-    "end": 1789419780000,
-    "description": "Debby Gerritsen gaat in gesprek met Koen Pieter van Dijk.",
+    "title": "Chicago fire",
+    "start": 1789762800000,
+    "end": 1789766100000,
+    "description": "Kidd versterkt haar band met Natalie tijdens een roadtrip.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/over-de-liefde-764080262.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/c/carrousel/chicago-fire-763140022.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -409,15 +453,18 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "net5:1789419780000:1uf9v3q",
+    "id": "net5:1789766100000:1uf9v3q",
     "channel": "net5",
     "title": "True crime today",
-    "start": 1789419780000,
-    "end": 1789421640000,
+    "start": 1789766100000,
+    "end": 1789767900000,
     "description": "Kirsten Westrik en Nochtli Peralta Alvarez bespreken misdaad die mensen direct raakt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/true-crime-today-762263232.jpg",
@@ -435,11 +482,11 @@
     }
   },
   {
-    "id": "net5:1789421640000:ykeob4",
+    "id": "net5:1789767900000:ykeob4",
     "channel": "net5",
     "title": "Buzz",
-    "start": 1789421640000,
-    "end": 1789423680000,
+    "start": 1789767900000,
+    "end": 1789770000000,
     "description": "Iris Enthoven en Wiesje Hillen bespreken samen met een vast panel de gesprekken van de dag.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/buzz-761478342.jpg",

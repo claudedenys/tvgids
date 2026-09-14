@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1789342620000,
     "end": 1789366200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -78,7 +78,7 @@
     "sport": null,
     "start": 1789336800000,
     "end": 1789358400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1789358400000,
     "end": 1789380000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,7 +170,7 @@
     "sport": null,
     "start": 1789344780000,
     "end": 1789364700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -238,8 +238,8 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1789334520000,
-    "end": 1789345800000,
-    "status": "aankomend",
+    "end": 1789345920000,
+    "status": "afgelopen",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -253,16 +253,16 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789345800000:xykime",
+    "id": "sport:playsports4:1789345920000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789345800000,
+    "start": 1789345920000,
     "end": 1789362000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -285,7 +285,7 @@
     "sport": null,
     "start": 1789372500000,
     "end": 1789376160000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -308,7 +308,7 @@
     "sport": "Motorsport",
     "start": 1789376160000,
     "end": 1789381740000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de tweede race van de ePrix van Londen, gereden in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -423,7 +423,7 @@
     "sport": null,
     "start": 1789336800000,
     "end": 1789358400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -446,7 +446,7 @@
     "sport": null,
     "start": 1789358400000,
     "end": 1789380000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -515,7 +515,7 @@
     "sport": "Golf",
     "start": 1789336800000,
     "end": 1789347600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Amgen Irish Open, gespeeld in Straffan, Ierland.",
     "source": "epg",
     "platforms": [
@@ -538,7 +538,7 @@
     "sport": "Golf",
     "start": 1789347600000,
     "end": 1789351200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van The Bahamas Great Abaco Classic, gespeeld in de Korn Ferry Tour.",
     "source": "epg",
     "platforms": [
@@ -561,7 +561,7 @@
     "sport": "Golf",
     "start": 1789351200000,
     "end": 1789360500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de derde en laatste dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "source": "epg",
     "platforms": [
@@ -584,7 +584,7 @@
     "sport": "Golf",
     "start": 1789360500000,
     "end": 1789372800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Amgen Irish Open, gespeeld in Straffan, Ierland.",
     "source": "epg",
     "platforms": [
@@ -607,7 +607,7 @@
     "sport": "Golf",
     "start": 1789372800000,
     "end": 1789383600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de vierde en laatste dag van de Amgen Irish Open, gespeeld in Straffan, Ierland.",
     "source": "epg",
     "platforms": [
@@ -791,7 +791,7 @@
     "sport": "Voetbal",
     "start": 1789366200000,
     "end": 1789372380000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
     "platforms": [
@@ -814,7 +814,7 @@
     "sport": "Voetbal",
     "start": 1789372380000,
     "end": 1789378920000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
     "platforms": [
@@ -837,7 +837,7 @@
     "sport": "Voetbal",
     "start": 1789378920000,
     "end": 1789385040000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1021,7 +1021,7 @@
     "sport": "Voetbal",
     "start": 1789338420000,
     "end": 1789344780000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1044,7 +1044,7 @@
     "sport": "Voetbal",
     "start": 1789364700000,
     "end": 1789371000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd FC Utrecht - PSV uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1067,7 +1067,7 @@
     "sport": "Voetbal",
     "start": 1789371000000,
     "end": 1789377360000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - ADO Den Haag uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1090,7 +1090,7 @@
     "sport": "Voetbal",
     "start": 1789377360000,
     "end": 1789383540000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd Telstar - Ajax uit de 4e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1251,7 +1251,7 @@
     "sport": null,
     "start": 1789362000000,
     "end": 1789365360000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -1274,7 +1274,7 @@
     "sport": null,
     "start": 1789365360000,
     "end": 1789368900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
@@ -1297,7 +1297,7 @@
     "sport": null,
     "start": 1789368900000,
     "end": 1789372500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [

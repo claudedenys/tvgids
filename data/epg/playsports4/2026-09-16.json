@@ -92,7 +92,7 @@
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
     "start": 1789536600000,
-    "end": 1789540500000,
+    "end": 1789539180000,
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "category": [
       "Sport",
@@ -115,6 +115,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
+    }
+  },
+  {
+    "id": "playsports4:1789539180000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1789539180000,
+    "end": 1789540500000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:345983b329ce92dc5bb91f1d65133cc2b584524a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -242,7 +266,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1789557600000,
-    "end": 1789566600000,
+    "end": 1789563360000,
     "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
     "category": [
       "Sport",
@@ -265,6 +289,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1789563360000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1789563360000,
+    "end": 1789566600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:827a307d8a80e98b5f053e69e685b24d7f5f8a2b",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

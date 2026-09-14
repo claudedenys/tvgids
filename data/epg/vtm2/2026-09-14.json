@@ -4,7 +4,7 @@
     "channel": "vtm2",
     "title": "Geen uitzending",
     "start": 1789343400000,
-    "end": 1789374000000,
+    "end": 1789374300000,
     "description": null,
     "category": [],
     "image": null,
@@ -24,11 +24,11 @@
     }
   },
   {
-    "id": "vtm2:1789374000000:mcubpw",
+    "id": "vtm2:1789374300000:mcubpw",
     "channel": "vtm2",
     "title": "House of Kardashian",
-    "start": 1789374000000,
-    "end": 1789377900000,
+    "start": 1789374300000,
+    "end": 1789378500000,
     "description": "In 2006 lekt er een sekstape van Kim Kardashian en zanger Ray J uit. Een half jaar later wordt de eerste aflevering van de realityreeks 'Keeping Up with the Kardashians' uitgezonden.",
     "category": [
       "Biografie",
@@ -54,11 +54,11 @@
     }
   },
   {
-    "id": "vtm2:1789377900000:71qygw",
+    "id": "vtm2:1789378500000:71qygw",
     "channel": "vtm2",
     "title": "Achter gesloten deuren",
-    "start": 1789377900000,
-    "end": 1789381500000,
+    "start": 1789378500000,
+    "end": 1789382100000,
     "description": "Lindy gaat samenwonen met haar vriend Bart, omdat haar vader na een auto-ongeluk veel verzorging nodig heeft. Tijdens de verbouwing van haar ouderlijk huis stuit Lindy echter op een onthutsend geheim.",
     "category": [
       "Reality"
@@ -82,31 +82,33 @@
     }
   },
   {
-    "id": "vtm2:1789381500000:13gtlu6",
+    "id": "vtm2:1789382100000:1npiog7",
     "channel": "vtm2",
-    "title": "Alles Mag Weg",
-    "start": 1789381500000,
+    "title": "Horrorhuurders & Huisjesmelkers",
+    "start": 1789382100000,
     "end": 1789385700000,
-    "description": "Kevin en Kimbo worden naar Kortrijk gestuurd om een failliete seksbioscoop te inventariseren. In het magazijn van Vavato ligt een stock van meer dan 20.000 horloges van Rodania die Yannic zal proberen te verkopen.",
+    "description": "Een stel ontdekt dat hun huurder hun eigendom heeft gebruikt om studenten op te lichten met deposito's. In Zuid-Londen onderzoekt het huisvestingsteam van de Lewisham Council de barre omstandigheden die huurders in een krappe, koude flat doorstaan.",
     "category": [
-      "Reality"
+      "Reality",
+      "Samenleving"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F27154810~~2FEP050714410004%2Cimi%3Afba303ee5c20e505801cddf45c373bc92ddac901/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F11864471~~2FEP033120670040%2Cimi%3Ad4105d48d813874071ea07a3d9cc5e68fc924d46/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 1,
-    "episode": 4,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F27154810~~2FEP050714410004,imi:fba303ee5c20e505801cddf45c373bc92ddac901",
-      "episodeName": "Aflevering 4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F11864471~~2FEP033120670040,imi:d4105d48d813874071ea07a3d9cc5e68fc924d46",
+      "episodeName": "Aflevering 1",
       "genres": [
-        "Reality"
+        "Reality",
+        "Samenleving"
       ],
-      "productionDate": "2024",
+      "productionDate": "2015",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27004252~~2FSH050714410000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc19a25d8-d4b1-4757-8c3e-622f8ce7a6bf"
     }
   },
   {

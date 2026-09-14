@@ -1,9 +1,67 @@
 [
   {
-    "id": "vrt1:1789341600000:n5mqgl",
+    "id": "vrt1:1789343520000:4k2soi",
+    "channel": "vrt1",
+    "title": "Thuis",
+    "start": 1789343520000,
+    "end": 1789344960000,
+    "description": "Het verhaal van verschillende families die met elkaar samenleven in liefde en ruzie. Ze ontmoeten elkaar op het werk, in de bar, maar vooral ook 'Thuis'. De uiteenlopende verhalen worden aan elkaar geweven tot een geheel.",
+    "category": [
+      "Dramaserie",
+      "Soap"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33969077~~2FEP023120352459%2Cimi%3A1c7485e6af3b6788e9db549c65fa46f4f874d53f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 32,
+    "episode": 6119,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33969077~~2FEP023120352459,imi:1c7485e6af3b6788e9db549c65fa46f4f874d53f",
+      "episodeName": "Aflevering 6119",
+      "genres": [
+        "Dramaserie",
+        "Soap"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fe7f97702-c08c-4d38-b008-c773c1d246bc"
+    }
+  },
+  {
+    "id": "vrt1:1789344960000:39vxy3",
+    "channel": "vrt1",
+    "title": "VRT NWS laat",
+    "start": 1789344960000,
+    "end": 1789348560000,
+    "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22781497~~2FSH044232510000~~2F550397301%2Cimi%3Aa835309f02974fbd03f89ddd4d59ecef3de514aa/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 32510000,
+    "episode": 550397301,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22781497~~2FSH044232510000~~2F550397301,imi:a835309f02974fbd03f89ddd4d59ecef3de514aa",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22781497~~2FSH044232510000"
+    }
+  },
+  {
+    "id": "vrt1:1789348560000:n5mqgl",
     "channel": "vrt1",
     "title": "Journaallus",
-    "start": 1789341600000,
+    "start": 1789348560000,
     "end": 1789358400000,
     "description": "Doorlopende herhalingen van het journaal in lusvorm tot de volgende ochtend.",
     "category": [
