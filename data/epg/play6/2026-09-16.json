@@ -1,10 +1,66 @@
 [
   {
-    "id": "play6:1789516800000:o13nu0",
+    "id": "play6:1789513200000:1ltn7gx",
+    "channel": "play6",
+    "title": "Wordt aangekondigd",
+    "start": 1789513200000,
+    "end": 1789519200000,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A9a808736e74612cc1417fb2dd5bbad04fad7b592/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:9a808736e74612cc1417fb2dd5bbad04fad7b592",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1789519200000:14ju3nd",
+    "channel": "play6",
+    "title": "Most Outrageous Crimes",
+    "start": 1789519200000,
+    "end": 1789522200000,
+    "description": "Opmerkelijke beelden tonen criminelen die op heterdaad worden betrapt. Van wilde achtervolgingen en onverwachte confrontaties met de politie tot chaotische incidenten in winkels en op openbare plaatsen.",
+    "category": [
+      "Misdaad"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28764613~~2FEP065208960034%2Cimi%3A767b5f03356bb19f7b84c1949f7bea006349bec4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 13,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28764613~~2FEP065208960034,imi:767b5f03356bb19f7b84c1949f7bea006349bec4",
+      "episodeName": "Walmart Thieves",
+      "genres": [
+        "Misdaad"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28172853~~2FSH065208960000"
+    }
+  },
+  {
+    "id": "play6:1789522200000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1789516800000,
-    "end": 1789520100000,
+    "start": 1789522200000,
+    "end": 1789524900000,
     "description": "Corey en Chum bezoeken een showroom voor klassieke auto's om een Shelby Series 1 te zien. Een verkoper bezoekt de winkel met een klassiek Nintendo-videospel en Chum krijgt een gesigneerd Olympisch snowboard.",
     "category": [
       "Reality",
@@ -30,11 +86,11 @@
     }
   },
   {
-    "id": "play6:1789520100000:48zb9",
+    "id": "play6:1789524900000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1789520100000,
-    "end": 1789527600000,
+    "start": 1789524900000,
+    "end": 1789527480000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +110,35 @@
     }
   },
   {
+    "id": "play6:1789527480000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1789527480000,
+    "end": 1789527600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f0913ec1614db475b58c2047817cae3c1662a56e",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play6:1789527600000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1789527600000,
-    "end": 1789531200000,
+    "end": 1789531500000,
     "description": null,
     "category": [],
     "image": null,
@@ -78,11 +158,11 @@
     }
   },
   {
-    "id": "play6:1789531200000:1o237yn",
+    "id": "play6:1789531500000:1o237yn",
     "channel": "play6",
     "title": "Les Sentinelles",
-    "start": 1789531200000,
-    "end": 1789533600000,
+    "start": 1789531500000,
+    "end": 1789534200000,
     "description": "Het onderzoek van Irène is te riskant geworden en moet worden stopgezet. Gabriel en Djibouti worden gevangen gehouden door de Duitsers, maar krijgen hulp. De Sentinels staan op het punt de Übermensch - hun gevaarlijkste vijand - onder ogen te komen.",
     "category": [
       "Actie"
@@ -106,11 +186,11 @@
     }
   },
   {
-    "id": "play6:1789533600000:12r5kk8",
+    "id": "play6:1789534200000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1789533600000,
-    "end": 1789536300000,
+    "start": 1789534200000,
+    "end": 1789536900000,
     "description": "Sonny zoekt een korte route door de stad als een op hol geslagen busje door een muur heen knalt en op het pad van een vrachtwagen op snelheid terechtkomt. De crew van Herb's moet haast maken voordat een lading medicijnen bevriest.",
     "category": [
       "Reality"
@@ -134,11 +214,11 @@
     }
   },
   {
-    "id": "play6:1789536300000:o13nu0",
+    "id": "play6:1789536900000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1789536300000,
-    "end": 1789539000000,
+    "start": 1789536900000,
+    "end": 1789539300000,
     "description": "Corey en Chum bezoeken een showroom voor klassieke auto's om een Shelby Series 1 te zien. Een verkoper bezoekt de winkel met een klassiek Nintendo-videospel en Chum krijgt een gesigneerd Olympisch snowboard.",
     "category": [
       "Reality",
@@ -164,11 +244,11 @@
     }
   },
   {
-    "id": "play6:1789539000000:8c7jz",
+    "id": "play6:1789539300000:8c7jz",
     "channel": "play6",
     "title": "Hawaii Five-0",
-    "start": 1789539000000,
-    "end": 1789542300000,
+    "start": 1789539300000,
+    "end": 1789542600000,
     "description": "Het team is een dief, die twee pistolen van een schietbaan heeft gestolen, op het spoor. Ondertussen worden Kono en Adam herenigd.",
     "category": [
       "Misdaaddrama"
@@ -192,11 +272,11 @@
     }
   },
   {
-    "id": "play6:1789542300000:1puyjgk",
+    "id": "play6:1789542600000:1puyjgk",
     "channel": "play6",
     "title": "The Ark",
-    "start": 1789542300000,
-    "end": 1789545600000,
+    "start": 1789542600000,
+    "end": 1789545900000,
     "description": "De bemanning moet beslissen hoe ze verdergaan. Daarbij moeten ze bepalen of ze de hulp van hun vijand Evelyn Maddox kunnen gebruiken.",
     "category": [
       "Sciencefiction"
@@ -220,11 +300,11 @@
     }
   },
   {
-    "id": "play6:1789545600000:1m0ktji",
+    "id": "play6:1789545900000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1789545600000,
-    "end": 1789547100000,
+    "start": 1789545900000,
+    "end": 1789547400000,
     "description": "Walden en Alan vliegen naar New York, waar ze de modeshow van Kate willen bijwonen. Hier hoopt Walden eindelijk zijn ware identiteit te tonen, de manier waarop loopt echter niet helemaal soepel.",
     "category": [
       "Sitcom"
@@ -248,11 +328,11 @@
     }
   },
   {
-    "id": "play6:1789547100000:1m0ktji",
+    "id": "play6:1789547400000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1789547100000,
-    "end": 1789548900000,
+    "start": 1789547400000,
+    "end": 1789549200000,
     "description": "Alan, Walden, Billy en Herb brengen de nacht samen door, klagend over liefde, relaties en hun exen. Lyndsey heeft Alan namelijk voor de zoveelste keer gedumpt nadat hij haar geen sleutel wilde geven van het Beach House.",
     "category": [
       "Sitcom"
@@ -276,11 +356,11 @@
     }
   },
   {
-    "id": "play6:1789548900000:48zb9",
+    "id": "play6:1789549200000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1789548900000,
-    "end": 1789552500000,
+    "start": 1789549200000,
+    "end": 1789552800000,
     "description": null,
     "category": [],
     "image": null,
@@ -300,11 +380,11 @@
     }
   },
   {
-    "id": "play6:1789552500000:14ci0im",
+    "id": "play6:1789552800000:14ci0im",
     "channel": "play6",
     "title": "The Neighborhood",
-    "start": 1789552500000,
-    "end": 1789554000000,
+    "start": 1789552800000,
+    "end": 1789554300000,
     "description": "Wanneer Dave besluit het huis van de Johnsons van het net te halen, veroorzaakt hij een stroomstoring in de hele gemeenschap. Na Marty's verloving worstelt Tina met het feit dat ze niet langer de belangrijkste vrouw in het leven van haar zoon is.",
     "category": [
       "Sitcom"
@@ -328,11 +408,11 @@
     }
   },
   {
-    "id": "play6:1789554000000:14ci0im",
+    "id": "play6:1789554300000:14ci0im",
     "channel": "play6",
     "title": "The Neighborhood",
-    "start": 1789554000000,
-    "end": 1789555800000,
+    "start": 1789554300000,
+    "end": 1789556100000,
     "description": "Calvin neemt Daves suggestie over om een nieuwe methode te proberen om zijn bedrijf te promoten. Hij krijgt daar echter al snel spijt van. Gemma werft Tina om haar worstelende naschoolse muziekprogramma te redden.",
     "category": [
       "Sitcom"
@@ -356,11 +436,11 @@
     }
   },
   {
-    "id": "play6:1789555800000:1lmrwl3",
+    "id": "play6:1789556100000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789555800000,
-    "end": 1789557600000,
+    "start": 1789556100000,
+    "end": 1789557900000,
     "description": "Barry krijgt bezoek van worstellegende 'Rowdy' Roddy Piper. René en Casey kopen ondertussen een standbeeld dat veel geld waard kan zijn. Darrell gaat naar huis met een aantal katgerelateerde items.",
     "category": [
       "Reality",
@@ -386,11 +466,11 @@
     }
   },
   {
-    "id": "play6:1789557600000:1lmrwl3",
+    "id": "play6:1789557900000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789557600000,
-    "end": 1789559400000,
+    "start": 1789557900000,
+    "end": 1789559700000,
     "description": "De bieders reizen naar El Monte, Californië, waar de gebroeders Harris op onopvallende wijze voor de koopjes proberen te gaan. Brandi en Jarrod tonen zich van hun liefdadige kant. Darrell doet een grote ontdekking.",
     "category": [
       "Reality",
@@ -416,10 +496,10 @@
     }
   },
   {
-    "id": "play6:1789559400000:14ju3nd",
+    "id": "play6:1789559700000:14ju3nd",
     "channel": "play6",
     "title": "Most Outrageous Crimes",
-    "start": 1789559400000,
+    "start": 1789559700000,
     "end": 1789563000000,
     "description": "Opmerkelijke beelden tonen criminelen die op heterdaad worden betrapt. Van wilde achtervolgingen en onverwachte confrontaties met de politie tot chaotische incidenten in winkels en op openbare plaatsen.",
     "category": [

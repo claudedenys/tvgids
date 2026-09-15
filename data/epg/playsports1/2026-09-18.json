@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1789688220000:xykime",
+    "id": "playsports1:1789686060000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1789688220000,
-    "end": 1789707600000,
+    "start": 1789686060000,
+    "end": 1789705440000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ad6af58692596b9f93c1b9dbb9a1c35510ab296b7/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Abbe11649ddee78fe950dc6e13f9db89fb91c487c/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +17,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:d6af58692596b9f93c1b9dbb9a1c35510ab296b7",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:bbe11649ddee78fe950dc6e13f9db89fb91c487c",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "playsports1:1789707600000:48zb9",
+    "id": "playsports1:1789705440000:48zb9",
     "channel": "playsports1",
     "title": "Geen uitzending",
-    "start": 1789707600000,
-    "end": 1789710000000,
+    "start": 1789705440000,
+    "end": 1789708200000,
     "description": null,
     "category": [],
     "image": null,
@@ -52,11 +52,11 @@
     }
   },
   {
-    "id": "playsports1:1789710000000:1prlzbg",
+    "id": "playsports1:1789708200000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789710000000,
-    "end": 1789716300000,
+    "start": 1789708200000,
+    "end": 1789714380000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",
@@ -82,11 +82,11 @@
     }
   },
   {
-    "id": "playsports1:1789716300000:1prlzbg",
+    "id": "playsports1:1789714380000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789716300000,
-    "end": 1789722600000,
+    "start": 1789714380000,
+    "end": 1789720500000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",
@@ -112,11 +112,11 @@
     }
   },
   {
-    "id": "playsports1:1789722600000:1prlzbg",
+    "id": "playsports1:1789720500000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789722600000,
-    "end": 1789728660000,
+    "start": 1789720500000,
+    "end": 1789726500000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -142,27 +142,33 @@
     }
   },
   {
-    "id": "playsports1:1789728660000:48zb9",
+    "id": "playsports1:1789726500000:amnfa6",
     "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1789728660000,
+    "title": "Premier League Review",
+    "start": 1789726500000,
     "end": 1789729800000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33923916~~2FEP055411400062%2Cimi%3A1443498f2adf0b42c47a4d3c013a8395c6ae93e6/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 102026,
+    "episode": 2026091662,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ba21d610b670259ecaa193f5bb600ee1a2029506",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33923916~~2FEP055411400062,imi:1443498f2adf0b42c47a4d3c013a8395c6ae93e6",
       "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
     }
   },
   {
@@ -170,7 +176,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1789729800000,
-    "end": 1789737000000,
+    "end": 1789736100000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -196,11 +202,11 @@
     }
   },
   {
-    "id": "playsports1:1789737000000:1prlzbg",
+    "id": "playsports1:1789736100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789737000000,
-    "end": 1789743300000,
+    "start": 1789736100000,
+    "end": 1789742700000,
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "category": [
       "Sport",
@@ -226,10 +232,10 @@
     }
   },
   {
-    "id": "playsports1:1789743300000:11wg5yb",
+    "id": "playsports1:1789742700000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1789743300000,
+    "start": 1789742700000,
     "end": 1789749720000,
     "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
     "category": [

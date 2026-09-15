@@ -65,7 +65,7 @@
     "title": "Nieuwsuur",
     "start": 1789426500000,
     "end": 1789429200000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Nederlandse jongeren in Spaanse jeugdzorglocatie Nederlandse instanties hebben de...",
     "category": [
       "Actueel"
     ],
@@ -90,7 +90,7 @@
     "title": "Nieuwsuur",
     "start": 1789429200000,
     "end": 1789448400000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Nederlandse jongeren in Spaanse jeugdzorglocatie Nederlandse instanties hebben de...",
     "category": [
       "Actueel"
     ],
@@ -317,9 +317,9 @@
     "title": "Opsporing verzocht",
     "start": 1789462800000,
     "end": 1789465500000,
-    "description": "Opsporingsprogramma in samenwerking met politie en justitie.",
+    "description": "Met in deze uitzending: * Man verklaart over vergismoord.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/opsporing-verzocht-764024152.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -430,7 +430,7 @@
     "channel": "npo2",
     "title": "Per seconde wijzer",
     "start": 1789482600000,
-    "end": 1789484040000,
+    "end": 1789483980000,
     "description": "Twee kandidaten testen onder hoge druk hun kennis in verschillende categorieën.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/per-seconde-wijzer-764606612.jpg",
@@ -448,11 +448,11 @@
     }
   },
   {
-    "id": "npo2:1789484040000:12b58co",
+    "id": "npo2:1789483980000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
-    "start": 1789484040000,
-    "end": 1789484160000,
+    "start": 1789483980000,
+    "end": 1789484100000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-771025322.jpg",
@@ -470,10 +470,10 @@
     }
   },
   {
-    "id": "npo2:1789484160000:12b58co",
+    "id": "npo2:1789484100000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
-    "start": 1789484160000,
+    "start": 1789484100000,
     "end": 1789484400000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
@@ -708,7 +708,7 @@
     "title": "Rutgers lobby",
     "start": 1789504500000,
     "end": 1789506300000,
-    "description": "Rutger Castricum doet verslag van politieke en maatschappelijke kwesties.",
+    "description": "<span class=\"label label--updated\">Update</span> Rutger Castricum stelt politieke en maatschappelijke kwesties aan de kaak...",
     "category": [
       "Actueel"
     ],
@@ -722,7 +722,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
