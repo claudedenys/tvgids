@@ -587,11 +587,33 @@
     }
   },
   {
-    "id": "npo1:1789842600000:aezw80",
+    "id": "npo1:1789842600000:1vlv4c2",
+    "channel": "npo1",
+    "title": "Beste zangers",
+    "start": 1789842600000,
+    "end": 1789846200000,
+    "description": "Zo&euml; Livay staat in deze aflevering van Beste Zangers in de schijnwerpers.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/beste-zangers-766065392.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "tip"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1789846200000:aezw80",
     "channel": "npo1",
     "title": "Wolven",
-    "start": 1789842600000,
-    "end": 1789845900000,
+    "start": 1789846200000,
+    "end": 1789849500000,
     "description": "Opnieuw sturen Wolven-presentatoren Soundos El Ahmadi en Pieter Derks de onschuldige burgers het bos in, op jacht...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/w/carrousel/wolven-766065452.jpg",
@@ -605,28 +627,6 @@
       "labels": [
         "program",
         "audiodescription",
-        "tip"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1789845900000:1vlv4c2",
-    "channel": "npo1",
-    "title": "Beste zangers",
-    "start": 1789845900000,
-    "end": 1789849500000,
-    "description": "Zo&euml; Livay staat in deze aflevering van Beste Zangers in de schijnwerpers.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/beste-zangers-766065392.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
         "tip"
       ]
     }
@@ -684,7 +684,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789854900000,
-    "end": 1789855800000,
+    "end": 1789855500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"

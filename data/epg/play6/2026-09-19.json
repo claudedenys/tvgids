@@ -1,9 +1,9 @@
 [
   {
-    "id": "play6:1789774500000:o13nu0",
+    "id": "play6:1789774800000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1789774500000,
+    "start": 1789774800000,
     "end": 1789777200000,
     "description": "Rick gokt op een WO I-helm en een vintage RC Cola-machine. In de winkel gaat Corey erg ver met een verkoper met een uniek 'Rocky III'-beeld.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1789777200000,
-    "end": 1789791600000,
+    "end": 1789786620000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +54,87 @@
     }
   },
   {
-    "id": "play6:1789791600000:12r5kk8",
+    "id": "play6:1789786620000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1789786620000,
+    "end": 1789786800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0e9021c50d176f3a80c0024acaa6d1610c58708d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1789786800000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1789786800000,
+    "end": 1789788300000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f45ba69c76a65826572d36d3c4e0c629f610d7c3",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1789788300000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1789791600000,
-    "end": 1789794300000,
+    "start": 1789788300000,
+    "end": 1789791000000,
+    "description": "Een tragische botsing tussen twee vrachtwagens zorgt voor chaos bij Bear en de crew van Ross'. Nate en Andrew moeten improviseren wanneer een lading hout terecht komt op de snelweg en het verkeer vaststaat tot aan Quebec.",
+    "category": [
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14953285~~2FEP028770780008%2Cimi%3A0c743a5c18b9c4e008202a6d62b837829cd8fb9f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14953285~~2FEP028770780008,imi:0c743a5c18b9c4e008202a6d62b837829cd8fb9f",
+      "episodeName": "Where There's Smoke",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2018",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13324841~~2FSH028770780000"
+    }
+  },
+  {
+    "id": "play6:1789791000000:12r5kk8",
+    "channel": "play6",
+    "title": "Heavy Rescue: 401",
+    "start": 1789791000000,
+    "end": 1789793700000,
     "description": "Sonny zoekt een korte route door de stad als een op hol geslagen busje door een muur heen knalt en op het pad van een vrachtwagen op snelheid terechtkomt. De crew van Herb's moet haast maken voordat een lading medicijnen bevriest.",
     "category": [
       "Reality"
@@ -82,11 +158,11 @@
     }
   },
   {
-    "id": "play6:1789794300000:12r5kk8",
+    "id": "play6:1789793700000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1789794300000,
-    "end": 1789796700000,
+    "start": 1789793700000,
+    "end": 1789796100000,
     "description": "IJskoude regen plaagt Gary's team, waardoor hij in zijn eentje de drukste grensovergang moet openen. In Windsor vrezen Brad, Eric en hun crew een tragedie als ze een sedan bevrijden van onder een vrachtwagen. Een agent wil een ramp voorkomen.",
     "category": [
       "Reality"
@@ -110,11 +186,11 @@
     }
   },
   {
-    "id": "play6:1789796700000:12r5kk8",
+    "id": "play6:1789796100000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1789796700000,
-    "end": 1789800000000,
+    "start": 1789796100000,
+    "end": 1789799400000,
     "description": "Een storm raast over de provincie en brengt reddingscrews in problemen. In Hamilton probeert Kevin een wrak weg te halen voor de sneeuwruimers erdoor moeten. Verder naar het oosten noopt een kettingbotsing op de 401 de teams tot ingrijpen.",
     "category": [
       "Reality"
@@ -138,11 +214,11 @@
     }
   },
   {
-    "id": "play6:1789800000000:12r5kk8",
+    "id": "play6:1789799400000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1789800000000,
-    "end": 1789803600000,
+    "start": 1789799400000,
+    "end": 1789802400000,
     "description": "De druk staat erop voor Steve als een gekantelde vrachtwagen de toegang tot het vliegveld blokkeert. Coxon heeft een wrak met gevaarlijke lading. Een over de kop geslagen taxi heeft een spoor van vernieling achtergelaten.",
     "category": [
       "Reality"
@@ -166,11 +242,11 @@
     }
   },
   {
-    "id": "play6:1789803600000:1lmrwl3",
+    "id": "play6:1789802400000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789803600000,
-    "end": 1789805400000,
+    "start": 1789802400000,
+    "end": 1789804200000,
     "description": "Darrell speelt een thuiswedstrijd als de kopers naar Costa Mesa in Californië komen. Barry wil met alle liefde de nieuwe veilingmeester Johan ontmoeten. Ivy Calvin stuit op uniek gereedschap. Jarrod en Brandi zoeken voorraad voor hun nieuwe winkel.",
     "category": [
       "Reality",
@@ -196,11 +272,11 @@
     }
   },
   {
-    "id": "play6:1789805400000:1lmrwl3",
+    "id": "play6:1789804200000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789805400000,
-    "end": 1789807200000,
+    "start": 1789804200000,
+    "end": 1789806000000,
     "description": "De kopers bezoeken een veiling in Laguna Niguel in Californië, waar Dan en Laura vijf opslagruimtes verkopen. Mark en zijn broer Matt nemen risico's om niet met lege handen te vertrekken zoals de vorige keer. Barry beproeft zijn geluk op een kluis.",
     "category": [
       "Reality",
@@ -226,11 +302,11 @@
     }
   },
   {
-    "id": "play6:1789807200000:48zb9",
+    "id": "play6:1789806000000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1789807200000,
-    "end": 1789810800000,
+    "start": 1789806000000,
+    "end": 1789809600000,
     "description": null,
     "category": [],
     "image": null,
@@ -250,11 +326,11 @@
     }
   },
   {
-    "id": "play6:1789810800000:1lmrwl3",
+    "id": "play6:1789809600000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789810800000,
-    "end": 1789812600000,
+    "start": 1789809600000,
+    "end": 1789811700000,
     "description": "Barry krijgt bezoek van worstellegende 'Rowdy' Roddy Piper. René en Casey kopen ondertussen een standbeeld dat veel geld waard kan zijn. Darrell gaat naar huis met een aantal katgerelateerde items.",
     "category": [
       "Reality",
@@ -280,11 +356,11 @@
     }
   },
   {
-    "id": "play6:1789812600000:1lmrwl3",
+    "id": "play6:1789811700000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789812600000,
-    "end": 1789814400000,
+    "start": 1789811700000,
+    "end": 1789813500000,
     "description": "De bieders reizen naar El Monte, Californië, waar de gebroeders Harris op onopvallende wijze voor de koopjes proberen te gaan. Brandi en Jarrod tonen zich van hun liefdadige kant. Darrell doet een grote ontdekking.",
     "category": [
       "Reality",
@@ -310,11 +386,11 @@
     }
   },
   {
-    "id": "play6:1789814400000:1lmrwl3",
+    "id": "play6:1789813500000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789814400000,
-    "end": 1789816200000,
+    "start": 1789813500000,
+    "end": 1789815000000,
     "description": "De kopers bezoeken de veiling in Compton, Californië. Jarrod is gespannen over de aanstaande opening van zijn nieuwe winkel, dus Brandi houdt zich in. Mike koopt een kluis die Herb eigenlijk niet wil. Barry wordt herenigd met zijn oude vriend Kenny.",
     "category": [
       "Reality",
@@ -340,11 +416,11 @@
     }
   },
   {
-    "id": "play6:1789816200000:1lmrwl3",
+    "id": "play6:1789815000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789816200000,
-    "end": 1789818000000,
+    "start": 1789815000000,
+    "end": 1789816800000,
     "description": "De kopers wagen zich naar Homeland, Californië, dat allesbehalve vriendelijk blijkt voor de gebroeders Harris. De spanningen lopen op als Jarrod en Brandi hoog inzetten. Barry vindt iets terug dat hij is kwijtgeraakt.",
     "category": [
       "Reality",
@@ -370,11 +446,11 @@
     }
   },
   {
-    "id": "play6:1789818000000:1lmrwl3",
+    "id": "play6:1789816800000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789818000000,
-    "end": 1789819800000,
+    "start": 1789816800000,
+    "end": 1789818600000,
     "description": "De bieders bezoeken een opslagruimte in Mission Viejo in Californië, waar Johan de verkoop leidt. Jarrod en Brandi ontdekken een ongewoon kunstwerk. Barry's accountant probeert hem in bedwang te houden. René en Casey genieten van een wijntje.",
     "category": [
       "Reality",
@@ -400,11 +476,11 @@
     }
   },
   {
-    "id": "play6:1789819800000:1lmrwl3",
+    "id": "play6:1789818600000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789819800000,
-    "end": 1789821300000,
+    "start": 1789818600000,
+    "end": 1789820400000,
     "description": "De profiteurs keren terug naar Lancaster. Darrell en Ivy nemen het tegen elkaar op. Barry ontdekt kommen die een zeer kalmerend effect hebben, terwijl Jarrod en Brandi dj-apparatuur vinden.",
     "category": [
       "Reality",
@@ -430,11 +506,11 @@
     }
   },
   {
-    "id": "play6:1789821300000:1lmrwl3",
+    "id": "play6:1789820400000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789821300000,
-    "end": 1789823100000,
+    "start": 1789820400000,
+    "end": 1789822200000,
     "description": "In Placentia, Californië, doen Jarrod en Brandi een aankoop die de weegschaal in hun voordeel doet doorslaan. René en Casey kopen een lading bagage. Darrell scoort wat hij denkt dat tandheelkundige apparatuur is.",
     "category": [
       "Reality",
@@ -460,11 +536,11 @@
     }
   },
   {
-    "id": "play6:1789823100000:1lmrwl3",
+    "id": "play6:1789822200000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1789823100000,
-    "end": 1789824900000,
+    "start": 1789822200000,
+    "end": 1789824300000,
     "description": "Kopers komen naar Stanton, een stad die zowel residentieel, commercieel als industrieel is. Aangezien dit een kleine stad is, verwacht Jarrod niet dat hij de jackpot zal winnen. Darrell en Brandon moeten hun winkelrekken vullen.",
     "category": [
       "Reality",
@@ -490,11 +566,11 @@
     }
   },
   {
-    "id": "play6:1789824900000:1m0ktji",
+    "id": "play6:1789824300000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1789824900000,
-    "end": 1789827000000,
+    "start": 1789824300000,
+    "end": 1789826100000,
     "description": "Sam Wilson, het alter ego van Walden, vindt zijn roeping als kerstboomverkoper. Terwijl hij aan het werk is, krijgt hij echter een interessant zakenvoorstel aangeboden door niemand minder dan Mark Zuckerberg.",
     "category": [
       "Sitcom"
@@ -518,11 +594,11 @@
     }
   },
   {
-    "id": "play6:1789827000000:1m0ktji",
+    "id": "play6:1789826100000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1789827000000,
-    "end": 1789828800000,
+    "start": 1789826100000,
+    "end": 1789828200000,
     "description": "Walden investeert in de modecarrière van Kate, zonder dat ze weet dat hij miljardair is. Het leven van een dubbelleven wordt op deze manier steeds moeilijker. Ondertussen begint Alan zich steeds comfortabeler te voelen in het strandhuis.",
     "category": [
       "Sitcom"
@@ -546,11 +622,11 @@
     }
   },
   {
-    "id": "play6:1789828800000:1m0ktji",
+    "id": "play6:1789828200000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1789828800000,
-    "end": 1789830600000,
+    "start": 1789828200000,
+    "end": 1789830300000,
     "description": "Walden en Alan vliegen naar New York, waar ze de modeshow van Kate willen bijwonen. Hier hoopt Walden eindelijk zijn ware identiteit te tonen, de manier waarop loopt echter niet helemaal soepel.",
     "category": [
       "Sitcom"
@@ -574,11 +650,11 @@
     }
   },
   {
-    "id": "play6:1789830600000:1m0ktji",
+    "id": "play6:1789830300000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1789830600000,
-    "end": 1789832400000,
+    "start": 1789830300000,
+    "end": 1789832100000,
     "description": "Alan, Walden, Billy en Herb brengen de nacht samen door, klagend over liefde, relaties en hun exen. Lyndsey heeft Alan namelijk voor de zoveelste keer gedumpt nadat hij haar geen sleutel wilde geven van het Beach House.",
     "category": [
       "Sitcom"
@@ -602,10 +678,10 @@
     }
   },
   {
-    "id": "play6:1789832400000:1m0ktji",
+    "id": "play6:1789832100000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1789832400000,
+    "start": 1789832100000,
     "end": 1789833900000,
     "description": "Alan weet niet wat hij moet denken van de nieuwe relatie van Jake. Zijn nieuwe liefde, Tammy, is namelijk 17 jaar ouder, heeft drie kinderen en is eigenares van een tattooshop. Intussen heeft Alan moeite met het bewaren van geheimen.",
     "category": [

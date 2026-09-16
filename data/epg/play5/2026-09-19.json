@@ -1,9 +1,9 @@
 [
   {
-    "id": "play5:1789773600000:1vr1iur",
+    "id": "play5:1789773900000:1vr1iur",
     "channel": "play5",
     "title": "How to Get Away With Murder",
-    "start": 1789773600000,
+    "start": 1789773900000,
     "end": 1789777200000,
     "description": "Emily Sinclair komt tot een doorbraak in de zaak-Hapstall, maar haar daden hebben grote gevolgen wanneer er details aan het licht komen over de nacht dat Annalise neergeschoten werd, inclusief de identiteit van de schutter.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1789777200000,
-    "end": 1789790700000,
+    "end": 1789786560000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +54,89 @@
     }
   },
   {
-    "id": "play5:1789790700000:br4tdi",
+    "id": "play5:1789786560000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1789786560000,
+    "end": 1789786800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0d57c8e7ed042cc0456bd0b945d8801e4e3dd767",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1789786800000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1789786800000,
+    "end": 1789787100000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:10712d72beec7df9e71d9700ea0a28b511772dd7",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1789787100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789790700000,
-    "end": 1789793100000,
+    "start": 1789787100000,
+    "end": 1789789800000,
+    "description": "Het team gaat op zoek naar een beruchte Colombiaanse drugsbaron nadat hij is ontsnapt uit een Amerikaanse gevangenis. Ook begint Kristin open te staan voor haar ex-man over haar verleden.",
+    "category": [
+      "Misdaaddrama",
+      "Actie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21337852~~2FEP036505670040%2Cimi%3A4838f6cba47ef393ff8d55b64f03cb8fa57af858/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 12,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21337852~~2FEP036505670040,imi:4838f6cba47ef393ff8d55b64f03cb8fa57af858",
+      "episodeName": "El Pincho",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F16945418~~2FSH036505670000"
+    }
+  },
+  {
+    "id": "play5:1789789800000:br4tdi",
+    "channel": "play5",
+    "title": "FBI: Most Wanted",
+    "start": 1789789800000,
+    "end": 1789792200000,
     "description": "Het team gaat op zoek naar een zakenman die gezocht wordt voor moord en verduistering, Jess maakt gebruik van zijn lege nest om Sarah naar behoren te berechten.",
     "category": [
       "Misdaaddrama",
@@ -84,11 +162,11 @@
     }
   },
   {
-    "id": "play5:1789793100000:br4tdi",
+    "id": "play5:1789792200000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789793100000,
-    "end": 1789795800000,
+    "start": 1789792200000,
+    "end": 1789794600000,
     "description": "Het team achtervolgt een gewelddadige man op het oorlogspad om zijn ex-vriendin te vinden, die voorgoed aan hem probeert te ontsnappen. Ook maken Jess en Sarah plannen om samen hun droomvakantie te maken.",
     "category": [
       "Misdaaddrama",
@@ -114,11 +192,11 @@
     }
   },
   {
-    "id": "play5:1789795800000:br4tdi",
+    "id": "play5:1789794600000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789795800000,
-    "end": 1789798200000,
+    "start": 1789794600000,
+    "end": 1789797300000,
     "description": "Het team moet een moorddadig lid van de incel-gemeenschap opsporen. Ook Barnes, Hana, Ortiz en Kristin verwerken hun verdriet in de nasleep van Jess' dood.",
     "category": [
       "Misdaaddrama",
@@ -144,11 +222,11 @@
     }
   },
   {
-    "id": "play5:1789798200000:48zb9",
+    "id": "play5:1789797300000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1789798200000,
-    "end": 1789800000000,
+    "start": 1789797300000,
+    "end": 1789799100000,
     "description": null,
     "category": [],
     "image": null,
@@ -168,11 +246,11 @@
     }
   },
   {
-    "id": "play5:1789800000000:br4tdi",
+    "id": "play5:1789799100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789800000000,
-    "end": 1789803300000,
+    "start": 1789799100000,
+    "end": 1789802100000,
     "description": "Het team wordt naar Vermont opgeroepen nadat een echtpaar dat illegale marihuana kweekt hun werknemers vermoord. Barnes begint spijt te krijgen dat ze geen verlof heeft genomen om een band met haar nieuwe baby op te bouwen.",
     "category": [
       "Misdaaddrama",
@@ -198,11 +276,11 @@
     }
   },
   {
-    "id": "play5:1789803300000:br4tdi",
+    "id": "play5:1789802100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789803300000,
-    "end": 1789806300000,
+    "start": 1789802100000,
+    "end": 1789805400000,
     "description": "Speciaal agent Remy Scott voegt zich als nieuwe leider bij de groep. Het team onderzoekt een reeks moorden die verband houden met een verboden liefde tussen een jonge tiener en haar oudere vriend.",
     "category": [
       "Misdaaddrama",
@@ -228,11 +306,11 @@
     }
   },
   {
-    "id": "play5:1789806300000:br4tdi",
+    "id": "play5:1789805400000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789806300000,
-    "end": 1789809300000,
+    "start": 1789805400000,
+    "end": 1789808400000,
     "description": "Remy en het team onderzoeken de moorden op twee legerveteranen die verband lijken te houden met hun tijd in Afghanistan. Hana krijgt verrassend nieuws over haar biologische moeder.",
     "category": [
       "Misdaaddrama",
@@ -258,11 +336,11 @@
     }
   },
   {
-    "id": "play5:1789809300000:br4tdi",
+    "id": "play5:1789808400000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789809300000,
-    "end": 1789812600000,
+    "start": 1789808400000,
+    "end": 1789811400000,
     "description": "Het team gaat achter de moordenaar van een man in getuigenbescherming aan, maar ontdekt dat er meer aan de hand is dan men op het eerste gezicht zou denken.",
     "category": [
       "Misdaaddrama",
@@ -288,11 +366,11 @@
     }
   },
   {
-    "id": "play5:1789812600000:br4tdi",
+    "id": "play5:1789811400000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789812600000,
-    "end": 1789815900000,
+    "start": 1789811400000,
+    "end": 1789814700000,
     "description": "Het team gaat op zoek naar een moordenaar die de ijzingwekkende moorden van een beruchte gangster uit de jaren tachtig nabootst.",
     "category": [
       "Misdaaddrama",
@@ -318,11 +396,11 @@
     }
   },
   {
-    "id": "play5:1789815900000:br4tdi",
+    "id": "play5:1789814700000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1789815900000,
-    "end": 1789818900000,
+    "start": 1789814700000,
+    "end": 1789818000000,
     "description": "Wanneer een rijk echtpaar wordt vermoord door een oplichtster die zich voordoet als personal trainer, probeert het team haar ware identiteit te achterhalen. Ortiz wordt in een lastig parket gebracht als Hana's broer om een gunst vraagt.",
     "category": [
       "Misdaaddrama",
@@ -348,11 +426,11 @@
     }
   },
   {
-    "id": "play5:1789818900000:yknhhu",
+    "id": "play5:1789818000000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1789818900000,
-    "end": 1789822200000,
+    "start": 1789818000000,
+    "end": 1789821600000,
     "description": "FBI-agent Fornell wordt in zijn auto beschoten, maar blijft ongedeerd dankzij zijn kogelwerend vest en schiet de overvaller neer. Diane, de ex-vrouw van zowel Fornell als Gibbs, brengt de nacht door bij McGee.",
     "category": [
       "Misdaaddrama",
@@ -378,11 +456,11 @@
     }
   },
   {
-    "id": "play5:1789822200000:yknhhu",
+    "id": "play5:1789821600000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1789822200000,
-    "end": 1789825800000,
+    "start": 1789821600000,
+    "end": 1789825200000,
     "description": "Tony's vader komt op bezoek voor kerst. Ondertussen onderzoekt het team een moordzaak. Abby is zenuwachtig voor de aanstaande feestdagen.",
     "category": [
       "Misdaaddrama",
@@ -408,10 +486,10 @@
     }
   },
   {
-    "id": "play5:1789825800000:yknhhu",
+    "id": "play5:1789825200000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1789825800000,
+    "start": 1789825200000,
     "end": 1789828800000,
     "description": "Het team onderzoekt het verband tussen een dode journalist en een marine onderofficier. Ziva wordt verrast door een bezoek van haar vader, die ze al twee jaar niet heeft gezien.",
     "category": [
@@ -472,7 +550,7 @@
     "channel": "play5",
     "title": "NCIS",
     "start": 1789832400000,
-    "end": 1789835400000,
+    "end": 1789835700000,
     "description": "Twee voorbijgangers vinden de lichamen van een marinier en een jonge vrouw in een autowrak. Gibbs en zijn team bijten zich vast in de zaak. Het onderzoek roept onprettige herinneringen op bij Abby.",
     "category": [
       "Misdaaddrama",
@@ -498,10 +576,10 @@
     }
   },
   {
-    "id": "play5:1789835400000:yknhhu",
+    "id": "play5:1789835700000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1789835400000,
+    "start": 1789835700000,
     "end": 1789838700000,
     "description": "Na een hackeraanval op NCIS wordt een undercoveragent gedood. Kort daarna kan het team de verantwoordelijke voor de aanval inrekenen, maar Ajay Khan geeft niet zo snel zijn opdrachtgever prijs.",
     "category": [

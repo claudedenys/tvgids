@@ -1,14 +1,14 @@
 [
   {
-    "id": "sport:playsports1:1789772940000:xykime",
+    "id": "sport:playsports1:1789772760000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789772940000,
-    "end": 1789794000000,
+    "start": 1789772760000,
+    "end": 1789795200000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -71,7 +71,7 @@
   {
     "id": "sport:playsports1:1789815000000:qjkkk5",
     "externalId": null,
-    "title": "PL Goalscorers",
+    "title": "Petr Cech",
     "home": null,
     "away": null,
     "competition": "Premier League",
@@ -163,7 +163,7 @@
   {
     "id": "sport:playsports1:1789842300000:qjkkk5",
     "externalId": null,
-    "title": "PL Goalscorers",
+    "title": "Petr Cech",
     "home": null,
     "away": null,
     "competition": "Premier League",
@@ -299,14 +299,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789776240000:xykime",
+    "id": "sport:playsports3:1789775760000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789776240000,
+    "start": 1789775760000,
     "end": 1789794000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -356,6 +356,29 @@
     "end": 1789840500000,
     "status": "aankomend",
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1789847700000:9elx6q",
+    "externalId": null,
+    "title": "Hoogtepunten",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Europa League",
+    "sport": "Voetbal",
+    "start": 1789847700000,
+    "end": 1789848900000,
+    "status": "aankomend",
+    "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1196,29 +1219,6 @@
     ]
   },
   {
-    "id": "sport:match:1789769940000:club brugge o19 - aston villa u19",
-    "externalId": null,
-    "title": "Club Brugge O19 - Aston Villa U19",
-    "home": "Club Brugge O19",
-    "away": "Aston Villa U19",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1789769940000,
-    "end": 1789776240000,
-    "status": "aankomend",
-    "description": "Vanuit The Nest in Roeselare, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
     "id": "sport:match:1789794000000:fortuna sittard - ajax",
     "externalId": null,
     "title": "Fortuna Sittard - Ajax",
@@ -1227,7 +1227,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1789794000000,
-    "end": 1789800600000,
+    "end": 1789800480000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1242,14 +1242,14 @@
     ]
   },
   {
-    "id": "sport:match:1789800600000:psv - sparta rotterdam",
+    "id": "sport:match:1789800480000:psv - sparta rotterdam",
     "externalId": null,
     "title": "PSV - Sparta Rotterdam",
     "home": "PSV",
     "away": "Sparta Rotterdam",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789800600000,
+    "start": 1789800480000,
     "end": 1789806600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
@@ -1273,7 +1273,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1789806600000,
-    "end": 1789812600000,
+    "end": 1789812480000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Feyenoord uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1288,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1789812600000:fortuna sittard - ajax",
+    "id": "sport:match:1789812480000:fortuna sittard - ajax",
     "externalId": null,
     "title": "Fortuna Sittard - Ajax",
     "home": "Fortuna Sittard",
     "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789812600000,
-    "end": 1789819200000,
+    "start": 1789812480000,
+    "end": 1789819020000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1311,15 +1311,15 @@
     ]
   },
   {
-    "id": "sport:match:1789819200000:psv - sparta rotterdam",
+    "id": "sport:match:1789819020000:psv - sparta rotterdam",
     "externalId": null,
     "title": "PSV - Sparta Rotterdam",
     "home": "PSV",
     "away": "Sparta Rotterdam",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789819200000,
-    "end": 1789825200000,
+    "start": 1789819020000,
+    "end": 1789825080000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1334,14 +1334,14 @@
     ]
   },
   {
-    "id": "sport:match:1789825200000:pec zwolle - feyenoord",
+    "id": "sport:match:1789825080000:pec zwolle - feyenoord",
     "externalId": null,
     "title": "PEC Zwolle - Feyenoord",
     "home": "PEC Zwolle",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789825200000,
+    "start": 1789825080000,
     "end": 1789831200000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Feyenoord uit de 6e speelronde van de VriendenLoterij Eredivisie.",
@@ -1380,17 +1380,17 @@
     ]
   },
   {
-    "id": "sport:match:1789847700000:leeds united - newcastle united",
+    "id": "sport:match:1789848900000:manchester united - manchester city",
     "externalId": null,
-    "title": "Leeds United - Newcastle United",
-    "home": "Leeds United",
-    "away": "Newcastle United",
+    "title": "Manchester United - Manchester City",
+    "home": "Manchester United",
+    "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789847700000,
-    "end": 1789848600000,
+    "start": 1789848900000,
+    "end": 1789849800000,
     "status": "aankomend",
-    "description": "Vanuit Elland Road in Leeds, Engeland.",
+    "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1403,40 +1403,17 @@
     ]
   },
   {
-    "id": "sport:match:1789848600000:club brugge o19 - aston villa u19",
+    "id": "sport:match:1789849800000:club brugge o19 - aston villa u19",
     "externalId": null,
     "title": "Club Brugge O19 - Aston Villa U19",
     "home": "Club Brugge O19",
     "away": "Aston Villa U19",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1789848600000,
-    "end": 1789855020000,
+    "start": 1789849800000,
+    "end": 1789856100000,
     "status": "aankomend",
     "description": "Vanuit The Nest in Roeselare, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789855020000:fortuna sittard - ajax",
-    "externalId": null,
-    "title": "Fortuna Sittard - Ajax",
-    "home": "Fortuna Sittard",
-    "away": "Ajax",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1789855020000,
-    "end": 1789861800000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"

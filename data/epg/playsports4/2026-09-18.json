@@ -1,32 +1,62 @@
 [
   {
-    "id": "playsports4:1789688100000:arbc9e",
+    "id": "playsports4:1789686000000:3y5tln",
     "channel": "playsports4",
-    "title": "The Paddock Live: Formule 2",
-    "start": 1789688100000,
-    "end": 1789693680000,
-    "description": "Live verslagen van races gereden in de Formule 2.",
+    "title": "MotoGP",
+    "start": 1789686000000,
+    "end": 1789690140000,
+    "description": "Verslag van de race van de MotoGP van San Marino, gereden in Misano Adriatico, Italië.",
     "category": [
       "Sport",
-      "Motorsport"
+      "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33003074~~2FEP063235510042%2Cimi%3A0fa021cdf26f8d4a88c2d780df9a4323817cea5f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393546~~2FEP036138911487%2Cimi%3Ac85ef5017b0b61bc77a0ad08b4f3127f0ef114ae/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 35510000,
-    "episode": 2026091242,
+    "season": 38910000,
+    "episode": 2026091387,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33003074~~2FEP063235510042,imi:0fa021cdf26f8d4a88c2d780df9a4323817cea5f",
-      "episodeName": "Madrid: Sprintrace",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393546~~2FEP036138911487,imi:c85ef5017b0b61bc77a0ad08b4f3127f0ef114ae",
+      "episodeName": "GP van San Marino: Race",
       "genres": [
         "Sport",
-        "Motorsport"
+        "Motorracen"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13929005~~2FSH063235510000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
+    }
+  },
+  {
+    "id": "playsports4:1789690140000:133mms5",
+    "channel": "playsports4",
+    "title": "FIM Motocross World Championship",
+    "start": 1789690140000,
+    "end": 1789693680000,
+    "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33987236~~2FEP050375640319%2Cimi%3A423b13eb7a37b695f399c8ef599b16f24322cd52/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 75640000,
+    "episode": 2026091319,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33987236~~2FEP050375640319,imi:423b13eb7a37b695f399c8ef599b16f24322cd52",
+      "episodeName": "China - MX2: Race 2",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
@@ -34,7 +64,7 @@
     "channel": "playsports4",
     "title": "Debuteren Met Ervaren Heren",
     "start": 1789693680000,
-    "end": 1789697400000,
+    "end": 1789697100000,
     "description": "De eerste keer is altijd spannend. Gelukkig hebben we ervaren mannen die de nieuwe poesjes rustig aaien en daarna lekker hard nemen in hun eerste seksfilm.",
     "category": [
       "Adult",
@@ -60,10 +90,10 @@
     }
   },
   {
-    "id": "playsports4:1789697400000:xykime",
+    "id": "playsports4:1789697100000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1789697400000,
+    "start": 1789697100000,
     "end": 1789707600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [

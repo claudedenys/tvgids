@@ -1,0 +1,330 @@
+[
+  {
+    "id": "playsports4:1789861620000:xykime",
+    "channel": "playsports4",
+    "title": "Play Sports",
+    "start": 1789861620000,
+    "end": 1789881900000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A8bfe13f370fb4d31d57540b6c1ce7f3d0cf33210/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:8bfe13f370fb4d31d57540b6c1ce7f3d0cf33210",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports4:1789881900000:arbc9f",
+    "channel": "playsports4",
+    "title": "The Paddock Live: Formule 3",
+    "start": 1789881900000,
+    "end": 1789887600000,
+    "description": "Verslag van races gereden in de Formule 3.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584076~~2FEP063235540042%2Cimi%3A781f0494dca82d6f5397481a55b272ce3cb5ee0e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35540000,
+    "episode": 2026091242,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584076~~2FEP063235540042,imi:781f0494dca82d6f5397481a55b272ce3cb5ee0e",
+      "episodeName": "Madrid: Puntenrace 1",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8181178~~2FSH063235540000"
+    }
+  },
+  {
+    "id": "playsports4:1789887600000:1owb2q5",
+    "channel": "playsports4",
+    "title": "Tennis: Abierto GNP Seguros 2026",
+    "start": 1789887600000,
+    "end": 1789898880000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33997331~~2FEP065944460001%2Cimi%3Ad9cc36a20cb45d900e4d39e10d9f11acf6d2d980/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 44460000,
+    "episode": 2026090501,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33997331~~2FEP065944460001,imi:d9cc36a20cb45d900e4d39e10d9f11acf6d2d980",
+      "episodeName": "Mertens vs. Parry",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33189297~~2FSH065944460000"
+    }
+  },
+  {
+    "id": "playsports4:1789898880000:arbc9d",
+    "channel": "playsports4",
+    "title": "The Paddock Live: Formule 1",
+    "start": 1789898880000,
+    "end": 1789905300000,
+    "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388153~~2FEP063235100089%2Cimi%3A6bd9b3c6f2e2e13ad64254e75d5d876d3551711e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35100000,
+    "episode": 2026091389,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388153~~2FEP063235100089,imi:6bd9b3c6f2e2e13ad64254e75d5d876d3551711e",
+      "episodeName": "GP van Spanje: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1789905300000:3y5tln",
+    "channel": "playsports4",
+    "title": "MotoGP",
+    "start": 1789905300000,
+    "end": 1789909500000,
+    "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491%2Cimi%3A308dc34d0c2f757f85b47693173da2e9398ccbfd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 38910000,
+    "episode": 2026092091,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491,imi:308dc34d0c2f757f85b47693173da2e9398ccbfd",
+      "episodeName": "GP van Oostenrijk: Race",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
+    }
+  },
+  {
+    "id": "playsports4:1789909500000:i67pjl",
+    "channel": "playsports4",
+    "title": "Play Sports Highlights",
+    "start": 1789909500000,
+    "end": 1789910700000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F551535802%2Cimi%3Aedde93940cd02027f99d520ee144204547bafcb4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 551535802,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F551535802,imi:edde93940cd02027f99d520ee144204547bafcb4",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports4:1789910700000:11wg5yb",
+    "channel": "playsports4",
+    "title": "Bundesliga",
+    "start": 1789910700000,
+    "end": 1789917900000,
+    "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613816~~2FEP033948601852%2Cimi%3Ae2bde52ab5e0c8171eab7cc296f0deeea1fb409c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026092052,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613816~~2FEP033948601852,imi:e2bde52ab5e0c8171eab7cc296f0deeea1fb409c",
+      "episodeName": "Bayer Leverkusen - RB Leipzig",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports4:1789917900000:3tkxx5",
+    "channel": "playsports4",
+    "title": "MIDMID",
+    "start": 1789917900000,
+    "end": 1789923300000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190%2Cimi%3A5d9c4db6e394dfdd4faa8399684693530a932fc1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190,imi:5d9c4db6e394dfdd4faa8399684693530a932fc1",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
+    }
+  },
+  {
+    "id": "playsports4:1789923300000:1prlzbg",
+    "channel": "playsports4",
+    "title": "Premier League",
+    "start": 1789923300000,
+    "end": 1789924200000,
+    "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581510~~2FEP033946612471%2Cimi%3Aee8707288fe723ed4fab02a5493d1d46593b11fa/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026091971,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581510~~2FEP033946612471,imi:ee8707288fe723ed4fab02a5493d1d46593b11fa",
+      "episodeName": "Brighton & Hove Albion - Arsenal",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports4:1789924200000:arbc9d",
+    "channel": "playsports4",
+    "title": "The Paddock Live: Formule 1",
+    "start": 1789924200000,
+    "end": 1789930500000,
+    "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388153~~2FEP063235100089%2Cimi%3A8045c191fd9df9ac7eaa80c39122709e888011fa/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35100000,
+    "episode": 2026091389,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388153~~2FEP063235100089,imi:8045c191fd9df9ac7eaa80c39122709e888011fa",
+      "episodeName": "GP van Spanje: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1789930500000:1owb2q5",
+    "channel": "playsports4",
+    "title": "Tennis: Abierto GNP Seguros 2026",
+    "start": 1789930500000,
+    "end": 1789941600000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33997331~~2FEP065944460001%2Cimi%3Ab532f09ad51ff0903c9581f9ddedb2eb0fec8b7e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 44460000,
+    "episode": 2026090501,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33997331~~2FEP065944460001,imi:b532f09ad51ff0903c9581f9ddedb2eb0fec8b7e",
+      "episodeName": "Mertens vs. Parry",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33189297~~2FSH065944460000"
+    }
+  }
+]

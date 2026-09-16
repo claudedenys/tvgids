@@ -5,7 +5,7 @@
     "title": "Nieuwsuur",
     "start": 1789509600000,
     "end": 1789512300000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Sabotage op het spoor.",
     "category": [
       "Actueel"
     ],
@@ -55,7 +55,7 @@
     "title": "Nieuwsuur",
     "start": 1789514700000,
     "end": 1789534800000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Sabotage op het spoor.",
     "category": [
       "Actueel"
     ],
@@ -233,39 +233,14 @@
     }
   },
   {
-    "id": "npo2:1789545600000:qbw2jg",
+    "id": "npo2:1789545600000:1ii7y3a",
     "channel": "npo2",
-    "title": "Nieuwsuur",
+    "title": "Kunststof",
     "start": 1789545600000,
-    "end": 1789548000000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/nieuwsuur-765040482.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1789548000000:1c58w42",
-    "channel": "npo2",
-    "title": "Andere tijden kort",
-    "start": 1789548000000,
     "end": 1789549200000,
-    "description": "Wie er niet woont, wil er niet dood gevonden worden.",
+    "description": "Christophe Vekeman is een Belgisch schrijver, dichter en performer.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/andere-tijden-kort-765079062.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kunststof-764865422.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -273,10 +248,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
+      "labels": []
     }
   },
   {
@@ -304,14 +276,16 @@
     }
   },
   {
-    "id": "npo2:1789549800000:1ii7y3a",
+    "id": "npo2:1789549800000:qbw2jg",
     "channel": "npo2",
-    "title": "Kunststof",
+    "title": "Nieuwsuur",
     "start": 1789549800000,
     "end": 1789552800000,
-    "description": "Christophe Vekeman is een Belgisch schrijver, dichter en performer.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kunststof-764865422.jpg",
+    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "category": [
+      "Actueel"
+    ],
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -319,7 +293,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
     }
   },
   {
@@ -418,7 +396,7 @@
     "title": "NOS Journaal",
     "start": 1789556400000,
     "end": 1789557600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met het laatste nieuws en de weersverwachting...",
     "category": [
       "Actueel"
     ],
@@ -432,7 +410,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },

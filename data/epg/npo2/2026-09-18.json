@@ -393,7 +393,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1789729200000,
-    "end": 1789729800000,
+    "end": 1789730400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -409,30 +409,6 @@
       "labels": [
         "program",
         "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1789729800000:ejkxyx",
-    "channel": "npo2",
-    "title": "Sportjournaal",
-    "start": 1789729800000,
-    "end": 1789730400000,
-    "description": "Aandacht voor het laatste sportnieuws.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/sportjournaal-764021892.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "sport"
       ]
     }
   },
@@ -508,7 +484,7 @@
     "title": "Jongstof",
     "start": 1789737600000,
     "end": 1789740000000,
-    "description": "Tirsa With, Stijn de Vries en Max Terpstra spreken een half uur met talent uit de wereld van de kunst, cultuur en media.",
+    "description": "Illustrator Anne Cappendijk presenteert dit najaar haar boek 'Mourning Traffic', een visuele handleiding door rouw,...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kunststof-764865422.jpg",
     "icon": null,
@@ -594,7 +570,7 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1789743300000,
-    "end": 1789743420000,
+    "end": 1789743360000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-771205242.jpg",
@@ -612,11 +588,11 @@
     }
   },
   {
-    "id": "npo2:1789743420000:12b58co",
+    "id": "npo2:1789743360000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
-    "start": 1789743420000,
-    "end": 1789743900000,
+    "start": 1789743360000,
+    "end": 1789743600000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-771205242.jpg",
@@ -634,10 +610,10 @@
     }
   },
   {
-    "id": "npo2:1789743900000:cfkl6y",
+    "id": "npo2:1789743600000:cfkl6y",
     "channel": "npo2",
     "title": "Natural born rebels",
-    "start": 1789743900000,
+    "start": 1789743600000,
     "end": 1789747200000,
     "description": "Dieren stelen, bedriegen en vechten om aan voedsel te komen, zoals kleptomane krabben, rovende makaken, zwendelende...",
     "category": [],

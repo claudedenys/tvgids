@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1789772940000:xykime",
+    "id": "playsports1:1789772760000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1789772940000,
-    "end": 1789794000000,
+    "start": 1789772760000,
+    "end": 1789795200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A63d5ff002177cd2106ad3f38d5869d1db91d26e7/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ad6af58692596b9f93c1b9dbb9a1c35510ab296b7/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,35 +17,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:63d5ff002177cd2106ad3f38d5869d1db91d26e7",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:d6af58692596b9f93c1b9dbb9a1c35510ab296b7",
       "episodeName": null,
       "genres": [
         "Sport"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1789794000000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1789794000000,
-    "end": 1789795200000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:bd5e6a48e698cf4befd3f56560daad327c1d89b0",
-      "episodeName": null,
-      "genres": [],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
@@ -182,21 +158,21 @@
       "Docu",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311460~~2FEP043309820203%2Cimi%3Aa6993a73a46b56965c8b4060a408a9ba4b4f2122/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33857629~~2FEP043309820271%2Cimi%3A58e9051056af6a15e8e618cfd76fa35d81fa74cd/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 5,
-    "episode": 3,
+    "season": 6,
+    "episode": 14,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311460~~2FEP043309820203,imi:a6993a73a46b56965c8b4060a408a9ba4b4f2122",
-      "episodeName": "PL Goalscorers",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33857629~~2FEP043309820271,imi:58e9051056af6a15e8e618cfd76fa35d81fa74cd",
+      "episodeName": "Petr Cech",
       "genres": [
         "Docu",
         "Voetbal"
       ],
-      "productionDate": "2025",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
     }
@@ -392,21 +368,21 @@
       "Docu",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311460~~2FEP043309820203%2Cimi%3Ac96bcdc1435568fe9961ec1fa99bbd157cb51c17/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33857629~~2FEP043309820271%2Cimi%3Ac3fa1c0410c009c2d13ba9230d8f95ae28ec2634/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 5,
-    "episode": 3,
+    "season": 6,
+    "episode": 14,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311460~~2FEP043309820203,imi:c96bcdc1435568fe9961ec1fa99bbd157cb51c17",
-      "episodeName": "PL Goalscorers",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33857629~~2FEP043309820271,imi:c3fa1c0410c009c2d13ba9230d8f95ae28ec2634",
+      "episodeName": "Petr Cech",
       "genres": [
         "Docu",
         "Voetbal"
       ],
-      "productionDate": "2025",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
     }
