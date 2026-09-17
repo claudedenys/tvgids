@@ -119,7 +119,7 @@
     "end": 1789641000000,
     "description": "Homeshoppingprogramma.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-5-telvero-761487612.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -182,7 +182,7 @@
     "channel": "rtl5",
     "title": "Stop! Politie UK",
     "start": 1789657200000,
-    "end": 1789661100000,
+    "end": 1789661220000,
     "description": "Realityserie over het werk van de Britse verkeerspolitie.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/stop-politie-uk-765710832.jpg",
@@ -200,10 +200,10 @@
     }
   },
   {
-    "id": "rtl5:1789661100000:f5s2le",
+    "id": "rtl5:1789661220000:f5s2le",
     "channel": "rtl5",
     "title": "Stop! Politie UK",
-    "start": 1789661100000,
+    "start": 1789661220000,
     "end": 1789664700000,
     "description": "Realityserie over het werk van de Britse verkeerspolitie.",
     "category": [],
@@ -226,7 +226,7 @@
     "channel": "rtl5",
     "title": "De Pfaff's",
     "start": 1789664700000,
-    "end": 1789667100000,
+    "end": 1789667040000,
     "description": "In het huis van Lyndsey en Dave heerst vroeg in de ochtend al een gezellige drukte.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-pfaff-s-764023512.jpg",
@@ -244,11 +244,11 @@
     }
   },
   {
-    "id": "rtl5:1789667100000:1stldm3",
+    "id": "rtl5:1789667040000:1stldm3",
     "channel": "rtl5",
     "title": "De Pfaff's",
-    "start": 1789667100000,
-    "end": 1789669800000,
+    "start": 1789667040000,
+    "end": 1789669620000,
     "description": "Jean-Marie is al enkele maanden bezig met de ontwikkeling van een eigen tijdschrift.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-pfaff-s-764023512.jpg",
@@ -266,10 +266,10 @@
     }
   },
   {
-    "id": "rtl5:1789669800000:wj2lcb",
+    "id": "rtl5:1789669620000:wj2lcb",
     "channel": "rtl5",
     "title": "Adam's family: 25 jaar later",
-    "start": 1789669800000,
+    "start": 1789669620000,
     "end": 1789674900000,
     "description": "Realityserie waarin Christina Curry wordt gevolgd tijdens een bijzondere periode in haar leven.",
     "category": [],
@@ -289,7 +289,7 @@
     "channel": "rtl5",
     "title": "112 vandaag",
     "start": 1789674900000,
-    "end": 1789676700000,
+    "end": 1789676280000,
     "description": "Reportages over de meldingen en calamiteiten die bij het nationale noodnummer binnenkomen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/1/carrousel/112-vandaag-767151152.jpg",
@@ -304,11 +304,11 @@
     }
   },
   {
-    "id": "rtl5:1789676700000:146wvl6",
+    "id": "rtl5:1789676280000:146wvl6",
     "channel": "rtl5",
     "title": "RTL Weer",
-    "start": 1789676700000,
-    "end": 1789677300000,
+    "start": 1789676280000,
+    "end": 1789676940000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
@@ -329,10 +329,10 @@
     }
   },
   {
-    "id": "rtl5:1789677300000:uc4b4u",
+    "id": "rtl5:1789676940000:uc4b4u",
     "channel": "rtl5",
     "title": "24 uur in de ER",
-    "start": 1789677300000,
+    "start": 1789676940000,
     "end": 1789680900000,
     "description": "Realityserie over de eerstehulpafdeling van St.",
     "category": [],
@@ -355,7 +355,7 @@
     "channel": "rtl5",
     "title": "112 vandaag",
     "start": 1789680900000,
-    "end": 1789682400000,
+    "end": 1789682280000,
     "description": "Reportages over de meldingen en calamiteiten die bij het nationale noodnummer binnenkomen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/1/carrousel/112-vandaag-767151152.jpg",
@@ -368,6 +368,31 @@
     "meta": {
       "labels": [
         "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1789682280000:146wvl6",
+    "channel": "rtl5",
+    "title": "RTL Weer",
+    "start": 1789682280000,
+    "end": 1789682460000,
+    "description": "Een uitgebreide blik op de actuele weerkaart.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-765324102.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
         "rerun"
       ]
     }

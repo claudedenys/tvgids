@@ -1,9 +1,39 @@
 [
   {
-    "id": "playsports3:1789775760000:xykime",
+    "id": "playsports3:1789770840000:29x1rm",
+    "channel": "playsports3",
+    "title": "UEFA Youth League",
+    "start": 1789770840000,
+    "end": 1789777200000,
+    "description": "Vanuit The Nest in Roeselare, België.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34010523~~2FEP040031410238%2Cimi%3A293b63ebdf35264f8715a60fc6847f6a28f218a3/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 31410000,
+    "episode": 2026090838,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34010523~~2FEP040031410238,imi:293b63ebdf35264f8715a60fc6847f6a28f218a3",
+      "episodeName": "Club Brugge O19 - Aston Villa U19",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10207271~~2FSH040031410000"
+    }
+  },
+  {
+    "id": "playsports3:1789777200000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1789775760000,
+    "start": 1789777200000,
     "end": 1789794000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -362,7 +392,7 @@
     "channel": "playsports3",
     "title": "UEFA Youth League",
     "start": 1789849800000,
-    "end": 1789856100000,
+    "end": 1789856220000,
     "description": "Vanuit The Nest in Roeselare, België.",
     "category": [
       "Sport",

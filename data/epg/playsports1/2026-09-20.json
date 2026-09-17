@@ -1,15 +1,45 @@
 [
   {
-    "id": "playsports1:1789858800000:xykime",
+    "id": "playsports1:1789858140000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1789858140000,
+    "end": 1789864560000,
+    "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33580717~~2FEP033946612462%2Cimi%3A515db10323c08500ba33fae3ba6efa78a7193404/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026091262,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33580717~~2FEP033946612462,imi:515db10323c08500ba33fae3ba6efa78a7193404",
+      "episodeName": "Sunderland - Arsenal",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1789864560000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1789858800000,
-    "end": 1789880400000,
+    "start": 1789864560000,
+    "end": 1789881000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Adcabab78b51b2dd03b9f9182e56c85d12b3a2d60/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A63d5ff002177cd2106ad3f38d5869d1db91d26e7/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +47,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:dcabab78b51b2dd03b9f9182e56c85d12b3a2d60",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:63d5ff002177cd2106ad3f38d5869d1db91d26e7",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -28,35 +58,11 @@
     }
   },
   {
-    "id": "playsports1:1789880400000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1789880400000,
-    "end": 1789881900000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:158fa244d9399f1a61ba51ae7232a09a2c35d196",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1789881900000:1prlzbg",
+    "id": "playsports1:1789881000000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789881900000,
-    "end": 1789888140000,
+    "start": 1789881000000,
+    "end": 1789887180000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",
@@ -82,11 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1789888140000:1prlzbg",
+    "id": "playsports1:1789887180000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789888140000,
-    "end": 1789894500000,
+    "start": 1789887180000,
+    "end": 1789893360000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",
@@ -112,11 +118,11 @@
     }
   },
   {
-    "id": "playsports1:1789894500000:1prlzbg",
+    "id": "playsports1:1789893360000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789894500000,
-    "end": 1789900500000,
+    "start": 1789893360000,
+    "end": 1789899540000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -142,11 +148,11 @@
     }
   },
   {
-    "id": "playsports1:1789900500000:11wg5yb",
+    "id": "playsports1:1789899540000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1789900500000,
-    "end": 1789907400000,
+    "start": 1789899540000,
+    "end": 1789906500000,
     "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
     "category": [
       "Sport",
@@ -172,11 +178,11 @@
     }
   },
   {
-    "id": "playsports1:1789907400000:qjkkk5",
+    "id": "playsports1:1789906500000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1789907400000,
-    "end": 1789908900000,
+    "start": 1789906500000,
+    "end": 1789908000000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
@@ -199,6 +205,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports1:1789908000000:1dvjy1m",
+    "channel": "playsports1",
+    "title": "Meester Tacticus",
+    "start": 1789908000000,
+    "end": 1789908900000,
+    "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34124432~~2FEP065986550002%2Cimi%3A34ddded8962279cd04b48a1176de0573027e2ab5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 86550000,
+    "episode": 2026091902,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34124432~~2FEP065986550002,imi:34ddded8962279cd04b48a1176de0573027e2ab5",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34022384~~2FSH065986550000"
     }
   },
   {
@@ -326,7 +362,7 @@
     "channel": "playsports1",
     "title": "Premier League Stories",
     "start": 1789926300000,
-    "end": 1789927800000,
+    "end": 1789927860000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
@@ -352,11 +388,11 @@
     }
   },
   {
-    "id": "playsports1:1789927800000:1prlzbg",
+    "id": "playsports1:1789927860000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789927800000,
-    "end": 1789928700000,
+    "start": 1789927860000,
+    "end": 1789928520000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -382,11 +418,11 @@
     }
   },
   {
-    "id": "playsports1:1789928700000:11wg5yb",
+    "id": "playsports1:1789928520000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1789928700000,
-    "end": 1789935000000,
+    "start": 1789928520000,
+    "end": 1789934640000,
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "category": [
       "Sport",
@@ -412,11 +448,11 @@
     }
   },
   {
-    "id": "playsports1:1789935000000:11wg5yb",
+    "id": "playsports1:1789934640000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1789935000000,
-    "end": 1789941360000,
+    "start": 1789934640000,
+    "end": 1789941120000,
     "description": "Vanuit de PreZero Arena in Sinsheim, Duitsland.",
     "category": [
       "Sport",
@@ -442,11 +478,11 @@
     }
   },
   {
-    "id": "playsports1:1789941360000:1prlzbg",
+    "id": "playsports1:1789941120000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1789941360000,
-    "end": 1789947780000,
+    "start": 1789941120000,
+    "end": 1789947540000,
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "category": [
       "Sport",

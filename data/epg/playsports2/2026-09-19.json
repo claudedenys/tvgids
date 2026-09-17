@@ -114,31 +114,33 @@
     }
   },
   {
-    "id": "playsports2:1789833300000:xykime",
+    "id": "playsports2:1789833300000:yjyhy8",
     "channel": "playsports2",
-    "title": "Play Sports",
+    "title": "Bundesliga Special Report",
     "start": 1789833300000,
     "end": 1789835100000,
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "description": null,
     "category": [
-      "Sport"
+      "Sport",
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Af23d47b980ad56374c79973aa41ae4c7115ebe37/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34128201~~2FEP066175140001%2Cimi%3A3d7cd23741fb84cd13186ad2ab315f2371e8a2a6/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:f23d47b980ad56374c79973aa41ae4c7115ebe37",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34128201~~2FEP066175140001,imi:3d7cd23741fb84cd13186ad2ab315f2371e8a2a6",
+      "episodeName": "Aflevering 1",
       "genres": [
-        "Sport"
+        "Sport",
+        "Voetbal"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34128195~~2FSH066175140000"
     }
   },
   {

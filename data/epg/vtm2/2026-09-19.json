@@ -1,10 +1,10 @@
 [
   {
-    "id": "vtm2:1789773000000:1hoxiu3",
+    "id": "vtm2:1789773300000:1hoxiu3",
     "channel": "vtm2",
     "title": "Mr. Frank Visser: hoe is het nu met?",
-    "start": 1789773000000,
-    "end": 1789776600000,
+    "start": 1789773300000,
+    "end": 1789776900000,
     "description": "Viktor Brand kijkt terug op zaken uit eerdere seizoenen van 'Mr. Frank Visser doet uitspraak' en zoekt uit of de veroordeelde partijen zijn oordeel hebben opgevolgd.",
     "category": [
       "Debat",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "vtm2:1789776600000:48zb9",
+    "id": "vtm2:1789776900000:48zb9",
     "channel": "vtm2",
     "title": "Geen uitzending",
-    "start": 1789776600000,
+    "start": 1789776900000,
     "end": 1789806300000,
     "description": null,
     "category": [],
@@ -112,44 +112,47 @@
     }
   },
   {
-    "id": "vtm2:1789814100000:1viexit",
+    "id": "vtm2:1789814100000:jfmd6",
     "channel": "vtm2",
-    "title": "Te bepalen",
+    "title": "America's Got Talent: Fantasy Team",
     "start": 1789814100000,
     "end": 1789820100000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Tien oud-deelnemers betreden opnieuw het 'Got Talent'-podium tijdens de eerste kwalificatieronde.",
     "category": [
-      "Entertainment"
+      "Variété",
+      "Muziek"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba%2Cimi%3A55aa67ccbf7b5241e6201328d137b5d3ea9917d3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26223269~~2FEP052126490001%2Cimi%3A871c52ce79a3a7c662b7e37fa04cd49dee207e61/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba,imi:55aa67ccbf7b5241e6201328d137b5d3ea9917d3",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26223269~~2FEP052126490001,imi:871c52ce79a3a7c662b7e37fa04cd49dee207e61",
+      "episodeName": "Qualifiers 1",
       "genres": [
-        "Entertainment"
+        "Variété",
+        "Muziek"
       ],
-      "productionDate": null,
+      "productionDate": "2024",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26151229~~2FSH052126490000"
     }
   },
   {
-    "id": "vtm2:1789820100000:1viexit",
+    "id": "vtm2:1789820100000:ta1waj",
     "channel": "vtm2",
-    "title": "Te bepalen",
+    "title": "Mystery 101: Words Can Kill",
     "start": 1789820100000,
     "end": 1789826700000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Een boekenfestival op de universiteit van professor Amy Winslow verloopt niet zoals gepland, als een van de gasten wordt vermoord. Rechercheur Travis Burke arresteert Amy's vader. Amy doet er alles aan om te bewijzen dat hij onschuldig is.",
     "category": [
-      "Entertainment"
+      "Drama",
+      "Film"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba%2Cimi%3A41676814d07960d64ba3cd9db16c78283385b49e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21683253~~2FMV018021290000%2Cimi%3Ad198183750b3c0c941705eb7960e4fecc30526f8/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -157,12 +160,13 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba,imi:41676814d07960d64ba3cd9db16c78283385b49e",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21683253~~2FMV018021290000,imi:d198183750b3c0c941705eb7960e4fecc30526f8",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Drama",
+        "Film"
       ],
-      "productionDate": null,
+      "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
     }
@@ -282,16 +286,17 @@
     }
   },
   {
-    "id": "vtm2:1789842600000:1viexit",
+    "id": "vtm2:1789842600000:1ar5frz",
     "channel": "vtm2",
-    "title": "Te bepalen",
+    "title": "Alien: Romulus",
     "start": 1789842600000,
     "end": 1789850700000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Terwijl ze de diepten van een verlaten ruimtestation doorzoeken, komt een groep jonge kolonisten oog in oog te staan met de meest meedogenloze en dodelijke levensvorm in het universum.",
     "category": [
-      "Entertainment"
+      "Film",
+      "Sciencefiction"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba%2Cimi%3Aab6207009fe408fe273cf87df73e272b22fbd5f7/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26633571~~2FMV022983820000%2Cimi%3Afd3ffbcff04ec4f6e22b1dfbe48afc651b4312f5/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -299,27 +304,29 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba,imi:ab6207009fe408fe273cf87df73e272b22fbd5f7",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26633571~~2FMV022983820000,imi:fd3ffbcff04ec4f6e22b1dfbe48afc651b4312f5",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Film",
+        "Sciencefiction"
       ],
-      "productionDate": null,
+      "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
     }
   },
   {
-    "id": "vtm2:1789850700000:1viexit",
+    "id": "vtm2:1789850700000:czz0km",
     "channel": "vtm2",
-    "title": "Te bepalen",
+    "title": "Terminator: Dark Fate",
     "start": 1789850700000,
     "end": 1789859100000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "In Mexico-Stad arriveert er een nieuwe gemodificeerde vloeibare Terminator, ook wel bekend als de Rev-9, uit de toekomst om een jonge fabrieksarbeidster genaamd Dani Ramos te vermoorden. Ook de hybride cyborg Grace wordt teruggestuurd in de tijd om Ramos te beschermen tegen de schijnbaar onverwoestbare Rev-9. Maar de twee vrouwen krijgen al snel hulp van een paar onverwachte bondgenoten: de doorgewinterde verzetsstrijder Sarah Connor en de T-800.",
     "category": [
-      "Entertainment"
+      "Film",
+      "Sciencefiction"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba%2Cimi%3A9dc30d17840d47dc9aa70c1189646236e129b4f3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14592194~~2FMV015755180000%2Cimi%3A1c68a9411c7d3c09fd493e45d5a363acddbed36d/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -327,12 +334,13 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH063350970000~~2Ftba,imi:9dc30d17840d47dc9aa70c1189646236e129b4f3",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14592194~~2FMV015755180000,imi:1c68a9411c7d3c09fd493e45d5a363acddbed36d",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Film",
+        "Sciencefiction"
       ],
-      "productionDate": null,
+      "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
     }

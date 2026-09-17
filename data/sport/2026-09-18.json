@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1789686060000:xykime",
+    "id": "sport:playsports1:1789686000000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789686060000,
+    "start": 1789686000000,
     "end": 1789708680000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -46,15 +46,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789749780000:fly4em",
+    "id": "sport:playsports1:1789749840000:fly4em",
     "externalId": null,
     "title": "Aflevering 3",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789749780000,
-    "end": 1789752900000,
+    "start": 1789749840000,
+    "end": 1789752960000,
     "status": "aankomend",
     "description": "Alle samenvattingen van de afgelopen speeldag uit de Duitse Bundesliga.",
     "source": "epg",
@@ -69,15 +69,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789752900000:amnfa6",
+    "id": "sport:playsports1:1789752960000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789752900000,
-    "end": 1789756200000,
+    "start": 1789752960000,
+    "end": 1789756080000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -92,14 +92,14 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789756200000:qjkkk5",
+    "id": "sport:playsports1:1789756080000:qjkkk5",
     "externalId": null,
     "title": "Petr Cech",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789756200000,
+    "start": 1789756080000,
     "end": 1789757700000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
@@ -215,7 +215,7 @@
     "competition": null,
     "sport": null,
     "start": 1789747200000,
-    "end": 1789754400000,
+    "end": 1789754280000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -230,14 +230,14 @@
     ]
   },
   {
-    "id": "sport:playsports2:1789754400000:1spiq9g",
+    "id": "sport:playsports2:1789754280000:1spiq9g",
     "externalId": null,
     "title": "Aflevering 4",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789754400000,
+    "start": 1789754280000,
     "end": 1789755900000,
     "status": "aankomend",
     "description": "Wekelijkse voorbeschouwing met alle relevante informatie over aankomende wedstrijden en het laatste nieuws uit de Bundesliga.",
@@ -253,14 +253,37 @@
     ]
   },
   {
-    "id": "sport:playsports2:1789763100000:xykime",
+    "id": "sport:playsports2:1789763100000:yjyhy8",
+    "externalId": null,
+    "title": "Aflevering 1",
+    "home": null,
+    "away": null,
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1789763100000,
+    "end": 1789764660000,
+    "status": "aankomend",
+    "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 2"
+    ],
+    "channels": [
+      "Play Sports 2"
+    ],
+    "channelIds": [
+      "playsports2"
+    ]
+  },
+  {
+    "id": "sport:playsports2:1789764660000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789763100000,
+    "start": 1789764660000,
     "end": 1789768800000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -276,17 +299,63 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789690080000:xykime",
+    "id": "sport:playsports3:1789690200000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789690080000,
+    "start": 1789690200000,
     "end": 1789707600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1789750920000:3tkxx5",
+    "externalId": null,
+    "title": "Aflevering 2",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1789750920000,
+    "end": 1789756380000,
+    "status": "aankomend",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1789756380000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1789756380000,
+    "end": 1789758420000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -997,7 +1066,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1789743000000,
-    "end": 1789749780000,
+    "end": 1789749840000,
     "status": "aankomend",
     "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
     "source": "epg",
@@ -1081,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1789683960000:psv - sparta rotterdam",
+    "id": "sport:match:1789684080000:psv - sparta rotterdam",
     "externalId": null,
     "title": "PSV - Sparta Rotterdam",
     "home": "PSV",
     "away": "Sparta Rotterdam",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789683960000,
-    "end": 1789690080000,
+    "start": 1789684080000,
+    "end": 1789690200000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1265,38 +1334,15 @@
     ]
   },
   {
-    "id": "sport:match:1789750920000:psv - sparta rotterdam",
-    "externalId": null,
-    "title": "PSV - Sparta Rotterdam",
-    "home": "PSV",
-    "away": "Sparta Rotterdam",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1789750920000,
-    "end": 1789757040000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1789757040000:pec zwolle - feyenoord",
+    "id": "sport:match:1789758420000:pec zwolle - feyenoord",
     "externalId": null,
     "title": "PEC Zwolle - Feyenoord",
     "home": "PEC Zwolle",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789757040000,
-    "end": 1789762920000,
+    "start": 1789758420000,
+    "end": 1789764300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Feyenoord uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1311,15 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1789762920000:fortuna sittard - ajax",
+    "id": "sport:match:1789764300000:fortuna sittard - ajax",
     "externalId": null,
     "title": "Fortuna Sittard - Ajax",
     "home": "Fortuna Sittard",
     "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789762920000,
-    "end": 1789769400000,
+    "start": 1789764300000,
+    "end": 1789770840000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",

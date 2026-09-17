@@ -106,7 +106,7 @@
     "channel": "play5",
     "title": "Grey's Anatomy",
     "start": 1789615200000,
-    "end": 1789617600000,
+    "end": 1789617900000,
     "description": "Owen en Link behandelen een oudere vrouw die wakker wordt na een operatie en niet kan stoppen met zingen, terwijl Teddy Koracick helpt overeind te blijven.",
     "category": [
       "Dramaserie",
@@ -132,10 +132,10 @@
     }
   },
   {
-    "id": "play5:1789617600000:1hk0z8w",
+    "id": "play5:1789617900000:1hk0z8w",
     "channel": "play5",
     "title": "Friends",
-    "start": 1789617600000,
+    "start": 1789617900000,
     "end": 1789619100000,
     "description": "Phoebe is met een homoseksuele man uit Canada getrouwd om hem aan een verblijfsvergunning te helpen.",
     "category": [
@@ -778,7 +778,7 @@
     "channel": "play5",
     "title": "Modern Family",
     "start": 1789680300000,
-    "end": 1789682400000,
+    "end": 1789682100000,
     "description": "Het is Valentijnsdag, dus 'Juliana' en 'Clive' keren terug. Maar Claire begint zich zorgen te maken als ze denkt dat Phil meer interesse heeft in Juliana dan in haar.",
     "category": [
       "Sitcom"
@@ -793,6 +793,34 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F11451998~~2FEP028434260006,imi:2467801f41334d52ad574d93eb0713ec54672963",
       "episodeName": "Valentine's Day 4: Twisted Sister",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F6f58de17-3efc-4875-8dd4-f9101af038f8"
+    }
+  },
+  {
+    "id": "play5:1789682100000:7bb6ek",
+    "channel": "play5",
+    "title": "Modern Family",
+    "start": 1789682100000,
+    "end": 1789684500000,
+    "description": "Claire neemt een eersteklas stoel tijdens een vlucht terwijl Phil in economyclass moet blijven. Gloria wil dat Jay Manny leert om zichzelf te verdedigen.",
+    "category": [
+      "Sitcom"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F11452026~~2FEP028434260007%2Cimi%3A90f0e40247cce3697c554509c8d4f3b59c5a4854/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 15,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F11452026~~2FEP028434260007,imi:90f0e40247cce3697c554509c8d4f3b59c5a4854",
+      "episodeName": "Fight or Flight",
       "genres": [
         "Sitcom"
       ],

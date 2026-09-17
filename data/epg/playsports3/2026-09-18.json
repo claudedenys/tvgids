@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1789683960000:1va4v2m",
+    "id": "playsports3:1789684080000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789683960000,
-    "end": 1789690080000,
+    "start": 1789684080000,
+    "end": 1789690200000,
     "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports3:1789690080000:xykime",
+    "id": "playsports3:1789690200000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1789690080000,
+    "start": 1789690200000,
     "end": 1789707600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -268,41 +268,71 @@
     }
   },
   {
-    "id": "playsports3:1789750920000:1va4v2m",
+    "id": "playsports3:1789750920000:3tkxx5",
     "channel": "playsports3",
-    "title": "Eredivisie",
+    "title": "MIDMID",
     "start": 1789750920000,
-    "end": 1789757040000,
-    "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
+    "end": 1789756380000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558181~~2FEP035850991995%2Cimi%3A691d85f3890dc4aa1b18bd8abbb7c7a24c0158dd/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190%2Cimi%3A9b73b1811ac8bfeeb7f31e2f6a8e52cff42de9e9/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026091395,
+    "season": 7,
+    "episode": 2,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558181~~2FEP035850991995,imi:691d85f3890dc4aa1b18bd8abbb7c7a24c0158dd",
-      "episodeName": "PSV - Sparta Rotterdam",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190,imi:9b73b1811ac8bfeeb7f31e2f6a8e52cff42de9e9",
+      "episodeName": "Aflevering 2",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports3:1789757040000:1va4v2m",
+    "id": "playsports3:1789756380000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1789756380000,
+    "end": 1789758420000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F551842731%2Cimi%3Af9c24b6943a85148db830085aa336342ff0730cc/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 551842731,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F551842731,imi:f9c24b6943a85148db830085aa336342ff0730cc",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1789758420000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789757040000,
-    "end": 1789762920000,
+    "start": 1789758420000,
+    "end": 1789764300000,
     "description": "Verslag van de wedstrijd PEC Zwolle - Feyenoord uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -328,11 +358,11 @@
     }
   },
   {
-    "id": "playsports3:1789762920000:1va4v2m",
+    "id": "playsports3:1789764300000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789762920000,
-    "end": 1789769400000,
+    "start": 1789764300000,
+    "end": 1789770840000,
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",

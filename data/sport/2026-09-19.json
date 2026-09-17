@@ -8,7 +8,7 @@
     "competition": null,
     "sport": null,
     "start": 1789772760000,
-    "end": 1789795200000,
+    "end": 1789795380000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -23,15 +23,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789808580000:fly4em",
+    "id": "sport:playsports1:1789808640000:fly4em",
     "externalId": null,
     "title": "Aflevering 3",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789808580000,
-    "end": 1789811700000,
+    "start": 1789808640000,
+    "end": 1789811760000,
     "status": "aankomend",
     "description": "Alle samenvattingen van de afgelopen speeldag uit de Duitse Bundesliga.",
     "source": "epg",
@@ -46,15 +46,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789811700000:amnfa6",
+    "id": "sport:playsports1:1789811760000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789811700000,
-    "end": 1789815000000,
+    "start": 1789811760000,
+    "end": 1789814880000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -69,14 +69,14 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789815000000:qjkkk5",
+    "id": "sport:playsports1:1789814880000:qjkkk5",
     "externalId": null,
     "title": "Petr Cech",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789815000000,
+    "start": 1789814880000,
     "end": 1789816500000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
@@ -161,15 +161,38 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789842300000:qjkkk5",
+    "id": "sport:playsports1:1789842300000:1dvjy1m",
+    "externalId": null,
+    "title": "Meester Tacticus",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1789842300000,
+    "end": 1789843200000,
+    "status": "aankomend",
+    "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1789843200000:qjkkk5",
     "externalId": null,
     "title": "Petr Cech",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789842300000,
-    "end": 1789843800000,
+    "start": 1789843200000,
+    "end": 1789844760000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -253,17 +276,17 @@
     ]
   },
   {
-    "id": "sport:playsports2:1789833300000:xykime",
+    "id": "sport:playsports2:1789833300000:yjyhy8",
     "externalId": null,
-    "title": "Play Sports",
+    "title": "Aflevering 1",
     "home": null,
     "away": null,
-    "competition": null,
-    "sport": null,
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
     "start": 1789833300000,
     "end": 1789835100000,
     "status": "aankomend",
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "description": null,
     "source": "epg",
     "platforms": [
       "Play Sports 2"
@@ -299,14 +322,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789775760000:xykime",
+    "id": "sport:playsports3:1789777200000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789775760000,
+    "start": 1789777200000,
     "end": 1789794000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -989,15 +1012,15 @@
     ]
   },
   {
-    "id": "sport:match:1789795200000:sv elversberg - bayern munchen",
+    "id": "sport:match:1789795380000:sv elversberg - bayern munchen",
     "externalId": null,
     "title": "SV Elversberg - Bayern München",
     "home": "SV Elversberg",
     "away": "Bayern München",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789795200000,
-    "end": 1789801560000,
+    "start": 1789795380000,
+    "end": 1789801800000,
     "status": "aankomend",
     "description": "Vanuit het Ursapharm-Arena an der Kaiserlinde in Spiesen-Elversberg, Duitsland.",
     "source": "epg",
@@ -1012,15 +1035,15 @@
     ]
   },
   {
-    "id": "sport:match:1789801560000:fc union berlin - fc schalke 04",
+    "id": "sport:match:1789801800000:fc union berlin - fc schalke 04",
     "externalId": null,
     "title": "FC Union Berlin - FC Schalke 04",
     "home": "FC Union Berlin",
     "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789801560000,
-    "end": 1789808580000,
+    "start": 1789801800000,
+    "end": 1789808640000,
     "status": "aankomend",
     "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
     "source": "epg",
@@ -1104,15 +1127,15 @@
     ]
   },
   {
-    "id": "sport:match:1789843800000:brentford - chelsea",
+    "id": "sport:match:1789844760000:brentford - chelsea",
     "externalId": null,
     "title": "Brentford - Chelsea",
     "home": "Brentford",
     "away": "Chelsea",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789843800000,
-    "end": 1789844700000,
+    "start": 1789844760000,
+    "end": 1789845420000,
     "status": "aankomend",
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "source": "epg",
@@ -1127,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1789844700000:sv elversberg - bayern munchen",
+    "id": "sport:match:1789845420000:sv elversberg - bayern munchen",
     "externalId": null,
     "title": "SV Elversberg - Bayern München",
     "home": "SV Elversberg",
     "away": "Bayern München",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789844700000,
-    "end": 1789851000000,
+    "start": 1789845420000,
+    "end": 1789851840000,
     "status": "aankomend",
     "description": "Vanuit het Ursapharm-Arena an der Kaiserlinde in Spiesen-Elversberg, Duitsland.",
     "source": "epg",
@@ -1150,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1789851000000:rb leipzig - hsv",
+    "id": "sport:match:1789851840000:rb leipzig - hsv",
     "externalId": null,
     "title": "RB Leipzig - HSV",
     "home": "RB Leipzig",
     "away": "HSV",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789851000000,
-    "end": 1789857240000,
+    "start": 1789851840000,
+    "end": 1789858140000,
     "status": "aankomend",
     "description": "Vanuit het Leipzig Stadion in Leipzig, Duitsland.",
     "source": "epg",
@@ -1216,6 +1239,29 @@
     ],
     "channelIds": [
       "playsports2"
+    ]
+  },
+  {
+    "id": "sport:match:1789770840000:club brugge o19 - aston villa u19",
+    "externalId": null,
+    "title": "Club Brugge O19 - Aston Villa U19",
+    "home": "Club Brugge O19",
+    "away": "Aston Villa U19",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1789770840000,
+    "end": 1789777200000,
+    "status": "aankomend",
+    "description": "Vanuit The Nest in Roeselare, België.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
     ]
   },
   {
@@ -1411,7 +1457,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1789849800000,
-    "end": 1789856100000,
+    "end": 1789856220000,
     "status": "aankomend",
     "description": "Vanuit The Nest in Roeselare, België.",
     "source": "epg",

@@ -1,14 +1,14 @@
 [
   {
-    "id": "sport:playsports1:1789858800000:xykime",
+    "id": "sport:playsports1:1789864560000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789858800000,
-    "end": 1789880400000,
+    "start": 1789864560000,
+    "end": 1789881000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -23,17 +23,40 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789907400000:qjkkk5",
+    "id": "sport:playsports1:1789906500000:qjkkk5",
     "externalId": null,
     "title": "Petr Cech",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789907400000,
-    "end": 1789908900000,
+    "start": 1789906500000,
+    "end": 1789908000000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1789908000000:1dvjy1m",
+    "externalId": null,
+    "title": "Meester Tacticus",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1789908000000,
+    "end": 1789908900000,
+    "status": "aankomend",
+    "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -100,7 +123,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1789926300000,
-    "end": 1789927800000,
+    "end": 1789927860000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -184,17 +207,17 @@
     ]
   },
   {
-    "id": "sport:playsports2:1789916100000:xykime",
+    "id": "sport:playsports2:1789916100000:yjyhy8",
     "externalId": null,
-    "title": "Play Sports",
+    "title": "Aflevering 1",
     "home": null,
     "away": null,
-    "competition": null,
-    "sport": null,
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
     "start": 1789916100000,
     "end": 1789917900000,
     "status": "aankomend",
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "description": null,
     "source": "epg",
     "platforms": [
       "Play Sports 2"
@@ -230,15 +253,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789862700000:xykime",
+    "id": "sport:playsports3:1789862760000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789862700000,
-    "end": 1789867500000,
+    "start": 1789862760000,
+    "end": 1789866780000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -253,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789867500000:1p2p7re",
+    "id": "sport:playsports3:1789866780000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 16",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1789867500000,
-    "end": 1789871400000,
+    "start": 1789866780000,
+    "end": 1789870560000,
     "status": "aankomend",
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "source": "epg",
@@ -276,17 +299,63 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789878300000:1p2p7re",
+    "id": "sport:playsports3:1789870560000:arbc9d",
     "externalId": null,
-    "title": "Aflevering 16",
+    "title": "GP van Spanje: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1789878300000,
+    "start": 1789870560000,
+    "end": 1789871400000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1789878600000:9elx6q",
+    "externalId": null,
+    "title": "Hoogtepunten",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Europa League",
+    "sport": "Voetbal",
+    "start": 1789878600000,
+    "end": 1789879800000,
+    "status": "aankomend",
+    "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1789879800000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1789879800000,
     "end": 1789882200000,
     "status": "aankomend",
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -422,7 +491,7 @@
     "competition": null,
     "sport": null,
     "start": 1789861620000,
-    "end": 1789881900000,
+    "end": 1789882020000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -437,15 +506,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789881900000:arbc9f",
+    "id": "sport:playsports4:1789882020000:arbc9f",
     "externalId": null,
     "title": "Madrid: Puntenrace 1",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1789881900000,
-    "end": 1789887600000,
+    "start": 1789882020000,
+    "end": 1789887720000,
     "status": "aankomend",
     "description": "Verslag van races gereden in de Formule 3.",
     "source": "epg",
@@ -460,15 +529,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789887600000:1owb2q5",
+    "id": "sport:playsports4:1789887720000:1owb2q5",
     "externalId": null,
     "title": "Mertens vs. Parry",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1789887600000,
-    "end": 1789898880000,
+    "start": 1789887720000,
+    "end": 1789898940000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -483,14 +552,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1789898880000:arbc9d",
+    "id": "sport:playsports4:1789898940000:arbc9d",
     "externalId": null,
     "title": "GP van Spanje: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1789898880000,
+    "start": 1789898940000,
     "end": 1789905300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
@@ -606,7 +675,7 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1789930500000,
-    "end": 1789941600000,
+    "end": 1789941660000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -1035,15 +1104,38 @@
     ]
   },
   {
-    "id": "sport:match:1789881900000:hull city - aston villa",
+    "id": "sport:match:1789858140000:sunderland - arsenal",
+    "externalId": null,
+    "title": "Sunderland - Arsenal",
+    "home": "Sunderland",
+    "away": "Arsenal",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1789858140000,
+    "end": 1789864560000,
+    "status": "aankomend",
+    "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1789881000000:hull city - aston villa",
     "externalId": null,
     "title": "Hull City - Aston Villa",
     "home": "Hull City",
     "away": "Aston Villa",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789881900000,
-    "end": 1789888140000,
+    "start": 1789881000000,
+    "end": 1789887180000,
     "status": "aankomend",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
@@ -1058,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1789888140000:liverpool - fulham",
+    "id": "sport:match:1789887180000:liverpool - fulham",
     "externalId": null,
     "title": "Liverpool - Fulham",
     "home": "Liverpool",
     "away": "Fulham",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789888140000,
-    "end": 1789894500000,
+    "start": 1789887180000,
+    "end": 1789893360000,
     "status": "aankomend",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
@@ -1081,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1789894500000:tottenham hotspur - everton",
+    "id": "sport:match:1789893360000:tottenham hotspur - everton",
     "externalId": null,
     "title": "Tottenham Hotspur - Everton",
     "home": "Tottenham Hotspur",
     "away": "Everton",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789894500000,
-    "end": 1789900500000,
+    "start": 1789893360000,
+    "end": 1789899540000,
     "status": "aankomend",
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "source": "epg",
@@ -1104,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1789900500000:fc union berlin - fc schalke 04",
+    "id": "sport:match:1789899540000:fc union berlin - fc schalke 04",
     "externalId": null,
     "title": "FC Union Berlin - FC Schalke 04",
     "home": "FC Union Berlin",
     "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789900500000,
-    "end": 1789907400000,
+    "start": 1789899540000,
+    "end": 1789906500000,
     "status": "aankomend",
     "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
     "source": "epg",
@@ -1173,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1789927800000:tottenham hotspur - aston villa",
+    "id": "sport:match:1789927860000:tottenham hotspur - aston villa",
     "externalId": null,
     "title": "Tottenham Hotspur - Aston Villa",
     "home": "Tottenham Hotspur",
     "away": "Aston Villa",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789927800000,
-    "end": 1789928700000,
+    "start": 1789927860000,
+    "end": 1789928520000,
     "status": "aankomend",
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "source": "epg",
@@ -1196,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1789928700000:hsv - 1. fsv mainz 05",
+    "id": "sport:match:1789928520000:hsv - 1. fsv mainz 05",
     "externalId": null,
     "title": "HSV - 1. FSV Mainz 05",
     "home": "HSV",
     "away": "1. FSV Mainz 05",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789928700000,
-    "end": 1789935000000,
+    "start": 1789928520000,
+    "end": 1789934640000,
     "status": "aankomend",
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "source": "epg",
@@ -1219,15 +1311,15 @@
     ]
   },
   {
-    "id": "sport:match:1789935000000:tsg hoffenheim - borussia dortmund",
+    "id": "sport:match:1789934640000:tsg hoffenheim - borussia dortmund",
     "externalId": null,
     "title": "TSG Hoffenheim - Borussia Dortmund",
     "home": "TSG Hoffenheim",
     "away": "Borussia Dortmund",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789935000000,
-    "end": 1789941360000,
+    "start": 1789934640000,
+    "end": 1789941120000,
     "status": "aankomend",
     "description": "Vanuit de PreZero Arena in Sinsheim, Duitsland.",
     "source": "epg",
@@ -1242,15 +1334,15 @@
     ]
   },
   {
-    "id": "sport:match:1789941360000:sunderland - arsenal",
+    "id": "sport:match:1789941120000:sunderland - arsenal",
     "externalId": null,
     "title": "Sunderland - Arsenal",
     "home": "Sunderland",
     "away": "Arsenal",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789941360000,
-    "end": 1789947780000,
+    "start": 1789941120000,
+    "end": 1789947540000,
     "status": "aankomend",
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "source": "epg",
@@ -1311,15 +1403,15 @@
     ]
   },
   {
-    "id": "sport:match:1789856100000:fortuna sittard - ajax",
+    "id": "sport:match:1789856220000:fortuna sittard - ajax",
     "externalId": null,
     "title": "Fortuna Sittard - Ajax",
     "home": "Fortuna Sittard",
     "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789856100000,
-    "end": 1789862700000,
+    "start": 1789856220000,
+    "end": 1789862760000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1365,7 +1457,7 @@
     "competition": null,
     "sport": null,
     "start": 1789875000000,
-    "end": 1789878300000,
+    "end": 1789878600000,
     "status": "aankomend",
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "source": "epg",

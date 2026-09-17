@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1789856100000:1va4v2m",
+    "id": "playsports3:1789856220000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789856100000,
-    "end": 1789862700000,
+    "start": 1789856220000,
+    "end": 1789862760000,
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1789862700000:xykime",
+    "id": "playsports3:1789862760000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1789862700000,
-    "end": 1789867500000,
+    "start": 1789862760000,
+    "end": 1789866780000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1789867500000:1p2p7re",
+    "id": "playsports3:1789866780000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1789867500000,
-    "end": 1789871400000,
+    "start": 1789866780000,
+    "end": 1789870560000,
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -85,6 +85,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20976076~~2FSH063090210000"
+    }
+  },
+  {
+    "id": "playsports3:1789870560000:arbc9d",
+    "channel": "playsports3",
+    "title": "The Paddock Live: Formule 1",
+    "start": 1789870560000,
+    "end": 1789871400000,
+    "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388153~~2FEP063235100089%2Cimi%3Afb784da44befe5d72119fbe2ad9147919c4367e9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35100000,
+    "episode": 2026091389,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388153~~2FEP063235100089,imi:fb784da44befe5d72119fbe2ad9147919c4367e9",
+      "episodeName": "GP van Spanje: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
     }
   },
   {
@@ -122,7 +152,7 @@
     "channel": "playsports3",
     "title": "FIM Motocross World Championship",
     "start": 1789875000000,
-    "end": 1789878300000,
+    "end": 1789878600000,
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "category": [
       "Sport",
@@ -148,33 +178,63 @@
     }
   },
   {
-    "id": "playsports3:1789878300000:1p2p7re",
+    "id": "playsports3:1789878600000:9elx6q",
     "channel": "playsports3",
-    "title": "The Paddock Podcast",
-    "start": 1789878300000,
-    "end": 1789882200000,
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "title": "Europa & Conference League",
+    "start": 1789878600000,
+    "end": 1789879800000,
+    "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "category": [
       "Sport",
-      "Motorsport"
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33966335~~2FEP063090210018%2Cimi%3Aab71554636711b8917b69f7a6266ba471e6c188b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34065558~~2FEP040097570111%2Cimi%3A6baf85e0a090d9c7ec5903fccee9182f9521977c/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 6,
-    "episode": 16,
+    "season": 102026,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33966335~~2FEP063090210018,imi:ab71554636711b8917b69f7a6266ba471e6c188b",
-      "episodeName": "Aflevering 16",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34065558~~2FEP040097570111,imi:6baf85e0a090d9c7ec5903fccee9182f9521977c",
+      "episodeName": "Hoogtepunten",
       "genres": [
         "Sport",
-        "Motorsport"
+        "Voetbal"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20976076~~2FSH063090210000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb2a79889-7a59-40a2-a7cf-278ffca2d725"
+    }
+  },
+  {
+    "id": "playsports3:1789879800000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1789879800000,
+    "end": 1789882200000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F551842730%2Cimi%3A781cb98b5794652ea41e4e207833f6ff8da4feac/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 551842730,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F551842730,imi:781cb98b5794652ea41e4e207833f6ff8da4feac",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
