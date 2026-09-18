@@ -34,7 +34,7 @@
     "channel": "play7",
     "title": "Geen uitzending",
     "start": 1789692000000,
-    "end": 1789700100000,
+    "end": 1789699800000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9ac005b90318d14630bb43a47d736950e96f56a0",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1789699800000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1789699800000,
+    "end": 1789700100000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c79d07aee4238b743f9acd3cf0edda26be69ed2c",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -106,7 +130,7 @@
     "channel": "play7",
     "title": "Love Island UK",
     "start": 1789706100000,
-    "end": 1789708800000,
+    "end": 1789709100000,
     "description": "Terwijl de tweede week in het paradijs voortduurt, hebben de Islanders van de zomer van 2024 al ontdekt dat de weg naar ware liefde lang kan zijn. De singles kwamen op zoek naar romantiek en misschien wel een kans op een prijs van 50.000 pond.",
     "category": [
       "Reality-competitie",
@@ -132,10 +156,10 @@
     }
   },
   {
-    "id": "play7:1789708800000:19z7fw3",
+    "id": "play7:1789709100000:19z7fw3",
     "channel": "play7",
     "title": "Property Brothers",
-    "start": 1789708800000,
+    "start": 1789709100000,
     "end": 1789711800000,
     "description": "Marc en Ashleigh willen een huis kopen en renoveren voordat hun kind wordt geboren. Na een stressvolle zoektocht om de zeldzame parel te vinden, pakken ze de renovaties aan die groter zijn dan verwacht.",
     "category": [

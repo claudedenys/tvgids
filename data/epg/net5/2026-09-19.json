@@ -4,7 +4,7 @@
     "channel": "net5",
     "title": "True crime today",
     "start": 1789768200000,
-    "end": 1789770000000,
+    "end": 1789770240000,
     "description": "Kirsten Westrik en Nochtli Peralta Alvarez bespreken misdaad die mensen direct raakt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/true-crime-today-762263232.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "net5:1789770000000:1o656hw",
+    "id": "net5:1789770240000:1o656hw",
     "channel": "net5",
     "title": "House rules Australië",
-    "start": 1789770000000,
-    "end": 1789773600000,
+    "start": 1789770240000,
+    "end": 1789773960000,
     "description": "De laatste onthulling van de tuin is de spectaculairste tot nu toe.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/h/carrousel/house-rules-australie-764012802.jpg",
@@ -44,11 +44,11 @@
     }
   },
   {
-    "id": "net5:1789773600000:ttd30a",
+    "id": "net5:1789773960000:ttd30a",
     "channel": "net5",
     "title": "Loop: Hart van Nederland",
-    "start": 1789773600000,
-    "end": 1789790400000,
+    "start": 1789773960000,
+    "end": 1789790460000,
     "description": "Toegankelijk nieuwsprogramma over het gesprek van de dag.",
     "category": [
       "Actueel"
@@ -69,14 +69,16 @@
     }
   },
   {
-    "id": "net5:1789795500000:1rpl96c",
+    "id": "net5:1789790460000:ttd30a",
     "channel": "net5",
-    "title": "Signed, Sealed, Delivered: To the Moon and Back",
-    "start": 1789795500000,
-    "end": 1789801800000,
-    "description": "Het team maakt een roadtrip om de ontvanger van een verloren brief te vinden en spoort een muzikant op die de sleutel...",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/signed-sealed-delivered-to-the-moon-and-back-772533232.jpg",
+    "title": "Loop: Hart van Nederland",
+    "start": 1789790460000,
+    "end": 1789795140000,
+    "description": "Toegankelijk nieuwsprogramma over het gesprek van de dag.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/loop-hart-van-nederland-764850762.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -84,15 +86,41 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "net5:1789801800000:37776u",
+    "id": "net5:1789795140000:o3kl7d",
+    "channel": "net5",
+    "title": "Signed, sealed, delivered",
+    "start": 1789795140000,
+    "end": 1789801380000,
+    "description": "Na orkaan Katrina raakt klusjesman en blueszanger Gabe Recolte dakloos, nog voordat hij zijn liefde voor clubeigenaar...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/signed-sealed-delivered-773870922.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "net5:1789801380000:37776u",
     "channel": "net5",
     "title": "Flo",
-    "start": 1789801800000,
-    "end": 1789803600000,
+    "start": 1789801380000,
+    "end": 1789803180000,
     "description": "Florentina checkt de kluis van Nadia en de beelden van de beveiligingscamera en doet een verrassende ontdekking.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/flo-762219262.jpg",
@@ -110,11 +138,11 @@
     }
   },
   {
-    "id": "net5:1789803600000:37776u",
+    "id": "net5:1789803180000:37776u",
     "channel": "net5",
     "title": "Flo",
-    "start": 1789803600000,
-    "end": 1789805400000,
+    "start": 1789803180000,
+    "end": 1789804920000,
     "description": "De foto van de kus met Lee Valentino blijft Florentina achtervolgen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/flo-762219262.jpg",
@@ -132,11 +160,11 @@
     }
   },
   {
-    "id": "net5:1789805400000:37776u",
+    "id": "net5:1789804920000:37776u",
     "channel": "net5",
     "title": "Flo",
-    "start": 1789805400000,
-    "end": 1789807200000,
+    "start": 1789804920000,
+    "end": 1789806720000,
     "description": "Fifi praat zijn mond voorbij en dat blijft niet zonder gevolgen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/flo-762219262.jpg",
@@ -154,11 +182,11 @@
     }
   },
   {
-    "id": "net5:1789807200000:37776u",
+    "id": "net5:1789806720000:37776u",
     "channel": "net5",
     "title": "Flo",
-    "start": 1789807200000,
-    "end": 1789809000000,
+    "start": 1789806720000,
+    "end": 1789808460000,
     "description": "Alsof het nog niet genoeg is, slaagt Nick erin het nog erger te maken voor Florentina.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/flo-762219262.jpg",
@@ -176,11 +204,11 @@
     }
   },
   {
-    "id": "net5:1789809000000:37776u",
+    "id": "net5:1789808460000:37776u",
     "channel": "net5",
     "title": "Flo",
-    "start": 1789809000000,
-    "end": 1789810800000,
+    "start": 1789808460000,
+    "end": 1789810320000,
     "description": "Nadia neemt de verdediging van Florentina op zich in een radio-interview, maar het pakt anders uit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/flo-762219262.jpg",
@@ -198,11 +226,11 @@
     }
   },
   {
-    "id": "net5:1789810800000:1fm0bd7",
+    "id": "net5:1789810320000:1fm0bd7",
     "channel": "net5",
     "title": "De toekomstbouwers",
-    "start": 1789810800000,
-    "end": 1789814400000,
+    "start": 1789810320000,
+    "end": 1789813920000,
     "description": "Homeshoppingprogramma...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-toekomstbouwers-766862692.jpg",
@@ -220,11 +248,11 @@
     }
   },
   {
-    "id": "net5:1789814400000:1fm0bd7",
+    "id": "net5:1789813920000:1fm0bd7",
     "channel": "net5",
     "title": "De toekomstbouwers",
-    "start": 1789814400000,
-    "end": 1789817700000,
+    "start": 1789813920000,
+    "end": 1789817520000,
     "description": "Homeshoppingprogramma...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-toekomstbouwers-766862692.jpg",
@@ -239,11 +267,11 @@
     }
   },
   {
-    "id": "net5:1789817700000:1mrnm0l",
+    "id": "net5:1789817520000:1mrnm0l",
     "channel": "net5",
     "title": "Gilmore girls",
-    "start": 1789817700000,
-    "end": 1789821000000,
+    "start": 1789817520000,
+    "end": 1789820940000,
     "description": "Rory ontdekt dat Paris een affaire heeft met de veel oudere professor Fleming.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/gilmore-girls-766058322.jpg",
@@ -261,11 +289,11 @@
     }
   },
   {
-    "id": "net5:1789821000000:1mrnm0l",
+    "id": "net5:1789820940000:1mrnm0l",
     "channel": "net5",
     "title": "Gilmore girls",
-    "start": 1789821000000,
-    "end": 1789824600000,
+    "start": 1789820940000,
+    "end": 1789824420000,
     "description": "Lorelai is overstuur als ze erachter komt dat Luke een appartement heeft met Nicole in een andere stad in Connecticut.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/g/carrousel/gilmore-girls-766058322.jpg",
@@ -283,11 +311,11 @@
     }
   },
   {
-    "id": "net5:1789824600000:ccqpvr",
+    "id": "net5:1789824420000:ccqpvr",
     "channel": "net5",
     "title": "Een dag in de dierenkliniek",
-    "start": 1789824600000,
-    "end": 1789828200000,
+    "start": 1789824420000,
+    "end": 1789828020000,
     "description": "Teckel Gary wordt met spoed naar de kliniek gebracht.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-dag-in-de-dierenkliniek-763393012.jpg",
@@ -305,11 +333,11 @@
     }
   },
   {
-    "id": "net5:1789828200000:ccqpvr",
+    "id": "net5:1789828020000:ccqpvr",
     "channel": "net5",
     "title": "Een dag in de dierenkliniek",
-    "start": 1789828200000,
-    "end": 1789831800000,
+    "start": 1789828020000,
+    "end": 1789831740000,
     "description": "Een vishaak is blijven steken in de tong van Duitse herder Ralph.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-dag-in-de-dierenkliniek-763393012.jpg",
@@ -327,11 +355,11 @@
     }
   },
   {
-    "id": "net5:1789831800000:lfkw5d",
+    "id": "net5:1789831740000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789831800000,
-    "end": 1789833600000,
+    "start": 1789831740000,
+    "end": 1789833540000,
     "description": "Zet het cadeau van Else-Marie iets in beweging bij Jeffrey?",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -349,11 +377,11 @@
     }
   },
   {
-    "id": "net5:1789833600000:lfkw5d",
+    "id": "net5:1789833540000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789833600000,
-    "end": 1789835400000,
+    "start": 1789833540000,
+    "end": 1789835280000,
     "description": "Else-Marie wil best wel iets meer van Jeffrey.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -371,11 +399,11 @@
     }
   },
   {
-    "id": "net5:1789835400000:lfkw5d",
+    "id": "net5:1789835280000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789835400000,
-    "end": 1789837200000,
+    "start": 1789835280000,
+    "end": 1789837080000,
     "description": "Cees laat Suzanna meteen kennis maken met zijn passie.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -393,11 +421,11 @@
     }
   },
   {
-    "id": "net5:1789837200000:lfkw5d",
+    "id": "net5:1789837080000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789837200000,
-    "end": 1789839000000,
+    "start": 1789837080000,
+    "end": 1789838880000,
     "description": "Suzanna hoopt dat Cees een beetje goed kan freubelen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -415,10 +443,10 @@
     }
   },
   {
-    "id": "net5:1789839000000:lfkw5d",
+    "id": "net5:1789838880000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789839000000,
+    "start": 1789838880000,
     "end": 1789840800000,
     "description": "Melanie is toch iets nerveuzer dan ze dacht voor haar date met Jarno.",
     "category": [],
@@ -441,7 +469,7 @@
     "channel": "net5",
     "title": "NCIS: Sydney",
     "start": 1789840800000,
-    "end": 1789844100000,
+    "end": 1789844220000,
     "description": "Een Amerikaanse marinepiloot verdwijnt bij een bekende UFO-locatie in de Australische outback, nadat hij door felle...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/ncis-sydney-767116712.jpg",
@@ -456,11 +484,11 @@
     }
   },
   {
-    "id": "net5:1789844100000:yknhhu",
+    "id": "net5:1789844220000:yknhhu",
     "channel": "net5",
     "title": "NCIS",
-    "start": 1789844100000,
-    "end": 1789847400000,
+    "start": 1789844220000,
+    "end": 1789847580000,
     "description": "NCIS wordt aangevallen door een mysterieuze vijand uit het verleden.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/n/carrousel/ncis-767116272.jpg",
@@ -478,11 +506,11 @@
     }
   },
   {
-    "id": "net5:1789847400000:1sj6e1o",
+    "id": "net5:1789847580000:1sj6e1o",
     "channel": "net5",
     "title": "Soko Köln",
-    "start": 1789847400000,
-    "end": 1789851000000,
+    "start": 1789847580000,
+    "end": 1789851180000,
     "description": "Tweedehandsautodealer Gustav Lohmer wordt na een barbecue dood aangetroffen in zijn kantoor.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/soko-koln-766819742.jpg",
@@ -497,11 +525,11 @@
     }
   },
   {
-    "id": "net5:1789851000000:1sj6e1o",
+    "id": "net5:1789851180000:1sj6e1o",
     "channel": "net5",
     "title": "Soko Köln",
-    "start": 1789851000000,
-    "end": 1789854600000,
+    "start": 1789851180000,
+    "end": 1789854720000,
     "description": "De 18-jarige milieuactiviste Johanna Abel wordt dood aangetroffen in het bos bij Keulen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/soko-koln-766819742.jpg",
@@ -516,11 +544,11 @@
     }
   },
   {
-    "id": "net5:1789854600000:10ovpvo",
+    "id": "net5:1789854720000:10ovpvo",
     "channel": "net5",
     "title": "The resident",
-    "start": 1789854600000,
-    "end": 1789857900000,
+    "start": 1789854720000,
+    "end": 1789858200000,
     "description": "Conrad probeert een manier te vinden om zijn emoties onder controle te houden en doet er alles aan om naar antwoorden...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/the-resident-764017992.jpg",

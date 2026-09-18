@@ -34,7 +34,7 @@
     "channel": "vtm2",
     "title": "Geen uitzending",
     "start": 1789776900000,
-    "end": 1789806300000,
+    "end": 1789805700000,
     "description": null,
     "category": [],
     "image": null,
@@ -48,6 +48,34 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:07efa68efb0101b51a55c6cc22ede7cb590c532d",
       "episodeName": null,
       "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm2:1789805700000:1ltn7gx",
+    "channel": "vtm2",
+    "title": "Wordt aangekondigd",
+    "start": 1789805700000,
+    "end": 1789806300000,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A52eb4bee2b7aed91e40782cb660819c43dc3029d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:52eb4bee2b7aed91e40782cb660819c43dc3029d",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null

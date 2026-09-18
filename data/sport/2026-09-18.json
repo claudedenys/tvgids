@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1789686000000,
     "end": 1789708680000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -31,7 +31,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1789727100000,
-    "end": 1789730220000,
+    "end": 1789730280000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -54,7 +54,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1789749840000,
-    "end": 1789752960000,
+    "end": 1789753020000,
     "status": "aankomend",
     "description": "Alle samenvattingen van de afgelopen speeldag uit de Duitse Bundesliga.",
     "source": "epg",
@@ -69,14 +69,14 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789752960000:amnfa6",
+    "id": "sport:playsports1:1789753020000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789752960000,
+    "start": 1789753020000,
     "end": 1789756080000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
@@ -115,15 +115,38 @@
     ]
   },
   {
-    "id": "sport:playsports1:1789764900000:qjkkk5",
+    "id": "sport:playsports1:1789764900000:1dvjy1m",
+    "externalId": null,
+    "title": "Youri Tielemans en Man. United",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1789764900000,
+    "end": 1789765440000,
+    "status": "aankomend",
+    "description": "Youri Tielemans maakte afgelopen zomer de overstap van Aston Villa naar Man. United. Een nieuwe omgeving voor de Rode Duivel, dus pluist Geert De Vlieger uit hoe Tielemans in het systeem-Carrick past.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1789765440000:qjkkk5",
     "externalId": null,
     "title": "Petr Cech",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789764900000,
-    "end": 1789766400000,
+    "start": 1789765440000,
+    "end": 1789766940000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -147,7 +170,7 @@
     "sport": null,
     "start": 1789682400000,
     "end": 1789704000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,7 +193,7 @@
     "sport": null,
     "start": 1789704000000,
     "end": 1789725600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -308,7 +331,7 @@
     "sport": null,
     "start": 1789690200000,
     "end": 1789707600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -330,7 +353,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1789750920000,
-    "end": 1789756380000,
+    "end": 1789756800000,
     "status": "aankomend",
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
     "source": "epg",
@@ -345,15 +368,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789756380000:i67pjl",
+    "id": "sport:playsports3:1789756800000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789756380000,
-    "end": 1789758420000,
+    "start": 1789756800000,
+    "end": 1789758900000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -377,7 +400,7 @@
     "sport": null,
     "start": 1789686000000,
     "end": 1789690140000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van San Marino, gereden in Misano Adriatico, Italië.",
     "source": "epg",
     "platforms": [
@@ -400,7 +423,7 @@
     "sport": null,
     "start": 1789693680000,
     "end": 1789697100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "De eerste keer is altijd spannend. Gelukkig hebben we ervaren mannen die de nieuwe poesjes rustig aaien en daarna lekker hard nemen in hun eerste seksfilm.",
     "source": "epg",
     "platforms": [
@@ -423,7 +446,7 @@
     "sport": null,
     "start": 1789697100000,
     "end": 1789707600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -446,7 +469,7 @@
     "sport": "Tennis",
     "start": 1789707600000,
     "end": 1789713960000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -469,7 +492,7 @@
     "sport": "Motorsport",
     "start": 1789713960000,
     "end": 1789719540000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Live verslagen van races gereden in de Formule 2.",
     "source": "epg",
     "platforms": [
@@ -492,7 +515,7 @@
     "sport": "Motorsport",
     "start": 1789719540000,
     "end": 1789725900000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
     "source": "epg",
     "platforms": [
@@ -630,7 +653,7 @@
     "sport": null,
     "start": 1789682400000,
     "end": 1789704000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -653,7 +676,7 @@
     "sport": null,
     "start": 1789704000000,
     "end": 1789725600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -722,7 +745,7 @@
     "sport": "Golf",
     "start": 1789689600000,
     "end": 1789700400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de BMW PGA Championship, gespeeld in Virginia Water, Engeland.",
     "source": "epg",
     "platforms": [
@@ -745,7 +768,7 @@
     "sport": "Golf",
     "start": 1789700400000,
     "end": 1789706100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de La Sella Open, gespeeld in Denia, Spanje.",
     "source": "epg",
     "platforms": [
@@ -768,7 +791,7 @@
     "sport": "Golf",
     "start": 1789706100000,
     "end": 1789718400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de BMW PGA Championship, gespeeld in Virginia Water, Engeland.",
     "source": "epg",
     "platforms": [
@@ -791,7 +814,7 @@
     "sport": "Golf",
     "start": 1789718400000,
     "end": 1789722000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -814,7 +837,7 @@
     "sport": "Golf",
     "start": 1789722000000,
     "end": 1789729200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de eerste dag van de La Sella Open, gespeeld in Denia, Spanje.",
     "source": "epg",
     "platforms": [
@@ -952,7 +975,7 @@
     "sport": "Voetbal",
     "start": 1789708680000,
     "end": 1789714860000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
     "platforms": [
@@ -975,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1789714860000,
     "end": 1789721040000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
     "platforms": [
@@ -998,7 +1021,7 @@
     "sport": "Voetbal",
     "start": 1789721040000,
     "end": 1789727100000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1012,15 +1035,15 @@
     ]
   },
   {
-    "id": "sport:match:1789730220000:manchester united - manchester city",
+    "id": "sport:match:1789730280000:manchester united - manchester city",
     "externalId": null,
     "title": "Manchester United - Manchester City",
     "home": "Manchester United",
     "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789730220000,
-    "end": 1789736520000,
+    "start": 1789730280000,
+    "end": 1789736580000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
@@ -1035,14 +1058,14 @@
     ]
   },
   {
-    "id": "sport:match:1789736520000:sunderland - arsenal",
+    "id": "sport:match:1789736580000:sunderland - arsenal",
     "externalId": null,
     "title": "Sunderland - Arsenal",
     "home": "Sunderland",
     "away": "Arsenal",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1789736520000,
+    "start": 1789736580000,
     "end": 1789743000000,
     "status": "aankomend",
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
@@ -1104,15 +1127,15 @@
     ]
   },
   {
-    "id": "sport:match:1789766400000:rb leipzig - hsv",
+    "id": "sport:match:1789766940000:rb leipzig - hsv",
     "externalId": null,
     "title": "RB Leipzig - HSV",
     "home": "RB Leipzig",
     "away": "HSV",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1789766400000,
-    "end": 1789772760000,
+    "start": 1789766940000,
+    "end": 1789773300000,
     "status": "aankomend",
     "description": "Vanuit het Leipzig Stadion in Leipzig, Duitsland.",
     "source": "epg",
@@ -1159,7 +1182,7 @@
     "sport": "Voetbal",
     "start": 1789684080000,
     "end": 1789690200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1182,7 +1205,7 @@
     "sport": "Voetbal",
     "start": 1789707600000,
     "end": 1789714080000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1228,7 @@
     "sport": "Voetbal",
     "start": 1789714080000,
     "end": 1789720200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1251,7 @@
     "sport": "Voetbal",
     "start": 1789720200000,
     "end": 1789726080000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd PEC Zwolle - Feyenoord uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1334,15 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1789758420000:pec zwolle - feyenoord",
+    "id": "sport:match:1789758900000:pec zwolle - feyenoord",
     "externalId": null,
     "title": "PEC Zwolle - Feyenoord",
     "home": "PEC Zwolle",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789758420000,
-    "end": 1789764300000,
+    "start": 1789758900000,
+    "end": 1789764780000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Feyenoord uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1357,15 +1380,15 @@
     ]
   },
   {
-    "id": "sport:match:1789764300000:fortuna sittard - ajax",
+    "id": "sport:match:1789764780000:fortuna sittard - ajax",
     "externalId": null,
     "title": "Fortuna Sittard - Ajax",
     "home": "Fortuna Sittard",
     "away": "Ajax",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789764300000,
-    "end": 1789770840000,
+    "start": 1789764780000,
+    "end": 1789771320000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1389,7 +1412,7 @@
     "sport": null,
     "start": 1789690140000,
     "end": 1789693680000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de races gereden in de FIM Motocross World Championship.",
     "source": "epg",
     "platforms": [
