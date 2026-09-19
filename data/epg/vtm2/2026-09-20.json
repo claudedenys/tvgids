@@ -1,10 +1,38 @@
 [
   {
-    "id": "vtm2:1789862400000:48zb9",
+    "id": "vtm2:1789859100000:jxds40",
+    "channel": "vtm2",
+    "title": "Ozark Law",
+    "start": 1789859100000,
+    "end": 1789862700000,
+    "description": "Verloren puppy's, vermeende zakkenrollers en vrijgezellenfeestjes houden de agenten die Lake of the Ozarks patrouilleren alert. In het uitgaansgebied moet rechercheur-sergeant Mark Kordula een vrouw verwijderen die in een van de bars herrie schopt.",
+    "category": [
+      "Misdaad"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29224483~~2FEP058509500008%2Cimi%3A47631186c124fceb5988295d4aee608ac14395ab/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 8,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29224483~~2FEP058509500008,imi:47631186c124fceb5988295d4aee608ac14395ab",
+      "episodeName": "Crack the Case",
+      "genres": [
+        "Misdaad"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28998531~~2FSH058509500000"
+    }
+  },
+  {
+    "id": "vtm2:1789862700000:48zb9",
     "channel": "vtm2",
     "title": "Geen uitzending",
-    "start": 1789862400000,
-    "end": 1789891200000,
+    "start": 1789862700000,
+    "end": 1789893300000,
     "description": null,
     "category": [],
     "image": null,
@@ -18,34 +46,6 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4debaf623b2ce3be1e5307236ab5d12a09d1fff4",
       "episodeName": null,
       "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "vtm2:1789891200000:1ltn7gx",
-    "channel": "vtm2",
-    "title": "Wordt aangekondigd",
-    "start": 1789891200000,
-    "end": 1789893300000,
-    "description": "De programmering wordt nog aangekondigd.",
-    "category": [
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A52c8e2ad22d889f0c5f3bfa5dc4e424bce4c699e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:52c8e2ad22d889f0c5f3bfa5dc4e424bce4c699e",
-      "episodeName": null,
-      "genres": [
-        "Entertainment"
-      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null

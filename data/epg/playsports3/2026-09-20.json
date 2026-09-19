@@ -4,7 +4,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1789856400000,
-    "end": 1789862880000,
+    "end": 1789862940000,
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports3:1789862880000:xykime",
+    "id": "playsports3:1789862940000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1789862880000,
+    "start": 1789862940000,
     "end": 1789866780000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -212,7 +212,7 @@
     "channel": "playsports3",
     "title": "Play Sports Highlights",
     "start": 1789880100000,
-    "end": 1789882200000,
+    "end": 1789881480000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -235,6 +235,36 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1789881480000:1dvjy1m",
+    "channel": "playsports3",
+    "title": "Meester Tacticus",
+    "start": 1789881480000,
+    "end": 1789882200000,
+    "description": "Youri Tielemans maakte afgelopen zomer de overstap van Aston Villa naar Man. United. Een nieuwe omgeving voor de Rode Duivel, dus pluist Geert De Vlieger uit hoe Tielemans in het systeem-Carrick past.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34124432~~2FEP065986550002%2Cimi%3Ac4141f839dc62c05e8c908d9e6e349fdcb56ee55/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 86550000,
+    "episode": 2026091802,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34124432~~2FEP065986550002,imi:c4141f839dc62c05e8c908d9e6e349fdcb56ee55",
+      "episodeName": "Youri Tielemans en Man. United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34022384~~2FSH065986550000"
     }
   },
   {
@@ -332,7 +362,7 @@
     "channel": "playsports3",
     "title": "Play Sports Highlights",
     "start": 1789895280000,
-    "end": 1789897560000,
+    "end": 1789897320000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -358,10 +388,10 @@
     }
   },
   {
-    "id": "playsports3:1789897560000:9elx6q",
+    "id": "playsports3:1789897320000:9elx6q",
     "channel": "playsports3",
     "title": "Europa & Conference League",
-    "start": 1789897560000,
+    "start": 1789897320000,
     "end": 1789899000000,
     "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "category": [
@@ -572,7 +602,7 @@
     "channel": "playsports3",
     "title": "UEFA Europa League",
     "start": 1789927380000,
-    "end": 1789933680000,
+    "end": 1789933560000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -598,11 +628,11 @@
     }
   },
   {
-    "id": "playsports3:1789933680000:1va4v2m",
+    "id": "playsports3:1789933560000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789933680000,
-    "end": 1789939800000,
+    "start": 1789933560000,
+    "end": 1789939680000,
     "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -628,11 +658,11 @@
     }
   },
   {
-    "id": "playsports3:1789939800000:1va4v2m",
+    "id": "playsports3:1789939680000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1789939800000,
-    "end": 1789945680000,
+    "start": 1789939680000,
+    "end": 1789945560000,
     "description": "Verslag van de wedstrijd PEC Zwolle - Feyenoord uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",

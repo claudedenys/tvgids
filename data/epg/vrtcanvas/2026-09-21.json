@@ -1,24 +1,24 @@
 [
   {
-    "id": "vrtcanvas:1789943700000:1rw80yh",
+    "id": "vrtcanvas:1789944000000:1rw80yh",
     "channel": "vrtcanvas",
     "title": "Het weer",
-    "start": 1789943700000,
+    "start": 1789944000000,
     "end": 1789963200000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
       "Actua"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F543497357%2Cimi%3Af1f194b8c07f3294a2fa7e73839809a8dfa6e409/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F543497356%2Cimi%3A50d24e8bedd8b24f23fc7c3916ae9cc78e882ada/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 31670000,
-    "episode": 543497357,
+    "episode": 543497356,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F543497357,imi:f1f194b8c07f3294a2fa7e73839809a8dfa6e409",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F543497356,imi:50d24e8bedd8b24f23fc7c3916ae9cc78e882ada",
       "episodeName": null,
       "genres": [
         "Weer",
@@ -120,21 +120,21 @@
     "channel": "vrtcanvas",
     "title": "Herfstbeelden",
     "start": 1789988400000,
-    "end": 1789999200000,
+    "end": 1789998600000,
     "description": "Programma met beelden van de herfst.",
     "category": [
       "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28193207~~2FEP033154570022%2Cimi%3A8c8e257fd0651a67f65cb46ab8d9e1164e8ffcad/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28312999~~2FEP033154570025%2Cimi%3A6bf8dda0150ff0181ecdaa097aeb6a17e6011faa/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102014,
-    "episode": 36,
+    "episode": 34,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28193207~~2FEP033154570022,imi:8c8e257fd0651a67f65cb46ab8d9e1164e8ffcad",
-      "episodeName": "Aflevering 36",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28312999~~2FEP033154570025,imi:6bf8dda0150ff0181ecdaa097aeb6a17e6011faa",
+      "episodeName": "Aflevering 34",
       "genres": [
         "Entertainment"
       ],
@@ -144,61 +144,33 @@
     }
   },
   {
-    "id": "vrtcanvas:1789999200000:etk3q5",
+    "id": "vrtcanvas:1789998600000:1s9h6jj",
     "channel": "vrtcanvas",
-    "title": "Radio 1: De Wereld Vandaag",
-    "start": 1789999200000,
-    "end": 1790002800000,
-    "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
-    "category": [
-      "Actualiteitsmagazine"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33806374~~2FEP049391810615%2Cimi%3A729e5ff8a160a81545dc139f9d564aba883d749d/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 148,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33806374~~2FEP049391810615,imi:729e5ff8a160a81545dc139f9d564aba883d749d",
-      "episodeName": "Aflevering 148",
-      "genres": [
-        "Actualiteitsmagazine"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26149743~~2FSH049391810000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1790002800000:1xj7rtr",
-    "channel": "vrtcanvas",
-    "title": "VRT NWS De Zevende Dag",
-    "start": 1790002800000,
+    "title": "Sporza: EK Volleybal Mannen 2026",
+    "start": 1789998600000,
     "end": 1790006400000,
-    "description": "Live studioprogramma met veel aandacht voor het brede politiek debat. Daarnaast is er ook tijd voor sport, cultuur en muziek.",
+    "description": "Verslag van de wedstrijd België - Tsjechië, gespeeld in de achtste finale van het EK Volleybal Mannen 2026.",
     "category": [
-      "Interview",
-      "Actua"
+      "Sport",
+      "Volleybal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33997032~~2FEP025112290209%2Cimi%3A93e8bd3571c1a3cf66e5c046a148bb6d266f73b6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32627186~~2FEP065944320023%2Cimi%3A99c3d4ef394d37b0f9282cd2c67b12aa3bfad8f4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 2026,
-    "episode": 22,
+    "season": 44320000,
+    "episode": 2026092123,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33997032~~2FEP025112290209,imi:93e8bd3571c1a3cf66e5c046a148bb6d266f73b6",
-      "episodeName": "Aflevering 22",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32627186~~2FEP065944320023,imi:99c3d4ef394d37b0f9282cd2c67b12aa3bfad8f4",
+      "episodeName": "Achtste Finale: België - Tsjechië",
       "genres": [
-        "Interview",
-        "Actua"
+        "Sport",
+        "Volleybal"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fef08d6f6-22f6-4208-941c-5c32cf987c5c"
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32580351~~2FSH065944320000"
     }
   },
   {

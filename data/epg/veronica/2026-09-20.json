@@ -1,10 +1,10 @@
 [
   {
-    "id": "veronica:1789854240000:1heoas1",
+    "id": "veronica:1789854300000:1heoas1",
     "channel": "veronica",
     "title": "Frasier",
-    "start": 1789854240000,
-    "end": 1789856040000,
+    "start": 1789854300000,
+    "end": 1789856100000,
     "description": "Eve regelt blind dates voor zowel Frasier als Freddy.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/frasier-766056742.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "veronica:1789856040000:19ulaj5",
+    "id": "veronica:1789856100000:19ulaj5",
     "channel": "veronica",
     "title": "SEAL team",
-    "start": 1789856040000,
-    "end": 1789859100000,
+    "start": 1789856100000,
+    "end": 1789859160000,
     "description": "Bravo treft onwaarschijnlijke bondgenoten, wanneer het team in Noord-Syrië wordt gepositioneerd om de...",
     "category": [],
     "image": null,
@@ -44,11 +44,11 @@
     }
   },
   {
-    "id": "veronica:1789859100000:18lf6jy",
+    "id": "veronica:1789859160000:18lf6jy",
     "channel": "veronica",
     "title": "911 crisis center",
-    "start": 1789859100000,
-    "end": 1789860300000,
+    "start": 1789859160000,
+    "end": 1789860360000,
     "description": "Jessica Merkosky brengt energie op het callcenter, ook wanneer haar team een verwarrende melding krijgt over een...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/9/carrousel/911-crisis-center-766056842.jpg",
@@ -63,11 +63,11 @@
     }
   },
   {
-    "id": "veronica:1789860300000:1f3uqyc",
+    "id": "veronica:1789860360000:1f3uqyc",
     "channel": "veronica",
     "title": "A1: Highway patrol",
-    "start": 1789860300000,
-    "end": 1789862940000,
+    "start": 1789860360000,
+    "end": 1789863000000,
     "description": "Op een regenachtige dag zet de politie de achtervolging in op een vermoedelijk gestolen auto.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/a1-highway-patrol-766858882.jpg",
@@ -85,11 +85,11 @@
     }
   },
   {
-    "id": "veronica:1789862940000:1k6yy12",
+    "id": "veronica:1789863000000:1k6yy12",
     "channel": "veronica",
     "title": "Hart van Nederland",
-    "start": 1789862940000,
-    "end": 1789863960000,
+    "start": 1789863000000,
+    "end": 1789864020000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -109,10 +109,10 @@
     }
   },
   {
-    "id": "veronica:1789863240000:4h3qkj",
+    "id": "veronica:1789863000000:4h3qkj",
     "channel": "veronica",
     "title": "Pause",
-    "start": 1789863240000,
+    "start": 1789863000000,
     "end": 1789920000000,
     "description": "...",
     "category": [],
@@ -154,10 +154,10 @@
     "channel": "veronica",
     "title": "Border security: America's front line",
     "start": 1789920300000,
-    "end": 1789921800000,
-    "description": "Twee wereldreizigers worden ondervraagd over hun bagage en feestplannen.",
+    "end": 1789922040000,
+    "description": "Een crimineel verleden en een verborgen pistool veroorzaken problemen voor een reiziger.",
     "category": [],
-    "image": null,
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/border-security-america-s-front-line-774289242.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -165,18 +165,21 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "veronica:1789921800000:1l926eq",
+    "id": "veronica:1789922040000:1l926eq",
     "channel": "veronica",
     "title": "Border security: America's front line",
-    "start": 1789921800000,
-    "end": 1789923600000,
-    "description": "Broers die terugkeren uit Mexico, zijn onaangedaan als er illegale drugs in hun bagage wordt ontdekt.",
+    "start": 1789922040000,
+    "end": 1789923720000,
+    "description": "De douane heeft ruzie met een reiziger, wanneer ze vlees ontdekken in de bagage van zijn verloofde.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/border-security-america-s-front-line-763621092.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/border-security-america-s-front-line-774289242.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -184,14 +187,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "veronica:1789923600000:2k7wy",
+    "id": "veronica:1789923720000:2k7wy",
     "channel": "veronica",
     "title": "Airport security: Amerika",
-    "start": 1789923600000,
+    "start": 1789923720000,
     "end": 1789927200000,
     "description": "In Atlanta controleren douaniers een zending die mogelijk uit geroofd antiek bestaat.",
     "category": [],
@@ -211,7 +217,7 @@
     "channel": "veronica",
     "title": "Alert: Missing persons unit",
     "start": 1789927200000,
-    "end": 1789930500000,
+    "end": 1789930740000,
     "description": "Een voorman van een brouwerij wordt ontvoerd na een conflict met zijn directeur over veiligheidsovertredingen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/alert-missing-persons-unit-766320782.jpg",
@@ -226,11 +232,11 @@
     }
   },
   {
-    "id": "veronica:1789930500000:114pecb",
+    "id": "veronica:1789930740000:114pecb",
     "channel": "veronica",
     "title": "Alert: Missing persons unit",
-    "start": 1789930500000,
-    "end": 1789934100000,
+    "start": 1789930740000,
+    "end": 1789934220000,
     "description": "Een limousine vol tieners, onder wie de zoon van een senator, wordt op weg naar het schoolbal gekaapt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/a/carrousel/alert-missing-persons-unit-766320782.jpg",
@@ -245,11 +251,11 @@
     }
   },
   {
-    "id": "veronica:1789934100000:3776xi",
+    "id": "veronica:1789934220000:3776xi",
     "channel": "veronica",
     "title": "FBI",
-    "start": 1789934100000,
-    "end": 1789937400000,
+    "start": 1789934220000,
+    "end": 1789937580000,
     "description": "Het team wordt ingeschakeld als een chaotische demonstratie op de campus dodelijk afloopt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/fbi-767613632.jpg",
@@ -267,11 +273,11 @@
     }
   },
   {
-    "id": "veronica:1789937400000:br4tdi",
+    "id": "veronica:1789937580000:br4tdi",
     "channel": "veronica",
     "title": "FBI: Most wanted",
-    "start": 1789937400000,
-    "end": 1789940700000,
+    "start": 1789937580000,
+    "end": 1789940820000,
     "description": "De broers Nate en Mike beroven een bankfiliaal, en Mike schiet een bewaker neer.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/fbi-most-wanted-763853472.jpg",
@@ -289,11 +295,11 @@
     }
   },
   {
-    "id": "veronica:1789940700000:br4tdi",
+    "id": "veronica:1789940820000:br4tdi",
     "channel": "veronica",
     "title": "FBI: Most wanted",
-    "start": 1789940700000,
-    "end": 1789944300000,
+    "start": 1789940820000,
+    "end": 1789944060000,
     "description": "Wanneer twee agenten tijdens een overval in New York worden neergeschoten door een mysterieuze aanvaller, moet het...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/f/carrousel/fbi-most-wanted-763853472.jpg",

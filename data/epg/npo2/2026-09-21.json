@@ -256,7 +256,7 @@
     "channel": "npo2",
     "title": "Nieuwsuur",
     "start": 1789977000000,
-    "end": 1789979700000,
+    "end": 1789979400000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
       "Actueel"
@@ -277,10 +277,10 @@
     }
   },
   {
-    "id": "npo2:1789979700000:cbx4tl",
+    "id": "npo2:1789979400000:cbx4tl",
     "channel": "npo2",
     "title": "Buitenhof",
-    "start": 1789979700000,
+    "start": 1789979400000,
     "end": 1789983000000,
     "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
     "category": [],
@@ -477,7 +477,7 @@
     "channel": "npo2",
     "title": "2 meter sessies",
     "start": 1789995600000,
-    "end": 1789997100000,
+    "end": 1789997400000,
     "description": "De Ierse muzikant Mick Flannery scoorde met het in 2023 verschenen album 'Goodtime' Charlie zijn achtste top...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/2/carrousel/2-meter-sessies-767840182.jpg",
@@ -495,10 +495,10 @@
     }
   },
   {
-    "id": "npo2:1789997100000:4svl0k",
+    "id": "npo2:1789997400000:4svl0k",
     "channel": "npo2",
     "title": "Liedjes van vroeger",
-    "start": 1789997100000,
+    "start": 1789997400000,
     "end": 1789999200000,
     "description": "Jennifer Norden zingt samen met haar tante, verbonden door melodieën uit het verleden.",
     "category": [],
@@ -586,10 +586,10 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1790002500000,
-    "end": 1790002620000,
+    "end": 1790002560000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-768244132.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-774309832.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -597,18 +597,21 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "npo2:1790002620000:12b58co",
+    "id": "npo2:1790002560000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
-    "start": 1790002620000,
-    "end": 1790003100000,
+    "start": 1790002560000,
+    "end": 1790002800000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-768244132.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-774309832.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -616,14 +619,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "npo2:1790003100000:cfkl6y",
+    "id": "npo2:1790002800000:cfkl6y",
     "channel": "npo2",
     "title": "Natural born rebels",
-    "start": 1790003100000,
+    "start": 1790002800000,
     "end": 1790006400000,
     "description": "Sommige dieren gaan heel ver om zich staande te houden.",
     "category": [],
@@ -732,7 +738,7 @@
     "channel": "npo2",
     "title": "Per seconde wijzer",
     "start": 1790013000000,
-    "end": 1790015400000,
+    "end": 1790015100000,
     "description": "Twee kandidaten testen onder hoge druk hun kennis in verschillende categorieën.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/per-seconde-wijzer-767463612.jpg",
@@ -747,10 +753,10 @@
     }
   },
   {
-    "id": "npo2:1790015400000:4ii5yn",
+    "id": "npo2:1790015100000:4ii5yn",
     "channel": "npo2",
     "title": "Radar",
-    "start": 1790015400000,
+    "start": 1790015100000,
     "end": 1790018100000,
     "description": "Multimediaal consumentenplatform met Antoinette Hertsenberg en Fons Hendriks.",
     "category": [],

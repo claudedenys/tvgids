@@ -48,7 +48,7 @@
     "channel": "net5",
     "title": "Loop: Hart van Nederland",
     "start": 1789861680000,
-    "end": 1789876800000,
+    "end": 1789876320000,
     "description": "Toegankelijk nieuwsprogramma over het gesprek van de dag.",
     "category": [
       "Actueel"
@@ -69,11 +69,11 @@
     }
   },
   {
-    "id": "net5:1789883700000:tpgvmv",
+    "id": "net5:1789883100000:tpgvmv",
     "channel": "net5",
     "title": "Say yes to the dress: Atlanta",
-    "start": 1789883700000,
-    "end": 1789884900000,
+    "start": 1789883100000,
+    "end": 1789884360000,
     "description": "Een bruid droomt van een prinsessenjurk, maar haar tante geeft de voorkeur aan een volwassenere stijl.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/say-yes-to-the-dress-atlanta-767112132.jpg",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "net5:1789884900000:tpgvmv",
+    "id": "net5:1789884360000:tpgvmv",
     "channel": "net5",
     "title": "Say yes to the dress: Atlanta",
-    "start": 1789884900000,
-    "end": 1789886400000,
+    "start": 1789884360000,
+    "end": 1789886040000,
     "description": "Legerbruid Sarah gaat in tegen de mening van haar assertieve moeder en vrienden.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/say-yes-to-the-dress-atlanta-767112132.jpg",
@@ -107,11 +107,11 @@
     }
   },
   {
-    "id": "net5:1789886400000:lfkw5d",
+    "id": "net5:1789886040000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789886400000,
-    "end": 1789888200000,
+    "start": 1789886040000,
+    "end": 1789887780000,
     "description": "Zet het cadeau van Else-Marie iets in beweging bij Jeffrey?",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -129,11 +129,11 @@
     }
   },
   {
-    "id": "net5:1789888200000:lfkw5d",
+    "id": "net5:1789887780000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789888200000,
-    "end": 1789890000000,
+    "start": 1789887780000,
+    "end": 1789889520000,
     "description": "Else-Marie wil best wel iets meer van Jeffrey.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -151,11 +151,11 @@
     }
   },
   {
-    "id": "net5:1789890000000:lfkw5d",
+    "id": "net5:1789889520000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789890000000,
-    "end": 1789891800000,
+    "start": 1789889520000,
+    "end": 1789891260000,
     "description": "Cees laat Suzanna meteen kennis maken met zijn passie.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -173,11 +173,11 @@
     }
   },
   {
-    "id": "net5:1789891800000:lfkw5d",
+    "id": "net5:1789891260000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789891800000,
-    "end": 1789893600000,
+    "start": 1789891260000,
+    "end": 1789893000000,
     "description": "Suzanna hoopt dat Cees een beetje goed kan freubelen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -195,11 +195,11 @@
     }
   },
   {
-    "id": "net5:1789893600000:lfkw5d",
+    "id": "net5:1789893000000:lfkw5d",
     "channel": "net5",
     "title": "Lang leve de liefde XXL",
-    "start": 1789893600000,
-    "end": 1789895400000,
+    "start": 1789893000000,
+    "end": 1789894800000,
     "description": "Melanie is toch iets nerveuzer dan ze dacht voor haar date met Jarno.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/l/carrousel/lang-leve-de-liefde-xxl-764795702.jpg",
@@ -217,14 +217,14 @@
     }
   },
   {
-    "id": "net5:1789895400000:1fm0bd7",
+    "id": "net5:1789894800000:1fm0bd7",
     "channel": "net5",
     "title": "De toekomstbouwers",
-    "start": 1789895400000,
-    "end": 1789899000000,
+    "start": 1789894800000,
+    "end": 1789898400000,
     "description": "Homeshoppingprogramma...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-toekomstbouwers-766862692.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-toekomstbouwers-774309302.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -232,15 +232,18 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "net5:1789899000000:1fm0bd7",
+    "id": "net5:1789898400000:1fm0bd7",
     "channel": "net5",
     "title": "De toekomstbouwers",
-    "start": 1789899000000,
-    "end": 1789902600000,
+    "start": 1789898400000,
+    "end": 1789902000000,
     "description": "Homeshoppingprogramma...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-toekomstbouwers-766862692.jpg",
@@ -258,11 +261,11 @@
     }
   },
   {
-    "id": "net5:1789902600000:4al8ip",
+    "id": "net5:1789902000000:4al8ip",
     "channel": "net5",
     "title": "vtwonen weer verliefd op je huis",
-    "start": 1789902600000,
-    "end": 1789906200000,
+    "start": 1789902000000,
+    "end": 1789905540000,
     "description": "Carlo en Diaan ontmoetten elkaar 25 jaar geleden toen Carlo in Diaans sportschool kwam trainen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/v/carrousel/vtwonen-weer-verliefd-op-je-huis-767608682.jpg",
@@ -280,11 +283,11 @@
     }
   },
   {
-    "id": "net5:1789906200000:1a0myu8",
+    "id": "net5:1789905540000:1a0myu8",
     "channel": "net5",
     "title": "Een dag in de dierentuin",
-    "start": 1789906200000,
-    "end": 1789909500000,
+    "start": 1789905540000,
+    "end": 1789909080000,
     "description": "Een verweesd lamantijnkalf wordt uit het wild gered en de dierentuin verzamelt een belangrijk urinemonster van een...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-dag-in-de-dierentuin-766321502.jpg",
@@ -302,11 +305,11 @@
     }
   },
   {
-    "id": "net5:1789909500000:1a0myu8",
+    "id": "net5:1789909080000:1a0myu8",
     "channel": "net5",
     "title": "Een dag in de dierentuin",
-    "start": 1789909500000,
-    "end": 1789913100000,
+    "start": 1789909080000,
+    "end": 1789912680000,
     "description": "De dierenartsen van de dierentuin schieten in de heldenrol: ze proberen een ontbrekend bot in de schouder van een...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-dag-in-de-dierentuin-766321502.jpg",
@@ -324,11 +327,11 @@
     }
   },
   {
-    "id": "net5:1789913100000:1a2xxnb",
+    "id": "net5:1789912680000:1a2xxnb",
     "channel": "net5",
     "title": "One zoo three",
-    "start": 1789913100000,
-    "end": 1789914900000,
+    "start": 1789912680000,
+    "end": 1789914540000,
     "description": "In het kattenverblijf vieren Cam, Tyler en Aaron de komst van Chinees Nieuwjaar, een spannend nieuw begin voor veel...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/one-zoo-three-763621932.jpg",
@@ -346,11 +349,11 @@
     }
   },
   {
-    "id": "net5:1789914900000:1a2xxnb",
+    "id": "net5:1789914540000:1a2xxnb",
     "channel": "net5",
     "title": "One zoo three",
-    "start": 1789914900000,
-    "end": 1789916700000,
+    "start": 1789914540000,
+    "end": 1789916340000,
     "description": "Met Halloween krijgen de dieren griezelige traktaties.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/one-zoo-three-763621932.jpg",
@@ -368,11 +371,11 @@
     }
   },
   {
-    "id": "net5:1789916700000:1a2xxnb",
+    "id": "net5:1789916340000:1a2xxnb",
     "channel": "net5",
     "title": "One zoo three",
-    "start": 1789916700000,
-    "end": 1789918200000,
+    "start": 1789916340000,
+    "end": 1789918140000,
     "description": "Het is een winterwonderland in de dierentuin, waar de broers alles klaarmaken voor de grote dag.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/one-zoo-three-763621932.jpg",
@@ -390,11 +393,11 @@
     }
   },
   {
-    "id": "net5:1789918200000:1a2xxnb",
+    "id": "net5:1789918140000:1a2xxnb",
     "channel": "net5",
     "title": "One zoo three",
-    "start": 1789918200000,
-    "end": 1789920000000,
+    "start": 1789918140000,
+    "end": 1789919940000,
     "description": "Opa vindt dat de broers te veel tijd op hun telefoon doorbrengen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/one-zoo-three-763621932.jpg",
@@ -412,11 +415,11 @@
     }
   },
   {
-    "id": "net5:1789920000000:1a0myu8",
+    "id": "net5:1789919940000:1a0myu8",
     "channel": "net5",
     "title": "Een dag in de dierentuin",
-    "start": 1789920000000,
-    "end": 1789923600000,
+    "start": 1789919940000,
+    "end": 1789923540000,
     "description": "Zuri, een drachtig wrattenzwijn, zorgt voor een onverwachte wending.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/een-dag-in-de-dierentuin-766321502.jpg",
@@ -431,10 +434,10 @@
     }
   },
   {
-    "id": "net5:1789923600000:1a0myu8",
+    "id": "net5:1789923540000:1a0myu8",
     "channel": "net5",
     "title": "Een dag in de dierentuin",
-    "start": 1789923600000,
+    "start": 1789923540000,
     "end": 1789927200000,
     "description": "In de dierentuin levert een echo bij een witte neushoorn verrassende resultaten op en wordt een zieke parelhoen een...",
     "category": [],
@@ -454,7 +457,7 @@
     "channel": "net5",
     "title": "Bohemian Rhapsody",
     "start": 1789927200000,
-    "end": 1789936800000,
+    "end": 1789937160000,
     "description": "Queen is een van de grootste bands van de jaren 70 en 80.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/bohemian-rhapsody-766322382.jpg",
@@ -472,11 +475,11 @@
     }
   },
   {
-    "id": "net5:1789936800000:198krj1",
+    "id": "net5:1789937160000:198krj1",
     "channel": "net5",
     "title": "Walk the Line",
-    "start": 1789936800000,
-    "end": 1789946700000,
+    "start": 1789937160000,
+    "end": 1789947180000,
     "description": "Countryzangers vertellen verhalen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/w/carrousel/walk-the-line-767052612.jpg",

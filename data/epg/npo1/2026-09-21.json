@@ -562,7 +562,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789975800000,
-    "end": 1789976400000,
+    "end": 1789976700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -583,10 +583,10 @@
     }
   },
   {
-    "id": "npo1:1789976400000:1qmbii9",
+    "id": "npo1:1789976700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1789976400000,
+    "start": 1789976700000,
     "end": 1789977600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -745,7 +745,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789984800000,
-    "end": 1789985700000,
+    "end": 1789986000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -765,10 +765,10 @@
     }
   },
   {
-    "id": "npo1:1789985700000:1qmbii9",
+    "id": "npo1:1789986000000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1789985700000,
+    "start": 1789986000000,
     "end": 1789986600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -915,7 +915,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789992000000,
-    "end": 1789992900000,
+    "end": 1789993200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -935,10 +935,10 @@
     }
   },
   {
-    "id": "npo1:1789992900000:1qmbii9",
+    "id": "npo1:1789993200000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1789992900000,
+    "start": 1789993200000,
     "end": 1789993800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1038,7 +1038,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1789996800000,
-    "end": 1789998000000,
+    "end": 1789997700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1059,10 +1059,10 @@
     }
   },
   {
-    "id": "npo1:1789998000000:1qmbii9",
+    "id": "npo1:1789997700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1789998000000,
+    "start": 1789997700000,
     "end": 1789999500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1137,7 +1137,7 @@
     "end": 1790006160000,
     "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-767462572.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-774309572.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1153,10 +1153,10 @@
     "channel": "npo1",
     "title": "Politieke partijen",
     "start": 1790006160000,
-    "end": 1790006280000,
+    "end": 1790006220000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-768244132.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-774025022.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1164,18 +1164,21 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "npo1:1790006280000:12b58co",
+    "id": "npo1:1790006220000:12b58co",
     "channel": "npo1",
     "title": "Politieke partijen",
-    "start": 1790006280000,
+    "start": 1790006220000,
     "end": 1790006400000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-768244132.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-774025022.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1183,7 +1186,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

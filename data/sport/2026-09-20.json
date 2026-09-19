@@ -253,14 +253,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789862880000:xykime",
+    "id": "sport:playsports3:1789862940000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1789862880000,
+    "start": 1789862940000,
     "end": 1789866780000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -353,9 +353,32 @@
     "competition": null,
     "sport": null,
     "start": 1789880100000,
-    "end": 1789882200000,
+    "end": 1789881480000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1789881480000:1dvjy1m",
+    "externalId": null,
+    "title": "Youri Tielemans en Man. United",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1789881480000,
+    "end": 1789882200000,
+    "status": "aankomend",
+    "description": "Youri Tielemans maakte afgelopen zomer de overstap van Aston Villa naar Man. United. Een nieuwe omgeving voor de Rode Duivel, dus pluist Geert De Vlieger uit hoe Tielemans in het systeem-Carrick past.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -399,7 +422,7 @@
     "competition": null,
     "sport": null,
     "start": 1789895280000,
-    "end": 1789897560000,
+    "end": 1789897320000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -414,14 +437,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1789897560000:9elx6q",
+    "id": "sport:playsports3:1789897320000:9elx6q",
     "externalId": null,
     "title": "Hoogtepunten",
     "home": null,
     "away": null,
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1789897560000,
+    "start": 1789897320000,
     "end": 1789899000000,
     "status": "aankomend",
     "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
@@ -989,86 +1012,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1789923600000:36ys9t",
+    "id": "sport:playsports-golf:1789923600000:1ehmmzr",
     "externalId": null,
-    "title": "Aflevering 59",
+    "title": "Biltmore Championship Asheville: Dag 4",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
     "start": 1789923600000,
-    "end": 1789925400000,
-    "status": "aankomend",
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1789925400000:1oidiqx",
-    "externalId": null,
-    "title": "Sanford International",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1789925400000,
-    "end": 1789929000000,
-    "status": "aankomend",
-    "description": "Hoogtepunten van de Sanford International, gespeeld in de PGA Tour Champions.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1789929000000:4ee7s9",
-    "externalId": null,
-    "title": "Bommels en Birdies",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1789929000000,
-    "end": 1789932600000,
-    "status": "aankomend",
-    "description": "In Bommels en Birdies neemt de golfgekke Van Bommel-familie je mee de golfbaan op. Vader Mark van Bommel (ex-international, bondscoach België), zoon Ruben van Bommel (PSV) en dochter Renée van Bommel ontvangen Ronald de Boer (ex-international) en spelen een spannende wedstrijd op het iconische Bernardus. In september 2026 is dit ook het toneel voor de Solheim Cup, het grootste vrouwengolftoernooi ter wereld.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1789932600000:1dnz7kj",
-    "externalId": null,
-    "title": "Chase the ACE",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1789932600000,
     "end": 1789934400000,
     "status": "aankomend",
-    "description": "We dagen drievoudig Major-winnaar Pádraig Harrington uit voor een van de meest iconische en geliefde series van de DP World Tour: Chase the Ace. Met één dag, 500 golfballen en een kans van 1 op 2.500 op succes, gaat Pádraig de uitdaging aan om tegen de verwachtingen in een hole-in-one te slaan.",
+    "description": "Verslag van de vierde en laatste dag van de Biltmore Championship Asheville, gespeeld in Asheville, North Carolina.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1411,7 +1365,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1789856400000,
-    "end": 1789862880000,
+    "end": 1789862940000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Fortuna Sittard - Ajax uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1618,7 +1572,7 @@
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
     "start": 1789927380000,
-    "end": 1789933680000,
+    "end": 1789933560000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1633,15 +1587,15 @@
     ]
   },
   {
-    "id": "sport:match:1789933680000:psv - sparta rotterdam",
+    "id": "sport:match:1789933560000:psv - sparta rotterdam",
     "externalId": null,
     "title": "PSV - Sparta Rotterdam",
     "home": "PSV",
     "away": "Sparta Rotterdam",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789933680000,
-    "end": 1789939800000,
+    "start": 1789933560000,
+    "end": 1789939680000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Sparta Rotterdam uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1656,15 +1610,15 @@
     ]
   },
   {
-    "id": "sport:match:1789939800000:pec zwolle - feyenoord",
+    "id": "sport:match:1789939680000:pec zwolle - feyenoord",
     "externalId": null,
     "title": "PEC Zwolle - Feyenoord",
     "home": "PEC Zwolle",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1789939800000,
-    "end": 1789945680000,
+    "start": 1789939680000,
+    "end": 1789945560000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PEC Zwolle - Feyenoord uit de 6e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
