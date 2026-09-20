@@ -122,7 +122,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1790152200000,
-    "end": 1790159400000,
+    "end": 1790158440000,
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "category": [
       "Sport",
@@ -145,6 +145,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1790158440000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1790158440000,
+    "end": 1790159400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:14d1e8ded66bca071a91b6d8cbe14f4fa3616b6f",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
