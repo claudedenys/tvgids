@@ -326,7 +326,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1790272800000,
-    "end": 1790279940000,
+    "end": 1790278800000,
     "description": "Vanuit het Craven Cottage in Fulham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -349,6 +349,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1790278800000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1790278800000,
+    "end": 1790279940000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:da2fed231295fe420555c46e2ad62f1e03f11f3a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

@@ -92,7 +92,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1790145000000,
-    "end": 1790152200000,
+    "end": 1790151720000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -118,41 +118,11 @@
     }
   },
   {
-    "id": "playsports1:1790152200000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1790152200000,
-    "end": 1790158440000,
-    "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581510~~2FEP033946612471%2Cimi%3Ab31a683ce4ee6dd6ef8a73be0af5f3ba9855b850/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026091971,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581510~~2FEP033946612471,imi:b31a683ce4ee6dd6ef8a73be0af5f3ba9855b850",
-      "episodeName": "Brighton & Hove Albion - Arsenal",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1790158440000:48zb9",
+    "id": "playsports1:1790151720000:48zb9",
     "channel": "playsports1",
     "title": "Geen uitzending",
-    "start": 1790158440000,
-    "end": 1790159400000,
+    "start": 1790151720000,
+    "end": 1790153100000,
     "description": null,
     "category": [],
     "image": null,
@@ -169,6 +139,36 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1790153100000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1790153100000,
+    "end": 1790159400000,
+    "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581510~~2FEP033946612471%2Cimi%3A2c9dade56dc1e8d3ded4e2b9969cbe8ed6eca610/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026091971,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581510~~2FEP033946612471,imi:2c9dade56dc1e8d3ded4e2b9969cbe8ed6eca610",
+      "episodeName": "Brighton & Hove Albion - Arsenal",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
