@@ -5,7 +5,7 @@
     "title": "Eva",
     "start": 1790027400000,
     "end": 1790030700000,
-    "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
+    "description": "Met in deze uitzending: * In Rusland trok de bevolking afgelopen weekend naar de stembus voor de verkiezingen van...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/e/carrousel/eva-766937652.jpg",
     "icon": null,
@@ -52,7 +52,7 @@
     "title": "Pauw & De Wit",
     "start": 1790032200000,
     "end": 1790035200000,
-    "description": "Talkshow over de actualiteit.",
+    "description": "Met in deze uitzending: * Er is nog altijd niets verbeterd wat de veiligheid van vrouwen op straat betreft.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/pauw-de-wit-766937622.jpg",
     "icon": null,
@@ -74,7 +74,7 @@
     "title": "EenVandaag",
     "start": 1790035200000,
     "end": 1790036700000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Homo-acceptatie daalt hard onder jongeren: dit doet het met jonge lhbti+'ers *...",
     "category": [
       "Actueel"
     ],
@@ -149,7 +149,7 @@
     "title": "NOS Journaal",
     "start": 1790039700000,
     "end": 1790049300000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Homoacceptatie keldert bij jongeren * CDU van Merz haalt kiesdrempel...",
     "category": [
       "Actueel"
     ],
@@ -513,7 +513,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790060400000,
-    "end": 1790061300000,
+    "end": 1790061000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -533,10 +533,10 @@
     }
   },
   {
-    "id": "npo1:1790061300000:1umycym",
+    "id": "npo1:1790061000000:1umycym",
     "channel": "npo1",
     "title": "Goedemorgen Nederland",
-    "start": 1790061300000,
+    "start": 1790061000000,
     "end": 1790062200000,
     "description": "Ochtendshow. Actualiteit met een focus op politiek, economie, veiligheid en de Nederlandse identiteit.",
     "category": [
@@ -725,7 +725,7 @@
     "end": 1790071200000,
     "description": "Met in deze uitzending: * Hannah van Buchem startte een project waarin mensen met dementie samen met een naaste...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-774309572.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -793,7 +793,7 @@
     "title": "NOS Journaal",
     "start": 1790074800000,
     "end": 1790076000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Voetbal: voorbereiding Oranje.....",
     "category": [
       "Actueel"
     ],
@@ -807,7 +807,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -839,7 +840,7 @@
     "title": "NOS Journaal",
     "start": 1790076900000,
     "end": 1790078400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met sport: * Voetbal: voorbereiding Oranje...",
     "category": [
       "Actueel"
     ],
@@ -936,7 +937,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790084100000,
-    "end": 1790085900000,
+    "end": 1790085600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -957,12 +958,12 @@
     }
   },
   {
-    "id": "npo1:1790085900000:1f3cpph",
+    "id": "npo1:1790085600000:1f3cpph",
     "channel": "npo1",
     "title": "Pauw & De Wit",
-    "start": 1790085900000,
+    "start": 1790085600000,
     "end": 1790088960000,
-    "description": "Talkshow over de actualiteit.",
+    "description": "Met in deze uitzending: * Er is nog altijd niets verbeterd wat de veiligheid van vrouwen op straat betreft.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/pauw-de-wit-767463252.jpg",
     "icon": null,
@@ -1029,8 +1030,8 @@
     "channel": "npo1",
     "title": "Tijd voor MAX",
     "start": 1790089800000,
-    "end": 1790092680000,
-    "description": "Met in deze uitzending: * Renée van Wegberg speelt Céline Dion in de nieuwe musical 'Titanique'.",
+    "end": 1790092620000,
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Renée van Wegberg speelt Céline Dion in de nieuwe musical 'Titanique'...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/tijd-voor-max-774309572.jpg",
     "icon": null,
@@ -1040,14 +1041,16 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
-    "id": "npo1:1790092680000:12b58co",
+    "id": "npo1:1790092620000:12b58co",
     "channel": "npo1",
     "title": "Politieke partijen",
-    "start": 1790092680000,
+    "start": 1790092620000,
     "end": 1790092800000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
@@ -1095,7 +1098,7 @@
     "title": "Sportjournaal",
     "start": 1790093700000,
     "end": 1790094600000,
-    "description": "Aandacht voor het laatste sportnieuws.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Voetbal: - voorbereiding Oranje - voorbereiding Jong Oranje.....",
     "category": [
       "Sport"
     ],
@@ -1109,7 +1112,8 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "sport",
+        "updated"
       ]
     }
   },
@@ -1210,9 +1214,9 @@
     "title": "De slimste mens",
     "start": 1790105400000,
     "end": 1790108400000,
-    "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
+    "description": "Kiki Boreel is de nieuwe kandidaat in De Slimste Mens.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-slimste-mens-767270432.jpg",
+    "image": "https://tvgidsassets.nl/v387/upload/k/carrousel/kikiboreelindeslimstemensdeelnemertv.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1220,7 +1224,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {
@@ -1247,8 +1254,8 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790111700000,
-    "end": 1790113500000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "end": 1790113200000,
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Voetbal: voorbereiding Oranje.....",
     "category": [
       "Actueel"
     ],
@@ -1262,15 +1269,16 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
   {
-    "id": "npo1:1790113500000:3776ld",
+    "id": "npo1:1790113200000:3776ld",
     "channel": "npo1",
     "title": "Eva",
-    "start": 1790113500000,
+    "start": 1790113200000,
     "end": 1790116500000,
     "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
     "category": [],

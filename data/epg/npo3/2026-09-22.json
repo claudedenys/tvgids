@@ -88,7 +88,7 @@
     "channel": "npo3",
     "title": "Tekst-TV",
     "start": 1790041800000,
-    "end": 1790047800000,
+    "end": 1790047860000,
     "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
     "category": [
       "Actua"
@@ -112,10 +112,10 @@
     }
   },
   {
-    "id": "npo3:1790047800000:1szo1ev",
+    "id": "npo3:1790047860000:1szo1ev",
     "channel": "npo3",
     "title": "Tekst-TV",
-    "start": 1790047800000,
+    "start": 1790047860000,
     "end": 1790049660000,
     "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
     "category": [
@@ -594,7 +594,7 @@
     "channel": "npo3",
     "title": "Splat & Seymour",
     "start": 1790055300000,
-    "end": 1790056080000,
+    "end": 1790056140000,
     "description": "Splat is het lachertje van de klas omdat hij niet goed is in muizen vangen. Als hij een luchtballon vindt in het park, besluit hij die mee te nemen. Hij weet niet dat die van een zekere Seymour is, een muis die net in Katstad is neergestort.",
     "category": [
       "Kids",
@@ -620,10 +620,10 @@
     }
   },
   {
-    "id": "npo3:1790056080000:1gurqa8",
+    "id": "npo3:1790056140000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790056080000,
+    "start": 1790056140000,
     "end": 1790056260000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
@@ -2747,9 +2747,10 @@
     "title": "A Beautiful Mess",
     "start": 1790101500000,
     "end": 1790104800000,
-    "description": "Met zes items maken de kandidaten drie outfits voor Parijs, Londen of Milaan. In het atelier wacht een mystery event. Wie overtuigt Monique en DJ La Fuente met een sterke capsule wardrobe?",
+    "description": "De kandidaten pakken de koffer in van een goede bekende voor een weekendje weg met de trein naar Parijs, Londen of Milaan. Ze duiken in de kledingkast van diegene en met slechts zes kledingstukken moeten ze drie outfits stylen: voor een fietstocht, een romantisch diner én een mystery event. Pas in het atelier ontdekken ze wat het mystery event is, en dat zorgt voor de nodige uitdagingen. Wie weet juryvoorzitter Monique en DJ La Fuente te verrassen met een geweldige 'capsule wardrobe'?",
     "category": [
-      "Docu"
+      "Docu",
+      "Mode"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33847239~~2FEP065430550008%2Cimi%3A6bf0c6fa6b13dd60408ba5ebd293c1411aa37d74/posterTile",
     "icon": null,
@@ -2762,7 +2763,8 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33847239~~2FEP065430550008,imi:6bf0c6fa6b13dd60408ba5ebd293c1411aa37d74",
       "episodeName": "Weekendje weg",
       "genres": [
-        "Docu"
+        "Docu",
+        "Mode"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,

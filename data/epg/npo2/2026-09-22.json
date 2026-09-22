@@ -26,7 +26,7 @@
     "channel": "npo2",
     "title": "De nachtzoen",
     "start": 1790028600000,
-    "end": 1790029500000,
+    "end": 1790029800000,
     "description": "Hein kijkt terug op zijn leven na het ongeluk.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/d/carrousel/de-nachtzoen-768088132.jpg",
@@ -41,12 +41,12 @@
     }
   },
   {
-    "id": "npo2:1790029500000:qbw2jg",
+    "id": "npo2:1790029800000:qbw2jg",
     "channel": "npo2",
     "title": "Nieuwsuur",
-    "start": 1790029500000,
+    "start": 1790029800000,
     "end": 1790032200000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Minister Van den Brink van Asiel moet binnen een halfjaar de situatie van de kinderen in...",
     "category": [
       "Actueel"
     ],
@@ -71,7 +71,7 @@
     "title": "Nieuwsuur",
     "start": 1790032200000,
     "end": 1790053200000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Minister Van den Brink van Asiel moet binnen een halfjaar de situatie van de kinderen in...",
     "category": [
       "Actueel"
     ],
@@ -303,7 +303,7 @@
     "end": 1790071200000,
     "description": "Met in deze uitzending: * Madelon en Roeland verlieten Amsterdam voor een Friese boerderij in Grou.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/b/carrousel/binnenstebuiten-767462512.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -391,7 +391,7 @@
     "title": "NOS Journaal",
     "start": 1790074800000,
     "end": 1790076000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Voetbal: voorbereiding Oranje.....",
     "category": [
       "Actueel"
     ],
@@ -405,7 +405,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -437,7 +438,7 @@
     "title": "Opsporing verzocht",
     "start": 1790078400000,
     "end": 1790081100000,
-    "description": "Opsporingsprogramma in samenwerking met politie en justitie.",
+    "description": "Met in deze uitzending: * Dit jaar al 85 inbraken bij brandweerkazernes * Man zet...",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/opsporing-verzocht-764024152.jpg",
     "icon": null,
@@ -549,7 +550,7 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1790089020000,
-    "end": 1790089080000,
+    "end": 1790089140000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/p/carrousel/politieke-partijen-774309832.jpg",
@@ -567,10 +568,10 @@
     }
   },
   {
-    "id": "npo2:1790089080000:12b58co",
+    "id": "npo2:1790089140000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
-    "start": 1790089080000,
+    "start": 1790089140000,
     "end": 1790089800000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],

@@ -4,7 +4,7 @@
     "channel": "playsports1",
     "title": "Play Sports",
     "start": 1790292660000,
-    "end": 1790311500000,
+    "end": 1790312400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,11 +28,35 @@
     }
   },
   {
-    "id": "playsports1:1790311500000:1prlzbg",
+    "id": "playsports1:1790312400000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1790312400000,
+    "end": 1790313900000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:22a7e0adf9c21c78ad73bcb4eb0f831eb4bca96b",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1790313900000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1790311500000,
-    "end": 1790317800000,
+    "start": 1790313900000,
+    "end": 1790320200000,
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "category": [
       "Sport",
@@ -58,11 +82,11 @@
     }
   },
   {
-    "id": "playsports1:1790317800000:1prlzbg",
+    "id": "playsports1:1790320200000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1790317800000,
-    "end": 1790325000000,
+    "start": 1790320200000,
+    "end": 1790327100000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -88,11 +112,11 @@
     }
   },
   {
-    "id": "playsports1:1790325000000:1prlzbg",
+    "id": "playsports1:1790327100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1790325000000,
-    "end": 1790331240000,
+    "start": 1790327100000,
+    "end": 1790333400000,
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "category": [
       "Sport",
@@ -118,35 +142,11 @@
     }
   },
   {
-    "id": "playsports1:1790331240000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1790331240000,
-    "end": 1790332200000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:22a7e0adf9c21c78ad73bcb4eb0f831eb4bca96b",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1790332200000:1prlzbg",
+    "id": "playsports1:1790333400000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1790332200000,
-    "end": 1790338200000,
+    "start": 1790333400000,
+    "end": 1790339400000,
     "description": "Vanuit het Craven Cottage in Fulham, Londen, Engeland.",
     "category": [
       "Sport",
@@ -169,30 +169,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1790338200000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1790338200000,
-    "end": 1790339400000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:81a69e83624115cc9dc0bfb1c78c6b22d1f38574",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {

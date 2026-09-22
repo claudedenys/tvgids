@@ -144,7 +144,7 @@
     "channel": "npo3",
     "title": "Tekst-TV",
     "start": 1790134080000,
-    "end": 1790136060000,
+    "end": 1790136000000,
     "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
     "category": [
       "Actua"
@@ -168,10 +168,10 @@
     }
   },
   {
-    "id": "npo3:1790136060000:lbnla8",
+    "id": "npo3:1790136000000:lbnla8",
     "channel": "npo3",
     "title": "Timmy tijd",
-    "start": 1790136060000,
+    "start": 1790136000000,
     "end": 1790136300000,
     "description": "Timmy en zijn vrienden zijn ervan overtuigd dat er een monster vrij rondloopt nadat ze vreemde voetafdrukken in de sneeuw hebben ontdekt. Ze gaan op zoek naar het mysterieuze wezen.",
     "category": [
@@ -442,7 +442,7 @@
     "channel": "npo3",
     "title": "Zin in Zappelin",
     "start": 1790140020000,
-    "end": 1790140260000,
+    "end": 1790140200000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -468,11 +468,11 @@
     }
   },
   {
-    "id": "npo3:1790140260000:1gurqa8",
+    "id": "npo3:1790140200000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790140260000,
-    "end": 1790140500000,
+    "start": 1790140200000,
+    "end": 1790140260000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -498,10 +498,10 @@
     }
   },
   {
-    "id": "npo3:1790140500000:yz46wh",
+    "id": "npo3:1790140260000:yz46wh",
     "channel": "npo3",
     "title": "Billy de Cowboyhamster",
-    "start": 1790140500000,
+    "start": 1790140260000,
     "end": 1790141100000,
     "description": "Deedee Konijn en zijn broertjes sluiten vriendschap met Pancho, een cowboy met lassowerpkunsten die naar verluidt nog beter zijn dan die van Jessy Hond. Nieuwsgierig gaat Billy met de konijntjes mee om Pancho te ontmoeten.",
     "category": [
@@ -622,7 +622,7 @@
     "channel": "npo3",
     "title": "Splat & Seymour",
     "start": 1790142000000,
-    "end": 1790142720000,
+    "end": 1790142660000,
     "description": "De luchtballon van Seymour blijkt bij Roef te zijn en die weigert hem terug te geven. Hoe moet Seymour nu weer terug naar huis? Hij en Splat gaan naar de Kwaak-kwaak om een opwind-muis van de vader van Splat te halen.",
     "category": [
       "Kids",
@@ -648,10 +648,10 @@
     }
   },
   {
-    "id": "npo3:1790142720000:1gurqa8",
+    "id": "npo3:1790142660000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790142720000,
+    "start": 1790142660000,
     "end": 1790142900000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
@@ -828,41 +828,11 @@
     }
   },
   {
-    "id": "npo3:1790145900000:1ym9x49",
-    "channel": "npo3",
-    "title": "Masha's sprookjes",
-    "start": 1790145900000,
-    "end": 1790146200000,
-    "description": "Roodkapje brengt broodjes naar haar oma. Onderweg neemt ze een mannetje met enkel een hoofd mee.",
-    "category": [
-      "Kids",
-      "Animatie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F13224522~~2FEP027981930024%2Cimi%3Aa54115c43ccad7afda88e8f60f37b1c73a46a646/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 2012010124,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F13224522~~2FEP027981930024,imi:a54115c43ccad7afda88e8f60f37b1c73a46a646",
-      "episodeName": "Roodkapje",
-      "genres": [
-        "Kids",
-        "Animatie"
-      ],
-      "productionDate": "2011",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fce6e0a68-9f57-49ea-9c19-e134c9ef38f4"
-    }
-  },
-  {
-    "id": "npo3:1790146200000:1l28wi7",
+    "id": "npo3:1790145900000:1l28wi7",
     "channel": "npo3",
     "title": "Klumpies",
-    "start": 1790146200000,
-    "end": 1790146800000,
+    "start": 1790145900000,
+    "end": 1790146200000,
     "description": "Mulk en zijn twee Dumpie vriendjes, Dimbel en Dumbel, zijn van plan om Pippel te stelen.",
     "category": [
       "Kids",
@@ -888,11 +858,11 @@
     }
   },
   {
-    "id": "npo3:1790146800000:8yvzpp",
+    "id": "npo3:1790146200000:8yvzpp",
     "channel": "npo3",
     "title": "Sesamstraat",
-    "start": 1790146800000,
-    "end": 1790147700000,
+    "start": 1790146200000,
+    "end": 1790147100000,
     "description": "In de bekendste straat van Nederland wil niemand met Pino spelen. Dus speelt hij met de boerderijdieren op zijn kamer.",
     "category": [
       "Kids",
@@ -918,11 +888,11 @@
     }
   },
   {
-    "id": "npo3:1790147700000:rdk4z1",
+    "id": "npo3:1790147100000:rdk4z1",
     "channel": "npo3",
     "title": "Vos en Haas",
-    "start": 1790147700000,
-    "end": 1790148300000,
+    "start": 1790147100000,
+    "end": 1790148000000,
     "description": "De neef van de vos komt naar het dorp. De vos wil dat neef Karju laat zien dat ze in het bos hoort.",
     "category": [
       "Kids",
@@ -948,11 +918,11 @@
     }
   },
   {
-    "id": "npo3:1790148300000:1jijg1j",
+    "id": "npo3:1790148000000:1jijg1j",
     "channel": "npo3",
     "title": "Het Muizenhuis",
-    "start": 1790148300000,
-    "end": 1790148600000,
+    "start": 1790148000000,
+    "end": 1790148300000,
     "description": "Sam en Julia spelen doktertje en helpen de poppen en knuffels van hun vrienden genezen. Maar kan dokter Julia Sam van zijn hik afhelpen?",
     "category": [
       "Kids",
@@ -978,11 +948,11 @@
     }
   },
   {
-    "id": "npo3:1790148600000:ki2id3",
+    "id": "npo3:1790148300000:ki2id3",
     "channel": "npo3",
     "title": "Woezel en Pip",
-    "start": 1790148600000,
-    "end": 1790148900000,
+    "start": 1790148300000,
+    "end": 1790148600000,
     "description": "Tante vraagt Woezel en Pip om hun mooiste herinnering aan de Tovertuin te vertellen.",
     "category": [
       "Kids",
@@ -1008,11 +978,11 @@
     }
   },
   {
-    "id": "npo3:1790148900000:14rwus4",
+    "id": "npo3:1790148600000:14rwus4",
     "channel": "npo3",
     "title": "Nijntje en vriendjes",
-    "start": 1790148900000,
-    "end": 1790149500000,
+    "start": 1790148600000,
+    "end": 1790148900000,
     "description": "Animatieserie voor kinderen over Nijntje en haar vriendjes.",
     "category": [
       "Kids",
@@ -1038,11 +1008,11 @@
     }
   },
   {
-    "id": "npo3:1790149500000:a5krm7",
+    "id": "npo3:1790148900000:a5krm7",
     "channel": "npo3",
     "title": "Ta-daaa!",
-    "start": 1790149500000,
-    "end": 1790150100000,
+    "start": 1790148900000,
+    "end": 1790149800000,
     "description": "Programma voor peuters. In een poppenkast worden sketches uitgevoerd. Deze wordt bewoond door een vrolijk poppenvolkje dat dingen uitvoert die peuters ook doen: zingen, dansen, tekenen, schilderen, bouwen en verstoppertje spelen.",
     "category": [
       "Entertainment",
@@ -1068,11 +1038,11 @@
     }
   },
   {
-    "id": "npo3:1790150100000:znhvz0",
+    "id": "npo3:1790149800000:znhvz0",
     "channel": "npo3",
     "title": "Nelli en Nora",
-    "start": 1790150100000,
-    "end": 1790150400000,
+    "start": 1790149800000,
+    "end": 1790150100000,
     "description": "Het is lente en erg warm buiten. Moeder knipt het haar van vader en de meisjes gaan naar buiten zonder jasje aan. De schapen in de wei hebben het erg warm, maar ze kunnen hun jasje niet zelf uitdoen.",
     "category": [
       "Kids",
@@ -1098,11 +1068,11 @@
     }
   },
   {
-    "id": "npo3:1790150400000:gxad9w",
+    "id": "npo3:1790150100000:gxad9w",
     "channel": "npo3",
     "title": "Clangers",
-    "start": 1790150400000,
-    "end": 1790151300000,
+    "start": 1790150100000,
+    "end": 1790150700000,
     "description": "Majoor Clanger besluit een soepmachine te maken, zodat de Soepdraak dit niet hoeft te doen. Hij vermoedt dat de Soepdraak het hier wel mee gehad heeft.",
     "category": [
       "Kids",
@@ -1128,11 +1098,11 @@
     }
   },
   {
-    "id": "npo3:1790151300000:4pncsq",
+    "id": "npo3:1790150700000:4pncsq",
     "channel": "npo3",
     "title": "Nurdys",
-    "start": 1790151300000,
-    "end": 1790151600000,
+    "start": 1790150700000,
+    "end": 1790151300000,
     "description": "De poes, de eend en de ezel verkennen Italië. Ze ontdekken heerlijke plaatselijke gerechten zoals spaghetti en pizza. Maar ze spelen ook verstoppertje en maken een ritje in een gondel.",
     "category": [
       "Kids",
@@ -1158,11 +1128,11 @@
     }
   },
   {
-    "id": "npo3:1790151600000:zlbvcp",
+    "id": "npo3:1790151300000:zlbvcp",
     "channel": "npo3",
     "title": "Tip de Muis",
-    "start": 1790151600000,
-    "end": 1790151900000,
+    "start": 1790151300000,
+    "end": 1790151600000,
     "description": "Jody en Kiki hebben een schitterende taart gemaakt. Ze moeten wachten tot de taart is gebakken, want dan kunnen ze die pas opeten.",
     "category": [
       "Kids",
@@ -1188,11 +1158,11 @@
     }
   },
   {
-    "id": "npo3:1790151900000:1mtc5py",
+    "id": "npo3:1790151600000:1mtc5py",
     "channel": "npo3",
     "title": "Hoi Duggee",
-    "start": 1790151900000,
-    "end": 1790152500000,
+    "start": 1790151600000,
+    "end": 1790151900000,
     "description": "Duggee en de eekhoorns spelen verstoppertje. Duggee telt tot tien, terwijl de eekhoorns een verstopplaats zoeken. Ze hebben zich allemaal heel goed verstopt, maar Duggee kan ze allemaal vinden behalve Roly.",
     "category": [
       "Kids",
@@ -1218,11 +1188,11 @@
     }
   },
   {
-    "id": "npo3:1790152500000:ykedwl",
+    "id": "npo3:1790151900000:ykedwl",
     "channel": "npo3",
     "title": "Bing",
-    "start": 1790152500000,
-    "end": 1790152800000,
+    "start": 1790151900000,
+    "end": 1790152500000,
     "description": "Sula, Pando, Flop en Padget hebben allemaal een talent, iets speciaals dat alleen zij kunnen. Bing is gefrustreerd als alle talenten die hij verzint heel makkelijk zijn en de anderen dat vervolgens ook kunnen.",
     "category": [
       "Kids",
@@ -1248,11 +1218,11 @@
     }
   },
   {
-    "id": "npo3:1790152800000:p51t06",
+    "id": "npo3:1790152500000:p51t06",
     "channel": "npo3",
     "title": "George & Paul",
-    "start": 1790152800000,
-    "end": 1790153100000,
+    "start": 1790152500000,
+    "end": 1790152800000,
     "description": "George en Paul spelen samen een spel om te zien wie het hoogste kan springen. Ze maken steeds hoger wordende blokkentorens, waar ze vervolgens beiden overheen moeten springen.",
     "category": [
       "Kids",
@@ -1278,11 +1248,11 @@
     }
   },
   {
-    "id": "npo3:1790153100000:1sw9g2k",
+    "id": "npo3:1790152800000:1sw9g2k",
     "channel": "npo3",
     "title": "Bol & Smik",
-    "start": 1790153100000,
-    "end": 1790153820000,
+    "start": 1790152800000,
+    "end": 1790153460000,
     "description": "Er is een grote storm op komst. Wat zal Smik doen als er een onweersbui aankomt? En waarom is Bol kersentaart aan het eten in de kast?",
     "category": [
       "Kids",
@@ -1308,11 +1278,11 @@
     }
   },
   {
-    "id": "npo3:1790153820000:lbnla8",
+    "id": "npo3:1790153460000:lbnla8",
     "channel": "npo3",
     "title": "Timmy tijd",
-    "start": 1790153820000,
-    "end": 1790154000000,
+    "start": 1790153460000,
+    "end": 1790153700000,
     "description": "Op weg naar de crèche valt Timmy's zelfgemaakte sokpop uit zijn rugzak. De arme Timmy beseft het niet, totdat hij aankomt en iedereen met hun eigen poppen ziet spelen.",
     "category": [
       "Kids",
@@ -1338,11 +1308,11 @@
     }
   },
   {
-    "id": "npo3:1790154000000:18wwkls",
+    "id": "npo3:1790153700000:18wwkls",
     "channel": "npo3",
     "title": "Olly, het kleine witte busje",
-    "start": 1790154000000,
-    "end": 1790154300000,
+    "start": 1790153700000,
+    "end": 1790154000000,
     "description": "Olly en Jethro gaan vogeltjes kijken in het bos. Ronnie wil ook mee, maar hij jaagt alle vogels weg omdat hij te veel opvalt.",
     "category": [
       "Kids",
@@ -1368,11 +1338,11 @@
     }
   },
   {
-    "id": "npo3:1790154300000:5yw48o",
+    "id": "npo3:1790154000000:5yw48o",
     "channel": "npo3",
     "title": "Sesamstraat: 10 voor...",
-    "start": 1790154300000,
-    "end": 1790154900000,
+    "start": 1790154000000,
+    "end": 1790154600000,
     "description": "Een verzameling filmpjes van bepaalde Sesamstraatfiguren, met dit keer Bert en Ernie die centraal staan.",
     "category": [
       "Kids",
@@ -1398,11 +1368,11 @@
     }
   },
   {
-    "id": "npo3:1790154900000:3ty4ct",
+    "id": "npo3:1790154600000:3ty4ct",
     "channel": "npo3",
     "title": "Lief Monster",
-    "start": 1790154900000,
-    "end": 1790155500000,
+    "start": 1790154600000,
+    "end": 1790155200000,
     "description": "Lief Monster wil sneeuwstunten, maar hij moet ook zorgen voor zijn Monsterknuffel.",
     "category": [
       "Kids",
@@ -1428,11 +1398,11 @@
     }
   },
   {
-    "id": "npo3:1790155500000:iu3vup",
+    "id": "npo3:1790155200000:iu3vup",
     "channel": "npo3",
     "title": "Pop Papierstad",
-    "start": 1790155500000,
-    "end": 1790156100000,
+    "start": 1790155200000,
+    "end": 1790155800000,
     "description": "Hoop wil zo graag dat zijn vriendje Kwaakie bij hem blijft dat hij een vijver voor hem bouwt, maar luistert daarbij niet goed naar het advies van zijn vriendjes.",
     "category": [
       "Kids",
@@ -1458,11 +1428,11 @@
     }
   },
   {
-    "id": "npo3:1790156100000:1gurqa8",
+    "id": "npo3:1790155800000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790156100000,
-    "end": 1790157300000,
+    "start": 1790155800000,
+    "end": 1790157000000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -1488,11 +1458,11 @@
     }
   },
   {
-    "id": "npo3:1790157300000:fivjt0",
+    "id": "npo3:1790157000000:fivjt0",
     "channel": "npo3",
     "title": "Raad eens hoeveel ik van je hou",
-    "start": 1790157300000,
-    "end": 1790157900000,
+    "start": 1790157000000,
+    "end": 1790157600000,
     "description": "Hazeltje heeft heerlijke rode bessen voor het ontbijt klaargelegd, maar die zijn plotseling verdwenen. Samen met Kleine Veldmuis gaat hij op zoek. Ze ontdekken dat de bessen zijn meegenomen door mieren.",
     "category": [
       "Kids",
@@ -1518,11 +1488,11 @@
     }
   },
   {
-    "id": "npo3:1790157900000:111huqi",
+    "id": "npo3:1790157600000:111huqi",
     "channel": "npo3",
     "title": "Liselotte",
-    "start": 1790157900000,
-    "end": 1790158200000,
+    "start": 1790157600000,
+    "end": 1790157900000,
     "description": "De koe Lieselotte verliest een pakketje voor de boerin op de postronde met de postbode. En de vastberaden boerin heeft de inhoud van het pakket dringend nodig. Daarom gaan ze met zijn tweeën naar het dorp om het pakket te zoeken.",
     "category": [
       "Kids",
@@ -1548,11 +1518,11 @@
     }
   },
   {
-    "id": "npo3:1790158200000:jspvi2",
+    "id": "npo3:1790157900000:jspvi2",
     "channel": "npo3",
     "title": "Pipi, Pupu & Rosemarie",
-    "start": 1790158200000,
-    "end": 1790158800000,
+    "start": 1790157900000,
+    "end": 1790158500000,
     "description": "Een wasbeer, een vogel en een konijn zijn op zoek naar Mapa, een half-mama en half-papa, maar de drie vriendjes, Pipi, Pupu en Rosemarie, kunnen hem niet vinden.",
     "category": [
       "Kids",
@@ -1578,11 +1548,11 @@
     }
   },
   {
-    "id": "npo3:1790158800000:1ljq78s",
+    "id": "npo3:1790158500000:1ljq78s",
     "channel": "npo3",
     "title": "Babar en de belevenissen van Badou",
-    "start": 1790158800000,
-    "end": 1790159400000,
+    "start": 1790158500000,
+    "end": 1790159100000,
     "description": "Badou krijgt de test 'leven in het wild' en Chiku helpt hem erbij. Het lijkt eenvoudig, maar plotseling valt Andi, hun docent, in een grote kuil. Chiku en Badou redden hem met wat ze geleerd hebben.",
     "category": [
       "Kids",
@@ -1608,11 +1578,11 @@
     }
   },
   {
-    "id": "npo3:1790159400000:qh1ga3",
+    "id": "npo3:1790159100000:qh1ga3",
     "channel": "npo3",
     "title": "Maya de Bij",
-    "start": 1790159400000,
-    "end": 1790160120000,
+    "start": 1790159100000,
+    "end": 1790159760000,
     "description": "Flip breekt een snaar van zijn viool. Hij wil die laten repareren bij Stradivarius, een oude instrumentenmaker. Die maakt snaren van draden die Thekla voor hem spint. Dat doet ze in ruil voor een zalfje tegen haar reuma.",
     "category": [
       "Kids",
@@ -1638,11 +1608,11 @@
     }
   },
   {
-    "id": "npo3:1790160120000:1gurqa8",
+    "id": "npo3:1790159760000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790160120000,
-    "end": 1790160300000,
+    "start": 1790159760000,
+    "end": 1790159940000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -1668,11 +1638,11 @@
     }
   },
   {
-    "id": "npo3:1790160300000:1gurqa8",
+    "id": "npo3:1790159940000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790160300000,
-    "end": 1790160360000,
+    "start": 1790159940000,
+    "end": 1790160000000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -1698,11 +1668,11 @@
     }
   },
   {
-    "id": "npo3:1790160360000:12j8l7z",
+    "id": "npo3:1790160000000:12j8l7z",
     "channel": "npo3",
     "title": "Jojo & Ouma",
-    "start": 1790160360000,
-    "end": 1790160900000,
+    "start": 1790160000000,
+    "end": 1790160600000,
     "description": "Jojo bezoekt een boerderij en ontdekt hoe dieren zich in de winter beschermen tegen de kou.",
     "category": [
       "Kids",
@@ -1728,11 +1698,11 @@
     }
   },
   {
-    "id": "npo3:1790160900000:1gurqa8",
+    "id": "npo3:1790160600000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790160900000,
-    "end": 1790161500000,
+    "start": 1790160600000,
+    "end": 1790160900000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -1758,11 +1728,11 @@
     }
   },
   {
-    "id": "npo3:1790161500000:1ktr6j0",
+    "id": "npo3:1790160900000:1ktr6j0",
     "channel": "npo3",
     "title": "Pip en Posy",
-    "start": 1790161500000,
-    "end": 1790161740000,
+    "start": 1790160900000,
+    "end": 1790161440000,
     "description": "Jamila doet mee aan de schattenjacht van Posy en Pip, maar vergeet steeds haar schat te verstoppen.",
     "category": [
       "Kids",
@@ -1788,11 +1758,11 @@
     }
   },
   {
-    "id": "npo3:1790161740000:1gurqa8",
+    "id": "npo3:1790161440000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790161740000,
-    "end": 1790162100000,
+    "start": 1790161440000,
+    "end": 1790161500000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -1818,11 +1788,11 @@
     }
   },
   {
-    "id": "npo3:1790162100000:fa7rxp",
+    "id": "npo3:1790161500000:fa7rxp",
     "channel": "npo3",
     "title": "Kindertijd",
-    "start": 1790162100000,
-    "end": 1790162280000,
+    "start": 1790161500000,
+    "end": 1790161920000,
     "description": "In Circusles laten kinderen zien wat ze leren in hun circusles en waar ze blij van worden.",
     "category": [
       "Kids",
@@ -1848,11 +1818,11 @@
     }
   },
   {
-    "id": "npo3:1790162280000:1gurqa8",
+    "id": "npo3:1790161920000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790162280000,
-    "end": 1790162520000,
+    "start": 1790161920000,
+    "end": 1790162160000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -1878,11 +1848,11 @@
     }
   },
   {
-    "id": "npo3:1790162520000:1gurqa8",
+    "id": "npo3:1790162160000:1gurqa8",
     "channel": "npo3",
     "title": "Zin in Zappelin",
-    "start": 1790162520000,
-    "end": 1790162700000,
+    "start": 1790162160000,
+    "end": 1790162400000,
     "description": "Samen met de buurtbewoners maakt Joy van elke dag een feestje! Beleef mee wat er gebeurt op het Zappelinplein, in de B&B, de supermarkt en in de sportschool. Joy ontvangt in haar zeppelin leuke gasten en zingt dansbare liedjes.",
     "category": [
       "Kids",
@@ -1908,11 +1878,11 @@
     }
   },
   {
-    "id": "npo3:1790162700000:xbt2zb",
+    "id": "npo3:1790162400000:xbt2zb",
     "channel": "npo3",
     "title": "Pieter Konijn",
-    "start": 1790162700000,
-    "end": 1790163300000,
+    "start": 1790162400000,
+    "end": 1790163000000,
     "description": "Als Pieter aanbiedt om Vrouwtje Plooi naar huis te brengen voor haar winterslaap, komt hij erachter hoe moeilijk slaperige egels kunnen zijn.",
     "category": [
       "Kids",
@@ -1938,11 +1908,11 @@
     }
   },
   {
-    "id": "npo3:1790163300000:23jw9d",
+    "id": "npo3:1790163000000:23jw9d",
     "channel": "npo3",
     "title": "Calimero",
-    "start": 1790163300000,
-    "end": 1790164200000,
+    "start": 1790163000000,
+    "end": 1790163600000,
     "description": "Wie vraagt wie voor de dansavond? Calimero vergeet Priscilla te vragen omdat hij moet leren dansen. Pieter vraagt Priscilla wel, maar ze blijkt al een partner te hebben. De vraag is wie?",
     "category": [
       "Kids",
@@ -1968,11 +1938,11 @@
     }
   },
   {
-    "id": "npo3:1790164200000:hcjp5o",
+    "id": "npo3:1790163600000:hcjp5o",
     "channel": "npo3",
     "title": "Brandweerman Sam",
-    "start": 1790164200000,
-    "end": 1790164500000,
+    "start": 1790163600000,
+    "end": 1790164200000,
     "description": "Een losgeslagen robot jaagt Snuffie een op hol geslagen boot op, met Radar aan boord! Het maritieme reddingsteam haast zich om de honden te helpen voordat ze op de rotsen varen.",
     "category": [
       "Kids",
@@ -1998,11 +1968,11 @@
     }
   },
   {
-    "id": "npo3:1790164500000:ykg2i3",
+    "id": "npo3:1790164200000:ykg2i3",
     "channel": "npo3",
     "title": "DORA",
-    "start": 1790164500000,
-    "end": 1790165400000,
+    "start": 1790164200000,
+    "end": 1790165100000,
     "description": "Dora en Boots passen op baby Stuiterblom, Duizel Daisy en Rosette, zodat Isa naar een koninklijk theekransje kan gaan.",
     "category": [
       "Kids",
@@ -2028,11 +1998,11 @@
     }
   },
   {
-    "id": "npo3:1790165400000:804gxe",
+    "id": "npo3:1790165100000:804gxe",
     "channel": "npo3",
     "title": "Wickie de Viking",
-    "start": 1790165400000,
-    "end": 1790166000000,
+    "start": 1790165100000,
+    "end": 1790165700000,
     "description": "Het is feest in Flake: ter gelegenheid van het Balder Vis Festival wordt een toneelstuk opgevoerd. Wickie, Ylvie en Gilby spelen mee, Halvar, Ylva, Urobe, Tjure, Faxe en Snorre ook. In het stuk maakt Frigg zich zorgen over Balder.",
     "category": [
       "Kids",
@@ -2058,11 +2028,11 @@
     }
   },
   {
-    "id": "npo3:1790166000000:1d8kv3w",
+    "id": "npo3:1790165700000:1d8kv3w",
     "channel": "npo3",
     "title": "Interstellar Ella",
-    "start": 1790166000000,
-    "end": 1790166600000,
+    "start": 1790165700000,
+    "end": 1790166300000,
     "description": "Ella en Slippy doen allebei heel koppig en gaan in volle vaart op een hevige ontploffing van twee sterren af. Maar er is ook een ontploffing tussen twee vrienden.",
     "category": [
       "Kids",
@@ -2088,11 +2058,11 @@
     }
   },
   {
-    "id": "npo3:1790166600000:1lxbkmm",
+    "id": "npo3:1790166300000:1lxbkmm",
     "channel": "npo3",
     "title": "Mike de Ridder",
-    "start": 1790166600000,
-    "end": 1790167500000,
+    "start": 1790166300000,
+    "end": 1790167200000,
     "description": "Mike denkt dat hij Trollie een plezier moet doen in ruil voor wat de jonge trol voor hem heeft gedaan. Helaas maken zijn inspanningen Trollies dag alleen maar ellendiger. Uiteindelijk leert Mike dat je soms gewoon dank je wel moet zeggen.",
     "category": [
       "Kids",
@@ -2118,11 +2088,11 @@
     }
   },
   {
-    "id": "npo3:1790167500000:7ktexw",
+    "id": "npo3:1790167200000:7ktexw",
     "channel": "npo3",
     "title": "Het betoverde dorp van Pinokkio",
-    "start": 1790167500000,
-    "end": 1790168100000,
+    "start": 1790167200000,
+    "end": 1790167800000,
     "description": "Als de neus van Pinokkio wordt betoverd kan hij ineens liegen. Daar maakt hij behoorlijk misbruik van, waardoor iedereen in de problemen komt.",
     "category": [
       "Kids",
@@ -2148,11 +2118,11 @@
     }
   },
   {
-    "id": "npo3:1790168100000:7jxi7b",
+    "id": "npo3:1790167800000:7jxi7b",
     "channel": "npo3",
     "title": "SamSam",
-    "start": 1790168100000,
-    "end": 1790169000000,
+    "start": 1790167800000,
+    "end": 1790168700000,
     "description": "Het is carnaval op maart en Erwtje wordt koning voor een dag.",
     "category": [
       "Kids",
@@ -2178,11 +2148,11 @@
     }
   },
   {
-    "id": "npo3:1790169000000:161jtqa",
+    "id": "npo3:1790168700000:161jtqa",
     "channel": "npo3",
     "title": "Zo is Joey!",
-    "start": 1790169000000,
-    "end": 1790169600000,
+    "start": 1790168700000,
+    "end": 1790169300000,
     "description": "Mevrouw Deken kan niet komen werken en dus neemt mevrouw Ansjovis haar taken over. Alleen lust niemand behalve Igor haar groentetaart.",
     "category": [
       "Kids",
@@ -2208,11 +2178,11 @@
     }
   },
   {
-    "id": "npo3:1790169600000:1hdiksx",
+    "id": "npo3:1790169300000:1hdiksx",
     "channel": "npo3",
     "title": "Agent Binky",
-    "start": 1790169600000,
-    "end": 1790170200000,
+    "start": 1790169300000,
+    "end": 1790169900000,
     "description": "Ted wordt per ongeluk de ruimte in gestuurd. Het team heeft zin in het slaapfeestje met Gracie.",
     "category": [
       "Kids",
@@ -2238,11 +2208,11 @@
     }
   },
   {
-    "id": "npo3:1790170200000:1qsoju6",
+    "id": "npo3:1790169900000:1qsoju6",
     "channel": "npo3",
     "title": "De Smurfen",
-    "start": 1790170200000,
-    "end": 1790170800000,
+    "start": 1790169900000,
+    "end": 1790170500000,
     "description": "De Smurfen organiseren een wedstrijd om nieuwe Brandweersmurfen aan te stellen.",
     "category": [
       "Kids",
@@ -2268,11 +2238,11 @@
     }
   },
   {
-    "id": "npo3:1790170800000:t7ylqw",
+    "id": "npo3:1790170500000:t7ylqw",
     "channel": "npo3",
     "title": "Mojo Fliptop",
-    "start": 1790170800000,
-    "end": 1790171700000,
+    "start": 1790170500000,
+    "end": 1790171400000,
     "description": "Mojo en Bo willen heel graag de trofee winnen van de Flipperdam racerally, maar onderweg twijfelen ze of ze ook deelnemers in nood moeten redden.",
     "category": [
       "Kids",
@@ -2298,11 +2268,11 @@
     }
   },
   {
-    "id": "npo3:1790171700000:1cj46ur",
+    "id": "npo3:1790171400000:1cj46ur",
     "channel": "npo3",
     "title": "Herrie op zolder",
-    "start": 1790171700000,
-    "end": 1790172300000,
+    "start": 1790171400000,
+    "end": 1790172000000,
     "description": "Bella maakt met haar zang van alle inwoners in Zolderstad zombies.",
     "category": [
       "Avontuur"
@@ -2326,11 +2296,11 @@
     }
   },
   {
-    "id": "npo3:1790172300000:q66b5",
+    "id": "npo3:1790172000000:q66b5",
     "channel": "npo3",
     "title": "Moomin Vallei",
-    "start": 1790172300000,
-    "end": 1790173500000,
+    "start": 1790172000000,
+    "end": 1790173200000,
     "description": "Vanwege de ernstige droogte besluit Moominpapa om samen met Moomin vis te vangen. Een enorme vis bijt. De vis aan de lijn is echter erg groot. Een wild gevecht tussen vader en zoon begint tegen de monstervis. Je zult ook vreemde zaden vinden.",
     "category": [
       "Kids",
@@ -2356,11 +2326,11 @@
     }
   },
   {
-    "id": "npo3:1790173500000:10x90p",
+    "id": "npo3:1790173200000:10x90p",
     "channel": "npo3",
     "title": "Lassie Animated",
-    "start": 1790173500000,
-    "end": 1790175000000,
+    "start": 1790173200000,
+    "end": 1790174700000,
     "description": "De familie Bakker heeft een dag vrij en ze gaan picknicken, samen met Erwin. Maar een dagje ontspannen lijkt er niet in te zitten, want ze moeten steeds in actie komen om iemand te redden.",
     "category": [
       "Kids",
@@ -2386,11 +2356,11 @@
     }
   },
   {
-    "id": "npo3:1790175000000:1fxg1ty",
+    "id": "npo3:1790174700000:1fxg1ty",
     "channel": "npo3",
     "title": "Dino Daan & Lucy",
-    "start": 1790175000000,
-    "end": 1790175600000,
+    "start": 1790174700000,
+    "end": 1790175300000,
     "description": "Daan kan niet wachten tot hij eindelijk het legendarische zangbeestje zal horen. Intussen zijn de dorpelingen verwoed op zoek naar een vliegende monsterrups die alle spullen opeet.",
     "category": [
       "Animatie",
@@ -2416,11 +2386,11 @@
     }
   },
   {
-    "id": "npo3:1790175600000:14i3i4t",
+    "id": "npo3:1790175300000:14i3i4t",
     "channel": "npo3",
     "title": "Machtige Mike",
-    "start": 1790175600000,
-    "end": 1790176200000,
+    "start": 1790175300000,
+    "end": 1790175900000,
     "description": "Als de wasberen weer inbreken in het huis van de familie en Mike opnieuw makkelijk wordt verslagen is hij het zat. Mike vraagt de schildpadden om hem karate te leren om tegen de wasberen te gebruiken.",
     "category": [
       "Kids",
@@ -2446,10 +2416,10 @@
     }
   },
   {
-    "id": "npo3:1790176200000:ak4u30",
+    "id": "npo3:1790175900000:ak4u30",
     "channel": "npo3",
     "title": "Grizzy en de Lemmingen",
-    "start": 1790176200000,
+    "start": 1790175900000,
     "end": 1790176500000,
     "description": "Wanneer hij ziet hoe makkelijk een krab een kokosnoot kan openen, pakt Grizzy het schaaldier en gebruikt het om al zijn kokosnoten te openen. De Lemmingen vinden een afstandsbediening in een grot waarmee ze een reuzenkrab kunnen besturen.",
     "category": [
@@ -2540,7 +2510,7 @@
     "channel": "npo3",
     "title": "Brugklas",
     "start": 1790178600000,
-    "end": 1790179500000,
+    "end": 1790179200000,
     "description": "Carmen vindt Ramon een enorme sukkel, maar dat verandert als ze hem beter leert kennen.",
     "category": [
       "Dramaserie"
@@ -2564,11 +2534,11 @@
     }
   },
   {
-    "id": "npo3:1790179500000:5ryinh",
+    "id": "npo3:1790179200000:5ryinh",
     "channel": "npo3",
     "title": "Checkpoint",
-    "start": 1790179500000,
-    "end": 1790181000000,
+    "start": 1790179200000,
+    "end": 1790180700000,
     "description": "Rachel moet de rust bewaren in een stressvolle situatie, ze gaat namelijk parachutespringen.",
     "category": [
       "Wetenschap",
@@ -2594,10 +2564,10 @@
     }
   },
   {
-    "id": "npo3:1790181000000:qoh9bd",
+    "id": "npo3:1790180700000:qoh9bd",
     "channel": "npo3",
     "title": "De Faker op vakantie",
-    "start": 1790181000000,
+    "start": 1790180700000,
     "end": 1790181900000,
     "description": "Steven Kazàn gaat langs bij de familie Huisraad die vakantie viert in een brandweerauto! Lukt het Steven om de score van zijn team op te krikken of gaat zijn punt in vlammen op?",
     "category": [
@@ -2773,9 +2743,10 @@
     "title": "A Beautiful Mess",
     "start": 1790194800000,
     "end": 1790198100000,
-    "description": "Met zes items maken de kandidaten drie outfits voor Parijs, Londen of Milaan. In het atelier wacht een mystery event. Wie overtuigt Monique en DJ La Fuente met een sterke capsule wardrobe?",
+    "description": "De kandidaten pakken de koffer in van een goede bekende voor een weekendje weg met de trein naar Parijs, Londen of Milaan. Ze duiken in de kledingkast van diegene en met slechts zes kledingstukken moeten ze drie outfits stylen: voor een fietstocht, een romantisch diner én een mystery event. Pas in het atelier ontdekken ze wat het mystery event is, en dat zorgt voor de nodige uitdagingen. Wie weet juryvoorzitter Monique en DJ La Fuente te verrassen met een geweldige 'capsule wardrobe'?",
     "category": [
-      "Docu"
+      "Docu",
+      "Mode"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33847239~~2FEP065430550008%2Cimi%3Addaa4d53f057bb19f76ba9e4db24ab2910142aa6/posterTile",
     "icon": null,
@@ -2788,7 +2759,8 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33847239~~2FEP065430550008,imi:ddaa4d53f057bb19f76ba9e4db24ab2910142aa6",
       "episodeName": "Weekendje weg",
       "genres": [
-        "Docu"
+        "Docu",
+        "Mode"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,

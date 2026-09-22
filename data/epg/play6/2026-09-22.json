@@ -1,10 +1,62 @@
 [
   {
-    "id": "play6:1790035200000:o13nu0",
+    "id": "play6:1790034900000:14ju3nd",
+    "channel": "play6",
+    "title": "Most Outrageous Crimes",
+    "start": 1790034900000,
+    "end": 1790038500000,
+    "description": "Opmerkelijke beelden tonen criminelen die op heterdaad worden betrapt. Van wilde achtervolgingen en onverwachte confrontaties met de politie tot chaotische incidenten in winkels en op openbare plaatsen.",
+    "category": [
+      "Misdaad"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28991079~~2FEP065208960038%2Cimi%3Ab9d20bce2e70fc86cfcb02faf189aaf32df239d7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 17,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28991079~~2FEP065208960038,imi:b9d20bce2e70fc86cfcb02faf189aaf32df239d7",
+      "episodeName": "Florida Men",
+      "genres": [
+        "Misdaad"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28172853~~2FSH065208960000"
+    }
+  },
+  {
+    "id": "play6:1790038500000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1790038500000,
+    "end": 1790038800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f06db989ca37108da721b692b08489446cea2d2c",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1790038800000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1790035200000,
-    "end": 1790038500000,
+    "start": 1790038800000,
+    "end": 1790045700000,
     "description": "Rick loopt tegen een worstellegende aan en krijgt in Chicago de kans op een Michael Jordan-kampioenstrui. Chum lijkt groots te scoren met een 300 jaar oude viool. Door een vintage Batman-speelhuis raken Corey en Chum in een gokstemming.",
     "category": [
       "Reality",
@@ -27,30 +79,6 @@
       "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4d9205fc-9c81-49d2-a8f0-5c7b6b7e6a5e"
-    }
-  },
-  {
-    "id": "play6:1790038500000:48zb9",
-    "channel": "play6",
-    "title": "Geen uitzending",
-    "start": 1790038500000,
-    "end": 1790045700000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f06db989ca37108da721b692b08489446cea2d2c",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {
@@ -82,7 +110,7 @@
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1790046000000,
-    "end": 1790049000000,
+    "end": 1790048700000,
     "description": null,
     "category": [],
     "image": null,
@@ -102,11 +130,11 @@
     }
   },
   {
-    "id": "play6:1790049000000:dh52bm",
+    "id": "play6:1790048700000:dh52bm",
     "channel": "play6",
     "title": "Star Trek: Picard",
-    "start": 1790049000000,
-    "end": 1790051400000,
+    "start": 1790048700000,
+    "end": 1790051100000,
     "description": "Nu de tijd dringt om de toekomst te kunnen redden, neemt Picard het heft in eigen handen en zoekt hij hulp bij een oude vriend. Ondertussen belandt Rios aan de verkeerde kant van de wet en sluit Jurati een deal met de Borg-koningin.",
     "category": [
       "Dramaserie",
@@ -132,11 +160,11 @@
     }
   },
   {
-    "id": "play6:1790051400000:12r5kk8",
+    "id": "play6:1790051100000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1790051400000,
-    "end": 1790054100000,
+    "start": 1790051100000,
+    "end": 1790053800000,
     "description": "Een zwaar ongeluk en een frustrerende berging dreigen Kevin te veel te worden. Na een grote wending in zijn carrière heeft Sonny problemen als een zwaarbeladen truck midden in de stad kantelt.",
     "category": [
       "Reality"
@@ -160,11 +188,11 @@
     }
   },
   {
-    "id": "play6:1790054100000:o13nu0",
+    "id": "play6:1790053800000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1790054100000,
-    "end": 1790056800000,
+    "start": 1790053800000,
+    "end": 1790056200000,
     "description": "Rick loopt tegen een worstellegende aan en krijgt in Chicago de kans op een Michael Jordan-kampioenstrui. Chum lijkt groots te scoren met een 300 jaar oude viool. Door een vintage Batman-speelhuis raken Corey en Chum in een gokstemming.",
     "category": [
       "Reality",
@@ -190,11 +218,11 @@
     }
   },
   {
-    "id": "play6:1790056800000:8c7jz",
+    "id": "play6:1790056200000:8c7jz",
     "channel": "play6",
     "title": "Hawaii Five-0",
-    "start": 1790056800000,
-    "end": 1790060100000,
+    "start": 1790056200000,
+    "end": 1790059500000,
     "description": "Terroristen leggen beslag op een schoolfeest om de zoon van een diplomaat te ontvoeren. Intussen ontdekken Danny en Grover dat Will en Grace stiekem een verhouding hebben.",
     "category": [
       "Misdaaddrama"
@@ -218,11 +246,11 @@
     }
   },
   {
-    "id": "play6:1790060100000:1puyjgk",
+    "id": "play6:1790059500000:1puyjgk",
     "channel": "play6",
     "title": "The Ark",
-    "start": 1790060100000,
-    "end": 1790063400000,
+    "start": 1790059500000,
+    "end": 1790062800000,
     "description": "Twee werkelijkheden lijken met elkaar te botsen. De bemanning krijgt te maken met vreemde gebeurtenissen die alles wat ze dachten te weten op losse schroeven zetten.",
     "category": [
       "Sciencefiction"
@@ -246,11 +274,11 @@
     }
   },
   {
-    "id": "play6:1790063400000:1m0ktji",
+    "id": "play6:1790062800000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1790063400000,
-    "end": 1790065200000,
+    "start": 1790062800000,
+    "end": 1790064300000,
     "description": "Alan is terneergeslagen en diep bedroefd wanneer Lyndsey hem dumpt en meteen erna alweer op date gaat met een andere man. Ook Walden is er niet goed van, aangezien hij nu weer onophoudelijk zit opgescheept met een triestige Alan.",
     "category": [
       "Sitcom"
@@ -274,11 +302,11 @@
     }
   },
   {
-    "id": "play6:1790065200000:1m0ktji",
+    "id": "play6:1790064300000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1790065200000,
-    "end": 1790066700000,
+    "start": 1790064300000,
+    "end": 1790066100000,
     "description": "Walden krijgt Alan zover om een 'breakover' te laten uitvoeren, wat zoveel betekent als een 'post-breakup make-over'. Nu Alan nog steeds in de put zit nadat Lindsay hem dumpte, vindt Walden het immers hoog tijd dat hij verder gaat met zijn leven.",
     "category": [
       "Sitcom"
@@ -302,11 +330,11 @@
     }
   },
   {
-    "id": "play6:1790066700000:48zb9",
+    "id": "play6:1790066100000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1790066700000,
-    "end": 1790070300000,
+    "start": 1790066100000,
+    "end": 1790069700000,
     "description": null,
     "category": [],
     "image": null,
@@ -326,11 +354,11 @@
     }
   },
   {
-    "id": "play6:1790070300000:14ci0im",
+    "id": "play6:1790069700000:14ci0im",
     "channel": "play6",
     "title": "The Neighborhood",
-    "start": 1790070300000,
-    "end": 1790072100000,
+    "start": 1790069700000,
+    "end": 1790071200000,
     "description": "Calvin weegt de voors en tegens van een belangrijke beslissing af. Marty vraagt Dave om hulp.",
     "category": [
       "Sitcom"
@@ -354,11 +382,11 @@
     }
   },
   {
-    "id": "play6:1790072100000:14ci0im",
+    "id": "play6:1790071200000:14ci0im",
     "channel": "play6",
     "title": "The Neighborhood",
-    "start": 1790072100000,
-    "end": 1790073900000,
+    "start": 1790071200000,
+    "end": 1790073000000,
     "description": "Calvin en Tina gaan naar Madrid op de huwelijksreis die ze nooit hebben gehad. En David en Gemma werken met Malcolm en Marty aan een project waarmee ze Calvin bij terugkomst hopen te verrassen.",
     "category": [
       "Sitcom"
@@ -382,11 +410,11 @@
     }
   },
   {
-    "id": "play6:1790073900000:1lmrwl3",
+    "id": "play6:1790073000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790073900000,
-    "end": 1790075700000,
+    "start": 1790073000000,
+    "end": 1790074800000,
     "description": "De kopers reizen af naar Moreno Valley in Californië, waar Darrell volgens de regels probeert te spelen. René en Casey zijn in de wolken na aankoop van de perfecte voorraad voor hun winkel. Jarrod vindt eindelijk een zogenaamd echte Rolex.",
     "category": [
       "Reality",
@@ -412,11 +440,11 @@
     }
   },
   {
-    "id": "play6:1790075700000:1lmrwl3",
+    "id": "play6:1790074800000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790075700000,
-    "end": 1790077500000,
+    "start": 1790074800000,
+    "end": 1790076900000,
     "description": "De kopers keren terug naar Costa Mesa, Californië, waar Ivy besluit om all-in te gaan. Darrell ontdekt tot zijn plezier een aantal Super Mario-memorabilia. Barry neemt een grote gok. Jarrod en Brandi worden eigenaren van een mogelijk kostbaar object.",
     "category": [
       "Reality",
@@ -442,11 +470,11 @@
     }
   },
   {
-    "id": "play6:1790077500000:14ju3nd",
+    "id": "play6:1790076900000:14ju3nd",
     "channel": "play6",
     "title": "Most Outrageous Crimes",
-    "start": 1790077500000,
-    "end": 1790081100000,
+    "start": 1790076900000,
+    "end": 1790080500000,
     "description": "Opmerkelijke beelden tonen criminelen die op heterdaad worden betrapt. Van wilde achtervolgingen en onverwachte confrontaties met de politie tot chaotische incidenten in winkels en op openbare plaatsen.",
     "category": [
       "Misdaad"
@@ -470,11 +498,11 @@
     }
   },
   {
-    "id": "play6:1790081100000:12r5kk8",
+    "id": "play6:1790080500000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1790081100000,
-    "end": 1790084400000,
+    "start": 1790080500000,
+    "end": 1790084100000,
     "description": "Sonny neemt een geknikte vrachtwagen onder handen. John pakt een wrak onder een viaduct aan.",
     "category": [
       "Reality"
@@ -498,11 +526,11 @@
     }
   },
   {
-    "id": "play6:1790084400000:o13nu0",
+    "id": "play6:1790084100000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1790084400000,
-    "end": 1790087700000,
+    "start": 1790084100000,
+    "end": 1790087400000,
     "description": "Rick en Chum proberen een deal te sluiten bij een oud apparaat voor gewichtsverlies, een verkoper komt binnen met een door Tom Petty gesigneerde schets en Chum gaat aan de slag met een Ouijabord.",
     "category": [
       "Reality",
@@ -528,11 +556,11 @@
     }
   },
   {
-    "id": "play6:1790087700000:1m0ktji",
+    "id": "play6:1790087400000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1790087700000,
-    "end": 1790089800000,
+    "start": 1790087400000,
+    "end": 1790089500000,
     "description": "Walden gaat uit met een 22-jarige vrouw, maar voelt zich meer aangetrokken tot haar grootmoeder. Ondertussen maken Alan en Jake een reisje om hun vader-zoonband te verbeteren.",
     "category": [
       "Sitcom"
@@ -556,11 +584,11 @@
     }
   },
   {
-    "id": "play6:1790089800000:1m0ktji",
+    "id": "play6:1790089500000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1790089800000,
-    "end": 1790091600000,
+    "start": 1790089500000,
+    "end": 1790091300000,
     "description": "De lang verloren dochter van Charlie verschijnt plotseling bij het strandhuis, in de hoop haar familie wat beter te leren kennis. Ze blijkt van alles te houden waar haar vader ook van hield, waaronder vrouwen.",
     "category": [
       "Sitcom"
@@ -584,10 +612,10 @@
     }
   },
   {
-    "id": "play6:1790091600000:14ci0im",
+    "id": "play6:1790091300000:14ci0im",
     "channel": "play6",
     "title": "The Neighborhood",
-    "start": 1790091600000,
+    "start": 1790091300000,
     "end": 1790093100000,
     "description": "Tina vindt dat Calvin iets moet doen met zijn pensioen, en hij besluit mee te doen aan een cornholewedstrijd - ook al heeft hij dat nog nooit gedaan. En Marty plant een uitgebreid plan om Malcolm te vragen als getuige op zijn bruiloft.",
     "category": [
@@ -644,7 +672,7 @@
     "channel": "play6",
     "title": "Storage Wars",
     "start": 1790094900000,
-    "end": 1790097000000,
+    "end": 1790096700000,
     "description": "De kopers maken het elkaar moeilijk op de veiling in Torrance, Californië. Brandi vindt dat Jarrod te veel uitgeeft, en beperkt zijn budget tot 500 dollar. Een zelfverzekerde Dave maakt René kwaad. Ivy verrast zichzelf als hij van tactiek verandert.",
     "category": [
       "Reality",
@@ -670,10 +698,10 @@
     }
   },
   {
-    "id": "play6:1790097000000:1lmrwl3",
+    "id": "play6:1790096700000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790097000000,
+    "start": 1790096700000,
     "end": 1790098800000,
     "description": "De kopers strijden om grote winsten in Bellflower, Californië. Jarrod koopt een opslagruimte die Brandi dwingt haar angsten onder ogen te zien. Ivy worstelt om in een slechte aankoop iets van waarde te vinden. Dave wordt de grote winnaar van de dag.",
     "category": [

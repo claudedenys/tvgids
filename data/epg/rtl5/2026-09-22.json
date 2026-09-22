@@ -120,7 +120,7 @@
     "end": 1790073000000,
     "description": "Homeshoppingprogramma.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-4-tommy-teleshopping-774310592.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -161,7 +161,7 @@
     "channel": "rtl5",
     "title": "Teleshop 5: Telvero",
     "start": 1790080200000,
-    "end": 1790087400000,
+    "end": 1790087460000,
     "description": "Homeshoppingprogramma.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/t/carrousel/teleshop-4-tommy-teleshopping-774310592.jpg",
@@ -179,11 +179,11 @@
     }
   },
   {
-    "id": "rtl5:1790087400000:f5s2le",
+    "id": "rtl5:1790087460000:f5s2le",
     "channel": "rtl5",
     "title": "Stop! Politie UK",
-    "start": 1790087400000,
-    "end": 1790091300000,
+    "start": 1790087460000,
+    "end": 1790091060000,
     "description": "Realityserie over het werk van de Britse verkeerspolitie.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/s/carrousel/stop-politie-uk-765749302.jpg",
@@ -201,11 +201,11 @@
     }
   },
   {
-    "id": "rtl5:1790091300000:6d5lme",
+    "id": "rtl5:1790091060000:6d5lme",
     "channel": "rtl5",
     "title": "Ontvoerd",
-    "start": 1790091300000,
-    "end": 1790096700000,
+    "start": 1790091060000,
+    "end": 1790096280000,
     "description": "Voor Mike uit Hoogeveen wordt het gemis van zijn twee zoontjes met de dag zwaarder.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/o/carrousel/ontvoerd-764444832.jpg",
@@ -223,11 +223,11 @@
     }
   },
   {
-    "id": "rtl5:1790096700000:1stldm3",
+    "id": "rtl5:1790096280000:1stldm3",
     "channel": "rtl5",
     "title": "De Pfaff's",
-    "start": 1790096700000,
-    "end": 1790099100000,
+    "start": 1790096280000,
+    "end": 1790098920000,
     "description": "Carmen heeft een familiebarbecue georganiseerd en wil Sam en Nicolas graag aan het werk zetten in de tuin.",
     "category": [],
     "image": null,
@@ -245,11 +245,11 @@
     }
   },
   {
-    "id": "rtl5:1790099100000:1stldm3",
+    "id": "rtl5:1790098920000:1stldm3",
     "channel": "rtl5",
     "title": "De Pfaff's",
-    "start": 1790099100000,
-    "end": 1790101800000,
+    "start": 1790098920000,
+    "end": 1790101680000,
     "description": "Carmen en Kenji inspecteren de groentes in de serre en Jean-Marie gaat op de muzikale toer met zijn nieuwe aanwinst:...",
     "category": [],
     "image": null,
@@ -267,10 +267,10 @@
     }
   },
   {
-    "id": "rtl5:1790101800000:x08ztr",
+    "id": "rtl5:1790101680000:x08ztr",
     "channel": "rtl5",
     "title": "Over de A4",
-    "start": 1790101800000,
+    "start": 1790101680000,
     "end": 1790106900000,
     "description": "Verkeersagenten zetten de achtervolging in op een hardrijder die ook buiten de A4 gas blijft geven.",
     "category": [],
@@ -290,7 +290,7 @@
     "channel": "rtl5",
     "title": "112 vandaag",
     "start": 1790106900000,
-    "end": 1790108700000,
+    "end": 1790108280000,
     "description": "Reportages over de meldingen en calamiteiten die bij het nationale noodnummer binnenkomen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/1/carrousel/112-vandaag-767271092.jpg",
@@ -305,11 +305,11 @@
     }
   },
   {
-    "id": "rtl5:1790108700000:146wvl6",
+    "id": "rtl5:1790108280000:146wvl6",
     "channel": "rtl5",
     "title": "RTL Weer",
-    "start": 1790108700000,
-    "end": 1790109300000,
+    "start": 1790108280000,
+    "end": 1790108940000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
@@ -330,10 +330,10 @@
     }
   },
   {
-    "id": "rtl5:1790109300000:uc4b4u",
+    "id": "rtl5:1790108940000:uc4b4u",
     "channel": "rtl5",
     "title": "24 uur in de ER",
-    "start": 1790109300000,
+    "start": 1790108940000,
     "end": 1790112900000,
     "description": "Realityserie over de eerstehulpafdeling van St.",
     "category": [],
@@ -356,7 +356,7 @@
     "channel": "rtl5",
     "title": "112 vandaag",
     "start": 1790112900000,
-    "end": 1790114400000,
+    "end": 1790114280000,
     "description": "Reportages over de meldingen en calamiteiten die bij het nationale noodnummer binnenkomen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v387/upload/1/carrousel/112-vandaag-767271092.jpg",
@@ -369,6 +369,31 @@
     "meta": {
       "labels": [
         "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl5:1790114280000:146wvl6",
+    "channel": "rtl5",
+    "title": "RTL Weer",
+    "start": 1790114280000,
+    "end": 1790114520000,
+    "description": "Een uitgebreide blik op de actuele weerkaart.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v387/upload/r/carrousel/rtl-weer-767310982.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
         "rerun"
       ]
     }
