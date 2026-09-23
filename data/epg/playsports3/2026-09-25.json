@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports3:1790294400000:xykime",
+    "id": "playsports3:1790289000000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1790289000000,
+    "end": 1790295000000,
+    "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558227~~2FEP035850991997%2Cimi%3A0aa0e93e9a4442e9779fdfee525886c0c0163981/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026091597,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558227~~2FEP035850991997,imi:0aa0e93e9a4442e9779fdfee525886c0c0163981",
+      "episodeName": "Ajax - Willem II",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1790295000000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1790294400000,
-    "end": 1790311140000,
+    "start": 1790295000000,
+    "end": 1790308680000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,41 +58,101 @@
     }
   },
   {
-    "id": "playsports3:1790311140000:1va4v2m",
+    "id": "playsports3:1790308680000:arbc9d",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1790311140000,
-    "end": 1790317440000,
-    "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
+    "title": "The Paddock Live: Formule 1",
+    "start": 1790308680000,
+    "end": 1790309400000,
+    "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558285~~2FEP035850992001%2Cimi%3A961ceefe5929374e7556159429cf8126d90e4ef8/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388153~~2FEP063235100089%2Cimi%3Ac078bcd408c5baa761e8b00115467e2bb4447c3b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026091901,
+    "season": 35100000,
+    "episode": 2026091389,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558285~~2FEP035850992001,imi:961ceefe5929374e7556159429cf8126d90e4ef8",
-      "episodeName": "Ajax - Excelsior",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388153~~2FEP063235100089,imi:c078bcd408c5baa761e8b00115467e2bb4447c3b",
+      "episodeName": "GP van Spanje: Race",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Motorsport"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
     }
   },
   {
-    "id": "playsports3:1790317440000:1va4v2m",
+    "id": "playsports3:1790309400000:arbc9e",
+    "channel": "playsports3",
+    "title": "The Paddock Live: Formule 2",
+    "start": 1790309400000,
+    "end": 1790313000000,
+    "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33036160~~2FEP063235510046%2Cimi%3A5c58c8cbb3d1cf5e0d41fe7fbd991c2083c8de8a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35510000,
+    "episode": 2026092546,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33036160~~2FEP063235510046,imi:5c58c8cbb3d1cf5e0d41fe7fbd991c2083c8de8a",
+      "episodeName": "GP van Azerbeidzjan: Sprint Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13929005~~2FSH063235510000"
+    }
+  },
+  {
+    "id": "playsports3:1790313000000:1at0aor",
+    "channel": "playsports3",
+    "title": "Crosstalk",
+    "start": 1790313000000,
+    "end": 1790315160000,
+    "description": "Een uitgebreid gesprek met Roger De Coster. Hij blikt terug op zijn carrière en vertelt over verschillende aspecten van de motorcross. In gesprek met Kris Meertens haalt Roger interessante verhalen op en deelt hij zijn inzichten over de motorcross.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34169388~~2FEP064913190002%2Cimi%3A53dd2b79ecc63fb9991cb29b47c972bb7e5bab52/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34169388~~2FEP064913190002,imi:53dd2b79ecc63fb9991cb29b47c972bb7e5bab52",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33420151~~2FSH064913190000"
+    }
+  },
+  {
+    "id": "playsports3:1790315160000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790317440000,
-    "end": 1790323740000,
+    "start": 1790315160000,
+    "end": 1790321460000,
     "description": "Verslag van de wedstrijd FC Twente - PSV uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -88,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1790323740000:1va4v2m",
+    "id": "playsports3:1790321460000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790323740000,
-    "end": 1790330100000,
+    "start": 1790321460000,
+    "end": 1790327760000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -118,33 +208,153 @@
     }
   },
   {
-    "id": "playsports3:1790330100000:ear1gl",
+    "id": "playsports3:1790327760000:i67pjl",
     "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1790330100000,
+    "title": "Play Sports Highlights",
+    "start": 1790327760000,
+    "end": 1790328780000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F554687165%2Cimi%3Aafacece339d74dc9a5c9ad62d8806ca7860ccaa1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 554687165,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F554687165,imi:afacece339d74dc9a5c9ad62d8806ca7860ccaa1",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1790328780000:1at0aor",
+    "channel": "playsports3",
+    "title": "Crosstalk",
+    "start": 1790328780000,
+    "end": 1790331000000,
+    "description": "Een uitgebreid gesprek met Roger De Coster. Hij blikt terug op zijn carrière en vertelt over verschillende aspecten van de motorcross. In gesprek met Kris Meertens haalt Roger interessante verhalen op en deelt hij zijn inzichten over de motorcross.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34169388~~2FEP064913190002%2Cimi%3A27638f1030393c4342c43d5da8354695bd91cd49/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34169388~~2FEP064913190002,imi:27638f1030393c4342c43d5da8354695bd91cd49",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33420151~~2FSH064913190000"
+    }
+  },
+  {
+    "id": "playsports3:1790331000000:arbc9e",
+    "channel": "playsports3",
+    "title": "The Paddock Live: Formule 2",
+    "start": 1790331000000,
+    "end": 1790334600000,
+    "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34108811~~2FEP063235510048%2Cimi%3A91f4f2645cd2f67fbd1a4216135b09204d091d4e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35510000,
+    "episode": 2026092548,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34108811~~2FEP063235510048,imi:91f4f2645cd2f67fbd1a4216135b09204d091d4e",
+      "episodeName": "GP van Azerbeidzjan: Feature Race 1",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13929005~~2FSH063235510000"
+    }
+  },
+  {
+    "id": "playsports3:1790334600000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1790334600000,
+    "end": 1790335800000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F554687168%2Cimi%3A2b8a8c731f428ea0bfda08fba1469765ff8e0c61/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 554687168,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F554687168,imi:2b8a8c731f428ea0bfda08fba1469765ff8e0c61",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1790335800000:1dvjy1m",
+    "channel": "playsports3",
+    "title": "Meester Tacticus",
+    "start": 1790335800000,
     "end": 1790336400000,
-    "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
+    "description": "Youri Tielemans maakte afgelopen zomer de overstap van Aston Villa naar Man. United. Een nieuwe omgeving voor de Rode Duivel, dus pluist Geert De Vlieger uit hoe Tielemans in het systeem-Carrick past.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33414608~~2FEP028036721215%2Cimi%3A29638ced0dd60a1de3c73e43bac1e8bd559fbfb4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34124432~~2FEP065986550002%2Cimi%3A3994c6b78fd9e8289b6abe05d307c44007307fa6/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 36720000,
-    "episode": 2026091615,
+    "season": 86550000,
+    "episode": 2026091802,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33414608~~2FEP028036721215,imi:29638ced0dd60a1de3c73e43bac1e8bd559fbfb4",
-      "episodeName": "AC Milan - Benfica",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34124432~~2FEP065986550002,imi:3994c6b78fd9e8289b6abe05d307c44007307fa6",
+      "episodeName": "Youri Tielemans en Man. United",
       "genres": [
         "Sport",
         "Voetbal"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34022384~~2FSH065986550000"
     }
   },
   {
@@ -178,11 +388,41 @@
     }
   },
   {
-    "id": "playsports3:1790342700000:3tkxx5",
+    "id": "playsports3:1790342700000:11quqlf",
+    "channel": "playsports3",
+    "title": "The Paddock On Tour",
+    "start": 1790342700000,
+    "end": 1790343600000,
+    "description": "Sam is bijna jarig en Dennis verrast hem met een wel heel speciale kans. Zijn droom om in een F1-bolide te rijden komt nu wel heel dichtbij.",
+    "category": [
+      "Motorsport",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006%2Cimi%3A0a04f06c286954df278fd520155122661143f42a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006,imi:0a04f06c286954df278fd520155122661143f42a",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Motorsport",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
+    }
+  },
+  {
+    "id": "playsports3:1790343600000:3tkxx5",
     "channel": "playsports3",
     "title": "MIDMID",
-    "start": 1790342700000,
-    "end": 1790348580000,
+    "start": 1790343600000,
+    "end": 1790349480000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
     "category": [
       "Voetbal",
@@ -208,11 +448,11 @@
     }
   },
   {
-    "id": "playsports3:1790348580000:1prlzbg",
+    "id": "playsports3:1790349480000:1prlzbg",
     "channel": "playsports3",
     "title": "Premier League",
-    "start": 1790348580000,
-    "end": 1790349300000,
+    "start": 1790349480000,
+    "end": 1790350200000,
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "category": [
       "Sport",
@@ -238,11 +478,11 @@
     }
   },
   {
-    "id": "playsports3:1790349300000:1va4v2m",
+    "id": "playsports3:1790350200000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790349300000,
-    "end": 1790355600000,
+    "start": 1790350200000,
+    "end": 1790356500000,
     "description": "Verslag van de wedstrijd FC Twente - PSV uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -268,11 +508,11 @@
     }
   },
   {
-    "id": "playsports3:1790355600000:1va4v2m",
+    "id": "playsports3:1790356500000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790355600000,
-    "end": 1790361900000,
+    "start": 1790356500000,
+    "end": 1790362800000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -298,11 +538,11 @@
     }
   },
   {
-    "id": "playsports3:1790361900000:ear1gl",
+    "id": "playsports3:1790362800000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790361900000,
-    "end": 1790368440000,
+    "start": 1790362800000,
+    "end": 1790369340000,
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -328,11 +568,11 @@
     }
   },
   {
-    "id": "playsports3:1790368440000:ear1gl",
+    "id": "playsports3:1790369340000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790368440000,
-    "end": 1790374740000,
+    "start": 1790369340000,
+    "end": 1790375640000,
     "description": "Verslag van de wedstrijd Juventus - N.E.C., gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",

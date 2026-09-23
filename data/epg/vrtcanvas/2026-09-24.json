@@ -1,32 +1,30 @@
 [
   {
-    "id": "vrtcanvas:1790206200000:1rw80yh",
+    "id": "vrtcanvas:1790206200000:715c2v",
     "channel": "vrtcanvas",
-    "title": "Het weer",
+    "title": "Nachtlus",
     "start": 1790206200000,
     "end": 1790222400000,
-    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
     "category": [
-      "Weer",
-      "Actua"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F545849273%2Cimi%3A8fd4fdd4b8205629f17c3824489b39d9ca9b4bb1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816259%2Cimi%3A1d3f14d5d3bf3970d3e37e13448ae6eb6f217bb8/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 31670000,
-    "episode": 545849273,
+    "season": 57190000,
+    "episode": 554816259,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F545849273,imi:8fd4fdd4b8205629f17c3824489b39d9ca9b4bb1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816259,imi:1d3f14d5d3bf3970d3e37e13448ae6eb6f217bb8",
       "episodeName": null,
       "genres": [
-        "Weer",
-        "Actua"
+        "Entertainment"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
     }
   },
   {
@@ -223,7 +221,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34090175~~2FEP048268820062,imi:8f3d07db23efdb554ba918776e0631100757a11c",
-      "episodeName": null,
+      "episodeName": "Wegrit Vrouwen U23",
       "genres": [
         "Sport",
         "Wielrennen"
@@ -311,7 +309,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34090188~~2FEP048268820064,imi:a9dc670593b41c42f7dc900b7fed8c92d2c09ceb",
-      "episodeName": null,
+      "episodeName": "Wegrit Vrouwen U23",
       "genres": [
         "Sport",
         "Wielrennen"

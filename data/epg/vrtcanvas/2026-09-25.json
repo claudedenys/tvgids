@@ -1,32 +1,30 @@
 [
   {
-    "id": "vrtcanvas:1790288700000:1rw80yh",
+    "id": "vrtcanvas:1790288700000:715c2v",
     "channel": "vrtcanvas",
-    "title": "Het weer",
+    "title": "Nachtlus",
     "start": 1790288700000,
     "end": 1790308800000,
-    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
     "category": [
-      "Weer",
-      "Actua"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F545849229%2Cimi%3A7b39e77521190cb9a0c65f958253ecad6bd2f462/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816258%2Cimi%3Ad997379566d28e20b95dbaba2e640e7dddd0250a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 31670000,
-    "episode": 545849229,
+    "season": 57190000,
+    "episode": 554816258,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F545849229,imi:7b39e77521190cb9a0c65f958253ecad6bd2f462",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816258,imi:d997379566d28e20b95dbaba2e640e7dddd0250a",
       "episodeName": null,
       "genres": [
-        "Weer",
-        "Actua"
+        "Entertainment"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
     }
   },
   {
@@ -251,7 +249,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34090203~~2FEP048268820066,imi:87d8647fbfab00615ee309028cb4c2eb4befe486",
-      "episodeName": null,
+      "episodeName": "Wegrit Mannen U23",
       "genres": [
         "Sport",
         "Wielrennen"
@@ -297,7 +295,7 @@
     "title": "Home sweet France",
     "start": 1790358300000,
     "end": 1790359200000,
-    "description": "Reisdocumentaire over de mooiste regio's in Frankrijk. Deze reeks neemt ons mee op een betoverende reis door de mooiste en meest verborgen plaatsen van het land, van de noordelijke kusten tot de tropische eilanden.",
+    "description": "Douces Frances nodigt u uit om het authentieke Corsica te ontdekken, waar gepassioneerde eilandbewoners er alles aan doen om hun erfgoed te behouden en, bovenal, om het met anderen te delen.",
     "category": [
       "Reizen",
       "Docu"

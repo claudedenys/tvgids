@@ -1,9 +1,39 @@
 [
   {
-    "id": "playsports3:1790208000000:xykime",
+    "id": "playsports3:1790202600000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1790202600000,
+    "end": 1790208600000,
+    "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558227~~2FEP035850991997%2Cimi%3Ae801567b35118366a2d167d1ef0c5d48a350ab3e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026091597,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558227~~2FEP035850991997,imi:e801567b35118366a2d167d1ef0c5d48a350ab3e",
+      "episodeName": "Ajax - Willem II",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1790208600000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1790208000000,
+    "start": 1790208600000,
     "end": 1790226000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -62,7 +92,7 @@
     "channel": "playsports3",
     "title": "UEFA Europa League",
     "start": 1790232300000,
-    "end": 1790238600000,
+    "end": 1790238480000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -88,11 +118,11 @@
     }
   },
   {
-    "id": "playsports3:1790238600000:ear1gl",
+    "id": "playsports3:1790238480000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790238600000,
-    "end": 1790245260000,
+    "start": 1790238480000,
+    "end": 1790245080000,
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -118,11 +148,11 @@
     }
   },
   {
-    "id": "playsports3:1790245260000:ear1gl",
+    "id": "playsports3:1790245080000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790245260000,
-    "end": 1790251500000,
+    "start": 1790245080000,
+    "end": 1790251380000,
     "description": "Verslag van de wedstrijd Juventus - N.E.C., gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -148,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1790251500000:ear1gl",
+    "id": "playsports3:1790251380000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790251500000,
-    "end": 1790257800000,
+    "start": 1790251380000,
+    "end": 1790257680000,
     "description": "Verslag van de wedstrijd Real Sociedad - Bournemouth, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -178,11 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1790257800000:1va4v2m",
+    "id": "playsports3:1790257680000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790257800000,
-    "end": 1790264100000,
+    "start": 1790257680000,
+    "end": 1790263980000,
     "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -208,11 +238,11 @@
     }
   },
   {
-    "id": "playsports3:1790264100000:1va4v2m",
+    "id": "playsports3:1790263980000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790264100000,
-    "end": 1790270400000,
+    "start": 1790263980000,
+    "end": 1790270280000,
     "description": "Verslag van de wedstrijd FC Twente - PSV uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -238,11 +268,11 @@
     }
   },
   {
-    "id": "playsports3:1790270400000:1va4v2m",
+    "id": "playsports3:1790270280000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790270400000,
-    "end": 1790276700000,
+    "start": 1790270280000,
+    "end": 1790276460000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -268,11 +298,11 @@
     }
   },
   {
-    "id": "playsports3:1790276700000:ear1gl",
+    "id": "playsports3:1790276460000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790276700000,
-    "end": 1790283000000,
+    "start": 1790276460000,
+    "end": 1790282820000,
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -298,11 +328,11 @@
     }
   },
   {
-    "id": "playsports3:1790283000000:ear1gl",
+    "id": "playsports3:1790282820000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790283000000,
-    "end": 1790289120000,
+    "start": 1790282820000,
+    "end": 1790289000000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",

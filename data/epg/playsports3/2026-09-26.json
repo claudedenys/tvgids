@@ -4,7 +4,7 @@
     "channel": "playsports3",
     "title": "Play Sports",
     "start": 1790380800000,
-    "end": 1790398800000,
+    "end": 1790399400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,35 +28,11 @@
     }
   },
   {
-    "id": "playsports3:1790398800000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1790398800000,
-    "end": 1790400000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:135881698c5d4024d3f9ddba1c024dd9d0b37ff6",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1790400000000:ear1gl",
+    "id": "playsports3:1790399400000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790400000000,
-    "end": 1790406300000,
+    "start": 1790399400000,
+    "end": 1790405700000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -82,63 +58,123 @@
     }
   },
   {
-    "id": "playsports3:1790406300000:ear1gl",
+    "id": "playsports3:1790405700000:arbc9e",
     "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1790406300000,
-    "end": 1790412900000,
-    "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
+    "title": "The Paddock Live: Formule 2",
+    "start": 1790405700000,
+    "end": 1790409600000,
+    "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33414557~~2FEP028036721212%2Cimi%3Aea9d9d81afd50c68ba03d79e3e79f6ed79b79195/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33036183~~2FEP063235510049%2Cimi%3A55887aa7670a612cd6375327ace27d68461268cf/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 36720000,
-    "episode": 2026091712,
+    "season": 35510000,
+    "episode": 2026092649,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33414557~~2FEP028036721212,imi:ea9d9d81afd50c68ba03d79e3e79f6ed79b79195",
-      "episodeName": "Beşiktaş - Olympique Marseille",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33036183~~2FEP063235510049,imi:55887aa7670a612cd6375327ace27d68461268cf",
+      "episodeName": "GP van Azerbeidzjan: Feature Race 2",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Motorsport"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13929005~~2FSH063235510000"
     }
   },
   {
-    "id": "playsports3:1790412900000:ear1gl",
+    "id": "playsports3:1790409600000:1at0aor",
     "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1790412900000,
-    "end": 1790419200000,
-    "description": "Verslag van de wedstrijd Real Sociedad - Bournemouth, gespeeld in de competitiefase van de UEFA Europa League.",
+    "title": "Crosstalk",
+    "start": 1790409600000,
+    "end": 1790411880000,
+    "description": "Een uitgebreid gesprek met Roger De Coster. Hij blikt terug op zijn carrière en vertelt over verschillende aspecten van de motorcross. In gesprek met Kris Meertens haalt Roger interessante verhalen op en deelt hij zijn inzichten over de motorcross.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33414809~~2FEP028036721222%2Cimi%3A226ce009864fd291b16fc8d20d3af909ff425a0a/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34169388~~2FEP064913190002%2Cimi%3A48bee2979a1b10697b4c3ace146950831945c13b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 36720000,
-    "episode": 2026091722,
+    "season": 102026,
+    "episode": 2,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33414809~~2FEP028036721222,imi:226ce009864fd291b16fc8d20d3af909ff425a0a",
-      "episodeName": "Real Sociedad - Bournemouth",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34169388~~2FEP064913190002,imi:48bee2979a1b10697b4c3ace146950831945c13b",
+      "episodeName": "Aflevering 2",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Motorracen"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33420151~~2FSH064913190000"
+    }
+  },
+  {
+    "id": "playsports3:1790411880000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1790411880000,
+    "end": 1790413320000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F554687161%2Cimi%3A20dae5e0d5711212024058ff903f5e6abe62b24b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 554687161,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F554687161,imi:20dae5e0d5711212024058ff903f5e6abe62b24b",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1790413320000:3tkxx5",
+    "channel": "playsports3",
+    "title": "MIDMID",
+    "start": 1790413320000,
+    "end": 1790419200000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190%2Cimi%3A6d818be5d982568929884a733f7de6759288b1d8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190,imi:6d818be5d982568929884a733f7de6759288b1d8",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
@@ -172,41 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1790428200000:3tkxx5",
-    "channel": "playsports3",
-    "title": "MIDMID",
-    "start": 1790428200000,
-    "end": 1790434200000,
-    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
-    "category": [
-      "Voetbal",
-      "Sporttalkshow"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190%2Cimi%3A6d818be5d982568929884a733f7de6759288b1d8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 7,
-    "episode": 2,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190,imi:6d818be5d982568929884a733f7de6759288b1d8",
-      "episodeName": "Aflevering 2",
-      "genres": [
-        "Voetbal",
-        "Sporttalkshow"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
-    }
-  },
-  {
-    "id": "playsports3:1790434200000:1dvjy1m",
+    "id": "playsports3:1790428200000:1dvjy1m",
     "channel": "playsports3",
     "title": "Meester Tacticus",
-    "start": 1790434200000,
-    "end": 1790434800000,
+    "start": 1790428200000,
+    "end": 1790428800000,
     "description": "Youri Tielemans maakte afgelopen zomer de overstap van Aston Villa naar Man. United. Een nieuwe omgeving voor de Rode Duivel, dus pluist Geert De Vlieger uit hoe Tielemans in het systeem-Carrick past.",
     "category": [
       "Sport",
@@ -229,6 +235,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34022384~~2FSH065986550000"
+    }
+  },
+  {
+    "id": "playsports3:1790428800000:3tkxx5",
+    "channel": "playsports3",
+    "title": "MIDMID",
+    "start": 1790428800000,
+    "end": 1790434800000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190%2Cimi%3Af0194f74cce4fc2bdcdd5b10d7ff5fc5a9279680/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34065507~~2FEP037584270190,imi:f0194f74cce4fc2bdcdd5b10d7ff5fc5a9279680",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {

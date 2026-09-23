@@ -58,7 +58,7 @@
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1790391600000,
-    "end": 1790394000000,
+    "end": 1790400000000,
     "description": null,
     "category": [],
     "image": null,
@@ -78,16 +78,16 @@
     }
   },
   {
-    "id": "play6:1790394000000:12r5kk8",
+    "id": "play6:1790400000000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1790394000000,
-    "end": 1790396700000,
+    "start": 1790400000000,
+    "end": 1790402700000,
     "description": "Kevin organiseert het noodteam dat op de snelweg een klus zal moeten opknappen. Gary's groep begint aan een lange opdracht.",
     "category": [
       "Reality"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16352241~~2FEP028770780016%2Cimi%3A360c0c229c626fb09df383ebbe3e3d8e4d6ad923/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16352241~~2FEP028770780016%2Cimi%3Ab0db005623ff4eab0fbcd8e1bdd5dd3ceebf4958/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 3,
@@ -95,7 +95,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F16352241~~2FEP028770780016,imi:360c0c229c626fb09df383ebbe3e3d8e4d6ad923",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16352241~~2FEP028770780016,imi:b0db005623ff4eab0fbcd8e1bdd5dd3ceebf4958",
       "episodeName": "One Twisted Mess",
       "genres": [
         "Reality"
@@ -106,11 +106,11 @@
     }
   },
   {
-    "id": "play6:1790396700000:12r5kk8",
+    "id": "play6:1790402700000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1790396700000,
-    "end": 1790399700000,
+    "start": 1790402700000,
+    "end": 1790406300000,
     "description": "De bemanning strijdt tegen vermoeidheid. Eric heeft bijna zijn breekpunt bereikt. Sonny moet enkele ploegen bevrijden die vastzitten op de snelweg.",
     "category": [
       "Reality"
@@ -134,11 +134,11 @@
     }
   },
   {
-    "id": "play6:1790399700000:12r5kk8",
+    "id": "play6:1790406300000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1790399700000,
-    "end": 1790403000000,
+    "start": 1790406300000,
+    "end": 1790409600000,
     "description": "Er ontstaat dikke mist op de snelweg, waardoor een simpele reddingsactie een van de gevaarlijkste klussen van Gary's carrière wordt. Door een gehavende aanhangwagen is het Ross-team gedwongen een zeer ongebruikelijke manoeuvre uit te proberen.",
     "category": [
       "Reality"
@@ -162,11 +162,11 @@
     }
   },
   {
-    "id": "play6:1790403000000:1lmrwl3",
+    "id": "play6:1790409600000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790403000000,
-    "end": 1790404800000,
+    "start": 1790409600000,
+    "end": 1790411400000,
     "description": "De kopers reizen af naar Moreno Valley in Californië, waar Darrell volgens de regels probeert te spelen. René en Casey zijn in de wolken na aankoop van de perfecte voorraad voor hun winkel. Jarrod vindt eindelijk een zogenaamd echte Rolex.",
     "category": [
       "Reality",
@@ -192,11 +192,35 @@
     }
   },
   {
-    "id": "play6:1790404800000:1lmrwl3",
+    "id": "play6:1790411400000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1790411400000,
+    "end": 1790415000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2b6dc892eaa21ce4bc04c72fcd47ae4aebef90e3",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1790415000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790404800000,
-    "end": 1790406900000,
+    "start": 1790415000000,
+    "end": 1790417100000,
     "description": "De kopers keren terug naar Costa Mesa, Californië, waar Ivy besluit om all-in te gaan. Darrell ontdekt tot zijn plezier een aantal Super Mario-memorabilia. Barry neemt een grote gok. Jarrod en Brandi worden eigenaren van een mogelijk kostbaar object.",
     "category": [
       "Reality",
@@ -222,11 +246,11 @@
     }
   },
   {
-    "id": "play6:1790406900000:1lmrwl3",
+    "id": "play6:1790417100000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790406900000,
-    "end": 1790408700000,
+    "start": 1790417100000,
+    "end": 1790418900000,
     "description": "De kopers maken het elkaar moeilijk op de veiling in Torrance, Californië. Brandi vindt dat Jarrod te veel uitgeeft, en beperkt zijn budget tot 500 dollar. Een zelfverzekerde Dave maakt René kwaad. Ivy verrast zichzelf als hij van tactiek verandert.",
     "category": [
       "Reality",
@@ -252,11 +276,11 @@
     }
   },
   {
-    "id": "play6:1790408700000:1lmrwl3",
+    "id": "play6:1790418900000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790408700000,
-    "end": 1790410500000,
+    "start": 1790418900000,
+    "end": 1790420700000,
     "description": "De kopers strijden om grote winsten in Bellflower, Californië. Jarrod koopt een opslagruimte die Brandi dwingt haar angsten onder ogen te zien. Ivy worstelt om in een slechte aankoop iets van waarde te vinden. Dave wordt de grote winnaar van de dag.",
     "category": [
       "Reality",
@@ -282,11 +306,11 @@
     }
   },
   {
-    "id": "play6:1790410500000:1lmrwl3",
+    "id": "play6:1790420700000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790410500000,
-    "end": 1790412300000,
+    "start": 1790420700000,
+    "end": 1790422500000,
     "description": "Ivy is bijzonder opgewonden wanneer de kopers terugkeren naar Fontana in Californië. Darrell en Brandon lijken goed gescoord te hebben, terwijl Mary zichzelf omhoog probeert te werken.",
     "category": [
       "Reality",
@@ -312,35 +336,11 @@
     }
   },
   {
-    "id": "play6:1790412300000:48zb9",
-    "channel": "play6",
-    "title": "Geen uitzending",
-    "start": 1790412300000,
-    "end": 1790415900000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2b6dc892eaa21ce4bc04c72fcd47ae4aebef90e3",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "play6:1790415900000:1lmrwl3",
+    "id": "play6:1790422500000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790415900000,
-    "end": 1790417400000,
+    "start": 1790422500000,
+    "end": 1790424000000,
     "description": "Darrell probeert de concurrentie aan te wakkeren tijdens de veiling in Moreno Valley, Californië. Mary probeert informatie in te winnen bij haar meer ervaren collega's. René is klaar om de strijd aan te gaan als de juiste opslagruimte langskomt.",
     "category": [
       "Reality",
@@ -366,11 +366,11 @@
     }
   },
   {
-    "id": "play6:1790417400000:1lmrwl3",
+    "id": "play6:1790424000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790417400000,
-    "end": 1790419200000,
+    "start": 1790424000000,
+    "end": 1790425800000,
     "description": "Jarrod en Brandi hebben een speciale gast die in opslagruimtes rond zal snuffelen op de veiling in West Covina, Californië. Darrell en Brandon helpen hun collega's om zich succesvol te kleden. Een zelfverzekerde Mary zoekt naar vintage artikelen.",
     "category": [
       "Reality",
@@ -396,11 +396,11 @@
     }
   },
   {
-    "id": "play6:1790419200000:1lmrwl3",
+    "id": "play6:1790425800000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790419200000,
-    "end": 1790421000000,
+    "start": 1790425800000,
+    "end": 1790427600000,
     "description": "De kopers reizen af naar Riverside, Californië, waar Mary besluit haar geluk te beproeven. Brandi probeert positief te blijven voor Jarrod. René zit in een goede flow, en hoopt zijn momentum vast te houden. Dave heeft er zoals altijd vertrouwen in.",
     "category": [
       "Reality",
@@ -426,11 +426,11 @@
     }
   },
   {
-    "id": "play6:1790421000000:1lmrwl3",
+    "id": "play6:1790427600000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790421000000,
-    "end": 1790422800000,
+    "start": 1790427600000,
+    "end": 1790429100000,
     "description": "De bieders gaan naar Rancho Cucamonga, Californië. Jarrod neemt zijn medewerkers mee, in de hoop op een aantal goede opslagruimtes. Een hongerige Darrell en Brandon gaan voor het grote geld. Ivy tast diep in de buidel voor de juiste opslagruimte.",
     "category": [
       "Reality",
@@ -456,40 +456,10 @@
     }
   },
   {
-    "id": "play6:1790422800000:7c38q8",
-    "channel": "play6",
-    "title": "Formule 1",
-    "start": 1790422800000,
-    "end": 1790429400000,
-    "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388347~~2FEP034610232602%2Cimi%3Acecfa07177f7b4f0375e0516d78ded04c140385b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 10230000,
-    "episode": 2026092502,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388347~~2FEP034610232602,imi:cecfa07177f7b4f0375e0516d78ded04c140385b",
-      "episodeName": "GP van Azerbeidzjan: Kwalificaties",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fca1d61f0-d2cd-4e40-a4dc-6fbcd374d62b"
-    }
-  },
-  {
-    "id": "play6:1790429400000:1lmrwl3",
+    "id": "play6:1790429100000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1790429400000,
+    "start": 1790429100000,
     "end": 1790430900000,
     "description": "De bekende bieders jagen op koopjes in Costa Mesa, Californië, een gebied dat Dave maar al te goed kent. Darrell hoopt een concurrent uit te sluiten, terwijl Mary in de badplaats besluit hoog in te zetten.",
     "category": [
@@ -520,7 +490,7 @@
     "channel": "play6",
     "title": "Two and a Half Men",
     "start": 1790430900000,
-    "end": 1790432700000,
+    "end": 1790432400000,
     "description": "Alan is terneergeslagen en diep bedroefd wanneer Lyndsey hem dumpt en meteen erna alweer op date gaat met een andere man. Ook Walden is er niet goed van, aangezien hij nu weer onophoudelijk zit opgescheept met een triestige Alan.",
     "category": [
       "Sitcom"
@@ -544,10 +514,10 @@
     }
   },
   {
-    "id": "play6:1790432700000:1m0ktji",
+    "id": "play6:1790432400000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1790432700000,
+    "start": 1790432400000,
     "end": 1790434200000,
     "description": "Walden krijgt Alan zover om een 'breakover' te laten uitvoeren, wat zoveel betekent als een 'post-breakup make-over'. Nu Alan nog steeds in de put zit nadat Lindsay hem dumpte, vindt Walden het immers hoog tijd dat hij verder gaat met zijn leven.",
     "category": [
@@ -604,7 +574,7 @@
     "channel": "play6",
     "title": "Two and a Half Men",
     "start": 1790436000000,
-    "end": 1790437800000,
+    "end": 1790437500000,
     "description": "De lang verloren dochter van Charlie verschijnt plotseling bij het strandhuis, in de hoop haar familie wat beter te leren kennis. Ze blijkt van alles te houden waar haar vader ook van hield, waaronder vrouwen.",
     "category": [
       "Sitcom"
@@ -628,10 +598,10 @@
     }
   },
   {
-    "id": "play6:1790437800000:1m0ktji",
+    "id": "play6:1790437500000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1790437800000,
+    "start": 1790437500000,
     "end": 1790439300000,
     "description": "Jenny trekt in bij Evelyn en haar extreem rijke vriend Marty. In de tussentijd bedriegt Lyndsey haar nieuwe vriend met Alan.",
     "category": [
@@ -688,7 +658,7 @@
     "channel": "play6",
     "title": "Two and a Half Men",
     "start": 1790441100000,
-    "end": 1790442900000,
+    "end": 1790442600000,
     "description": "Walden gaat een avondje uit met Jenny en haar bijzonder aantrekkelijke vriendinnen. Ondertussen komt de relatie van Alan en Lyndsey in gevaar.",
     "category": [
       "Sitcom"
@@ -712,10 +682,10 @@
     }
   },
   {
-    "id": "play6:1790442900000:1m0ktji",
+    "id": "play6:1790442600000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1790442900000,
+    "start": 1790442600000,
     "end": 1790444400000,
     "description": "Alan brengt tijd door met het vriendje van Lyndsey in de hoop te ontdekken waarom Lyndsey hem zo leuk vindt. Intussen moedigt Walden Jenny aan met haar acteren.",
     "category": [
@@ -744,7 +714,7 @@
     "channel": "play6",
     "title": "Two and a Half Men",
     "start": 1790444400000,
-    "end": 1790446200000,
+    "end": 1790445900000,
     "description": "Alan ontmoet Lynda Carter, zijn celebrity crush, tijdens een benefiet georganiseerd door Waldens moeder. Walden probeert haar uit te nodigen voor een diner, maar dit verloopt niet zoals Alan gehoopt had.",
     "category": [
       "Sitcom"
@@ -768,10 +738,10 @@
     }
   },
   {
-    "id": "play6:1790446200000:1m0ktji",
+    "id": "play6:1790445900000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1790446200000,
+    "start": 1790445900000,
     "end": 1790447700000,
     "description": "Walden en Alan hebben samen een dubbeldate met twee bloedmooie vrouwen, maar de jaloezie van Lyndsey verstoort het afspraakje van de mannen.",
     "category": [
@@ -800,7 +770,7 @@
     "channel": "play6",
     "title": "London Has Fallen",
     "start": 1790447700000,
-    "end": 1790454900000,
+    "end": 1790454600000,
     "description": "De Britse premier is onder verdachte omstandigheden overleden. Zijn begrafenis wordt bezocht door de meest prominente wereldleiders. Wanneer de president van de V.S. wordt ontvoerd, moet geheim agent Mike Banning in actie komen.",
     "category": [
       "Film",
@@ -826,11 +796,11 @@
     }
   },
   {
-    "id": "play6:1790454900000:c7l8dx",
+    "id": "play6:1790454600000:c7l8dx",
     "channel": "play6",
     "title": "Black Adam",
-    "start": 1790454900000,
-    "end": 1790463300000,
+    "start": 1790454600000,
+    "end": 1790463000000,
     "description": "Een man heeft magische krachten gekregen van de tovenaar Shazam duizenden jaren geleden. Hij heeft deze krachten gebruikt voor kwaadaardige doeleinden, waardoor hij eeuwenlang gevangen heeft gezeten. Nu staat hij op het punt om vrij te komen.",
     "category": [
       "Film",

@@ -1,9 +1,9 @@
 [
   {
-    "id": "play5:1790204700000:1l3wd65",
+    "id": "play5:1790205000000:1l3wd65",
     "channel": "play5",
     "title": "Superman & Lois",
-    "start": 1790204700000,
+    "start": 1790205000000,
     "end": 1790208300000,
     "description": "Lois en Chrissy volgen een nieuw spoor in het onderzoek, hoewel Clark heeft gezegd dat hij dat niet wil. Een poging tot een vriendelijk gebaar van Jonathan, Jordan en Nat wordt gecompliceerd door een onvoorzien obstakel.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "How to Get Away With Murder",
     "start": 1790208300000,
-    "end": 1790211900000,
+    "end": 1790211600000,
     "description": "Philip loopt nog steeds vrij rond. Annalise probeert de paniek bij haar team tot een minimum te beperken en ze tracht de bedreigingen van Philip telkens voor te blijven. Wes en Laurel onderzoeken de dood van de moeder van Wes.",
     "category": [
       "Dramaserie",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1790211900000:48zb9",
+    "id": "play5:1790211600000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1790211900000,
-    "end": 1790218800000,
+    "start": 1790211600000,
+    "end": 1790218200000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:056e5a80982eb2b657d4680848111bbc2d620efc",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1790218200000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1790218200000,
+    "end": 1790218800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4f14841681381c18f30e51842239277000e1f90a",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

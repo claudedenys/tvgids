@@ -1,32 +1,30 @@
 [
   {
-    "id": "vrtcanvas:1790376300000:1rw80yh",
+    "id": "vrtcanvas:1790376300000:715c2v",
     "channel": "vrtcanvas",
-    "title": "Het weer",
+    "title": "Nachtlus",
     "start": 1790376300000,
     "end": 1790402400000,
-    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
     "category": [
-      "Weer",
-      "Actua"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F545849293%2Cimi%3Ac35f37b4e1212d958010b956442616edaf62c541/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816257%2Cimi%3A2d6f468b1b6b057d1863cfd48b259d6b1b997400/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 31670000,
-    "episode": 545849293,
+    "season": 57190000,
+    "episode": 554816257,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F545849293,imi:c35f37b4e1212d958010b956442616edaf62c541",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816257,imi:2d6f468b1b6b057d1863cfd48b259d6b1b997400",
       "episodeName": null,
       "genres": [
-        "Weer",
-        "Actua"
+        "Entertainment"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
     }
   },
   {
@@ -163,7 +161,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34090229~~2FEP048268820068,imi:0cdfe3187819287f1a5ab5fc46188c0efe9d9eb8",
-      "episodeName": null,
+      "episodeName": "Elite Vrouwen",
       "genres": [
         "Sport",
         "Wielrennen"
