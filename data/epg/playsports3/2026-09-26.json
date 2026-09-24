@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports3:1790380800000:xykime",
+    "id": "playsports3:1790375460000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1790375460000,
+    "end": 1790381460000,
+    "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558227~~2FEP035850991997%2Cimi%3A52b4a7d8ca06363a5ed421537c53ccf3ee1cb640/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026091597,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558227~~2FEP035850991997,imi:52b4a7d8ca06363a5ed421537c53ccf3ee1cb640",
+      "episodeName": "Ajax - Willem II",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1790381460000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1790380800000,
-    "end": 1790399400000,
+    "start": 1790381460000,
+    "end": 1790398500000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,11 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1790399400000:ear1gl",
+    "id": "playsports3:1790398500000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790399400000,
-    "end": 1790405700000,
+    "start": 1790398500000,
+    "end": 1790404800000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -55,6 +85,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
+    }
+  },
+  {
+    "id": "playsports3:1790404800000:11quqlf",
+    "channel": "playsports3",
+    "title": "The Paddock On Tour",
+    "start": 1790404800000,
+    "end": 1790405700000,
+    "description": "Sam is bijna jarig en Dennis verrast hem met een wel heel speciale kans. Zijn droom om in een F1-bolide te rijden komt nu wel heel dichtbij.",
+    "category": [
+      "Motorsport",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006%2Cimi%3Aee020b8c888a22a1cd1038587f543306ce0ae441/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006,imi:ee020b8c888a22a1cd1038587f543306ce0ae441",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Motorsport",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
     }
   },
   {
@@ -208,11 +268,41 @@
     }
   },
   {
-    "id": "playsports3:1790428200000:1dvjy1m",
+    "id": "playsports3:1790428200000:11quqlf",
+    "channel": "playsports3",
+    "title": "The Paddock On Tour",
+    "start": 1790428200000,
+    "end": 1790429100000,
+    "description": "Sam is bijna jarig en Dennis verrast hem met een wel heel speciale kans. Zijn droom om in een F1-bolide te rijden komt nu wel heel dichtbij.",
+    "category": [
+      "Motorsport",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006%2Cimi%3A4c69d38d4565ad55442cf13ede3805410453b2f2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006,imi:4c69d38d4565ad55442cf13ede3805410453b2f2",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Motorsport",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
+    }
+  },
+  {
+    "id": "playsports3:1790429100000:1dvjy1m",
     "channel": "playsports3",
     "title": "Meester Tacticus",
-    "start": 1790428200000,
-    "end": 1790428800000,
+    "start": 1790429100000,
+    "end": 1790429700000,
     "description": "Youri Tielemans maakte afgelopen zomer de overstap van Aston Villa naar Man. United. Een nieuwe omgeving voor de Rode Duivel, dus pluist Geert De Vlieger uit hoe Tielemans in het systeem-Carrick past.",
     "category": [
       "Sport",
@@ -238,11 +328,11 @@
     }
   },
   {
-    "id": "playsports3:1790428800000:3tkxx5",
+    "id": "playsports3:1790429700000:3tkxx5",
     "channel": "playsports3",
     "title": "MIDMID",
-    "start": 1790428800000,
-    "end": 1790434800000,
+    "start": 1790429700000,
+    "end": 1790435700000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
     "category": [
       "Voetbal",
@@ -268,11 +358,11 @@
     }
   },
   {
-    "id": "playsports3:1790434800000:9elx6q",
+    "id": "playsports3:1790435700000:9elx6q",
     "channel": "playsports3",
     "title": "Europa & Conference League",
-    "start": 1790434800000,
-    "end": 1790436300000,
+    "start": 1790435700000,
+    "end": 1790437200000,
     "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "category": [
       "Sport",
@@ -298,10 +388,10 @@
     }
   },
   {
-    "id": "playsports3:1790436300000:i67pjl",
+    "id": "playsports3:1790437200000:i67pjl",
     "channel": "playsports3",
     "title": "Play Sports Highlights",
-    "start": 1790436300000,
+    "start": 1790437200000,
     "end": 1790440200000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [

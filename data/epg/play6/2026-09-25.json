@@ -1,40 +1,10 @@
 [
   {
-    "id": "play6:1790290800000:1ex9hz",
-    "channel": "play6",
-    "title": "World's Most Dangerous Prisoners",
-    "start": 1790290800000,
-    "end": 1790294700000,
-    "description": "Moeder van twee kinderen Joanne Dennehy is een van de slechts drie vrouwen die momenteel een levenslange gevangenisstraf uitzitten in Groot-Brittannië. Ze stak drie mannen neer met een mes.",
-    "category": [
-      "Docu",
-      "Misdaad"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26492241~~2FEP049872620002%2Cimi%3A6e6cc295b602166490634e52bef7bdb1804a6cf6/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 3,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26492241~~2FEP049872620002,imi:6e6cc295b602166490634e52bef7bdb1804a6cf6",
-      "episodeName": "Dennehy",
-      "genres": [
-        "Docu",
-        "Misdaad"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26391761~~2FSH049872620000"
-    }
-  },
-  {
-    "id": "play6:1790294700000:o13nu0",
+    "id": "play6:1790294100000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1790294700000,
-    "end": 1790298000000,
+    "start": 1790294100000,
+    "end": 1790297400000,
     "description": "Rick richt zich op een bommenrichter uit WO II. Raakt hij de roos of schiet hij zichzelf in de voet? Vervolgens brengt een verkoper enkele antieke kwakzalverflessen binnen. Koopt Chum het oude spul of is de pil moeilijk door te slikken?",
     "category": [
       "Reality",
@@ -60,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1790298000000:48zb9",
+    "id": "play6:1790297400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1790298000000,
-    "end": 1790305200000,
+    "start": 1790297400000,
+    "end": 1790304600000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:16ebae7d38c51c6f666528f08d75c0ed7d86adbd",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1790304600000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1790304600000,
+    "end": 1790305200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:bc22fa1111639f51cbde6dbfb31bd6ebd340b23e",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

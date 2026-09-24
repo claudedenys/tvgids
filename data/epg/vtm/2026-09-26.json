@@ -1,10 +1,10 @@
 [
   {
-    "id": "vtm:1790378100000:iug1rc",
+    "id": "vtm:1790378400000:iug1rc",
     "channel": "vtm",
     "title": "NYPD Blue",
-    "start": 1790378100000,
-    "end": 1790382000000,
+    "start": 1790378400000,
+    "end": 1790381700000,
     "description": "Het verkoolde lichaam van een jonge vrouw wordt ontdekt in een verlaten kelder. Het geluk lacht Medavoy toe terwijl ze een poker spelende informant beschermt.",
     "category": [
       "Misdaaddrama"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "vtm:1790382000000:48zb9",
+    "id": "vtm:1790381700000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1790382000000,
-    "end": 1790385600000,
+    "start": 1790381700000,
+    "end": 1790385300000,
     "description": null,
     "category": [],
     "image": null,
@@ -52,10 +52,10 @@
     }
   },
   {
-    "id": "vtm:1790385600000:48zb9",
+    "id": "vtm:1790385300000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1790385600000,
+    "start": 1790385300000,
     "end": 1790394300000,
     "description": null,
     "category": [],
@@ -808,61 +808,33 @@
     }
   },
   {
-    "id": "vtm:1790455500000:nf6cog",
+    "id": "vtm:1790455500000:5yajgp",
     "channel": "vtm",
-    "title": "Helden van hier: De MUG heli",
+    "title": "Liefde voor muziek",
     "start": 1790455500000,
-    "end": 1790459700000,
-    "description": "Een man vertoont alarmerende symptomen die wijzen op een beroerte, terwijl een vijfjarige jongen een epilepsieaanval krijgt in de auto. Een vrouw met borstpijn zoekt wanhopig naar haar verdwenen kat. Een motorrijder raakt zwaargewond na een ongeval.",
+    "end": 1790460000000,
+    "description": "Koen en Kris Wauters beleefden hun vorige deelname aan 'Liefde voor Muziek' heel verschillend. Voor Koen was het een donkere periode en hij hoopt dat hij er nu meer van kan genieten.",
     "category": [
-      "Docu",
-      "Medisch"
+      "Muziek",
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33915698~~2FEP053717820013%2Cimi%3Ac458f2b97afb040c9aa96504bf20b885c6e04b17/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26992617~~2FEP037689180040%2Cimi%3A1d233717fec874d7b334df206bbdd29a3330b0a6/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 3,
-    "episode": 4,
+    "season": 10,
+    "episode": 3,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33915698~~2FEP053717820013,imi:c458f2b97afb040c9aa96504bf20b885c6e04b17",
-      "episodeName": "Aflevering 4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26992617~~2FEP037689180040,imi:1d233717fec874d7b334df206bbdd29a3330b0a6",
+      "episodeName": "Songs van Clouseau",
       "genres": [
-        "Docu",
-        "Medisch"
+        "Muziek",
+        "Entertainment"
       ],
-      "productionDate": "2026",
+      "productionDate": "2024",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28645979~~2FSH053717820000"
-    }
-  },
-  {
-    "id": "vtm:1790459700000:43cyub",
-    "channel": "vtm",
-    "title": "De Inspecteurs",
-    "start": 1790459700000,
-    "end": 1790463600000,
-    "description": "Op de Maasplassen nemen inspecteurs pleziervaarders onder de loep. Elders ontdekken ze een verloederde huurwoning, controleren ze zonnebanken en loopt een controle op zee gespannen af.",
-    "category": [
-      "Reality"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34046779~~2FEP065844030002%2Cimi%3Abd2152417e2e5177ca6a2c91ba4221f64bce40ed/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 2,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34046779~~2FEP065844030002,imi:bd2152417e2e5177ca6a2c91ba4221f64bce40ed",
-      "episodeName": "Aflevering 2",
-      "genres": [
-        "Reality"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33944059~~2FSH065844030000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F309e8a3d-52ef-40e7-b6c1-1407ea5dc3a8"
     }
   }
 ]

@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1790205120000,
     "end": 1790227500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1790200800000,
     "end": 1790222400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +124,7 @@
     "sport": null,
     "start": 1790222400000,
     "end": 1790244000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +193,7 @@
     "sport": null,
     "start": 1790208600000,
     "end": 1790226000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": "Tennis",
     "start": 1790199960000,
     "end": 1790211180000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -239,7 +239,7 @@
     "sport": null,
     "start": 1790211180000,
     "end": 1790226000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -262,7 +262,7 @@
     "sport": "Motorsport",
     "start": 1790226000000,
     "end": 1790229540000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Autodromo Nazionale di Monza in Monza, Italië.",
     "source": "epg",
     "platforms": [
@@ -285,7 +285,7 @@
     "sport": "Tennis",
     "start": 1790229540000,
     "end": 1790240700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -400,7 +400,7 @@
     "sport": null,
     "start": 1790200800000,
     "end": 1790222400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -423,7 +423,7 @@
     "sport": null,
     "start": 1790222400000,
     "end": 1790244000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -492,7 +492,7 @@
     "sport": "Golf",
     "start": 1790204400000,
     "end": 1790211600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de La Sella Open, gespeeld in Denia, Spanje.",
     "source": "epg",
     "platforms": [
@@ -515,7 +515,7 @@
     "sport": "Golf",
     "start": 1790211600000,
     "end": 1790213400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de BMW PGA Championship, gespeeld op de Wentworth Club in Virginia Water, Engeland.",
     "source": "epg",
     "platforms": [
@@ -537,32 +537,9 @@
     "competition": null,
     "sport": "Golf",
     "start": 1790213400000,
-    "end": 1790215200000,
-    "status": "aankomend",
-    "description": "Hoogtepunten van de English Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1790215200000:mkyqbr",
-    "externalId": null,
-    "title": "TOUR Championship",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1790215200000,
     "end": 1790218800000,
-    "status": "aankomend",
-    "description": "Hoogtepunten van de TOUR Championship, gespeeld op de East Lake Golf Club in Atlanta, Georgia.",
+    "status": "afgelopen",
+    "description": "Hoogtepunten van de English Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -583,8 +560,8 @@
     "competition": null,
     "sport": "Golf",
     "start": 1790218800000,
-    "end": 1790224500000,
-    "status": "aankomend",
+    "end": 1790225940000,
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de La Sella Open, gespeeld in Denia, Spanje.",
     "source": "epg",
     "platforms": [
@@ -598,16 +575,16 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1790224500000:zzkb3f",
+    "id": "sport:playsports-golf:1790225940000:zzkb3f",
     "externalId": null,
     "title": "BMW PGA Championship: Dag 4",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1790224500000,
+    "start": 1790225940000,
     "end": 1790236800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de BMW PGA Championship, gespeeld in Virginia Water, Engeland.",
     "source": "epg",
     "platforms": [
@@ -630,7 +607,7 @@
     "sport": "Golf",
     "start": 1790236800000,
     "end": 1790244000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de vierde en laatste dag van de La Sella Open, gespeeld in Denia, Spanje.",
     "source": "epg",
     "platforms": [
@@ -745,7 +722,7 @@
     "sport": "Voetbal",
     "start": 1790227500000,
     "end": 1790233740000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -768,7 +745,7 @@
     "sport": "Voetbal",
     "start": 1790233740000,
     "end": 1790239920000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -791,7 +768,7 @@
     "sport": "Voetbal",
     "start": 1790239920000,
     "end": 1790246040000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -952,7 +929,7 @@
     "sport": "Voetbal",
     "start": 1790202600000,
     "end": 1790208600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -975,7 +952,7 @@
     "sport": "Voetbal",
     "start": 1790226000000,
     "end": 1790232300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -998,7 +975,7 @@
     "sport": "Voetbal",
     "start": 1790232300000,
     "end": 1790238480000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1021,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1790238480000,
     "end": 1790245080000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1182,7 @@
     "sport": null,
     "start": 1790240700000,
     "end": 1790244060000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "source": "epg",
     "platforms": [

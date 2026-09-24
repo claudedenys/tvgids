@@ -5,7 +5,7 @@
     "title": "Nieuwsuur",
     "start": 1790200200000,
     "end": 1790202900000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * De Chinese president Xi brengt een staatsbezoek aan de Verenigde Staten.",
     "category": [
       "Actueel"
     ],
@@ -30,7 +30,7 @@
     "title": "Nieuwsuur",
     "start": 1790202900000,
     "end": 1790226000000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * De Chinese president Xi brengt een staatsbezoek aan de Verenigde Staten.",
     "category": [
       "Actueel"
     ],
@@ -212,7 +212,7 @@
     "channel": "npo2",
     "title": "Nieuwsuur",
     "start": 1790236200000,
-    "end": 1790239200000,
+    "end": 1790238900000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
       "Actueel"
@@ -233,11 +233,11 @@
     }
   },
   {
-    "id": "npo2:1790239200000:a12qya",
+    "id": "npo2:1790238900000:a12qya",
     "channel": "npo2",
     "title": "Noord-Zuid-Oost-West",
-    "start": 1790239200000,
-    "end": 1790241300000,
+    "start": 1790238900000,
+    "end": 1790241000000,
     "description": "Presentator Francis Broekhuijsen zoekt naar tweedehandsspullen met een verhaal.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/noord-zuid-oost-west-768380012.jpg",
@@ -255,14 +255,14 @@
     }
   },
   {
-    "id": "npo2:1790241300000:14ri0ia",
+    "id": "npo2:1790241000000:14ri0ia",
     "channel": "npo2",
     "title": "BinnensteBuiten",
-    "start": 1790241300000,
+    "start": 1790241000000,
     "end": 1790243100000,
     "description": "Met in deze uitzending: * In Amsterdam woont Coen op de plek waar hij is opgegroeid; een prachtig oud schip.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/binnenstebuiten-774204062.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -346,7 +346,7 @@
     "channel": "npo2",
     "title": "Tussen kunst en kitsch extra",
     "start": 1790245800000,
-    "end": 1790246760000,
+    "end": 1790246940000,
     "description": "Kitty Laméris deed in 2018 een bijzondere ontdekking: ze herkende een hensbeker van de Friese adel en taxeerde de...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tussen-kunst-en-kitsch-extra-768382002.jpg",
@@ -364,10 +364,10 @@
     }
   },
   {
-    "id": "npo2:1790246760000:1ttndez",
+    "id": "npo2:1790246940000:1ttndez",
     "channel": "npo2",
     "title": "Socutera",
-    "start": 1790246760000,
+    "start": 1790246940000,
     "end": 1790247600000,
     "description": "Fairtrade zet zich in voor eerlijke handel en betere leef- en werkomstandigheden van boeren en werknemers wereldwijd,...",
     "category": [],
@@ -391,7 +391,7 @@
     "title": "NOS Journaal",
     "start": 1790247600000,
     "end": 1790248800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Voetbal: training Oranje * Welrennen: WK in 2034 in Nederland.....",
     "category": [
       "Actueel"
     ],
@@ -405,7 +405,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -437,7 +438,7 @@
     "title": "Pauscast",
     "start": 1790250900000,
     "end": 1790252700000,
-    "description": "Stijn Fens bespreekt het laatste nieuws uit de wereld van paus Leo XIV en het Vaticaan.",
+    "description": "Wie er binnenkomt, hapt naar adem.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauscast-766067412.jpg",
     "icon": null,
@@ -480,7 +481,7 @@
     "channel": "npo2",
     "title": "Pointer",
     "start": 1790254800000,
-    "end": 1790256300000,
+    "end": 1790256600000,
     "description": "Deze zomer staat Europa in brand met grote bosbranden in Frankrijk, Spanje, en België.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pointer-770557662.jpg",
@@ -498,10 +499,10 @@
     }
   },
   {
-    "id": "npo2:1790256300000:s1060",
+    "id": "npo2:1790256600000:s1060",
     "channel": "npo2",
     "title": "VPRO Vrije geluiden sessies",
-    "start": 1790256300000,
+    "start": 1790256600000,
     "end": 1790258400000,
     "description": "Het debuutalbum 'Taiga Trans' van de Zweedse band Fauna klinkt als een hypnotiserende en dansbare smeltkroes, waarin...",
     "category": [],

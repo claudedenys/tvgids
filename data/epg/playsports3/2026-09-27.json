@@ -142,11 +142,41 @@
     }
   },
   {
-    "id": "playsports3:1790508600000:3tkxx5",
+    "id": "playsports3:1790508600000:11quqlf",
+    "channel": "playsports3",
+    "title": "The Paddock On Tour",
+    "start": 1790508600000,
+    "end": 1790509500000,
+    "description": "Sam is bijna jarig en Dennis verrast hem met een wel heel speciale kans. Zijn droom om in een F1-bolide te rijden komt nu wel heel dichtbij.",
+    "category": [
+      "Motorsport",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006%2Cimi%3Ae8ab9da14e1282aff85209a849ca593137dcbdce/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006,imi:e8ab9da14e1282aff85209a849ca593137dcbdce",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Motorsport",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
+    }
+  },
+  {
+    "id": "playsports3:1790509500000:3tkxx5",
     "channel": "playsports3",
     "title": "MIDMID",
-    "start": 1790508600000,
-    "end": 1790514540000,
+    "start": 1790509500000,
+    "end": 1790515500000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
     "category": [
       "Voetbal",
@@ -172,11 +202,11 @@
     }
   },
   {
-    "id": "playsports3:1790514540000:1va4v2m",
+    "id": "playsports3:1790515500000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790514540000,
-    "end": 1790520780000,
+    "start": 1790515500000,
+    "end": 1790521740000,
     "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -202,11 +232,11 @@
     }
   },
   {
-    "id": "playsports3:1790520780000:1va4v2m",
+    "id": "playsports3:1790521740000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790520780000,
-    "end": 1790527140000,
+    "start": 1790521740000,
+    "end": 1790528100000,
     "description": "Verslag van de wedstrijd FC Twente - PSV uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -232,11 +262,11 @@
     }
   },
   {
-    "id": "playsports3:1790527140000:1va4v2m",
+    "id": "playsports3:1790528100000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790527140000,
-    "end": 1790533380000,
+    "start": 1790528100000,
+    "end": 1790534340000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -262,11 +292,11 @@
     }
   },
   {
-    "id": "playsports3:1790533380000:ear1gl",
+    "id": "playsports3:1790534340000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790533380000,
-    "end": 1790539680000,
+    "start": 1790534340000,
+    "end": 1790540640000,
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -292,11 +322,11 @@
     }
   },
   {
-    "id": "playsports3:1790539680000:ear1gl",
+    "id": "playsports3:1790540640000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790539680000,
-    "end": 1790546040000,
+    "start": 1790540640000,
+    "end": 1790547000000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -319,36 +349,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
-    }
-  },
-  {
-    "id": "playsports3:1790546040000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1790546040000,
-    "end": 1790552040000,
-    "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558227~~2FEP035850991997%2Cimi%3Ad4355cfb96e682c5cf4236d167e918f6a5fc1032/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026091597,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558227~~2FEP035850991997,imi:d4355cfb96e682c5cf4236d167e918f6a5fc1032",
-      "episodeName": "Ajax - Willem II",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   }
 ]

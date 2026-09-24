@@ -1,9 +1,33 @@
 [
   {
-    "id": "vtm:1790467200000:48zb9",
+    "id": "vtm:1790463900000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1790467200000,
+    "start": 1790463900000,
+    "end": 1790467500000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ab1b5c9f7a7b401fc91388cc6203f1386f1f2922",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm:1790467500000:48zb9",
+    "channel": "vtm",
+    "title": "Geen uitzending",
+    "start": 1790467500000,
     "end": 1790481900000,
     "description": null,
     "category": [],
