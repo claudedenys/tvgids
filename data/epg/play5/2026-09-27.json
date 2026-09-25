@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1790467200000:dswtyn",
+    "id": "play5:1790466900000:dswtyn",
     "channel": "play5",
     "title": "Criminal Minds",
-    "start": 1790467200000,
-    "end": 1790470500000,
+    "start": 1790466900000,
+    "end": 1790470200000,
     "description": "Reid krijgt een anoniem telefoontje. Hij begrijpt al snel dat zijn vriendin, Maeve, ontvoerd is door haar stalker en schakelt het BAU-team in om haar terug te vinden.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1790470500000:48zb9",
+    "id": "play5:1790470200000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1790470500000,
-    "end": 1790478000000,
+    "start": 1790470200000,
+    "end": 1790477700000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:fb7eb166ecca295c79cf272d23a347cc2414da5d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1790477700000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1790477700000,
+    "end": 1790478000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3cbb3ff2f533a91427e593af75da8c610a980fc3",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

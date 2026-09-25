@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1790290980000,
     "end": 1790315100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1790287200000,
     "end": 1790308800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +124,7 @@
     "sport": null,
     "start": 1790308800000,
     "end": 1790330400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +193,7 @@
     "sport": null,
     "start": 1790295000000,
     "end": 1790308680000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": "Motorsport",
     "start": 1790308680000,
     "end": 1790309400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
     "source": "epg",
     "platforms": [
@@ -239,7 +239,7 @@
     "sport": "Motorsport",
     "start": 1790309400000,
     "end": 1790313000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "source": "epg",
     "platforms": [
@@ -262,7 +262,7 @@
     "sport": null,
     "start": 1790313000000,
     "end": 1790315160000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Een uitgebreid gesprek met Roger De Coster. Hij blikt terug op zijn carrière en vertelt over verschillende aspecten van de motorcross. In gesprek met Kris Meertens haalt Roger interessante verhalen op en deelt hij zijn inzichten over de motorcross.",
     "source": "epg",
     "platforms": [
@@ -285,7 +285,7 @@
     "sport": null,
     "start": 1790327700000,
     "end": 1790328780000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
@@ -308,7 +308,7 @@
     "sport": null,
     "start": 1790328780000,
     "end": 1790331000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Een uitgebreid gesprek met Roger De Coster. Hij blikt terug op zijn carrière en vertelt over verschillende aspecten van de motorcross. In gesprek met Kris Meertens haalt Roger interessante verhalen op en deelt hij zijn inzichten over de motorcross.",
     "source": "epg",
     "platforms": [
@@ -416,15 +416,15 @@
   {
     "id": "sport:playsports3:1790342700000:11quqlf",
     "externalId": null,
-    "title": "Aflevering 3",
+    "title": "Grasmaaierracen",
     "home": null,
     "away": null,
-    "competition": "Formule 1",
+    "competition": null,
     "sport": "Motorsport",
     "start": 1790342700000,
     "end": 1790343600000,
     "status": "aankomend",
-    "description": "Sam is bijna jarig en Dennis verrast hem met een wel heel speciale kans. Zijn droom om in een F1-bolide te rijden komt nu wel heel dichtbij.",
+    "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -469,7 +469,7 @@
     "sport": "Motorsport",
     "start": 1790288520000,
     "end": 1790294880000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
     "source": "epg",
     "platforms": [
@@ -492,7 +492,7 @@
     "sport": null,
     "start": 1790294880000,
     "end": 1790299200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Milf Saar is een Vlaamse sekskoningin. Deze seksfilms heeft ze een heerlijke tuin gangbang en ontmoet ze haar hete toyboy voor een potje buitenseks.",
     "source": "epg",
     "platforms": [
@@ -515,7 +515,7 @@
     "sport": null,
     "start": 1790299200000,
     "end": 1790312400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -538,7 +538,7 @@
     "sport": "Tennis",
     "start": 1790312400000,
     "end": 1790318760000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -561,7 +561,7 @@
     "sport": "Motorsport",
     "start": 1790318760000,
     "end": 1790324340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Live verslagen van races gereden in de Formule 2.",
     "source": "epg",
     "platforms": [
@@ -584,7 +584,7 @@
     "sport": "Motorsport",
     "start": 1790324340000,
     "end": 1790330700000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijden gereden in de Formule 1. Het beste uit de competitie, met vrije trainingen, kwalificaties en races.",
     "source": "epg",
     "platforms": [
@@ -699,7 +699,7 @@
     "sport": null,
     "start": 1790287200000,
     "end": 1790308800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -722,7 +722,7 @@
     "sport": null,
     "start": 1790308800000,
     "end": 1790330400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -791,7 +791,7 @@
     "sport": "Golf",
     "start": 1790290800000,
     "end": 1790301600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de FedEx Open de France, gespeeld in Saint-Quentin-en-Yvelines, Frankrijk.",
     "source": "epg",
     "platforms": [
@@ -814,7 +814,7 @@
     "sport": "Golf",
     "start": 1790301600000,
     "end": 1790312340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van The Presidents Cup 2026, gespeeld in Medinah, Illinois.",
     "source": "epg",
     "platforms": [
@@ -837,7 +837,7 @@
     "sport": "Golf",
     "start": 1790312340000,
     "end": 1790323200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de FedEx Open de France, gespeeld in Saint-Quentin-en-Yvelines, Frankrijk.",
     "source": "epg",
     "platforms": [
@@ -860,7 +860,7 @@
     "sport": "Golf",
     "start": 1790323200000,
     "end": 1790334000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de eerste dag van The Presidents Cup 2026, gespeeld in Medinah, Illinois.",
     "source": "epg",
     "platforms": [
@@ -998,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1790315100000,
     "end": 1790321400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1021,7 +1021,7 @@
     "sport": "Voetbal",
     "start": 1790321400000,
     "end": 1790328180000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1044,7 +1044,7 @@
     "sport": "Voetbal",
     "start": 1790328180000,
     "end": 1790334480000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1205,7 @@
     "sport": "Voetbal",
     "start": 1790289000000,
     "end": 1790295000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1228,7 @@
     "sport": "Voetbal",
     "start": 1790315160000,
     "end": 1790321460000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd FC Twente - PSV uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1251,7 +1251,7 @@
     "sport": "Voetbal",
     "start": 1790321460000,
     "end": 1790327700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [

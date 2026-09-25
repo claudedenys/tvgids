@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "How to Get Away With Murder",
     "start": 1790378700000,
-    "end": 1790382300000,
+    "end": 1790382000000,
     "description": "The Keating 5 wordt ondervraagd door A.D.A Denver over de avond dat Emily Sinclair werd vermoord. Ondertussen raakt Caleb vermist tijdens de klopjacht op Philip. Annalises tactiek in de zaak Mahoney leidde tot een vernietigend resultaat.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1790382300000:48zb9",
+    "id": "play5:1790382000000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1790382300000,
-    "end": 1790395500000,
+    "start": 1790382000000,
+    "end": 1790391300000,
     "description": null,
     "category": [],
     "image": null,
@@ -51,6 +51,84 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1790391300000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1790391300000,
+    "end": 1790391600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:7107d4140633821bf7ebce64d9b58c9858bf0748",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1790391600000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1790391600000,
+    "end": 1790393100000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:63c5a878ebe9cca0242fa07433a63851c911fa6e",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1790393100000:br4tdi",
+    "channel": "play5",
+    "title": "FBI: Most Wanted",
+    "start": 1790393100000,
+    "end": 1790395500000,
+    "description": "Het team achtervolgt een oligarch die op terreur uit is in een wanhopige poging om te ontsnappen.",
+    "category": [
+      "Misdaaddrama",
+      "Actie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21924249~~2FEP036505670050%2Cimi%3A89376bdb0800db1e413fc3eec33f48aa18490a45/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 22,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21924249~~2FEP036505670050,imi:89376bdb0800db1e413fc3eec33f48aa18490a45",
+      "episodeName": "A Man Without a Country",
+      "genres": [
+        "Misdaaddrama",
+        "Actie"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F16945418~~2FSH036505670000"
     }
   },
   {
@@ -172,7 +250,7 @@
     "channel": "play5",
     "title": "FBI: Most Wanted",
     "start": 1790404800000,
-    "end": 1790408100000,
+    "end": 1790407800000,
     "description": "Nadat een hoogleraar geologie wordt vermoord, ontdekt het team een oude legende over een geheime schat. Ze komen een gevaarlijke voortvluchtige op het spoor die bereid is om te doden om het goud te vinden.",
     "category": [
       "Misdaaddrama",
@@ -198,10 +276,10 @@
     }
   },
   {
-    "id": "play5:1790408100000:br4tdi",
+    "id": "play5:1790407800000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1790408100000,
+    "start": 1790407800000,
     "end": 1790411100000,
     "description": "Hana wordt ontvoerd terwijl ze bij een parkeerplaats een jong meisje in gevaar probeert te helpen. Remy en de rest van het team stellen vervolgens alles in het werk om haar te vinden.",
     "category": [
@@ -292,7 +370,7 @@
     "channel": "play5",
     "title": "FBI: Most Wanted",
     "start": 1790417400000,
-    "end": 1790420400000,
+    "end": 1790420700000,
     "description": "Drie aanklagers worden vermoord buiten een bar in een klein stadje in Arkansas. Het team onderzoekt of dit een persoonlijke wraakactie was. Ray voelt zich geroepen om een vrouw en haar jonge zoon te helpen in de strijd tegen onrecht.",
     "category": [
       "Misdaaddrama",
@@ -318,11 +396,11 @@
     }
   },
   {
-    "id": "play5:1790420400000:br4tdi",
+    "id": "play5:1790420700000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1790420400000,
-    "end": 1790423700000,
+    "start": 1790420700000,
+    "end": 1790424000000,
     "description": "Een beroemde kinderpsychiater wordt ontvoerd door het familielid van een voormalige cliënt. Het team gaat op zoek naar de psychiater en de dader, waarbij ze ontdekken wat er werkelijk is gebeurd met de cliënt. Kristin confronteert haar eigen trauma.",
     "category": [
       "Misdaaddrama",
@@ -348,11 +426,11 @@
     }
   },
   {
-    "id": "play5:1790423700000:yknhhu",
+    "id": "play5:1790424000000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1790423700000,
-    "end": 1790427000000,
+    "start": 1790424000000,
+    "end": 1790427300000,
     "description": "Na een hackeraanval op NCIS wordt een undercoveragent gedood. Kort daarna kan het team de verantwoordelijke voor de aanval inrekenen, maar Ajay Khan geeft niet zo snel zijn opdrachtgever prijs.",
     "category": [
       "Misdaaddrama",
@@ -378,10 +456,10 @@
     }
   },
   {
-    "id": "play5:1790427000000:yknhhu",
+    "id": "play5:1790427300000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1790427000000,
+    "start": 1790427300000,
     "end": 1790430300000,
     "description": "Directeur Vance neemt verlof en probeert het verdriet over zijn vermoorde vrouw een plek te geven. Echter, wanneer hij nieuwe informatie ontdekt, begint hij overal aan te twijfelen.",
     "category": [
@@ -442,7 +520,7 @@
     "channel": "play5",
     "title": "NCIS",
     "start": 1790433600000,
-    "end": 1790436900000,
+    "end": 1790437200000,
     "description": "In Washington D.C. worden meerdere vrouwen gedood op dezelfde wijze als een drie jaar oude televisieserie. Frankie Dean, de kapper van Gibbs, is bang dat zijn zoon de dader is en vraagt Gibbs om hulp.",
     "category": [
       "Misdaaddrama",
@@ -468,11 +546,11 @@
     }
   },
   {
-    "id": "play5:1790436900000:yknhhu",
+    "id": "play5:1790437200000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1790436900000,
-    "end": 1790440200000,
+    "start": 1790437200000,
+    "end": 1790440500000,
     "description": "Ted Lemere, een marinier gespecialiseerd in het opsporen van K9-bommen, is gedood in Afghanistan. Zijn vrouw gelooft dat Teds dood iets te heeft met een kostbare ketting, die cadeau had gekregen. Het team begint een onderzoek in Afghanistan.",
     "category": [
       "Misdaaddrama",
@@ -498,11 +576,11 @@
     }
   },
   {
-    "id": "play5:1790440200000:yknhhu",
+    "id": "play5:1790440500000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1790440200000,
-    "end": 1790443500000,
+    "start": 1790440500000,
+    "end": 1790443800000,
     "description": "Een hevige storm brengt het team aan boord van de USS Borealis, waar een arts is vermoord. McGee ontdekt dat zijn vader ook aan boord is en ernstig ziek is, iets waar de arts vanaf wist.",
     "category": [
       "Misdaaddrama",
@@ -528,10 +606,10 @@
     }
   },
   {
-    "id": "play5:1790443500000:yknhhu",
+    "id": "play5:1790443800000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1790443500000,
+    "start": 1790443800000,
     "end": 1790446800000,
     "description": "Wanneer een Marinereservist thuiskomt, is haar man vermist en in de huiskamer ligt bloed. Ze vraagt het team om hulp. Ondertussen vermoedt Tony dat Ziva de dood van haar vader wil wreken.",
     "category": [
@@ -682,7 +760,7 @@
     "channel": "play5",
     "title": "Criminal Minds",
     "start": 1790459700000,
-    "end": 1790463600000,
+    "end": 1790463300000,
     "description": "In een stadje in Arizona worden enkele lichamen gevonden die op een bizarre manier werden achtergelaten. Rossi en zijn team vermoeden een seriemoordenaar. Reid denkt dat de vrouw met wie hij al een tijdje contact heeft, gestalkt wordt.",
     "category": [
       "Dramaserie",

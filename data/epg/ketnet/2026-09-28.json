@@ -260,7 +260,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1790570100000,
-    "end": 1790570700000,
+    "end": 1790570400000,
     "description": "Dropje helpt de grote zus om net als haar babyzusje de aandacht te krijgen van haar moeder.",
     "category": [
       "Kids",
@@ -286,11 +286,11 @@
     }
   },
   {
-    "id": "ketnet:1790570700000:out9ds",
+    "id": "ketnet:1790570400000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1790570700000,
-    "end": 1790571000000,
+    "start": 1790570400000,
+    "end": 1790570700000,
     "description": "Sarah zingt samen met haar vriendjes de leukste kinderliedjes, en iedereen doet mee.",
     "category": [
       "Kunstnijverheid"
@@ -314,11 +314,11 @@
     }
   },
   {
-    "id": "ketnet:1790571000000:ykedwl",
+    "id": "ketnet:1790570700000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1790571000000,
-    "end": 1790571600000,
+    "start": 1790570700000,
+    "end": 1790571300000,
     "description": "Bing is bezig om met zijn blokken een toren te maken die net zo groot is als hijzelf en hij wordt boos als Coco binnenkomt en zijn blokken afpakt om er een regenboog mee te maken. Charlie wil ook nog met de blokken spelen.",
     "category": [
       "Kids",
@@ -344,11 +344,11 @@
     }
   },
   {
-    "id": "ketnet:1790571600000:1ysf81w",
+    "id": "ketnet:1790571300000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1790571600000,
-    "end": 1790572200000,
+    "start": 1790571300000,
+    "end": 1790571900000,
     "description": "Dot wil het verjaardagscadeautje van oma Nan te vroeg openen. Mojo en Bo doen er alles aan om het pakje veilig te bewaren tot het feest begint.",
     "category": [
       "Kids",
@@ -374,11 +374,11 @@
     }
   },
   {
-    "id": "ketnet:1790572200000:dvn84u",
+    "id": "ketnet:1790571900000:dvn84u",
     "channel": "ketnet",
     "title": "Sarah knutselt",
-    "start": 1790572200000,
-    "end": 1790572500000,
+    "start": 1790571900000,
+    "end": 1790572200000,
     "description": "Sarah knutselt samen met haar vriendjes de leukste knutselwerkjes.",
     "category": [
       "Kids",
@@ -404,11 +404,11 @@
     }
   },
   {
-    "id": "ketnet:1790572500000:ne1xug",
+    "id": "ketnet:1790572200000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1790572500000,
-    "end": 1790573100000,
+    "start": 1790572200000,
+    "end": 1790572800000,
     "description": "Fiona is aan het babysitten op de konijntjes, maar die zijn veel te opgewonden en maken een rommeltje. Ze heeft de hulp van de biggen nodig, maar hoe kunnen ze helpen als ze de kans niet krijgen?",
     "category": [
       "Kids",
@@ -431,6 +431,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1790572800000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1790572800000,
+    "end": 1790573100000,
+    "description": "De burgemeester is jarig. Marie heeft een leuk idee. Ze wil doen alsof ze de verjaardag van de burgemeester vergeten is om daarna extra toe te slaan met een groots feest. Maar de burgemeester is er stiekem echt van aangedaan.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19556503~~2FEP036193980062%2Cimi%3A5ee043045dd5c8e9f76004e95f4edd44b686e8df/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 66,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19556503~~2FEP036193980062,imi:5ee043045dd5c8e9f76004e95f4edd44b686e8df",
+      "episodeName": "De burgemeester jarig",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {

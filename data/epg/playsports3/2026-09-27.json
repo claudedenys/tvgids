@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1790467200000:xykime",
+    "id": "playsports3:1790466900000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1790467200000,
-    "end": 1790485200000,
+    "start": 1790466900000,
+    "end": 1790486880000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,35 +28,11 @@
     }
   },
   {
-    "id": "playsports3:1790485200000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1790485200000,
-    "end": 1790487000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d23d55e304a8b9db5312090af9fd14e000863840",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1790487000000:1va4v2m",
+    "id": "playsports3:1790486880000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790487000000,
-    "end": 1790493300000,
+    "start": 1790486880000,
+    "end": 1790493180000,
     "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -82,10 +58,10 @@
     }
   },
   {
-    "id": "playsports3:1790493300000:1va4v2m",
+    "id": "playsports3:1790493180000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790493300000,
+    "start": 1790493180000,
     "end": 1790499600000,
     "description": "Verslag van de wedstrijd FC Twente - PSV uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -112,33 +88,33 @@
     }
   },
   {
-    "id": "playsports3:1790499600000:6zfraa",
+    "id": "playsports3:1790499600000:182jlas",
     "channel": "playsports3",
-    "title": "WTA Tennis",
+    "title": "Tennis: Singapore Open 2026",
     "start": 1790499600000,
     "end": 1790508600000,
-    "description": "Verslagen van de wedstrijden uit het WTA tennis.",
+    "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
       "Tennis"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34117209~~2FEP029491281292%2Cimi%3A7e5f4d7a06a98fe7666216af2e3a0a40708613ad/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34195376~~2FEP066298740003%2Cimi%3A4a40a786693ff545c0752ff406116e8ef008631f/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 91280000,
-    "episode": 2026092792,
+    "season": 98740000,
+    "episode": 2026092703,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34117209~~2FEP029491281292,imi:7e5f4d7a06a98fe7666216af2e3a0a40708613ad",
-      "episodeName": "Eastbourne & Bad Homburg",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34195376~~2FEP066298740003,imi:4a40a786693ff545c0752ff406116e8ef008631f",
+      "episodeName": "WTA500: Dag 7, Finale",
       "genres": [
         "Sport",
         "Tennis"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F9658b94d-9a55-46df-a16e-e4f196df5562"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379823~~2FSH066298740000"
     }
   },
   {
@@ -147,10 +123,10 @@
     "title": "The Paddock On Tour",
     "start": 1790508600000,
     "end": 1790509500000,
-    "description": "Sam is bijna jarig en Dennis verrast hem met een wel heel speciale kans. Zijn droom om in een F1-bolide te rijden komt nu wel heel dichtbij.",
+    "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
     "category": [
-      "Motorsport",
-      "Sporttalkshow"
+      "Sport",
+      "Motorsport"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006%2Cimi%3Ae8ab9da14e1282aff85209a849ca593137dcbdce/posterTile",
     "icon": null,
@@ -161,10 +137,10 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006,imi:e8ab9da14e1282aff85209a849ca593137dcbdce",
-      "episodeName": "Aflevering 3",
+      "episodeName": "Grasmaaierracen",
       "genres": [
-        "Motorsport",
-        "Sporttalkshow"
+        "Sport",
+        "Motorsport"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
@@ -176,7 +152,7 @@
     "channel": "playsports3",
     "title": "MIDMID",
     "start": 1790509500000,
-    "end": 1790515500000,
+    "end": 1790515440000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Lorin Parys.",
     "category": [
       "Voetbal",
@@ -202,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1790515500000:1va4v2m",
+    "id": "playsports3:1790515440000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790515500000,
-    "end": 1790521740000,
+    "start": 1790515440000,
+    "end": 1790521860000,
     "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -232,11 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1790521740000:1va4v2m",
+    "id": "playsports3:1790521860000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790521740000,
-    "end": 1790528100000,
+    "start": 1790521860000,
+    "end": 1790528280000,
     "description": "Verslag van de wedstrijd FC Twente - PSV uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -262,11 +238,11 @@
     }
   },
   {
-    "id": "playsports3:1790528100000:1va4v2m",
+    "id": "playsports3:1790528280000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790528100000,
-    "end": 1790534340000,
+    "start": 1790528280000,
+    "end": 1790534580000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -292,11 +268,11 @@
     }
   },
   {
-    "id": "playsports3:1790534340000:ear1gl",
+    "id": "playsports3:1790534580000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790534340000,
-    "end": 1790540640000,
+    "start": 1790534580000,
+    "end": 1790540940000,
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -322,11 +298,11 @@
     }
   },
   {
-    "id": "playsports3:1790540640000:ear1gl",
+    "id": "playsports3:1790540940000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790540640000,
-    "end": 1790547000000,
+    "start": 1790540940000,
+    "end": 1790547120000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",

@@ -27,7 +27,7 @@
     "title": "NOS Journaal",
     "start": 1790373900000,
     "end": 1790375400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met sport: * Voetbal: Oranje op weg naar Servie?",
     "category": [
       "Actueel"
     ],
@@ -123,7 +123,7 @@
     "title": "NOS Journaal",
     "start": 1790379000000,
     "end": 1790380200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met sport: * Voetbal: Oranje op weg naar Servie?",
     "category": [
       "Actueel"
     ],
@@ -638,7 +638,7 @@
     "channel": "npo1",
     "title": "Dit was het nieuws",
     "start": 1790454000000,
-    "end": 1790457000000,
+    "end": 1790457300000,
     "description": "Harm Edens, Jan Jaap van der Wal en Peter Pannekoek leggen het nieuws van de afgelopen week onder de satirische loep.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/dit-was-het-nieuws-771870752.jpg",
@@ -656,10 +656,10 @@
     }
   },
   {
-    "id": "npo1:1790457000000:1f18jbp",
+    "id": "npo1:1790457300000:1f18jbp",
     "channel": "npo1",
     "title": "Studio sport",
-    "start": 1790457000000,
+    "start": 1790457300000,
     "end": 1790459100000,
     "description": "Met livebeelden en samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
     "category": [
@@ -684,7 +684,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790459100000,
-    "end": 1790459700000,
+    "end": 1790460000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -700,29 +700,6 @@
       "labels": [
         "program",
         "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1790459700000:aezw80",
-    "channel": "npo1",
-    "title": "Wolven",
-    "start": 1790459700000,
-    "end": 1790462700000,
-    "description": "De druk neemt toe nu de spelers beseffen dat ze niet dichter bij de waarheid zijn gekomen.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/w/carrousel/wolven-771514132.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun",
-        "audiodescription"
       ]
     }
   }

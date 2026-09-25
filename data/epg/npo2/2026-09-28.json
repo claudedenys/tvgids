@@ -142,7 +142,7 @@
     "title": "Tijd voor MAX",
     "start": 1790572500000,
     "end": 1790575200000,
-    "description": "Met in deze tijd: * Heel Holland Bakt Kids is terug met een nieuw seizoen.",
+    "description": "Met in deze uitzending: * Heel Holland Bakt Kids is terug met een nieuw seizoen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-776217922.jpg",
     "icon": null,
@@ -496,7 +496,7 @@
     "channel": "npo2",
     "title": "2 meter sessies",
     "start": 1790600400000,
-    "end": 1790602440000,
+    "end": 1790602500000,
     "description": "Sessie uit 2024 met de Belgische band Ão, die op hun debuutplaat 'Ao Mar' indruk maken met een sound die saudade,...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/2/carrousel/2-meter-sessies-769873352.jpg",
@@ -511,11 +511,33 @@
     }
   },
   {
-    "id": "npo2:1790602440000:yxmmfb",
+    "id": "npo2:1790602500000:r3sp6g",
+    "channel": "npo2",
+    "title": "Nu te zien!",
+    "start": 1790602500000,
+    "end": 1790602800000,
+    "description": "Sietske van Zanten, directeur van het LAM Museum, bezoekt de tentoonstelling 'Power to the People' in het Valkhof...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nu-te-zien-777055832.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1790602800000:yxmmfb",
     "channel": "npo2",
     "title": "Art dept.",
-    "start": 1790602440000,
-    "end": 1790602800000,
+    "start": 1790602800000,
+    "end": 1790603100000,
     "description": "Twentse cowboy en kunstenaar Bas Schippers maakt schilderijen waarin hij de stereotypische rol van mannelijkheid...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/a/carrousel/art-dept-772536132.jpg",
@@ -530,10 +552,10 @@
     }
   },
   {
-    "id": "npo2:1790602800000:yxmmfb",
+    "id": "npo2:1790603100000:yxmmfb",
     "channel": "npo2",
     "title": "Art dept.",
-    "start": 1790602800000,
+    "start": 1790603100000,
     "end": 1790604000000,
     "description": "Met dromerige schilderijen over nachtmerries gaat Palestijns-Syrisch kunstenaar Ahmad Mallah de wereld tegemoet.",
     "category": [],

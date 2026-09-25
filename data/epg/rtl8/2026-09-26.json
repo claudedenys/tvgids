@@ -1,9 +1,9 @@
 [
   {
-    "id": "rtl8:1790371500000:1ffez6t",
+    "id": "rtl8:1790371860000:1ffez6t",
     "channel": "rtl8",
     "title": "Law & order: Special victims unit",
-    "start": 1790371500000,
+    "start": 1790371860000,
     "end": 1790375100000,
     "description": "Amerikaanse misdaaddramaserie over de Special Victims Unit van de politie in New York.",
     "category": [],
@@ -26,7 +26,7 @@
     "channel": "rtl8",
     "title": "Crime scene investigation",
     "start": 1790375100000,
-    "end": 1790378700000,
+    "end": 1790378340000,
     "description": "Het CSI-team wordt opgeroepen om op onderzoek uit te gaan als er een melding binnenkomt dat de familie Conner al meer...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/c/carrousel/crime-scene-investigation-768709692.jpg",
@@ -44,11 +44,11 @@
     }
   },
   {
-    "id": "rtl8:1790378700000:16iekd8",
+    "id": "rtl8:1790378340000:16iekd8",
     "channel": "rtl8",
     "title": "Teleshop 8: Telvero",
-    "start": 1790378700000,
-    "end": 1790380800000,
+    "start": 1790378340000,
+    "end": 1790380860000,
     "description": "Homeshoppingprogramma.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/teleshop-8-telvero-766327182.jpg",
@@ -108,7 +108,7 @@
     "channel": "rtl8",
     "title": "Teleshop 8: Telvero",
     "start": 1790420400000,
-    "end": 1790436600000,
+    "end": 1790437200000,
     "description": "Homeshoppingprogramma.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/teleshop-8-telvero-766327182.jpg",
@@ -126,11 +126,11 @@
     }
   },
   {
-    "id": "rtl8:1790436600000:v7uxwy",
+    "id": "rtl8:1790437200000:v7uxwy",
     "channel": "rtl8",
     "title": "The cruise: All at sea",
-    "start": 1790436600000,
-    "end": 1790440200000,
+    "start": 1790437200000,
+    "end": 1790440620000,
     "description": "Documentaireserie over de cruiseschepen Scarlet Lady en Valiant van Virgin Voyages.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/the-cruise-all-at-sea-769773682.jpg",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "rtl8:1790440200000:7mr1ge",
+    "id": "rtl8:1790440620000:7mr1ge",
     "channel": "rtl8",
     "title": "The traitors",
-    "start": 1790440200000,
+    "start": 1790440620000,
     "end": 1790445600000,
     "description": "Avontuurlijk spelprogramma waarin 25 mensen in een Schots kasteel de strijd met elkaar aangaan om een prijzenpot van...",
     "category": [],
@@ -171,7 +171,7 @@
     "channel": "rtl8",
     "title": "Aspe",
     "start": 1790445600000,
-    "end": 1790449500000,
+    "end": 1790449320000,
     "description": "Het Brugse voetbaltalent Jan Somers wordt 's avonds na een feestje op straat doodgereden.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/a/carrousel/aspe-768949482.jpg",
@@ -189,11 +189,11 @@
     }
   },
   {
-    "id": "rtl8:1790449500000:ykdumm",
+    "id": "rtl8:1790449320000:ykdumm",
     "channel": "rtl8",
     "title": "Aspe",
-    "start": 1790449500000,
-    "end": 1790453400000,
+    "start": 1790449320000,
+    "end": 1790453220000,
     "description": "Wanneer Kristel Fimmers op bezoek gaat bij haar zus, treft ze haar zus en haar gezin levenloos aan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/a/carrousel/aspe-768949482.jpg",
@@ -211,11 +211,11 @@
     }
   },
   {
-    "id": "rtl8:1790453400000:1ffez6t",
+    "id": "rtl8:1790453220000:1ffez6t",
     "channel": "rtl8",
     "title": "Law & order: Special victims unit",
-    "start": 1790453400000,
-    "end": 1790456700000,
+    "start": 1790453220000,
+    "end": 1790456460000,
     "description": "Een eerstejaarsstudente wordt verkracht door een groep jongens op een feest van hun studentenvereniging.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/l/carrousel/law-order-special-victims-unit-764860832.jpg",
@@ -233,14 +233,36 @@
     }
   },
   {
-    "id": "rtl8:1790456700000:1ffez6t",
+    "id": "rtl8:1790456460000:1ffez6t",
     "channel": "rtl8",
     "title": "Law & order: Special victims unit",
-    "start": 1790456700000,
-    "end": 1790460300000,
+    "start": 1790456460000,
+    "end": 1790459700000,
     "description": "Amerikaanse misdaaddramaserie over de Special Victims Unit van de politie in New York.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/l/carrousel/law-order-special-victims-unit-764860832.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl8:1790459700000:1z0y89z",
+    "channel": "rtl8",
+    "title": "Crime scene investigation",
+    "start": 1790459700000,
+    "end": 1790463360000,
+    "description": "Er breekt paniek uit op het politiebureau van Las Vegas als een jongen het vuur opent op de aanwezigen.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/c/carrousel/crime-scene-investigation-769452792.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

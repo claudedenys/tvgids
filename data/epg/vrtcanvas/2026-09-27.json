@@ -176,7 +176,7 @@
     "channel": "vrtcanvas",
     "title": "Kabul",
     "start": 1790538300000,
-    "end": 1790541300000,
+    "end": 1790541600000,
     "description": "Zahara en Baqir Nazany vestigen al hun hoop op de Franse ambassade. Ondertussen is hun zoon op de vlucht en vallen de Taliban het ziekenhuis binnen waar hun dochter werkt. Vera keert terug naar Kabul met een geheime, persoonlijke missie: het opsporen en evacueren van generaal Hassan. Op de Italiaanse ambassade wordt de jonge diplomaat Giovanni voor het blok gezet.",
     "category": [
       "Dramaserie"
@@ -200,11 +200,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1790541300000:jv7er1",
+    "id": "vrtcanvas:1790541600000:jv7er1",
     "channel": "vrtcanvas",
     "title": "Killing Anna",
-    "start": 1790541300000,
-    "end": 1790545980000,
+    "start": 1790541600000,
+    "end": 1790546340000,
     "description": "Een Syrische academica in Amsterdam ontvangt beelden van een bloedbad onder burgers, gepleegd door een onbekende officier tijdens de oorlog in Syrië. De beelden laten haar niet los. Ze spoort de dader op en doet zich voor als 'Anna' om via Facebook contact te leggen, waarna ze hem verleidt tot een reeks onthullende gesprekken.",
     "category": [
       "Film",
@@ -230,25 +230,25 @@
     }
   },
   {
-    "id": "vrtcanvas:1790545980000:1rw80yh",
+    "id": "vrtcanvas:1790546340000:1rw80yh",
     "channel": "vrtcanvas",
     "title": "Het weer",
-    "start": 1790545980000,
-    "end": 1790546100000,
+    "start": 1790546340000,
+    "end": 1790546700000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
       "Actua"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F549672392%2Cimi%3Ae3cb8b18c94ac3660fd82cc5a7e9aba77f759544/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F549672393%2Cimi%3A8737f0b303a5e959dca5bb7dd5ed13979a7b487a/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 31670000,
-    "episode": 549672392,
+    "episode": 549672393,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F549672392,imi:e3cb8b18c94ac3660fd82cc5a7e9aba77f759544",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F549672393,imi:8737f0b303a5e959dca5bb7dd5ed13979a7b487a",
       "episodeName": null,
       "genres": [
         "Weer",
@@ -257,34 +257,6 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
-    }
-  },
-  {
-    "id": "vrtcanvas:1790546100000:715c2v",
-    "channel": "vrtcanvas",
-    "title": "Nachtlus",
-    "start": 1790546100000,
-    "end": 1790568000000,
-    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
-    "category": [
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816255%2Cimi%3Ab9e1a3f0751673dff7be294a663991226ba18eb2/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 57190000,
-    "episode": 554816255,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816255,imi:b9e1a3f0751673dff7be294a663991226ba18eb2",
-      "episodeName": null,
-      "genres": [
-        "Entertainment"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
     }
   }
 ]

@@ -52,7 +52,7 @@
     "title": "Pauw & De Wit",
     "start": 1790291100000,
     "end": 1790294100000,
-    "description": "Talkshow over de actualiteit.",
+    "description": "Met in deze uitzending: * Vijftien vrouwelijke Kamerleden, van links tot rechts, komen in actie tegen...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-769408732.jpg",
     "icon": null,
@@ -74,7 +74,7 @@
     "title": "EenVandaag",
     "start": 1790294100000,
     "end": 1790295600000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Staatssecretaris wil verplichte cursus voor risicohonden, maar het is de vraag of dat iets...",
     "category": [
       "Actueel"
     ],
@@ -148,8 +148,8 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790298300000,
-    "end": 1790308200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "end": 1790308500000,
+    "description": "Met in deze uitzending: * Debat met minister Van Weel * Meta haalt satirische video...",
     "category": [
       "Actueel"
     ],
@@ -561,7 +561,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790321400000,
-    "end": 1790322000000,
+    "end": 1790322300000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -582,10 +582,10 @@
     }
   },
   {
-    "id": "npo1:1790322000000:1qmbii9",
+    "id": "npo1:1790322300000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1790322000000,
+    "start": 1790322300000,
     "end": 1790323200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -723,9 +723,9 @@
     "title": "Tijd voor MAX",
     "start": 1790327700000,
     "end": 1790330400000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * Roeland Fernhout speelt de hoofdrol in de openingsfilm van het Nederlands Filmfestival.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-776217922.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1035,7 +1035,7 @@
     "title": "Pauw & De Wit",
     "start": 1790342700000,
     "end": 1790346000000,
-    "description": "Talkshow over de actualiteit.",
+    "description": "Met in deze uitzending: * Vijftien vrouwelijke Kamerleden, van links tot rechts, komen in actie tegen...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-769408732.jpg",
     "icon": null,
@@ -1057,9 +1057,9 @@
     "title": "Nederlandstalige Top 1000: Stemweek",
     "start": 1790346000000,
     "end": 1790348400000,
-    "description": "NPO Sterren NL gaat op zoek naar de 1000 beste Nederlandstalige liedjes ooit gemaakt, waarbij portretten en...",
+    "description": "Fans kunnen nu stemmen op hun favoriete Nederlandse liedjes, want van 11 tot en met 16 oktober is de Nederlandstalige...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nederlandstalige-top-1000-stemweek-768634812.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nederlandstalige-top-1000-stemweek-768634822.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1067,7 +1067,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {
@@ -1099,8 +1102,8 @@
     "channel": "npo1",
     "title": "Tijd voor MAX",
     "start": 1790349000000,
-    "end": 1790351760000,
-    "description": "Met in deze tijd: * Heel Holland Bakt Kids is terug met een nieuw seizoen.",
+    "end": 1790351880000,
+    "description": "Met in deze uitzending: * Heel Holland Bakt Kids is terug met een nieuw seizoen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-776217922.jpg",
     "icon": null,
@@ -1114,10 +1117,10 @@
     }
   },
   {
-    "id": "npo1:1790351760000:12b58co",
+    "id": "npo1:1790351880000:12b58co",
     "channel": "npo1",
     "title": "Politieke partijen",
-    "start": 1790351760000,
+    "start": 1790351880000,
     "end": 1790352000000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
@@ -1306,9 +1309,9 @@
     "title": "De slimste mens",
     "start": 1790364000000,
     "end": 1790367300000,
-    "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
+    "description": "De laatste verse gast van de eerste week in De Slimste Mens is Lindsay Zwaan.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-slimste-mens-768635922.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/l/carrousel/lindsayzwaandeslimstemensdeelnemerkroncrv.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1316,7 +1319,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {
