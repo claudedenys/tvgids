@@ -110,7 +110,7 @@
     "channel": "vtm4",
     "title": "Geen uitzending",
     "start": 1790593200000,
-    "end": 1790596200000,
+    "end": 1790597400000,
     "description": null,
     "category": [],
     "image": null,
@@ -130,11 +130,11 @@
     }
   },
   {
-    "id": "vtm4:1790596200000:gmhhx4",
+    "id": "vtm4:1790597400000:gmhhx4",
     "channel": "vtm4",
     "title": "Xena: Warrior Princess",
-    "start": 1790596200000,
-    "end": 1790600100000,
+    "start": 1790597400000,
+    "end": 1790601000000,
     "description": "Wanneer vier gevangenen door hun begeleiders gefolterd worden, komen Xena en Gabrielle tussenbeide. Xena bevrijdt de vier gevangenen en belooft hen te helpen. Ze wil Caesar en Ares een lesje leren en ook heeft ze nog iets goed te maken met Boadicea.",
     "category": [
       "Dramaserie",
@@ -160,11 +160,11 @@
     }
   },
   {
-    "id": "vtm4:1790600100000:1k4oel4",
+    "id": "vtm4:1790601000000:1k4oel4",
     "channel": "vtm4",
     "title": "Stargate SG-1",
-    "start": 1790600100000,
-    "end": 1790603700000,
+    "start": 1790601000000,
+    "end": 1790604300000,
     "description": "Cassandra, die nog steeds bij haar adoptiemoeder dokter Fraser verblijft, viert haar verjaardag. Wanneer haar vriendje Dominic haar kust, valt ze plots bewusteloos neer. Sam en dokter Fraser brengen haar naar de ziekenboeg van het Stargate-centrum.",
     "category": [
       "Sciencefiction",
@@ -190,10 +190,10 @@
     }
   },
   {
-    "id": "vtm4:1790603700000:1i689rj",
+    "id": "vtm4:1790604300000:1i689rj",
     "channel": "vtm4",
     "title": "Caught on Dashcam",
-    "start": 1790603700000,
+    "start": 1790604300000,
     "end": 1790607300000,
     "description": "Dit keer toont het programma haarscherpe manoeuvres van het wegverkeer over de hele wereld, waaronder een gezinsuitstapje op de snelweg. De dashcam legt ook een roekeloze bestuurder vast die vol gas wegrijdt na een hobbel.",
     "category": [
@@ -284,7 +284,7 @@
     "channel": "vtm4",
     "title": "Darts",
     "start": 1790614800000,
-    "end": 1790632800000,
+    "end": 1790632500000,
     "description": "Vanavond staan de eerste acht wedstrijden uit de eerste ronde (best of 3 sets) op het programma. Titelverdediger is Luke Littler. Hij versloeg vorig jaar in de finale Luke Humphries met 6-1.",
     "category": [
       "Sport",
@@ -307,6 +307,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fda00f743-8830-4b86-ac26-0d34256421b6"
+    }
+  },
+  {
+    "id": "vtm4:1790632500000:1i689rj",
+    "channel": "vtm4",
+    "title": "Caught on Dashcam",
+    "start": 1790632500000,
+    "end": 1790636400000,
+    "description": "Bereid je voor op klunzige criminelen, spectaculaire reddingsacties en de meest bizarre en zelfs ronduit griezelige momenten die ooit vastgelegd werden op beeld.",
+    "category": [
+      "Reality",
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22111589~~2FEP044794900038%2Cimi%3A46902d6af9e542d9e02b8b3d5b559fbb41ca0ad1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 8,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22111589~~2FEP044794900038,imi:46902d6af9e542d9e02b8b3d5b559fbb41ca0ad1",
+      "episodeName": "Aflevering 8",
+      "genres": [
+        "Reality",
+        "Docu"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F12272725~~2FSH044794900000"
     }
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1790464800000:xykime",
+    "id": "playsports1:1790465040000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1790464800000,
+    "start": 1790465040000,
     "end": 1790486700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A38d261c0c2b299542592b0055424d9b048e95b1c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A0c256db1615b5983e883bfdebaa4c2675265368b/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +17,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:38d261c0c2b299542592b0055424d9b048e95b1c",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:0c256db1615b5983e883bfdebaa4c2675265368b",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -152,7 +152,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1790512020000,
-    "end": 1790518380000,
+    "end": 1790518440000,
     "description": "Vanuit The City Ground in Nottingham, England.",
     "category": [
       "Sport",
@@ -178,17 +178,17 @@
     }
   },
   {
-    "id": "playsports1:1790518380000:11wg5yb",
+    "id": "playsports1:1790518440000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1790518380000,
+    "start": 1790518440000,
     "end": 1790524800000,
     "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613803~~2FEP033948601851%2Cimi%3A1aaf555dc3cc99cd8707124f1323819052d13bf4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613803~~2FEP033948601851%2Cimi%3A3255a707ccbe272fd1df36ae7a15bc36287fb474/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -196,7 +196,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613803~~2FEP033948601851,imi:1aaf555dc3cc99cd8707124f1323819052d13bf4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613803~~2FEP033948601851,imi:3255a707ccbe272fd1df36ae7a15bc36287fb474",
       "episodeName": "VfB Stuttgart - Borussia Dortmund",
       "genres": [
         "Sport",
@@ -242,7 +242,7 @@
     "channel": "playsports1",
     "title": "Bundesliga Highlights",
     "start": 1790527920000,
-    "end": 1790531040000,
+    "end": 1790531100000,
     "description": "Alle samenvattingen van de afgelopen speeldag uit de Duitse Bundesliga.",
     "category": [
       "Sport",
@@ -268,17 +268,17 @@
     }
   },
   {
-    "id": "playsports1:1790531040000:1spiq9g",
+    "id": "playsports1:1790531100000:1spiq9g",
     "channel": "playsports1",
     "title": "Bundesliga Weekly",
-    "start": 1790531040000,
-    "end": 1790532600000,
+    "start": 1790531100000,
+    "end": 1790532720000,
     "description": "Wekelijkse voorbeschouwing met alle relevante informatie over aankomende wedstrijden en het laatste nieuws uit de Bundesliga.",
     "category": [
       "Sporttalkshow",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583157~~2FEP039508280211%2Cimi%3A5631b521d7443d74310169ee7fff66830e90b687/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583157~~2FEP039508280211%2Cimi%3A3318660aa295cf4a5b05dbf8a2cbcc1f6bdd0394/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 12,
@@ -286,7 +286,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583157~~2FEP039508280211,imi:5631b521d7443d74310169ee7fff66830e90b687",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583157~~2FEP039508280211,imi:3318660aa295cf4a5b05dbf8a2cbcc1f6bdd0394",
       "episodeName": "Aflevering 5",
       "genres": [
         "Sporttalkshow",
@@ -298,17 +298,17 @@
     }
   },
   {
-    "id": "playsports1:1790532600000:11wg5yb",
+    "id": "playsports1:1790532720000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1790532600000,
-    "end": 1790538840000,
+    "start": 1790532720000,
+    "end": 1790539080000,
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613816~~2FEP033948601852%2Cimi%3Aeeb107628b8381d99684f0094b951ec9a9b777e7/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613816~~2FEP033948601852%2Cimi%3A74dd0b5ddb6b757b0cfd6df49825c306de6bda4d/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -316,7 +316,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613816~~2FEP033948601852,imi:eeb107628b8381d99684f0094b951ec9a9b777e7",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613816~~2FEP033948601852,imi:74dd0b5ddb6b757b0cfd6df49825c306de6bda4d",
       "episodeName": "Bayer Leverkusen - RB Leipzig",
       "genres": [
         "Sport",
@@ -328,17 +328,17 @@
     }
   },
   {
-    "id": "playsports1:1790538840000:11wg5yb",
+    "id": "playsports1:1790539080000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1790538840000,
-    "end": 1790544900000,
+    "start": 1790539080000,
+    "end": 1790545260000,
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613853~~2FEP033948601855%2Cimi%3A0390c93f2f17c39a44f7e7bbf70ec9191c9c933f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613853~~2FEP033948601855%2Cimi%3Ab636ca0b0594be78e3aa972ac41b081f1adb8729/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -346,7 +346,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613853~~2FEP033948601855,imi:0390c93f2f17c39a44f7e7bbf70ec9191c9c933f",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613853~~2FEP033948601855,imi:b636ca0b0594be78e3aa972ac41b081f1adb8729",
       "episodeName": "FC Schalke 04 - SV Elversberg",
       "genres": [
         "Sport",
@@ -358,17 +358,17 @@
     }
   },
   {
-    "id": "playsports1:1790544900000:1prlzbg",
+    "id": "playsports1:1790545260000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1790544900000,
-    "end": 1790551680000,
+    "start": 1790545260000,
+    "end": 1790552040000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581339~~2FEP033946612467%2Cimi%3Acc04c26c8e7519f5c771db0e0d1c639e99107ea7/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581339~~2FEP033946612467%2Cimi%3Aa09b604e68dce5e41f2f13c3ebf8b9e248f7d735/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -376,7 +376,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581339~~2FEP033946612467,imi:cc04c26c8e7519f5c771db0e0d1c639e99107ea7",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581339~~2FEP033946612467,imi:a09b604e68dce5e41f2f13c3ebf8b9e248f7d735",
       "episodeName": "Tottenham Hotspur - Aston Villa",
       "genres": [
         "Sport",

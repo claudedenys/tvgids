@@ -98,7 +98,7 @@
     "channel": "npo1",
     "title": "NOS Journaal met gebarentaal",
     "start": 1790555700000,
-    "end": 1790556900000,
+    "end": 1790556600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -119,10 +119,10 @@
     }
   },
   {
-    "id": "npo1:1790556900000:1qmbii9",
+    "id": "npo1:1790556600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1790556900000,
+    "start": 1790556600000,
     "end": 1790557500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -561,7 +561,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790580600000,
-    "end": 1790581200000,
+    "end": 1790581500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -582,10 +582,10 @@
     }
   },
   {
-    "id": "npo1:1790581200000:1qmbii9",
+    "id": "npo1:1790581500000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1790581200000,
+    "start": 1790581500000,
     "end": 1790582400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -768,7 +768,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790590500000,
-    "end": 1790591100000,
+    "end": 1790591400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -789,10 +789,10 @@
     }
   },
   {
-    "id": "npo1:1790591100000:1qmbii9",
+    "id": "npo1:1790591400000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1790591100000,
+    "start": 1790591400000,
     "end": 1790592000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -843,7 +843,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790593200000,
-    "end": 1790594400000,
+    "end": 1790594700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -863,10 +863,10 @@
     }
   },
   {
-    "id": "npo1:1790594400000:fmxwos",
+    "id": "npo1:1790594700000:fmxwos",
     "channel": "npo1",
     "title": "Kook mee met MAX",
-    "start": 1790594400000,
+    "start": 1790594700000,
     "end": 1790595300000,
     "description": "Wat eet ik vanavond?",
     "category": [],
@@ -914,7 +914,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790596800000,
-    "end": 1790597700000,
+    "end": 1790598000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -934,10 +934,10 @@
     }
   },
   {
-    "id": "npo1:1790597700000:1qmbii9",
+    "id": "npo1:1790598000000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1790597700000,
+    "start": 1790598000000,
     "end": 1790598600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1037,7 +1037,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790601600000,
-    "end": 1790602500000,
+    "end": 1790602800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1058,10 +1058,10 @@
     }
   },
   {
-    "id": "npo1:1790602500000:1qmbii9",
+    "id": "npo1:1790602800000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1790602500000,
+    "start": 1790602800000,
     "end": 1790604000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1351,9 +1351,9 @@
     "title": "De slimste mens",
     "start": 1790624100000,
     "end": 1790627400000,
-    "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
+    "description": "Jet van der Steen doet mee aan De Slimste Mens en laat zien wat ze weet.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-slimste-mens-769740362.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/j/carrousel/jetvandersteenindeslimstemenskennisquiz.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1361,7 +1361,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

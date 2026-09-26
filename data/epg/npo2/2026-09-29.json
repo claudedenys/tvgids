@@ -319,7 +319,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1790676000000,
-    "end": 1790676900000,
+    "end": 1790677200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -339,10 +339,10 @@
     }
   },
   {
-    "id": "npo2:1790676900000:fmxwos",
+    "id": "npo2:1790677200000:fmxwos",
     "channel": "npo2",
     "title": "Kook mee met MAX",
-    "start": 1790676900000,
+    "start": 1790677200000,
     "end": 1790677800000,
     "description": "Wat eet ik vanavond?",
     "category": [],
@@ -455,7 +455,7 @@
     "channel": "npo2",
     "title": "Radar",
     "start": 1790680800000,
-    "end": 1790683500000,
+    "end": 1790683800000,
     "description": "Multimediaal consumentenplatform met Antoinette Hertsenberg en Fons Hendriks.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/r/carrousel/radar-771871652.jpg",
@@ -473,10 +473,10 @@
     }
   },
   {
-    "id": "npo2:1790683500000:1ettnuj",
+    "id": "npo2:1790683800000:1ettnuj",
     "channel": "npo2",
     "title": "Opsporing verzocht",
-    "start": 1790683500000,
+    "start": 1790683800000,
     "end": 1790686200000,
     "description": "Opsporingsprogramma in samenwerking met politie en justitie.",
     "category": [],
@@ -589,7 +589,7 @@
     "channel": "npo2",
     "title": "Met het mes op tafel",
     "start": 1790692200000,
-    "end": 1790693820000,
+    "end": 1790693880000,
     "description": "Drie kandidaten pokeren in een bruine kroeg met antwoorden op pittige vragen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/met-het-mes-op-tafel-775813742.jpg",
@@ -607,33 +607,14 @@
     }
   },
   {
-    "id": "npo2:1790693820000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1790693820000,
-    "end": 1790693880000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-770557082.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
     "id": "npo2:1790693880000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1790693880000,
-    "end": 1790694600000,
+    "end": 1790693940000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-770557082.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-777157532.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -641,7 +622,32 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1790693940000:12b58co",
+    "channel": "npo2",
+    "title": "Politieke partijen",
+    "start": 1790693940000,
+    "end": 1790694600000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-777157532.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -719,7 +725,7 @@
     "channel": "npo2",
     "title": "Noord-Zuid-Oost-West",
     "start": 1790699100000,
-    "end": 1790701500000,
+    "end": 1790701200000,
     "description": "Presentator Fred Zuiderwijk spreekt spontaan mensen aan in de hal van het ziekenhuis en vraagt hoe het met ze gaat.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/noord-zuid-oost-west-770395962.jpg",
@@ -734,10 +740,10 @@
     }
   },
   {
-    "id": "npo2:1790701500000:14ri0ia",
+    "id": "npo2:1790701200000:14ri0ia",
     "channel": "npo2",
     "title": "BinnensteBuiten",
-    "start": 1790701500000,
+    "start": 1790701200000,
     "end": 1790703300000,
     "description": "Met in deze uitzending: * Marinella en haar man hebben hun Arnhemse huis door de jaren heen voortdurend verbouwd.",
     "category": [],

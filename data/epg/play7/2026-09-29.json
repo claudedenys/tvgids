@@ -1,9 +1,9 @@
 [
   {
-    "id": "play7:1790639400000:rmqxmh",
+    "id": "play7:1790639700000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1790639400000,
+    "start": 1790639700000,
     "end": 1790643000000,
     "description": "De alleenstaande moeder Lesley Ward en dochter Claire kunnen niet wachten om een vakantiehuis aan de Costa Del Sol te kopen. Zeker nu Lesley kan genieten van meer vrije tijd sinds ze haar uren als klinisch verpleegster heeft teruggeschroefd.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play7",
     "title": "Geen uitzending",
     "start": 1790643000000,
-    "end": 1790650800000,
+    "end": 1790650560000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:334ca93ec2f2e95beff7174021804a861c206d36",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1790650560000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1790650560000,
+    "end": 1790650800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d41e66da7c50023848fc4fb202e2e897fc861c98",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

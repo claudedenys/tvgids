@@ -74,7 +74,7 @@
     "title": "EenVandaag",
     "start": 1790376600000,
     "end": 1790377500000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Ouderenzorg is verdienmodel voor vastgoedondernemers: 'Het was oud, versleten en goor' *...",
     "category": [
       "Actueel"
     ],
@@ -148,7 +148,7 @@
     "title": "NOS Journaal",
     "start": 1790380200000,
     "end": 1790395800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Boodschappendienst Flink afgeperst * Man doodgeschoten in A'dam-Noord *...",
     "category": [
       "Actueel"
     ],
@@ -214,7 +214,7 @@
     "channel": "npo1",
     "title": "Close up",
     "start": 1790400600000,
-    "end": 1790404200000,
+    "end": 1790403900000,
     "description": "De Nederlandse Marlou Fernanda combineert schilderwerk, performances en videokunst en werd uitgeroepen tot een van...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/marlou-fernanda-waar-ga-ik-heen-770309122.jpg",
@@ -232,11 +232,11 @@
     }
   },
   {
-    "id": "npo1:1790404200000:y8pnyt",
+    "id": "npo1:1790403900000:y8pnyt",
     "channel": "npo1",
     "title": "Tussen kunst en kitsch",
-    "start": 1790404200000,
-    "end": 1790407200000,
+    "start": 1790403900000,
+    "end": 1790406900000,
     "description": "Titia Reuser taxeert een multifunctionele broche in de vorm van een hommel.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tussen-kunst-en-kitsch-769408852.jpg",
@@ -254,10 +254,10 @@
     }
   },
   {
-    "id": "npo1:1790407200000:k6mw6d",
+    "id": "npo1:1790406900000:k6mw6d",
     "channel": "npo1",
     "title": "Een vergetelijk mooie reis",
-    "start": 1790407200000,
+    "start": 1790406900000,
     "end": 1790410200000,
     "description": "De groep begint de dag met bewegen en doet dat in de lokale sportschool, tussen de andere sporters.",
     "category": [],
@@ -305,7 +305,7 @@
     "end": 1790415600000,
     "description": "In huize Bauer is het altijd een zoete inval.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bauers-een-nieuwe-fase-771514252.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -382,11 +382,36 @@
     }
   },
   {
-    "id": "npo1:1790421000000:165h2jj",
+    "id": "npo1:1790421000000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1790421000000,
+    "end": 1790421600000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-777358202.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1790421600000:165h2jj",
     "channel": "npo1",
     "title": "Strijders",
-    "start": 1790421000000,
-    "end": 1790424600000,
+    "start": 1790421600000,
+    "end": 1790424900000,
     "description": "Militaire competities worden niet gespeeld, ze worden gewonnen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/strijders-769947162.jpg",
@@ -404,10 +429,10 @@
     }
   },
   {
-    "id": "npo1:1790424600000:1xgkm7h",
+    "id": "npo1:1790424900000:1xgkm7h",
     "channel": "npo1",
     "title": "Keuringsdienst van waarde",
-    "start": 1790424600000,
+    "start": 1790424900000,
     "end": 1790427000000,
     "description": "Het zou bijzondere ham zijn: serranoham.",
     "category": [],
@@ -548,9 +573,9 @@
     "title": "Een huis vol",
     "start": 1790442300000,
     "end": 1790445600000,
-    "description": "Bij de familie Blom staat een slaapfeestje met dertien jongetjes op het programma.",
+    "description": "Sil en Melissa zijn in deze aflevering van Een Huis Vol met hun zoon Sven (13) in het ziekenhuis.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/een-huis-vol-768953112.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/een-huis-vol-768953132.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -560,7 +585,8 @@
     "meta": {
       "labels": [
         "program",
-        "audiodescription"
+        "audiodescription",
+        "tip"
       ]
     }
   },

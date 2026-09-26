@@ -429,7 +429,7 @@
     "end": 1790416800000,
     "description": "Frank en Wilma zitten in een impasse wat betreft hun eengezinswoning met vier slaapkamers in Strathaven.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/v/carrousel/verkopen-of-verbouwen-768948192.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -467,7 +467,7 @@
     "channel": "sbs6",
     "title": "Man bijt hond",
     "start": 1790418300000,
-    "end": 1790418900000,
+    "end": 1790418420000,
     "description": "Een inkijk in het leven van de onbekende en bekende Vlaming.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/man-bijt-hond-773352642.jpg",
@@ -485,11 +485,33 @@
     }
   },
   {
-    "id": "sbs6:1790418900000:n73x5m",
+    "id": "sbs6:1790418420000:vg1ir",
+    "channel": "sbs6",
+    "title": "Man bijt hond",
+    "start": 1790418420000,
+    "end": 1790419140000,
+    "description": "Een inkijk in het leven van de onbekende en bekende Vlaming.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/man-bijt-hond-777358082.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "sbs6:1790419140000:n73x5m",
     "channel": "sbs6",
     "title": "Het roer om",
-    "start": 1790418900000,
-    "end": 1790422500000,
+    "start": 1790419140000,
+    "end": 1790422620000,
     "description": "Marion en Rikky emigreren naar een piepklein dorpje middenin Frankrijk.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/h/carrousel/het-roer-om-768948152.jpg",
@@ -507,11 +529,11 @@
     }
   },
   {
-    "id": "sbs6:1790422500000:1v3n35j",
+    "id": "sbs6:1790422620000:1v3n35j",
     "channel": "sbs6",
     "title": "Grote gezinnen, grote vakanties",
-    "start": 1790422500000,
-    "end": 1790425800000,
+    "start": 1790422620000,
+    "end": 1790426100000,
     "description": "Bij de familie Engel krijgt oma Ria het benauwd, wanneer ze met een kabelbaan de bergen in gaan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/g/carrousel/grote-gezinnen-grote-vakanties-765740512.jpg",
@@ -529,11 +551,11 @@
     }
   },
   {
-    "id": "sbs6:1790425800000:1a0myu8",
+    "id": "sbs6:1790426100000:1a0myu8",
     "channel": "sbs6",
     "title": "Een dag in de dierentuin",
-    "start": 1790425800000,
-    "end": 1790427600000,
+    "start": 1790426100000,
+    "end": 1790427960000,
     "description": "Er worden twee slingerapen geboren.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/een-dag-in-de-dierentuin-766061262.jpg",
@@ -551,11 +573,11 @@
     }
   },
   {
-    "id": "sbs6:1790427600000:1k81pb1",
+    "id": "sbs6:1790427960000:1k81pb1",
     "channel": "sbs6",
     "title": "Wie woont het mooist",
-    "start": 1790427600000,
-    "end": 1790429400000,
+    "start": 1790427960000,
+    "end": 1790429820000,
     "description": "De juryleden zijn in het oosten van Schotlan en kiezen tussen een monumentale art-decovilla in Craiglockhart, een...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/w/carrousel/wie-woont-het-mooist-776447622.jpg",
@@ -566,15 +588,18 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "sbs6:1790429400000:13tghpw",
+    "id": "sbs6:1790429820000:13tghpw",
     "channel": "sbs6",
     "title": "Onmogelijke verbouwingen",
-    "start": 1790429400000,
-    "end": 1790433000000,
+    "start": 1790429820000,
+    "end": 1790433180000,
     "description": "Delaval en Veronica Astley beheren een landgoed dat al bijna 800 jaar in de familie is.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/o/carrousel/onmogelijke-verbouwingen-766060282.jpg",
@@ -592,11 +617,11 @@
     }
   },
   {
-    "id": "sbs6:1790433000000:16ae8qs",
+    "id": "sbs6:1790433180000:16ae8qs",
     "channel": "sbs6",
     "title": "Bouwen aan de toekomst",
-    "start": 1790433000000,
-    "end": 1790434800000,
+    "start": 1790433180000,
+    "end": 1790435040000,
     "description": "Aandacht voor bouwontwikkelingen en vastgoedprojecten.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/bouwen-aan-de-toekomst-766060252.jpg",
@@ -607,14 +632,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "sbs6:1790434800000:1eq4lmf",
+    "id": "sbs6:1790435040000:1eq4lmf",
     "channel": "sbs6",
     "title": "De grote tuinverbouwing",
-    "start": 1790434800000,
+    "start": 1790435040000,
     "end": 1790440200000,
     "description": "Het team is bij Lia en Joop in Houten.",
     "category": [],
@@ -626,7 +654,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -634,7 +665,7 @@
     "channel": "sbs6",
     "title": "Lachen om home video's",
     "start": 1790440200000,
-    "end": 1790443500000,
+    "end": 1790443620000,
     "description": "Homevideo's uit binnen- en buitenland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/l/carrousel/lachen-om-home-video-s-766060512.jpg",
@@ -649,10 +680,10 @@
     }
   },
   {
-    "id": "sbs6:1790443500000:1ddldj5",
+    "id": "sbs6:1790443620000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1790443500000,
+    "start": 1790443620000,
     "end": 1790445600000,
     "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
     "category": [],
@@ -691,7 +722,7 @@
     "channel": "sbs6",
     "title": "Dit weet jij niet?!",
     "start": 1790450700000,
-    "end": 1790454600000,
+    "end": 1790454780000,
     "description": "Quiz waarin het draait om het juiste antwoord en het doorgronden van de tegenstanders.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/dit-weet-jij-niet-766060142.jpg",
@@ -706,10 +737,10 @@
     }
   },
   {
-    "id": "sbs6:1790454600000:1k6yy12",
+    "id": "sbs6:1790454780000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1790454600000,
+    "start": 1790454780000,
     "end": 1790455800000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [

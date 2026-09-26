@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1790635500000:1va4v2m",
+    "id": "playsports3:1790635620000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790635500000,
-    "end": 1790641500000,
+    "start": 1790635620000,
+    "end": 1790641620000,
     "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1790641500000:xykime",
+    "id": "playsports3:1790641620000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1790641500000,
-    "end": 1790658000000,
+    "start": 1790641620000,
+    "end": 1790660700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -52,30 +52,6 @@
       "genres": [
         "Sport"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1790658000000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1790658000000,
-    "end": 1790660700000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:700c3063db2fc032285e11fb4ee034914de1c294",
-      "episodeName": null,
-      "genres": [],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
@@ -232,101 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1790688300000:11quqlf",
-    "channel": "playsports3",
-    "title": "The Paddock On Tour",
-    "start": 1790688300000,
-    "end": 1790689200000,
-    "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006%2Cimi%3A45f69ce6d69d81836e31bf066d4145ece4ded44a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 3,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006,imi:45f69ce6d69d81836e31bf066d4145ece4ded44a",
-      "episodeName": "Grasmaaierracen",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
-    }
-  },
-  {
-    "id": "playsports3:1790689200000:i67pjl",
-    "channel": "playsports3",
-    "title": "Play Sports Highlights",
-    "start": 1790689200000,
-    "end": 1790692800000,
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "category": [
-      "Sport",
-      "Multisportevenement"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F555138053%2Cimi%3A712ed387accf5044a829ae496e5da90a6614ef7f/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50390000,
-    "episode": 555138053,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F555138053,imi:712ed387accf5044a829ae496e5da90a6614ef7f",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Multisportevenement"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
-    }
-  },
-  {
-    "id": "playsports3:1790692800000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1790692800000,
-    "end": 1790699100000,
-    "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558285~~2FEP035850992001%2Cimi%3A845f1bcedcd453ac12dc7f47f9e46eccec6835d8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026091901,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558285~~2FEP035850992001,imi:845f1bcedcd453ac12dc7f47f9e46eccec6835d8",
-      "episodeName": "Ajax - Excelsior",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1790699100000:1p2p7re",
+    "id": "playsports3:1790688300000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1790699100000,
-    "end": 1790702700000,
+    "start": 1790688300000,
+    "end": 1790691900000,
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -352,41 +238,101 @@
     }
   },
   {
-    "id": "playsports3:1790702700000:arbc9d",
+    "id": "playsports3:1790691900000:11quqlf",
     "channel": "playsports3",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1790702700000,
-    "end": 1790703600000,
-    "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
+    "title": "The Paddock On Tour",
+    "start": 1790691900000,
+    "end": 1790692800000,
+    "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
     "category": [
       "Sport",
       "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388454~~2FEP063235100094%2Cimi%3Ae202e23f16d2f9970d895d897f537b5d676893c6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006%2Cimi%3A45f69ce6d69d81836e31bf066d4145ece4ded44a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026092694,
+    "season": 2,
+    "episode": 3,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388454~~2FEP063235100094,imi:e202e23f16d2f9970d895d897f537b5d676893c6",
-      "episodeName": "GP van Azerbeidzjan: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34178843~~2FEP060553550006,imi:45f69ce6d69d81836e31bf066d4145ece4ded44a",
+      "episodeName": "Grasmaaierracen",
       "genres": [
         "Sport",
         "Motorsport"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
     }
   },
   {
-    "id": "playsports3:1790703600000:1va4v2m",
+    "id": "playsports3:1790692800000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1790692800000,
+    "end": 1790696280000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F555138053%2Cimi%3A712ed387accf5044a829ae496e5da90a6614ef7f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 555138053,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F555138053,imi:712ed387accf5044a829ae496e5da90a6614ef7f",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1790696280000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790703600000,
-    "end": 1790709840000,
+    "start": 1790696280000,
+    "end": 1790702700000,
+    "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558285~~2FEP035850992001%2Cimi%3A845f1bcedcd453ac12dc7f47f9e46eccec6835d8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026091901,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558285~~2FEP035850992001,imi:845f1bcedcd453ac12dc7f47f9e46eccec6835d8",
+      "episodeName": "Ajax - Excelsior",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1790702700000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1790702700000,
+    "end": 1790708940000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -412,11 +358,11 @@
     }
   },
   {
-    "id": "playsports3:1790709840000:ear1gl",
+    "id": "playsports3:1790708940000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790709840000,
-    "end": 1790716440000,
+    "start": 1790708940000,
+    "end": 1790715540000,
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -442,11 +388,11 @@
     }
   },
   {
-    "id": "playsports3:1790716440000:ear1gl",
+    "id": "playsports3:1790715540000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790716440000,
-    "end": 1790722740000,
+    "start": 1790715540000,
+    "end": 1790721840000,
     "description": "Verslag van de wedstrijd Juventus - N.E.C., gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",

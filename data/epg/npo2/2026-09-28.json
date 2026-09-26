@@ -70,7 +70,7 @@
     "channel": "npo2",
     "title": "Buitenhof",
     "start": 1790553600000,
-    "end": 1790556900000,
+    "end": 1790556600000,
     "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/buitenhof-769294922.jpg",
@@ -88,10 +88,10 @@
     }
   },
   {
-    "id": "npo2:1790556900000:qbw2jg",
+    "id": "npo2:1790556600000:qbw2jg",
     "channel": "npo2",
     "title": "Nieuwsuur",
-    "start": 1790556900000,
+    "start": 1790556600000,
     "end": 1790571600000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
@@ -142,7 +142,7 @@
     "title": "Tijd voor MAX",
     "start": 1790572500000,
     "end": 1790575200000,
-    "description": "Met in deze uitzending: * Heel Holland Bakt Kids is terug met een nieuw seizoen.",
+    "description": "Met in deze uitzending: * 'Heel Holland Bakt Kids' is terug met een nieuw seizoen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-776217922.jpg",
     "icon": null,
@@ -163,7 +163,7 @@
     "channel": "npo2",
     "title": "BinnensteBuiten",
     "start": 1790575200000,
-    "end": 1790577600000,
+    "end": 1790577300000,
     "description": "Met in deze uitzending: * Madelon en Roeland verlieten Amsterdam voor een Friese boerderij in Grou.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/binnenstebuiten-769946162.jpg",
@@ -181,10 +181,10 @@
     }
   },
   {
-    "id": "npo2:1790577600000:1dw9gp4",
+    "id": "npo2:1790577300000:1dw9gp4",
     "channel": "npo2",
     "title": "MAX geheugentrainer",
-    "start": 1790577600000,
+    "start": 1790577300000,
     "end": 1790578800000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -196,10 +196,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
+      "labels": []
     }
   },
   {
@@ -207,7 +204,7 @@
     "channel": "npo2",
     "title": "NOS Journaal met gebarentaal",
     "start": 1790578800000,
-    "end": 1790579700000,
+    "end": 1790579400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -227,10 +224,10 @@
     }
   },
   {
-    "id": "npo2:1790579700000:1c293u9",
+    "id": "npo2:1790579400000:1c293u9",
     "channel": "npo2",
     "title": "Nederland in beweging",
-    "start": 1790579700000,
+    "start": 1790579400000,
     "end": 1790580600000,
     "description": "Beweeg mee met 'Nederland in beweging'.",
     "category": [],
@@ -275,7 +272,7 @@
     "channel": "npo2",
     "title": "Nieuwsuur",
     "start": 1790581800000,
-    "end": 1790584200000,
+    "end": 1790584500000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
       "Actueel"
@@ -296,10 +293,10 @@
     }
   },
   {
-    "id": "npo2:1790584200000:cbx4tl",
+    "id": "npo2:1790584500000:cbx4tl",
     "channel": "npo2",
     "title": "Buitenhof",
-    "start": 1790584200000,
+    "start": 1790584500000,
     "end": 1790587800000,
     "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
     "category": [],
@@ -621,7 +618,7 @@
     "channel": "npo2",
     "title": "Blauw bloed",
     "start": 1790605800000,
-    "end": 1790607420000,
+    "end": 1790607480000,
     "description": "Een inkijk in de voormalige residentie van Willem-Alexander en Máxima: Villa Eikenhorst.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/blauw-bloed-770093892.jpg",
@@ -639,25 +636,6 @@
     }
   },
   {
-    "id": "npo2:1790607420000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1790607420000,
-    "end": 1790607480000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-770557062.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
     "id": "npo2:1790607480000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
@@ -665,7 +643,7 @@
     "end": 1790608200000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-770557062.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-777157532.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -673,7 +651,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
