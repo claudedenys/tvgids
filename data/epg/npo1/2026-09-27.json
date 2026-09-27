@@ -75,7 +75,7 @@
     "title": "EenVandaag",
     "start": 1790466300000,
     "end": 1790468100000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Overlast hangjongeren grootste irritatie * Hoe kan een AI-systeem zichzelf hacken?",
     "category": [
       "Actueel"
     ],
@@ -150,7 +150,7 @@
     "title": "NOS Journaal",
     "start": 1790469600000,
     "end": 1790484900000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Man doodgeschoten in A'dam-Noord * Paus Leo bezoekt Frankrijk *...",
     "category": [
       "Actueel"
     ],
@@ -311,11 +311,11 @@
     "title": "NOS Journaal",
     "start": 1790503200000,
     "end": 1790503800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met het laatste nieuws en de weersverwachting.Weigergemeenten voelen zich miskendOranjemars Noord-Ierland mag...",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-769619092.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -325,7 +325,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },

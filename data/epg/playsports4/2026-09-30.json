@@ -332,7 +332,7 @@
     "channel": "playsports4",
     "title": "Tennis: Singapore Open 2026",
     "start": 1790782320000,
-    "end": 1790793120000,
+    "end": 1790787180000,
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
@@ -355,6 +355,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379823~~2FSH066298740000"
+    }
+  },
+  {
+    "id": "playsports4:1790787180000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1790787180000,
+    "end": 1790793120000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:85eeff351f0c022f945834232898e1eb7ac9db41",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -392,7 +416,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1790802120000,
-    "end": 1790811120000,
+    "end": 1790809080000,
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "category": [
       "Sport",

@@ -152,7 +152,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1790672400000,
-    "end": 1790681400000,
+    "end": 1790679360000,
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "category": [
       "Sport",
@@ -175,6 +175,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1790679360000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1790679360000,
+    "end": 1790681400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1d389df902fa5d5b8d9a784b099ea4a32e585f82",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
