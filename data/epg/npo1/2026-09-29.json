@@ -27,7 +27,7 @@
     "title": "NOS Journaal",
     "start": 1790635500000,
     "end": 1790637000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met sport: * Voetbal: Nations League: Belgie?",
     "category": [
       "Actueel"
     ],
@@ -73,7 +73,7 @@
     "channel": "npo1",
     "title": "Het verhaal van Nederland - Amsterdam",
     "start": 1790640000000,
-    "end": 1790643000000,
+    "end": 1790642700000,
     "description": "Het imago van Amsterdam is voor een groot deel te danken aan de zeventiende eeuw.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/h/carrousel/het-verhaal-van-nederland-amsterdam-777081022.jpg",
@@ -91,10 +91,10 @@
     }
   },
   {
-    "id": "npo1:1790643000000:v54dmu",
+    "id": "npo1:1790642700000:v54dmu",
     "channel": "npo1",
     "title": "Het verhaal van Nederland - Amsterdam",
-    "start": 1790643000000,
+    "start": 1790642700000,
     "end": 1790646000000,
     "description": "Begin negentiende eeuw heerst er armoede in Amsterdam en is de glans van de zeventiende eeuw verdwenen.",
     "category": [],
@@ -139,12 +139,37 @@
     "channel": "npo1",
     "title": "EenVandaag",
     "start": 1790649000000,
-    "end": 1790650800000,
+    "end": 1790650500000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [
       "Actueel"
     ],
     "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eenvandaag-769946072.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1790650500000:1ebhvrh",
+    "channel": "npo1",
+    "title": "NOS Journaal met gebarentaal",
+    "start": 1790650500000,
+    "end": 1790654100000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-met-gebarentaal-770000962.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -503,7 +528,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1790665200000,
-    "end": 1790665800000,
+    "end": 1790666100000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -523,10 +548,10 @@
     }
   },
   {
-    "id": "npo1:1790665800000:1umycym",
+    "id": "npo1:1790666100000:1umycym",
     "channel": "npo1",
     "title": "Goedemorgen Nederland",
-    "start": 1790665800000,
+    "start": 1790666100000,
     "end": 1790667000000,
     "description": "Ochtendshow. Actualiteit met een focus op politiek, economie, veiligheid en de Nederlandse identiteit.",
     "category": [
@@ -713,7 +738,7 @@
     "title": "Tijd voor MAX",
     "start": 1790673300000,
     "end": 1790676000000,
-    "description": "Met in deze uitzending: * Lisa Arnold over de Week tegen Eenzaamheid.",
+    "description": "Met in deze uitzending: * Nynke de Jong en Esther Groenenberg brengen met hun theatervoorstelling 'De Contributie'...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-776863332.jpg",
     "icon": null,
@@ -948,7 +973,7 @@
     "channel": "npo1",
     "title": "Nederlandstalige Top 1000: Stemweek",
     "start": 1790690100000,
-    "end": 1790692200000,
+    "end": 1790692500000,
     "description": "NPO Sterren NL gaat op zoek naar de 1000 beste Nederlandstalige liedjes ooit gemaakt, waarbij portretten en...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nederlandstalige-top-1000-stemweek-768952752.jpg",
@@ -963,11 +988,11 @@
     }
   },
   {
-    "id": "npo1:1790692200000:yedpzb",
+    "id": "npo1:1790692500000:yedpzb",
     "channel": "npo1",
     "title": "MAX ouderenjournaal tegen eenzaamheid",
-    "start": 1790692200000,
-    "end": 1790693880000,
+    "start": 1790692500000,
+    "end": 1790693820000,
     "description": "Na tien jaar in afzondering, waarin haar hond en ChatGPT haar dagelijkse gezelschap waren, bouwt Astrid Holleeder...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/max-ouderenjournaal-tegen-eenzaamheid-773191672.jpg",
@@ -982,10 +1007,10 @@
     }
   },
   {
-    "id": "npo1:1790693880000:1ttndez",
+    "id": "npo1:1790693820000:1ttndez",
     "channel": "npo1",
     "title": "Socutera",
-    "start": 1790693880000,
+    "start": 1790693820000,
     "end": 1790694000000,
     "description": "Verbinding is het medicijn tegen eenzaamheid.",
     "category": [],
