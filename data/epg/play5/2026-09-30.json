@@ -1,9 +1,39 @@
 [
   {
-    "id": "play5:1790726400000:1vr1iur",
+    "id": "play5:1790722800000:1l3wd65",
+    "channel": "play5",
+    "title": "Superman & Lois",
+    "start": 1790722800000,
+    "end": 1790726700000,
+    "description": "Lois en Superman graven dieper in hun onderzoek naar Bruno Mannheim, om te beginnen naar zijn connecties met Hob's Bay Medical Center, terwijl Jonathan en Jordan thuis in paniek raken over Lois' verschrikkelijke diagnose.",
+    "category": [
+      "Dramaserie",
+      "Actie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24551643~~2FEP043728750037%2Cimi%3Ac569fdd3f7805f55afb70697bb9b13338ad1080b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24551643~~2FEP043728750037,imi:c569fdd3f7805f55afb70697bb9b13338ad1080b",
+      "episodeName": "Forever and Always",
+      "genres": [
+        "Dramaserie",
+        "Actie"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F18320269~~2FSH043728750000"
+    }
+  },
+  {
+    "id": "play5:1790726700000:1vr1iur",
     "channel": "play5",
     "title": "How to Get Away With Murder",
-    "start": 1790726400000,
+    "start": 1790726700000,
     "end": 1790729700000,
     "description": "In de nasleep van de moord op Wallace Mahoney organiseert Annalise een strafrechtskliniek waarin studenten aan hun eigen pro-deozaken kunnen werken. De verblijfplaats van Frank is nog onbekend.",
     "category": [
@@ -34,7 +64,7 @@
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1790729700000,
-    "end": 1790737200000,
+    "end": 1790736900000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ce7d2e0b6247e24ae946c4f15e1c41a281d90cb8",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1790736900000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1790736900000,
+    "end": 1790737200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:98f798f8ebdd6a67fac7fc362e53bee5c63dd3dc",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

@@ -92,7 +92,7 @@
     "channel": "playsports4",
     "title": "Tennis: Abierto GNP Seguros 2026",
     "start": 1790657400000,
-    "end": 1790668500000,
+    "end": 1790658000000,
     "description": null,
     "category": [
       "Sport",
@@ -118,11 +118,41 @@
     }
   },
   {
-    "id": "playsports4:1790668500000:arbc9e",
+    "id": "playsports4:1790658000000:1owb2q5",
+    "channel": "playsports4",
+    "title": "Tennis: Abierto GNP Seguros 2026",
+    "start": 1790658000000,
+    "end": 1790669160000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33997331~~2FEP065944460001%2Cimi%3A341dab76af86b8064886fcda59d9e14033008477/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 44460000,
+    "episode": 2026090501,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33997331~~2FEP065944460001,imi:341dab76af86b8064886fcda59d9e14033008477",
+      "episodeName": "Mertens vs. Parry",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33189297~~2FSH065944460000"
+    }
+  },
+  {
+    "id": "playsports4:1790669160000:arbc9e",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 2",
-    "start": 1790668500000,
-    "end": 1790672400000,
+    "start": 1790669160000,
+    "end": 1790674380000,
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "category": [
       "Sport",
@@ -148,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1790672400000:arbc9d",
+    "id": "playsports4:1790674380000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1790672400000,
-    "end": 1790679360000,
+    "start": 1790674380000,
+    "end": 1790681400000,
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "category": [
       "Sport",
@@ -175,30 +205,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
-    }
-  },
-  {
-    "id": "playsports4:1790679360000:48zb9",
-    "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1790679360000,
-    "end": 1790681400000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1d389df902fa5d5b8d9a784b099ea4a32e585f82",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {
@@ -236,7 +242,7 @@
     "channel": "playsports4",
     "title": "Play Sports Highlights",
     "start": 1790688600000,
-    "end": 1790690700000,
+    "end": 1790690640000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -262,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1790690700000:133mms5",
+    "id": "playsports4:1790690640000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1790690700000,
-    "end": 1790694000000,
+    "start": 1790690640000,
+    "end": 1790694060000,
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "category": [
       "Sport",
@@ -292,11 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1790694000000:133mms5",
+    "id": "playsports4:1790694060000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1790694000000,
-    "end": 1790697420000,
+    "start": 1790694060000,
+    "end": 1790697540000,
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "category": [
       "Sport",
@@ -322,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1790697420000:133mms5",
+    "id": "playsports4:1790697540000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1790697420000,
-    "end": 1790701020000,
+    "start": 1790697540000,
+    "end": 1790701200000,
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "category": [
       "Sport",
@@ -352,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1790701020000:133mms5",
+    "id": "playsports4:1790701200000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1790701020000,
-    "end": 1790705040000,
+    "start": 1790701200000,
+    "end": 1790705280000,
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "category": [
       "Sport",
@@ -382,11 +388,11 @@
     }
   },
   {
-    "id": "playsports4:1790705040000:3y5tln",
+    "id": "playsports4:1790705280000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1790705040000,
-    "end": 1790709660000,
+    "start": 1790705280000,
+    "end": 1790709960000,
     "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
     "category": [
       "Sport",
@@ -412,11 +418,11 @@
     }
   },
   {
-    "id": "playsports4:1790709660000:qbgze4",
+    "id": "playsports4:1790709960000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1790709660000,
-    "end": 1790720940000,
+    "start": 1790709960000,
+    "end": 1790721240000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",

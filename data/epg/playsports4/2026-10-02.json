@@ -1,32 +1,32 @@
 [
   {
-    "id": "playsports4:1790897880000:3y5tln",
+    "id": "playsports4:1790896380000:133mms5",
     "channel": "playsports4",
-    "title": "MotoGP",
-    "start": 1790897880000,
-    "end": 1790902500000,
-    "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
+    "title": "FIM Motocross World Championship",
+    "start": 1790896380000,
+    "end": 1790900340000,
+    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491%2Cimi%3A831cc8c35d954528bc186e7e1a76c64dc5694239/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34008240~~2FEP050375640324%2Cimi%3A1931f2920ce3546345e73bb39968aa8ca3f950fe/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 38910000,
-    "episode": 2026092091,
+    "season": 75640000,
+    "episode": 2026092024,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491,imi:831cc8c35d954528bc186e7e1a76c64dc5694239",
-      "episodeName": "GP van Oostenrijk: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34008240~~2FEP050375640324,imi:1931f2920ce3546345e73bb39968aa8ca3f950fe",
+      "episodeName": "Australië - MXGP: Race 2",
       "genres": [
         "Sport",
         "Motorracen"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
     }
   },
   {
@@ -92,7 +92,7 @@
     "channel": "playsports4",
     "title": "Tennis: Singapore Open 2026",
     "start": 1790920740000,
-    "end": 1790929740000,
+    "end": 1790928240000,
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
@@ -118,71 +118,41 @@
     }
   },
   {
-    "id": "playsports4:1790929740000:133mms5",
+    "id": "playsports4:1790928240000:1ng6s",
     "channel": "playsports4",
-    "title": "FIM Motocross World Championship",
-    "start": 1790929740000,
-    "end": 1790933100000,
-    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
+    "title": "BNXT League",
+    "start": 1790928240000,
+    "end": 1790936940000,
+    "description": "Verslaggeving van de Belgische en Nederlandse basketbalkampioenschappen.",
     "category": [
       "Sport",
-      "Motorracen"
+      "Basketbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34008220~~2FEP050375640321%2Cimi%3A8791bee8ac6a48d8d3a01b2843e9178163d5a7d5/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34117285~~2FEP039991360282%2Cimi%3A5e961e8807b344733ec7764cf467cadef369699d/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 75640000,
-    "episode": 2026092021,
+    "season": 91360000,
+    "episode": 2026092682,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34008220~~2FEP050375640321,imi:8791bee8ac6a48d8d3a01b2843e9178163d5a7d5",
-      "episodeName": "Australië - MX2: Race 1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34117285~~2FEP039991360282,imi:5e961e8807b344733ec7764cf467cadef369699d",
+      "episodeName": "Supercup: Landstede - Antwerp Giants",
       "genres": [
         "Sport",
-        "Motorracen"
+        "Basketbal"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
     }
   },
   {
-    "id": "playsports4:1790933100000:133mms5",
+    "id": "playsports4:1790936940000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1790933100000,
-    "end": 1790936520000,
-    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34008228~~2FEP050375640322%2Cimi%3A02d2fae05dbb5ca444b27ec73d1e49cbdc9a8b93/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 75640000,
-    "episode": 2026092022,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34008228~~2FEP050375640322,imi:02d2fae05dbb5ca444b27ec73d1e49cbdc9a8b93",
-      "episodeName": "Australië - MXGP: Race 1",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10749155~~2FSH050375640000"
-    }
-  },
-  {
-    "id": "playsports4:1790936520000:133mms5",
-    "channel": "playsports4",
-    "title": "FIM Motocross World Championship",
-    "start": 1790936520000,
-    "end": 1790940120000,
+    "start": 1790936940000,
+    "end": 1790940540000,
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "category": [
       "Sport",
@@ -208,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1790940120000:133mms5",
+    "id": "playsports4:1790940540000:133mms5",
     "channel": "playsports4",
     "title": "FIM Motocross World Championship",
-    "start": 1790940120000,
-    "end": 1790944080000,
+    "start": 1790940540000,
+    "end": 1790944560000,
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "category": [
       "Sport",
@@ -238,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1790944080000:3y5tln",
+    "id": "playsports4:1790944560000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1790944080000,
-    "end": 1790948700000,
+    "start": 1790944560000,
+    "end": 1790949180000,
     "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
     "category": [
       "Sport",
@@ -268,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1790948700000:qbgze4",
+    "id": "playsports4:1790949180000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1790948700000,
-    "end": 1790955120000,
+    "start": 1790949180000,
+    "end": 1790955540000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -298,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1790955120000:182jlas",
+    "id": "playsports4:1790955540000:182jlas",
     "channel": "playsports4",
     "title": "Tennis: Singapore Open 2026",
-    "start": 1790955120000,
-    "end": 1790959980000,
+    "start": 1790955540000,
+    "end": 1790960400000,
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
@@ -328,35 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1790959980000:48zb9",
-    "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1790959980000,
-    "end": 1790965920000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:318b917dbadc4ed2f3059eae5d0d93c90e642619",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1790965920000:182jlas",
+    "id": "playsports4:1790960400000:182jlas",
     "channel": "playsports4",
     "title": "Tennis: Singapore Open 2026",
-    "start": 1790965920000,
-    "end": 1790974920000,
+    "start": 1790960400000,
+    "end": 1790968980000,
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
@@ -382,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1790974920000:arbc9d",
+    "id": "playsports4:1790968980000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1790974920000,
-    "end": 1790981880000,
+    "start": 1790968980000,
+    "end": 1790975940000,
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "category": [
       "Sport",
@@ -409,6 +355,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1790975940000:3y5tln",
+    "channel": "playsports4",
+    "title": "MotoGP",
+    "start": 1790975940000,
+    "end": 1790980560000,
+    "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491%2Cimi%3Adb95f885506a2698f31285f364efd77a4d1897c2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 38910000,
+    "episode": 2026092091,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491,imi:db95f885506a2698f31285f364efd77a4d1897c2",
+      "episodeName": "GP van Oostenrijk: Race",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
     }
   }
 ]
