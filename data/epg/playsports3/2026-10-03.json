@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1790980020000:1va4v2m",
+    "id": "playsports3:1790980140000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790980020000,
-    "end": 1790986080000,
+    "start": 1790980140000,
+    "end": 1790986200000,
     "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -27,34 +27,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1790986080000:xykime",
-    "channel": "playsports3",
-    "title": "Play Sports",
-    "start": 1790986080000,
-    "end": 1791003300000,
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A1e9d3ac0580d17ba595148f331e0d15509e0c501/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:1e9d3ac0580d17ba595148f331e0d15509e0c501",
-      "episodeName": null,
-      "genres": [
-        "Sport"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {

@@ -440,7 +440,7 @@
     "channel": "vrtcanvas",
     "title": "De ideale wereld",
     "start": 1790886000000,
-    "end": 1790888460000,
+    "end": 1790888400000,
     "description": "Satirisch actualiteitenmagazine met Ella Leyers. Zohra Aït-Fath is te gast.",
     "category": [
       "Entertainment",
@@ -466,25 +466,55 @@
     }
   },
   {
-    "id": "vrtcanvas:1790888460000:1rw80yh",
+    "id": "vrtcanvas:1790888400000:7tzh9j",
+    "channel": "vrtcanvas",
+    "title": "Sous X",
+    "start": 1790888400000,
+    "end": 1790891640000,
+    "description": "Rosalie is sous X geboren, haar moeder verdween meteen na de bevalling. Els werd door haar familie onder druk gezet om haar pasgeboren kind af te staan, maar is jaren later wel herenigd met haar zoon. Fatma praat met betrokkenen over anoniem bevallen, en ontmoet expert Benoît die sous X-kinderen bijstaat in de zoektocht naar hun afkomst.",
+    "category": [
+      "Miniserie",
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34116245~~2FEP066152300001%2Cimi%3A5e36dc93e9f434c0d4d5d9a39399f8ebc8e29768/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34116245~~2FEP066152300001,imi:5e36dc93e9f434c0d4d5d9a39399f8ebc8e29768",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Miniserie",
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34116238~~2FSH066152300000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1790891640000:1rw80yh",
     "channel": "vrtcanvas",
     "title": "Het weer",
-    "start": 1790888460000,
-    "end": 1790888700000,
+    "start": 1790891640000,
+    "end": 1790892000000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
       "Actua"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F551398802%2Cimi%3A3f2a458936bb820ee4e51db3bda5627b12592dfe/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F551398804%2Cimi%3Adfe106a98c393e062309822ce6e8a2ad7e7e2acf/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 31670000,
-    "episode": 551398802,
+    "episode": 551398804,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F551398802,imi:3f2a458936bb820ee4e51db3bda5627b12592dfe",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F551398804,imi:dfe106a98c393e062309822ce6e8a2ad7e7e2acf",
       "episodeName": null,
       "genres": [
         "Weer",
@@ -493,64 +523,6 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
-    }
-  },
-  {
-    "id": "vrtcanvas:1790888700000:1rwzz8l",
-    "channel": "vrtcanvas",
-    "title": "De Verrekijkers",
-    "start": 1790888700000,
-    "end": 1790891400000,
-    "description": "De Verrekijkers analyseren de wereld en zetten één buitenlands thema centraal. Van geopolitieke spanningen tot maatschappelijke verschuivingen: Kobe Ilsen en Björn Soenens nemen de luisteraar mee voorbij de headlines, op zoek naar de context.",
-    "category": [
-      "Actua",
-      "Talkshow"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34115233~~2FEP063904990014%2Cimi%3A69dd13a5d1b34b2c71d91dd733bf414075f39348/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 14,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34115233~~2FEP063904990014,imi:69dd13a5d1b34b2c71d91dd733bf414075f39348",
-      "episodeName": "Aflevering 14",
-      "genres": [
-        "Actua",
-        "Talkshow"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32875733~~2FSH063904990000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1790891400000:715c2v",
-    "channel": "vrtcanvas",
-    "title": "Nachtlus",
-    "start": 1790891400000,
-    "end": 1790913600000,
-    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
-    "category": [
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816251%2Cimi%3Adee1b275f996e4c57de93fdbfb2cffc971ff2fa8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 57190000,
-    "episode": 554816251,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816251,imi:dee1b275f996e4c57de93fdbfb2cffc971ff2fa8",
-      "episodeName": null,
-      "genres": [
-        "Entertainment"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
     }
   }
 ]
