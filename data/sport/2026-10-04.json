@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1791069600000:xykime",
+    "id": "sport:playsports1:1791070080000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791069600000,
+    "start": 1791070080000,
     "end": 1791090000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -48,7 +48,7 @@
   {
     "id": "sport:playsports1:1791135480000:qjkkk5",
     "externalId": null,
-    "title": "Howard Webb",
+    "title": "Granit Xhaka",
     "home": null,
     "away": null,
     "competition": "Premier League",
@@ -56,7 +56,7 @@
     "start": 1791135480000,
     "end": 1791136980000,
     "status": "aankomend",
-    "description": "Een gesprek met voormalig Premier League-scheidsrechter Howard Webb over zijn carrière als politieagent in South Yorkshire en zijn ontwikkeling tot een van de meest gerespecteerde scheidsrechters in het wereldvoetbal.",
+    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -184,15 +184,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791072480000:xykime",
+    "id": "sport:playsports3:1791069900000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791072480000,
-    "end": 1791088800000,
+    "start": 1791069900000,
+    "end": 1791088920000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -207,14 +207,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791088800000:11quqlf",
+    "id": "sport:playsports3:1791088920000:11quqlf",
     "externalId": null,
     "title": "Grasmaaierracen",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1791088800000,
+    "start": 1791088920000,
     "end": 1791089700000,
     "status": "aankomend",
     "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
@@ -345,17 +345,40 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791109500000:1at0aor",
+    "id": "sport:playsports3:1791107400000:i67pjl",
     "externalId": null,
-    "title": "Aflevering 2",
+    "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791109500000,
+    "start": 1791107400000,
+    "end": 1791108300000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1791108300000:1at0aor",
+    "externalId": null,
+    "title": "Aflevering 3",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1791108300000,
     "end": 1791111600000,
     "status": "aankomend",
-    "description": "Een uitgebreid gesprek met Roger De Coster. Hij blikt terug op zijn carrière en vertelt over verschillende aspecten van de motorcross. In gesprek met Kris Meertens haalt Roger interessante verhalen op en deelt hij zijn inzichten over de motorcross.",
+    "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -399,7 +422,7 @@
     "competition": null,
     "sport": "Motorsport",
     "start": 1791115200000,
-    "end": 1791115920000,
+    "end": 1791116100000,
     "status": "aankomend",
     "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
     "source": "epg",
@@ -437,6 +460,29 @@
     ]
   },
   {
+    "id": "sport:playsports3:1791120600000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1791120600000,
+    "end": 1791122100000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:playsports3:1791122100000:bjf8gr",
     "externalId": null,
     "title": "Race 3 (MXGP & Open)",
@@ -462,15 +508,15 @@
   {
     "id": "sport:playsports3:1791126900000:1at0aor",
     "externalId": null,
-    "title": "Aflevering 2",
+    "title": "Aflevering 3",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
     "start": 1791126900000,
-    "end": 1791129180000,
+    "end": 1791130200000,
     "status": "aankomend",
-    "description": "Een uitgebreid gesprek met Roger De Coster. Hij blikt terug op zijn carrière en vertelt over verschillende aspecten van de motorcross. In gesprek met Kris Meertens haalt Roger interessante verhalen op en deelt hij zijn inzichten over de motorcross.",
+    "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -483,14 +529,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791069600000:xykime",
+    "id": "sport:playsports4:1791070020000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791069600000,
+    "start": 1791070020000,
     "end": 1791090000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -560,7 +606,7 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1791101040000,
-    "end": 1791108240000,
+    "end": 1791108900000,
     "status": "aankomend",
     "description": "Verslag van de Hangzhou Open, gespeeld in Hangzhou, China.",
     "source": "epg",
@@ -575,15 +621,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791108240000:1opp2ju",
+    "id": "sport:playsports4:1791108900000:1opp2ju",
     "externalId": null,
     "title": "ATP250: Finale, Hurkacz vs Davidovich Fokina",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791108240000,
-    "end": 1791115440000,
+    "start": 1791108900000,
+    "end": 1791116160000,
     "status": "aankomend",
     "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
     "source": "epg",
@@ -598,15 +644,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791115440000:3y5tln",
+    "id": "sport:playsports4:1791116160000:3y5tln",
     "externalId": null,
     "title": "GP van Oostenrijk: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791115440000,
-    "end": 1791120060000,
+    "start": 1791116160000,
+    "end": 1791120840000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
     "source": "epg",
@@ -621,15 +667,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791120060000:qbgze4",
+    "id": "sport:playsports4:1791120840000:qbgze4",
     "externalId": null,
     "title": "Dag 11",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791120060000,
-    "end": 1791126420000,
+    "start": 1791120840000,
+    "end": 1791127320000,
     "status": "aankomend",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
@@ -644,15 +690,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791126420000:182jlas",
+    "id": "sport:playsports4:1791127320000:182jlas",
     "externalId": null,
     "title": "WTA500: Dag 6, Halve Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791126420000,
-    "end": 1791131280000,
+    "start": 1791127320000,
+    "end": 1791132240000,
     "status": "aankomend",
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "source": "epg",
@@ -667,15 +713,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791131280000:182jlas",
+    "id": "sport:playsports4:1791132240000:182jlas",
     "externalId": null,
     "title": "WTA500: Halve Finale, Fernandez vs Chwalinska",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791131280000,
-    "end": 1791139860000,
+    "start": 1791132240000,
+    "end": 1791140820000,
     "status": "aankomend",
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "source": "epg",
@@ -690,15 +736,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791139860000:3y5tln",
+    "id": "sport:playsports4:1791140820000:3y5tln",
     "externalId": null,
     "title": "GP van Oostenrijk: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791139860000,
-    "end": 1791144480000,
+    "start": 1791140820000,
+    "end": 1791145500000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
     "source": "epg",
@@ -1357,129 +1403,14 @@
     ]
   },
   {
-    "id": "sport:match:1791066420000:ajax - willem ii",
-    "externalId": null,
-    "title": "Ajax - Willem II",
-    "home": "Ajax",
-    "away": "Willem II",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1791066420000,
-    "end": 1791072480000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791107400000:australie - mx2: race 2",
+    "id": "sport:match:1791116100000:australie - mx2: race 2",
     "externalId": null,
     "title": "Australië - MX2: Race 2",
     "home": "Australië",
     "away": "MX2: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1791107400000,
-    "end": 1791108120000,
-    "status": "aankomend",
-    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791108120000:australie - mxgp: race 1",
-    "externalId": null,
-    "title": "Australië - MXGP: Race 1",
-    "home": "Australië",
-    "away": "MXGP: Race 1",
-    "competition": null,
-    "sport": null,
-    "start": 1791108120000,
-    "end": 1791108840000,
-    "status": "aankomend",
-    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791108840000:australie - mxgp: race 2",
-    "externalId": null,
-    "title": "Australië - MXGP: Race 2",
-    "home": "Australië",
-    "away": "MXGP: Race 2",
-    "competition": null,
-    "sport": null,
-    "start": 1791108840000,
-    "end": 1791109500000,
-    "status": "aankomend",
-    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791115920000:australie - mx2: race 1",
-    "externalId": null,
-    "title": "Australië - MX2: Race 1",
-    "home": "Australië",
-    "away": "MX2: Race 1",
-    "competition": null,
-    "sport": null,
-    "start": 1791115920000,
-    "end": 1791116280000,
-    "status": "aankomend",
-    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791116280000:australie - mx2: race 2",
-    "externalId": null,
-    "title": "Australië - MX2: Race 2",
-    "home": "Australië",
-    "away": "MX2: Race 2",
-    "competition": null,
-    "sport": null,
-    "start": 1791116280000,
+    "start": 1791116100000,
     "end": 1791117000000,
     "status": "aankomend",
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
@@ -1495,15 +1426,38 @@
     ]
   },
   {
-    "id": "sport:match:1791129180000:feyenoord - fc utrecht",
+    "id": "sport:match:1791130200000:man. city-special",
+    "externalId": null,
+    "title": "Man. City-special",
+    "home": "Man. City",
+    "away": "special",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1791130200000,
+    "end": 1791133800000,
+    "status": "aankomend",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Man. City-special.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1791133800000:feyenoord - fc utrecht",
     "externalId": null,
     "title": "Feyenoord - FC Utrecht",
     "home": "Feyenoord",
     "away": "FC Utrecht",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1791129180000,
-    "end": 1791135420000,
+    "start": 1791133800000,
+    "end": 1791140040000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1518,15 +1472,15 @@
     ]
   },
   {
-    "id": "sport:match:1791135420000:besiktas - olympique marseille",
+    "id": "sport:match:1791140040000:besiktas - olympique marseille",
     "externalId": null,
     "title": "Beşiktaş - Olympique Marseille",
     "home": "Beşiktaş",
     "away": "Olympique Marseille",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791135420000,
-    "end": 1791142020000,
+    "start": 1791140040000,
+    "end": 1791146640000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1541,15 +1495,15 @@
     ]
   },
   {
-    "id": "sport:match:1791142020000:juventus - n.e.c.",
+    "id": "sport:match:1791146640000:juventus - n.e.c.",
     "externalId": null,
     "title": "Juventus - N.E.C.",
     "home": "Juventus",
     "away": "N.E.C.",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791142020000,
-    "end": 1791148320000,
+    "start": 1791146640000,
+    "end": 1791152940000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Juventus - N.E.C., gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1564,38 +1518,15 @@
     ]
   },
   {
-    "id": "sport:match:1791148320000:ajax - willem ii",
-    "externalId": null,
-    "title": "Ajax - Willem II",
-    "home": "Ajax",
-    "away": "Willem II",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1791148320000,
-    "end": 1791154320000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791144480000:australie - mx2: race 2",
+    "id": "sport:match:1791145500000:australie - mx2: race 2",
     "externalId": null,
     "title": "Australië - MX2: Race 2",
     "home": "Australië",
     "away": "MX2: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1791144480000,
-    "end": 1791148080000,
+    "start": 1791145500000,
+    "end": 1791149160000,
     "status": "aankomend",
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "source": "epg",
@@ -1610,15 +1541,15 @@
     ]
   },
   {
-    "id": "sport:match:1791148080000:australie - mxgp: race 2",
+    "id": "sport:match:1791149160000:australie - mxgp: race 2",
     "externalId": null,
     "title": "Australië - MXGP: Race 2",
     "home": "Australië",
     "away": "MXGP: Race 2",
     "competition": null,
     "sport": null,
-    "start": 1791148080000,
-    "end": 1791152040000,
+    "start": 1791149160000,
+    "end": 1791153180000,
     "status": "aankomend",
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "source": "epg",

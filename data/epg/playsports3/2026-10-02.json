@@ -1,9 +1,9 @@
 [
   {
-    "id": "playsports3:1790893560000:1va4v2m",
+    "id": "playsports3:1790892540000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790893560000,
+    "start": 1790892540000,
     "end": 1790899620000,
     "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -328,41 +328,101 @@
     }
   },
   {
-    "id": "playsports3:1790961180000:1va4v2m",
+    "id": "playsports3:1790961180000:3tkxx5",
     "channel": "playsports3",
-    "title": "Eredivisie",
+    "title": "MIDMID",
     "start": 1790961180000,
-    "end": 1790967540000,
-    "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
+    "end": 1790964840000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Man. City-special.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34244179~~2FEP037584270191%2Cimi%3Aaff8da653cfc71d0671596bc2111c5adfaeb38d8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34244179~~2FEP037584270191,imi:aff8da653cfc71d0671596bc2111c5adfaeb38d8",
+      "episodeName": "Man. City-special",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
+    }
+  },
+  {
+    "id": "playsports3:1790964840000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1790964840000,
+    "end": 1790966160000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F558137047%2Cimi%3A0cad170cf65070d8a8d9b990822768433c458f1e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 558137047,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F558137047,imi:0cad170cf65070d8a8d9b990822768433c458f1e",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1790966160000:1w47a4n",
+    "channel": "playsports3",
+    "title": "UEFA Champions League Magazine",
+    "start": 1790966160000,
+    "end": 1790967660000,
+    "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558316~~2FEP035850992003%2Cimi%3A9c4d7808b8dc75b80560fa39695f4ed12eec7540/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34065707~~2FEP027933070229%2Cimi%3A3eb917f5e68e51ce140916a5226a0686a0e6a25e/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026092003,
+    "season": 26,
+    "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558316~~2FEP035850992003,imi:9c4d7808b8dc75b80560fa39695f4ed12eec7540",
-      "episodeName": "Feyenoord - FC Utrecht",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34065707~~2FEP027933070229,imi:3eb917f5e68e51ce140916a5226a0686a0e6a25e",
+      "episodeName": "Aflevering 4",
       "genres": [
         "Sport",
         "Voetbal"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F308750~~2FSH027933070000"
     }
   },
   {
-    "id": "playsports3:1790967540000:ear1gl",
+    "id": "playsports3:1790967660000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790967540000,
-    "end": 1790973960000,
+    "start": 1790967660000,
+    "end": 1790974140000,
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -388,11 +448,11 @@
     }
   },
   {
-    "id": "playsports3:1790973960000:ear1gl",
+    "id": "playsports3:1790974140000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790973960000,
-    "end": 1790980140000,
+    "start": 1790974140000,
+    "end": 1790980320000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",

@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1790980140000:1va4v2m",
+    "id": "playsports3:1790980320000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790980140000,
-    "end": 1790986200000,
+    "start": 1790980320000,
+    "end": 1790986320000,
     "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,10 +30,38 @@
     }
   },
   {
-    "id": "playsports3:1791003300000:1va4v2m",
+    "id": "playsports3:1790986320000:xykime",
+    "channel": "playsports3",
+    "title": "Play Sports",
+    "start": 1790986320000,
+    "end": 1791003360000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A1e9d3ac0580d17ba595148f331e0d15509e0c501/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:1e9d3ac0580d17ba595148f331e0d15509e0c501",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports3:1791003360000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1791003300000,
+    "start": 1791003360000,
     "end": 1791009600000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -150,11 +178,41 @@
     }
   },
   {
-    "id": "playsports3:1791020400000:1w47a4n",
+    "id": "playsports3:1791020400000:1at0aor",
+    "channel": "playsports3",
+    "title": "Crosstalk",
+    "start": 1791020400000,
+    "end": 1791023700000,
+    "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34229921~~2FEP064913190003%2Cimi%3A43e0efd6668023f9e00bd96c6f45c47fff2bf04d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34229921~~2FEP064913190003,imi:43e0efd6668023f9e00bd96c6f45c47fff2bf04d",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33420151~~2FSH064913190000"
+    }
+  },
+  {
+    "id": "playsports3:1791023700000:1w47a4n",
     "channel": "playsports3",
     "title": "UEFA Champions League Magazine",
-    "start": 1791020400000,
-    "end": 1791021900000,
+    "start": 1791023700000,
+    "end": 1791025200000,
     "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "category": [
       "Sport",
@@ -180,11 +238,11 @@
     }
   },
   {
-    "id": "playsports3:1791021900000:ear1gl",
+    "id": "playsports3:1791025200000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1791021900000,
-    "end": 1791028440000,
+    "start": 1791025200000,
+    "end": 1791031800000,
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -210,41 +268,11 @@
     }
   },
   {
-    "id": "playsports3:1791028440000:ear1gl",
+    "id": "playsports3:1791031800000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1791028440000,
-    "end": 1791034740000,
-    "description": "Verslag van de wedstrijd Juventus - N.E.C., gespeeld in de competitiefase van de UEFA Europa League.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33414920~~2FEP028036721226%2Cimi%3A78370b5e36c8f848ea0797b6dcd0e3dd88002562/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 36720000,
-    "episode": 2026091726,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33414920~~2FEP028036721226,imi:78370b5e36c8f848ea0797b6dcd0e3dd88002562",
-      "episodeName": "Juventus - N.E.C.",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
-    }
-  },
-  {
-    "id": "playsports3:1791034740000:ear1gl",
-    "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1791034740000,
-    "end": 1791041040000,
+    "start": 1791031800000,
+    "end": 1791038100000,
     "description": "Verslag van de wedstrijd Real Sociedad - Bournemouth, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -270,11 +298,11 @@
     }
   },
   {
-    "id": "playsports3:1791041040000:1va4v2m",
+    "id": "playsports3:1791038100000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1791041040000,
-    "end": 1791047400000,
+    "start": 1791038100000,
+    "end": 1791044400000,
     "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -300,10 +328,40 @@
     }
   },
   {
-    "id": "playsports3:1791047400000:1p2p7re",
+    "id": "playsports3:1791044400000:1at0aor",
+    "channel": "playsports3",
+    "title": "Crosstalk",
+    "start": 1791044400000,
+    "end": 1791047820000,
+    "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34229921~~2FEP064913190003%2Cimi%3A29cc3b6b3e677ec1e2d93b4d04ec8014e4775324/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34229921~~2FEP064913190003,imi:29cc3b6b3e677ec1e2d93b4d04ec8014e4775324",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33420151~~2FSH064913190000"
+    }
+  },
+  {
+    "id": "playsports3:1791047820000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1791047400000,
+    "start": 1791047820000,
     "end": 1791051300000,
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
@@ -360,11 +418,41 @@
     }
   },
   {
-    "id": "playsports3:1791059400000:arbc9d",
+    "id": "playsports3:1791059400000:3tkxx5",
+    "channel": "playsports3",
+    "title": "MIDMID",
+    "start": 1791059400000,
+    "end": 1791063060000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Man. City-special.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34244179~~2FEP037584270191%2Cimi%3A8219001a5e049e02a3449defe5ee47c8b4508d03/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34244179~~2FEP037584270191,imi:8219001a5e049e02a3449defe5ee47c8b4508d03",
+      "episodeName": "Man. City-special",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
+    }
+  },
+  {
+    "id": "playsports3:1791063060000:arbc9d",
     "channel": "playsports3",
     "title": "The Paddock Live: Formule 1",
-    "start": 1791059400000,
-    "end": 1791060300000,
+    "start": 1791063060000,
+    "end": 1791063720000,
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "category": [
       "Sport",
@@ -390,11 +478,11 @@
     }
   },
   {
-    "id": "playsports3:1791060300000:ear1gl",
+    "id": "playsports3:1791063720000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1791060300000,
-    "end": 1791066420000,
+    "start": 1791063720000,
+    "end": 1791069900000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",

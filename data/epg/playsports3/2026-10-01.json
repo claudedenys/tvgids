@@ -272,7 +272,7 @@
     "channel": "playsports3",
     "title": "The Paddock Podcast",
     "start": 1790869980000,
-    "end": 1790873520000,
+    "end": 1790873580000,
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -298,41 +298,41 @@
     }
   },
   {
-    "id": "playsports3:1790873520000:arbc9d",
+    "id": "playsports3:1790873580000:i67pjl",
     "channel": "playsports3",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1790873520000,
-    "end": 1790874240000,
-    "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
+    "title": "Play Sports Highlights",
+    "start": 1790873580000,
+    "end": 1790874900000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Motorsport"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388454~~2FEP063235100094%2Cimi%3A3369ffc1cace602e64b06b10f681d8f850f8665e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F557889660%2Cimi%3Aaad91b617ceb2397ac78aed8ae20a0c4c5bb510f/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026092694,
+    "season": 50390000,
+    "episode": 557889660,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388454~~2FEP063235100094,imi:3369ffc1cace602e64b06b10f681d8f850f8665e",
-      "episodeName": "GP van Azerbeidzjan: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F557889660,imi:aad91b617ceb2397ac78aed8ae20a0c4c5bb510f",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Motorsport"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports3:1790874240000:1va4v2m",
+    "id": "playsports3:1790874900000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1790874240000,
-    "end": 1790880600000,
+    "start": 1790874900000,
+    "end": 1790881260000,
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -358,41 +358,71 @@
     }
   },
   {
-    "id": "playsports3:1790880600000:ear1gl",
+    "id": "playsports3:1790881260000:3tkxx5",
     "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1790880600000,
-    "end": 1790887320000,
-    "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
+    "title": "MIDMID",
+    "start": 1790881260000,
+    "end": 1790884920000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Man. City-special.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33414557~~2FEP028036721212%2Cimi%3Aad4e9b868c550aa7a7026fbcaa1c24de5eb66436/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34244179~~2FEP037584270191%2Cimi%3Aa736e7773865a8714ff01537e8b70cd4c6899962/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 36720000,
-    "episode": 2026091712,
+    "season": 7,
+    "episode": 3,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33414557~~2FEP028036721212,imi:ad4e9b868c550aa7a7026fbcaa1c24de5eb66436",
-      "episodeName": "Beşiktaş - Olympique Marseille",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34244179~~2FEP037584270191,imi:a736e7773865a8714ff01537e8b70cd4c6899962",
+      "episodeName": "Man. City-special",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports3:1790887320000:ear1gl",
+    "id": "playsports3:1790884920000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1790884920000,
+    "end": 1790886240000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F557889662%2Cimi%3Af97f9455bdf125b3287d9430963f267782d7cc8d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 557889662,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F557889662,imi:f97f9455bdf125b3287d9430963f267782d7cc8d",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1790886240000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1790887320000,
-    "end": 1790893560000,
+    "start": 1790886240000,
+    "end": 1790892540000,
     "description": "Verslag van de wedstrijd Juventus - N.E.C., gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",

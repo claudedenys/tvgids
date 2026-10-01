@@ -48,7 +48,7 @@
   {
     "id": "sport:playsports1:1790964000000:qjkkk5",
     "externalId": null,
-    "title": "Howard Webb",
+    "title": "Granit Xhaka",
     "home": null,
     "away": null,
     "competition": "Premier League",
@@ -56,7 +56,7 @@
     "start": 1790964000000,
     "end": 1790965620000,
     "status": "aankomend",
-    "description": "Een gesprek met voormalig Premier League-scheidsrechter Howard Webb over zijn carrière als politieagent in South Yorkshire en zijn ontwikkeling tot een van de meest gerespecteerde scheidsrechters in het wereldvoetbal.",
+    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -264,6 +264,52 @@
     "end": 1790961180000,
     "status": "aankomend",
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1790964840000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1790964840000,
+    "end": 1790966160000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1790966160000:1w47a4n",
+    "externalId": null,
+    "title": "Aflevering 4",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1790966160000,
+    "end": 1790967660000,
+    "status": "aankomend",
+    "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1127,14 +1173,14 @@
     ]
   },
   {
-    "id": "sport:match:1790893560000:ajax - willem ii",
+    "id": "sport:match:1790892540000:ajax - willem ii",
     "externalId": null,
     "title": "Ajax - Willem II",
     "home": "Ajax",
     "away": "Willem II",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1790893560000,
+    "start": 1790892540000,
     "end": 1790899620000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
@@ -1288,17 +1334,17 @@
     ]
   },
   {
-    "id": "sport:match:1790961180000:feyenoord - fc utrecht",
+    "id": "sport:match:1790961180000:man. city-special",
     "externalId": null,
-    "title": "Feyenoord - FC Utrecht",
-    "home": "Feyenoord",
-    "away": "FC Utrecht",
-    "competition": "Eredivisie",
+    "title": "Man. City-special",
+    "home": "Man. City",
+    "away": "special",
+    "competition": null,
     "sport": "Voetbal",
     "start": 1790961180000,
-    "end": 1790967540000,
+    "end": 1790964840000,
     "status": "aankomend",
-    "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Man. City-special.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1311,15 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1790967540000:ac milan - benfica",
+    "id": "sport:match:1790967660000:ac milan - benfica",
     "externalId": null,
     "title": "AC Milan - Benfica",
     "home": "AC Milan",
     "away": "Benfica",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1790967540000,
-    "end": 1790973960000,
+    "start": 1790967660000,
+    "end": 1790974140000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1334,15 +1380,15 @@
     ]
   },
   {
-    "id": "sport:match:1790973960000:sunderland - az",
+    "id": "sport:match:1790974140000:sunderland - az",
     "externalId": null,
     "title": "Sunderland - AZ",
     "home": "Sunderland",
     "away": "AZ",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1790973960000,
-    "end": 1790980140000,
+    "start": 1790974140000,
+    "end": 1790980320000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",

@@ -142,7 +142,7 @@
     "end": 1790857800000,
     "description": "Homeshopping.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/teleshop-771511822.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -183,7 +183,7 @@
     "channel": "rtl5",
     "title": "Stop! Politie UK",
     "start": 1790866800000,
-    "end": 1790870700000,
+    "end": 1790870880000,
     "description": "Realityserie over het werk van de Britse verkeerspolitie.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/stop-politie-uk-771148842.jpg",
@@ -201,11 +201,11 @@
     }
   },
   {
-    "id": "rtl5:1790870700000:f5s2le",
+    "id": "rtl5:1790870880000:f5s2le",
     "channel": "rtl5",
     "title": "Stop! Politie UK",
-    "start": 1790870700000,
-    "end": 1790874300000,
+    "start": 1790870880000,
+    "end": 1790874420000,
     "description": "Realityserie over het werk van de Britse verkeerspolitie.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/stop-politie-uk-771148842.jpg",
@@ -223,14 +223,14 @@
     }
   },
   {
-    "id": "rtl5:1790874300000:1stldm3",
+    "id": "rtl5:1790874420000:1stldm3",
     "channel": "rtl5",
     "title": "De Pfaff's",
-    "start": 1790874300000,
-    "end": 1790876700000,
+    "start": 1790874420000,
+    "end": 1790876880000,
     "description": "Jean-Marie is te gast bij het Gala van de Gouden Schoen.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-pfaff-s-774346252.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-pfaff-s-779344882.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -245,14 +245,14 @@
     }
   },
   {
-    "id": "rtl5:1790876700000:1stldm3",
+    "id": "rtl5:1790876880000:1stldm3",
     "channel": "rtl5",
     "title": "De Pfaff's",
-    "start": 1790876700000,
-    "end": 1790879400000,
+    "start": 1790876880000,
+    "end": 1790879220000,
     "description": "Jean-Marie wordt in Antwerpen gehuldigd, wat reden is voor een feestje.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-pfaff-s-774346252.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-pfaff-s-779344882.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -267,10 +267,10 @@
     }
   },
   {
-    "id": "rtl5:1790879400000:phpers",
+    "id": "rtl5:1790879220000:phpers",
     "channel": "rtl5",
     "title": "André Hazes: En nu ...",
-    "start": 1790879400000,
+    "start": 1790879220000,
     "end": 1790884500000,
     "description": "Andr&eacute; Hazes geniet weer van het leven in de realityserie Andr&eacute; Hazes: En Nu.",
     "category": [],
@@ -293,7 +293,7 @@
     "channel": "rtl5",
     "title": "112 vandaag",
     "start": 1790884500000,
-    "end": 1790886300000,
+    "end": 1790885880000,
     "description": "Reportages over de meldingen en calamiteiten die bij het nationale noodnummer binnenkomen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/1/carrousel/112-vandaag-767271092.jpg",
@@ -308,11 +308,11 @@
     }
   },
   {
-    "id": "rtl5:1790886300000:146wvl6",
+    "id": "rtl5:1790885880000:146wvl6",
     "channel": "rtl5",
     "title": "RTL Weer",
-    "start": 1790886300000,
-    "end": 1790886900000,
+    "start": 1790885880000,
+    "end": 1790886540000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
@@ -327,16 +327,17 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "rerun"
       ]
     }
   },
   {
-    "id": "rtl5:1790886900000:uc4b4u",
+    "id": "rtl5:1790886540000:uc4b4u",
     "channel": "rtl5",
     "title": "24 uur in de ER",
-    "start": 1790886900000,
-    "end": 1790890500000,
+    "start": 1790886540000,
+    "end": 1790890680000,
     "description": "Realityserie over de eerstehulpafdeling van St.",
     "category": [],
     "image": null,
@@ -354,11 +355,11 @@
     }
   },
   {
-    "id": "rtl5:1790890500000:1rwmaq3",
+    "id": "rtl5:1790890680000:1rwmaq3",
     "channel": "rtl5",
     "title": "112 vandaag",
-    "start": 1790890500000,
-    "end": 1790892000000,
+    "start": 1790890680000,
+    "end": 1790892060000,
     "description": "Reportages over de meldingen en calamiteiten die bij het nationale noodnummer binnenkomen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/1/carrousel/112-vandaag-767271092.jpg",

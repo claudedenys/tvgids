@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "Pawn Stars",
     "start": 1790898900000,
-    "end": 1790902200000,
+    "end": 1790901600000,
     "description": "Corey krijgt een les in magische wezens wanneer een levensgrote huiself van Harry Potter de winkel binnenkomt. Spencer komt vers van een trip met een busje vol met items.",
     "category": [
       "Reality",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1790902200000:48zb9",
+    "id": "play6:1790901600000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1790902200000,
-    "end": 1790910000000,
+    "start": 1790901600000,
+    "end": 1790909400000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:bb4fede94b6bffc0640eba4192ceaad3d35d5b88",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1790909400000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1790909400000,
+    "end": 1790910000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4e4a4cca19c57adc11af807540794dab10aace1e",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
