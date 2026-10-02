@@ -31,7 +31,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1791127920000,
-    "end": 1791129480000,
+    "end": 1791129540000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -54,7 +54,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1791135480000,
-    "end": 1791136980000,
+    "end": 1791137100000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -69,15 +69,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1791136980000:1cxkdp3",
+    "id": "sport:playsports1:1791137100000:1cxkdp3",
     "externalId": null,
     "title": "Olise, when the game speaks",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1791136980000,
-    "end": 1791138540000,
+    "start": 1791137100000,
+    "end": 1791138720000,
     "status": "aankomend",
     "description": "Met zijn doelpunten veroverde Kane snel een plekje in het hart van de Bayern-fans. Hij bereikte de ene historische mijlpaal na de andere, waaronder het ongeëvenaarde aantal van 100 doelpunten in slechts 78 wedstrijden.",
     "source": "epg",
@@ -184,14 +184,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791069900000:xykime",
+    "id": "sport:playsports3:1791070320000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791069900000,
+    "start": 1791070320000,
     "end": 1791088920000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -422,9 +422,32 @@
     "competition": null,
     "sport": "Motorsport",
     "start": 1791115200000,
-    "end": 1791116100000,
+    "end": 1791115980000,
     "status": "aankomend",
     "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1791115980000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1791115980000,
+    "end": 1791117000000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1311,14 +1334,14 @@
     ]
   },
   {
-    "id": "sport:match:1791129480000:fulham - manchester united",
+    "id": "sport:match:1791129540000:fulham - manchester united",
     "externalId": null,
     "title": "Fulham - Manchester United",
     "home": "Fulham",
     "away": "Manchester United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1791129480000,
+    "start": 1791129540000,
     "end": 1791135480000,
     "status": "aankomend",
     "description": "Vanuit het Craven Cottage in Fulham, Londen, Engeland.",
@@ -1334,15 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1791138540000:nottingham forest - coventry city",
+    "id": "sport:match:1791138720000:nottingham forest - coventry city",
     "externalId": null,
     "title": "Nottingham Forest - Coventry City",
     "home": "Nottingham Forest",
     "away": "Coventry City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1791138540000,
-    "end": 1791144840000,
+    "start": 1791138720000,
+    "end": 1791145140000,
     "status": "aankomend",
     "description": "Vanuit The City Ground in Nottingham, England.",
     "source": "epg",
@@ -1357,15 +1380,15 @@
     ]
   },
   {
-    "id": "sport:match:1791144840000:vfb stuttgart - borussia dortmund",
+    "id": "sport:match:1791145140000:vfb stuttgart - borussia dortmund",
     "externalId": null,
     "title": "VfB Stuttgart - Borussia Dortmund",
     "home": "VfB Stuttgart",
     "away": "Borussia Dortmund",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1791144840000,
-    "end": 1791151080000,
+    "start": 1791145140000,
+    "end": 1791151560000,
     "status": "aankomend",
     "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
     "source": "epg",
@@ -1380,52 +1403,6 @@
     ]
   },
   {
-    "id": "sport:match:1791151080000:fc schalke 04 - sv elversberg",
-    "externalId": null,
-    "title": "FC Schalke 04 - SV Elversberg",
-    "home": "FC Schalke 04",
-    "away": "SV Elversberg",
-    "competition": "Bundesliga",
-    "sport": "Voetbal",
-    "start": 1791151080000,
-    "end": 1791157200000,
-    "status": "aankomend",
-    "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:match:1791116100000:australie - mx2: race 2",
-    "externalId": null,
-    "title": "Australië - MX2: Race 2",
-    "home": "Australië",
-    "away": "MX2: Race 2",
-    "competition": null,
-    "sport": null,
-    "start": 1791116100000,
-    "end": 1791117000000,
-    "status": "aankomend",
-    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
     "id": "sport:match:1791130200000:man. city-special",
     "externalId": null,
     "title": "Man. City-special",
@@ -1434,7 +1411,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1791130200000,
-    "end": 1791133800000,
+    "end": 1791134220000,
     "status": "aankomend",
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Man. City-special.",
     "source": "epg",
@@ -1449,15 +1426,15 @@
     ]
   },
   {
-    "id": "sport:match:1791133800000:feyenoord - fc utrecht",
+    "id": "sport:match:1791134220000:feyenoord - fc utrecht",
     "externalId": null,
     "title": "Feyenoord - FC Utrecht",
     "home": "Feyenoord",
     "away": "FC Utrecht",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1791133800000,
-    "end": 1791140040000,
+    "start": 1791134220000,
+    "end": 1791140520000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1472,15 +1449,15 @@
     ]
   },
   {
-    "id": "sport:match:1791140040000:besiktas - olympique marseille",
+    "id": "sport:match:1791140520000:besiktas - olympique marseille",
     "externalId": null,
     "title": "Beşiktaş - Olympique Marseille",
     "home": "Beşiktaş",
     "away": "Olympique Marseille",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791140040000,
-    "end": 1791146640000,
+    "start": 1791140520000,
+    "end": 1791147300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1495,15 +1472,15 @@
     ]
   },
   {
-    "id": "sport:match:1791146640000:juventus - n.e.c.",
+    "id": "sport:match:1791147300000:juventus - n.e.c.",
     "externalId": null,
     "title": "Juventus - N.E.C.",
     "home": "Juventus",
     "away": "N.E.C.",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791146640000,
-    "end": 1791152940000,
+    "start": 1791147300000,
+    "end": 1791153720000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Juventus - N.E.C., gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",

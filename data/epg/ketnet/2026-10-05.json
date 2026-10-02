@@ -234,7 +234,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1791174900000,
-    "end": 1791175500000,
+    "end": 1791175200000,
     "description": "Dropje helpt een jonge trommelaar die denkt dat hij niet kan trommelen. Uiteindelijk bepaalt hij het ritme voor de hele fanfare.",
     "category": [
       "Kids",
@@ -260,11 +260,11 @@
     }
   },
   {
-    "id": "ketnet:1791175500000:out9ds",
+    "id": "ketnet:1791175200000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1791175500000,
-    "end": 1791175800000,
+    "start": 1791175200000,
+    "end": 1791175500000,
     "description": "Sarah zingt samen met haar vriendjes de leukste kinderliedjes, en iedereen doet mee.",
     "category": [
       "Kunstnijverheid"
@@ -288,11 +288,11 @@
     }
   },
   {
-    "id": "ketnet:1791175800000:ykedwl",
+    "id": "ketnet:1791175500000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1791175800000,
-    "end": 1791176400000,
+    "start": 1791175500000,
+    "end": 1791176100000,
     "description": "Bing speelt met zijn speelgoedauto vlakbij zijn ontbijt en gooit dan per ongeluk zijn ontbijtgranen over de vloer. Hij helpt Flop met schoonmaken met behulp van Stoffie de stofzuiger, maar ze zien beiden niet dat Stoffie ook de auto opzuigt.",
     "category": [
       "Kids",
@@ -318,11 +318,11 @@
     }
   },
   {
-    "id": "ketnet:1791176400000:1ysf81w",
+    "id": "ketnet:1791176100000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1791176400000,
-    "end": 1791177000000,
+    "start": 1791176100000,
+    "end": 1791176700000,
     "description": "Tao organiseert een circus, maar blesseert zich voor de show. Bo springt in als artiest en jongleert, balanceert en vliegt zelfs uit een kanon.",
     "category": [
       "Kids",
@@ -348,11 +348,11 @@
     }
   },
   {
-    "id": "ketnet:1791177000000:out9ds",
+    "id": "ketnet:1791176700000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1791177000000,
-    "end": 1791177300000,
+    "start": 1791176700000,
+    "end": 1791177000000,
     "description": "Sarah zingt samen met haar vriendjes de leukste kinderliedjes, en iedereen doet mee.",
     "category": [
       "Kunstnijverheid"
@@ -376,11 +376,11 @@
     }
   },
   {
-    "id": "ketnet:1791177300000:ne1xug",
+    "id": "ketnet:1791177000000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1791177300000,
-    "end": 1791177900000,
+    "start": 1791177000000,
+    "end": 1791177600000,
     "description": "Cornelia, Cesar en Charlie zijn de Biggenbouwers. Deze broertjes en zus met krulstaarten hebben één passie en dat is: bouwen. Ze lossen problemen op en maken dromen waar voor hun vrienden. Als ze samenwerken, maken ze het onmogelijke waar!",
     "category": [
       "Kids",
@@ -403,6 +403,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1791177600000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1791177600000,
+    "end": 1791177900000,
+    "description": "Samson en Marie hebben verse garnalen. De burgemeester gaat een wedstrijdje aan met Marie. Wie het snelste tien garnalen kan pellen, wint. De verliezer doet de vaat. Maar de burgemeester is tijdens de wedstrijd wel heel erg snel...",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19779428~~2FEP036193980102%2Cimi%3A2bf6d4e54e0e5d478ab0b5d6a895938e294aa2d8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 102,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19779428~~2FEP036193980102,imi:2bf6d4e54e0e5d478ab0b5d6a895938e294aa2d8",
+      "episodeName": "Garnalen",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -2562,7 +2592,7 @@
     "channel": "ketnet",
     "title": "Waiko: reis door de ruimte",
     "start": 1791213300000,
-    "end": 1791213900000,
+    "end": 1791213600000,
     "description": "Goed dat Nova een straffe telescoop heeft, want Neptunus is de enige planeet in ons zonnestelsel die je niet kan zien met het blote oog. Dat komt omdat hij zo ver weg van de zon staat. Kijk je mee naar deze fascinerende planeet?",
     "category": [
       "Avontuur",
@@ -2585,6 +2615,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31888542~~2FSH061953480000"
+    }
+  },
+  {
+    "id": "ketnet:1791213600000:10su53o",
+    "channel": "ketnet",
+    "title": "Where's Chicky?",
+    "start": 1791213600000,
+    "end": 1791213900000,
+    "description": "Komische computeranimatiereeks over de avonturen van een kuikentje.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15591643~~2FEP039314480164%2Cimi%3Ac593fd701669ed6af85c269eb29edf7312515f3c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 40,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F15591643~~2FEP039314480164,imi:c593fd701669ed6af85c269eb29edf7312515f3c",
+      "episodeName": "Zwembandje",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F11191687~~2FSH039314480000"
     }
   },
   {
@@ -2770,7 +2830,7 @@
     "channel": "ketnet",
     "title": "Grizzy & the Lemmings",
     "start": 1791219600000,
-    "end": 1791220200000,
+    "end": 1791219900000,
     "description": "Als Grizzy de Lemmingen uit de blokhut jaagt, landen de diertjes op een traditioneel huisje in een bamboebos waar ze op een doos met gelukskoekjes stuiten. Gewapend met hun magische koekjes gaan ze op Grizzy af.",
     "category": [
       "Kids",
@@ -2786,6 +2846,36 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F20038213~~2FEP041241250372,imi:9f122b9c92809b4474cb2041a852b95c9f212275",
       "episodeName": "Gelukslemming",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
+    }
+  },
+  {
+    "id": "ketnet:1791219900000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1791219900000,
+    "end": 1791220200000,
+    "description": "Grizzy houdt een picknick en de Lemmingen hebben het weer op zijn pot Yummy voorzien. Grizzy probeert van de Lemmingen af te komen door ze in een bal te stoppen. Een struisvogel denkt dat dit haar ei is.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20467912~~2FEP041241250467%2Cimi%3A707aefcd0d715a6a5026ffc1ce0b63d0ceaa1911/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 47,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20467912~~2FEP041241250467,imi:707aefcd0d715a6a5026ffc1ce0b63d0ceaa1911",
+      "episodeName": "Onecht kind",
       "genres": [
         "Kids",
         "Animatie"

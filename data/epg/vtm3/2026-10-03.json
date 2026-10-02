@@ -48,10 +48,34 @@
     }
   },
   {
-    "id": "vtm3:1791028200000:g7d1kr",
+    "id": "vtm3:1791028200000:48zb9",
+    "channel": "vtm3",
+    "title": "Geen uitzending",
+    "start": 1791028200000,
+    "end": 1791028500000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:893e0b1dcf8b0732d4dd8dd2783a8df63eb0ff89",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm3:1791028500000:g7d1kr",
     "channel": "vtm3",
     "title": "Law & Order Toronto: Criminal Intent",
-    "start": 1791028200000,
+    "start": 1791028500000,
     "end": 1791031800000,
     "description": "Een geliefd koppel uit de buurt wordt vermoord in hun zaak. Op het eerste gezicht lijkt alles te wijzen op een overval, maar Graff en Bateman ontdekken al gauw dat het een gerichte aanval was.",
     "category": [

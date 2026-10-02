@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "Criminal Minds",
     "start": 1791072000000,
-    "end": 1791075300000,
+    "end": 1791074700000,
     "description": "`The Replicator', een seriemoordenaar waar het BAU-team al een tijdje naar op zoek is, heeft toegeslagen in Philadelphia. De plaatselijke politie staat niet te springen om het team te helpen bij het onderzoek.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1791075300000:48zb9",
+    "id": "play5:1791074700000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1791075300000,
-    "end": 1791082800000,
+    "start": 1791074700000,
+    "end": 1791082500000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e464daa690930d5492cd2dbf93bbd26a4edecbec",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1791082500000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1791082500000,
+    "end": 1791082800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:657de204b9fc782a2926f4b2ce26d9a31e2b4cea",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

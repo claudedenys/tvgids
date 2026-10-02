@@ -1,10 +1,34 @@
 [
   {
-    "id": "vtm:1791072000000:48zb9",
+    "id": "vtm:1791068700000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1791072000000,
-    "end": 1791086100000,
+    "start": 1791068700000,
+    "end": 1791072300000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f8ab6555d1654ec11c38e8e6dd1ee78e561d8d8a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm:1791072300000:48zb9",
+    "channel": "vtm",
+    "title": "Geen uitzending",
+    "start": 1791072300000,
+    "end": 1791086400000,
     "description": null,
     "category": [],
     "image": null,
@@ -24,17 +48,17 @@
     }
   },
   {
-    "id": "vtm:1791086100000:9sxbym",
+    "id": "vtm:1791086400000:9sxbym",
     "channel": "vtm",
     "title": "Plop & de Peppers",
-    "start": 1791086100000,
-    "end": 1791086700000,
+    "start": 1791086400000,
+    "end": 1791087000000,
     "description": "Kabouter Plop helpt met klusjes, maar al snel komen zijn vrienden erachter dat hij last heeft van hoogtevrees. Plopt schaamt zich, maar gelukkig weet Pepijn hoe hij zijn vriend kan helpen om van zijn hoogtevrees af te komen.",
     "category": [
       "Kids",
       "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20721313~~2FEP025207930061%2Cimi%3A638ad4e81cab2ea99261df6c63fec1a837f5dd23/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20721313~~2FEP025207930061%2Cimi%3Aa3c8b642fd962f2ea856c6328f20fe6da586d3d0/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 2,
@@ -42,7 +66,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20721313~~2FEP025207930061,imi:638ad4e81cab2ea99261df6c63fec1a837f5dd23",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20721313~~2FEP025207930061,imi:a3c8b642fd962f2ea856c6328f20fe6da586d3d0",
       "episodeName": "Plop Heeft Hoogtevrees",
       "genres": [
         "Kids",
@@ -54,11 +78,11 @@
     }
   },
   {
-    "id": "vtm:1791086700000:4bj6iw",
+    "id": "vtm:1791087000000:4bj6iw",
     "channel": "vtm",
     "title": "Heidi",
-    "start": 1791086700000,
-    "end": 1791087900000,
+    "start": 1791087000000,
+    "end": 1791088200000,
     "description": "Juffrouw Rottenmeier is van plan om ontslag te nemen en Clara vindt dat heel erg. Heidi denkt dat het haar schuld is dat juffrouw Rottenmeier weg wil en besluit terug te gaan naar de bergen, zodat de gouvernante dan misschien toch blijft.",
     "category": [
       "Kids",
@@ -84,11 +108,11 @@
     }
   },
   {
-    "id": "vtm:1791087900000:1xqpbaz",
+    "id": "vtm:1791088200000:1xqpbaz",
     "channel": "vtm",
     "title": "De avonturen van Lolly Lolbroek",
-    "start": 1791087900000,
-    "end": 1791088800000,
+    "start": 1791088200000,
+    "end": 1791089100000,
     "description": "Hubert gaat tijdens een talentenjacht goochelen, maar hij bakt er maar weinig van. Hij is teleurgesteld: de vraag is of hij ooit de talentenjacht zal kunnen winnen op deze manier.",
     "category": [
       "Entertainment",
@@ -114,11 +138,11 @@
     }
   },
   {
-    "id": "vtm:1791088800000:qh1ga3",
+    "id": "vtm:1791089100000:qh1ga3",
     "channel": "vtm",
     "title": "Maya de Bij",
-    "start": 1791088800000,
-    "end": 1791089400000,
+    "start": 1791089100000,
+    "end": 1791089700000,
     "description": "Maya raakt bevriend met zweefvlieg Syrphie, een vlieg die eruitziet als een wesp. Als de wespen bijzondere pollen willen stelen, helpt Syrphie Maya de honing terug te krijgen door zich voor te doen als wesp tussen Stinger en zijn aanhangers.",
     "category": [
       "Kids",
@@ -144,10 +168,10 @@
     }
   },
   {
-    "id": "vtm:1791089400000:qh1ga3",
+    "id": "vtm:1791089700000:qh1ga3",
     "channel": "vtm",
     "title": "Maya de Bij",
-    "start": 1791089400000,
+    "start": 1791089700000,
     "end": 1791090300000,
     "description": "Willy en Maya gaan op zoek naar iets te eten voor vier baby-vuurvliegjes die honger hebben. Maar het probleem wordt steeds groter, omdat er steeds nieuwe baby-vuurvliegjes bij komen.",
     "category": [
@@ -356,7 +380,7 @@
     "channel": "vtm",
     "title": "Nonkel Jef",
     "start": 1791098400000,
-    "end": 1791099900000,
+    "end": 1791099600000,
     "description": "Nonkel Jef stelt aan Lizette voor om haar zaak over te nemen. De cafébazin heeft hier wel oren naar, want ze droomt er van om opnieuw boerin te worden. Bruno vermoedt dat Jef verliefd is.",
     "category": [
       "Comedy"
@@ -380,10 +404,10 @@
     }
   },
   {
-    "id": "vtm:1791099900000:48zb9",
+    "id": "vtm:1791099600000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1791099900000,
+    "start": 1791099600000,
     "end": 1791107100000,
     "description": null,
     "category": [],
@@ -788,7 +812,7 @@
     "channel": "vtm",
     "title": "Alloo bij de Wegpolitie",
     "start": 1791144300000,
-    "end": 1791146400000,
+    "end": 1791146700000,
     "description": "De wegpolitie stopt een vrachtwagenchauffeur voor een inhaalverbod. Agenten confronteren snelheidsduivels, waaronder een Nederlander en een chauffeur met een zwangere vrouw, met hun overtredingen.",
     "category": [
       "Docu",
@@ -814,11 +838,11 @@
     }
   },
   {
-    "id": "vtm:1791146400000:u48443",
+    "id": "vtm:1791146700000:u48443",
     "channel": "vtm",
     "title": "Alloo bij de Wegpolitie",
-    "start": 1791146400000,
-    "end": 1791148800000,
+    "start": 1791146700000,
+    "end": 1791149100000,
     "description": "De wegpolitie onderschept twee snelheidsduivels en een man zonder rijbewijs. Ze stuiten ook op een kop-staartaanrijding waar bestuurders geen reddingsstrook vormen. De agenten handelen daadkrachtig en zorgen voor hulpverlening.",
     "category": [
       "Docu",
@@ -844,11 +868,11 @@
     }
   },
   {
-    "id": "vtm:1791148800000:ptkscg",
+    "id": "vtm:1791149100000:ptkscg",
     "channel": "vtm",
     "title": "Telefacts",
-    "start": 1791148800000,
-    "end": 1791152100000,
+    "start": 1791149100000,
+    "end": 1791152400000,
     "description": "Er gebeuren steeds vaker incidenten met dronken of gedrogeerde passagiers in vliegtuigen. Piloten kunnen soms niet anders dan een tussenlanding maken zodat de politie de lastpakken uit het vliegtuig kan halen.",
     "category": [
       "Docu"

@@ -1,0 +1,556 @@
+[
+  {
+    "id": "vrtcanvas:1791234300000:715c2v",
+    "channel": "vrtcanvas",
+    "title": "Nachtlus",
+    "start": 1791234300000,
+    "end": 1791259200000,
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816246%2Cimi%3A30d2e94462a14ce2794b46b9ce9324cb6d5d206a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 57190000,
+    "episode": 554816246,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816246,imi:30d2e94462a14ce2794b46b9ce9324cb6d5d206a",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791259200000:677l6h",
+    "channel": "vrtcanvas",
+    "title": "Radio 2: Goeiemorgen morgen",
+    "start": 1791259200000,
+    "end": 1791270000000,
+    "description": "Live vanuit de studio van Radio 2.",
+    "category": [
+      "Talkshow",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34162435~~2FEP062272870148%2Cimi%3A6846aff8d72d2466b108f9d7679bd5c076e68f97/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 148,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34162435~~2FEP062272870148,imi:6846aff8d72d2466b108f9d7679bd5c076e68f97",
+      "episodeName": "Aflevering 148",
+      "genres": [
+        "Talkshow",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32034719~~2FSH062272870000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791270000000:1jdr2w0",
+    "channel": "vrtcanvas",
+    "title": "Herfstbeelden",
+    "start": 1791270000000,
+    "end": 1791278100000,
+    "description": "Programma met beelden van de herfst.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34052222~~2FEP033154570061%2Cimi%3Aa7e45f2f8261a6f7194c0842606e6c81cae15347/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102014,
+    "episode": 27,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34052222~~2FEP033154570061,imi:a7e45f2f8261a6f7194c0842606e6c81cae15347",
+      "episodeName": "Aflevering 27",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791278100000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1791278100000,
+    "end": 1791280800000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34161661~~2FEP029086300729%2Cimi%3A5568c1c7a5401487260ac51212b9374dd7ceb4c0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 89,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34161661~~2FEP029086300729,imi:5568c1c7a5401487260ac51212b9374dd7ceb4c0",
+      "episodeName": "Aflevering 89",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791280800000:jrwg93",
+    "channel": "vrtcanvas",
+    "title": "Radio 1: Nieuwe Feiten",
+    "start": 1791280800000,
+    "end": 1791284400000,
+    "description": "Lieven Vandenhaute gaat op zoek naar nieuws dat verbijstert, verbaast of verwondert.",
+    "category": [
+      "Actualiteitsmagazine"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33995265~~2FEP052737980403%2Cimi%3Ac1b414a6488b629b63295d253b8e2377294c3287/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 150,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33995265~~2FEP052737980403,imi:c1b414a6488b629b63295d253b8e2377294c3287",
+      "episodeName": "Aflevering 150",
+      "genres": [
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28183070~~2FSH052737980000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791284400000:1jdr2w0",
+    "channel": "vrtcanvas",
+    "title": "Herfstbeelden",
+    "start": 1791284400000,
+    "end": 1791295200000,
+    "description": "Programma met beelden van de herfst.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28193207~~2FEP033154570022%2Cimi%3A547c6da2c0e9903dfe1ff7c3234320e20a3f809d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102014,
+    "episode": 36,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28193207~~2FEP033154570022,imi:547c6da2c0e9903dfe1ff7c3234320e20a3f809d",
+      "episodeName": "Aflevering 36",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791295200000:etk3q5",
+    "channel": "vrtcanvas",
+    "title": "Radio 1: De Wereld Vandaag",
+    "start": 1791295200000,
+    "end": 1791299700000,
+    "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
+    "category": [
+      "Actualiteitsmagazine"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34161928~~2FEP049391810626%2Cimi%3Acc1e031541bba31a6863dbf6e28062452f1f7ffc/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 159,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34161928~~2FEP049391810626,imi:cc1e031541bba31a6863dbf6e28062452f1f7ffc",
+      "episodeName": "Aflevering 159",
+      "genres": [
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26149743~~2FSH049391810000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791299700000:4bfyr3",
+    "channel": "vrtcanvas",
+    "title": "Hacks",
+    "start": 1791299700000,
+    "end": 1791301500000,
+    "description": "Deborah blijft werken aan haar materiaal. Ava vindt zichzelf opnieuw uit. Marcus vindt een leven zonder Wilson, maar knap lastig.",
+    "category": [
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22020274~~2FEP043922850013%2Cimi%3A3b3d8ec6b0f461ff411bfb733fff8451a3627c5a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22020274~~2FEP043922850013,imi:3b3d8ec6b0f461ff411bfb733fff8451a3627c5a",
+      "episodeName": "Trust the Process",
+      "genres": [
+        "Comedy"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19867874~~2FSH043922850000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791301500000:4bfyr3",
+    "channel": "vrtcanvas",
+    "title": "Hacks",
+    "start": 1791301500000,
+    "end": 1791303600000,
+    "description": "Deborah vindt het lastig om het publiek voor zich te winnen op een cruise. Ava weet echter vrij eenvoudig succes te boeken.",
+    "category": [
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22020276~~2FEP043922850014%2Cimi%3Aeb3eca37382601f64160e1a33f2b47443ea5b710/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22020276~~2FEP043922850014,imi:eb3eca37382601f64160e1a33f2b47443ea5b710",
+      "episodeName": "The Captain's Wife",
+      "genres": [
+        "Comedy"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19867874~~2FSH043922850000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791303600000:1ae7k4",
+    "channel": "vrtcanvas",
+    "title": "The Kingdom: The World's Most Powerful Prince",
+    "start": 1791303600000,
+    "end": 1791306900000,
+    "description": "Onderzoek naar de spanning tussen de wens van prins Mohammed bin Salman om een van de meest conservatieve landen ter wereld te hervormen en zijn schijnbare bereidheid om de oppositie genadeloos te onderdrukken.",
+    "category": [
+      "Docu",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28052015~~2FEP055473790001%2Cimi%3A55fbea76719fdea8b9d7e9baad33b3d334b0e3be/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28052015~~2FEP055473790001,imi:55fbea76719fdea8b9d7e9baad33b3d334b0e3be",
+      "episodeName": "Game of Thrones",
+      "genres": [
+        "Docu",
+        "Politiek"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28052007~~2FSH055473790000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791306900000:hig6dx",
+    "channel": "vrtcanvas",
+    "title": "De ideale wereld",
+    "start": 1791306900000,
+    "end": 1791309600000,
+    "description": "Goedele Liekens, Roger Housen, Bart Kaëll & Luc Appermont en Zohra Aït-Fath.",
+    "category": [
+      "Entertainment",
+      "Politieke satire"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34161697~~2FEP032312590596%2Cimi%3A5b1707d58d9acf4e38933bbcbd638707ea131c94/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 26,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34161697~~2FEP032312590596,imi:5b1707d58d9acf4e38933bbcbd638707ea131c94",
+      "episodeName": "Aflevering 5",
+      "genres": [
+        "Entertainment",
+        "Politieke satire"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F488c1e4a-9f4f-476e-9800-3450016a2d30"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791309600000:eiur5b",
+    "channel": "vrtcanvas",
+    "title": "VRT NWS Terzake",
+    "start": 1791309600000,
+    "end": 1791311400000,
+    "description": "De actualiteit aan de hand van kritische en verhelderende interviews. Achtergrond en duiding bij het nieuws van de dag.",
+    "category": [
+      "Actualiteitsmagazine",
+      "Interview"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34162899~~2FEP029248091172%2Cimi%3Ad0017a510434dc9d0569c07c17577bcc18f0334c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 179,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34162899~~2FEP029248091172,imi:d0017a510434dc9d0569c07c17577bcc18f0334c",
+      "episodeName": "Aflevering 179",
+      "genres": [
+        "Actualiteitsmagazine",
+        "Interview"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3c19e932-60f8-4f8d-a1d5-f6fdae10e620"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791311400000:1rw80yh",
+    "channel": "vrtcanvas",
+    "title": "Het weer",
+    "start": 1791311400000,
+    "end": 1791311700000,
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": [
+      "Weer",
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F553237491%2Cimi%3Ab80a81fbf44417d6c824132f32bf2e3216ed2909/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 31670000,
+    "episode": 553237491,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F553237491,imi:b80a81fbf44417d6c824132f32bf2e3216ed2909",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791311700000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1791311700000,
+    "end": 1791314700000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34161662~~2FEP029086300730%2Cimi%3Aed5e7679f67fed2b91869e6cecaeaf3894d9012a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 90,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34161662~~2FEP029086300730,imi:ed5e7679f67fed2b91869e6cecaeaf3894d9012a",
+      "episodeName": "Aflevering 90",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791314700000:7tzh9j",
+    "channel": "vrtcanvas",
+    "title": "Sous X",
+    "start": 1791314700000,
+    "end": 1791317400000,
+    "description": "Annabelle getuigt over de slopende zoektocht naar haar biologische moeder. Een zuster die jarenlang actief was in het sousX-systeem, stelt zich openlijk vragen bij de praktijken van toen. Ondertussen deelt stamboomdeskundige Benoît zijn eigen bewogen verleden met Fatma.",
+    "category": [
+      "Miniserie",
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34162521~~2FEP066152300002%2Cimi%3Adc0915ae907f54eb4e818a192d3ff98cd724b4b7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34162521~~2FEP066152300002,imi:dc0915ae907f54eb4e818a192d3ff98cd724b4b7",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Miniserie",
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34116238~~2FSH066152300000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791317400000:hig6dx",
+    "channel": "vrtcanvas",
+    "title": "De ideale wereld",
+    "start": 1791317400000,
+    "end": 1791319920000,
+    "description": "Ella Leyers leidt in 'De ideale wereld' haar gasten door de actualiteit terwijl ze die lardeert met dagverse humor die gaat van onnozel tot nog veel onnozeler.",
+    "category": [
+      "Entertainment",
+      "Politieke satire"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34161701~~2FEP032312590597%2Cimi%3A6bcb65ef482c30f9971e3ca4557b42b4b758746d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 26,
+    "episode": 6,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34161701~~2FEP032312590597,imi:6bcb65ef482c30f9971e3ca4557b42b4b758746d",
+      "episodeName": "Aflevering 6",
+      "genres": [
+        "Entertainment",
+        "Politieke satire"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F488c1e4a-9f4f-476e-9800-3450016a2d30"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791319920000:1rw80yh",
+    "channel": "vrtcanvas",
+    "title": "Het weer",
+    "start": 1791319920000,
+    "end": 1791320100000,
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": [
+      "Weer",
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F553237500%2Cimi%3Ae4b731623b4b3bc0bf457832406a3514e125db8b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 31670000,
+    "episode": 553237500,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F553237500,imi:e4b731623b4b3bc0bf457832406a3514e125db8b",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791320100000:1yxtjns",
+    "channel": "vrtcanvas",
+    "title": "De popcast",
+    "start": 1791320100000,
+    "end": 1791323700000,
+    "description": "Stijn Van de Voorde laat in deze podcast samen met Otto-Jan Ham, Kirsten Lemaire, Thibault Christiaensen en Lennert Coorevits zijn licht schijnen over het popnieuws van de afgelopen week.",
+    "category": [
+      "Talkshow",
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34161747~~2FEP048494400077%2Cimi%3A66658a9b57cd1352e024fabbf9ebdbd41ed1f737/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 9,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34161747~~2FEP048494400077,imi:66658a9b57cd1352e024fabbf9ebdbd41ed1f737",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Talkshow",
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25488819~~2FSH048494400000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791323700000:715c2v",
+    "channel": "vrtcanvas",
+    "title": "Nachtlus",
+    "start": 1791323700000,
+    "end": 1791345600000,
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816247%2Cimi%3A9b050c5e35f04bfa610cccce1f75fe29ee8494e2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 57190000,
+    "episode": 554816247,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F554816247,imi:9b050c5e35f04bfa610cccce1f75fe29ee8494e2",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
+    }
+  }
+]

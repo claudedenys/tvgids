@@ -28,7 +28,7 @@
     "channel": "vtm",
     "title": "Geen uitzending",
     "start": 1790989200000,
-    "end": 1791000300000,
+    "end": 1791000600000,
     "description": null,
     "category": [],
     "image": null,
@@ -48,11 +48,11 @@
     }
   },
   {
-    "id": "vtm:1791000300000:9sxbym",
+    "id": "vtm:1791000600000:9sxbym",
     "channel": "vtm",
     "title": "Plop & de Peppers",
-    "start": 1791000300000,
-    "end": 1791000600000,
+    "start": 1791000600000,
+    "end": 1791000900000,
     "description": "Pol heeft geen zin om mee te gaan vissen met Pepijn. Wanneer Plop zijn plaats inneemt, wordt hij toch wel een beetje jaloers want nu lijkt het alsof Pepijn hem niet meer nodig heeft als vismaatje.",
     "category": [
       "Kids",
@@ -78,10 +78,10 @@
     }
   },
   {
-    "id": "vtm:1791000600000:4bj6iw",
+    "id": "vtm:1791000900000:4bj6iw",
     "channel": "vtm",
     "title": "Heidi",
-    "start": 1791000600000,
+    "start": 1791000900000,
     "end": 1791002100000,
     "description": "Juffrouw Rottenmeier is naar haar zieke zus en Dete krijgt de verantwoording voor het huis en de kinderen. Heidi wil naar het park, omdat daar geiten zijn en die wil ze graag zien. Ze vindt een ziek geitje en neemt het mee naar huis.",
     "category": [
@@ -172,7 +172,7 @@
     "channel": "vtm",
     "title": "Maya de Bij",
     "start": 1791003600000,
-    "end": 1791004200000,
+    "end": 1791004500000,
     "description": "De weide wordt opgeschrikt door een nieuwe mier: Sashi-Mier. De mier daagt Paul uit tot een duel om het leiderschap van het mierenleger.",
     "category": [
       "Kids",
@@ -198,11 +198,11 @@
     }
   },
   {
-    "id": "vtm:1791004200000:zvz6n4",
+    "id": "vtm:1791004500000:zvz6n4",
     "channel": "vtm",
     "title": "Vegesauriërs",
-    "start": 1791004200000,
-    "end": 1791004500000,
+    "start": 1791004500000,
+    "end": 1791004800000,
     "description": "Ginger en de P-rexen aanschouwen het schoonmaakproces van de kokosnoot-o-dons.",
     "category": [
       "Kids",
@@ -228,11 +228,11 @@
     }
   },
   {
-    "id": "vtm:1791004500000:zvz6n4",
+    "id": "vtm:1791004800000:zvz6n4",
     "channel": "vtm",
     "title": "Vegesauriërs",
-    "start": 1791004500000,
-    "end": 1791004800000,
+    "start": 1791004800000,
+    "end": 1791005100000,
     "description": "Ginger helpt een jonge Maiasaura om de top van een hete vulkaan te bereiken.",
     "category": [
       "Kids",
@@ -258,10 +258,10 @@
     }
   },
   {
-    "id": "vtm:1791004800000:i842ol",
+    "id": "vtm:1791005100000:i842ol",
     "channel": "vtm",
     "title": "VLOGLAB Mystery #Stories",
-    "start": 1791004800000,
+    "start": 1791005100000,
     "end": 1791006300000,
     "description": "Sarah pakt haar schoonmoeder Trudy hard aan na een nieuwe ruzie. Tegelijk komt de breuk tussen Clarice en Jens uit waarna Clarice bekent dat ze op meisjes valt.",
     "category": [
@@ -460,7 +460,7 @@
     "channel": "vtm",
     "title": "VTM Nieuws",
     "start": 1791025200000,
-    "end": 1791026700000,
+    "end": 1791027000000,
     "description": "Nieuws van de dag met achtergrondinformatie, gevolgd door uitgebreide sportverslaggeving.",
     "category": [
       "Actua"
@@ -484,10 +484,10 @@
     }
   },
   {
-    "id": "vtm:1791026700000:dnc634",
+    "id": "vtm:1791027000000:dnc634",
     "channel": "vtm",
     "title": "Het Weer (middag)",
-    "start": 1791026700000,
+    "start": 1791027000000,
     "end": 1791027300000,
     "description": "Blik op het weer in Vlaanderen en daarbuiten.",
     "category": [
@@ -512,33 +512,31 @@
     }
   },
   {
-    "id": "vtm:1791027300000:1bp4tcp",
+    "id": "vtm:1791027300000:a125ad",
     "channel": "vtm",
-    "title": "Chicago Fire",
+    "title": "Happy Hour",
     "start": 1791027300000,
     "end": 1791030900000,
-    "description": "Cruz gaat op zoek naar de identiteit van een onbekende bondgenoot. Mouch onderneemt actie om een vriend te helpen. Vasquez moet een moeilijke keuze maken.",
+    "description": "Ruben gaat deze keer in gesprek met Alex Agnew, Herman Brusselmans en Tom Boonen.",
     "category": [
-      "Dramaserie",
-      "Actie"
+      "Talkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31430834~~2FEP027785570481%2Cimi%3A0e73f197b20e04c8ba03ffe2a1a359c9e6159fb1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34144839~~2FEP065745630006%2Cimi%3A2329ef761af7f20067483a94f06a15eaa2a08068/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 14,
-    "episode": 5,
+    "season": 1,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31430834~~2FEP027785570481,imi:0e73f197b20e04c8ba03ffe2a1a359c9e6159fb1",
-      "episodeName": "Ghosts",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34144839~~2FEP065745630006,imi:2329ef761af7f20067483a94f06a15eaa2a08068",
+      "episodeName": "Aflevering 6",
       "genres": [
-        "Dramaserie",
-        "Actie"
+        "Talkshow"
       ],
-      "productionDate": "2025",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2f44cae1-dbb6-46f7-bc0f-88badbc558d9"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33889110~~2FSH065745630000"
     }
   },
   {
@@ -752,7 +750,7 @@
     "channel": "vtm",
     "title": "Got Talent",
     "start": 1791052800000,
-    "end": 1791059700000,
+    "end": 1791060000000,
     "description": "Bart zet de jury op scherp met een mentale uitdaging die niemand ziet aankomen. Tricks brengt een messcherpe k-popdans vol kracht en precisie.",
     "category": [
       "Reality-competitie",
@@ -778,11 +776,11 @@
     }
   },
   {
-    "id": "vtm:1791059700000:rg9a5q",
+    "id": "vtm:1791060000000:rg9a5q",
     "channel": "vtm",
     "title": "Operatiekamer",
-    "start": 1791059700000,
-    "end": 1791064200000,
+    "start": 1791060000000,
+    "end": 1791064500000,
     "description": "Margriet en Celien Hermans zitten met Koen Wauters op de eerste rij bij een gastric bypass. Omdat ze zelf ook ooit werden geopereerd, vertellen moeder en dochter over hun strijd met overgewicht, de ingreep en de impact op hun lichaam en leven.",
     "category": [
       "Reality",
@@ -808,11 +806,11 @@
     }
   },
   {
-    "id": "vtm:1791064200000:43cyub",
+    "id": "vtm:1791064500000:43cyub",
     "channel": "vtm",
     "title": "De Inspecteurs",
-    "start": 1791064200000,
-    "end": 1791068400000,
+    "start": 1791064500000,
+    "end": 1791068700000,
     "description": "Jeroen van het FAVV controleert een buurtwinkel, terwijl Peter en Kimberley schepen inspecteren die op Franse wateren onder Belgische vlag varen. Suzanne en Istvan van Natuur en Bos onderzoeken een bouwwerf waar nesten van een oeverzwaluw zijn...",
     "category": [
       "Reality"

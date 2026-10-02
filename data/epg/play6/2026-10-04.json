@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "Ocean's 8",
     "start": 1791067500000,
-    "end": 1791074700000,
+    "end": 1791074400000,
     "description": "Crimineel meesterbrein Debbie Ocean en zeven andere vrouwelijke dieven proberen de overval van de eeuw te plegen tijdens het jaarlijkse Met Gala in New York. Hun doel: een ketting die meer dan 150 miljoen dollar waard is.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1791074700000:48zb9",
+    "id": "play6:1791074400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1791074700000,
-    "end": 1791082800000,
+    "start": 1791074400000,
+    "end": 1791082200000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6c8bf8617b881a7906b5001162c6d00f0f9d8d70",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1791082200000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1791082200000,
+    "end": 1791082800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:de6a25defdbf79a3ec45a38650ea36ca89d80401",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
