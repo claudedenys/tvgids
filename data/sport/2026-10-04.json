@@ -33,7 +33,7 @@
     "start": 1791127920000,
     "end": 1791129540000,
     "status": "aankomend",
-    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
+    "description": "De carrière van Petr Čech, één van de beste keepers ooit in de Premier League, werd in 2006 bijna voorgoed op zijn kop gezet door het gruwelijke hoofdletsel dat hij opliep. We gaan met hem in gesprek over zijn opmerkelijke herstel en zijn weg terug naar de top.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -345,37 +345,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791107400000:i67pjl",
-    "externalId": null,
-    "title": "Play Sports Highlights",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1791107400000,
-    "end": 1791108300000,
-    "status": "aankomend",
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1791108300000:1at0aor",
+    "id": "sport:playsports3:1791108060000:1at0aor",
     "externalId": null,
     "title": "Aflevering 3",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791108300000,
+    "start": 1791108060000,
     "end": 1791111600000,
     "status": "aankomend",
     "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
@@ -422,7 +399,7 @@
     "competition": null,
     "sport": "Motorsport",
     "start": 1791115200000,
-    "end": 1791115980000,
+    "end": 1791115920000,
     "status": "aankomend",
     "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
     "source": "epg",
@@ -437,14 +414,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791115980000:i67pjl",
+    "id": "sport:playsports3:1791115920000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791115980000,
+    "start": 1791115920000,
     "end": 1791117000000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
@@ -1400,6 +1377,29 @@
     ],
     "channelIds": [
       "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1791107400000:australie - mxgp: race 2",
+    "externalId": null,
+    "title": "Australië - MXGP: Race 2",
+    "home": "Australië",
+    "away": "MXGP: Race 2",
+    "competition": null,
+    "sport": null,
+    "start": 1791107400000,
+    "end": 1791108060000,
+    "status": "aankomend",
+    "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
     ]
   },
   {

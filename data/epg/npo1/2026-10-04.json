@@ -466,7 +466,7 @@
     "channel": "npo1",
     "title": "Bij ons op de hondenacademie",
     "start": 1791123300000,
-    "end": 1791126600000,
+    "end": 1791126300000,
     "description": "Instructeur Priscilla gaat langs bij de tienjarige Mia.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/bij-ons-op-de-hondenacademie-777084942.jpg",
@@ -485,10 +485,10 @@
     }
   },
   {
-    "id": "npo1:1791126600000:ylsm7h",
+    "id": "npo1:1791126300000:ylsm7h",
     "channel": "npo1",
     "title": "Beestenboel",
-    "start": 1791126600000,
+    "start": 1791126300000,
     "end": 1791129600000,
     "description": "Janny van der Heijden en André van Duin duiken in de wondere wereld van de dieren.",
     "category": [],
@@ -582,7 +582,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791136800000,
-    "end": 1791138300000,
+    "end": 1791138000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -603,10 +603,10 @@
     }
   },
   {
-    "id": "npo1:1791138300000:vsfge5",
+    "id": "npo1:1791138000000:vsfge5",
     "channel": "npo1",
     "title": "UEFA Nations League: Nederland - Servië",
-    "start": 1791138300000,
+    "start": 1791138000000,
     "end": 1791139500000,
     "description": "Voorbeschouwing op de Voetbal Nations League wedstrijd Nederland - Servië.",
     "category": [
@@ -726,14 +726,16 @@
     }
   },
   {
-    "id": "npo1:1791149100000:1f3cpph",
+    "id": "npo1:1791149100000:1qmbii9",
     "channel": "npo1",
-    "title": "Pauw & De Wit",
+    "title": "NOS Journaal",
     "start": 1791149100000,
-    "end": 1791151800000,
-    "description": "Talkshow over de actualiteit.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-772408492.jpg",
+    "end": 1791150300000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-772298072.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -741,7 +743,32 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1791150300000:j1jgyo",
+    "channel": "npo1",
+    "title": "De Bauers, een nieuwe fase",
+    "start": 1791150300000,
+    "end": 1791153300000,
+    "description": "De 25ste verjaardag van Chris wordt groots gevierd.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bauers-een-nieuwe-fase-777299252.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   }
 ]

@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1790986260000,
     "end": 1791003600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -78,7 +78,7 @@
     "sport": null,
     "start": 1790978400000,
     "end": 1791000000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1791000000000,
     "end": 1791021600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,7 +170,7 @@
     "sport": null,
     "start": 1790986320000,
     "end": 1791003360000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +193,7 @@
     "sport": "Motorsport",
     "start": 1791009600000,
     "end": 1791013200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": "Motorsport",
     "start": 1791013200000,
     "end": 1791019500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
     "source": "epg",
     "platforms": [
@@ -238,8 +238,8 @@
     "competition": null,
     "sport": "Motorsport",
     "start": 1791019500000,
-    "end": 1791020400000,
-    "status": "aankomend",
+    "end": 1791020280000,
+    "status": "afgelopen",
     "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
     "source": "epg",
     "platforms": [
@@ -253,16 +253,16 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791020400000:1at0aor",
+    "id": "sport:playsports3:1791020280000:1at0aor",
     "externalId": null,
     "title": "Aflevering 3",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791020400000,
-    "end": 1791023700000,
-    "status": "aankomend",
+    "start": 1791020280000,
+    "end": 1791023580000,
+    "status": "live",
     "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
     "source": "epg",
     "platforms": [
@@ -276,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791023700000:1w47a4n",
+    "id": "sport:playsports3:1791023580000:1w47a4n",
     "externalId": null,
     "title": "Aflevering 4",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
-    "start": 1791023700000,
-    "end": 1791025200000,
+    "start": 1791023580000,
+    "end": 1791025140000,
     "status": "aankomend",
     "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "source": "epg",
@@ -299,14 +299,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791044460000:1at0aor",
+    "id": "sport:playsports3:1791044400000:1at0aor",
     "externalId": null,
     "title": "Aflevering 3",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791044460000,
+    "start": 1791044400000,
     "end": 1791047700000,
     "status": "aankomend",
     "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
@@ -353,7 +353,7 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1791063360000,
-    "end": 1791064140000,
+    "end": 1791064080000,
     "status": "aankomend",
     "description": "Vanaf het Baku City Circuit in Bakoe, Azerbeidzjan.",
     "source": "epg",
@@ -377,7 +377,7 @@
     "sport": null,
     "start": 1790984820000,
     "end": 1791003600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -400,7 +400,7 @@
     "sport": "Tennis",
     "start": 1791003600000,
     "end": 1791009960000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "source": "epg",
     "platforms": [
@@ -423,7 +423,7 @@
     "sport": "Tennis",
     "start": 1791009960000,
     "end": 1791017520000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "source": "epg",
     "platforms": [
@@ -561,7 +561,7 @@
     "sport": null,
     "start": 1790978400000,
     "end": 1791000000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -584,7 +584,7 @@
     "sport": null,
     "start": 1791000000000,
     "end": 1791021600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -653,7 +653,7 @@
     "sport": "Golf",
     "start": 1790985600000,
     "end": 1790996400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de tweede dag van de Alfred Dunhill Links Championship, gespeeld in Fife, Schotland.",
     "source": "epg",
     "platforms": [
@@ -676,7 +676,7 @@
     "sport": "Golf",
     "start": 1790996400000,
     "end": 1791000000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Charles Schwab Challenge, gespeeld op de Colonial Country Club in Fort Worth, Texas.",
     "source": "epg",
     "platforms": [
@@ -699,7 +699,7 @@
     "sport": "Golf",
     "start": 1791000000000,
     "end": 1791003540000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Australian Women's Classic, gespeeld op de Magenta Shores Golf & Country Club in New South Wales, Australië.",
     "source": "epg",
     "platforms": [
@@ -722,7 +722,7 @@
     "sport": "Golf",
     "start": 1791003540000,
     "end": 1791014400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de tweede dag van de Alfred Dunhill Links Championship, gespeeld in Fife, Schotland.",
     "source": "epg",
     "platforms": [
@@ -745,7 +745,7 @@
     "sport": "Golf",
     "start": 1791014400000,
     "end": 1791016200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de RAKBANK UAE Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
@@ -768,7 +768,7 @@
     "sport": "Golf",
     "start": 1791016200000,
     "end": 1791019800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de European Legends Cup, gespeeld in de European Legend Tour 2026.",
     "source": "epg",
     "platforms": [
@@ -791,7 +791,7 @@
     "sport": "Golf",
     "start": 1791019800000,
     "end": 1791023400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Hoogtepunten van de Ladies Italian Open, gespeeld op de Golf Club Milano in Italië.",
     "source": "epg",
     "platforms": [
@@ -975,7 +975,7 @@
     "sport": "Voetbal",
     "start": 1790979960000,
     "end": 1790986260000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -998,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1791003600000,
     "end": 1791009900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1021,7 +1021,7 @@
     "sport": "Voetbal",
     "start": 1791009900000,
     "end": 1791016680000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1044,7 +1044,7 @@
     "sport": "Voetbal",
     "start": 1791016680000,
     "end": 1791022980000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit het American Express Community Stadium in Brighton and Hove, East Sussex, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1228,7 @@
     "sport": "Voetbal",
     "start": 1790980320000,
     "end": 1790986320000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - Willem II uit de 3e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1251,7 +1251,7 @@
     "sport": "Voetbal",
     "start": 1791003360000,
     "end": 1791009600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - FC Utrecht uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1265,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1791025200000:besiktas - olympique marseille",
+    "id": "sport:match:1791025140000:besiktas - olympique marseille",
     "externalId": null,
     "title": "Beşiktaş - Olympique Marseille",
     "home": "Beşiktaş",
     "away": "Olympique Marseille",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791025200000,
-    "end": 1791031800000,
+    "start": 1791025140000,
+    "end": 1791031740000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1288,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1791031800000:real sociedad - bournemouth",
+    "id": "sport:match:1791031740000:real sociedad - bournemouth",
     "externalId": null,
     "title": "Real Sociedad - Bournemouth",
     "home": "Real Sociedad",
     "away": "Bournemouth",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791031800000,
-    "end": 1791038100000,
+    "start": 1791031740000,
+    "end": 1791038040000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Real Sociedad - Bournemouth, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1311,15 +1311,15 @@
     ]
   },
   {
-    "id": "sport:match:1791038100000:ajax - excelsior",
+    "id": "sport:match:1791038040000:ajax - excelsior",
     "externalId": null,
     "title": "Ajax - Excelsior",
     "home": "Ajax",
     "away": "Excelsior",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1791038100000,
-    "end": 1791044460000,
+    "start": 1791038040000,
+    "end": 1791044400000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - Excelsior uit de 7e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1380,14 +1380,14 @@
     ]
   },
   {
-    "id": "sport:match:1791064140000:sunderland - az",
+    "id": "sport:match:1791064080000:sunderland - az",
     "externalId": null,
     "title": "Sunderland - AZ",
     "home": "Sunderland",
     "away": "AZ",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791064140000,
+    "start": 1791064080000,
     "end": 1791070320000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
@@ -1412,7 +1412,7 @@
     "sport": null,
     "start": 1791017520000,
     "end": 1791020880000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "source": "epg",
     "platforms": [
@@ -1435,7 +1435,7 @@
     "sport": null,
     "start": 1791020880000,
     "end": 1791024300000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanaf de Hidden Valley Raceway in Darwin, Australië.",
     "source": "epg",
     "platforms": [

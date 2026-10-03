@@ -97,7 +97,7 @@
     "title": "EenVandaag",
     "start": 1790985000000,
     "end": 1790986200000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Onderzoeksrapport: deze rol speelden de Oranjes in slavernijverleden van Nederland * Niet...",
     "category": [
       "Actueel"
     ],
@@ -172,7 +172,7 @@
     "title": "NOS Journaal",
     "start": 1790988900000,
     "end": 1791006000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Oranjes eeuwen achter kolonialisme * Franse politie en scholieren slaags...",
     "category": [
       "Actueel"
     ],
@@ -310,7 +310,7 @@
     "end": 1791022800000,
     "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-slimste-mens-772408682.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -348,7 +348,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791025200000,
-    "end": 1791025800000,
+    "end": 1791026100000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -368,10 +368,10 @@
     }
   },
   {
-    "id": "npo1:1791025800000:yedpzb",
+    "id": "npo1:1791026100000:yedpzb",
     "channel": "npo1",
     "title": "MAX ouderenjournaal tegen eenzaamheid",
-    "start": 1791025800000,
+    "start": 1791026100000,
     "end": 1791027300000,
     "description": "De Thuiskamer in Uithuizen biedt wekelijks ruimte voor ontmoeting.",
     "category": [],
@@ -482,7 +482,7 @@
     "channel": "npo1",
     "title": "De Opening 2026 live",
     "start": 1791039000000,
-    "end": 1791042960000,
+    "end": 1791043020000,
     "description": "Vanaf het Stadhuisplein in Eindhoven trapt Soy Kroon het nieuwe culturele seizoen af met een gevarieerd programma van...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-opening-2026-live-772007862.jpg",
@@ -500,10 +500,10 @@
     }
   },
   {
-    "id": "npo1:1791042960000:1ttndez",
+    "id": "npo1:1791043020000:1ttndez",
     "channel": "npo1",
     "title": "Socutera",
-    "start": 1791042960000,
+    "start": 1791043020000,
     "end": 1791043200000,
     "description": "De Dierenbescherming zet zich, samen met duizenden vrijwilligers, dagelijks in voor dieren.",
     "category": [],
@@ -596,9 +596,9 @@
     "title": "Een huis vol",
     "start": 1791047100000,
     "end": 1791050400000,
-    "description": "De familie Blom gaat naar het apenpark, maar is vooral druk met kinderen tellen.",
+    "description": "Het gezin Lopez doet het op zaterdagmiddag even zonder moeder Saffiera.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/een-huis-vol-772007772.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eenhuisvolmetdefamilielopezkroncrv.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -608,7 +608,8 @@
     "meta": {
       "labels": [
         "program",
-        "audiodescription"
+        "audiodescription",
+        "tip"
       ]
     }
   },

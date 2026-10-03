@@ -1,9 +1,9 @@
 [
   {
-    "id": "play7:1791240300000:sjqiwg",
+    "id": "play7:1791240600000:sjqiwg",
     "channel": "play7",
     "title": "Masterchef New Zealand",
-    "start": 1791240300000,
+    "start": 1791240600000,
     "end": 1791245400000,
     "description": "De zes chefs koken in de keuken van een luxe hotel, waar ze een gerecht van het roomservice-menu moeten namaken voor een aantal zeer speciale gasten.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play7",
     "title": "A Place in the Sun",
     "start": 1791245400000,
-    "end": 1791249000000,
+    "end": 1791248100000,
     "description": "Een echtpaar zoekt een nieuw leven in het levendige Benalmádena aan de Costa del Sol. Jasmine Harman helpt hen de perfecte woning te vinden onder de Spaanse zon.",
     "category": [
       "Huis & Tuin",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play7:1791249000000:48zb9",
+    "id": "play7:1791248100000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1791249000000,
-    "end": 1791255600000,
+    "start": 1791248100000,
+    "end": 1791255000000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3e153eac1307a57de8e6a9c4281c4da38341f1df",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1791255000000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1791255000000,
+    "end": 1791255600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d6b6797434cc585be19903ac5522f9fa32b75469",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

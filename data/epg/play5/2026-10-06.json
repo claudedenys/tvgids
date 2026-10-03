@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "How to Get Away With Murder",
     "start": 1791245700000,
-    "end": 1791249300000,
+    "end": 1791248400000,
     "description": "Het mysterie achter de 'killer'-flyers tegen Annalise neemt een vreemde wending. Het duistere verleden van Frank komt aan de oppervlakte. Een schrikbarende ontdekking werpt een nieuw licht op de gebeurtenissen tijdens de nacht van de brand.",
     "category": [
       "Dramaserie",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1791249300000:48zb9",
+    "id": "play5:1791248400000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1791249300000,
-    "end": 1791255600000,
+    "start": 1791248400000,
+    "end": 1791255000000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:894d99027a9c12f65bd64cc21d26a5cbae0f8425",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1791255000000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1791255000000,
+    "end": 1791255600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:91d62b86ebcfa9b0d3a1385af9a3137ec8fb28d3",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
