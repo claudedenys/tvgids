@@ -99,7 +99,7 @@
     "title": "EenVandaag",
     "start": 1791072000000,
     "end": 1791073800000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Steeds meer betaald parkeren in Nederland * Nederlandse militairen bewaken...",
     "category": [
       "Actueel"
     ],
@@ -174,7 +174,7 @@
     "title": "NOS Journaal",
     "start": 1791075300000,
     "end": 1791090000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting.",
     "category": [
       "Actueel"
     ],
@@ -333,7 +333,7 @@
     "title": "NOS Journaal",
     "start": 1791108000000,
     "end": 1791108600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met het laatste nieuws en de weersverwachting.Opnieuw overstromingen in SpanjePro-Europese premier wint in...",
     "category": [
       "Actueel"
     ],
@@ -347,7 +347,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -357,9 +358,9 @@
     "title": "Buitenhof",
     "start": 1791108600000,
     "end": 1791112200000,
-    "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
+    "description": "Met in deze uitzending: * Nu de bezuinigingsplannen van het kabinet op het gebied van sociale zaken van tafel zijn...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/buitenhof-775376382.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
