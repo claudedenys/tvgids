@@ -1,10 +1,40 @@
 [
   {
-    "id": "play7:1791331200000:rmqxmh",
+    "id": "play7:1791327300000:sjqiwg",
+    "channel": "play7",
+    "title": "Masterchef New Zealand",
+    "start": 1791327300000,
+    "end": 1791331500000,
+    "description": "De koks moeten creatief zijn om eliminatie te voorkomen, wanneer ze in de uitdaging koffie als hoofdingrediënt moeten gebruiken voor een zoet of hartig gerecht.",
+    "category": [
+      "Koken",
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24554370~~2FEP053435020014%2Cimi%3Af7c71607b01d342a3b1efd8904fe7979c19c2895/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 17,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24554370~~2FEP053435020014,imi:f7c71607b01d342a3b1efd8904fe7979c19c2895",
+      "episodeName": "Aflevering 17",
+      "genres": [
+        "Koken",
+        "Reality"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8518915~~2FSH053435020000"
+    }
+  },
+  {
+    "id": "play7:1791331500000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1791331200000,
-    "end": 1791334800000,
+    "start": 1791331500000,
+    "end": 1791334500000,
     "description": "Een stel hoopt een rustig toevluchtsoord te vinden in het zonnige Vera, Zuid-Spanje. Jasmine Harman toont hen diverse charmante huizen dicht bij zee en dorp.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play7:1791334800000:48zb9",
+    "id": "play7:1791334500000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1791334800000,
-    "end": 1791342000000,
+    "start": 1791334500000,
+    "end": 1791341700000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d982609de55fbc829729d6cf657531db87f54f9d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1791341700000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1791341700000,
+    "end": 1791342000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:47c7c5210dc19ecf36fe29fe75df87f2fb4217e4",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

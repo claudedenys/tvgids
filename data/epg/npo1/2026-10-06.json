@@ -5,7 +5,7 @@
     "title": "Eva",
     "start": 1791237000000,
     "end": 1791240300000,
-    "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
+    "description": "Met in deze uitzending: * Maarten van Rossum, Koen Petersen, Marieke de Vries & Simon den Haak Het aftellen tot...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eva-772845152.jpg",
     "icon": null,
@@ -52,7 +52,7 @@
     "title": "Pauw & De Wit",
     "start": 1791241500000,
     "end": 1791244500000,
-    "description": "Talkshow over de actualiteit.",
+    "description": "Met in deze uitzending: *Het hoger beroep tegen Richard K.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-780466702.jpg",
     "icon": null,
@@ -74,7 +74,7 @@
     "title": "EenVandaag",
     "start": 1791244500000,
     "end": 1791246000000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Racisme, discriminatie en etnisch profileren bij afdeling handhaving van UWV...",
     "category": [
       "Actueel"
     ],
@@ -124,7 +124,7 @@
     "title": "NOS Journaal",
     "start": 1791247200000,
     "end": 1791258600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * \"Rusland richt pijlen op Duitsland\" * Kabinet aan school:verbied telefoon...",
     "category": [
       "Actueel"
     ],
@@ -720,7 +720,7 @@
     "title": "NOS Journaal",
     "start": 1791280800000,
     "end": 1791281700000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Voormalig spionagechef opgepakt * Kabinet wil OV in regio koppelen.....",
     "category": [
       "Actueel"
     ],
@@ -734,7 +734,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -768,11 +769,11 @@
     "title": "NOS Journaal",
     "start": 1791284400000,
     "end": 1791285600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Voormalig spionagechef opgepakt * Kabinet wil OV in regio koppelen.....",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-773248932.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -782,7 +783,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -814,7 +816,7 @@
     "title": "NOS Journaal",
     "start": 1791286500000,
     "end": 1791288000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Voormalig spionagechef opgepakt * Kabinet wil OV in regio koppelen...",
     "category": [
       "Actueel"
     ],
@@ -937,7 +939,7 @@
     "title": "Pauw & De Wit",
     "start": 1791295500000,
     "end": 1791298620000,
-    "description": "Talkshow over de actualiteit.",
+    "description": "Met in deze uitzending: *Het hoger beroep tegen Richard K.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-780466702.jpg",
     "icon": null,
@@ -1005,7 +1007,7 @@
     "title": "Tijd voor MAX",
     "start": 1791299400000,
     "end": 1791302160000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Bram Vermeulen en Stefanie de Brouwer maakten een serie over Cuba, met als vraag: hoe...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-773193622.jpg",
     "icon": null,
@@ -1015,7 +1017,9 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
@@ -1026,7 +1030,7 @@
     "end": 1791302280000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": null,
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-781333842.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1048,7 +1052,7 @@
     "end": 1791302400000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": null,
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-781333842.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1092,7 +1096,7 @@
     "title": "Sportjournaal",
     "start": 1791303300000,
     "end": 1791304200000,
-    "description": "Aandacht voor het laatste sportnieuws.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Judo: Van de Meeberg in actie op WK * Voetbal:.....",
     "category": [
       "Sport"
     ],
@@ -1106,7 +1110,8 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "sport",
+        "updated"
       ]
     }
   },
@@ -1116,7 +1121,7 @@
     "title": "EenVandaag",
     "start": 1791304200000,
     "end": 1791306300000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Racisme, discriminatie en etnisch profileren bij afdeling handhaving van UWV.....",
     "category": [
       "Actueel"
     ],
@@ -1130,7 +1135,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -1207,9 +1213,9 @@
     "title": "De slimste mens",
     "start": 1791315000000,
     "end": 1791318000000,
-    "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
+    "description": "Als wetenschapsjournalist verzet nieuwe De Slimste Mens-kandidaat Adriaan ter Braack zich onvermoeibaar tegen de...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-slimste-mens-773131302.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/sjamadriaanindeslimstemenskroncrvuitdager.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1217,7 +1223,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {
@@ -1245,7 +1254,7 @@
     "title": "NOS Journaal",
     "start": 1791321300000,
     "end": 1791323100000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Judo: WK in Bakoe (Aze).....",
     "category": [
       "Actueel"
     ],
@@ -1259,7 +1268,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },

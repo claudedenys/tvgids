@@ -148,56 +148,54 @@
     }
   },
   {
-    "id": "playsports4:1791288900000:arbc9d",
+    "id": "playsports4:1791288900000:1ltn7gx",
     "channel": "playsports4",
-    "title": "The Paddock Live: Formule 1",
+    "title": "Wordt aangekondigd",
     "start": 1791288900000,
-    "end": 1791297960000,
-    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
+    "end": 1791297360000,
+    "description": "De programmering wordt nog aangekondigd.",
     "category": [
-      "Sport",
-      "Motorsport"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103%2Cimi%3A310d53f8c1529c60fe4f18c0281bfeb2b02527ac/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Ac4692ba3e34cbe55410970f90a653d25751169b3/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026100403,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103,imi:310d53f8c1529c60fe4f18c0281bfeb2b02527ac",
-      "episodeName": "GP van Bahrein: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:c4692ba3e34cbe55410970f90a653d25751169b3",
+      "episodeName": null,
       "genres": [
-        "Sport",
-        "Motorsport"
+        "Entertainment"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+      "parentSeriesId": null
     }
   },
   {
-    "id": "playsports4:1791297960000:3y5tln",
+    "id": "playsports4:1791297360000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1791297960000,
-    "end": 1791302640000,
-    "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
+    "start": 1791297360000,
+    "end": 1791301380000,
+    "description": "Verslag van de race van de MotoGP van Japan, gereden in Motegi, Japan.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491%2Cimi%3A50fd5aef312af95945b3061093aaa6f85268a251/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506%2Cimi%3Aa4b2a95faaa62d9dee2efa3b7dd876d4caafb242/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 38910000,
-    "episode": 2026092091,
+    "episode": 2026100406,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491,imi:50fd5aef312af95945b3061093aaa6f85268a251",
-      "episodeName": "GP van Oostenrijk: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506,imi:a4b2a95faaa62d9dee2efa3b7dd876d4caafb242",
+      "episodeName": "GP van Japan: Race",
       "genres": [
         "Sport",
         "Motorracen"
@@ -208,11 +206,11 @@
     }
   },
   {
-    "id": "playsports4:1791302640000:qbgze4",
+    "id": "playsports4:1791301380000:qbgze4",
     "channel": "playsports4",
     "title": "Tennis: Cincinnati Open 2026",
-    "start": 1791302640000,
-    "end": 1791309120000,
+    "start": 1791301380000,
+    "end": 1791307860000,
     "description": "Verslag van de Cincinnati Open, gespeeld in Cincinnati, Ohio.",
     "category": [
       "Sport",
@@ -238,11 +236,11 @@
     }
   },
   {
-    "id": "playsports4:1791309120000:182jlas",
+    "id": "playsports4:1791307860000:182jlas",
     "channel": "playsports4",
     "title": "Tennis: Singapore Open 2026",
-    "start": 1791309120000,
-    "end": 1791314040000,
+    "start": 1791307860000,
+    "end": 1791312780000,
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
@@ -268,11 +266,11 @@
     }
   },
   {
-    "id": "playsports4:1791314040000:182jlas",
+    "id": "playsports4:1791312780000:182jlas",
     "channel": "playsports4",
     "title": "Tennis: Singapore Open 2026",
-    "start": 1791314040000,
-    "end": 1791322620000,
+    "start": 1791312780000,
+    "end": 1791321360000,
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
@@ -298,11 +296,11 @@
     }
   },
   {
-    "id": "playsports4:1791322620000:3y5tln",
+    "id": "playsports4:1791321360000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1791322620000,
-    "end": 1791327300000,
+    "start": 1791321360000,
+    "end": 1791326040000,
     "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
     "category": [
       "Sport",

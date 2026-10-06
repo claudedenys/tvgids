@@ -1,10 +1,40 @@
 [
   {
-    "id": "play6:1791331200000:1ex9hz",
+    "id": "play6:1791326400000:50juxo",
+    "channel": "play6",
+    "title": "The Paddock",
+    "start": 1791326400000,
+    "end": 1791331500000,
+    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34145492~~2FEP040852360122%2Cimi%3A3a7b014572d009223ec1d83ef6a603daa638c184/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 18,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34145492~~2FEP040852360122,imi:3a7b014572d009223ec1d83ef6a603daa638c184",
+      "episodeName": "Aflevering 18",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F57abb38c-c61d-4581-af35-af17de6d66b9"
+    }
+  },
+  {
+    "id": "play6:1791331500000:1ex9hz",
     "channel": "play6",
     "title": "World's Most Dangerous Prisoners",
-    "start": 1791331200000,
-    "end": 1791334500000,
+    "start": 1791331500000,
+    "end": 1791334200000,
     "description": "De 33-jarige Brian Nichols wordt aangeklaagd voor de marteling en gewelddadige moord op een moeder van zes kinderen. Tijdens zijn proces vermoordt hij drie mensen in een gewelddadige uitbarsting.",
     "category": [
       "Docu",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play6:1791334500000:o13nu0",
+    "id": "play6:1791334200000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1791334500000,
-    "end": 1791337200000,
+    "start": 1791334200000,
+    "end": 1791336600000,
     "description": "Rick wil een epische 'Star Wars'-collectie bekijken, inclusief een iconische rekwisiet uit de film. Een nieuwe medewerker in de winkel werkt samen met Corey om een deal te sluiten over een Planterspot.",
     "category": [
       "Reality",
@@ -60,11 +90,11 @@
     }
   },
   {
-    "id": "play6:1791337200000:48zb9",
+    "id": "play6:1791336600000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1791337200000,
-    "end": 1791342000000,
+    "start": 1791336600000,
+    "end": 1791341700000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +106,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f8478324b555db32b10354364551f498bfab5d6f",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1791341700000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1791341700000,
+    "end": 1791342000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:573e38dad73e7f9aab17e129dc47ee984272f08f",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

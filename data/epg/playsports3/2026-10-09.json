@@ -1,33 +1,9 @@
 [
   {
-    "id": "playsports3:1791501720000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1791501720000,
-    "end": 1791504480000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:934d9d554139dbb26406dbc0b873f001aab22947",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1791504480000:xykime",
+    "id": "playsports3:1791501900000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1791504480000,
+    "start": 1791501900000,
     "end": 1791522000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -466,41 +442,41 @@
     }
   },
   {
-    "id": "playsports3:1791575700000:1w47a4n",
+    "id": "playsports3:1791575700000:3tkxx5",
     "channel": "playsports3",
-    "title": "UEFA Champions League Magazine",
+    "title": "MIDMID",
     "start": 1791575700000,
-    "end": 1791577200000,
-    "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
+    "end": 1791581100000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Zinho Vanheusden.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34065711~~2FEP027933070230%2Cimi%3Adc3b81c21b62eb06254822874edc6b942e1e57ca/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34279192~~2FEP037584270192%2Cimi%3A77ea47b194a9778827761334d303f30e708ff0f7/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 26,
-    "episode": 5,
+    "season": 7,
+    "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34065711~~2FEP027933070230,imi:dc3b81c21b62eb06254822874edc6b942e1e57ca",
-      "episodeName": "Aflevering 5",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34279192~~2FEP037584270192,imi:77ea47b194a9778827761334d303f30e708ff0f7",
+      "episodeName": "Zinho Vanheusden",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F308750~~2FSH027933070000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports3:1791577200000:ear1gl",
+    "id": "playsports3:1791581100000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1791577200000,
-    "end": 1791583500000,
+    "start": 1791581100000,
+    "end": 1791587400000,
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",

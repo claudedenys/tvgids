@@ -698,9 +698,9 @@
     "title": "Tijd voor MAX",
     "start": 1791450900000,
     "end": 1791453600000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * Rob Kemps maakt een nieuwe voorstelling over zijn liefde voor Jacques Brel.",
     "category": [],
-    "image": null,
+    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-781333812.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1079,7 +1079,7 @@
     "end": 1791475020000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": null,
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-781333842.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1101,7 +1101,7 @@
     "end": 1791475200000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": null,
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-781333842.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1289,10 +1289,11 @@
     "season": null,
     "episode": null,
     "actors": [],
-    "live": false,
+    "live": true,
     "meta": {
       "labels": [
         "program",
+        "live",
         "tip"
       ]
     }
