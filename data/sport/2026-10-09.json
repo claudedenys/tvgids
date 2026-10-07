@@ -23,15 +23,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1791567300000:qjkkk5",
+    "id": "sport:playsports1:1791567120000:qjkkk5",
     "externalId": null,
     "title": "Granit Xhaka",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1791567300000,
-    "end": 1791568800000,
+    "start": 1791567120000,
+    "end": 1791568680000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -46,14 +46,14 @@
     ]
   },
   {
-    "id": "sport:playsports1:1791568800000:1spiq9g",
+    "id": "sport:playsports1:1791568680000:1spiq9g",
     "externalId": null,
     "title": "Aflevering 6",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1791568800000,
+    "start": 1791568680000,
     "end": 1791570300000,
     "status": "aankomend",
     "description": "Wekelijkse voorbeschouwing met alle relevante informatie over aankomende wedstrijden en het laatste nieuws uit de Bundesliga.",
@@ -184,17 +184,40 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791501900000:xykime",
+    "id": "sport:playsports3:1791502320000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791501900000,
-    "end": 1791522000000,
+    "start": 1791502320000,
+    "end": 1791522600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1791541800000:1at0aor",
+    "externalId": null,
+    "title": "Aflevering 3",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1791541800000,
+    "end": 1791545100000,
+    "status": "aankomend",
+    "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -212,12 +235,12 @@
     "title": "Aflevering 18",
     "home": null,
     "away": null,
-    "competition": "Formule 1",
+    "competition": null,
     "sport": "Motorsport",
     "start": 1791545100000,
     "end": 1791548700000,
     "status": "aankomend",
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "description": "Een GP van Bahrein die in Maleisië wordt gereden, ruim anderhalf uur later van start gaat én geteisterd wordt door regenweer en softwarepr.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -276,40 +299,17 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791566700000:bjf8gr",
+    "id": "sport:playsports3:1791566700000:i67pjl",
     "externalId": null,
-    "title": "Race 3 (MXGP & Open)",
+    "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
     "start": 1791566700000,
-    "end": 1791567360000,
+    "end": 1791568500000,
     "status": "aankomend",
-    "description": null,
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1791567600000:arbc9d",
-    "externalId": null,
-    "title": "GP van Bahrein: Race",
-    "home": null,
-    "away": null,
-    "competition": "Formule 1",
-    "sport": "Motorsport",
-    "start": 1791567600000,
-    "end": 1791568320000,
-    "status": "aankomend",
-    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -345,15 +345,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791497100000:1opp2ju",
+    "id": "sport:playsports4:1791498660000:1opp2ju",
     "externalId": null,
     "title": "ATP250: Finale, Hurkacz vs Davidovich Fokina",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791497100000,
-    "end": 1791504300000,
+    "start": 1791498660000,
+    "end": 1791505860000,
     "status": "aankomend",
     "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
     "source": "epg",
@@ -368,15 +368,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791505500000:11j1mrk",
+    "id": "sport:playsports4:1791505860000:11j1mrk",
     "externalId": null,
     "title": "Squirt Squad 5",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791505500000,
-    "end": 1791513720000,
+    "start": 1791505860000,
+    "end": 1791514020000,
     "status": "aankomend",
     "description": "BANG! presenteert Squirt Squad 5, met in de hoofdrol Eliza Ibarra!",
     "source": "epg",
@@ -391,15 +391,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791513720000:xykime",
+    "id": "sport:playsports4:1791514020000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791513720000,
-    "end": 1791522000000,
+    "start": 1791514020000,
+    "end": 1791522600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -414,15 +414,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791522000000:bjf8gr",
+    "id": "sport:playsports4:1791522600000:bjf8gr",
     "externalId": null,
     "title": "Race 1 (MXGP & MX2)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791522000000,
-    "end": 1791525600000,
+    "start": 1791522600000,
+    "end": 1791525900000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -437,14 +437,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791525600000:bjf8gr",
+    "id": "sport:playsports4:1791525900000:bjf8gr",
     "externalId": null,
     "title": "Race 2 (MX2 & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791525600000,
+    "start": 1791525900000,
     "end": 1791529200000,
     "status": "aankomend",
     "description": null,
@@ -529,15 +529,61 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791550800000:bjf8gr",
+    "id": "sport:playsports4:1791550800000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1791550800000,
+    "end": 1791553620000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1791553620000:3y5tln",
+    "externalId": null,
+    "title": "GP van Japan: Race",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1791553620000,
+    "end": 1791557700000,
+    "status": "aankomend",
+    "description": "Verslag van de race van de MotoGP van Japan, gereden in Motegi, Japan.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1791557700000:bjf8gr",
     "externalId": null,
     "title": "Race 1 (MXGP & MX2)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791550800000,
-    "end": 1791554400000,
+    "start": 1791557700000,
+    "end": 1791561000000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -552,15 +598,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791554400000:bjf8gr",
+    "id": "sport:playsports4:1791561000000:bjf8gr",
     "externalId": null,
     "title": "Race 2 (MX2 & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791554400000,
-    "end": 1791558000000,
+    "start": 1791561000000,
+    "end": 1791564300000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -575,15 +621,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791558000000:bjf8gr",
+    "id": "sport:playsports4:1791564300000:bjf8gr",
     "externalId": null,
     "title": "Race 3 (MXGP & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791558000000,
-    "end": 1791562800000,
+    "start": 1791564300000,
+    "end": 1791568860000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -598,38 +644,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791562800000:3y5tln",
-    "externalId": null,
-    "title": "GP van Oostenrijk: Race",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1791562800000,
-    "end": 1791567420000,
-    "status": "aankomend",
-    "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1791567420000:182jlas",
+    "id": "sport:playsports4:1791568860000:182jlas",
     "externalId": null,
     "title": "WTA500: Dag 6, Halve Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791567420000,
-    "end": 1791572280000,
+    "start": 1791568860000,
+    "end": 1791573720000,
     "status": "aankomend",
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "source": "epg",
@@ -644,15 +667,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791572280000:182jlas",
+    "id": "sport:playsports4:1791573720000:182jlas",
     "externalId": null,
     "title": "WTA500: Halve Finale, Fernandez vs Chwalinska",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791572280000,
-    "end": 1791580740000,
+    "start": 1791573720000,
+    "end": 1791582240000,
     "status": "aankomend",
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "source": "epg",
@@ -667,15 +690,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791580740000:1opp2ju",
+    "id": "sport:playsports4:1791582240000:1opp2ju",
     "externalId": null,
     "title": "ATP250: Finale, Hurkacz vs Davidovich Fokina",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791580740000,
-    "end": 1791588000000,
+    "start": 1791582240000,
+    "end": 1791589440000,
     "status": "aankomend",
     "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
     "source": "epg",
@@ -1089,7 +1112,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1791548220000,
-    "end": 1791554520000,
+    "end": 1791554580000,
     "status": "aankomend",
     "description": "Vanuit The City Ground in Nottingham, England.",
     "source": "epg",
@@ -1104,15 +1127,15 @@
     ]
   },
   {
-    "id": "sport:match:1791554520000:vfb stuttgart - borussia dortmund",
+    "id": "sport:match:1791554580000:vfb stuttgart - borussia dortmund",
     "externalId": null,
     "title": "VfB Stuttgart - Borussia Dortmund",
     "home": "VfB Stuttgart",
     "away": "Borussia Dortmund",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1791554520000,
-    "end": 1791560940000,
+    "start": 1791554580000,
+    "end": 1791560880000,
     "status": "aankomend",
     "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
     "source": "epg",
@@ -1127,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1791560940000:bayer leverkusen - rb leipzig",
+    "id": "sport:match:1791560880000:bayer leverkusen - rb leipzig",
     "externalId": null,
     "title": "Bayer Leverkusen - RB Leipzig",
     "home": "Bayer Leverkusen",
     "away": "RB Leipzig",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1791560940000,
-    "end": 1791567300000,
+    "start": 1791560880000,
+    "end": 1791567120000,
     "status": "aankomend",
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "source": "epg",
@@ -1196,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1791525900000:ac milan - benfica",
+    "id": "sport:match:1791522600000:ac milan - benfica",
     "externalId": null,
     "title": "AC Milan - Benfica",
     "home": "AC Milan",
     "away": "Benfica",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791525900000,
-    "end": 1791532320000,
+    "start": 1791522600000,
+    "end": 1791528900000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1219,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1791532320000:sunderland - az",
+    "id": "sport:match:1791528900000:sunderland - az",
     "externalId": null,
     "title": "Sunderland - AZ",
     "home": "Sunderland",
     "away": "AZ",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791532320000,
-    "end": 1791538500000,
+    "start": 1791528900000,
+    "end": 1791535020000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1242,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1791538500000:besiktas - olympique marseille",
+    "id": "sport:match:1791535020000:besiktas - olympique marseille",
     "externalId": null,
     "title": "Beşiktaş - Olympique Marseille",
     "home": "Beşiktaş",
     "away": "Olympique Marseille",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791538500000,
-    "end": 1791545100000,
+    "start": 1791535020000,
+    "end": 1791541800000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1299,52 +1322,6 @@
     "end": 1791566700000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd FC Twente - PSV uit de 7e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791567360000:aalst - filou oostende",
-    "externalId": null,
-    "title": "Aalst - Filou Oostende",
-    "home": "Aalst",
-    "away": "Filou Oostende",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1791567360000,
-    "end": 1791567600000,
-    "status": "aankomend",
-    "description": "Vanuit het Generali Forum in Aalst, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791568320000:brussels - cb liege",
-    "externalId": null,
-    "title": "Brussels - CB Liège",
-    "home": "Brussels",
-    "away": "CB Liège",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1791568320000,
-    "end": 1791568500000,
-    "status": "aankomend",
-    "description": "Vanuit het Sportcomplex Neder-Over-Heembeek in Brussel, België.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"

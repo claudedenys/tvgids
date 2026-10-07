@@ -1,9 +1,9 @@
 [
   {
-    "id": "playsports4:1791588000000:xykime",
+    "id": "playsports4:1791589440000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1791588000000,
+    "start": 1791589440000,
     "end": 1791607680000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -208,63 +208,33 @@
     }
   },
   {
-    "id": "playsports4:1791647700000:arbc9d",
+    "id": "playsports4:1791647700000:i67pjl",
     "channel": "playsports4",
-    "title": "The Paddock Live: Formule 1",
+    "title": "Play Sports Highlights",
     "start": 1791647700000,
-    "end": 1791648300000,
-    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103%2Cimi%3A36ab82ab59a949a3a33be2e6a7d1621a7466d422/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026100403,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103,imi:36ab82ab59a949a3a33be2e6a7d1621a7466d422",
-      "episodeName": "GP van Bahrein: Race",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
-    }
-  },
-  {
-    "id": "playsports4:1791648300000:bjf8gr",
-    "channel": "playsports4",
-    "title": "FIM Motocross of Nations",
-    "start": 1791648300000,
     "end": 1791648900000,
-    "description": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Motorracen"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009%2Cimi%3Aa17a372ddd4db36ceca0beef5b602fab5cd20b5e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F562122840%2Cimi%3A25f89216a7a4a69b790111030cf269f68e11311e/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 69220000,
-    "episode": 2026100409,
+    "season": 50390000,
+    "episode": 562122840,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009,imi:a17a372ddd4db36ceca0beef5b602fab5cd20b5e",
-      "episodeName": "Race 3 (MXGP & Open)",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F562122840,imi:25f89216a7a4a69b790111030cf269f68e11311e",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Motorracen"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -302,7 +272,7 @@
     "channel": "playsports4",
     "title": "BNXT League",
     "start": 1791656100000,
-    "end": 1791664140000,
+    "end": 1791664200000,
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "category": [
       "Sport",
@@ -328,11 +298,41 @@
     }
   },
   {
-    "id": "playsports4:1791664140000:arbc9d",
+    "id": "playsports4:1791664200000:i67pjl",
+    "channel": "playsports4",
+    "title": "Play Sports Highlights",
+    "start": 1791664200000,
+    "end": 1791667020000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F563461330%2Cimi%3A7a92c03bcfe3b04aaca5ecc8a3d19cb6f39c9595/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 563461330,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F563461330,imi:7a92c03bcfe3b04aaca5ecc8a3d19cb6f39c9595",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports4:1791667020000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1791664140000,
-    "end": 1791673140000,
+    "start": 1791667020000,
+    "end": 1791674880000,
     "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
     "category": [
       "Sport",

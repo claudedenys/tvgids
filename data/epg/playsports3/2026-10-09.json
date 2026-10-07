@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1791501900000:xykime",
+    "id": "playsports3:1791502320000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1791501900000,
-    "end": 1791522000000,
+    "start": 1791502320000,
+    "end": 1791522600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,35 +28,11 @@
     }
   },
   {
-    "id": "playsports3:1791522000000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1791522000000,
-    "end": 1791525900000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b167e768b68bcaa79a5b2bc1ac41dcabb76ac6b1",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1791525900000:ear1gl",
+    "id": "playsports3:1791522600000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1791525900000,
-    "end": 1791532320000,
+    "start": 1791522600000,
+    "end": 1791528900000,
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -82,11 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1791532320000:ear1gl",
+    "id": "playsports3:1791528900000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1791532320000,
-    "end": 1791538500000,
+    "start": 1791528900000,
+    "end": 1791535020000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -112,11 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1791538500000:ear1gl",
+    "id": "playsports3:1791535020000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1791538500000,
-    "end": 1791545100000,
+    "start": 1791535020000,
+    "end": 1791541800000,
     "description": "Verslag van de wedstrijd Beşiktaş - Olympique Marseille, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -142,12 +118,42 @@
     }
   },
   {
+    "id": "playsports3:1791541800000:1at0aor",
+    "channel": "playsports3",
+    "title": "Crosstalk",
+    "start": 1791541800000,
+    "end": 1791545100000,
+    "description": "Joël Smets, Marc De Reuver en Joël Roelants blikken terug op het voorbije motorcross-seizoen, bespreken de Motorcross der Naties 2026 en werpen een blik op de opkomst van de Chinese constructeurs. Een nieuwe aflevering vol analyse en inzichten.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34229921~~2FEP064913190003%2Cimi%3Abe992ef249ff3e46f671bf44cfa078951b729cb2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34229921~~2FEP064913190003,imi:be992ef249ff3e46f671bf44cfa078951b729cb2",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33420151~~2FSH064913190000"
+    }
+  },
+  {
     "id": "playsports3:1791545100000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
     "start": 1791545100000,
     "end": 1791548700000,
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "description": "Een GP van Bahrein die in Maleisië wordt gereden, ruim anderhalf uur later van start gaat én geteisterd wordt door regenweer en softwarepr.",
     "category": [
       "Sport",
       "Motorsport"
@@ -292,123 +298,33 @@
     }
   },
   {
-    "id": "playsports3:1791566700000:bjf8gr",
+    "id": "playsports3:1791566700000:i67pjl",
     "channel": "playsports3",
-    "title": "FIM Motocross of Nations",
+    "title": "Play Sports Highlights",
     "start": 1791566700000,
-    "end": 1791567360000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009%2Cimi%3A5d31f4200f616bf815b63e7b7ebd8fd1039fbdde/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 69220000,
-    "episode": 2026100409,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009,imi:5d31f4200f616bf815b63e7b7ebd8fd1039fbdde",
-      "episodeName": "Race 3 (MXGP & Open)",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
-    }
-  },
-  {
-    "id": "playsports3:1791567360000:1ng6s",
-    "channel": "playsports3",
-    "title": "BNXT League",
-    "start": 1791567360000,
-    "end": 1791567600000,
-    "description": "Vanuit het Generali Forum in Aalst, België.",
-    "category": [
-      "Sport",
-      "Basketbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34130849~~2FEP039991360283%2Cimi%3Ae837a31dcfdb79a7a57a945b09fc38ba6c1347ba/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 91360000,
-    "episode": 2026100383,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34130849~~2FEP039991360283,imi:e837a31dcfdb79a7a57a945b09fc38ba6c1347ba",
-      "episodeName": "Aalst - Filou Oostende",
-      "genres": [
-        "Sport",
-        "Basketbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
-    }
-  },
-  {
-    "id": "playsports3:1791567600000:arbc9d",
-    "channel": "playsports3",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1791567600000,
-    "end": 1791568320000,
-    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103%2Cimi%3Aae3e5a6ecb39e5d2b9dc65f005173160c37b5830/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026100403,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103,imi:ae3e5a6ecb39e5d2b9dc65f005173160c37b5830",
-      "episodeName": "GP van Bahrein: Race",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
-    }
-  },
-  {
-    "id": "playsports3:1791568320000:1ng6s",
-    "channel": "playsports3",
-    "title": "BNXT League",
-    "start": 1791568320000,
     "end": 1791568500000,
-    "description": "Vanuit het Sportcomplex Neder-Over-Heembeek in Brussel, België.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Basketbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34130903~~2FEP039991360284%2Cimi%3A7f89d97d2db3ee438c94551626762d56de407654/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F562123031%2Cimi%3A61bcd601aee3da473a06375c3257c4248cc40492/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 91360000,
-    "episode": 2026100684,
+    "season": 50390000,
+    "episode": 562123031,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34130903~~2FEP039991360284,imi:7f89d97d2db3ee438c94551626762d56de407654",
-      "episodeName": "Brussels - CB Liège",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F562123031,imi:61bcd601aee3da473a06375c3257c4248cc40492",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Basketbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {

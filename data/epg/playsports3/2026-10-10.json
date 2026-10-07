@@ -152,7 +152,7 @@
     "channel": "playsports3",
     "title": "The Paddock On Tour",
     "start": 1791627900000,
-    "end": 1791628800000,
+    "end": 1791628680000,
     "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
     "category": [
       "Sport",
@@ -178,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1791628800000:1w47a4n",
+    "id": "playsports3:1791628680000:1w47a4n",
     "channel": "playsports3",
     "title": "UEFA Champions League Magazine",
-    "start": 1791628800000,
-    "end": 1791630300000,
+    "start": 1791628680000,
+    "end": 1791630180000,
     "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "category": [
       "Sport",
@@ -208,93 +208,33 @@
     }
   },
   {
-    "id": "playsports3:1791630300000:bjf8gr",
+    "id": "playsports3:1791630180000:i67pjl",
     "channel": "playsports3",
-    "title": "FIM Motocross of Nations",
-    "start": 1791630300000,
-    "end": 1791630900000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135273~~2FEP053069220007%2Cimi%3A45b01b4db4e5b5c97dc7a11ed7c7ee84f669c3c4/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 69220000,
-    "episode": 2026100407,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135273~~2FEP053069220007,imi:45b01b4db4e5b5c97dc7a11ed7c7ee84f669c3c4",
-      "episodeName": "Race 1 (MXGP & MX2)",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
-    }
-  },
-  {
-    "id": "playsports3:1791630900000:bjf8gr",
-    "channel": "playsports3",
-    "title": "FIM Motocross of Nations",
-    "start": 1791630900000,
-    "end": 1791631740000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135340~~2FEP053069220008%2Cimi%3A38ccec13f62d43b97caec133c5ef530eed70dba2/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 69220000,
-    "episode": 2026100408,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135340~~2FEP053069220008,imi:38ccec13f62d43b97caec133c5ef530eed70dba2",
-      "episodeName": "Race 2 (MX2 & Open)",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
-    }
-  },
-  {
-    "id": "playsports3:1791631740000:bjf8gr",
-    "channel": "playsports3",
-    "title": "FIM Motocross of Nations",
-    "start": 1791631740000,
+    "title": "Play Sports Highlights",
+    "start": 1791630180000,
     "end": 1791632400000,
-    "description": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Motorracen"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009%2Cimi%3Afd23572da1c8d84a7194e30008decca4dde8b415/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F562123032%2Cimi%3A0f58683ee877819b6ea9ed734202fd7e12ab2f57/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 69220000,
-    "episode": 2026100409,
+    "season": 50390000,
+    "episode": 562123032,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009,imi:fd23572da1c8d84a7194e30008decca4dde8b415",
-      "episodeName": "Race 3 (MXGP & Open)",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F562123032,imi:0f58683ee877819b6ea9ed734202fd7e12ab2f57",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Motorracen"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -303,7 +243,7 @@
     "title": "The Paddock Podcast",
     "start": 1791632400000,
     "end": 1791636000000,
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "description": "Een GP van Bahrein die in Maleisië wordt gereden, ruim anderhalf uur later van start gaat én geteisterd wordt door regenweer en softwarepr.",
     "category": [
       "Sport",
       "Motorsport"
@@ -388,123 +328,33 @@
     }
   },
   {
-    "id": "playsports3:1791643200000:bjf8gr",
+    "id": "playsports3:1791643200000:i67pjl",
     "channel": "playsports3",
-    "title": "FIM Motocross of Nations",
+    "title": "Play Sports Highlights",
     "start": 1791643200000,
-    "end": 1791643860000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009%2Cimi%3A0b7a854490974c75d0ba2d6a6b853482ec8d471d/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 69220000,
-    "episode": 2026100409,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009,imi:0b7a854490974c75d0ba2d6a6b853482ec8d471d",
-      "episodeName": "Race 3 (MXGP & Open)",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
-    }
-  },
-  {
-    "id": "playsports3:1791643860000:1ng6s",
-    "channel": "playsports3",
-    "title": "BNXT League",
-    "start": 1791643860000,
-    "end": 1791644100000,
-    "description": "Vanuit het Generali Forum in Aalst, België.",
-    "category": [
-      "Sport",
-      "Basketbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34130849~~2FEP039991360283%2Cimi%3A2900e0474e9c3450a7428885586d36fcbadc006a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 91360000,
-    "episode": 2026100383,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34130849~~2FEP039991360283,imi:2900e0474e9c3450a7428885586d36fcbadc006a",
-      "episodeName": "Aalst - Filou Oostende",
-      "genres": [
-        "Sport",
-        "Basketbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
-    }
-  },
-  {
-    "id": "playsports3:1791644100000:arbc9d",
-    "channel": "playsports3",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1791644100000,
-    "end": 1791644820000,
-    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103%2Cimi%3A448fab05eaa2aa4ca64b5c42b764b05ddf5e14fd/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026100403,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103,imi:448fab05eaa2aa4ca64b5c42b764b05ddf5e14fd",
-      "episodeName": "GP van Bahrein: Race",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
-    }
-  },
-  {
-    "id": "playsports3:1791644820000:1ng6s",
-    "channel": "playsports3",
-    "title": "BNXT League",
-    "start": 1791644820000,
     "end": 1791645000000,
-    "description": "Vanuit het Sportcomplex Neder-Over-Heembeek in Brussel, België.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Basketbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34130903~~2FEP039991360284%2Cimi%3Ab66acec736accc208ba2489586f382cf6374dce8/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F562123033%2Cimi%3Ad836a0291d441e78b962baca3659f19ae0e99faa/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 91360000,
-    "episode": 2026100684,
+    "season": 50390000,
+    "episode": 562123033,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34130903~~2FEP039991360284,imi:b66acec736accc208ba2489586f382cf6374dce8",
-      "episodeName": "Brussels - CB Liège",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F562123033,imi:d836a0291d441e78b962baca3659f19ae0e99faa",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Basketbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -568,63 +418,33 @@
     }
   },
   {
-    "id": "playsports3:1791657600000:bjf8gr",
+    "id": "playsports3:1791657600000:arbc9d",
     "channel": "playsports3",
-    "title": "FIM Motocross of Nations",
+    "title": "The Paddock Live: Formule 1",
     "start": 1791657600000,
-    "end": 1791658260000,
-    "description": null,
+    "end": 1791658500000,
+    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
     "category": [
       "Sport",
-      "Motorracen"
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009%2Cimi%3Afc2a7fe3f7c919aa7ff229b77b865ce75ba07d5a/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103%2Cimi%3A448fab05eaa2aa4ca64b5c42b764b05ddf5e14fd/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 69220000,
-    "episode": 2026100409,
+    "season": 35100000,
+    "episode": 2026100403,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009,imi:fc2a7fe3f7c919aa7ff229b77b865ce75ba07d5a",
-      "episodeName": "Race 3 (MXGP & Open)",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32386407~~2FEP063235100103,imi:448fab05eaa2aa4ca64b5c42b764b05ddf5e14fd",
+      "episodeName": "GP van Bahrein: Race",
       "genres": [
         "Sport",
-        "Motorracen"
+        "Motorsport"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
-    }
-  },
-  {
-    "id": "playsports3:1791658260000:1ng6s",
-    "channel": "playsports3",
-    "title": "BNXT League",
-    "start": 1791658260000,
-    "end": 1791658500000,
-    "description": "Vanuit het Generali Forum in Aalst, België.",
-    "category": [
-      "Sport",
-      "Basketbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34130849~~2FEP039991360283%2Cimi%3A80083318e7566bbbc11d074b6ea6ca4792dcd8ce/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 91360000,
-    "episode": 2026100383,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34130849~~2FEP039991360283,imi:80083318e7566bbbc11d074b6ea6ca4792dcd8ce",
-      "episodeName": "Aalst - Filou Oostende",
-      "genres": [
-        "Sport",
-        "Basketbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
     }
   },
   {

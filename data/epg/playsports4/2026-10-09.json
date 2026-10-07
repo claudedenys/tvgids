@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports4:1791497100000:1opp2ju",
+    "id": "playsports4:1791498660000:1opp2ju",
     "channel": "playsports4",
     "title": "Tennis: Chengdu Open 2026",
-    "start": 1791497100000,
-    "end": 1791504300000,
+    "start": 1791498660000,
+    "end": 1791505860000,
     "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1791505500000:11j1mrk",
+    "id": "playsports4:1791505860000:11j1mrk",
     "channel": "playsports4",
     "title": "Squirt Squad 5",
-    "start": 1791505500000,
-    "end": 1791513720000,
+    "start": 1791505860000,
+    "end": 1791514020000,
     "description": "BANG! presenteert Squirt Squad 5, met in de hoofdrol Eliza Ibarra!",
     "category": [
       "Adult",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "playsports4:1791513720000:xykime",
+    "id": "playsports4:1791514020000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1791513720000,
-    "end": 1791522000000,
+    "start": 1791514020000,
+    "end": 1791522600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1791522000000:bjf8gr",
+    "id": "playsports4:1791522600000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1791522000000,
-    "end": 1791525600000,
+    "start": 1791522600000,
+    "end": 1791525900000,
     "description": null,
     "category": [
       "Sport",
@@ -118,10 +118,10 @@
     }
   },
   {
-    "id": "playsports4:1791525600000:bjf8gr",
+    "id": "playsports4:1791525900000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1791525600000,
+    "start": 1791525900000,
     "end": 1791529200000,
     "description": null,
     "category": [
@@ -238,11 +238,71 @@
     }
   },
   {
-    "id": "playsports4:1791550800000:bjf8gr",
+    "id": "playsports4:1791550800000:i67pjl",
+    "channel": "playsports4",
+    "title": "Play Sports Highlights",
+    "start": 1791550800000,
+    "end": 1791553620000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F563461335%2Cimi%3A673752cb501f013ac74cbbf2460abfb099f37a7f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 563461335,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F563461335,imi:673752cb501f013ac74cbbf2460abfb099f37a7f",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports4:1791553620000:3y5tln",
+    "channel": "playsports4",
+    "title": "MotoGP",
+    "start": 1791553620000,
+    "end": 1791557700000,
+    "description": "Verslag van de race van de MotoGP van Japan, gereden in Motegi, Japan.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506%2Cimi%3A49e1c9a5d837e3671d888bbb4dafcd7ae6e3801b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 38910000,
+    "episode": 2026100406,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506,imi:49e1c9a5d837e3671d888bbb4dafcd7ae6e3801b",
+      "episodeName": "GP van Japan: Race",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
+    }
+  },
+  {
+    "id": "playsports4:1791557700000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1791550800000,
-    "end": 1791554400000,
+    "start": 1791557700000,
+    "end": 1791561000000,
     "description": null,
     "category": [
       "Sport",
@@ -268,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1791554400000:bjf8gr",
+    "id": "playsports4:1791561000000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1791554400000,
-    "end": 1791558000000,
+    "start": 1791561000000,
+    "end": 1791564300000,
     "description": null,
     "category": [
       "Sport",
@@ -298,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1791558000000:bjf8gr",
+    "id": "playsports4:1791564300000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1791558000000,
-    "end": 1791562800000,
+    "start": 1791564300000,
+    "end": 1791568860000,
     "description": null,
     "category": [
       "Sport",
@@ -328,41 +388,11 @@
     }
   },
   {
-    "id": "playsports4:1791562800000:3y5tln",
-    "channel": "playsports4",
-    "title": "MotoGP",
-    "start": 1791562800000,
-    "end": 1791567420000,
-    "description": "Verslag van de race van de MotoGP van Oostenrijk, gereden in Spielberg, Oostenrijk.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491%2Cimi%3A3418a70079f6da3fc54a0a573b8aaaf7b3930dd9/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 38910000,
-    "episode": 2026092091,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393691~~2FEP036138911491,imi:3418a70079f6da3fc54a0a573b8aaaf7b3930dd9",
-      "episodeName": "GP van Oostenrijk: Race",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
-    }
-  },
-  {
-    "id": "playsports4:1791567420000:182jlas",
+    "id": "playsports4:1791568860000:182jlas",
     "channel": "playsports4",
     "title": "Tennis: Singapore Open 2026",
-    "start": 1791567420000,
-    "end": 1791572280000,
+    "start": 1791568860000,
+    "end": 1791573720000,
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
@@ -388,11 +418,11 @@
     }
   },
   {
-    "id": "playsports4:1791572280000:182jlas",
+    "id": "playsports4:1791573720000:182jlas",
     "channel": "playsports4",
     "title": "Tennis: Singapore Open 2026",
-    "start": 1791572280000,
-    "end": 1791580740000,
+    "start": 1791573720000,
+    "end": 1791582240000,
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "category": [
       "Sport",
@@ -418,11 +448,11 @@
     }
   },
   {
-    "id": "playsports4:1791580740000:1opp2ju",
+    "id": "playsports4:1791582240000:1opp2ju",
     "channel": "playsports4",
     "title": "Tennis: Chengdu Open 2026",
-    "start": 1791580740000,
-    "end": 1791588000000,
+    "start": 1791582240000,
+    "end": 1791589440000,
     "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
     "category": [
       "Sport",

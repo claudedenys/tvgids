@@ -215,7 +215,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1791645900000,
-    "end": 1791647400000,
+    "end": 1791647460000,
     "status": "aankomend",
     "description": "Met zijn doelpunten veroverde Kane snel een plekje in het hart van de Bayern-fans. Hij bereikte de ene historische mijlpaal na de andere, waaronder het ongeëvenaarde aantal van 100 doelpunten in slechts 78 wedstrijden.",
     "source": "epg",
@@ -230,14 +230,14 @@
     ]
   },
   {
-    "id": "sport:playsports2:1791647400000:xykime",
+    "id": "sport:playsports2:1791647460000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791647400000,
+    "start": 1791647460000,
     "end": 1791669600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -307,7 +307,7 @@
     "competition": null,
     "sport": "Motorsport",
     "start": 1791627900000,
-    "end": 1791628800000,
+    "end": 1791628680000,
     "status": "aankomend",
     "description": "Het Nederlandse kampioenschap grasmaaierracen strijkt voor het eerst neer in België. Dé uitgelezen kans voor Dennis Xhaët en Sam Dejonghe om deze brute machines, die snelheden van meer dan 100 km/u halen, te temmen.",
     "source": "epg",
@@ -322,15 +322,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791628800000:1w47a4n",
+    "id": "sport:playsports3:1791628680000:1w47a4n",
     "externalId": null,
     "title": "Aflevering 5",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
-    "start": 1791628800000,
-    "end": 1791630300000,
+    "start": 1791628680000,
+    "end": 1791630180000,
     "status": "aankomend",
     "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "source": "epg",
@@ -345,63 +345,17 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791630300000:bjf8gr",
+    "id": "sport:playsports3:1791630180000:i67pjl",
     "externalId": null,
-    "title": "Race 1 (MXGP & MX2)",
+    "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791630300000,
-    "end": 1791630900000,
-    "status": "aankomend",
-    "description": null,
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1791630900000:bjf8gr",
-    "externalId": null,
-    "title": "Race 2 (MX2 & Open)",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1791630900000,
-    "end": 1791631740000,
-    "status": "aankomend",
-    "description": null,
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1791631740000:bjf8gr",
-    "externalId": null,
-    "title": "Race 3 (MXGP & Open)",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1791631740000,
+    "start": 1791630180000,
     "end": 1791632400000,
     "status": "aankomend",
-    "description": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -419,12 +373,12 @@
     "title": "Aflevering 18",
     "home": null,
     "away": null,
-    "competition": "Formule 1",
+    "competition": null,
     "sport": "Motorsport",
     "start": 1791632400000,
     "end": 1791636000000,
     "status": "aankomend",
-    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "description": "Een GP van Bahrein die in Maleisië wordt gereden, ruim anderhalf uur later van start gaat én geteisterd wordt door regenweer en softwarepr.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -483,40 +437,17 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791643200000:bjf8gr",
+    "id": "sport:playsports3:1791643200000:i67pjl",
     "externalId": null,
-    "title": "Race 3 (MXGP & Open)",
+    "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
     "start": 1791643200000,
-    "end": 1791643860000,
+    "end": 1791645000000,
     "status": "aankomend",
-    "description": null,
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1791644100000:arbc9d",
-    "externalId": null,
-    "title": "GP van Bahrein: Race",
-    "home": null,
-    "away": null,
-    "competition": "Formule 1",
-    "sport": "Motorsport",
-    "start": 1791644100000,
-    "end": 1791644820000,
-    "status": "aankomend",
-    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -552,17 +483,17 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791657600000:bjf8gr",
+    "id": "sport:playsports3:1791657600000:arbc9d",
     "externalId": null,
-    "title": "Race 3 (MXGP & Open)",
+    "title": "GP van Bahrein: Race",
     "home": null,
     "away": null,
-    "competition": null,
-    "sport": null,
+    "competition": "Formule 1",
+    "sport": "Motorsport",
     "start": 1791657600000,
-    "end": 1791658260000,
+    "end": 1791658500000,
     "status": "aankomend",
-    "description": null,
+    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -598,14 +529,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791588000000:xykime",
+    "id": "sport:playsports4:1791589440000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791588000000,
+    "start": 1791589440000,
     "end": 1791607680000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -736,40 +667,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791647700000:arbc9d",
+    "id": "sport:playsports4:1791647700000:i67pjl",
     "externalId": null,
-    "title": "GP van Bahrein: Race",
-    "home": null,
-    "away": null,
-    "competition": "Formule 1",
-    "sport": "Motorsport",
-    "start": 1791647700000,
-    "end": 1791648300000,
-    "status": "aankomend",
-    "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1791648300000:bjf8gr",
-    "externalId": null,
-    "title": "Race 3 (MXGP & Open)",
+    "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791648300000,
+    "start": 1791647700000,
     "end": 1791648900000,
     "status": "aankomend",
-    "description": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -805,15 +713,38 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791664140000:arbc9d",
+    "id": "sport:playsports4:1791664200000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1791664200000,
+    "end": 1791667020000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1791667020000:arbc9d",
     "externalId": null,
     "title": "GP van Bahrein: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1791664140000,
-    "end": 1791673140000,
+    "start": 1791667020000,
+    "end": 1791674880000,
     "status": "aankomend",
     "description": "Vanaf het Petronas Sepang International Circuit in Sepang, Maleisië.",
     "source": "epg",
@@ -1472,52 +1403,6 @@
     ]
   },
   {
-    "id": "sport:match:1791643860000:aalst - filou oostende",
-    "externalId": null,
-    "title": "Aalst - Filou Oostende",
-    "home": "Aalst",
-    "away": "Filou Oostende",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1791643860000,
-    "end": 1791644100000,
-    "status": "aankomend",
-    "description": "Vanuit het Generali Forum in Aalst, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791644820000:brussels - cb liege",
-    "externalId": null,
-    "title": "Brussels - CB Liège",
-    "home": "Brussels",
-    "away": "CB Liège",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1791644820000,
-    "end": 1791645000000,
-    "status": "aankomend",
-    "description": "Vanuit het Sportcomplex Neder-Over-Heembeek in Brussel, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
     "id": "sport:match:1791650400000:feyenoord - az",
     "externalId": null,
     "title": "Feyenoord - AZ",
@@ -1529,29 +1414,6 @@
     "end": 1791657600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791658260000:aalst - filou oostende",
-    "externalId": null,
-    "title": "Aalst - Filou Oostende",
-    "home": "Aalst",
-    "away": "Filou Oostende",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1791658260000,
-    "end": 1791658500000,
-    "status": "aankomend",
-    "description": "Vanuit het Generali Forum in Aalst, België.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1618,7 +1480,7 @@
     "competition": null,
     "sport": "Basketbal",
     "start": 1791656100000,
-    "end": 1791664140000,
+    "end": 1791664200000,
     "status": "aankomend",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",

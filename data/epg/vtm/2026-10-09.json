@@ -1,10 +1,38 @@
 [
   {
-    "id": "vtm:1791504000000:48zb9",
+    "id": "vtm:1791500700000:iug1rc",
+    "channel": "vtm",
+    "title": "NYPD Blue",
+    "start": 1791500700000,
+    "end": 1791504300000,
+    "description": "Simone leidt het onderzoek wanneer een moordenaar iemand claimt die dicht bij het team staat. Russell zet vraagtekens bij Simones benadering van de zaak. Donna zegt haar baan op.",
+    "category": [
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F1647670~~2FEP042733750006%2Cimi%3A5adc9c15223025363276a0a59d69cc50c13e20ca/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 20,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F1647670~~2FEP042733750006,imi:5adc9c15223025363276a0a59d69cc50c13e20ca",
+      "episodeName": "A Death in the Family",
+      "genres": [
+        "Misdaaddrama"
+      ],
+      "productionDate": "1995",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F183902~~2FSH042733750000"
+    }
+  },
+  {
+    "id": "vtm:1791504300000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1791504000000,
-    "end": 1791507600000,
+    "start": 1791504300000,
+    "end": 1791507900000,
     "description": null,
     "category": [],
     "image": null,
@@ -24,10 +52,10 @@
     }
   },
   {
-    "id": "vtm:1791507600000:48zb9",
+    "id": "vtm:1791507900000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1791507600000,
+    "start": 1791507900000,
     "end": 1791518700000,
     "description": null,
     "category": [],

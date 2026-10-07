@@ -5,7 +5,7 @@
     "title": "Nieuwsuur",
     "start": 1791324000000,
     "end": 1791326700000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Scholierenprotesten in Frankrijk Opnieuw is er vandaag een grote protestdag van...",
     "category": [
       "Actueel"
     ],
@@ -55,7 +55,7 @@
     "title": "Nieuwsuur",
     "start": 1791329100000,
     "end": 1791349200000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Scholierenprotesten in Frankrijk Opnieuw is er vandaag een grote protestdag van...",
     "category": [
       "Actueel"
     ],
@@ -401,7 +401,7 @@
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-773830942.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -526,32 +526,10 @@
     "channel": "npo2",
     "title": "Met het mes op tafel",
     "start": 1791383400000,
-    "end": 1791384960000,
+    "end": 1791385020000,
     "description": "Drie kandidaten pokeren in een bruine kroeg met antwoorden op pittige vragen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/met-het-mes-op-tafel-769741892.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1791384960000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1791384960000,
-    "end": 1791385020000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-779954952.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -570,7 +548,7 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1791385020000,
-    "end": 1791385500000,
+    "end": 1791385080000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-779954952.jpg",
@@ -588,10 +566,32 @@
     }
   },
   {
-    "id": "npo2:1791385500000:8wg8bm",
+    "id": "npo2:1791385080000:12b58co",
+    "channel": "npo2",
+    "title": "Politieke partijen",
+    "start": 1791385080000,
+    "end": 1791385800000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-779954952.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1791385800000:8wg8bm",
     "channel": "npo2",
     "title": "De slimste mens",
-    "start": 1791385500000,
+    "start": 1791385800000,
     "end": 1791388800000,
     "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
     "category": [],
@@ -662,7 +662,7 @@
     "channel": "npo2",
     "title": "Noord-Zuid-Oost-West",
     "start": 1791390600000,
-    "end": 1791392700000,
+    "end": 1791393000000,
     "description": "Presentator Francis Broekhuijsen zoekt naar tweedehandsspullen met een verhaal.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/noord-zuid-oost-west-773715262.jpg",
@@ -677,10 +677,10 @@
     }
   },
   {
-    "id": "npo2:1791392700000:14ri0ia",
+    "id": "npo2:1791393000000:14ri0ia",
     "channel": "npo2",
     "title": "BinnensteBuiten",
-    "start": 1791392700000,
+    "start": 1791393000000,
     "end": 1791395400000,
     "description": "Met in deze uitzending: * De 27-jarige Henriëtte koopt in haar eentje een jaren 30-huis in Zwolle.",
     "category": [],
@@ -700,7 +700,7 @@
     "channel": "npo2",
     "title": "Met het mes op tafel",
     "start": 1791395400000,
-    "end": 1791397500000,
+    "end": 1791397800000,
     "description": "Drie kandidaten pokeren in een bruine kroeg met antwoorden op pittige vragen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/met-het-mes-op-tafel-769741892.jpg",
@@ -715,10 +715,10 @@
     }
   },
   {
-    "id": "npo2:1791397500000:bbnot0",
+    "id": "npo2:1791397800000:bbnot0",
     "channel": "npo2",
     "title": "Meisjes van de Goede Herder - Het vervolg",
-    "start": 1791397500000,
+    "start": 1791397800000,
     "end": 1791401100000,
     "description": "Drie vrouwen vertellen in Meisjes van de Goede Herder - Het Vervolg over hun jeugd in de kloosters van de Goede...",
     "category": [],
@@ -789,7 +789,7 @@
     "channel": "npo2",
     "title": "Muhammad Ali",
     "start": 1791405900000,
-    "end": 1791408900000,
+    "end": 1791408600000,
     "description": "Nu de wereld Muhammad Ali de vechter kent, maakt hij kennis met Muhammad Ali, de strijder.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/muhammad-ali-773581412.jpg",
@@ -804,11 +804,11 @@
     }
   },
   {
-    "id": "npo2:1791408900000:9afrz5",
+    "id": "npo2:1791408600000:9afrz5",
     "channel": "npo2",
     "title": "NPO Doc: Ik werd wakker op een bol",
-    "start": 1791408900000,
-    "end": 1791410400000,
+    "start": 1791408600000,
+    "end": 1791410700000,
     "description": "Mensen slapen, werken en eten allemaal.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/i/carrousel/ikwerdwakkeropeenbolmetannemeffert.jpg",

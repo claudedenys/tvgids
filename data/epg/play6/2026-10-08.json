@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1791416100000:o13nu0",
+    "id": "play6:1791416400000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1791416100000,
-    "end": 1791419400000,
+    "start": 1791416400000,
+    "end": 1791419100000,
     "description": "Een brief ondertekend door een voormalige president zorgt ervoor dat Rick en Corey de lof zingen voor Sammy Davis Jr. Rick reist naar Londen op zoek naar een kunstwerk.",
     "category": [
       "Reality",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1791419400000:48zb9",
+    "id": "play6:1791419100000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1791419400000,
-    "end": 1791428400000,
+    "start": 1791419100000,
+    "end": 1791428280000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c5ed7b315e2d0779ebc9ddf605e48a4ff57ebfef",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1791428280000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1791428280000,
+    "end": 1791428400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4bde0055e70e91f730497f67894c53f7fe005ad7",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

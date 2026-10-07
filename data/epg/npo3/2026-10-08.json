@@ -88,7 +88,7 @@
     "channel": "npo3",
     "title": "Eva",
     "start": 1791425700000,
-    "end": 1791428400000,
+    "end": 1791428460000,
     "description": "Schuif aan bij het gesprek van de dag met Eva Jinek. Met iedere dag de verhalen achter het nieuws, inspirerende gesprekken en verrassende liveoptredens.",
     "category": [
       "Talkshow"
@@ -112,38 +112,10 @@
     }
   },
   {
-    "id": "npo3:1791428400000:1olmvr0",
-    "channel": "npo3",
-    "title": "NOS Jeugdjournaal met gebarentaal",
-    "start": 1791428400000,
-    "end": 1791429720000,
-    "description": "Nieuwsprogramma voor de Nederlandse jeugd. Geschikt voor kinderen van negen tot twaalf. Met gebarentolk.",
-    "category": [
-      "Actua"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F817613~~2FSH041384060000~~2F551108569%2Cimi%3A6b184cf74ca24ed23857dbbfe59c2b510dda2c50/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 84060000,
-    "episode": 551108569,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F817613~~2FSH041384060000~~2F551108569,imi:6b184cf74ca24ed23857dbbfe59c2b510dda2c50",
-      "episodeName": null,
-      "genres": [
-        "Actua"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Feee099f5-e9c3-4fde-894e-9585046d5dcc"
-    }
-  },
-  {
-    "id": "npo3:1791429720000:1szo1ev",
+    "id": "npo3:1791428460000:1szo1ev",
     "channel": "npo3",
     "title": "Tekst-TV",
-    "start": 1791429720000,
+    "start": 1791428460000,
     "end": 1791432000000,
     "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
     "category": [
@@ -173,21 +145,21 @@
     "title": "Nijntje & Vriendjes",
     "start": 1791432000000,
     "end": 1791432300000,
-    "description": "Op een ochtend heeft het gezin van nijntje geen worteltjes meer. Dus het konijn gaat naar Poppy's huis om wat te halen, maar de laatste is al opgegeten. Op dat moment verschijnt Alice en nodigt haar uit voor een wortelfeestje.",
+    "description": "Nijntje houdt van de grote appelboom in de tuin van Betje Big. In de zomer zijn de appels nog niet rijp en moet Nijntje wachten. Op een dag zijn de rijpe appels weg en is Nijntje verdrietig, omdat ze er geen heeft kunnen eten.",
     "category": [
       "Kids",
       "Animatie"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F2800415~~2FEP037688250068%2Cimi%3Af333809cb17178dde03774345c7efd4b0a3237b4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F2800423~~2FEP037688250065%2Cimi%3Ae8116edeac0b86efa267cbae75f68124022b761e/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 88250000,
-    "episode": 2003052168,
+    "episode": 2003112065,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F2800415~~2FEP037688250068,imi:f333809cb17178dde03774345c7efd4b0a3237b4",
-      "episodeName": "Nijntje en het wortelfeest",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F2800423~~2FEP037688250065,imi:e8116edeac0b86efa267cbae75f68124022b761e",
+      "episodeName": "Een appeltaart voor nijntje",
       "genres": [
         "Kids",
         "Animatie"
@@ -2744,7 +2716,7 @@
     "channel": "npo3",
     "title": "Reizen Waes",
     "start": 1791495600000,
-    "end": 1791498600000,
+    "end": 1791498900000,
     "description": "Tom Waes maakt een roadtrip door noordelijk Mexico, waar al jaren een gevaarlijke drugsoorlog aan de gang is. De Mariachibands zingen daar dan ook niet over liefde, maar over geslaagde drugsdeals.",
     "category": [
       "Docu",
