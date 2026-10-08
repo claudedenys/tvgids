@@ -4,7 +4,7 @@
     "channel": "npo1",
     "title": "Gouden Televizier-Ring Gala",
     "start": 1791582900000,
-    "end": 1791588900000,
+    "end": 1791588600000,
     "description": "Live-uitzending vanuit Carré van het televisiegala van het jaar waar de kijker de jury vormt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/g/carrousel/gouden-televizier-ring-gala-781505072.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "npo1:1791588900000:1qmbii9",
+    "id": "npo1:1791588600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791588900000,
-    "end": 1791590700000,
+    "start": 1791588600000,
+    "end": 1791590400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -47,33 +47,11 @@
     }
   },
   {
-    "id": "npo1:1791590700000:texg2g",
-    "channel": "npo1",
-    "title": "Gesprek minister-president met gebarentaal",
-    "start": 1791590700000,
-    "end": 1791591300000,
-    "description": "Gesprek met de minister-president over actuele ontwikkelingen in de politiek, met gebarentaal.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/g/carrousel/gesprek-met-de-minister-president-776712062.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1791591300000:1byfm7j",
+    "id": "npo1:1791590400000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1791591300000,
-    "end": 1791593700000,
+    "start": 1791590400000,
+    "end": 1791591300000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [
       "Actueel"
@@ -94,11 +72,11 @@
     }
   },
   {
-    "id": "npo1:1791593700000:1qmbii9",
+    "id": "npo1:1791591300000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791593700000,
-    "end": 1791594900000,
+    "start": 1791591300000,
+    "end": 1791592500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -119,10 +97,10 @@
     }
   },
   {
-    "id": "npo1:1791594900000:1qmbii9",
+    "id": "npo1:1791592500000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791594900000,
+    "start": 1791592500000,
     "end": 1791609000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [

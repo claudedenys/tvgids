@@ -1,9 +1,9 @@
 [
   {
-    "id": "play6:1791502500000:o13nu0",
+    "id": "play6:1791502800000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1791502500000,
+    "start": 1791502800000,
     "end": 1791505800000,
     "description": "Rick gaat naar Engeland voor een explosieve kans om antieke wapens te testen. Een voorwerp dat de inspiratie vormde voor een klassieke film komt de winkel binnen. Rick bekijkt een klassieke auto die toebehoorde aan Winston Churchill.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1791505800000,
-    "end": 1791514800000,
+    "end": 1791514560000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6e5424ecb5f91930025abb5590361f5c1c27fa89",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1791514560000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1791514560000,
+    "end": 1791514800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:882710f559550806867b71db1fd5c08f439f9fda",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -171,7 +195,7 @@
     "title": "The Ark",
     "start": 1791528900000,
     "end": 1791532200000,
-    "description": "Ruimteschip Ark One wordt tijdens een missie om het voortbestaan van de mensheid veilig te stellen geconfronteerd met een verwoestende ramp. Terwijl ze koers proberen te houden naar hun bestemming, moet de bemanning samenwerken om te overleven.",
+    "description": "Garnet en Ian bedenken een gewaagd plan om te ontsnappen. Ondertussen zorgt een mysterieuze explosie op Homebase 1 voor nieuwe problemen.",
     "category": [
       "Dramaserie",
       "Sciencefiction"

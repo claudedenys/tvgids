@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1791502200000:1vr1iur",
+    "id": "play5:1791502500000:1vr1iur",
     "channel": "play5",
     "title": "How to Get Away With Murder",
-    "start": 1791502200000,
-    "end": 1791505800000,
+    "start": 1791502500000,
+    "end": 1791505500000,
     "description": "Annalise en Bonnie gebruiken een ongewone bron voor meer inlichtingen, maar daardoor loopt de spanning erg hoog op bij de Keating 5. Annalise neemt een bijzondere cliënt aan.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1791505800000:48zb9",
+    "id": "play5:1791505500000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1791505800000,
-    "end": 1791514800000,
+    "start": 1791505500000,
+    "end": 1791514500000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:eb17607db0236918b1baaed4b5d72280e55ebcfa",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1791514500000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1791514500000,
+    "end": 1791514800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:8a9f44e75c3e9c58b3d9804347f6d863c15a6725",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

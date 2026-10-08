@@ -432,7 +432,7 @@
     "channel": "sbs6",
     "title": "Hart van Nederland",
     "start": 1791447300000,
-    "end": 1791448200000,
+    "end": 1791447900000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -452,11 +452,11 @@
     }
   },
   {
-    "id": "sbs6:1791448200000:16r3jxd",
+    "id": "sbs6:1791447900000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1791448200000,
-    "end": 1791451200000,
+    "start": 1791447900000,
+    "end": 1791451080000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/shownieuws-769732912.jpg",
@@ -474,11 +474,11 @@
     }
   },
   {
-    "id": "sbs6:1791451200000:1e1evyy",
+    "id": "sbs6:1791451080000:1e1evyy",
     "channel": "sbs6",
     "title": "Nieuws van de dag",
-    "start": 1791451200000,
-    "end": 1791454800000,
+    "start": 1791451080000,
+    "end": 1791454500000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -499,11 +499,11 @@
     }
   },
   {
-    "id": "sbs6:1791454800000:2eepw1",
+    "id": "sbs6:1791454500000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1791454800000,
-    "end": 1791456600000,
+    "start": 1791454500000,
+    "end": 1791456420000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/prijzenjacht-777084202.jpg",
@@ -521,14 +521,14 @@
     }
   },
   {
-    "id": "sbs6:1791456600000:1fry72r",
+    "id": "sbs6:1791456420000:1fry72r",
     "channel": "sbs6",
     "title": "De hygiënepolitie",
-    "start": 1791456600000,
-    "end": 1791460200000,
+    "start": 1791456420000,
+    "end": 1791459900000,
     "description": "Rob Geus is in Delft, waar zich aan een gracht een viersterrenboetiekhotel bevindt.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-hygienepolitie-770671162.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -543,11 +543,11 @@
     }
   },
   {
-    "id": "sbs6:1791460200000:1ddldj5",
+    "id": "sbs6:1791459900000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1791460200000,
-    "end": 1791463500000,
+    "start": 1791459900000,
+    "end": 1791463200000,
     "description": "De finale van de 33ste cyclus wordt beslist en de nieuwe cyclus begint, met weer nieuwe energie en nieuwe deelnemers.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bondgenoten-774227622.jpg",
@@ -565,11 +565,11 @@
     }
   },
   {
-    "id": "sbs6:1791463500000:qnt3dj",
+    "id": "sbs6:1791463200000:qnt3dj",
     "channel": "sbs6",
     "title": "De grote verbouwing",
-    "start": 1791463500000,
-    "end": 1791466800000,
+    "start": 1791463200000,
+    "end": 1791466740000,
     "description": "Adam en Tassy gaan aan de slag in een gigantische watertoren, een twintig meter hoge betonnen zuil in Northamptonshire.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-grote-verbouwing-773965672.jpg",
@@ -587,11 +587,11 @@
     }
   },
   {
-    "id": "sbs6:1791466800000:4xdmkm",
+    "id": "sbs6:1791466740000:4xdmkm",
     "channel": "sbs6",
     "title": "Huizen onder de hamer",
-    "start": 1791466800000,
-    "end": 1791471000000,
+    "start": 1791466740000,
+    "end": 1791471060000,
     "description": "Een marathonloper rondt een zeven jaar durend project af om een locatie in Llanfynydd om te toveren tot een stijlvol...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/h/carrousel/homes-under-the-hammer-772272952.jpg",
@@ -609,10 +609,10 @@
     }
   },
   {
-    "id": "sbs6:1791471000000:ar1ua0",
+    "id": "sbs6:1791471060000:ar1ua0",
     "channel": "sbs6",
     "title": "Droomhuis op het platteland",
-    "start": 1791471000000,
+    "start": 1791471060000,
     "end": 1791474600000,
     "description": "Nicki Chapman bevindt zich in West Country en helpt drie generaties uit de West Midlands om te verhuizen naar Devon.",
     "category": [],
@@ -624,7 +624,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -656,7 +659,7 @@
     "channel": "sbs6",
     "title": "Nieuws van de dag",
     "start": 1791475500000,
-    "end": 1791478800000,
+    "end": 1791478620000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -676,11 +679,11 @@
     }
   },
   {
-    "id": "sbs6:1791478800000:2eepw1",
+    "id": "sbs6:1791478620000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1791478800000,
-    "end": 1791480600000,
+    "start": 1791478620000,
+    "end": 1791480540000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/prijzenjacht-777084202.jpg",
@@ -695,12 +698,12 @@
     }
   },
   {
-    "id": "sbs6:1791480600000:1ddldj5",
+    "id": "sbs6:1791480540000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1791480600000,
-    "end": 1791484200000,
-    "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
+    "start": 1791480540000,
+    "end": 1791484020000,
+    "description": "Twee deelnemers maken kans om naar het Televizier-Ring Gala te mogen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bondgenoten-774227622.jpg",
     "icon": null,
@@ -714,11 +717,11 @@
     }
   },
   {
-    "id": "sbs6:1791484200000:gti2il",
+    "id": "sbs6:1791484020000:gti2il",
     "channel": "sbs6",
     "title": "Code van Coppens",
-    "start": 1791484200000,
-    "end": 1791488100000,
+    "start": 1791484020000,
+    "end": 1791487920000,
     "description": "Staf en Mathias beginnen een viswinkel in Urk, alleen is er één klein detail: er is geen vis.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/c/carrousel/code-van-coppens-777476112.jpg",
@@ -733,12 +736,12 @@
     }
   },
   {
-    "id": "sbs6:1791488100000:1rq69gz",
+    "id": "sbs6:1791487920000:1rq69gz",
     "channel": "sbs6",
     "title": "Vandaag inside",
-    "start": 1791488100000,
-    "end": 1791492000000,
-    "description": "In 'Vandaag inside' geven Wilfred Genee, Johan Derksen en René van der Gijp hun kijk op het nieuws en de actualiteit.",
+    "start": 1791487920000,
+    "end": 1791491880000,
+    "description": "<span class=\"label label--updated\">Update</span> Albert Verlinde schuift aan als tafelgast bij Johan Derksen, Wilfred Genee en René van der Gijp...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/v/carrousel/vandaag-inside-772651542.jpg",
     "icon": null,
@@ -748,15 +751,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
-    "id": "sbs6:1791492000000:1k6yy12",
+    "id": "sbs6:1791491880000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1791492000000,
-    "end": 1791493200000,
+    "start": 1791491880000,
+    "end": 1791493020000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -776,10 +781,10 @@
     }
   },
   {
-    "id": "sbs6:1791493200000:16r3jxd",
+    "id": "sbs6:1791493020000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1791493200000,
+    "start": 1791493020000,
     "end": 1791496500000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
@@ -799,8 +804,8 @@
     "channel": "sbs6",
     "title": "De bondgenoten",
     "start": 1791496500000,
-    "end": 1791499800000,
-    "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
+    "end": 1791499860000,
+    "description": "Twee deelnemers maken kans om naar het Televizier-Ring Gala te mogen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bondgenoten-774227622.jpg",
     "icon": null,
