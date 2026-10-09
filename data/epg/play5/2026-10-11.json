@@ -1,10 +1,40 @@
 [
   {
-    "id": "play5:1791676800000:dswtyn",
+    "id": "play5:1791673500000:dswtyn",
     "channel": "play5",
     "title": "Criminal Minds",
-    "start": 1791676800000,
-    "end": 1791680100000,
+    "start": 1791673500000,
+    "end": 1791677100000,
+    "description": "Het team onderzoekt de moord op voormalig commissaris Charlie Figg in Bronson Springs, Colorado. De man werd onthoofd. Enkele uren eerder werd in het dorpje de schedel gevonden van Wade Burke, een jongeman die jaren geleden spoorloos verdween.",
+    "category": [
+      "Dramaserie",
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9824602~~2FEP027942270235%2Cimi%3Aefc95a0926a2779a356fdeffce60eef9ca97f3cc/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 8,
+    "episode": 19,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9824602~~2FEP027942270235,imi:efc95a0926a2779a356fdeffce60eef9ca97f3cc",
+      "episodeName": "Pay It Forward",
+      "genres": [
+        "Dramaserie",
+        "Misdaaddrama"
+      ],
+      "productionDate": "2012",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8d082383-bb57-406b-b7ff-14ae1661d82f"
+    }
+  },
+  {
+    "id": "play5:1791677100000:dswtyn",
+    "channel": "play5",
+    "title": "Criminal Minds",
+    "start": 1791677100000,
+    "end": 1791679500000,
     "description": "In het stadje Rapid City in South Dakota worden de in stukken gesneden lichamen van twee dertigers gevonden. Beide mannen werden met een snelwerkend gif omgebracht. De BAU ontdekt dat de slachtoffers niet in Rapid City woonden.",
     "category": [
       "Dramaserie",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1791680100000:48zb9",
+    "id": "play5:1791679500000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1791680100000,
-    "end": 1791687600000,
+    "start": 1791679500000,
+    "end": 1791687360000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:035aaba2faa05da27572d42e8726e221ec9af272",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1791687360000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1791687360000,
+    "end": 1791687600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d8bf46d73c804d253913d73ea265f03262f721c0",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1791670800000:ur5ecq",
+    "id": "play6:1791671400000:ur5ecq",
     "channel": "play6",
     "title": "The Usual Suspects",
-    "start": 1791670800000,
-    "end": 1791678300000,
+    "start": 1791671400000,
+    "end": 1791678600000,
     "description": "Het verhaal van vijf mannen - de 'gebruikelijke' verdachten - die verdacht worden van een misdaad. Een ingenieus kat-en-muisspel, begeleid door het ritme van bedrog en misleiding, ontvouwt zich op de straten van New York.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1791678300000:48zb9",
+    "id": "play6:1791678600000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1791678300000,
-    "end": 1791692400000,
+    "start": 1791678600000,
+    "end": 1791687000000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,54 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a9b44fb85c8789856b2395388346aea64a6996cc",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1791687000000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1791687000000,
+    "end": 1791687600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:16f44ba11e2f3b4bc0806a513149aaa7a2b4a53c",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1791687600000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1791687600000,
+    "end": 1791692400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2ff6e5272f66eb3238512ceadb4d389b0090970d",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

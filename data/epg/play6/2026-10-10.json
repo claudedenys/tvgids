@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "Pawn Stars: Best Of",
     "start": 1791588600000,
-    "end": 1791591000000,
+    "end": 1791591300000,
     "description": "De mannen gaan vol gas naar een uitgedoste Dodge Demon kijken. Rick voelt zich net Steve McQueen in een Chevy uit '51. En er is een baanrace met professionals in een limited edition Mustang.",
     "category": [
       "Reality",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1791591000000:48zb9",
+    "id": "play6:1791591300000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1791591000000,
-    "end": 1791601200000,
+    "start": 1791591300000,
+    "end": 1791600900000,
     "description": null,
     "category": [],
     "image": null,
@@ -54,11 +54,35 @@
     }
   },
   {
+    "id": "play6:1791600900000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1791600900000,
+    "end": 1791601200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9eea031931891c3b76d15a7f8af6eb95ca6d904a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play6:1791601200000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1791601200000,
-    "end": 1791604500000,
+    "end": 1791606300000,
     "description": null,
     "category": [],
     "image": null,
@@ -78,16 +102,16 @@
     }
   },
   {
-    "id": "play6:1791604500000:12r5kk8",
+    "id": "play6:1791606300000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1791604500000,
-    "end": 1791607800000,
+    "start": 1791606300000,
+    "end": 1791609000000,
     "description": "Andrews zus komt bij het team voor haar eerste berging, maar een takelprobleem zorgt voor meer opwinding dan ze had verwacht. Eric werkt in een krappe ruimte om zijn jonge team te beschermen.",
     "category": [
       "Reality"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16675847~~2FEP028770780025%2Cimi%3A28628776e8e90a1712b5d0f02fecf51e884ad066/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16675847~~2FEP028770780025%2Cimi%3A9ab54f016a5576d6833a87b8fe29ec7ff758c68a/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 3,
@@ -95,7 +119,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F16675847~~2FEP028770780025,imi:28628776e8e90a1712b5d0f02fecf51e884ad066",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16675847~~2FEP028770780025,imi:9ab54f016a5576d6833a87b8fe29ec7ff758c68a",
       "episodeName": "Between Life and Death",
       "genres": [
         "Reality"
@@ -106,11 +130,11 @@
     }
   },
   {
-    "id": "play6:1791607800000:12r5kk8",
+    "id": "play6:1791609000000:12r5kk8",
     "channel": "play6",
     "title": "Heavy Rescue: 401",
-    "start": 1791607800000,
-    "end": 1791611100000,
+    "start": 1791609000000,
+    "end": 1791611700000,
     "description": "Als de teams worden getroffen door een ijsstorm in de lente, vecht Bubba tegen het koppige wrak. Sonny improviseert om een stapel zware stalen balken weg te krijgen.",
     "category": [
       "Reality"
@@ -134,11 +158,11 @@
     }
   },
   {
-    "id": "play6:1791611100000:1lmrwl3",
+    "id": "play6:1791611700000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791611100000,
-    "end": 1791612900000,
+    "start": 1791611700000,
+    "end": 1791613200000,
     "description": "In Californië gaan de opkopers de bergen in en komen op grote hoogte terecht in Rimforest, waar veilingen worden gegeven in de sneeuw. Mary doorstaat de storm terwijl Casey probeert Rene gefocust te houden en Ivy krijgt een aanval van koopwoede.",
     "category": [
       "Reality",
@@ -164,11 +188,11 @@
     }
   },
   {
-    "id": "play6:1791612900000:1lmrwl3",
+    "id": "play6:1791613200000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791612900000,
-    "end": 1791614700000,
+    "start": 1791613200000,
+    "end": 1791615000000,
     "description": "De kopers zoeken naar woestijnschatten op de veiling in Indio, Californië. Ivy gebruikt een brute strategie om concurrentie af te schrikken. Mary stapt uit haar comfortzone. Darrell weigert zich door Brandons slechte humeur te laten afleiden.",
     "category": [
       "Reality",
@@ -194,11 +218,11 @@
     }
   },
   {
-    "id": "play6:1791614700000:1lmrwl3",
+    "id": "play6:1791615000000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791614700000,
-    "end": 1791616500000,
+    "start": 1791615000000,
+    "end": 1791616800000,
     "description": "De hongerige kopers keren terug naar Montebello, Californië, waar Darrell hoopt zijn eerdere successen te kunnen herhalen. Brandi ontdekt dat Jarrod een probleem heeft dat meer dan alleen hun bedrijf aangaat.",
     "category": [
       "Reality",
@@ -224,11 +248,11 @@
     }
   },
   {
-    "id": "play6:1791616500000:1lmrwl3",
+    "id": "play6:1791616800000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791616500000,
-    "end": 1791618300000,
+    "start": 1791616800000,
+    "end": 1791618600000,
     "description": "De strijd tussen de koppels barst los, wanneer René en Casey het opnemen tegen hun rivalen Jarrod en Brandi. Een ietwat gelukkige Darrell wordt de trotse eigenaar van een intrigerende kluis. Ivy Calvin heeft een ontmoeting met een harige vriend.",
     "category": [
       "Reality",
@@ -254,11 +278,11 @@
     }
   },
   {
-    "id": "play6:1791618300000:1lmrwl3",
+    "id": "play6:1791618600000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791618300000,
-    "end": 1791620100000,
+    "start": 1791618600000,
+    "end": 1791620400000,
     "description": "Ivy Calvin probeert zijn winstgevende reeks voort te zetten, terwijl René en Darrell daar met psychologische spelletjes een stokje voor proberen te steken. Ondertussen bezoeken Jarrod en Brandi een plaats delict, en reizen ze terug in de tijd.",
     "category": [
       "Reality",
@@ -284,11 +308,11 @@
     }
   },
   {
-    "id": "play6:1791620100000:1lmrwl3",
+    "id": "play6:1791620400000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791620100000,
-    "end": 1791621900000,
+    "start": 1791620400000,
+    "end": 1791622200000,
     "description": "Jarrod hoopt dat het scoren van nieuwe opslagboxen Brandi ervan zal weerhouden de winkel in Long Beach te sluiten. Ivy probeert de andere bieders te intimideren. Rene's eigenwijsheid blijkt zijn nadelen te hebben. Darrell krijgt een shockbehandeling.",
     "category": [
       "Reality",
@@ -314,11 +338,11 @@
     }
   },
   {
-    "id": "play6:1791621900000:48zb9",
+    "id": "play6:1791622200000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1791621900000,
-    "end": 1791625500000,
+    "start": 1791622200000,
+    "end": 1791625800000,
     "description": null,
     "category": [],
     "image": null,
@@ -338,11 +362,11 @@
     }
   },
   {
-    "id": "play6:1791625500000:1lmrwl3",
+    "id": "play6:1791625800000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791625500000,
-    "end": 1791627000000,
+    "start": 1791625800000,
+    "end": 1791627300000,
     "description": "De kopers keren terug naar Montebello in Californië, waar Darrell zijn magie weer terugvindt. Jarrod en Brandi gaan hun eigen weg, en alleen de tijd zal uitwijzen of het voorgoed is. Ivy huurt een nieuwe medewerker in om voor zijn winkel te zorgen.",
     "category": [
       "Reality",
@@ -368,11 +392,11 @@
     }
   },
   {
-    "id": "play6:1791627000000:1lmrwl3",
+    "id": "play6:1791627300000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791627000000,
-    "end": 1791628800000,
+    "start": 1791627300000,
+    "end": 1791629100000,
     "description": "Darrell haalt zijn oude trucs uit de kast, terwijl Ivy zijn concurrentie voor de gek houdt. Jarrod en Brandi moeten hun winkel in Long Beach sluiten als ze dit keer geen grote winst kunnen maken. René en Casey bevinden zich in de ruimte.",
     "category": [
       "Reality",
@@ -398,10 +422,10 @@
     }
   },
   {
-    "id": "play6:1791628800000:1lmrwl3",
+    "id": "play6:1791629100000:1lmrwl3",
     "channel": "play6",
     "title": "Storage Wars",
-    "start": 1791628800000,
+    "start": 1791629100000,
     "end": 1791630600000,
     "description": "De kopers zijn in Long Beach, Californië. Ivy racet tegen de klok om weer op tijd thuis te komen. Jarrod en Brandi hebben besloten om een van hun winkels te sluiten. René geeft het meeste geld uit, maar Darrell en Brandon behalen de hoogste winst.",
     "category": [
@@ -432,7 +456,7 @@
     "channel": "play6",
     "title": "Storage Wars",
     "start": 1791630600000,
-    "end": 1791632100000,
+    "end": 1791632400000,
     "description": "René en Casey zijn van plan hoog in te zetten om hun vrachtwagen te vullen. Jarrod en Brandi worstelen met de geruchten over het sluiten van hun winkel. Darrell en Brandon veranderen hun tactiek, en Ivy koopt iets dat zijn carrière kan veranderen.",
     "category": [
       "Reality",
@@ -458,10 +482,10 @@
     }
   },
   {
-    "id": "play6:1791632100000:1m0ktji",
+    "id": "play6:1791632400000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1791632100000,
+    "start": 1791632400000,
     "end": 1791634200000,
     "description": "Walden krijgt een uitnodiging voor de opening van de boetiek van zijn ex-vriendin. Gretchen hoopt ondertussen meer tijd door te kunnen brengen bij Alan thuis.",
     "category": [
@@ -576,7 +600,7 @@
     "channel": "play6",
     "title": "Two and a Half Men",
     "start": 1791644400000,
-    "end": 1791646200000,
+    "end": 1791646500000,
     "description": "Walden gaat naar Colorado met Jenny en Barry. Ondertussen overweegt Alan om Larry de waarheid te vertellen over `Jeff Strongman'.",
     "category": [
       "Sitcom"
@@ -600,11 +624,11 @@
     }
   },
   {
-    "id": "play6:1791646200000:1m0ktji",
+    "id": "play6:1791646500000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1791646200000,
-    "end": 1791648000000,
+    "start": 1791646500000,
+    "end": 1791648300000,
     "description": "Wanneer Alan en Gretchen zich verloven en Larry het huwelijk afblaast, slaan bij Lyndsey de stoppen door. Ondertussen ontwerpt Walden een robot.",
     "category": [
       "Sitcom"
@@ -628,11 +652,11 @@
     }
   },
   {
-    "id": "play6:1791648000000:1m0ktji",
+    "id": "play6:1791648300000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1791648000000,
-    "end": 1791649800000,
+    "start": 1791648300000,
+    "end": 1791650100000,
     "description": "Terwijl iedereen zich opmaakt voor Halloween, krijgt Walden een hartaanval. Walden besluit zijn leven voortaan anders in te vullen. Zijn beslissingen hebben echter een grote impact op Alans toekomst.",
     "category": [
       "Sitcom"
@@ -656,11 +680,11 @@
     }
   },
   {
-    "id": "play6:1791649800000:1m0ktji",
+    "id": "play6:1791650100000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1791649800000,
-    "end": 1791651600000,
+    "start": 1791650100000,
+    "end": 1791651900000,
     "description": "Alan voelt zich beledigd wanneer Walden vraagt om enkele huwelijksvoorwaarden te ondertekenen. Hij besluit hun huwelijksplannen een tijdje aan de kant te schuiven.",
     "category": [
       "Sitcom"
@@ -684,11 +708,11 @@
     }
   },
   {
-    "id": "play6:1791651600000:1m0ktji",
+    "id": "play6:1791651900000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1791651600000,
-    "end": 1791653400000,
+    "start": 1791651900000,
+    "end": 1791653700000,
     "description": "Alan en Walden doen zich voor als een liefdevol koppel tijdens een ontmoeting met een maatschappelijk werker. Ondertussen keert Lyndsey terug uit de afkickkliniek.",
     "category": [
       "Sitcom"
@@ -712,11 +736,11 @@
     }
   },
   {
-    "id": "play6:1791653400000:1m0ktji",
+    "id": "play6:1791653700000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1791653400000,
-    "end": 1791655200000,
+    "start": 1791653700000,
+    "end": 1791655800000,
     "description": "Een draagmoeder overweegt Walden en Alan als adoptieouders voor haar ongeboren kind. Herb, Barry en Larry vergezellen Walden en Alan bij het vieren van dit nieuws.",
     "category": [
       "Sitcom"
@@ -740,11 +764,11 @@
     }
   },
   {
-    "id": "play6:1791655200000:1m0ktji",
+    "id": "play6:1791655800000:1m0ktji",
     "channel": "play6",
     "title": "Two and a Half Men",
-    "start": 1791655200000,
-    "end": 1791657000000,
+    "start": 1791655800000,
+    "end": 1791657300000,
     "description": "Walden en Alan nemen een 6-jarig pleegkind genaamd Louis in huis. Ze doen hun uiterste best om het kind zich thuis te laten voelen, dit verloopt echter niet zoals verwacht.",
     "category": [
       "Sitcom"
@@ -768,11 +792,11 @@
     }
   },
   {
-    "id": "play6:1791657000000:1mr3skv",
+    "id": "play6:1791657300000:1mr3skv",
     "channel": "play6",
     "title": "Justice League",
-    "start": 1791657000000,
-    "end": 1791664800000,
+    "start": 1791657300000,
+    "end": 1791665100000,
     "description": "Geholpen door zijn hernieuwde geloof in de mensheid en geïnspireerd door Superman, moet Batman samen met Wonder Woman een team van metahumans samenstellen om het hoofd te bieden aan de bedreiging van Steppenwolf en zijn leger van Parademons.",
     "category": [
       "Film",
@@ -798,11 +822,11 @@
     }
   },
   {
-    "id": "play6:1791664800000:24cjh4",
+    "id": "play6:1791665100000:24cjh4",
     "channel": "play6",
     "title": "Jumper",
-    "start": 1791664800000,
-    "end": 1791670800000,
+    "start": 1791665100000,
+    "end": 1791671400000,
     "description": "Door een genetische afwijking heeft David Rice de mogelijkheid om zich overal naartoe te teleporteren. Een geheime organisatie wil alle mensen met deze gave uitroeien en dan begint de jacht op David.",
     "category": [
       "Film",

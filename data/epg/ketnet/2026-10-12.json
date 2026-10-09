@@ -236,7 +236,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1791779700000,
-    "end": 1791780300000,
+    "end": 1791780000000,
     "description": "Dropje ziet dat Fieke in haar broek heeft geplast omdat ze het te druk heeft met 'verstoppertje'.",
     "category": [
       "Kids",
@@ -262,11 +262,11 @@
     }
   },
   {
-    "id": "ketnet:1791780300000:ozsre8",
+    "id": "ketnet:1791780000000:ozsre8",
     "channel": "ketnet",
     "title": "Sarah doet yoga",
-    "start": 1791780300000,
-    "end": 1791780600000,
+    "start": 1791780000000,
+    "end": 1791780300000,
     "description": "Sarah woont in een kleurrijke blokkentoren met een gezellig voortuintje aan de rand van de stad en betovert iedereen met haar mooie glimlach. Samen met Sokpop probeert ze leuke yogahoudingen uit. Iedereen doet mee.",
     "category": [
       "Kids",
@@ -292,11 +292,11 @@
     }
   },
   {
-    "id": "ketnet:1791780600000:ykedwl",
+    "id": "ketnet:1791780300000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1791780600000,
-    "end": 1791781200000,
+    "start": 1791780300000,
+    "end": 1791780900000,
     "description": "Bing en Sula hebben zóveel plezier met samen spelen, dat ze geen afscheid willen nemen en dus geen tot ziens willen zeggen als Amma langskomt om Sula op te halen. Om Sula's vertrek te vertragen, verstopt Bing de glitterschoen van Sula in de wc.",
     "category": [
       "Kids",
@@ -322,11 +322,11 @@
     }
   },
   {
-    "id": "ketnet:1791781200000:1ysf81w",
+    "id": "ketnet:1791780900000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1791781200000,
-    "end": 1791781800000,
+    "start": 1791780900000,
+    "end": 1791781500000,
     "description": "Op het mistige meer hoort Bryan de veerboot vreemde geluiden en denkt hij aan een monster. Mojo en Bo tonen hem dat dapper zijn soms gewoon samen durven is.",
     "category": [
       "Kids",
@@ -352,11 +352,11 @@
     }
   },
   {
-    "id": "ketnet:1791781800000:18mo0rb",
+    "id": "ketnet:1791781500000:18mo0rb",
     "channel": "ketnet",
     "title": "Sarah leest voor",
-    "start": 1791781800000,
-    "end": 1791782100000,
+    "start": 1791781500000,
+    "end": 1791781800000,
     "description": "Sarah woont in een kleurrijke blokkentoren met een gezellig voortuintje aan de rand van de stad. Ze betovert iedereen met haar mooie glimlach en leest graag 'de avonturen van Sokpop' voor. Lezen jullie allemaal mee?",
     "category": [
       "Kids",
@@ -382,11 +382,11 @@
     }
   },
   {
-    "id": "ketnet:1791782100000:ne1xug",
+    "id": "ketnet:1791781800000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1791782100000,
-    "end": 1791782700000,
+    "start": 1791781800000,
+    "end": 1791782400000,
     "description": "Katty wilt weten hoe het voelt om overal naartoe te stuiteren, net als Sacha. De Biggenbouwers bouwen speciaal voor haar een eierbuggy. Wilf laat het echter op hol slaan en de biggen moeten alles eraan doen om de buggy te stoppen.",
     "category": [
       "Kids",
@@ -409,6 +409,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1791782400000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1791782400000,
+    "end": 1791782700000,
+    "description": "Samson doet mee aan De Grote Radioquiz. De hoofdprijs is een weekendje naar zee. Als hij wint, neemt hij het mooiste en liefste meisje ter wereld mee. Marie is er zeker van dat Samson haar mee zal nemen, maar Samson heeft andere plannen.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18978269~~2FEP036193980013%2Cimi%3Aa50c4da8a8e435c5d1078e1528ee16671b713315/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 17,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18978269~~2FEP036193980013,imi:a50c4da8a8e435c5d1078e1528ee16671b713315",
+      "episodeName": "De quiz",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -1518,33 +1548,33 @@
     }
   },
   {
-    "id": "ketnet:1791799800000:ne8lx9",
+    "id": "ketnet:1791799800000:oyct5e",
     "channel": "ketnet",
-    "title": "Zig & Sharko",
+    "title": "Kleine dingen",
     "start": 1791799800000,
     "end": 1791800100000,
-    "description": "Zig veroorzaakt herhaaldelijk waterlekken in de machinekamer. Marina is wanhopig om ze te repareren en werkt hard zonder Sharko om hulp te vragen, totdat het hele systeem het begeeft en de hele boot onder water loopt.",
+    "description": "De hele kleine wezentjes springen van een liniaal af, maar Blue voelt zich plots angstig.",
     "category": [
       "Kids",
-      "Animatie"
+      "Avontuur"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26644850~~2FEP035178410590%2Cimi%3A8189dd297e89672aa99cf6e39a3427460da6937a/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21137404~~2FEP046890380001%2Cimi%3A525c9c4c532c47624800fb685d6624d202b1986e/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 4,
-    "episode": 30,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26644850~~2FEP035178410590,imi:8189dd297e89672aa99cf6e39a3427460da6937a",
-      "episodeName": "A Thousand Leaks",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21137404~~2FEP046890380001,imi:525c9c4c532c47624800fb685d6624d202b1986e",
+      "episodeName": "Boing",
       "genres": [
         "Kids",
-        "Animatie"
+        "Avontuur"
       ],
-      "productionDate": "2023",
+      "productionDate": "2021",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0281727c-5e2e-4d94-a427-57282cfaf93d"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F21137395~~2FSH046890380000"
     }
   },
   {
@@ -2752,7 +2782,7 @@
     "channel": "ketnet",
     "title": "Lettersoep",
     "start": 1791823500000,
-    "end": 1791825000000,
+    "end": 1791824700000,
     "description": "De dansende springveren Jeanne en Thea, beter bekend als de 'Taalkanjers', gaan de strijd aan met de 'Alpha'-dames Amélie en Saar, in een razendsnelle en vrolijke Lettersoep vol taalplezier!",
     "category": [
       "Spelprogramma",
@@ -2775,6 +2805,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31441768~~2FSH061044090000"
+    }
+  },
+  {
+    "id": "ketnet:1791824700000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1791824700000,
+    "end": 1791825000000,
+    "description": "Grizzy wordt wakker na een dutje en is uitgehongerd. Dan blijkt de laatste pot Yummy chocoladepasta leeg te zijn en Grizzy komt op het idee om chocoladepoeder te mengen met kokosmelk. De Lemmings, die net zo gulzig zijn, willen hun deel van de drank.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19936636~~2FEP041241250158%2Cimi%3Af6e8f1c12f4d0bcbd29f7c9bc662944c1639b2f7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 15,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19936636~~2FEP041241250158,imi:f6e8f1c12f4d0bcbd29f7c9bc662944c1639b2f7",
+      "episodeName": "Aflevering 15",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {

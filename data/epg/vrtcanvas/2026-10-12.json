@@ -320,7 +320,7 @@
     "channel": "vrtcanvas",
     "title": "VRT NWS Terzake",
     "start": 1791828000000,
-    "end": 1791829800000,
+    "end": 1791830100000,
     "description": "De actualiteit aan de hand van kritische en verhelderende interviews. Achtergrond en duiding bij het nieuws van de dag.",
     "category": [
       "Actualiteitsmagazine",
@@ -343,36 +343,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3c19e932-60f8-4f8d-a1d5-f6fdae10e620"
-    }
-  },
-  {
-    "id": "vrtcanvas:1791829800000:1rw80yh",
-    "channel": "vrtcanvas",
-    "title": "Het weer",
-    "start": 1791829800000,
-    "end": 1791830100000,
-    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
-    "category": [
-      "Weer",
-      "Actua"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F553223200%2Cimi%3Af9340683955d791b20702255880675a09d3aedf6/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 31670000,
-    "episode": 553223200,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F553223200,imi:f9340683955d791b20702255880675a09d3aedf6",
-      "episodeName": null,
-      "genres": [
-        "Weer",
-        "Actua"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
     }
   },
   {
@@ -438,7 +408,7 @@
     "channel": "vrtcanvas",
     "title": "De ideale wereld",
     "start": 1791836400000,
-    "end": 1791838920000,
+    "end": 1791839100000,
     "description": "Ella Leyers leidt in 'De ideale wereld' haar gasten door de actualiteit terwijl ze die lardeert met dagverse humor die gaat van onnozel tot nog veel onnozeler.",
     "category": [
       "Entertainment",
@@ -461,36 +431,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F488c1e4a-9f4f-476e-9800-3450016a2d30"
-    }
-  },
-  {
-    "id": "vrtcanvas:1791838920000:1rw80yh",
-    "channel": "vrtcanvas",
-    "title": "Het weer",
-    "start": 1791838920000,
-    "end": 1791839100000,
-    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
-    "category": [
-      "Weer",
-      "Actua"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F556879010%2Cimi%3Ac79e16bf54461b9856eaf2864f74a1bfe1a72cee/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 31670000,
-    "episode": 556879010,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F556879010,imi:c79e16bf54461b9856eaf2864f74a1bfe1a72cee",
-      "episodeName": null,
-      "genres": [
-        "Weer",
-        "Actua"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
     }
   },
   {

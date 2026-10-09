@@ -1,9 +1,9 @@
 [
   {
-    "id": "play4:1791676500000:1f76dxw",
+    "id": "play4:1791676800000:1f76dxw",
     "channel": "play4",
     "title": "De Tafel van de Week",
-    "start": 1791676500000,
+    "start": 1791676800000,
     "end": 1791678600000,
     "description": "Een bundel van alle beste momenten, emotionele gesprekken, pakkende verhalen en respectvolle discussies van een ganse week aan De Tafel van Gert of Tine.",
     "category": [
@@ -30,10 +30,40 @@
     }
   },
   {
-    "id": "play4:1791678600000:48zb9",
+    "id": "play4:1791678600000:1f76dxw",
+    "channel": "play4",
+    "title": "De Tafel van de Week",
+    "start": 1791678600000,
+    "end": 1791680400000,
+    "description": "Een bundel van alle beste momenten, emotionele gesprekken, pakkende verhalen en respectvolle discussies van een ganse week aan De Tafel van Gert of Tine.",
+    "category": [
+      "Talkshow",
+      "Interview"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34171224~~2FEP060235400049%2Cimi%3Ab208ab32ec30280882ce79ce6e93b0196c27a789/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34171224~~2FEP060235400049,imi:b208ab32ec30280882ce79ce6e93b0196c27a789",
+      "episodeName": "Aflevering 7",
+      "genres": [
+        "Talkshow",
+        "Interview"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31099277~~2FSH060235400000"
+    }
+  },
+  {
+    "id": "play4:1791680400000:48zb9",
     "channel": "play4",
     "title": "Geen uitzending",
-    "start": 1791678600000,
+    "start": 1791680400000,
     "end": 1791687000000,
     "description": null,
     "category": [],
@@ -833,9 +863,9 @@
     "title": "Zondag Matchdag",
     "start": 1791747600000,
     "end": 1791751500000,
-    "description": null,
+    "description": "De samenvattingen van het voetbal zie je voortaan in Zondag matchdag. Antwerps gastheer Carl Dircksens (42) bespreekt met een gast de matchen in het voetbalstadion.",
     "category": [
-      "Entertainment"
+      "Voetbal"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34189062~~2FEP065848620005%2Cimi%3Ab97b24f914ec3ffba8da905ea5e91238bc2f7075/posterTile",
     "icon": null,
@@ -848,7 +878,7 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34189062~~2FEP065848620005,imi:b97b24f914ec3ffba8da905ea5e91238bc2f7075",
       "episodeName": "Aflevering 5",
       "genres": [
-        "Entertainment"
+        "Voetbal"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
@@ -919,9 +949,9 @@
     "title": "Zondag Matchdag",
     "start": 1791755100000,
     "end": 1791758700000,
-    "description": null,
+    "description": "De samenvattingen van het voetbal zie je voortaan in Zondag matchdag. Antwerps gastheer Carl Dircksens (42) bespreekt met een gast de matchen in het voetbalstadion.",
     "category": [
-      "Entertainment"
+      "Voetbal"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34189062~~2FEP065848620005%2Cimi%3A82dbabc491331e7c34dcab590bf1f4a632313311/posterTile",
     "icon": null,
@@ -934,7 +964,7 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34189062~~2FEP065848620005,imi:82dbabc491331e7c34dcab590bf1f4a632313311",
       "episodeName": "Aflevering 5",
       "genres": [
-        "Entertainment"
+        "Voetbal"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,

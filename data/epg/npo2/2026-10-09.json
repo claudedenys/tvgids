@@ -43,7 +43,7 @@
     "title": "Nieuwsuur",
     "start": 1791498900000,
     "end": 1791501300000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Komt er ooit een einde aan de stikstofcrisis?",
     "category": [
       "Actueel"
     ],
@@ -93,7 +93,7 @@
     "title": "Nieuwsuur",
     "start": 1791504000000,
     "end": 1791522000000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Komt er ooit een einde aan de stikstofcrisis?",
     "category": [
       "Actueel"
     ],
@@ -364,7 +364,7 @@
     "title": "NOS Journaal",
     "start": 1791540000000,
     "end": 1791540900000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Twijfels verzetsheld Willem Wilbrink * Paarse Vrijdag op meer scholen.....",
     "category": [
       "Actueel"
     ],
@@ -378,7 +378,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -410,7 +411,7 @@
     "title": "Tussen kunst en kitsch extra",
     "start": 1791541800000,
     "end": 1791542700000,
-    "description": "In het Nationaal Militair Museum in Soesterberg vertelt expert Joseph Estié dat hij houdt van thee-antiquiteiten.",
+    "description": "In het Cobra Museum komt een tazza aan tafel.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tussen-kunst-en-kitsch-extra-775376322.jpg",
     "icon": null,
@@ -454,11 +455,11 @@
     "title": "NOS Journaal",
     "start": 1791543600000,
     "end": 1791544800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Twijfels verzetsheld Willem Wilbrink * Paarse Vrijdag op meer scholen.....",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-775004122.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -468,7 +469,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -521,32 +523,10 @@
     "channel": "npo2",
     "title": "Blauw bloed",
     "start": 1791549900000,
-    "end": 1791551700000,
+    "end": 1791552300000,
     "description": "We kijken binnen bij Paleis Huis ten Bosch, het woonpaleis van het koninklijk paar in het Haagse Bos.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/blauw-bloed-775663252.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1791551700000:lbirfd",
-    "channel": "npo2",
-    "title": "Tussen kunst en kitsch extra",
-    "start": 1791551700000,
-    "end": 1791552300000,
-    "description": "In het Cobra Museum komt een tazza aan tafel.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tussen-kunst-en-kitsch-extra-775376322.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -828,7 +808,7 @@
     "title": "Meldpunt actueel",
     "start": 1791568200000,
     "end": 1791570300000,
-    "description": "Programma dat maatschappelijke kwesties op het gebied van onder meer zorg, armoede, toeslagen en pensioenen onderzoekt.",
+    "description": "Met in deze uitzending: * Alleenstaande AOW’er met klein pensioen de dupe van afschaffen huishoudelijke hulp?",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/meldpunt-actueel-774393472.jpg",
     "icon": null,
