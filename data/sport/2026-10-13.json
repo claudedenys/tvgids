@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1791846000000:xykime",
+    "id": "sport:playsports1:1791846180000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791846000000,
+    "start": 1791846180000,
     "end": 1791867600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -115,14 +115,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1791851220000:xykime",
+    "id": "sport:playsports3:1791851160000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791851220000,
+    "start": 1791851160000,
     "end": 1791866100000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -184,6 +184,29 @@
     ]
   },
   {
+    "id": "sport:playsports3:1791916800000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1791916800000,
+    "end": 1791917400000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:playsports3:1791924900000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 19",
@@ -230,15 +253,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791843060000:1opp2ju",
+    "id": "sport:playsports4:1791843300000:1opp2ju",
     "externalId": null,
     "title": "ATP250: Finale, Hurkacz vs Davidovich Fokina",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791843060000,
-    "end": 1791850260000,
+    "start": 1791843300000,
+    "end": 1791850500000,
     "status": "aankomend",
     "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
     "source": "epg",
@@ -253,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791850260000:xykime",
+    "id": "sport:playsports4:1791850500000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791850260000,
-    "end": 1791869100000,
+    "start": 1791850500000,
+    "end": 1791869280000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -276,15 +299,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791877440000:1u6c28",
+    "id": "sport:playsports4:1791877680000:1u6c28",
     "externalId": null,
     "title": "ATP250: Finale, Medvedev vs Rublev",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791877440000,
-    "end": 1791885300000,
+    "start": 1791877680000,
+    "end": 1791885480000,
     "status": "aankomend",
     "description": "Verslag van de Hangzhou Open, gespeeld in Hangzhou, China.",
     "source": "epg",
@@ -299,14 +322,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791885300000:3y5tln",
+    "id": "sport:playsports4:1791885480000:3y5tln",
     "externalId": null,
     "title": "GP van Japan: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791885300000,
+    "start": 1791885480000,
     "end": 1791889500000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Japan, gereden in Motegi, Japan.",
@@ -330,7 +353,7 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1791889500000,
-    "end": 1791898200000,
+    "end": 1791898080000,
     "status": "aankomend",
     "description": "Verslag van de Singapore Open, gespeeld in Singapore.",
     "source": "epg",
@@ -345,15 +368,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791898200000:bjf8gr",
+    "id": "sport:playsports4:1791898080000:bjf8gr",
     "externalId": null,
     "title": "Race 1 (MXGP & MX2)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791898200000,
-    "end": 1791901500000,
+    "start": 1791898080000,
+    "end": 1791901440000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -368,15 +391,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791901500000:bjf8gr",
+    "id": "sport:playsports4:1791901440000:bjf8gr",
     "externalId": null,
     "title": "Race 2 (MX2 & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791901500000,
-    "end": 1791904800000,
+    "start": 1791901440000,
+    "end": 1791904740000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -391,14 +414,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791904800000:bjf8gr",
+    "id": "sport:playsports4:1791904740000:bjf8gr",
     "externalId": null,
     "title": "Race 3 (MXGP & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1791904800000,
+    "start": 1791904740000,
     "end": 1791909300000,
     "status": "aankomend",
     "description": null,
@@ -437,15 +460,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1791925740000:1opp2ju",
+    "id": "sport:playsports4:1791925620000:1opp2ju",
     "externalId": null,
     "title": "ATP250: Finale, Hurkacz vs Davidovich Fokina",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1791925740000,
-    "end": 1791932940000,
+    "start": 1791925620000,
+    "end": 1791932820000,
     "status": "aankomend",
     "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
     "source": "epg",
@@ -629,7 +652,7 @@
     "competition": null,
     "sport": "Golf",
     "start": 1791865800000,
-    "end": 1791867540000,
+    "end": 1791867600000,
     "status": "aankomend",
     "description": "Hoogtepunten van de Abu Dhabi Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
@@ -644,14 +667,14 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1791867540000:1ehmmzr",
+    "id": "sport:playsports-golf:1791867600000:1ehmmzr",
     "externalId": null,
     "title": "Baycurrent Classic: Dag 4",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1791867540000,
+    "start": 1791867600000,
     "end": 1791878400000,
     "status": "aankomend",
     "description": "Verslag van de vierde en laatste dag van de Baycurrent Classic, gespeeld in Yokohama, Japan.",
@@ -859,7 +882,7 @@
     "competition": null,
     "sport": "Golf",
     "start": 1791916200000,
-    "end": 1791925200000,
+    "end": 1791917700000,
     "status": "aankomend",
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.",
     "source": "epg",
@@ -1127,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1791845100000:sunderland - az",
+    "id": "sport:match:1791844980000:sunderland - az",
     "externalId": null,
     "title": "Sunderland - AZ",
     "home": "Sunderland",
     "away": "AZ",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1791845100000,
-    "end": 1791851220000,
+    "start": 1791844980000,
+    "end": 1791851160000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1311,52 +1334,6 @@
     ]
   },
   {
-    "id": "sport:match:1791916800000:manchester united - tottenham hotspur",
-    "externalId": null,
-    "title": "Manchester United - Tottenham Hotspur",
-    "home": "Manchester United",
-    "away": "Tottenham Hotspur",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1791916800000,
-    "end": 1791917100000,
-    "status": "aankomend",
-    "description": "Vanuit Old Trafford in Manchester, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1791917100000:crystal palace - nottingham forest",
-    "externalId": null,
-    "title": "Crystal Palace - Nottingham Forest",
-    "home": "Crystal Palace",
-    "away": "Nottingham Forest",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1791917100000,
-    "end": 1791917400000,
-    "status": "aankomend",
-    "description": "Vanuit Selhurst Park in Londen, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
     "id": "sport:match:1791917400000:galatasaray - fc barcelona",
     "externalId": null,
     "title": "Galatasaray - FC Barcelona",
@@ -1380,15 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1791869100000:aalst - filou oostende",
+    "id": "sport:match:1791869280000:aalst - filou oostende",
     "externalId": null,
     "title": "Aalst - Filou Oostende",
     "home": "Aalst",
     "away": "Filou Oostende",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1791869100000,
-    "end": 1791877440000,
+    "start": 1791869280000,
+    "end": 1791877680000,
     "status": "aankomend",
     "description": "Vanuit het Generali Forum in Aalst, België.",
     "source": "epg",
@@ -1457,7 +1434,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1791924900000,
-    "end": 1791925740000,
+    "end": 1791925620000,
     "status": "aankomend",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
@@ -1492,6 +1469,29 @@
     ],
     "channelIds": [
       "playsports-premierleague"
+    ]
+  },
+  {
+    "id": "sport:match:1791917700000:arsenal - lille",
+    "externalId": null,
+    "title": "Arsenal - Lille",
+    "home": "Arsenal",
+    "away": "Lille",
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1791917700000,
+    "end": 1791925200000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Arsenal - Lille, gespeeld in de competitiefase van de UEFA Champions League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
     ]
   }
 ]

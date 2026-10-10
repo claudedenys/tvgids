@@ -28,245 +28,128 @@
     }
   },
   {
-    "id": "vrtcanvas:1791777600000:677l6h",
+    "id": "vrtcanvas:1791777600000:emwop2",
     "channel": "vrtcanvas",
-    "title": "Radio 2: Goeiemorgen morgen",
+    "title": "Radio 2",
     "start": 1791777600000,
-    "end": 1791788400000,
-    "description": "Live vanuit de studio van Radio 2.",
+    "end": 1791792300000,
+    "description": null,
     "category": [
-      "Talkshow",
-      "Muziek"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34218544~~2FEP062272870152%2Cimi%3A5ef204a342e661569c33ce7bd570086a46ec8714/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322346~~2FSH066538310000~~2Fspecial%2Cimi%3Ac4771b2e7cb334c8f98eb95c899688d72adeb199/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 152,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34218544~~2FEP062272870152,imi:5ef204a342e661569c33ce7bd570086a46ec8714",
-      "episodeName": "Aflevering 152",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322346~~2FSH066538310000~~2Fspecial,imi:c4771b2e7cb334c8f98eb95c899688d72adeb199",
+      "episodeName": null,
       "genres": [
-        "Talkshow",
-        "Muziek"
+        "Entertainment"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32034719~~2FSH062272870000"
+      "parentSeriesId": null
     }
   },
   {
-    "id": "vrtcanvas:1791788400000:1jdr2w0",
+    "id": "vrtcanvas:1791792300000:ehn208",
     "channel": "vrtcanvas",
-    "title": "Herfstbeelden",
-    "start": 1791788400000,
+    "title": "Tomtesterom",
+    "start": 1791792300000,
+    "end": 1791795600000,
+    "description": "Realityreeks waarin Tom Waes test of een bestaande handleiding in de praktijk wel deugt. Elke week trekt hij met een nieuw 'How to'-boekje de wijde wereld in. Hij speelt het spel fair en volgt de handleiding naar de letter...",
+    "category": [
+      "Reizen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322691~~2FEP047578060009%2Cimi%3A831f197ed7ba6f90b30175afb5736ad8768bd085/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322691~~2FEP047578060009,imi:831f197ed7ba6f90b30175afb5736ad8768bd085",
+      "episodeName": "El Capitan beklimmen",
+      "genres": [
+        "Reizen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24815583~~2FSH047578060000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791795600000:171a7ha",
+    "channel": "vrtcanvas",
+    "title": "Spaanse fiësta in Sinaai",
+    "start": 1791795600000,
     "end": 1791799200000,
-    "description": "Programma met beelden van de herfst.",
+    "description": "TE: 12 Zomers amusementsprogramma waarin een Vlaamse stad of gemeente door een bekende inwoner wordt uitgedaagd om een spectaculaire opdracht te realiseren.",
     "category": [
       "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28193207~~2FEP033154570022%2Cimi%3A84bff5407aad276eae68c83d81c5ab36ac8b4318/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34321713~~2FEP066536590001%2Cimi%3A9fefeb1890eb360fb8d7f537099ab576f05c4fd7/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102014,
-    "episode": 36,
+    "season": 2,
+    "episode": 11,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28193207~~2FEP033154570022,imi:84bff5407aad276eae68c83d81c5ab36ac8b4318",
-      "episodeName": "Aflevering 36",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34321713~~2FEP066536590001,imi:9fefeb1890eb360fb8d7f537099ab576f05c4fd7",
+      "episodeName": "Aflevering 11",
       "genres": [
         "Entertainment"
       ],
-      "productionDate": "2014",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34321701~~2FSH066536590000"
     }
   },
   {
-    "id": "vrtcanvas:1791799200000:jrwg93",
+    "id": "vrtcanvas:1791799200000:14bg621",
     "channel": "vrtcanvas",
-    "title": "Radio 1: Nieuwe Feiten",
+    "title": "De XII Werken van Vanoudenhoven",
     "start": 1791799200000,
-    "end": 1791802800000,
-    "description": "Lieven Vandenhaute gaat op zoek naar nieuws dat verbijstert, verbaast of verwondert.",
-    "category": [
-      "Actualiteitsmagazine"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33995269~~2FEP052737980407%2Cimi%3A79d68e64207635c65629252d4318d946e7d9cf20/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 154,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33995269~~2FEP052737980407,imi:79d68e64207635c65629252d4318d946e7d9cf20",
-      "episodeName": "Aflevering 154",
-      "genres": [
-        "Actualiteitsmagazine"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28183070~~2FSH052737980000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1791802800000:1jdr2w0",
-    "channel": "vrtcanvas",
-    "title": "Herfstbeelden",
-    "start": 1791802800000,
-    "end": 1791813600000,
-    "description": "Programma met beelden van de herfst.",
+    "end": 1791801900000,
+    "description": null,
     "category": [
       "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28193207~~2FEP033154570022%2Cimi%3A6550db957465d14342c751f492ee96a4b599ce29/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322935~~2FSH066539690000~~2F564851642%2Cimi%3A205d9f9761e4074aee33380da8d1ca38a48b5088/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102014,
-    "episode": 36,
+    "season": 39690000,
+    "episode": 564851642,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28193207~~2FEP033154570022,imi:6550db957465d14342c751f492ee96a4b599ce29",
-      "episodeName": "Aflevering 36",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322935~~2FSH066539690000~~2F564851642,imi:205d9f9761e4074aee33380da8d1ca38a48b5088",
+      "episodeName": null,
       "genres": [
         "Entertainment"
       ],
-      "productionDate": "2014",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34322935~~2FSH066539690000"
     }
   },
   {
-    "id": "vrtcanvas:1791813600000:etk3q5",
+    "id": "vrtcanvas:1791801900000:1fz44nr",
     "channel": "vrtcanvas",
-    "title": "Radio 1: De Wereld Vandaag",
-    "start": 1791813600000,
-    "end": 1791814500000,
-    "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
+    "title": "Stakingspancarte",
+    "start": 1791801900000,
+    "end": 1791802800000,
+    "description": null,
     "category": [
-      "Actualiteitsmagazine"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34219551~~2FEP049391810630%2Cimi%3Aa3ddba05d2683a3ef414f8a485fa8e9e4ed53c93/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 163,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34219551~~2FEP049391810630,imi:a3ddba05d2683a3ef414f8a485fa8e9e4ed53c93",
-      "episodeName": "Aflevering 163",
-      "genres": [
-        "Actualiteitsmagazine"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26149743~~2FSH049391810000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1791814500000:1xj7rtr",
-    "channel": "vrtcanvas",
-    "title": "VRT NWS De Zevende Dag",
-    "start": 1791814500000,
-    "end": 1791818100000,
-    "description": "Live studioprogramma met veel aandacht voor het brede politiek debat. Daarnaast is er ook tijd voor sport, cultuur en muziek.",
-    "category": [
-      "Interview",
-      "Actua"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34162865~~2FEP025112290212%2Cimi%3Ad8d8f0f8979caf14e7208adf3cc2b3bc17c9783e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2026,
-    "episode": 25,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34162865~~2FEP025112290212,imi:d8d8f0f8979caf14e7208adf3cc2b3bc17c9783e",
-      "episodeName": "Aflevering 25",
-      "genres": [
-        "Interview",
-        "Actua"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fef08d6f6-22f6-4208-941c-5c32cf987c5c"
-    }
-  },
-  {
-    "id": "vrtcanvas:1791818100000:4bfyr3",
-    "channel": "vrtcanvas",
-    "title": "Hacks",
-    "start": 1791818100000,
-    "end": 1791819900000,
-    "description": "Nadat ze hoort dat er een vacature is voor Late Night, zorgt Deborah ervoor dat alles - en iedereen - optimaal functioneert voor haar roast.",
-    "category": [
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26850951~~2FEP043922850022%2Cimi%3A6b1e5960acda86e0466048454001bbeb07dfbd5d/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 3,
-    "episode": 3,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26850951~~2FEP043922850022,imi:6b1e5960acda86e0466048454001bbeb07dfbd5d",
-      "episodeName": "The Roast of Deborah Vance",
-      "genres": [
-        "Comedy"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19867874~~2FSH043922850000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1791819900000:4bfyr3",
-    "channel": "vrtcanvas",
-    "title": "Hacks",
-    "start": 1791819900000,
-    "end": 1791822000000,
-    "description": "Deborah mag met haar favoriete komieken rondhangen, Jimmy krijgt eindelijk een gesprek met Winnie en Marcus werft Ava voor trivia.",
-    "category": [
-      "Comedy"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26850954~~2FEP043922850021%2Cimi%3Ac83d0afa499e180371972f7cfb6bae11afd24c0c/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 3,
-    "episode": 4,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26850954~~2FEP043922850021,imi:c83d0afa499e180371972f7cfb6bae11afd24c0c",
-      "episodeName": "Join the Club",
-      "genres": [
-        "Comedy"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19867874~~2FSH043922850000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1791822000000:1ae7k4",
-    "channel": "vrtcanvas",
-    "title": "The Kingdom: The World's Most Powerful Prince",
-    "start": 1791822000000,
-    "end": 1791825300000,
-    "description": "Het verhaal van hoe de kroonprins van Saudi-Arabië met visie en meedogenloosheid zijn land transformeerde. Ontdek hoe hij uitgroeide tot een van de machtigste leiders ter wereld.",
-    "category": [
-      "Docu",
-      "Politiek"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28065671~~2FEP055473790002%2Cimi%3Ab42bd920684a4c5e395cbd7fb203de611c431a60/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322773~~2FEP066539360001%2Cimi%3Aa32fda9c8801e73adb822783e2879235c501d38d/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 1,
@@ -274,45 +157,388 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28065671~~2FEP055473790002,imi:b42bd920684a4c5e395cbd7fb203de611c431a60",
-      "episodeName": "Kingdom Come",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322773~~2FEP066539360001,imi:a32fda9c8801e73adb822783e2879235c501d38d",
+      "episodeName": "Aflevering 2",
       "genres": [
-        "Docu",
-        "Politiek"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28052007~~2FSH055473790000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1791825300000:hig6dx",
-    "channel": "vrtcanvas",
-    "title": "De ideale wereld",
-    "start": 1791825300000,
-    "end": 1791828000000,
-    "description": "Ella Leyers leidt in 'De ideale wereld' haar gasten door de actualiteit terwijl ze die lardeert met dagverse humor die gaat van onnozel tot nog veel onnozeler.",
-    "category": [
-      "Entertainment",
-      "Politieke satire"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34220891~~2FEP032312590600%2Cimi%3Ac56308b24f52b2fb2403a84c300443f3cac14c93/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 26,
-    "episode": 9,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34220891~~2FEP032312590600,imi:c56308b24f52b2fb2403a84c300443f3cac14c93",
-      "episodeName": "Aflevering 9",
-      "genres": [
-        "Entertainment",
-        "Politieke satire"
+        "Entertainment"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F488c1e4a-9f4f-476e-9800-3450016a2d30"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34322764~~2FSH066539360000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791802800000:134podx",
+    "channel": "vrtcanvas",
+    "title": "VRT NWS Journaal",
+    "start": 1791802800000,
+    "end": 1791803700000,
+    "description": "Programmering met nieuws en sport.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33182089~~2FSH064501260000~~2F564851644%2Cimi%3A82ed548c5be76a419fbfee1016211005d4bb8330/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1260000,
+    "episode": 564851644,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33182089~~2FSH064501260000~~2F564851644,imi:82ed548c5be76a419fbfee1016211005d4bb8330",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33182089~~2FSH064501260000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791803700000:1fz44nr",
+    "channel": "vrtcanvas",
+    "title": "Stakingspancarte",
+    "start": 1791803700000,
+    "end": 1791804600000,
+    "description": null,
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322773~~2FEP066539360001%2Cimi%3A3d1705235f87deb718492c352d7dfe61b4148130/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322773~~2FEP066539360001,imi:3d1705235f87deb718492c352d7dfe61b4148130",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34322764~~2FSH066539360000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791804600000:cmcnjv",
+    "channel": "vrtcanvas",
+    "title": "Kapitein Zeppos",
+    "start": 1791804600000,
+    "end": 1791806700000,
+    "description": "De dorpsbewoners van Belder staan wantrouwig tegenover de raadselachtige man die zich in de Molenhoeve kwam vestigen. Alleen Ben Kurrel, die bij zijn oom een handje toesteekt, voelt zich tot Kapitein Zeppos aangetrokken.",
+    "category": [
+      "Avontuur",
+      "Actie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18102026~~2FEP034677260001%2Cimi%3A36fdcba107dbd6546796edfa0237c18707fd3460/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18102026~~2FEP034677260001,imi:36fdcba107dbd6546796edfa0237c18707fd3460",
+      "episodeName": "Het zwarte water",
+      "genres": [
+        "Avontuur",
+        "Actie"
+      ],
+      "productionDate": "1964",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F598a3335-ae81-41dc-8950-8a499b7a025a"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791806700000:1wwpmmm",
+    "channel": "vrtcanvas",
+    "title": "De Kat",
+    "start": 1791806700000,
+    "end": 1791808500000,
+    "description": "De Kat neemt het op tegen de milieuverontreiniging en verschijnt bij Oskar Diaz, eigenaar van de Vinylfabriek. Volgens De Kat hebben de fabrieken dringend zuiveringsinstallaties nodig.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24691612~~2FEP047392040001%2Cimi%3A1f8add0e228d4995444a4b65609abcdc65e83328/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24691612~~2FEP047392040001,imi:1f8add0e228d4995444a4b65609abcdc65e83328",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "1973",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24691556~~2FSH047392040000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791808500000:hreuek",
+    "channel": "vrtcanvas",
+    "title": "De Paradijsvogels",
+    "start": 1791808500000,
+    "end": 1791811500000,
+    "description": "In het café 'Het Hemelrijk' bespreken bazin Catho en haar nicht Leentje de aanstaande gemeenteraadsverkiezingen. Aangezien het zondag is, wordt de toestand nog uitvoerig toegelicht door de dorstige bezoekers.",
+    "category": [
+      "Comedy",
+      "Geschiedenis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24537824~~2FEP047157870001%2Cimi%3A794ed18c2a587ab0782fb27c9aa3fd8acf20108b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24537824~~2FEP047157870001,imi:794ed18c2a587ab0782fb27c9aa3fd8acf20108b",
+      "episodeName": "De bokken en de schapen",
+      "genres": [
+        "Comedy",
+        "Geschiedenis"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24537801~~2FSH047157870000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791811500000:13zn43j",
+    "channel": "vrtcanvas",
+    "title": "De collega's",
+    "start": 1791811500000,
+    "end": 1791814200000,
+    "description": "De plaats van de onderafdelingschef is vacant, want de heer Custers is met pensioen gegaan. Er zijn dus bevorderingen op til. Bonaventure Verastenhoven en Jean De Pesser hebben met het oog daarop examen afgelegd.",
+    "category": [
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24087874~~2FEP034697050036%2Cimi%3A43db5351ef9c7b714044340f43d06337fa98cf6d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24087874~~2FEP034697050036,imi:43db5351ef9c7b714044340f43d06337fa98cf6d",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Comedy"
+      ],
+      "productionDate": "1978",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F696577a2-f029-469a-ae41-6c87e4a49f29"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791814200000:16ast4t",
+    "channel": "vrtcanvas",
+    "title": "Kulderzipken",
+    "start": 1791814200000,
+    "end": 1791816000000,
+    "description": "Prinses Prieeltje, dochter van Koning Jozef en Koningin Angina moet van haar vader trouwen. De edelen van het land maken hun opwachting, maar Prieeltje vindt ze allemaal even stom.",
+    "category": [
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17787437~~2FEP034087680001%2Cimi%3Af126b30e1553b93a4e88af6e23c46510c40060bd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17787437~~2FEP034087680001,imi:f126b30e1553b93a4e88af6e23c46510c40060bd",
+      "episodeName": "De duivel en zijn moeder",
+      "genres": [
+        "Comedy"
+      ],
+      "productionDate": "1995",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F6bad4281-035f-450f-ac17-8a78466dcd1b"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791816000000:sylet1",
+    "channel": "vrtcanvas",
+    "title": "Peter live",
+    "start": 1791816000000,
+    "end": 1791820800000,
+    "description": null,
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322845~~2FSH066539570000~~2F564851651%2Cimi%3A506e37ded938a77d31fa1de9194cbf54f1bdda4b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 39570000,
+    "episode": 564851651,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322845~~2FSH066539570000~~2F564851651,imi:506e37ded938a77d31fa1de9194cbf54f1bdda4b",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34322845~~2FSH066539570000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791820800000:20xmec",
+    "channel": "vrtcanvas",
+    "title": "Radio GaGa",
+    "start": 1791820800000,
+    "end": 1791823500000,
+    "description": "Om iedereen een hart onder de riem te steken die zich het voorbije jaar heeft ingezet in de zorgsector tijdens de coronacrisis, maken Joris Hessels en Dominique van Malder een minireeks van Radio Gaga.",
+    "category": [
+      "Muziek",
+      "Samenleving"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322856~~2FEP037761550004%2Cimi%3Acad6833e6b4dea54c139da11c17d0c053a833b73/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 61550000,
+    "episode": 2026101204,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322856~~2FEP037761550004,imi:cad6833e6b4dea54c139da11c17d0c053a833b73",
+      "episodeName": "Revalidatiecentrum campus Pellenberg",
+      "genres": [
+        "Muziek",
+        "Samenleving"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fcae17011-f5f1-4321-b9b3-f75cb98a6bd0"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791823500000:1fz44nr",
+    "channel": "vrtcanvas",
+    "title": "Stakingspancarte",
+    "start": 1791823500000,
+    "end": 1791824400000,
+    "description": null,
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322773~~2FEP066539360001%2Cimi%3A2fce3158b3cd26986f32b9073b007bdae289b91f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322773~~2FEP066539360001,imi:2fce3158b3cd26986f32b9073b007bdae289b91f",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34322764~~2FSH066539360000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791824400000:134podx",
+    "channel": "vrtcanvas",
+    "title": "VRT NWS Journaal",
+    "start": 1791824400000,
+    "end": 1791826200000,
+    "description": "Programmering met nieuws en sport.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33182089~~2FSH064501260000~~2F564851654%2Cimi%3A88f1afbfcee7a1b7ffbf533cbef60d1c35128d3b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1260000,
+    "episode": 564851654,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33182089~~2FSH064501260000~~2F564851654,imi:88f1afbfcee7a1b7ffbf533cbef60d1c35128d3b",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33182089~~2FSH064501260000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791826200000:4k2soi",
+    "channel": "vrtcanvas",
+    "title": "Thuis",
+    "start": 1791826200000,
+    "end": 1791827820000,
+    "description": "Het verhaal van verschillende families die met elkaar samenleven in liefde en ruzie. Ze ontmoeten elkaar op het werk, in de bar, maar vooral ook 'Thuis'. De uiteenlopende verhalen worden aan elkaar geweven tot een geheel.",
+    "category": [
+      "Dramaserie",
+      "Soap"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F958459~~2FSH023120350000~~2F564851655%2Cimi%3Aa23f5dfe68bea40bdd10601c5af33763c8394e25/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 20350000,
+    "episode": 564851655,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F958459~~2FSH023120350000~~2F564851655,imi:a23f5dfe68bea40bdd10601c5af33763c8394e25",
+      "episodeName": null,
+      "genres": [
+        "Dramaserie",
+        "Soap"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fe7f97702-c08c-4d38-b008-c773c1d246bc"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791827820000:1fz44nr",
+    "channel": "vrtcanvas",
+    "title": "Stakingspancarte",
+    "start": 1791827820000,
+    "end": 1791828000000,
+    "description": null,
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322777~~2FEP066539360002%2Cimi%3A47777bfc91481f80003e8c21754b7e9d896aa28f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322777~~2FEP066539360002,imi:47777bfc91481f80003e8c21754b7e9d896aa28f",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34322764~~2FSH066539360000"
     }
   },
   {
@@ -346,121 +572,173 @@
     }
   },
   {
-    "id": "vrtcanvas:1791830100000:v6y787",
+    "id": "vrtcanvas:1791830100000:1fz44nr",
     "channel": "vrtcanvas",
-    "title": "De Afspraak",
+    "title": "Stakingspancarte",
     "start": 1791830100000,
-    "end": 1791833100000,
-    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "end": 1791831000000,
+    "description": null,
     "category": [
-      "Talkshow",
-      "Politiek"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34161665~~2FEP029086300733%2Cimi%3A80240ba80980a8a73fc40c450658b6f376bf0a75/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34322773~~2FEP066539360001%2Cimi%3A9b37cb89ed6c4abc989de9de328f42cd3af9194e/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 93,
+    "season": 1,
+    "episode": 2,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34161665~~2FEP029086300733,imi:80240ba80980a8a73fc40c450658b6f376bf0a75",
-      "episodeName": "Aflevering 93",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34322773~~2FEP066539360001,imi:9b37cb89ed6c4abc989de9de328f42cd3af9194e",
+      "episodeName": "Aflevering 2",
       "genres": [
-        "Talkshow",
-        "Politiek"
+        "Entertainment"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34322764~~2FSH066539360000"
     }
   },
   {
-    "id": "vrtcanvas:1791833100000:byscwt",
+    "id": "vrtcanvas:1791831000000:4jwyr4",
     "channel": "vrtcanvas",
-    "title": "Poorten van Europa",
-    "start": 1791833100000,
-    "end": 1791836400000,
-    "description": "Het omstreden grens- en kustwachtagentschap Frontex groeide in twintig jaar uit van een kleine coördinerende organisatie tot het grootste agentschap van de Europese Unie. Vanuit de controlekamer in Warschau worden de mensen gevolgd die Europa's grenzen bewaken. Terwijl de directeur probeert het vertrouwen in de organisatie te herstellen, richt de blik zich ook op critici die zich al jaren inzetten voor de rechten van mensen op de vlucht aan de Europese buitengrenzen.",
+    "title": "Taboe",
+    "start": 1791831000000,
+    "end": 1791834000000,
+    "description": "Philippe reist met vier mensen met Gilles de la Tourette: Bram, Lotte, Els en Robbe. Ze ontkrachten misverstanden over de aandoening en tonen de uitdagingen van leven met tics. Terwijl ze vissen en karten, leren ze Philippe over het syndroom.",
     "category": [
-      "Docu"
+      "Comedy"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33613250~~2FEP065269210001%2Cimi%3Ad94410e107d31019b9bdd90a277db76496eb8a17/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29403305~~2FEP028763160023%2Cimi%3A6b4c99b830530c0a4d976e6f689f0d72c4caec33/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
+    "season": 3,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29403305~~2FEP028763160023,imi:6b4c99b830530c0a4d976e6f689f0d72c4caec33",
+      "episodeName": "Mensen met het syndroom van Gilles de la Tourette",
+      "genres": [
+        "Comedy"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F40b2d278-8ca8-4bb0-a206-71c0088f993a"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791834000000:1docoqx",
+    "channel": "vrtcanvas",
+    "title": "Flikken",
+    "start": 1791834000000,
+    "end": 1791837000000,
+    "description": "Na de zoveelste aanvaring met een mannelijke collega krijgt Tony een nieuwe partner toegewezen: Britt. Meteen worden beide vrouwen erop uitgestuurd: een scholier is door een auto aangereden en zwaar gewond. De chauffeur heeft vluchtmisdrijf gepleegd.",
+    "category": [
+      "Misdaaddrama",
+      "Actie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18404441~~2FEP035386040118%2Cimi%3A02dd8f0a064518c6e6ae2a3d2db8ff32d63f1719/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
     "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33613250~~2FEP065269210001,imi:d94410e107d31019b9bdd90a277db76496eb8a17",
-      "episodeName": "Het grensagentschap",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18404441~~2FEP035386040118,imi:02dd8f0a064518c6e6ae2a3d2db8ff32d63f1719",
+      "episodeName": "Partners",
       "genres": [
-        "Docu"
+        "Misdaaddrama",
+        "Actie"
       ],
-      "productionDate": "2026",
+      "productionDate": "1999",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33613242~~2FSH065269210000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F688186~~2FSH035386040000"
     }
   },
   {
-    "id": "vrtcanvas:1791836400000:hig6dx",
+    "id": "vrtcanvas:1791837000000:jls0xu",
     "channel": "vrtcanvas",
-    "title": "De ideale wereld",
-    "start": 1791836400000,
+    "title": "Alles Kan Beter",
+    "start": 1791837000000,
     "end": 1791839100000,
-    "description": "Ella Leyers leidt in 'De ideale wereld' haar gasten door de actualiteit terwijl ze die lardeert met dagverse humor die gaat van onnozel tot nog veel onnozeler.",
+    "description": "De panelleden houden een hypothetisch gesprek en hebben het over mensen zoals u en ik. Wat gebeurt er wanneer een studiogast niet kan komen? De publieksvraag is: \"Zijn er na de zelfklevende postzegel nog vernieuwingen bij De Post?\"",
     "category": [
-      "Entertainment",
-      "Politieke satire"
+      "Comedy"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34220891~~2FEP032312590600%2Cimi%3A4115e289172baf158a58ac47bb647f7e57c3cdbf/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21852764~~2FEP042413640001%2Cimi%3A9a5166ac1ad259c00af9028ce0c7dec1982aacd6/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 26,
-    "episode": 9,
+    "season": 1,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34220891~~2FEP032312590600,imi:4115e289172baf158a58ac47bb647f7e57c3cdbf",
-      "episodeName": "Aflevering 9",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21852764~~2FEP042413640001,imi:9a5166ac1ad259c00af9028ce0c7dec1982aacd6",
+      "episodeName": "Aflevering 1",
       "genres": [
-        "Entertainment",
-        "Politieke satire"
+        "Comedy"
       ],
-      "productionDate": "2026",
+      "productionDate": "1997",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F488c1e4a-9f4f-476e-9800-3450016a2d30"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F21852760~~2FSH042413640000"
     }
   },
   {
-    "id": "vrtcanvas:1791839100000:hib74j",
+    "id": "vrtcanvas:1791839100000:blbmlg",
     "channel": "vrtcanvas",
-    "title": "90 minutes",
+    "title": "Het Peulengaleis",
     "start": 1791839100000,
-    "end": 1791846300000,
-    "description": "Voetbalmagazine waarin de voetbalactualiteit wordt besproken.",
+    "end": 1791840900000,
+    "description": "Evy ontvangt een gewezen omroepster, de heldendaden van Johan en Patrick, de heer Vercammen raadt een haakje aan, Yvette studeert geneeskunde.",
     "category": [
-      "Sport",
-      "Sporttalkshow"
+      "Comedy"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32327134~~2FEP059737540021%2Cimi%3Aa4cdb2a239309644e57bf5de3bed3443e10f5694/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23592714~~2FEP034869840011%2Cimi%3A33b3334b62b32a63bf55ad2bf9447cc11e0196e1/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 7,
-    "episode": 5,
+    "season": 4,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32327134~~2FEP059737540021,imi:a4cdb2a239309644e57bf5de3bed3443e10f5694",
-      "episodeName": "Aflevering 5",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23592714~~2FEP034869840011,imi:33b3334b62b32a63bf55ad2bf9447cc11e0196e1",
+      "episodeName": "Aflevering 1",
       "genres": [
-        "Sport",
-        "Sporttalkshow"
+        "Comedy"
       ],
-      "productionDate": "2026",
+      "productionDate": "2003",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30890192~~2FSH059737540000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1c8851d5-f8aa-475b-8112-3edbb9f23d14"
+    }
+  },
+  {
+    "id": "vrtcanvas:1791840900000:n5mqgl",
+    "channel": "vrtcanvas",
+    "title": "Journaallus",
+    "start": 1791840900000,
+    "end": 1791846300000,
+    "description": "Doorlopende herhalingen van het journaal in lusvorm tot de volgende ochtend.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16945230~~2FSH032302400000~~2F564851662%2Cimi%3Ae7695d3bcb8a6da32b0b381a5f7dd31d7541b6cf/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2400000,
+    "episode": 564851662,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16945230~~2FSH032302400000~~2F564851662,imi:e7695d3bcb8a6da32b0b381a5f7dd31d7541b6cf",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fd9b03910-f610-4056-af57-e10b8c84a636"
     }
   }
 ]

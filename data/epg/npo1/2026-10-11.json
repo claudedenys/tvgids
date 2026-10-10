@@ -1,10 +1,10 @@
 [
   {
-    "id": "npo1:1791669000000:1qmbii9",
+    "id": "npo1:1791669300000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791669000000,
-    "end": 1791669900000,
+    "start": 1791669300000,
+    "end": 1791670200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -24,11 +24,11 @@
     }
   },
   {
-    "id": "npo1:1791669900000:aezw80",
+    "id": "npo1:1791670200000:aezw80",
     "channel": "npo1",
     "title": "Wolven",
-    "start": 1791669900000,
-    "end": 1791673200000,
+    "start": 1791670200000,
+    "end": 1791673500000,
     "description": "Na een bewogen nacht lijkt het dorp eindelijk dichter bij de waarheid te komen.",
     "category": [],
     "image": null,
@@ -47,11 +47,11 @@
     }
   },
   {
-    "id": "npo1:1791673200000:1vlv4c2",
+    "id": "npo1:1791673500000:1vlv4c2",
     "channel": "npo1",
     "title": "Beste zangers",
-    "start": 1791673200000,
-    "end": 1791681300000,
+    "start": 1791673500000,
+    "end": 1791683400000,
     "description": "Jazzzangeres Fay Claassen neemt plaats naast Jan Smit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/b/carrousel/beste-zangers-772251362.jpg",
@@ -69,11 +69,11 @@
     }
   },
   {
-    "id": "npo1:1791681300000:1qmbii9",
+    "id": "npo1:1791683400000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791681300000,
-    "end": 1791681600000,
+    "start": 1791683400000,
+    "end": 1791684000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -94,11 +94,11 @@
     }
   },
   {
-    "id": "npo1:1791681600000:1byfm7j",
+    "id": "npo1:1791684000000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1791681600000,
-    "end": 1791684600000,
+    "start": 1791684000000,
+    "end": 1791685500000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [
       "Actueel"
@@ -119,11 +119,11 @@
     }
   },
   {
-    "id": "npo1:1791684600000:1qmbii9",
+    "id": "npo1:1791685500000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791684600000,
-    "end": 1791684900000,
+    "start": 1791685500000,
+    "end": 1791685800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -144,10 +144,10 @@
     }
   },
   {
-    "id": "npo1:1791684900000:1qmbii9",
+    "id": "npo1:1791685800000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791684900000,
+    "start": 1791685800000,
     "end": 1791693900000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -560,9 +560,9 @@
     "title": "De slimste mens",
     "start": 1791743100000,
     "end": 1791746100000,
-    "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
+    "description": "Het Gouden Televizier-Ring Gala nam afgelopen donderdag de plek van De Slimste Mens in, dus is die quiz nu eenmalig...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-slimste-mens-775495052.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/j/carrousel/janjaapvanweeringdeslimstemenskroncrv.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -570,7 +570,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {

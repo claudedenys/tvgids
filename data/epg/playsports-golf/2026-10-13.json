@@ -64,7 +64,7 @@
     "channel": "playsports-golf",
     "title": "HotelPlanner Tour Series Hoogtepunten",
     "start": 1791865800000,
-    "end": 1791867540000,
+    "end": 1791867600000,
     "description": "Hoogtepunten van de Abu Dhabi Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "category": [
       "Sport",
@@ -90,10 +90,10 @@
     }
   },
   {
-    "id": "playsports-golf:1791867540000:1ehmmzr",
+    "id": "playsports-golf:1791867600000:1ehmmzr",
     "channel": "playsports-golf",
     "title": "PGA Tour",
-    "start": 1791867540000,
+    "start": 1791867600000,
     "end": 1791878400000,
     "description": "Verslag van de vierde en laatste dag van de Baycurrent Classic, gespeeld in Yokohama, Japan.",
     "category": [
@@ -364,7 +364,7 @@
     "channel": "playsports-golf",
     "title": "PGA Tour - The Cut",
     "start": 1791916200000,
-    "end": 1791925200000,
+    "end": 1791917700000,
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.",
     "category": [
       "Sport",
@@ -387,6 +387,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
+    }
+  },
+  {
+    "id": "playsports-golf:1791917700000:1xivszf",
+    "channel": "playsports-golf",
+    "title": "UEFA Champions League",
+    "start": 1791917700000,
+    "end": 1791925200000,
+    "description": "Verslag van de wedstrijd Arsenal - Lille, gespeeld in de competitiefase van de UEFA Champions League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33455595~~2FEP021727851392%2Cimi%3A7dcb38dfc3e2e35a0660e5effe4e40a6c3a766d2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 27850000,
+    "episode": 2026101392,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33455595~~2FEP021727851392,imi:7dcb38dfc3e2e35a0660e5effe4e40a6c3a766d2",
+      "episodeName": "Arsenal - Lille",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc467eede-e003-4905-a1f6-2c15a4b14182"
     }
   },
   {

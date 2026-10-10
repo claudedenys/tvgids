@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1791845100000:ear1gl",
+    "id": "playsports3:1791844980000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1791845100000,
-    "end": 1791851220000,
+    "start": 1791844980000,
+    "end": 1791851160000,
     "description": "Verslag van de wedstrijd Sunderland - AZ, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports3:1791851220000:xykime",
+    "id": "playsports3:1791851160000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1791851220000,
+    "start": 1791851160000,
     "end": 1791866100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -328,63 +328,33 @@
     }
   },
   {
-    "id": "playsports3:1791916800000:1prlzbg",
+    "id": "playsports3:1791916800000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1791916800000,
-    "end": 1791917100000,
-    "description": "Vanuit Old Trafford in Manchester, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581969~~2FEP033946612476%2Cimi%3Ad647c8ca5548888a6d616a5d28841f29d6f4ff60/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101076,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581969~~2FEP033946612476,imi:d647c8ca5548888a6d616a5d28841f29d6f4ff60",
-      "episodeName": "Manchester United - Tottenham Hotspur",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1791917100000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1791917100000,
     "end": 1791917400000,
-    "description": "Vanuit Selhurst Park in Londen, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481%2Cimi%3A43633e7f142f501cb611458e9873a79410b639c4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F564981222%2Cimi%3A6fad820042293b861cf7ca85a3b33e2a1b3ab030/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101181,
+    "season": 50390000,
+    "episode": 564981222,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481,imi:43633e7f142f501cb611458e9873a79410b639c4",
-      "episodeName": "Crystal Palace - Nottingham Forest",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F564981222,imi:6fad820042293b861cf7ca85a3b33e2a1b3ab030",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {

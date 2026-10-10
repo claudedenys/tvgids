@@ -1,9 +1,9 @@
 [
   {
-    "id": "vrt1:1791844500000:n5mqgl",
+    "id": "vrt1:1791840900000:n5mqgl",
     "channel": "vrt1",
     "title": "Journaallus",
-    "start": 1791844500000,
+    "start": 1791840900000,
     "end": 1791864000000,
     "description": "Doorlopende herhalingen van het journaal in lusvorm tot de volgende ochtend.",
     "category": [
@@ -1192,11 +1192,71 @@
     }
   },
   {
-    "id": "vrt1:1791927600000:4k2soi",
+    "id": "vrt1:1791927600000:ykl842",
+    "channel": "vrt1",
+    "title": "Keno",
+    "start": 1791927600000,
+    "end": 1791927660000,
+    "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
+    "category": [
+      "Spelprogramma",
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34107890~~2FEP032302521555%2Cimi%3A323c9139a85894d02670f3c7ee2e776178108eb5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 204,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34107890~~2FEP032302521555,imi:323c9139a85894d02670f3c7ee2e776178108eb5",
+      "episodeName": "Aflevering 204",
+      "genres": [
+        "Spelprogramma",
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fae9111c0-9f33-41d5-ba9f-dd37052e485d"
+    }
+  },
+  {
+    "id": "vrt1:1791927660000:6z58qv",
+    "channel": "vrt1",
+    "title": "Euromillions",
+    "start": 1791927660000,
+    "end": 1791927900000,
+    "description": "De trekkingen van het EuroMillions-spel.",
+    "category": [
+      "Spelprogramma",
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34218229~~2FEP032294100533%2Cimi%3A8f936ee9fda3764067e3fe3f26fa856ca952256f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 82,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34218229~~2FEP032294100533,imi:8f936ee9fda3764067e3fe3f26fa856ca952256f",
+      "episodeName": "Aflevering 82",
+      "genres": [
+        "Spelprogramma",
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F9f3ced27-9582-4745-981f-ba99fe8441f5"
+    }
+  },
+  {
+    "id": "vrt1:1791927900000:4k2soi",
     "channel": "vrt1",
     "title": "Thuis",
-    "start": 1791927600000,
-    "end": 1791929100000,
+    "start": 1791927900000,
+    "end": 1791929400000,
     "description": "Een telefoontje van Febe doet Vince volledig opleven. Robin toont zijn ongenoegen tegenover Tom. Sunny vreest dat hij serieus in de problemen zit. Femke moet met Vic naar spoed waar ze geconfronteerd wordt met Cody. Judith heeft het enorm moeilijk.",
     "category": [
       "Dramaserie",

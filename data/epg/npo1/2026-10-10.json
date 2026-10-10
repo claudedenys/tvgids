@@ -52,7 +52,7 @@
     "title": "EenVandaag",
     "start": 1791590400000,
     "end": 1791591300000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Pomphouders aan de grens vrezen hun voortbestaan * In de VS wordt een executie live...",
     "category": [
       "Actueel"
     ],
@@ -101,8 +101,8 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791592500000,
-    "end": 1791609000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "end": 1791608700000,
+    "description": "Met in deze uitzending: * Vredesprijs naar ICC-rechter Pillay * Zware sancties VS tegen Strafhof...",
     "category": [
       "Actueel"
     ],
@@ -123,11 +123,11 @@
     }
   },
   {
-    "id": "npo1:1791609000000:1c293u9",
+    "id": "npo1:1791608700000:1c293u9",
     "channel": "npo1",
     "title": "Nederland in beweging",
-    "start": 1791609000000,
-    "end": 1791610200000,
+    "start": 1791608700000,
+    "end": 1791609900000,
     "description": "Beweeg mee met 'Nederland in beweging'.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nederland-in-beweging-775662472.jpg",
@@ -145,11 +145,11 @@
     }
   },
   {
-    "id": "npo1:1791610200000:8m1vr7",
+    "id": "npo1:1791609900000:8m1vr7",
     "channel": "npo1",
     "title": "Compilatie Tijd voor MAX",
-    "start": 1791610200000,
-    "end": 1791613800000,
+    "start": 1791609900000,
+    "end": 1791613500000,
     "description": "Compilatie van fragmenten van de afgelopen week.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-775847502.jpg",
@@ -164,10 +164,10 @@
     }
   },
   {
-    "id": "npo1:1791613800000:q2xm3k",
+    "id": "npo1:1791613500000:q2xm3k",
     "channel": "npo1",
     "title": "Close up",
-    "start": 1791613800000,
+    "start": 1791613500000,
     "end": 1791617100000,
     "description": "Een uitslaande brand verwoestte in 2019 de beroemde Notre-Dame van Parijs.",
     "category": [],
@@ -186,16 +186,14 @@
     }
   },
   {
-    "id": "npo1:1791617100000:wyf3k3",
+    "id": "npo1:1791617100000:dhdlxv",
     "channel": "npo1",
-    "title": "Willem-Alexander en het koloniale verleden: Het onderzoek",
+    "title": "Willem-Alexander en de erfenis van het verleden",
     "start": 1791617100000,
-    "end": 1791622200000,
-    "description": "Live-uitzending van de overhandiging van de uitkomst van het onderzoek naar de rol van de Oranjes in het koloniale...",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v388/upload/w/carrousel/willem-alexander-en-de-erfenis-van-het-verleden-772714132.jpg",
+    "end": 1791619200000,
+    "description": "Koning Willem-Alexander is vooral de laatste jaren opvallend transparant over de zwarte bladzijden van de Nederlandse...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/w/carrousel/willem-alexander-en-de-erfenis-van-het-verleden-783567862.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -205,7 +203,28 @@
     "meta": {
       "labels": [
         "program",
-        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1791619200000:y8pnyt",
+    "channel": "npo1",
+    "title": "Tussen kunst en kitsch",
+    "start": 1791619200000,
+    "end": 1791622200000,
+    "description": "Vanwege de viering van 75 jaar televisie is 'Tussen kunst en kitsch' neergestreken in het Mediamuseum Beeld & Geluid.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tussen-kunst-en-kitsch-783567902.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
         "rerun"
       ]
     }
@@ -237,7 +256,7 @@
     "channel": "npo1",
     "title": "Keuringsdienst van waarde",
     "start": 1791625500000,
-    "end": 1791627600000,
+    "end": 1791627300000,
     "description": "De 'Keuringsdienst van waarde' kwam er zelf mee: dat de enige goede keus bij olijfolie extra vierge is.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/k/carrousel/keuringsdienst-van-waarde-780112422.jpg",
@@ -255,14 +274,14 @@
     }
   },
   {
-    "id": "npo1:1791627600000:1bmphks",
+    "id": "npo1:1791627300000:1bmphks",
     "channel": "npo1",
     "title": "Sterren NL top 25",
-    "start": 1791627600000,
+    "start": 1791627300000,
     "end": 1791630000000,
     "description": "Overzicht van de populairste Nederlandstalige hits.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/sterren-nl-top-25-775376292.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -302,7 +321,7 @@
     "channel": "npo1",
     "title": "Strijders",
     "start": 1791630600000,
-    "end": 1791633900000,
+    "end": 1791634200000,
     "description": "Een strijder is niet alleen fysiek sterk, ook een heldere geest is cruciaal.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/strijders-776079312.jpg",
@@ -320,11 +339,11 @@
     }
   },
   {
-    "id": "npo1:1791633900000:j1jgyo",
+    "id": "npo1:1791634200000:j1jgyo",
     "channel": "npo1",
     "title": "De Bauers, een nieuwe fase",
-    "start": 1791633900000,
-    "end": 1791636600000,
+    "start": 1791634200000,
+    "end": 1791636900000,
     "description": "Lucas, de jongste telg van de familie, droomt over zijn toekomst en ziet zichzelf wel als muziekproducer.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bauers-een-nieuwe-fase-777299252.jpg",
@@ -342,11 +361,11 @@
     }
   },
   {
-    "id": "npo1:1791636600000:1uiu6z3",
+    "id": "npo1:1791636900000:1uiu6z3",
     "channel": "npo1",
     "title": "Musical Awards the kick-off, de opening 2026",
-    "start": 1791636600000,
-    "end": 1791642000000,
+    "start": 1791636900000,
+    "end": 1791642300000,
     "description": "Live vanuit Eindhoven openen Frits Sissing en Marlijn Weerdenburg het nieuwe theaterseizoen met optredens uit...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/musical-awards-the-kick-off-de-opening-2026-775176862.jpg",
@@ -364,11 +383,11 @@
     }
   },
   {
-    "id": "npo1:1791642000000:1hd642k",
+    "id": "npo1:1791642300000:1hd642k",
     "channel": "npo1",
     "title": "Gouden Televizier-Ring Gala",
-    "start": 1791642000000,
-    "end": 1791647700000,
+    "start": 1791642300000,
+    "end": 1791647760000,
     "description": "Live-uitzending vanuit Carré van het televisiegala van het jaar waar de kijker de jury vormt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/g/carrousel/gouden-televizier-ring-gala-781520522.jpg",
@@ -386,10 +405,10 @@
     }
   },
   {
-    "id": "npo1:1791647700000:1ttndez",
+    "id": "npo1:1791647760000:1ttndez",
     "channel": "npo1",
     "title": "Socutera",
-    "start": 1791647700000,
+    "start": 1791647760000,
     "end": 1791648000000,
     "description": "IVN Natuureducatie brengt mens en natuur dicht bij elkaar.",
     "category": [],
@@ -482,9 +501,9 @@
     "title": "Een huis vol",
     "start": 1791651900000,
     "end": 1791655200000,
-    "description": "Een spannende dag voor de familie De Lange, want Daan krijgt zijn examenuitslag.",
+    "description": "In de slotaflevering van Een Huis Vol organiseren Gerdine en Maarten Blom een housewarming.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/een-huis-vol-775176802.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/g/carrousel/gerdineenmaartenblomeenhuisvolrealityshowkroncrv.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -494,7 +513,8 @@
     "meta": {
       "labels": [
         "program",
-        "audiodescription"
+        "audiodescription",
+        "tip"
       ]
     }
   },
@@ -573,7 +593,7 @@
     "channel": "npo1",
     "title": "Studio sport voetbal",
     "start": 1791663900000,
-    "end": 1791667200000,
+    "end": 1791667500000,
     "description": "Vorig jaar waren de fans van AZ aan het morren.",
     "category": [
       "Sport"
@@ -594,11 +614,11 @@
     }
   },
   {
-    "id": "npo1:1791667200000:1f18jbp",
+    "id": "npo1:1791667500000:1f18jbp",
     "channel": "npo1",
     "title": "Studio sport",
-    "start": 1791667200000,
-    "end": 1791669000000,
+    "start": 1791667500000,
+    "end": 1791669300000,
     "description": "Met livebeelden en samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
     "category": [
       "Sport"
@@ -618,11 +638,11 @@
     }
   },
   {
-    "id": "npo1:1791669000000:1qmbii9",
+    "id": "npo1:1791669300000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791669000000,
-    "end": 1791669900000,
+    "start": 1791669300000,
+    "end": 1791670200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"

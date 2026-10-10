@@ -1,10 +1,38 @@
 [
   {
-    "id": "play6:1791847800000:1ex9hz",
+    "id": "play6:1791848100000:1ltn7gx",
+    "channel": "play6",
+    "title": "Wordt aangekondigd",
+    "start": 1791848100000,
+    "end": 1791854100000,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A27d0353ef1577670c266cbce14fcfb565ac34849/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:27d0353ef1577670c266cbce14fcfb565ac34849",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1791854100000:1ex9hz",
     "channel": "play6",
     "title": "World's Most Dangerous Prisoners",
-    "start": 1791847800000,
-    "end": 1791851700000,
+    "start": 1791854100000,
+    "end": 1791856800000,
     "description": "Jesse Con-Ui is trouw aan de New Mexican Mafia. Die loyaliteit brengt hem ertoe zijn voormalige mentor te verraden en te vermoorden.",
     "category": [
       "Docu",
@@ -30,41 +58,11 @@
     }
   },
   {
-    "id": "play6:1791851700000:r5y6ed",
-    "channel": "play6",
-    "title": "Pawn Stars: Best Of",
-    "start": 1791851700000,
-    "end": 1791854700000,
-    "description": "Het is scoren voor Rick als basketbal-legende Kareem Abdul-Jabbar hem een voorstel doet voor zijn spectaculaire sportgedenkwaardigheden. Chum probeert ijshockey uit met een legendarische speler.",
-    "category": [
-      "Reality",
-      "Veiling"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26328315~~2FEP049858590002%2Cimi%3Af47c47594fdc0354a1fb313119e0e4806fc98f4f/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 2,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26328315~~2FEP049858590002,imi:f47c47594fdc0354a1fb313119e0e4806fc98f4f",
-      "episodeName": "Big Scores & Slam Dunks",
-      "genres": [
-        "Reality",
-        "Veiling"
-      ],
-      "productionDate": "2020",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26327442~~2FSH049858590000"
-    }
-  },
-  {
-    "id": "play6:1791854700000:48zb9",
+    "id": "play6:1791856800000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1791854700000,
-    "end": 1791860400000,
+    "start": 1791856800000,
+    "end": 1791860100000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +74,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a4f759dfd7ab06d22986d0241e6553007e5bdb44",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1791860100000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1791860100000,
+    "end": 1791860400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:10c61025c8db1544b1cef1c2d8371a756727f773",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
