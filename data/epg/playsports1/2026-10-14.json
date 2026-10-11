@@ -62,7 +62,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1791960060000,
-    "end": 1791967440000,
+    "end": 1791966120000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
@@ -85,6 +85,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1791966120000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1791966120000,
+    "end": 1791967440000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c5cfe01ba7bfd13a9219ea0b7d2ca542d8ca7276",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

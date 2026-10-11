@@ -664,7 +664,7 @@
     "end": 1791716460000,
     "description": "Woonprogramma waarin we kandidaten volgen die op zoek zijn naar hun droomplek.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/h/carrousel/huis-gezocht-775168862.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -916,7 +916,7 @@
     "title": "EditieNL",
     "start": 1791735360000,
     "end": 1791736380000,
-    "description": "Nieuwsprogramma met aandacht voor achtergronden bij het binnenlands nieuws en onderwerpen die meestal niet in de...",
+    "description": "<span class=\"label label--updated\">Update</span> Weekoverzicht. Weekquiz...",
     "category": [
       "Actueel"
     ],
@@ -930,7 +930,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
