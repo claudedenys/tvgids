@@ -1,0 +1,444 @@
+[
+  {
+    "id": "playsports1:1792108020000:xykime",
+    "channel": "playsports1",
+    "title": "Play Sports",
+    "start": 1792108020000,
+    "end": 1792125900000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A993e9d555ce1f78e73335eaf79ac1a2ebd9de6f4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:993e9d555ce1f78e73335eaf79ac1a2ebd9de6f4",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1792125900000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792125900000,
+    "end": 1792132260000,
+    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485%2Cimi%3Ab1754cb2d2e621b82a0704a86338c04c42ae485c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101085,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485,imi:b1754cb2d2e621b82a0704a86338c04c42ae485c",
+      "episodeName": "Arsenal - Leeds United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792132260000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792132260000,
+    "end": 1792138320000,
+    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483%2Cimi%3A08273eeca29e083fb8d901aacdc41975fc179905/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101083,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483,imi:08273eeca29e083fb8d901aacdc41975fc179905",
+      "episodeName": "Chelsea - Bournemouth",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792138320000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1792138320000,
+    "end": 1792139640000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e82482856804a24b88d253f7fe1bd543b30fd190",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1792139640000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792139640000,
+    "end": 1792146900000,
+    "description": "Vanuit Old Trafford in Manchester, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581969~~2FEP033946612476%2Cimi%3A138e6c4ac2a9125fd6bd6aa50edf95c73510e0bf/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101076,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581969~~2FEP033946612476,imi:138e6c4ac2a9125fd6bd6aa50edf95c73510e0bf",
+      "episodeName": "Manchester United - Tottenham Hotspur",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792146900000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792146900000,
+    "end": 1792153140000,
+    "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614186~~2FEP033948601864%2Cimi%3Ac5254a4a7f35cab8e6b5b1b1f9ad75a5b0008ff2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026100964,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614186~~2FEP033948601864,imi:c5254a4a7f35cab8e6b5b1b1f9ad75a5b0008ff2",
+      "episodeName": "Borussia Dortmund - Werder Bremen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792153140000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792153140000,
+    "end": 1792159440000,
+    "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614009~~2FEP033948601863%2Cimi%3A31f8f5bfa76cc45a9eb0e38d78fb815730bf46b0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101063,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614009~~2FEP033948601863,imi:31f8f5bfa76cc45a9eb0e38d78fb815730bf46b0",
+      "episodeName": "FC Augsburg - Bayern München",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792159440000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792159440000,
+    "end": 1792165800000,
+    "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865%2Cimi%3Ab342bbdd746f64c774e0e2f050a98526ac57b5df/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101165,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865,imi:b342bbdd746f64c774e0e2f050a98526ac57b5df",
+      "episodeName": "SC Freiburg - FC Schalke 04",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792165800000:amnfa6",
+    "channel": "playsports1",
+    "title": "Premier League Review",
+    "start": 1792165800000,
+    "end": 1792168920000,
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34117225~~2FEP055411400065%2Cimi%3A8c884e2e3ecb1bfe32b9a26250ccf771f8263bdc/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026101465,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34117225~~2FEP055411400065,imi:8c884e2e3ecb1bfe32b9a26250ccf771f8263bdc",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
+    }
+  },
+  {
+    "id": "playsports1:1792168920000:fly4em",
+    "channel": "playsports1",
+    "title": "Bundesliga Highlights",
+    "start": 1792168920000,
+    "end": 1792172100000,
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240659~~2FEP050961140063%2Cimi%3A9925bb9af1d917b0d42c73a25907a89d0e9b9009/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240659~~2FEP050961140063,imi:9925bb9af1d917b0d42c73a25907a89d0e9b9009",
+      "episodeName": "Aflevering 5",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27175952~~2FSH050961140000"
+    }
+  },
+  {
+    "id": "playsports1:1792172100000:1spiq9g",
+    "channel": "playsports1",
+    "title": "Bundesliga Weekly",
+    "start": 1792172100000,
+    "end": 1792173600000,
+    "description": "Wekelijkse voorbeschouwing met alle relevante informatie over aankomende wedstrijden en het laatste nieuws uit de Bundesliga.",
+    "category": [
+      "Sporttalkshow",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34169487~~2FEP039508280213%2Cimi%3A5cea6af08f8e97300b98f1f5fd02f24e09bac4b2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 12,
+    "episode": 6,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34169487~~2FEP039508280213,imi:5cea6af08f8e97300b98f1f5fd02f24e09bac4b2",
+      "episodeName": "Aflevering 6",
+      "genres": [
+        "Sporttalkshow",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F11931164~~2FSH039508280000"
+    }
+  },
+  {
+    "id": "playsports1:1792173600000:1cxkdp3",
+    "channel": "playsports1",
+    "title": "Bundesliga Specials",
+    "start": 1792173600000,
+    "end": 1792175100000,
+    "description": "Met zijn doelpunten veroverde Kane snel een plekje in het hart van de Bayern-fans. Hij bereikte de ene historische mijlpaal na de andere, waaronder het ongeëvenaarde aantal van 100 doelpunten in slechts 78 wedstrijden.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240483~~2FEP034203210272%2Cimi%3Ae367dae2563fe93c5adec0b9c5466c136acc89a7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3210000,
+    "episode": 2026101672,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240483~~2FEP034203210272,imi:e367dae2563fe93c5adec0b9c5466c136acc89a7",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fded1235f-6869-4fcf-8c67-661f17ce64d8"
+    }
+  },
+  {
+    "id": "playsports1:1792175100000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792175100000,
+    "end": 1792182300000,
+    "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871%2Cimi%3Ac36869f18c1a92fee0e5b88a7bafcdcb745ba369/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101671,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871,imi:c36869f18c1a92fee0e5b88a7bafcdcb745ba369",
+      "episodeName": "Eintracht Frankfurt - 1. FC Köln",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792182300000:qjkkk5",
+    "channel": "playsports1",
+    "title": "Premier League Stories",
+    "start": 1792182300000,
+    "end": 1792183740000,
+    "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311495~~2FEP043309820205%2Cimi%3A9c224f8d97171b4d38fa17ef36da2bf4f4197032/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311495~~2FEP043309820205,imi:9c224f8d97171b4d38fa17ef36da2bf4f4197032",
+      "episodeName": "Manager Rivalries",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports1:1792183740000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792183740000,
+    "end": 1792191600000,
+    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478%2Cimi%3A3cb3f447fec233f2edbc8cc990f05afa650a8094/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101178,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478,imi:3cb3f447fec233f2edbc8cc990f05afa650a8094",
+      "episodeName": "Liverpool - Manchester City",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  }
+]
