@@ -1,34 +1,10 @@
 [
   {
-    "id": "npo1:1792013400000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1792013400000,
-    "end": 1792015500000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-776936202.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1792015500000:3776ld",
+    "id": "npo1:1792014300000:3776ld",
     "channel": "npo1",
     "title": "Eva",
-    "start": 1792015500000,
-    "end": 1792019400000,
+    "start": 1792014300000,
+    "end": 1792017600000,
     "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eva-778346702.jpg",
@@ -46,11 +22,11 @@
     }
   },
   {
-    "id": "npo1:1792019400000:1qmbii9",
+    "id": "npo1:1792017600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792019400000,
-    "end": 1792020600000,
+    "start": 1792017600000,
+    "end": 1792018800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -71,11 +47,33 @@
     }
   },
   {
-    "id": "npo1:1792020600000:1byfm7j",
+    "id": "npo1:1792018800000:1f3cpph",
+    "channel": "npo1",
+    "title": "Pauw & De Wit",
+    "start": 1792018800000,
+    "end": 1792021800000,
+    "description": "Talkshow over de actualiteit.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-782783652.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1792021800000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1792020600000,
-    "end": 1792020900000,
+    "start": 1792021800000,
+    "end": 1792023300000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [
       "Actueel"
@@ -96,33 +94,11 @@
     }
   },
   {
-    "id": "npo1:1792020900000:1f3cpph",
-    "channel": "npo1",
-    "title": "Pauw & De Wit",
-    "start": 1792020900000,
-    "end": 1792024560000,
-    "description": "Talkshow over de actualiteit.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-782783652.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1792024560000:1qmbii9",
+    "id": "npo1:1792023300000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792024560000,
-    "end": 1792025820000,
+    "start": 1792023300000,
+    "end": 1792024500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -143,10 +119,10 @@
     }
   },
   {
-    "id": "npo1:1792025820000:1qmbii9",
+    "id": "npo1:1792024500000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792025820000,
+    "start": 1792024500000,
     "end": 1792036200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [

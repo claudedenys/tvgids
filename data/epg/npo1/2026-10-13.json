@@ -1,30 +1,11 @@
 [
   {
-    "id": "npo1:1791841860000:cv01lx",
-    "channel": "npo1",
-    "title": "Opsporing verzocht in 1 minuut",
-    "start": 1791841860000,
-    "end": 1791842700000,
-    "description": "Opsporingsprogramma in samenwerking met politie en justitie.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/o/carrousel/opsporing-verzocht-in-1-minuut-775879282.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
-    "id": "npo1:1791842700000:3776ld",
+    "id": "npo1:1791841920000:3776ld",
     "channel": "npo1",
     "title": "Eva",
-    "start": 1791842700000,
-    "end": 1791846600000,
-    "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
+    "start": 1791841920000,
+    "end": 1791845100000,
+    "description": "Met in deze uitzending: * Grote verwarring in de winkels van Albert Heijn vandaag.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eva-778346702.jpg",
     "icon": null,
@@ -41,11 +22,11 @@
     }
   },
   {
-    "id": "npo1:1791846600000:1qmbii9",
+    "id": "npo1:1791845100000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791846600000,
-    "end": 1791848100000,
+    "start": 1791845100000,
+    "end": 1791846600000,
     "description": "Met sport: * Voetbal: Oranjevrouwen bereiden zich voor op duel met Hongarije...",
     "category": [
       "Actueel"
@@ -66,12 +47,34 @@
     }
   },
   {
-    "id": "npo1:1791848100000:1byfm7j",
+    "id": "npo1:1791846600000:1f3cpph",
+    "channel": "npo1",
+    "title": "Pauw & De Wit",
+    "start": 1791846600000,
+    "end": 1791849300000,
+    "description": "Met in deze uitzending: * De Tweede Kamer stemt in november over het belastingplan van het minderheidskabinet, maar...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-782172872.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1791849300000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1791848100000,
-    "end": 1791848160000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "start": 1791849300000,
+    "end": 1791850800000,
+    "description": "Met in deze uitzending: * Navo-speech: hoe gaan we Rusland aanvallen?",
     "category": [
       "Actueel"
     ],
@@ -91,33 +94,11 @@
     }
   },
   {
-    "id": "npo1:1791848160000:1f3cpph",
-    "channel": "npo1",
-    "title": "Pauw & De Wit",
-    "start": 1791848160000,
-    "end": 1791851760000,
-    "description": "Talkshow over de actualiteit.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-782172872.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1791851760000:1qmbii9",
+    "id": "npo1:1791850800000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791851760000,
-    "end": 1791853020000,
+    "start": 1791850800000,
+    "end": 1791852300000,
     "description": "Met sport: * Voetbal: Oranjevrouwen bereiden zich voor op duel met Hongarije...",
     "category": [
       "Actueel"
@@ -138,12 +119,12 @@
     }
   },
   {
-    "id": "npo1:1791853020000:1qmbii9",
+    "id": "npo1:1791852300000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791853020000,
+    "start": 1791852300000,
     "end": 1791863400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Werk distributiecentra AH ligt stil * \"NAVO klaar om aanval...",
     "category": [
       "Actueel"
     ],
@@ -164,10 +145,10 @@
     }
   },
   {
-    "id": "npo1:1791864660000:1dw9gp4",
+    "id": "npo1:1791864600000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1791864660000,
+    "start": 1791864600000,
     "end": 1791865800000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -190,7 +171,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791865800000,
-    "end": 1791866160000,
+    "end": 1791866100000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -210,11 +191,11 @@
     }
   },
   {
-    "id": "npo1:1791866160000:1qmbii9",
+    "id": "npo1:1791866100000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791866160000,
-    "end": 1791866460000,
+    "start": 1791866100000,
+    "end": 1791866400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -235,11 +216,11 @@
     }
   },
   {
-    "id": "npo1:1791866460000:1qmbii9",
+    "id": "npo1:1791866400000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791866460000,
-    "end": 1791866760000,
+    "start": 1791866400000,
+    "end": 1791866700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -260,11 +241,11 @@
     }
   },
   {
-    "id": "npo1:1791866760000:1qmbii9",
+    "id": "npo1:1791866700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791866760000,
-    "end": 1791867060000,
+    "start": 1791866700000,
+    "end": 1791867000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -285,10 +266,10 @@
     }
   },
   {
-    "id": "npo1:1791867060000:1qmbii9",
+    "id": "npo1:1791867000000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791867060000,
+    "start": 1791867000000,
     "end": 1791867600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -459,7 +440,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791873000000,
-    "end": 1791873300000,
+    "end": 1791873600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -479,10 +460,10 @@
     }
   },
   {
-    "id": "npo1:1791873300000:1umycym",
+    "id": "npo1:1791873600000:1umycym",
     "channel": "npo1",
     "title": "Goedemorgen Nederland",
-    "start": 1791873300000,
+    "start": 1791873600000,
     "end": 1791874800000,
     "description": "Ochtendshow. Actualiteit met een focus op politiek, economie, veiligheid en de Nederlandse identiteit.",
     "category": [
@@ -605,7 +586,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791878400000,
-    "end": 1791879360000,
+    "end": 1791879300000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -625,11 +606,11 @@
     }
   },
   {
-    "id": "npo1:1791879360000:1c293u9",
+    "id": "npo1:1791879300000:1c293u9",
     "channel": "npo1",
     "title": "Nederland in beweging",
-    "start": 1791879360000,
-    "end": 1791880260000,
+    "start": 1791879300000,
+    "end": 1791880200000,
     "description": "Beweeg mee met 'Nederland in beweging'.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nederland-in-beweging-776935602.jpg",
@@ -644,10 +625,10 @@
     }
   },
   {
-    "id": "npo1:1791880260000:1dw9gp4",
+    "id": "npo1:1791880200000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1791880260000,
+    "start": 1791880200000,
     "end": 1791881100000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -693,7 +674,7 @@
     "title": "NOS Journaal",
     "start": 1791882000000,
     "end": 1791882900000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met het laatste nieuws en de weersverwachting.Droneaanval schepen Zwarte ZeeVeilig thuis kan werk niet meer...",
     "category": [
       "Actueel"
     ],
@@ -707,7 +688,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -717,9 +699,9 @@
     "title": "Tijd voor MAX",
     "start": 1791882900000,
     "end": 1791885600000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * Misdaad- en rechtbankverslaggever Saskia Belleman maakt samen met Pauw & De Wit-redacteur...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-776863332.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-784705352.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -739,7 +721,7 @@
     "title": "NOS Journaal",
     "start": 1791885600000,
     "end": 1791886500000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Droneaanval schepen Zwarte Zee * Veilig thuis kan werk niet.....",
     "category": [
       "Actueel"
     ],
@@ -753,7 +735,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -763,7 +746,7 @@
     "title": "Ongehoord nieuws",
     "start": 1791886500000,
     "end": 1791889200000,
-    "description": "Nieuwsmagazine vanuit Den Haag met debat, onderzoek en duiding.",
+    "description": "<span class=\"label label--updated\">Update</span> Is Rusland onze vijand of niet?..",
     "category": [
       "Actueel"
     ],
@@ -777,7 +760,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -787,7 +771,7 @@
     "title": "NOS Journaal",
     "start": 1791889200000,
     "end": 1791890400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Droneaanval schepen Zwarte Zee * Veilig thuis kan werk niet.....",
     "category": [
       "Actueel"
     ],
@@ -801,7 +785,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -833,11 +818,11 @@
     "title": "NOS Journaal",
     "start": 1791891300000,
     "end": 1791892800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Droneaanval schepen Zwarte Zee * Veilig thuis kan werk niet...",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-776613732.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -881,8 +866,8 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791896400000,
-    "end": 1791897660000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "end": 1791897600000,
+    "description": "<span class=\"label label--updated\">Update</span> Met het laatste nieuws en de weersverwachting.Droneaanval schepen Zwarte ZeeVeilig thuis kan werk niet meer...",
     "category": [
       "Actueel"
     ],
@@ -896,17 +881,18 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
   {
-    "id": "npo1:1791897660000:1qmbii9",
+    "id": "npo1:1791897600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791897660000,
-    "end": 1791898800000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "start": 1791897600000,
+    "end": 1791898500000,
+    "description": "Met het laatste nieuws en de weersverwachting.Droneaanval schepen Zwarte ZeeVeilig thuis kan werk niet meer...",
     "category": [
       "Actueel"
     ],
@@ -926,12 +912,12 @@
     }
   },
   {
-    "id": "npo1:1791898800000:1qmbii9",
+    "id": "npo1:1791898500000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791898800000,
+    "start": 1791898500000,
     "end": 1791900300000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met het laatste nieuws en de weersverwachting.Droneaanval schepen Zwarte ZeeVeilig thuis kan werk niet meer...",
     "category": [
       "Actueel"
     ],
@@ -955,8 +941,8 @@
     "channel": "npo1",
     "title": "Pauw & De Wit",
     "start": 1791900300000,
-    "end": 1791903480000,
-    "description": "Talkshow over de actualiteit.",
+    "end": 1791903420000,
+    "description": "Met in deze uitzending: * De Tweede Kamer stemt in november over het belastingplan van het minderheidskabinet, maar...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-782696612.jpg",
     "icon": null,
@@ -973,10 +959,10 @@
     }
   },
   {
-    "id": "npo1:1791903480000:1ttndez",
+    "id": "npo1:1791903420000:1ttndez",
     "channel": "npo1",
     "title": "Socutera",
-    "start": 1791903480000,
+    "start": 1791903420000,
     "end": 1791903600000,
     "description": "IVN Natuureducatie brengt mens en natuur dicht bij elkaar.",
     "category": [],
@@ -1024,9 +1010,9 @@
     "title": "Tijd voor MAX",
     "start": 1791904200000,
     "end": 1791906960000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Birgit Boelens neemt ons mee in de kleurrijke wereld van Henri Matisse en de topstukken...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-776863332.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-784714132.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1034,7 +1020,9 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
@@ -1042,7 +1030,7 @@
     "channel": "npo1",
     "title": "Politieke partijen",
     "start": 1791906960000,
-    "end": 1791907080000,
+    "end": 1791907020000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-783106552.jpg",
@@ -1060,10 +1048,10 @@
     }
   },
   {
-    "id": "npo1:1791907080000:12b58co",
+    "id": "npo1:1791907020000:12b58co",
     "channel": "npo1",
     "title": "Politieke partijen",
-    "start": 1791907080000,
+    "start": 1791907020000,
     "end": 1791907200000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
@@ -1086,7 +1074,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791907200000,
-    "end": 1791908160000,
+    "end": 1791908100000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1106,12 +1094,12 @@
     }
   },
   {
-    "id": "npo1:1791908160000:ejkxyx",
+    "id": "npo1:1791908100000:ejkxyx",
     "channel": "npo1",
     "title": "Sportjournaal",
-    "start": 1791908160000,
+    "start": 1791908100000,
     "end": 1791909000000,
-    "description": "Aandacht voor het laatste sportnieuws.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Voetbal: Vooruitblik Oranje - Hongarije en vooruitblik Feyenoord - Como.....",
     "category": [
       "Sport"
     ],
@@ -1125,7 +1113,8 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "sport",
+        "updated"
       ]
     }
   },
@@ -1177,7 +1166,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1791914400000,
-    "end": 1791916800000,
+    "end": 1791916500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1198,10 +1187,10 @@
     }
   },
   {
-    "id": "npo1:1791916800000:111ln6k",
+    "id": "npo1:1791916500000:111ln6k",
     "channel": "npo1",
     "title": "Ik vertrek",
-    "start": 1791916800000,
+    "start": 1791916500000,
     "end": 1791919800000,
     "description": "Een onaangename verrassing in de Zuid-Spaanse heuvels: de B&B die Mike en Ana uit Ik Vertrek willen openen, zit...",
     "category": [],
@@ -1225,7 +1214,7 @@
     "channel": "npo1",
     "title": "De slimste mens",
     "start": 1791919800000,
-    "end": 1791923100000,
+    "end": 1791922800000,
     "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-slimste-mens-777795172.jpg",
@@ -1240,11 +1229,11 @@
     }
   },
   {
-    "id": "npo1:1791923100000:1f3cpph",
+    "id": "npo1:1791922800000:1f3cpph",
     "channel": "npo1",
     "title": "Pauw & De Wit",
-    "start": 1791923100000,
-    "end": 1791927000000,
+    "start": 1791922800000,
+    "end": 1791926100000,
     "description": "Talkshow over de actualiteit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-778005812.jpg",
@@ -1259,12 +1248,12 @@
     }
   },
   {
-    "id": "npo1:1791927000000:1qmbii9",
+    "id": "npo1:1791926100000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1791927000000,
-    "end": 1791929100000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "start": 1791926100000,
+    "end": 1791927900000,
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Voetbal: RB Leipzig - PSV.....",
     "category": [
       "Actueel"
     ],
@@ -1278,7 +1267,30 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1791927900000:3776ld",
+    "channel": "npo1",
+    "title": "Eva",
+    "start": 1791927900000,
+    "end": 1791931200000,
+    "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eva-778346702.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
       ]
     }
   }
