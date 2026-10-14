@@ -206,7 +206,7 @@
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
     "start": 1792146900000,
-    "end": 1792155900000,
+    "end": 1792154880000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -232,11 +232,35 @@
     }
   },
   {
+    "id": "playsports4:1792154880000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1792154880000,
+    "end": 1792155900000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d927626b935cbb5072260e1ea1eb29ff6dd9113d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "playsports4:1792155900000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1792155900000,
-    "end": 1792164900000,
+    "end": 1792163700000,
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "category": [
       "Sport",
@@ -259,6 +283,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1792163700000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1792163700000,
+    "end": 1792164900000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d26deef6dfd009a5560f3066dce8e9c504ada6be",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

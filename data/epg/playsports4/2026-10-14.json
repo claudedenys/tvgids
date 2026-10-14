@@ -212,7 +212,7 @@
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
     "start": 1791974700000,
-    "end": 1791981240000,
+    "end": 1791981120000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -238,10 +238,10 @@
     }
   },
   {
-    "id": "playsports4:1791981240000:48zb9",
+    "id": "playsports4:1791981120000:48zb9",
     "channel": "playsports4",
     "title": "Geen uitzending",
-    "start": 1791981240000,
+    "start": 1791981120000,
     "end": 1791982800000,
     "description": null,
     "category": [],
@@ -296,7 +296,7 @@
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
     "start": 1791986700000,
-    "end": 1791995700000,
+    "end": 1791994680000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -319,6 +319,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379748~~2FSH066051020000"
+    }
+  },
+  {
+    "id": "playsports4:1791994680000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1791994680000,
+    "end": 1791995700000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2d705b88a17125810c0a6b8bad7389e3efcbed33",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

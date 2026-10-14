@@ -8,7 +8,7 @@
     "competition": null,
     "sport": null,
     "start": 1792108020000,
-    "end": 1792125900000,
+    "end": 1792127400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -583,7 +583,7 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1792146900000,
-    "end": 1792155900000,
+    "end": 1792154880000,
     "status": "aankomend",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
@@ -606,7 +606,7 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1792155900000,
-    "end": 1792164900000,
+    "end": 1792163700000,
     "status": "aankomend",
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "source": "epg",
@@ -1150,29 +1150,6 @@
     ]
   },
   {
-    "id": "sport:match:1792125900000:arsenal - leeds united",
-    "externalId": null,
-    "title": "Arsenal - Leeds United",
-    "home": "Arsenal",
-    "away": "Leeds United",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1792125900000,
-    "end": 1792132260000,
-    "status": "aankomend",
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
     "id": "sport:match:1792132260000:chelsea - bournemouth",
     "externalId": null,
     "title": "Chelsea - Bournemouth",
@@ -1319,7 +1296,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1792183740000,
-    "end": 1792191600000,
+    "end": 1792189800000,
     "status": "aankomend",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",

@@ -5,28 +5,22 @@
     "title": "MotoGP",
     "start": 1792192140000,
     "end": 1792196700000,
-    "description": "Verslag van de race van de MotoGP van Japan, gereden in Motegi, Japan.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
+    "description": null,
+    "category": [],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506%2Cimi%3A446e18ffa49c59296e0578bc6bb57b774cc36dfc/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 38910000,
-    "episode": 2026100406,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506,imi:446e18ffa49c59296e0578bc6bb57b774cc36dfc",
       "episodeName": "GP van Japan: Race",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
+      "genres": [],
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
+      "parentSeriesId": null
     }
   },
   {
@@ -122,7 +116,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1792221600000,
-    "end": 1792230600000,
+    "end": 1792229400000,
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "category": [
       "Sport",
@@ -148,33 +142,51 @@
     }
   },
   {
+    "id": "playsports4:1792229400000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1792229400000,
+    "end": 1792230600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:deb36ad96b813a5d8fbfbf8e69de4b7b1d0289cd",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "playsports4:1792230600000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
     "start": 1792230600000,
     "end": 1792234500000,
-    "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
+    "description": null,
+    "category": [],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514%2Cimi%3A6338984d29bdd17d9ccc313de66927d2a64e2e01/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 38910000,
-    "episode": 2026101114,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514,imi:6338984d29bdd17d9ccc313de66927d2a64e2e01",
       "episodeName": "GP van Indonesië: Race",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
+      "genres": [],
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
+      "parentSeriesId": null
     }
   },
   {
@@ -212,7 +224,7 @@
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
     "start": 1792241700000,
-    "end": 1792250700000,
+    "end": 1792249680000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -235,6 +247,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379748~~2FSH066051020000"
+    }
+  },
+  {
+    "id": "playsports4:1792249680000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1792249680000,
+    "end": 1792250700000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:23b8ce02706162c4f7bad2ca9cd2dde1f921c76a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -303,28 +339,22 @@
     "title": "UEFA Champions League Highlights",
     "start": 1792259700000,
     "end": 1792261500000,
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
+    "description": null,
+    "category": [],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34145526~~2FEP052508440037%2Cimi%3A5c28b7bec512cd43083b4bd12a4689cea027929f/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 5,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34145526~~2FEP052508440037,imi:5c28b7bec512cd43083b4bd12a4689cea027929f",
       "episodeName": "Aflevering 5",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
+      "genres": [],
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
+      "parentSeriesId": null
     }
   },
   {
@@ -333,28 +363,22 @@
     "title": "Premier League",
     "start": 1792261500000,
     "end": 1792262400000,
-    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
+    "description": null,
+    "category": [],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478%2Cimi%3A8135d5d297e1d72588365ea3ccf640255c47f179/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101178,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478,imi:8135d5d297e1d72588365ea3ccf640255c47f179",
       "episodeName": "Liverpool - Manchester City",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
+      "genres": [],
+      "productionDate": null,
       "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "parentSeriesId": null
     }
   },
   {
@@ -423,28 +447,22 @@
     "title": "Premier League",
     "start": 1792271400000,
     "end": 1792272300000,
-    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
+    "description": null,
+    "category": [],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483%2Cimi%3Acaf5a5e3f90416de073b6fe7d1b824c0624f61d5/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101083,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483,imi:caf5a5e3f90416de073b6fe7d1b824c0624f61d5",
       "episodeName": "Chelsea - Bournemouth",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
+      "genres": [],
+      "productionDate": null,
       "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "parentSeriesId": null
     }
   },
   {
@@ -452,7 +470,7 @@
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
     "start": 1792272300000,
-    "end": 1792281300000,
+    "end": 1792280280000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",

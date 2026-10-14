@@ -34,7 +34,7 @@
     "channel": "playsports4",
     "title": "Play Sports",
     "start": 1792023900000,
-    "end": 1792040700000,
+    "end": 1792045200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,41 +58,11 @@
     }
   },
   {
-    "id": "playsports4:1792040700000:bjf8gr",
-    "channel": "playsports4",
-    "title": "FIM Motocross of Nations",
-    "start": 1792040700000,
-    "end": 1792045200000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009%2Cimi%3Af95f36525d13a12cef8882c115b5fbcc84a3bab8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 69220000,
-    "episode": 2026100409,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009,imi:f95f36525d13a12cef8882c115b5fbcc84a3bab8",
-      "episodeName": "Race 3 (MXGP & Open)",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
-    }
-  },
-  {
     "id": "playsports4:1792045200000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1792045200000,
-    "end": 1792054200000,
+    "end": 1792053000000,
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "category": [
       "Sport",
@@ -115,6 +85,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1792053000000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1792053000000,
+    "end": 1792054200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:72744de96742836f7479442c42e253a59c2b6e5a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -182,7 +176,7 @@
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
     "start": 1792065300000,
-    "end": 1792074300000,
+    "end": 1792073280000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -205,6 +199,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379748~~2FSH066051020000"
+    }
+  },
+  {
+    "id": "playsports4:1792073280000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1792073280000,
+    "end": 1792074300000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:264e2d74d7292378fda253c65acf723ef3be7dd5",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

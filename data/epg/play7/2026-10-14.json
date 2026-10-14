@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1791935700000:rmqxmh",
+    "id": "play7:1791936000000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1791935700000,
-    "end": 1791939300000,
+    "start": 1791936000000,
+    "end": 1791939000000,
     "description": "Zes jaar geleden ontmoetten Joanne en Dean elkaar voor het eerst in een pub, en sindsdien zijn ze een stel. Nu zijn ze van plan om samen een vakantiehuis aan de Costa Adeje te kopen, maar het blijkt lastig te zijn.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1791939300000:48zb9",
+    "id": "play7:1791939000000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1791939300000,
-    "end": 1791946800000,
+    "start": 1791939000000,
+    "end": 1791946680000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d43234177e950fba626410bc082e0c1cd59b87e5",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1791946680000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1791946680000,
+    "end": 1791946800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f5166c6afb9229e8d6fc735f8128b72e7c7ba2e7",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

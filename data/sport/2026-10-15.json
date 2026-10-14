@@ -8,7 +8,7 @@
     "competition": null,
     "sport": null,
     "start": 1792021620000,
-    "end": 1792040100000,
+    "end": 1792040400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -445,32 +445,9 @@
     "competition": null,
     "sport": null,
     "start": 1792023900000,
-    "end": 1792040700000,
-    "status": "aankomend",
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1792040700000:bjf8gr",
-    "externalId": null,
-    "title": "Race 3 (MXGP & Open)",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1792040700000,
     "end": 1792045200000,
     "status": "aankomend",
-    "description": null,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -491,7 +468,7 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1792045200000,
-    "end": 1792054200000,
+    "end": 1792053000000,
     "status": "aankomend",
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "source": "epg",
@@ -560,7 +537,7 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1792065300000,
-    "end": 1792074300000,
+    "end": 1792073280000,
     "status": "aankomend",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
@@ -874,17 +851,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1792063800000:lt7aff",
+    "id": "sport:playsports-golf:1792063800000:zzkb3f",
     "externalId": null,
-    "title": "Open de España",
+    "title": "DP World India Championship: Dag 1",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
     "start": 1792063800000,
-    "end": 1792065600000,
+    "end": 1792067400000,
     "status": "aankomend",
-    "description": "Hoogtepunten van de Open de España, gespeeld op de Club de Campo Villa de Madrid in Spanje.",
+    "description": "Verslag van de eerste dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -897,17 +874,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1792065600000:mkyqbr",
+    "id": "sport:playsports-golf:1792067400000:lt7aff",
     "externalId": null,
-    "title": "Baycurrent Classic",
+    "title": "Open de España",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1792065600000,
+    "start": 1792067400000,
     "end": 1792069200000,
     "status": "aankomend",
-    "description": "Hoogtepunten van de Baycurrent Classic, gespeeld op de Yokohama Country Club in Yokohama, Japan.",
+    "description": "Hoogtepunten van de Open de España, gespeeld op de Club de Campo Villa de Madrid in Spanje.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1012,17 +989,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1792079100000:rnzpmx",
+    "id": "sport:playsports-golf:1792079100000:lt7aff",
     "externalId": null,
-    "title": "Korn Ferry Championship",
+    "title": "Soudal Open",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
     "start": 1792079100000,
-    "end": 1792082400000,
+    "end": 1792095300000,
     "status": "aankomend",
-    "description": "Hoogtepunten van de Korn Ferry Championship, gespeeld in de Korn Ferry Tour.",
+    "description": "Hoogtepunten van de Soudal Open, gespeeld op de Rinkven International Golf Club in Antwerpen, België.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1035,14 +1012,37 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1792098000000:zzkb3f",
+    "id": "sport:playsports-golf:1792095300000:1fawgds",
+    "externalId": null,
+    "title": "The Untold Story of the 138th Open",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1792095300000,
+    "end": 1792098300000,
+    "status": "aankomend",
+    "description": "Met interviews met spelers en ooggetuigen van binnen de touwen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1792098300000:zzkb3f",
     "externalId": null,
     "title": "DP World India Championship: Dag 1",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1792098000000,
+    "start": 1792098300000,
     "end": 1792108800000,
     "status": "aankomend",
     "description": "Verslag van de eerste dag van de DP World India Championship, gespeeld in New Delhi, India.",
@@ -1058,15 +1058,15 @@
     ]
   },
   {
-    "id": "sport:match:1792040100000:borussia dortmund - werder bremen",
+    "id": "sport:match:1792041600000:borussia dortmund - werder bremen",
     "externalId": null,
     "title": "Borussia Dortmund - Werder Bremen",
     "home": "Borussia Dortmund",
     "away": "Werder Bremen",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792040100000,
-    "end": 1792046340000,
+    "start": 1792041600000,
+    "end": 1792048140000,
     "status": "aankomend",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
@@ -1081,15 +1081,15 @@
     ]
   },
   {
-    "id": "sport:match:1792046340000:fc augsburg - bayern munchen",
+    "id": "sport:match:1792048140000:fc augsburg - bayern munchen",
     "externalId": null,
     "title": "FC Augsburg - Bayern München",
     "home": "FC Augsburg",
     "away": "Bayern München",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792046340000,
-    "end": 1792052640000,
+    "start": 1792048140000,
+    "end": 1792054740000,
     "status": "aankomend",
     "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
     "source": "epg",
@@ -1104,15 +1104,15 @@
     ]
   },
   {
-    "id": "sport:match:1792052640000:sc freiburg - fc schalke 04",
+    "id": "sport:match:1792054740000:sc freiburg - fc schalke 04",
     "externalId": null,
     "title": "SC Freiburg - FC Schalke 04",
     "home": "SC Freiburg",
     "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792052640000,
-    "end": 1792059000000,
+    "start": 1792054740000,
+    "end": 1792061100000,
     "status": "aankomend",
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
     "source": "epg",
@@ -1127,15 +1127,15 @@
     ]
   },
   {
-    "id": "sport:match:1792059000000:arsenal - leeds united",
+    "id": "sport:match:1792061100000:arsenal - leeds united",
     "externalId": null,
     "title": "Arsenal - Leeds United",
     "home": "Arsenal",
     "away": "Leeds United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792059000000,
-    "end": 1792065360000,
+    "start": 1792061100000,
+    "end": 1792067460000,
     "status": "aankomend",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
@@ -1150,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1792065360000:chelsea - bournemouth",
+    "id": "sport:match:1792067460000:chelsea - bournemouth",
     "externalId": null,
     "title": "Chelsea - Bournemouth",
     "home": "Chelsea",
     "away": "Bournemouth",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792065360000,
-    "end": 1792071420000,
+    "start": 1792067460000,
+    "end": 1792073640000,
     "status": "aankomend",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
@@ -1173,14 +1173,14 @@
     ]
   },
   {
-    "id": "sport:match:1792072740000:manchester united - tottenham hotspur",
+    "id": "sport:match:1792073640000:manchester united - tottenham hotspur",
     "externalId": null,
     "title": "Manchester United - Tottenham Hotspur",
     "home": "Manchester United",
     "away": "Tottenham Hotspur",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792072740000,
+    "start": 1792073640000,
     "end": 1792080000000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
@@ -1204,7 +1204,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1792088100000,
-    "end": 1792095300000,
+    "end": 1792094100000,
     "status": "aankomend",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
@@ -1219,17 +1219,40 @@
     ]
   },
   {
-    "id": "sport:match:1792095300000:sunderland - brighton & hove albion",
+    "id": "sport:match:1792094100000:sunderland - brighton & hove albion",
     "externalId": null,
     "title": "Sunderland - Brighton & Hove Albion",
     "home": "Sunderland",
     "away": "Brighton & Hove Albion",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792095300000,
-    "end": 1792101660000,
+    "start": 1792094100000,
+    "end": 1792100460000,
     "status": "aankomend",
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1792100460000:crystal palace - nottingham forest",
+    "externalId": null,
+    "title": "Crystal Palace - Nottingham Forest",
+    "home": "Crystal Palace",
+    "away": "Nottingham Forest",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1792100460000,
+    "end": 1792107060000,
+    "status": "aankomend",
+    "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -1515,75 +1538,6 @@
     ],
     "channelIds": [
       "playsports-premierleague"
-    ]
-  },
-  {
-    "id": "sport:match:1792082400000:olympique lyon - crystal palace",
-    "externalId": null,
-    "title": "Olympique Lyon - Crystal Palace",
-    "home": "Olympique Lyon",
-    "away": "Crystal Palace",
-    "competition": "UEFA Europa League",
-    "sport": "Voetbal",
-    "start": 1792082400000,
-    "end": 1792089900000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Olympique Lyon - Crystal Palace, gespeeld in de competitiefase van de UEFA Europa League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:match:1792089900000:manchester city - paris saint-germain",
-    "externalId": null,
-    "title": "Manchester City - Paris Saint-Germain",
-    "home": "Manchester City",
-    "away": "Paris Saint-Germain",
-    "competition": "UEFA Champions League",
-    "sport": "Voetbal",
-    "start": 1792089900000,
-    "end": 1792090500000,
-    "status": "aankomend",
-    "description": "Samenvatting van de wedstrijd Manchester City - Paris Saint-Germain, gespeeld in de competitiefase van de UEFA Champions League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:match:1792090500000:fc kopenhagen - sporting braga",
-    "externalId": null,
-    "title": "FC Kopenhagen - Sporting Braga",
-    "home": "FC Kopenhagen",
-    "away": "Sporting Braga",
-    "competition": "UEFA Conference League",
-    "sport": "Voetbal",
-    "start": 1792090500000,
-    "end": 1792098000000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd FC Kopenhagen - Sporting Braga, gespeeld in de competitiefase van de UEFA Conference League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
     ]
   }
 ]

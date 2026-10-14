@@ -4,7 +4,7 @@
     "channel": "playsports1",
     "title": "Play Sports",
     "start": 1792021620000,
-    "end": 1792040100000,
+    "end": 1792040400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,161 +28,11 @@
     }
   },
   {
-    "id": "playsports1:1792040100000:11wg5yb",
-    "channel": "playsports1",
-    "title": "Bundesliga",
-    "start": 1792040100000,
-    "end": 1792046340000,
-    "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614186~~2FEP033948601864%2Cimi%3A70f421b545e90dd9cb5f32c6e28978db36c6bc83/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 48600000,
-    "episode": 2026100964,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614186~~2FEP033948601864,imi:70f421b545e90dd9cb5f32c6e28978db36c6bc83",
-      "episodeName": "Borussia Dortmund - Werder Bremen",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
-    }
-  },
-  {
-    "id": "playsports1:1792046340000:11wg5yb",
-    "channel": "playsports1",
-    "title": "Bundesliga",
-    "start": 1792046340000,
-    "end": 1792052640000,
-    "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614009~~2FEP033948601863%2Cimi%3A945b77660c5c77134361364834bc613ebb2a26b1/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 48600000,
-    "episode": 2026101063,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614009~~2FEP033948601863,imi:945b77660c5c77134361364834bc613ebb2a26b1",
-      "episodeName": "FC Augsburg - Bayern München",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
-    }
-  },
-  {
-    "id": "playsports1:1792052640000:11wg5yb",
-    "channel": "playsports1",
-    "title": "Bundesliga",
-    "start": 1792052640000,
-    "end": 1792059000000,
-    "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865%2Cimi%3Ae413d9bf6cfb18259f07f2f687f98e743af7c3c8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 48600000,
-    "episode": 2026101165,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865,imi:e413d9bf6cfb18259f07f2f687f98e743af7c3c8",
-      "episodeName": "SC Freiburg - FC Schalke 04",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
-    }
-  },
-  {
-    "id": "playsports1:1792059000000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1792059000000,
-    "end": 1792065360000,
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485%2Cimi%3Ae278d90bdee11ab91a6873c3b945249e1da69f43/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101085,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485,imi:e278d90bdee11ab91a6873c3b945249e1da69f43",
-      "episodeName": "Arsenal - Leeds United",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1792065360000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1792065360000,
-    "end": 1792071420000,
-    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483%2Cimi%3A87de589c4a3ce4df3d5886b261eb63b4077ee502/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101083,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483,imi:87de589c4a3ce4df3d5886b261eb63b4077ee502",
-      "episodeName": "Chelsea - Bournemouth",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports1:1792071420000:48zb9",
+    "id": "playsports1:1792040400000:48zb9",
     "channel": "playsports1",
     "title": "Geen uitzending",
-    "start": 1792071420000,
-    "end": 1792072740000,
+    "start": 1792040400000,
+    "end": 1792041600000,
     "description": null,
     "category": [],
     "image": null,
@@ -202,17 +52,167 @@
     }
   },
   {
-    "id": "playsports1:1792072740000:1prlzbg",
+    "id": "playsports1:1792041600000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792041600000,
+    "end": 1792048140000,
+    "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614186~~2FEP033948601864%2Cimi%3A920bd5819a207db51af73fb6af1f4e816069436d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026100964,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614186~~2FEP033948601864,imi:920bd5819a207db51af73fb6af1f4e816069436d",
+      "episodeName": "Borussia Dortmund - Werder Bremen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792048140000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792048140000,
+    "end": 1792054740000,
+    "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614009~~2FEP033948601863%2Cimi%3A8209be7374f52fc36cef61eb6fd6ce9fa8ff6318/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101063,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614009~~2FEP033948601863,imi:8209be7374f52fc36cef61eb6fd6ce9fa8ff6318",
+      "episodeName": "FC Augsburg - Bayern München",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792054740000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792054740000,
+    "end": 1792061100000,
+    "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865%2Cimi%3Aea1bd20ef0178668f23dd875bf5abb4e7f75e72b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101165,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865,imi:ea1bd20ef0178668f23dd875bf5abb4e7f75e72b",
+      "episodeName": "SC Freiburg - FC Schalke 04",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792061100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792072740000,
+    "start": 1792061100000,
+    "end": 1792067460000,
+    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485%2Cimi%3A0d8efb29184b90eff6e83b1c5268b9382fb4b995/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101085,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485,imi:0d8efb29184b90eff6e83b1c5268b9382fb4b995",
+      "episodeName": "Arsenal - Leeds United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792067460000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792067460000,
+    "end": 1792073640000,
+    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483%2Cimi%3A419baca4f9b3dd7f625defc7bffcf7310bb4b57e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101083,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483,imi:419baca4f9b3dd7f625defc7bffcf7310bb4b57e",
+      "episodeName": "Chelsea - Bournemouth",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792073640000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792073640000,
     "end": 1792080000000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581969~~2FEP033946612476%2Cimi%3Ae80bc10fdbb81fab1634f35cb00ed344221708af/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33581969~~2FEP033946612476%2Cimi%3Ac43e6e056181925866bfb41908d1beaaecbedf04/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -220,7 +220,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581969~~2FEP033946612476,imi:e80bc10fdbb81fab1634f35cb00ed344221708af",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33581969~~2FEP033946612476,imi:c43e6e056181925866bfb41908d1beaaecbedf04",
       "episodeName": "Manchester United - Tottenham Hotspur",
       "genres": [
         "Sport",
@@ -326,7 +326,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1792088100000,
-    "end": 1792095300000,
+    "end": 1792094100000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",
@@ -352,17 +352,17 @@
     }
   },
   {
-    "id": "playsports1:1792095300000:1prlzbg",
+    "id": "playsports1:1792094100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792095300000,
-    "end": 1792101660000,
+    "start": 1792094100000,
+    "end": 1792100460000,
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582613~~2FEP033946612484%2Cimi%3Ab23a4d32fe98369db81f9b931f8edb75ecf2f792/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582613~~2FEP033946612484%2Cimi%3A73a3e8f0462c6e3f24f18084afdcf965ebe344e6/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -370,8 +370,38 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582613~~2FEP033946612484,imi:b23a4d32fe98369db81f9b931f8edb75ecf2f792",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582613~~2FEP033946612484,imi:73a3e8f0462c6e3f24f18084afdcf965ebe344e6",
       "episodeName": "Sunderland - Brighton & Hove Albion",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792100460000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792100460000,
+    "end": 1792107060000,
+    "description": "Vanuit Selhurst Park in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481%2Cimi%3A68d6b7f21c1d377c951c28376859e3b284194aae/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101181,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481,imi:68d6b7f21c1d377c951c28376859e3b284194aae",
+      "episodeName": "Crystal Palace - Nottingham Forest",
       "genres": [
         "Sport",
         "Voetbal"

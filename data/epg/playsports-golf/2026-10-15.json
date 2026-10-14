@@ -240,11 +240,41 @@
     }
   },
   {
-    "id": "playsports-golf:1792063800000:lt7aff",
+    "id": "playsports-golf:1792063800000:zzkb3f",
+    "channel": "playsports-golf",
+    "title": "DP World Tour",
+    "start": 1792063800000,
+    "end": 1792067400000,
+    "description": "Verslag van de eerste dag van de DP World India Championship, gespeeld in New Delhi, India.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825369~~2FEP049392790490%2Cimi%3A43e676eb5e840f005e523db88da2d5ec30785511/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 92790000,
+    "episode": 2026101590,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825369~~2FEP049392790490,imi:43e676eb5e840f005e523db88da2d5ec30785511",
+      "episodeName": "DP World India Championship: Dag 1",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
+    }
+  },
+  {
+    "id": "playsports-golf:1792067400000:lt7aff",
     "channel": "playsports-golf",
     "title": "DP World Tour Hoogtepunten",
-    "start": 1792063800000,
-    "end": 1792065600000,
+    "start": 1792067400000,
+    "end": 1792069200000,
     "description": "Hoogtepunten van de Open de España, gespeeld op de Club de Campo Villa de Madrid in Spanje.",
     "category": [
       "Sport",
@@ -267,36 +297,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
-    }
-  },
-  {
-    "id": "playsports-golf:1792065600000:mkyqbr",
-    "channel": "playsports-golf",
-    "title": "PGA Tour Hoogtepunten",
-    "start": 1792065600000,
-    "end": 1792069200000,
-    "description": "Hoogtepunten van de Baycurrent Classic, gespeeld op de Yokohama Country Club in Yokohama, Japan.",
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34172629~~2FEP055230080109%2Cimi%3A1aed9ebe98823d1e615fbdf6a453bc380bbcfcd8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 2026101309,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34172629~~2FEP055230080109,imi:1aed9ebe98823d1e615fbdf6a453bc380bbcfcd8",
-      "episodeName": "Baycurrent Classic",
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
     }
   },
   {
@@ -420,137 +420,77 @@
     }
   },
   {
-    "id": "playsports-golf:1792079100000:rnzpmx",
+    "id": "playsports-golf:1792079100000:lt7aff",
     "channel": "playsports-golf",
-    "title": "PGA Korn Ferry Tour Hoogtepunten",
+    "title": "DP World Tour Hoogtepunten",
     "start": 1792079100000,
-    "end": 1792082400000,
-    "description": "Hoogtepunten van de Korn Ferry Championship, gespeeld in de Korn Ferry Tour.",
+    "end": 1792095300000,
+    "description": "Hoogtepunten van de Soudal Open, gespeeld op de Rinkven International Golf Club in Antwerpen, België.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31301790~~2FEP036179500040%2Cimi%3A7e3a3d4bb1772f2f7ef749f97627232c158934d3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33136614~~2FEP049393090222%2Cimi%3A14616f628d71bc72dc1bbd270754696b38580eeb/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 79500000,
-    "episode": 2025101540,
+    "season": 102026,
+    "episode": 2026052722,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31301790~~2FEP036179500040,imi:7e3a3d4bb1772f2f7ef749f97627232c158934d3",
-      "episodeName": "Korn Ferry Championship",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33136614~~2FEP049393090222,imi:14616f628d71bc72dc1bbd270754696b38580eeb",
+      "episodeName": "Soudal Open",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
+    }
+  },
+  {
+    "id": "playsports-golf:1792095300000:1fawgds",
+    "channel": "playsports-golf",
+    "title": "Underdogs",
+    "start": 1792095300000,
+    "end": 1792098300000,
+    "description": "Met interviews met spelers en ooggetuigen van binnen de touwen.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30552038~~2FEP060830570001%2Cimi%3A5f2c08b1610c14690785be8497560d0db43e02c1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 30570000,
+    "episode": 2025071601,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30552038~~2FEP060830570001,imi:5f2c08b1610c14690785be8497560d0db43e02c1",
+      "episodeName": "The Untold Story of the 138th Open",
       "genres": [
         "Sport",
         "Golf"
       ],
       "productionDate": "2025",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179500000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30451029~~2FSH060830570000"
     }
   },
   {
-    "id": "playsports-golf:1792082400000:ear1gl",
-    "channel": "playsports-golf",
-    "title": "UEFA Europa League",
-    "start": 1792082400000,
-    "end": 1792089900000,
-    "description": "Verslag van de wedstrijd Olympique Lyon - Crystal Palace, gespeeld in de competitiefase van de UEFA Europa League.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33415452~~2FEP028036721239%2Cimi%3A5632b16fc227690f6f788d5672815e64d7809663/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 36720000,
-    "episode": 2026101539,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33415452~~2FEP028036721239,imi:5632b16fc227690f6f788d5672815e64d7809663",
-      "episodeName": "Olympique Lyon - Crystal Palace",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
-    }
-  },
-  {
-    "id": "playsports-golf:1792089900000:1mu5gpn",
-    "channel": "playsports-golf",
-    "title": "UEFA Champions League Hoogtepunten",
-    "start": 1792089900000,
-    "end": 1792090500000,
-    "description": "Samenvatting van de wedstrijd Manchester City - Paris Saint-Germain, gespeeld in de competitiefase van de UEFA Champions League.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34173333~~2FEP036212080528%2Cimi%3A7415431617aeeb7b3ef3661dc3f1824156c7fc92/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 12080000,
-    "episode": 2026101428,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34173333~~2FEP036212080528,imi:7415431617aeeb7b3ef3661dc3f1824156c7fc92",
-      "episodeName": "Manchester City - Paris Saint-Germain",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F75f9a58f-5adf-4a74-aa66-7d09901a2fd4"
-    }
-  },
-  {
-    "id": "playsports-golf:1792090500000:16v40h",
-    "channel": "playsports-golf",
-    "title": "UEFA Conference League",
-    "start": 1792090500000,
-    "end": 1792098000000,
-    "description": "Verslag van de wedstrijd FC Kopenhagen - Sporting Braga, gespeeld in de competitiefase van de UEFA Conference League.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33434117~~2FEP052089690778%2Cimi%3A4d33d46f4f46732995ca850a05212ec4fad475aa/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 89690000,
-    "episode": 2026101578,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33434117~~2FEP052089690778,imi:4d33d46f4f46732995ca850a05212ec4fad475aa",
-      "episodeName": "FC Kopenhagen - Sporting Braga",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27811245~~2FSH052089690000"
-    }
-  },
-  {
-    "id": "playsports-golf:1792098000000:zzkb3f",
+    "id": "playsports-golf:1792098300000:zzkb3f",
     "channel": "playsports-golf",
     "title": "DP World Tour",
-    "start": 1792098000000,
+    "start": 1792098300000,
     "end": 1792108800000,
     "description": "Verslag van de eerste dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825369~~2FEP049392790490%2Cimi%3A43e676eb5e840f005e523db88da2d5ec30785511/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825369~~2FEP049392790490%2Cimi%3A5a096568b7c0d6d6d66ac0a028267a6ce94031dc/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 92790000,
@@ -558,7 +498,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825369~~2FEP049392790490,imi:43e676eb5e840f005e523db88da2d5ec30785511",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825369~~2FEP049392790490,imi:5a096568b7c0d6d6d66ac0a028267a6ce94031dc",
       "episodeName": "DP World India Championship: Dag 1",
       "genres": [
         "Sport",
