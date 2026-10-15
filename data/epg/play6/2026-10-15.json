@@ -1,10 +1,40 @@
 [
   {
-    "id": "play6:1792022400000:r5y6ed",
+    "id": "play6:1792018800000:1ex9hz",
+    "channel": "play6",
+    "title": "World's Most Dangerous Prisoners",
+    "start": 1792018800000,
+    "end": 1792023000000,
+    "description": "Billy Tracy heeft in de gevangenis meer dan 27 mensen aangevallen. Op death row in Texas blijft hij een bijzonder gewelddadige gevangene.",
+    "category": [
+      "Docu",
+      "Misdaad"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30674925~~2FEP049872620017%2Cimi%3A29e458c14415925f587deccf8b9385edf0529981/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 6,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30674925~~2FEP049872620017,imi:29e458c14415925f587deccf8b9385edf0529981",
+      "episodeName": "Tracy",
+      "genres": [
+        "Docu",
+        "Misdaad"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26391761~~2FSH049872620000"
+    }
+  },
+  {
+    "id": "play6:1792023000000:r5y6ed",
     "channel": "play6",
     "title": "Pawn Stars: Best Of",
-    "start": 1792022400000,
-    "end": 1792025700000,
+    "start": 1792023000000,
+    "end": 1792025400000,
     "description": "In de winkel komt een boek voorbij dat gesigneerd is door 'Shoeless' Joe Jackson. En ook het originele Beatles-contract met hun manager Brian Epstein. Ook is er een antiek Japans samurai-zwaard te zien.",
     "category": [
       "Reality",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play6:1792025700000:48zb9",
+    "id": "play6:1792025400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1792025700000,
-    "end": 1792033200000,
+    "start": 1792025400000,
+    "end": 1792033020000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:518f452d43e93bafec47df07ec4ad3584aa2f408",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1792033020000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1792033020000,
+    "end": 1792033200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:50d0bafe8151866588a38cd0f7b57659987f568a",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -83,7 +137,7 @@
     "title": "Customer Wars",
     "start": 1792039200000,
     "end": 1792040400000,
-    "description": "Van verhitte discussies tot gevechten. Deze reeks maakt duidelijk dat de uitspraak \"De klant heeft altijd gelijk\" vaker een uitzondering is dan de regel.",
+    "description": "Een eigenzinnige bioscoopbezoeker weigert zijn stoel af te staan, waardoor medewerkers de film moeten stopzetten en ingrijpen. Een vrouw krijgt een woedeaanval nadat ze uit een vliegtuig is gezet omdat ze zich niet hield aan de regels.",
     "category": [
       "Reality",
       "Docu"

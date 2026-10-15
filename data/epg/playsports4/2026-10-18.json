@@ -58,36 +58,6 @@
     }
   },
   {
-    "id": "playsports4:1792299300000:5qme33",
-    "channel": "playsports4",
-    "title": "Tennis: China Open 2026",
-    "start": 1792299300000,
-    "end": 1792306500000,
-    "description": "Verslag van de China Open, gespeeld in Peking, China.",
-    "category": [
-      "Sport",
-      "Tennis"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031%2Cimi%3Acf2363c9ddfaecd8744b017b845ddba11e47bf94/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 51020000,
-    "episode": 2026101031,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031,imi:cf2363c9ddfaecd8744b017b845ddba11e47bf94",
-      "episodeName": "WTA1000: Dag 11",
-      "genres": [
-        "Sport",
-        "Tennis"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379748~~2FSH066051020000"
-    }
-  },
-  {
     "id": "playsports4:1792299600000:48zb9",
     "channel": "playsports4",
     "title": "Geen uitzending",
@@ -142,41 +112,11 @@
     }
   },
   {
-    "id": "playsports4:1792306500000:5qme33",
+    "id": "playsports4:1792308360000:5qme33",
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
-    "start": 1792306500000,
-    "end": 1792313700000,
-    "description": "Verslag van de China Open, gespeeld in Peking, China.",
-    "category": [
-      "Sport",
-      "Tennis"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031%2Cimi%3Aaff2c7708bbe5cd971121a96c555dde092c707c9/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 51020000,
-    "episode": 2026101031,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031,imi:aff2c7708bbe5cd971121a96c555dde092c707c9",
-      "episodeName": "WTA1000: Dag 11",
-      "genres": [
-        "Sport",
-        "Tennis"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379748~~2FSH066051020000"
-    }
-  },
-  {
-    "id": "playsports4:1792313700000:5qme33",
-    "channel": "playsports4",
-    "title": "Tennis: China Open 2026",
-    "start": 1792313700000,
-    "end": 1792321680000,
+    "start": 1792308360000,
+    "end": 1792316340000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -202,27 +142,33 @@
     }
   },
   {
-    "id": "playsports4:1792321680000:48zb9",
+    "id": "playsports4:1792316340000:5qme33",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1792321680000,
+    "title": "Tennis: China Open 2026",
+    "start": 1792316340000,
     "end": 1792322700000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Verslag van de China Open, gespeeld in Peking, China.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031%2Cimi%3Ab5ddf30da758aadf835e3cabc249fd504090c441/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 51020000,
+    "episode": 2026101031,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9cb9eaf1615c88fe7198c5147306ffa66e1374d1",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031,imi:b5ddf30da758aadf835e3cabc249fd504090c441",
+      "episodeName": "WTA1000: Dag 11",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379748~~2FSH066051020000"
     }
   },
   {
@@ -395,7 +341,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34346461~~2FEP037584270193,imi:be6645061fb27ed4165fbe5a3b4064d9af5f7a63",
-      "episodeName": "Aflevering 5",
+      "episodeName": "Ralf Seuntjens",
       "genres": [
         "Voetbal",
         "Sporttalkshow"

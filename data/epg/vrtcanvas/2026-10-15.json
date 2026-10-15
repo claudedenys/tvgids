@@ -148,7 +148,7 @@
     "channel": "vrtcanvas",
     "title": "Radio 1: De Wereld Vandaag",
     "start": 1792072800000,
-    "end": 1792074900000,
+    "end": 1792077300000,
     "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
     "category": [
       "Actualiteitsmagazine"
@@ -169,34 +169,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26149743~~2FSH049391810000"
-    }
-  },
-  {
-    "id": "vrtcanvas:1792074900000:39z16v",
-    "channel": "vrtcanvas",
-    "title": "VRT NWS Pano",
-    "start": 1792074900000,
-    "end": 1792077300000,
-    "description": "Duidingsmagazine met indringende reportages over de grote thema's van deze tijd. Een gedreven team van reporters diept de beste nieuwsverhalen uit en zoekt het antwoord op actuele vragen.",
-    "category": [
-      "Docu"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34220777~~2FEP066339670001%2Cimi%3Aef35e1a7fd0a9f48da5c8419620b9610e28c9365/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 1,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34220777~~2FEP066339670001,imi:ef35e1a7fd0a9f48da5c8419620b9610e28c9365",
-      "episodeName": "Aflevering 1",
-      "genres": [
-        "Docu"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34220766~~2FSH066339670000"
     }
   },
   {

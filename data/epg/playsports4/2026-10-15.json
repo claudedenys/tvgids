@@ -4,22 +4,22 @@
     "channel": "playsports4",
     "title": "MotoGP",
     "start": 1792019700000,
-    "end": 1792023900000,
-    "description": "Verslag van de race van de MotoGP van Japan, gereden in Motegi, Japan.",
+    "end": 1792024800000,
+    "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506%2Cimi%3A4618dc9eb03a368372f8499f148a01f89979fd78/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514%2Cimi%3Ad6995d85b5f5a26e31429e5d5a09473561d039e7/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 38910000,
-    "episode": 2026100406,
+    "episode": 2026101114,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506,imi:4618dc9eb03a368372f8499f148a01f89979fd78",
-      "episodeName": "GP van Japan: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514,imi:d6995d85b5f5a26e31429e5d5a09473561d039e7",
+      "episodeName": "GP van Indonesië: Race",
       "genres": [
         "Sport",
         "Motorracen"
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1792023900000:xykime",
+    "id": "playsports4:1792024800000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1792023900000,
-    "end": 1792045200000,
+    "start": 1792024800000,
+    "end": 1792042800000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,41 @@
     }
   },
   {
-    "id": "playsports4:1792045200000:arbc9d",
+    "id": "playsports4:1792042800000:bjf8gr",
+    "channel": "playsports4",
+    "title": "FIM Motocross of Nations",
+    "start": 1792042800000,
+    "end": 1792047360000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009%2Cimi%3Af95f36525d13a12cef8882c115b5fbcc84a3bab8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 69220000,
+    "episode": 2026100409,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135345~~2FEP053069220009,imi:f95f36525d13a12cef8882c115b5fbcc84a3bab8",
+      "episodeName": "Race 3 (MXGP & Open)",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
+    }
+  },
+  {
+    "id": "playsports4:1792047360000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1792045200000,
-    "end": 1792053000000,
+    "start": 1792047360000,
+    "end": 1792055160000,
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "category": [
       "Sport",
@@ -88,35 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1792053000000:48zb9",
-    "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1792053000000,
-    "end": 1792054200000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:72744de96742836f7479442c42e253a59c2b6e5a",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1792054200000:3y5tln",
+    "id": "playsports4:1792055160000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1792054200000,
-    "end": 1792058100000,
+    "start": 1792055160000,
+    "end": 1792059600000,
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "category": [
       "Sport",
@@ -142,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1792058100000:5qme33",
+    "id": "playsports4:1792059600000:5qme33",
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
-    "start": 1792058100000,
-    "end": 1792065300000,
+    "start": 1792059600000,
+    "end": 1792066020000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -172,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1792065300000:5qme33",
+    "id": "playsports4:1792066020000:5qme33",
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
-    "start": 1792065300000,
-    "end": 1792073280000,
+    "start": 1792066020000,
+    "end": 1792074060000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -202,57 +208,33 @@
     }
   },
   {
-    "id": "playsports4:1792073280000:48zb9",
+    "id": "playsports4:1792074060000:1kmei86",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1792073280000,
-    "end": 1792074300000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:264e2d74d7292378fda253c65acf723ef3be7dd5",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1792074300000:1ng6s",
-    "channel": "playsports4",
-    "title": "BNXT League",
-    "start": 1792074300000,
+    "title": "Tennis: Rolex Shanghai Masters 2026",
+    "start": 1792074060000,
     "end": 1792082400000,
-    "description": "Vanuit de Lotto Arena in Antwerpen, België.",
+    "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
-      "Basketbal"
+      "Tennis"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240965~~2FEP039991360285%2Cimi%3Aafd213511753822b9814f06669190d4ac3edc2e8/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34335185~~2FEP066152590054%2Cimi%3A706e33e651f100a40b8d0a9c6c04a81d742b4596/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 91360000,
-    "episode": 2026101085,
+    "season": 52590000,
+    "episode": 2026101254,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240965~~2FEP039991360285,imi:afd213511753822b9814f06669190d4ac3edc2e8",
-      "episodeName": "Antwerp Giants - Kortrijk",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34335185~~2FEP066152590054,imi:706e33e651f100a40b8d0a9c6c04a81d742b4596",
+      "episodeName": "Bergs vs. Alcaraz",
       "genres": [
         "Sport",
-        "Basketbal"
+        "Tennis"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33511409~~2FSH066152590000"
     }
   },
   {
@@ -346,63 +328,33 @@
     }
   },
   {
-    "id": "playsports4:1792097700000:1prlzbg",
+    "id": "playsports4:1792097700000:3tkxx5",
     "channel": "playsports4",
-    "title": "Premier League",
+    "title": "MIDMID",
     "start": 1792097700000,
-    "end": 1792098540000,
-    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
+    "end": 1792103100000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjes.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483%2Cimi%3Abe8e7f8a69bec2f9436261509427070e1bc66d84/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34346461~~2FEP037584270193%2Cimi%3Ac5a9ca28a9eff8bda6affb220f092215e2c769cd/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101083,
+    "season": 7,
+    "episode": 5,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483,imi:be8e7f8a69bec2f9436261509427070e1bc66d84",
-      "episodeName": "Chelsea - Bournemouth",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34346461~~2FEP037584270193,imi:c5a9ca28a9eff8bda6affb220f092215e2c769cd",
+      "episodeName": "Ralf Seuntjens",
       "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports4:1792098540000:1opp2ju",
-    "channel": "playsports4",
-    "title": "Tennis: Chengdu Open 2026",
-    "start": 1792098540000,
-    "end": 1792105740000,
-    "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
-    "category": [
-      "Sport",
-      "Tennis"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34179004~~2FEP066025830021%2Cimi%3Afce5613f1d199502346bf05122dc9e8a7fbdc58f/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 25830000,
-    "episode": 2026092921,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34179004~~2FEP066025830021,imi:fce5613f1d199502346bf05122dc9e8a7fbdc58f",
-      "episodeName": "ATP250: Finale, Hurkacz vs Davidovich Fokina",
-      "genres": [
-        "Sport",
-        "Tennis"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379701~~2FSH066025830000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   }
 ]

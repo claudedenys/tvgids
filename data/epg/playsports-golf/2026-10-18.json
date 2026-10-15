@@ -150,27 +150,33 @@
     }
   },
   {
-    "id": "playsports-golf:1792321200000:v0dpte",
+    "id": "playsports-golf:1792321200000:qt4vc6",
     "channel": "playsports-golf",
-    "title": "LPGA European Tour Hoogtepunten",
+    "title": "HotelPlanner Tour Series Hoogtepunten",
     "start": 1792321200000,
-    "end": 1792324800000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34173492~~2FEP050323180069%2Cimi%3A5cf9f79df4cb143a660d68a0f00a906c04402f0d/posterTile",
+    "end": 1792323000000,
+    "description": "Hoogtepunten van de Hainan Open, gespeeld in de HotelPlanner Tour Series van 2026.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34180413~~2FEP055625730058%2Cimi%3A96685a5ad6d186d5206379584b20a4cda179e685/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 102026,
+    "episode": 35,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34173492~~2FEP050323180069,imi:5cf9f79df4cb143a660d68a0f00a906c04402f0d",
-      "episodeName": "Aramco Korea Championship",
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34180413~~2FEP055625730058,imi:96685a5ad6d186d5206379584b20a4cda179e685",
+      "episodeName": "Hainan Open",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22039946~~2FSH055625730000"
     }
   },
   {

@@ -1,15 +1,15 @@
 [
   {
-    "id": "sport:playsports1:1792021620000:xykime",
+    "id": "sport:playsports1:1792020660000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792021620000,
-    "end": 1792040400000,
-    "status": "aankomend",
+    "start": 1792020660000,
+    "end": 1792041600000,
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -23,15 +23,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1792080000000:amnfa6",
+    "id": "sport:playsports1:1792080060000:amnfa6",
     "externalId": null,
     "title": "Premier League Review",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792080000000,
-    "end": 1792083300000,
+    "start": 1792080060000,
+    "end": 1792083180000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -46,15 +46,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1792083300000:fly4em",
+    "id": "sport:playsports1:1792083180000:fly4em",
     "externalId": null,
     "title": "Aflevering 5",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792083300000,
-    "end": 1792086600000,
+    "start": 1792083180000,
+    "end": 1792086300000,
     "status": "aankomend",
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "source": "epg",
@@ -69,15 +69,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1792086600000:qjkkk5",
+    "id": "sport:playsports1:1792086300000:qjkkk5",
     "externalId": null,
     "title": "Granit Xhaka",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792086600000,
-    "end": 1792088100000,
+    "start": 1792086300000,
+    "end": 1792087860000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1792015200000,
     "end": 1792036800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +124,7 @@
     "sport": null,
     "start": 1792036800000,
     "end": 1792058400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -184,16 +184,16 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792023060000:xykime",
+    "id": "sport:playsports3:1792023120000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792023060000,
+    "start": 1792023120000,
     "end": 1792041300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": "Tennis",
     "start": 1792047600000,
     "end": 1792054800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
     "platforms": [
@@ -239,7 +239,7 @@
     "sport": "Tennis",
     "start": 1792054800000,
     "end": 1792062000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
     "platforms": [
@@ -307,7 +307,7 @@
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
     "start": 1792076400000,
-    "end": 1792078200000,
+    "end": 1792078140000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -322,14 +322,37 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792078800000:1p2p7re",
+    "id": "sport:playsports3:1792078140000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792078140000,
+    "end": 1792078680000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1792078680000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 19",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1792078800000,
+    "start": 1792078680000,
     "end": 1792082400000,
     "status": "aankomend",
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
@@ -416,83 +439,14 @@
   {
     "id": "sport:playsports4:1792019700000:3y5tln",
     "externalId": null,
-    "title": "GP van Japan: Race",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1792019700000,
-    "end": 1792023900000,
-    "status": "aankomend",
-    "description": "Verslag van de race van de MotoGP van Japan, gereden in Motegi, Japan.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1792023900000:xykime",
-    "externalId": null,
-    "title": "Play Sports",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1792023900000,
-    "end": 1792045200000,
-    "status": "aankomend",
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1792045200000:arbc9d",
-    "externalId": null,
-    "title": "GP van Singapore: Race",
-    "home": null,
-    "away": null,
-    "competition": "Formule 1",
-    "sport": "Motorsport",
-    "start": 1792045200000,
-    "end": 1792053000000,
-    "status": "aankomend",
-    "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1792054200000:3y5tln",
-    "externalId": null,
     "title": "GP van Indonesië: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792054200000,
-    "end": 1792058100000,
-    "status": "aankomend",
+    "start": 1792019700000,
+    "end": 1792024800000,
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "source": "epg",
     "platforms": [
@@ -506,15 +460,107 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792058100000:5qme33",
+    "id": "sport:playsports4:1792024800000:xykime",
+    "externalId": null,
+    "title": "Play Sports",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792024800000,
+    "end": 1792042800000,
+    "status": "afgelopen",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1792042800000:bjf8gr",
+    "externalId": null,
+    "title": "Race 3 (MXGP & Open)",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792042800000,
+    "end": 1792047360000,
+    "status": "afgelopen",
+    "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1792047360000:arbc9d",
+    "externalId": null,
+    "title": "GP van Singapore: Race",
+    "home": null,
+    "away": null,
+    "competition": "Formule 1",
+    "sport": "Motorsport",
+    "start": 1792047360000,
+    "end": 1792055160000,
+    "status": "afgelopen",
+    "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1792055160000:3y5tln",
+    "externalId": null,
+    "title": "GP van Indonesië: Race",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792055160000,
+    "end": 1792059600000,
+    "status": "live",
+    "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1792059600000:5qme33",
     "externalId": null,
     "title": "WTA1000: Dag 11",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792058100000,
-    "end": 1792065300000,
+    "start": 1792059600000,
+    "end": 1792066020000,
     "status": "aankomend",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
@@ -529,15 +575,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792065300000:5qme33",
+    "id": "sport:playsports4:1792066020000:5qme33",
     "externalId": null,
     "title": "WTA1000: Dag 12, Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792065300000,
-    "end": 1792073280000,
+    "start": 1792066020000,
+    "end": 1792074060000,
     "status": "aankomend",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
@@ -552,17 +598,40 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792098540000:1opp2ju",
+    "id": "sport:playsports4:1792074060000:1kmei86",
     "externalId": null,
-    "title": "ATP250: Finale, Hurkacz vs Davidovich Fokina",
+    "title": "Bergs vs. Alcaraz",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792098540000,
-    "end": 1792105740000,
+    "start": 1792074060000,
+    "end": 1792082400000,
     "status": "aankomend",
-    "description": "Verslag van de Chengdu Open, gespeeld in Chengdu, China.",
+    "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1792097700000:3tkxx5",
+    "externalId": null,
+    "title": "Ralf Seuntjens",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1792097700000,
+    "end": 1792103100000,
+    "status": "aankomend",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjes.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -584,7 +653,7 @@
     "sport": null,
     "start": 1792015200000,
     "end": 1792036800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -607,7 +676,7 @@
     "sport": null,
     "start": 1792036800000,
     "end": 1792058400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -676,7 +745,7 @@
     "sport": "Golf",
     "start": 1792022400000,
     "end": 1792026000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Aramco Korea Championship, gespeeld op de New Korea Country Club in Goyang, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -699,7 +768,7 @@
     "sport": "Golf",
     "start": 1792026000000,
     "end": 1792027800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Abu Dhabi Challenge, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
@@ -722,7 +791,7 @@
     "sport": "Golf",
     "start": 1792027800000,
     "end": 1792029600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Open de España, gespeeld op de Club de Campo Villa de Madrid in Spanje.",
     "source": "epg",
     "platforms": [
@@ -745,7 +814,7 @@
     "sport": "Golf",
     "start": 1792029600000,
     "end": 1792033200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Baycurrent Classic, gespeeld op de Yokohama Country Club in Yokohama, Japan.",
     "source": "epg",
     "platforms": [
@@ -768,7 +837,7 @@
     "sport": "Golf",
     "start": 1792033200000,
     "end": 1792036800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Constellation Furyk & Friends, gespeeld in de PGA Tour Champions.",
     "source": "epg",
     "platforms": [
@@ -791,7 +860,7 @@
     "sport": "Golf",
     "start": 1792036800000,
     "end": 1792040400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Aramco Korea Championship, gespeeld op de New Korea Country Club in Goyang, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -814,7 +883,7 @@
     "sport": "Golf",
     "start": 1792040400000,
     "end": 1792042200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Open de España, gespeeld op de Club de Campo Villa de Madrid in Spanje.",
     "source": "epg",
     "platforms": [
@@ -837,7 +906,7 @@
     "sport": "Golf",
     "start": 1792042200000,
     "end": 1792063800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de eerste dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -1067,7 +1136,7 @@
     "sport": "Voetbal",
     "start": 1792041600000,
     "end": 1792048140000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1089,8 +1158,8 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1792048140000,
-    "end": 1792054740000,
-    "status": "aankomend",
+    "end": 1792054800000,
+    "status": "afgelopen",
     "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1104,16 +1173,16 @@
     ]
   },
   {
-    "id": "sport:match:1792054740000:sc freiburg - fc schalke 04",
+    "id": "sport:match:1792054800000:sc freiburg - fc schalke 04",
     "externalId": null,
     "title": "SC Freiburg - FC Schalke 04",
     "home": "SC Freiburg",
     "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792054740000,
-    "end": 1792061100000,
-    "status": "aankomend",
+    "start": 1792054800000,
+    "end": 1792061220000,
+    "status": "live",
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1127,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1792061100000:arsenal - leeds united",
+    "id": "sport:match:1792061220000:arsenal - leeds united",
     "externalId": null,
     "title": "Arsenal - Leeds United",
     "home": "Arsenal",
     "away": "Leeds United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792061100000,
-    "end": 1792067460000,
+    "start": 1792061220000,
+    "end": 1792067580000,
     "status": "aankomend",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
@@ -1150,14 +1219,14 @@
     ]
   },
   {
-    "id": "sport:match:1792067460000:chelsea - bournemouth",
+    "id": "sport:match:1792067580000:chelsea - bournemouth",
     "externalId": null,
     "title": "Chelsea - Bournemouth",
     "home": "Chelsea",
     "away": "Bournemouth",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792067460000,
+    "start": 1792067580000,
     "end": 1792073640000,
     "status": "aankomend",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
@@ -1181,7 +1250,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1792073640000,
-    "end": 1792080000000,
+    "end": 1792080060000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
@@ -1196,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1792088100000:liverpool - manchester city",
+    "id": "sport:match:1792087860000:liverpool - manchester city",
     "externalId": null,
     "title": "Liverpool - Manchester City",
     "home": "Liverpool",
     "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792088100000,
-    "end": 1792094100000,
+    "start": 1792087860000,
+    "end": 1792093980000,
     "status": "aankomend",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
@@ -1219,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1792094100000:sunderland - brighton & hove albion",
+    "id": "sport:match:1792093980000:sunderland - brighton & hove albion",
     "externalId": null,
     "title": "Sunderland - Brighton & Hove Albion",
     "home": "Sunderland",
     "away": "Brighton & Hove Albion",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792094100000,
-    "end": 1792100460000,
+    "start": 1792093980000,
+    "end": 1792100520000,
     "status": "aankomend",
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "source": "epg",
@@ -1242,15 +1311,15 @@
     ]
   },
   {
-    "id": "sport:match:1792100460000:crystal palace - nottingham forest",
+    "id": "sport:match:1792100520000:crystal palace - nottingham forest",
     "externalId": null,
     "title": "Crystal Palace - Nottingham Forest",
     "home": "Crystal Palace",
     "away": "Nottingham Forest",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792100460000,
-    "end": 1792107060000,
+    "start": 1792100520000,
+    "end": 1792107120000,
     "status": "aankomend",
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
@@ -1265,16 +1334,16 @@
     ]
   },
   {
-    "id": "sport:match:1792016700000:ac milan - benfica",
+    "id": "sport:match:1792016760000:ac milan - benfica",
     "externalId": null,
     "title": "AC Milan - Benfica",
     "home": "AC Milan",
     "away": "Benfica",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1792016700000,
-    "end": 1792023060000,
-    "status": "aankomend",
+    "start": 1792016760000,
+    "end": 1792023120000,
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1297,7 +1366,7 @@
     "sport": "Voetbal",
     "start": 1792041300000,
     "end": 1792047600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1308,75 +1377,6 @@
     ],
     "channelIds": [
       "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792078200000:ajax - n.e.c.",
-    "externalId": null,
-    "title": "Ajax - N.E.C.",
-    "home": "Ajax",
-    "away": "N.E.C.",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1792078200000,
-    "end": 1792078500000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792078500000:feyenoord - az",
-    "externalId": null,
-    "title": "Feyenoord - AZ",
-    "home": "Feyenoord",
-    "away": "AZ",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1792078500000,
-    "end": 1792078800000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792074300000:antwerp giants - kortrijk",
-    "externalId": null,
-    "title": "Antwerp Giants - Kortrijk",
-    "home": "Antwerp Giants",
-    "away": "Kortrijk",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1792074300000,
-    "end": 1792082400000,
-    "status": "aankomend",
-    "description": "Vanuit de Lotto Arena in Antwerpen, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
     ]
   },
   {
@@ -1437,29 +1437,6 @@
     "end": 1792097700000,
     "status": "aankomend",
     "description": "Vanuit het Daio Wasabi Stayen Stadium in Sint-Truiden, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:match:1792097700000:chelsea - bournemouth",
-    "externalId": null,
-    "title": "Chelsea - Bournemouth",
-    "home": "Chelsea",
-    "away": "Bournemouth",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1792097700000,
-    "end": 1792098540000,
-    "status": "aankomend",
-    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"

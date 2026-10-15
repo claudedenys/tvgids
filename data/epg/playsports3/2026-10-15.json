@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1792016700000:ear1gl",
+    "id": "playsports3:1792016760000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1792016700000,
-    "end": 1792023060000,
+    "start": 1792016760000,
+    "end": 1792023120000,
     "description": "Verslag van de wedstrijd AC Milan - Benfica, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports3:1792023060000:xykime",
+    "id": "playsports3:1792023120000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1792023060000,
+    "start": 1792023120000,
     "end": 1792041300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -212,7 +212,7 @@
     "channel": "playsports3",
     "title": "UEFA Champions League Highlights",
     "start": 1792076400000,
-    "end": 1792078200000,
+    "end": 1792078140000,
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
@@ -238,70 +238,40 @@
     }
   },
   {
-    "id": "playsports3:1792078200000:1va4v2m",
+    "id": "playsports3:1792078140000:i67pjl",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1792078200000,
-    "end": 1792078500000,
-    "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
+    "title": "Play Sports Highlights",
+    "start": 1792078140000,
+    "end": 1792078680000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558518~~2FEP035850992011%2Cimi%3A2ccdbe318cec1a5a08b4f20454f99cbb7be326d5/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566250912%2Cimi%3Ad87de87f98806829d190b97da5150b22a1974c88/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026101011,
+    "season": 50390000,
+    "episode": 566250912,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558518~~2FEP035850992011,imi:2ccdbe318cec1a5a08b4f20454f99cbb7be326d5",
-      "episodeName": "Ajax - N.E.C.",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566250912,imi:d87de87f98806829d190b97da5150b22a1974c88",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports3:1792078500000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1792078500000,
-    "end": 1792078800000,
-    "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558393~~2FEP035850992009%2Cimi%3A1e6d8ff0da022e0af94e053116afd2086d8842c7/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026101009,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558393~~2FEP035850992009,imi:1e6d8ff0da022e0af94e053116afd2086d8842c7",
-      "episodeName": "Feyenoord - AZ",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1792078800000:1p2p7re",
+    "id": "playsports3:1792078680000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1792078800000,
+    "start": 1792078680000,
     "end": 1792082400000,
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [

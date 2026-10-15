@@ -1,34 +1,10 @@
 [
   {
-    "id": "npo1:1792099800000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1792099800000,
-    "end": 1792101900000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-777358202.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1792101900000:3776ld",
+    "id": "npo1:1792100400000:3776ld",
     "channel": "npo1",
     "title": "Eva",
-    "start": 1792101900000,
-    "end": 1792105800000,
+    "start": 1792100400000,
+    "end": 1792104000000,
     "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eva-778346702.jpg",
@@ -46,12 +22,12 @@
     }
   },
   {
-    "id": "npo1:1792105800000:1qmbii9",
+    "id": "npo1:1792104000000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792105800000,
-    "end": 1792107000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "start": 1792104000000,
+    "end": 1792105200000,
+    "description": "Met sport: * Voetbal: Nederlandse clubs in Europa...",
     "category": [
       "Actueel"
     ],
@@ -71,11 +47,33 @@
     }
   },
   {
-    "id": "npo1:1792107000000:1byfm7j",
+    "id": "npo1:1792105200000:1f3cpph",
+    "channel": "npo1",
+    "title": "Pauw & De Wit",
+    "start": 1792105200000,
+    "end": 1792108200000,
+    "description": "Talkshow over de actualiteit.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-783258152.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1792108200000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1792107000000,
-    "end": 1792107300000,
+    "start": 1792108200000,
+    "end": 1792109700000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [
       "Actueel"
@@ -96,34 +94,12 @@
     }
   },
   {
-    "id": "npo1:1792107300000:1f3cpph",
-    "channel": "npo1",
-    "title": "Pauw & De Wit",
-    "start": 1792107300000,
-    "end": 1792110960000,
-    "description": "Talkshow over de actualiteit.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-783258152.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1792110960000:1qmbii9",
+    "id": "npo1:1792109700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792110960000,
-    "end": 1792112220000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "start": 1792109700000,
+    "end": 1792110900000,
+    "description": "Met sport: * Voetbal: Nederlandse clubs in Europa...",
     "category": [
       "Actueel"
     ],
@@ -143,10 +119,10 @@
     }
   },
   {
-    "id": "npo1:1792112220000:1qmbii9",
+    "id": "npo1:1792110900000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792112220000,
+    "start": 1792110900000,
     "end": 1792122600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [

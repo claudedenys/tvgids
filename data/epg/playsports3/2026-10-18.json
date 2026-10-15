@@ -58,65 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1792299600000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1792299600000,
-    "end": 1792303800000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1dac52ce8b026f895b361671876b47c7a6ff4d1e",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1792303800000:1va4v2m",
+    "id": "playsports3:1792304520000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1792303800000,
-    "end": 1792310100000,
-    "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558361~~2FEP035850992007%2Cimi%3Add0cdf08a599d38961217c7945f492ea6bf0b0df/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026100907,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558361~~2FEP035850992007,imi:dd0cdf08a599d38961217c7945f492ea6bf0b0df",
-      "episodeName": "PSV - sc Heerenveen",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1792310100000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1792310100000,
-    "end": 1792316340000,
+    "start": 1792304520000,
+    "end": 1792310940000,
     "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -142,11 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1792316340000:1va4v2m",
+    "id": "playsports3:1792310940000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1792316340000,
-    "end": 1792322700000,
+    "start": 1792310940000,
+    "end": 1792317300000,
     "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -169,6 +115,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1792317300000:3tkxx5",
+    "channel": "playsports3",
+    "title": "MIDMID",
+    "start": 1792317300000,
+    "end": 1792322700000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjes.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34346461~~2FEP037584270193%2Cimi%3A9231f4ac25b125975aba595acedcfad4cadb8a37/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34346461~~2FEP037584270193,imi:9231f4ac25b125975aba595acedcfad4cadb8a37",
+      "episodeName": "Ralf Seuntjens",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
@@ -281,7 +257,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34346461~~2FEP037584270193,imi:ea626767035d774e2598c3fd3c20f88a6d8247a3",
-      "episodeName": "Aflevering 5",
+      "episodeName": "Ralf Seuntjens",
       "genres": [
         "Voetbal",
         "Sporttalkshow"

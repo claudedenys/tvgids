@@ -1347,22 +1347,28 @@
     "title": "Grizzy en de Lemmingen",
     "start": 1792320300000,
     "end": 1792320900000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20822425~~2FEP027991320377%2Cimi%3Ab12d699a3905c7337c6b15932d14157d57082535/posterTile",
+    "description": "Grizzy probeert een beeld van de Lemmingen te pakken te krijgen waar hij mee zou kunnen toveren door er een foto op te prikken. Hij plakt er een foto van een berenvrouwtje op.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20600946~~2FEP027991320375%2Cimi%3A9fe1b57e8e3cc45b34d0f0c8c49ea64255f5a2af/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 3,
+    "episode": 40,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F20822425~~2FEP027991320377,imi:b12d699a3905c7337c6b15932d14157d57082535",
-      "episodeName": "Gemaskerde krachten",
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20600946~~2FEP027991320375,imi:9fe1b57e8e3cc45b34d0f0c8c49ea64255f5a2af",
+      "episodeName": "De terugkeer van de geliefde",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH027991320000"
     }
   },
   {

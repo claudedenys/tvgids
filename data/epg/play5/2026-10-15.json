@@ -1,10 +1,40 @@
 [
   {
-    "id": "play5:1792022400000:1vr1iur",
+    "id": "play5:1792019100000:1l3wd65",
+    "channel": "play5",
+    "title": "Superman & Lois",
+    "start": 1792019100000,
+    "end": 1792022700000,
+    "description": "Lois zet steeds gedurfdere stappen als ze Luthor probeert te stoppen. Jonathan heeft moeite om zijn persoonlijke leven en verantwoordelijkheden in balans te krijgen, terwijl Clark een verontrustende waarheid onder ogen ziet.",
+    "category": [
+      "Dramaserie",
+      "Actie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28606655~~2FEP043728750049%2Cimi%3Aca20a30e88733737664d277923d81dbd39e02192/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 4,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28606655~~2FEP043728750049,imi:ca20a30e88733737664d277923d81dbd39e02192",
+      "episodeName": "Break the Cycle",
+      "genres": [
+        "Dramaserie",
+        "Actie"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F18320269~~2FSH043728750000"
+    }
+  },
+  {
+    "id": "play5:1792022700000:1vr1iur",
     "channel": "play5",
     "title": "How to Get Away With Murder",
-    "start": 1792022400000,
-    "end": 1792025700000,
+    "start": 1792022700000,
+    "end": 1792025400000,
     "description": "De spanning in de rechtszaal loopt hoog op wanneer de aanklager een nieuwe beschuldiging tegen Annalise op tafel legt. Nate ontdekt een cruciaal element dat zijn eigen onschuld in gevaar dreigt te brengen.",
     "category": [
       "Dramaserie",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1792025700000:48zb9",
+    "id": "play5:1792025400000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1792025700000,
-    "end": 1792033200000,
+    "start": 1792025400000,
+    "end": 1792033020000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:38ee258f8d8397c144bf2ae128d72f2783ceefdd",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1792033020000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1792033020000,
+    "end": 1792033200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f94c5aab521b456fb2832701ff5d6f914c985476",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -669,7 +723,7 @@
     "title": "Doc",
     "start": 1792092300000,
     "end": 1792095900000,
-    "description": "Na een auto-ongeluk kan dr. Amy Larsen zich niks meer herinneren van de laatste acht jaar van haar leven. Met weinig herinneringen die ze nog heeft, bouwt ze stukje bij beetje haar leven weer op.",
+    "description": "Bij zijn terugkeer stuit Richard op vijandigheid. Hij probeert zich te herpakken terwijl hij een overwerkte maaltijdbezorger behandelt. Sonya en TJ schakelen de hulp van Jake in bij de delicate kwestie rond Joan.",
     "category": [
       "Dramaserie",
       "Medisch"

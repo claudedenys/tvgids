@@ -1,9 +1,37 @@
 [
   {
-    "id": "vrt1:1792017300000:n5mqgl",
+    "id": "vrt1:1792018500000:1vwoq3q",
+    "channel": "vrt1",
+    "title": "VRT NWS Villa Politica",
+    "start": 1792018500000,
+    "end": 1792023900000,
+    "description": "Politieke verslaggeving vanuit het Vlaams en Federaal Parlement.",
+    "category": [
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34218697~~2FEP032303440365%2Cimi%3Ac6293dd9405eff7c5e5d518ce7ed7ee013c4fce9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 52,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34218697~~2FEP032303440365,imi:c6293dd9405eff7c5e5d518ce7ed7ee013c4fce9",
+      "episodeName": "Aflevering 52",
+      "genres": [
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F614a228b-3d84-4adf-a71f-048b0d447726"
+    }
+  },
+  {
+    "id": "vrt1:1792023900000:n5mqgl",
     "channel": "vrt1",
     "title": "Journaallus",
-    "start": 1792017300000,
+    "start": 1792023900000,
     "end": 1792036800000,
     "description": "Doorlopende herhalingen van het journaal in lusvorm tot de volgende ochtend.",
     "category": [
@@ -590,31 +618,31 @@
     }
   },
   {
-    "id": "vrt1:1792054800000:1vwoq3q",
+    "id": "vrt1:1792054800000:1jdr2w0",
     "channel": "vrt1",
-    "title": "VRT NWS Villa Politica",
+    "title": "Herfstbeelden",
     "start": 1792054800000,
     "end": 1792059000000,
-    "description": "Politieke verslaggeving vanuit het Vlaams en Federaal Parlement.",
+    "description": "Programma met beelden van de herfst.",
     "category": [
-      "Politiek"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34282281~~2FEP032303440366%2Cimi%3A81e9e8e4be5354d70ea3fcdea2283d405cc76298/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28261818~~2FEP033154570024%2Cimi%3A14a08f179a81fc8ef4e335c3bce9b9d857649219/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 53,
+    "season": 102014,
+    "episode": 14,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34282281~~2FEP032303440366,imi:81e9e8e4be5354d70ea3fcdea2283d405cc76298",
-      "episodeName": "Aflevering 53",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28261818~~2FEP033154570024,imi:14a08f179a81fc8ef4e335c3bce9b9d857649219",
+      "episodeName": "Aflevering 14",
       "genres": [
-        "Politiek"
+        "Entertainment"
       ],
-      "productionDate": "2026",
+      "productionDate": "2014",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F614a228b-3d84-4adf-a71f-048b0d447726"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
     }
   },
   {
@@ -799,16 +827,16 @@
     "category": [
       "Politiek"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34282283~~2FEP032303440367%2Cimi%3Ac3d1574a19ba286df8921df87e7a53b4b8ef9a85/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34282281~~2FEP032303440366%2Cimi%3A81e9e8e4be5354d70ea3fcdea2283d405cc76298/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
-    "episode": 54,
+    "episode": 53,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34282283~~2FEP032303440367,imi:c3d1574a19ba286df8921df87e7a53b4b8ef9a85",
-      "episodeName": "Aflevering 54",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34282281~~2FEP032303440366,imi:81e9e8e4be5354d70ea3fcdea2283d405cc76298",
+      "episodeName": "Aflevering 53",
       "genres": [
         "Politiek"
       ],
@@ -1085,7 +1113,7 @@
     "title": "Thuis",
     "start": 1792089000000,
     "end": 1792090800000,
-    "description": "Peter voelt dat Christine hem op een afstand houdt en vindt dat niet fijn. Kaat probeert Femke te helpen maar wordt direct afgesnauwd. Marie en Tom hebben het over de toekomst.",
+    "description": "Peter voelt dat Christine hem op een afstand houdt en vindt dat niet fijn. Kaat probeert Femke te helpen, maar wordt direct afgesnauwd. Marie en Tom hebben het over de toekomst.",
     "category": [
       "Dramaserie",
       "Soap"
@@ -1231,7 +1259,7 @@
     "title": "VRT NWS Pano",
     "start": 1792098000000,
     "end": 1792100640000,
-    "description": "Duidingsmagazine met indringende reportages over de grote thema's van deze tijd. Een gedreven team van reporters diept de beste nieuwsverhalen uit en zoekt het antwoord op actuele vragen.",
+    "description": "In 2009 maakte Pano, toen nog Panorama, een veelbesproken reportage over de overbevolking in de gevangenissen: Prison complet. Zestien jaar later doet VRT NWS Pano het opnieuw, met Overbevolkt.",
     "category": [
       "Docu"
     ],
@@ -1289,7 +1317,7 @@
     "title": "Thuis",
     "start": 1792100700000,
     "end": 1792102200000,
-    "description": "Peter voelt dat Christine hem op een afstand houdt en vindt dat niet fijn. Kaat probeert Femke te helpen maar wordt direct afgesnauwd. Marie en Tom hebben het over de toekomst.",
+    "description": "Peter voelt dat Christine hem op een afstand houdt en vindt dat niet fijn. Kaat probeert Femke te helpen, maar wordt direct afgesnauwd. Marie en Tom hebben het over de toekomst.",
     "category": [
       "Dramaserie",
       "Soap"

@@ -60,7 +60,7 @@
     "channel": "playsports2",
     "title": "Play Sports",
     "start": 1792231200000,
-    "end": 1792252800000,
+    "end": 1792245300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -84,11 +84,41 @@
     }
   },
   {
-    "id": "playsports2:1792252800000:xykime",
+    "id": "playsports2:1792245300000:1prlzbg",
+    "channel": "playsports2",
+    "title": "Premier League",
+    "start": 1792245300000,
+    "end": 1792252500000,
+    "description": "Vanuit het Gtech Community Stadium in Brentford, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583519~~2FEP033946612495%2Cimi%3A495b854ae74a9ca12e2b76058493caddb1d75435/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101795,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583519~~2FEP033946612495,imi:495b854ae74a9ca12e2b76058493caddb1d75435",
+      "episodeName": "Brentford - Liverpool",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports2:1792252500000:xykime",
     "channel": "playsports2",
     "title": "Play Sports",
-    "start": 1792252800000,
-    "end": 1792274400000,
+    "start": 1792252500000,
+    "end": 1792254300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -102,6 +132,64 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:fa666ff0a9eb44a0a5fd6118df155e401b0cd637",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports2:1792254300000:11wg5yb",
+    "channel": "playsports2",
+    "title": "Bundesliga",
+    "start": 1792254300000,
+    "end": 1792261500000,
+    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869%2Cimi%3A951eef3d74dc03be1a2036f54001506f850f2113/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101769,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869,imi:951eef3d74dc03be1a2036f54001506f850f2113",
+      "episodeName": "Bayern München - RB Leipzig",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports2:1792261500000:xykime",
+    "channel": "playsports2",
+    "title": "Play Sports",
+    "start": 1792261500000,
+    "end": 1792274400000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Aefde51c48a78772d4ac885a9a79ecc896de5531a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:efde51c48a78772d4ac885a9a79ecc896de5531a",
       "episodeName": null,
       "genres": [
         "Sport"

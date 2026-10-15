@@ -148,99 +148,153 @@
     }
   },
   {
-    "id": "playsports3:1792242000000:29x1rm",
+    "id": "playsports3:1792242000000:i67pjl",
     "channel": "playsports3",
-    "title": "UEFA Youth League",
+    "title": "Play Sports Highlights",
     "start": 1792242000000,
-    "end": 1792248420000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34080998~~2FEP040031410272%2Cimi%3A1419f2a711601927ce9cf0e72b685e7c6b2556ba/posterTile",
+    "end": 1792243500000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566072058%2Cimi%3Aa8a15631fb6cdbaca26342712502b655e45bd7ab/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 566072058,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34080998~~2FEP040031410272,imi:1419f2a711601927ce9cf0e72b685e7c6b2556ba",
-      "episodeName": "Manchester City O19 - Paris Saint-Germain O19",
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": true,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1792248420000:ear1gl",
-    "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1792248420000,
-    "end": 1792254780000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33415204~~2FEP028036721233%2Cimi%3Aea4c62c44912a28a0cdf1d275e5c9fcd3ff1735d/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33415204~~2FEP028036721233,imi:ea4c62c44912a28a0cdf1d275e5c9fcd3ff1735d",
-      "episodeName": "Benfica - Celtic",
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": true,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1792254780000:ear1gl",
-    "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1792254780000,
-    "end": 1792261080000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33415160~~2FEP028036721231%2Cimi%3A091e8176cb2f8a4e10a98620f581005eef82b4fe/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33415160~~2FEP028036721231,imi:091e8176cb2f8a4e10a98620f581005eef82b4fe",
-      "episodeName": "Celta de Vigo - Juventus",
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": true,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1792261080000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1792261080000,
-    "end": 1792262400000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2afe1742583ea188588f77012fa116a9aad0d497",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566072058,imi:a8a15631fb6cdbaca26342712502b655e45bd7ab",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1792243500000:11wg5yb",
+    "channel": "playsports3",
+    "title": "Bundesliga",
+    "start": 1792243500000,
+    "end": 1792250700000,
+    "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614482~~2FEP033948601872%2Cimi%3A3f0ec28c5f112f7cae1a2c87fceb0d66a2a84e11/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101772,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614482~~2FEP033948601872,imi:3f0ec28c5f112f7cae1a2c87fceb0d66a2a84e11",
+      "episodeName": "FC Union Berlin - Borussia Dortmund",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports3:1792250700000:1p2p7re",
+    "channel": "playsports3",
+    "title": "The Paddock Podcast",
+    "start": 1792250700000,
+    "end": 1792254300000,
+    "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34189352~~2FEP063090210021%2Cimi%3A0f2692052141052515054918490db624e9061764/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 19,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34189352~~2FEP063090210021,imi:0f2692052141052515054918490db624e9061764",
+      "episodeName": "Aflevering 19",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20976076~~2FSH063090210000"
+    }
+  },
+  {
+    "id": "playsports3:1792254300000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1792254300000,
+    "end": 1792257000000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566267471%2Cimi%3Ab3dceddd15d49e28e7c4922235c1019523a4dfb2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 566267471,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566267471,imi:b3dceddd15d49e28e7c4922235c1019523a4dfb2",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1792257000000:3tkxx5",
+    "channel": "playsports3",
+    "title": "MIDMID",
+    "start": 1792257000000,
+    "end": 1792262400000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjes.",
+    "category": [
+      "Voetbal",
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34346461~~2FEP037584270193%2Cimi%3Ad4bca4608f4c4a83898dbe896777ba3c7feece0a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34346461~~2FEP037584270193,imi:d4bca4608f4c4a83898dbe896777ba3c7feece0a",
+      "episodeName": "Ralf Seuntjens",
+      "genres": [
+        "Voetbal",
+        "Sporttalkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
@@ -304,27 +358,33 @@
     }
   },
   {
-    "id": "playsports3:1792271400000:48zb9",
+    "id": "playsports3:1792271400000:i67pjl",
     "channel": "playsports3",
-    "title": "Geen uitzending",
+    "title": "Play Sports Highlights",
     "start": 1792271400000,
     "end": 1792274100000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566072060%2Cimi%3Ad6f20fdf2fd979c61455c3b485b82287a9ceb4ff/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 566072060,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9a04e6aefc9b41276671f2d205f5cae54e1db6c2",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566072060,imi:d6f20fdf2fd979c61455c3b485b82287a9ceb4ff",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {

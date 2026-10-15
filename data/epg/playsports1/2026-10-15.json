@@ -1,15 +1,15 @@
 [
   {
-    "id": "playsports1:1792021620000:xykime",
+    "id": "playsports1:1792020660000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1792021620000,
-    "end": 1792040400000,
+    "start": 1792020660000,
+    "end": 1792041600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Acf3f547a0fb7419744e40a351ef941ec80f25d6e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A2545f9d1404ce6b3977722d8015f5880131137f1/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,35 +17,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:cf3f547a0fb7419744e40a351ef941ec80f25d6e",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:2545f9d1404ce6b3977722d8015f5880131137f1",
       "episodeName": null,
       "genres": [
         "Sport"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1792040400000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1792040400000,
-    "end": 1792041600000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a24c3b8e07a07f915904a32fe5c0d36bc5034d54",
-      "episodeName": null,
-      "genres": [],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
@@ -86,7 +62,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1792048140000,
-    "end": 1792054740000,
+    "end": 1792054800000,
     "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
     "category": [
       "Sport",
@@ -112,17 +88,17 @@
     }
   },
   {
-    "id": "playsports1:1792054740000:11wg5yb",
+    "id": "playsports1:1792054800000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792054740000,
-    "end": 1792061100000,
+    "start": 1792054800000,
+    "end": 1792061220000,
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865%2Cimi%3Aea1bd20ef0178668f23dd875bf5abb4e7f75e72b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865%2Cimi%3Ae413d9bf6cfb18259f07f2f687f98e743af7c3c8/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -130,7 +106,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865,imi:ea1bd20ef0178668f23dd875bf5abb4e7f75e72b",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614216~~2FEP033948601865,imi:e413d9bf6cfb18259f07f2f687f98e743af7c3c8",
       "episodeName": "SC Freiburg - FC Schalke 04",
       "genres": [
         "Sport",
@@ -142,17 +118,17 @@
     }
   },
   {
-    "id": "playsports1:1792061100000:1prlzbg",
+    "id": "playsports1:1792061220000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792061100000,
-    "end": 1792067460000,
+    "start": 1792061220000,
+    "end": 1792067580000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485%2Cimi%3A0d8efb29184b90eff6e83b1c5268b9382fb4b995/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485%2Cimi%3Ae278d90bdee11ab91a6873c3b945249e1da69f43/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -160,7 +136,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485,imi:0d8efb29184b90eff6e83b1c5268b9382fb4b995",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485,imi:e278d90bdee11ab91a6873c3b945249e1da69f43",
       "episodeName": "Arsenal - Leeds United",
       "genres": [
         "Sport",
@@ -172,17 +148,17 @@
     }
   },
   {
-    "id": "playsports1:1792067460000:1prlzbg",
+    "id": "playsports1:1792067580000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792067460000,
+    "start": 1792067580000,
     "end": 1792073640000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483%2Cimi%3A419baca4f9b3dd7f625defc7bffcf7310bb4b57e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483%2Cimi%3A87de589c4a3ce4df3d5886b261eb63b4077ee502/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -190,7 +166,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483,imi:419baca4f9b3dd7f625defc7bffcf7310bb4b57e",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483,imi:87de589c4a3ce4df3d5886b261eb63b4077ee502",
       "episodeName": "Chelsea - Bournemouth",
       "genres": [
         "Sport",
@@ -206,7 +182,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1792073640000,
-    "end": 1792080000000,
+    "end": 1792080060000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -232,17 +208,17 @@
     }
   },
   {
-    "id": "playsports1:1792080000000:amnfa6",
+    "id": "playsports1:1792080060000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
-    "start": 1792080000000,
-    "end": 1792083300000,
+    "start": 1792080060000,
+    "end": 1792083180000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34117225~~2FEP055411400065%2Cimi%3A52858c1ec5646404e93c3f31f45828f73ee41b88/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34117225~~2FEP055411400065%2Cimi%3A080c9a194a80bcb413935087e29eb9c9540909ad/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -250,7 +226,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34117225~~2FEP055411400065,imi:52858c1ec5646404e93c3f31f45828f73ee41b88",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34117225~~2FEP055411400065,imi:080c9a194a80bcb413935087e29eb9c9540909ad",
       "episodeName": null,
       "genres": [
         "Sport",
@@ -262,17 +238,17 @@
     }
   },
   {
-    "id": "playsports1:1792083300000:fly4em",
+    "id": "playsports1:1792083180000:fly4em",
     "channel": "playsports1",
     "title": "Bundesliga Highlights",
-    "start": 1792083300000,
-    "end": 1792086600000,
+    "start": 1792083180000,
+    "end": 1792086300000,
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240659~~2FEP050961140063%2Cimi%3Aabc6c229ebb75a7faad07b93586ccda7249c9d67/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240659~~2FEP050961140063%2Cimi%3A418059fcdd87163bda0bc1f6f283b45d2939b188/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -280,7 +256,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240659~~2FEP050961140063,imi:abc6c229ebb75a7faad07b93586ccda7249c9d67",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240659~~2FEP050961140063,imi:418059fcdd87163bda0bc1f6f283b45d2939b188",
       "episodeName": "Aflevering 5",
       "genres": [
         "Sport",
@@ -292,17 +268,17 @@
     }
   },
   {
-    "id": "playsports1:1792086600000:qjkkk5",
+    "id": "playsports1:1792086300000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1792086600000,
-    "end": 1792088100000,
+    "start": 1792086300000,
+    "end": 1792087860000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274%2Cimi%3A13d4b681a20689b3a4f4b2d5dba1d59024d32f86/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274%2Cimi%3A7600640e6a8dc89046ee0d3e90fa5eb07963f123/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 6,
@@ -310,7 +286,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274,imi:13d4b681a20689b3a4f4b2d5dba1d59024d32f86",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274,imi:7600640e6a8dc89046ee0d3e90fa5eb07963f123",
       "episodeName": "Granit Xhaka",
       "genres": [
         "Docu",
@@ -322,17 +298,17 @@
     }
   },
   {
-    "id": "playsports1:1792088100000:1prlzbg",
+    "id": "playsports1:1792087860000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792088100000,
-    "end": 1792094100000,
+    "start": 1792087860000,
+    "end": 1792093980000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478%2Cimi%3Ad290370eda6ce38843077fd1f2c033aa8aa3b8e1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478%2Cimi%3A3721f94f1c26a30528d6570414d61d7a250d3e67/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -340,7 +316,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478,imi:d290370eda6ce38843077fd1f2c033aa8aa3b8e1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478,imi:3721f94f1c26a30528d6570414d61d7a250d3e67",
       "episodeName": "Liverpool - Manchester City",
       "genres": [
         "Sport",
@@ -352,17 +328,17 @@
     }
   },
   {
-    "id": "playsports1:1792094100000:1prlzbg",
+    "id": "playsports1:1792093980000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792094100000,
-    "end": 1792100460000,
+    "start": 1792093980000,
+    "end": 1792100520000,
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582613~~2FEP033946612484%2Cimi%3A73a3e8f0462c6e3f24f18084afdcf965ebe344e6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582613~~2FEP033946612484%2Cimi%3Ab23a4d32fe98369db81f9b931f8edb75ecf2f792/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -370,7 +346,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582613~~2FEP033946612484,imi:73a3e8f0462c6e3f24f18084afdcf965ebe344e6",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582613~~2FEP033946612484,imi:b23a4d32fe98369db81f9b931f8edb75ecf2f792",
       "episodeName": "Sunderland - Brighton & Hove Albion",
       "genres": [
         "Sport",
@@ -382,17 +358,17 @@
     }
   },
   {
-    "id": "playsports1:1792100460000:1prlzbg",
+    "id": "playsports1:1792100520000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792100460000,
-    "end": 1792107060000,
+    "start": 1792100520000,
+    "end": 1792107120000,
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481%2Cimi%3A68d6b7f21c1d377c951c28376859e3b284194aae/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481%2Cimi%3A8b39cbb0f51907cea7d45d7dd2d66999e6164a88/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -400,7 +376,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481,imi:68d6b7f21c1d377c951c28376859e3b284194aae",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481,imi:8b39cbb0f51907cea7d45d7dd2d66999e6164a88",
       "episodeName": "Crystal Palace - Nottingham Forest",
       "genres": [
         "Sport",

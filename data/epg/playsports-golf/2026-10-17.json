@@ -180,51 +180,33 @@
     }
   },
   {
-    "id": "playsports-golf:1792236600000:qt4vc6",
+    "id": "playsports-golf:1792236600000:zzkb3f",
     "channel": "playsports-golf",
-    "title": "HotelPlanner Tour Series Hoogtepunten",
+    "title": "DP World Tour",
     "start": 1792236600000,
-    "end": 1792238400000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34180413~~2FEP055625730058%2Cimi%3A1cd370a8bd031e357fcc7cd1ab0f1897adab60ab/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34180413~~2FEP055625730058,imi:1cd370a8bd031e357fcc7cd1ab0f1897adab60ab",
-      "episodeName": "Hainan Open",
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports-golf:1792238400000:lt7aff",
-    "channel": "playsports-golf",
-    "title": "DP World Tour Hoogtepunten",
-    "start": 1792238400000,
     "end": 1792240200000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34173469~~2FEP049393090260%2Cimi%3Aebfb980cac9c9aa5cecb042b12a3bf452fa3030f/posterTile",
+    "description": "Verslag van de derde dag van de DP World India Championship, gespeeld in New Delhi, India.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825401~~2FEP049392790492%2Cimi%3A5266f667c78486f9f3220aa65cf1990156d5c5a4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 92790000,
+    "episode": 2026101792,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34173469~~2FEP049393090260,imi:ebfb980cac9c9aa5cecb042b12a3bf452fa3030f",
-      "episodeName": "Open de España",
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825401~~2FEP049392790492,imi:5266f667c78486f9f3220aa65cf1990156d5c5a4",
+      "episodeName": "DP World India Championship: Dag 3",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
     }
   },
   {

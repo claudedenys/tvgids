@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports1:1792191600000:xykime",
+    "id": "playsports1:1792189800000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792189800000,
+    "end": 1792196580000,
+    "description": "Vanuit Selhurst Park in Londen, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481%2Cimi%3A14393da231da4a34efbb22570f59c3980f942ffc/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101181,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582532~~2FEP033946612481,imi:14393da231da4a34efbb22570f59c3980f942ffc",
+      "episodeName": "Crystal Palace - Nottingham Forest",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792196580000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1792191600000,
-    "end": 1792212600000,
+    "start": 1792196580000,
+    "end": 1792212000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,11 +58,11 @@
     }
   },
   {
-    "id": "playsports1:1792212600000:11wg5yb",
+    "id": "playsports1:1792212000000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792212600000,
-    "end": 1792218840000,
+    "start": 1792212000000,
+    "end": 1792218480000,
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "category": [
       "Sport",
@@ -58,10 +88,10 @@
     }
   },
   {
-    "id": "playsports1:1792218840000:11wg5yb",
+    "id": "playsports1:1792218480000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792218840000,
+    "start": 1792218480000,
     "end": 1792225140000,
     "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
     "category": [
@@ -362,7 +392,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1792262940000,
-    "end": 1792269240000,
+    "end": 1792269540000,
     "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
     "category": [
       "Sport",
@@ -388,11 +418,11 @@
     }
   },
   {
-    "id": "playsports1:1792269240000:11wg5yb",
+    "id": "playsports1:1792269540000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792269240000,
-    "end": 1792275660000,
+    "start": 1792269540000,
+    "end": 1792275960000,
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
     "category": [
       "Sport",

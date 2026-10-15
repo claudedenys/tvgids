@@ -58,36 +58,6 @@
     }
   },
   {
-    "id": "playsports1:1792299000000:1prlzbg",
-    "channel": "playsports1",
-    "title": "Premier League",
-    "start": 1792299000000,
-    "end": 1792305360000,
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485%2Cimi%3Ad9ea33be1b847953431a7ed04959c85d954634b2/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101085,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582630~~2FEP033946612485,imi:d9ea33be1b847953431a7ed04959c85d954634b2",
-      "episodeName": "Arsenal - Leeds United",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
     "id": "playsports1:1792300800000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
@@ -118,11 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1792305360000:1prlzbg",
+    "id": "playsports1:1792307160000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792305360000,
-    "end": 1792311420000,
+    "start": 1792307160000,
+    "end": 1792313340000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
@@ -148,34 +118,10 @@
     }
   },
   {
-    "id": "playsports1:1792311420000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1792311420000,
-    "end": 1792312740000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f08638e50616955d6e5958720e84173742cc73f5",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1792312740000:1prlzbg",
+    "id": "playsports1:1792313340000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792312740000,
+    "start": 1792313340000,
     "end": 1792320000000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [

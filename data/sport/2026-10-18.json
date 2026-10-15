@@ -169,29 +169,6 @@
     "competition": null,
     "sport": null,
     "start": 1792317600000,
-    "end": 1792339200000,
-    "status": "aankomend",
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 2"
-    ],
-    "channels": [
-      "Play Sports 2"
-    ],
-    "channelIds": [
-      "playsports2"
-    ]
-  },
-  {
-    "id": "sport:playsports2:1792317600000:xykime",
-    "externalId": null,
-    "title": "Play Sports",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1792317600000,
     "end": 1792329900000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -253,6 +230,29 @@
     ]
   },
   {
+    "id": "sport:playsports3:1792317300000:3tkxx5",
+    "externalId": null,
+    "title": "Ralf Seuntjens",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1792317300000,
+    "end": 1792322700000,
+    "status": "aankomend",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjes.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:playsports3:1792329900000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
@@ -301,7 +301,7 @@
   {
     "id": "sport:playsports3:1792335300000:3tkxx5",
     "externalId": null,
-    "title": "Aflevering 5",
+    "title": "Ralf Seuntjens",
     "home": null,
     "away": null,
     "competition": null,
@@ -460,29 +460,6 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792299300000:5qme33",
-    "externalId": null,
-    "title": "WTA1000: Dag 11",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1792299300000,
-    "end": 1792306500000,
-    "status": "aankomend",
-    "description": "Verslag van de China Open, gespeeld in Peking, China.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
     "id": "sport:playsports4:1792302000000:5qme33",
     "externalId": null,
     "title": "WTA1000: Dag 11",
@@ -506,15 +483,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792306500000:5qme33",
+    "id": "sport:playsports4:1792308360000:5qme33",
     "externalId": null,
-    "title": "WTA1000: Dag 11",
+    "title": "WTA1000: Dag 12, Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792306500000,
-    "end": 1792313700000,
+    "start": 1792308360000,
+    "end": 1792316340000,
     "status": "aankomend",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
@@ -529,15 +506,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792313700000:5qme33",
+    "id": "sport:playsports4:1792316340000:5qme33",
     "externalId": null,
-    "title": "WTA1000: Dag 12, Finale",
+    "title": "WTA1000: Dag 11",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792313700000,
-    "end": 1792321680000,
+    "start": 1792316340000,
+    "end": 1792322700000,
     "status": "aankomend",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
@@ -623,7 +600,7 @@
   {
     "id": "sport:playsports4:1792347900000:3tkxx5",
     "externalId": null,
-    "title": "Aflevering 5",
+    "title": "Ralf Seuntjens",
     "home": null,
     "away": null,
     "competition": null,
@@ -874,17 +851,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1792321200000:v0dpte",
+    "id": "sport:playsports-golf:1792321200000:qt4vc6",
     "externalId": null,
-    "title": "Aramco Korea Championship",
+    "title": "Hainan Open",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
+    "sport": "Golf",
     "start": 1792321200000,
-    "end": 1792324800000,
+    "end": 1792323000000,
     "status": "aankomend",
-    "description": null,
+    "description": "Hoogtepunten van de Hainan Open, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1150,29 +1127,6 @@
     ]
   },
   {
-    "id": "sport:match:1792299000000:arsenal - leeds united",
-    "externalId": null,
-    "title": "Arsenal - Leeds United",
-    "home": "Arsenal",
-    "away": "Leeds United",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1792299000000,
-    "end": 1792305360000,
-    "status": "aankomend",
-    "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
     "id": "sport:match:1792300800000:arsenal - leeds united",
     "externalId": null,
     "title": "Arsenal - Leeds United",
@@ -1196,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1792305360000:chelsea - bournemouth",
+    "id": "sport:match:1792307160000:chelsea - bournemouth",
     "externalId": null,
     "title": "Chelsea - Bournemouth",
     "home": "Chelsea",
     "away": "Bournemouth",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792305360000,
-    "end": 1792311420000,
+    "start": 1792307160000,
+    "end": 1792313340000,
     "status": "aankomend",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
@@ -1219,14 +1173,14 @@
     ]
   },
   {
-    "id": "sport:match:1792312740000:manchester united - tottenham hotspur",
+    "id": "sport:match:1792313340000:manchester united - tottenham hotspur",
     "externalId": null,
     "title": "Manchester United - Tottenham Hotspur",
     "home": "Manchester United",
     "away": "Tottenham Hotspur",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792312740000,
+    "start": 1792313340000,
     "end": 1792320000000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
@@ -1426,38 +1380,15 @@
     ]
   },
   {
-    "id": "sport:match:1792303800000:psv - sc heerenveen",
-    "externalId": null,
-    "title": "PSV - sc Heerenveen",
-    "home": "PSV",
-    "away": "sc Heerenveen",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1792303800000,
-    "end": 1792310100000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792310100000:feyenoord - az",
+    "id": "sport:match:1792304520000:feyenoord - az",
     "externalId": null,
     "title": "Feyenoord - AZ",
     "home": "Feyenoord",
     "away": "AZ",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1792310100000,
-    "end": 1792316340000,
+    "start": 1792304520000,
+    "end": 1792310940000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1472,15 +1403,15 @@
     ]
   },
   {
-    "id": "sport:match:1792316340000:ajax - n.e.c.",
+    "id": "sport:match:1792310940000:ajax - n.e.c.",
     "externalId": null,
     "title": "Ajax - N.E.C.",
     "home": "Ajax",
     "away": "N.E.C.",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1792316340000,
-    "end": 1792322700000,
+    "start": 1792310940000,
+    "end": 1792317300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",

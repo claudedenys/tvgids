@@ -596,21 +596,21 @@
     "channel": "vrt1",
     "title": "Herfstbeelden",
     "start": 1792228200000,
-    "end": 1792230000000,
+    "end": 1792230300000,
     "description": "Programma met beelden van de herfst.",
     "category": [
       "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22919293~~2FEP033154570015%2Cimi%3Ad3797a25d1e490624135c21e833d9ea7e683474b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22919301~~2FEP033154570016%2Cimi%3A875323733fdf17fe13dc9f959380794affaa7b3c/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102014,
-    "episode": 6,
+    "episode": 7,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22919293~~2FEP033154570015,imi:d3797a25d1e490624135c21e833d9ea7e683474b",
-      "episodeName": "Aflevering 6",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22919301~~2FEP033154570016,imi:875323733fdf17fe13dc9f959380794affaa7b3c",
+      "episodeName": "Aflevering 7",
       "genres": [
         "Entertainment"
       ],
@@ -620,10 +620,10 @@
     }
   },
   {
-    "id": "vrt1:1792230000000:ykw7nd",
+    "id": "vrt1:1792230300000:ykw7nd",
     "channel": "vrt1",
     "title": "Dagelijkse kost",
-    "start": 1792230000000,
+    "start": 1792230300000,
     "end": 1792231200000,
     "description": "Kruimeldeegtaart met een vulling van dulce de leche, schijfjes banaan en slagroom, afgewerkt met chocolade.",
     "category": [
@@ -796,7 +796,7 @@
     "channel": "vrt1",
     "title": "Clips",
     "start": 1792246800000,
-    "end": 1792248300000,
+    "end": 1792247400000,
     "description": "Clips.",
     "category": [
       "Entertainment"
@@ -820,10 +820,40 @@
     }
   },
   {
-    "id": "vrt1:1792248300000:4m7t01",
+    "id": "vrt1:1792247400000:rrx6rb",
+    "channel": "vrt1",
+    "title": "Vlaanderen Vakantieland",
+    "start": 1792247400000,
+    "end": 1792248600000,
+    "description": "Maureen Vanherberghen en sportanker Tess Elst maken Haspengouw onveilig. Maureen en Tess vertrekken in Tongeren voor een autozoektocht die hen langs Borgloon en Bilzen brengt.",
+    "category": [
+      "Reizen",
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24757844~~2FEP038364380054%2Cimi%3Ac8d439f7a565296a2cc7c582423d76cd0491a565/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 10,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24757844~~2FEP038364380054,imi:c8d439f7a565296a2cc7c582423d76cd0491a565",
+      "episodeName": "Haspengouw",
+      "genres": [
+        "Reizen",
+        "Entertainment"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F160f2103-df40-46e7-a742-9005106a8c36"
+    }
+  },
+  {
+    "id": "vrt1:1792248600000:4m7t01",
     "channel": "vrt1",
     "title": "Witse",
-    "start": 1792248300000,
+    "start": 1792248600000,
     "end": 1792252020000,
     "description": "Witse onderzoekt de dood van de dochter van een meubelgigant, die op een parkeerterrein is gevonden. Tijdens het onderzoek blijkt dat het meisje een geheim leven leidde waar haar strenge vader niets van wist.",
     "category": [

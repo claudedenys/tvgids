@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1792021200000:rmqxmh",
+    "id": "play7:1792021800000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1792021200000,
-    "end": 1792024800000,
+    "start": 1792021800000,
+    "end": 1792024500000,
     "description": "Danni Menzies helpt Glenys uit Solihull bij het zoeken naar een vakantiehuis in La Mata aan de Spaanse Costa Blanca. Met een budget van 140.000 pond neemt ze haar vriendin Martine mee om haar te helpen bij het vinden van de perfecte woning.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1792024800000:48zb9",
+    "id": "play7:1792024500000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1792024800000,
-    "end": 1792033200000,
+    "start": 1792024500000,
+    "end": 1792033020000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:824d050cd940292bc5f237462f5bf165a4a35372",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1792033020000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1792033020000,
+    "end": 1792033200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:076172cb59254917530fc79d60b5751d26f13ed5",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -471,7 +495,7 @@
     "title": "A Place in the Sun",
     "start": 1792070700000,
     "end": 1792074300000,
-    "description": "Koppels zoeken hun droomhuis in het buitenland terwijl ze worden begeleid door een expert die hen helpt de perfecte plek in de zon te vinden.",
+    "description": "Ben Hillman is op het Griekse eiland Korfoe om Nick en Denise te helpen bij de aankoop van een vakantiehuis. Hij heeft vijf prachtige woningen geselecteerd die binnen hun budget van £ 300.000 vallen. Zullen Nick en Denise een bod uitbrengen?",
     "category": [
       "Huis & Tuin",
       "Reizen"

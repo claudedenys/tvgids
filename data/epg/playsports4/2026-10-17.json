@@ -1,34 +1,40 @@
 [
   {
-    "id": "playsports4:1792192140000:3y5tln",
+    "id": "playsports4:1792193940000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1792192140000,
-    "end": 1792196700000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506%2Cimi%3A446e18ffa49c59296e0578bc6bb57b774cc36dfc/posterTile",
+    "start": 1792193940000,
+    "end": 1792198500000,
+    "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514%2Cimi%3A4c643a406283f63bcc6319f8edc5e7b3e35cf78a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 38910000,
+    "episode": 2026101114,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393780~~2FEP036138911506,imi:446e18ffa49c59296e0578bc6bb57b774cc36dfc",
-      "episodeName": "GP van Japan: Race",
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514,imi:4c643a406283f63bcc6319f8edc5e7b3e35cf78a",
+      "episodeName": "GP van Indonesië: Race",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
     }
   },
   {
-    "id": "playsports4:1792196700000:xykime",
+    "id": "playsports4:1792198500000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1792196700000,
-    "end": 1792213800000,
+    "start": 1792198500000,
+    "end": 1792212000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -52,11 +58,11 @@
     }
   },
   {
-    "id": "playsports4:1792213800000:bjf8gr",
+    "id": "playsports4:1792212000000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1792213800000,
-    "end": 1792217100000,
+    "start": 1792212000000,
+    "end": 1792215480000,
     "description": null,
     "category": [
       "Sport",
@@ -82,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1792217100000:bjf8gr",
+    "id": "playsports4:1792215480000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1792217100000,
-    "end": 1792221600000,
+    "start": 1792215480000,
+    "end": 1792219980000,
     "description": null,
     "category": [
       "Sport",
@@ -112,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1792221600000:arbc9d",
+    "id": "playsports4:1792219980000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1792221600000,
-    "end": 1792229400000,
+    "start": 1792219980000,
+    "end": 1792227900000,
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "category": [
       "Sport",
@@ -142,89 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1792229400000:48zb9",
-    "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1792229400000,
-    "end": 1792230600000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:deb36ad96b813a5d8fbfbf8e69de4b7b1d0289cd",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1792230600000:3y5tln",
-    "channel": "playsports4",
-    "title": "MotoGP",
-    "start": 1792230600000,
-    "end": 1792234500000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514%2Cimi%3A6338984d29bdd17d9ccc313de66927d2a64e2e01/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514,imi:6338984d29bdd17d9ccc313de66927d2a64e2e01",
-      "episodeName": "GP van Indonesië: Race",
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1792234500000:5qme33",
+    "id": "playsports4:1792227900000:5qme33",
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
-    "start": 1792234500000,
-    "end": 1792241700000,
-    "description": "Verslag van de China Open, gespeeld in Peking, China.",
-    "category": [
-      "Sport",
-      "Tennis"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031%2Cimi%3A37de2ad9669ae35d343557a08f60a33cf1a2ea9e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 51020000,
-    "episode": 2026101031,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031,imi:37de2ad9669ae35d343557a08f60a33cf1a2ea9e",
-      "episodeName": "WTA1000: Dag 11",
-      "genres": [
-        "Sport",
-        "Tennis"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379748~~2FSH066051020000"
-    }
-  },
-  {
-    "id": "playsports4:1792241700000:5qme33",
-    "channel": "playsports4",
-    "title": "Tennis: China Open 2026",
-    "start": 1792241700000,
-    "end": 1792249680000,
+    "start": 1792227900000,
+    "end": 1792235880000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -250,27 +178,63 @@
     }
   },
   {
-    "id": "playsports4:1792249680000:48zb9",
+    "id": "playsports4:1792235880000:5qme33",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1792249680000,
-    "end": 1792250700000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "title": "Tennis: China Open 2026",
+    "start": 1792235880000,
+    "end": 1792242300000,
+    "description": "Verslag van de China Open, gespeeld in Peking, China.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031%2Cimi%3A37de2ad9669ae35d343557a08f60a33cf1a2ea9e/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 51020000,
+    "episode": 2026101031,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:23b8ce02706162c4f7bad2ca9cd2dde1f921c76a",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34145481~~2FEP066051020031,imi:37de2ad9669ae35d343557a08f60a33cf1a2ea9e",
+      "episodeName": "WTA1000: Dag 11",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33379748~~2FSH066051020000"
+    }
+  },
+  {
+    "id": "playsports4:1792242300000:1kmei86",
+    "channel": "playsports4",
+    "title": "Tennis: Rolex Shanghai Masters 2026",
+    "start": 1792242300000,
+    "end": 1792250700000,
+    "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34335185~~2FEP066152590054%2Cimi%3A80423454fefe09016c9c084505305ab27603be34/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 52590000,
+    "episode": 2026101254,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34335185~~2FEP066152590054,imi:80423454fefe09016c9c084505305ab27603be34",
+      "episodeName": "Bergs vs. Alcaraz",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33511409~~2FSH066152590000"
     }
   },
   {
@@ -334,51 +298,33 @@
     }
   },
   {
-    "id": "playsports4:1792259700000:1p3n9ye",
+    "id": "playsports4:1792259700000:i67pjl",
     "channel": "playsports4",
-    "title": "UEFA Champions League Highlights",
+    "title": "Play Sports Highlights",
     "start": 1792259700000,
-    "end": 1792261500000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34145526~~2FEP052508440037%2Cimi%3A5c28b7bec512cd43083b4bd12a4689cea027929f/posterTile",
+    "end": 1792262400000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566074106%2Cimi%3Ab4d43f76ec5a92935f7b18a31f9c03de3f9749bb/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 566074106,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34145526~~2FEP052508440037,imi:5c28b7bec512cd43083b4bd12a4689cea027929f",
-      "episodeName": "Aflevering 5",
-      "genres": [],
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566074106,imi:b4d43f76ec5a92935f7b18a31f9c03de3f9749bb",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1792261500000:1prlzbg",
-    "channel": "playsports4",
-    "title": "Premier League",
-    "start": 1792261500000,
-    "end": 1792262400000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478%2Cimi%3A8135d5d297e1d72588365ea3ccf640255c47f179/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582087~~2FEP033946612478,imi:8135d5d297e1d72588365ea3ccf640255c47f179",
-      "episodeName": "Liverpool - Manchester City",
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": true,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -442,35 +388,41 @@
     }
   },
   {
-    "id": "playsports4:1792271400000:1prlzbg",
+    "id": "playsports4:1792271400000:i67pjl",
     "channel": "playsports4",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1792271400000,
-    "end": 1792272300000,
-    "description": null,
-    "category": [],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483%2Cimi%3Acaf5a5e3f90416de073b6fe7d1b824c0624f61d5/posterTile",
+    "end": 1792274100000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566074107%2Cimi%3Adb0147540059aefe65f6a71677095b7920d17ee4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 566074107,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582594~~2FEP033946612483,imi:caf5a5e3f90416de073b6fe7d1b824c0624f61d5",
-      "episodeName": "Chelsea - Bournemouth",
-      "genres": [],
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F566074107,imi:db0147540059aefe65f6a71677095b7920d17ee4",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
-      "isSportsTeamEvent": true,
-      "parentSeriesId": null
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports4:1792272300000:5qme33",
+    "id": "playsports4:1792274100000:5qme33",
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
-    "start": 1792272300000,
-    "end": 1792280280000,
+    "start": 1792274100000,
+    "end": 1792282140000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
