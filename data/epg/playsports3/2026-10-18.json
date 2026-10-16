@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports3:1792281600000:xykime",
+    "id": "playsports3:1792275300000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1792275300000,
+    "end": 1792281660000,
+    "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558393~~2FEP035850992009%2Cimi%3A6ca9ff13b56858c92a60f383c4e9b5ea2cfa64a3/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026101009,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558393~~2FEP035850992009,imi:6ca9ff13b56858c92a60f383c4e9b5ea2cfa64a3",
+      "episodeName": "Feyenoord - AZ",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1792281660000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1792281600000,
-    "end": 1792298400000,
+    "start": 1792281660000,
+    "end": 1792298700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,11 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1792298400000:1va4v2m",
+    "id": "playsports3:1792298700000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1792298400000,
-    "end": 1792304520000,
+    "start": 1792298700000,
+    "end": 1792304820000,
     "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -58,11 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1792304520000:1va4v2m",
+    "id": "playsports3:1792304820000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1792304520000,
-    "end": 1792310940000,
+    "start": 1792304820000,
+    "end": 1792311180000,
     "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -88,11 +118,11 @@
     }
   },
   {
-    "id": "playsports3:1792310940000:1va4v2m",
+    "id": "playsports3:1792311180000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1792310940000,
-    "end": 1792317300000,
+    "start": 1792311180000,
+    "end": 1792317600000,
     "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -118,12 +148,12 @@
     }
   },
   {
-    "id": "playsports3:1792317300000:3tkxx5",
+    "id": "playsports3:1792317600000:3tkxx5",
     "channel": "playsports3",
     "title": "MIDMID",
-    "start": 1792317300000,
+    "start": 1792317600000,
     "end": 1792322700000,
-    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjes.",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjens.",
     "category": [
       "Voetbal",
       "Sporttalkshow"
@@ -182,7 +212,7 @@
     "channel": "playsports3",
     "title": "Play Sports Highlights",
     "start": 1792329900000,
-    "end": 1792333500000,
+    "end": 1792333200000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -208,11 +238,11 @@
     }
   },
   {
-    "id": "playsports3:1792333500000:9elx6q",
+    "id": "playsports3:1792333200000:9elx6q",
     "channel": "playsports3",
     "title": "Europa & Conference League",
-    "start": 1792333500000,
-    "end": 1792335300000,
+    "start": 1792333200000,
+    "end": 1792335600000,
     "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "category": [
       "Sport",
@@ -238,12 +268,12 @@
     }
   },
   {
-    "id": "playsports3:1792335300000:3tkxx5",
+    "id": "playsports3:1792335600000:3tkxx5",
     "channel": "playsports3",
     "title": "MIDMID",
-    "start": 1792335300000,
+    "start": 1792335600000,
     "end": 1792340700000,
-    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjes.",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjens.",
     "category": [
       "Voetbal",
       "Sporttalkshow"
@@ -302,7 +332,7 @@
     "channel": "playsports3",
     "title": "UEFA Champions League Highlights",
     "start": 1792347900000,
-    "end": 1792349700000,
+    "end": 1792350120000,
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
@@ -328,11 +358,11 @@
     }
   },
   {
-    "id": "playsports3:1792349700000:1p3n9ye",
+    "id": "playsports3:1792350120000:1p3n9ye",
     "channel": "playsports3",
     "title": "UEFA Champions League Highlights",
-    "start": 1792349700000,
-    "end": 1792351500000,
+    "start": 1792350120000,
+    "end": 1792352280000,
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
@@ -358,40 +388,40 @@
     }
   },
   {
-    "id": "playsports3:1792351500000:ear1gl",
+    "id": "playsports3:1792352280000:1va4v2m",
     "channel": "playsports3",
-    "title": "UEFA Europa League",
-    "start": 1792351500000,
-    "end": 1792357920000,
-    "description": "Verslag van de wedstrijd Red Bull Salzburg - AC Milan, gespeeld in de competitiefase van de UEFA Europa League.",
+    "title": "Eredivisie",
+    "start": 1792352280000,
+    "end": 1792358460000,
+    "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33415377~~2FEP028036721237%2Cimi%3A5c3c0179b261930810a0cf9095efbddcb9084dbd/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558361~~2FEP035850992007%2Cimi%3Ac15c18dad815993cae0c323849835111570cf9e4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 36720000,
-    "episode": 2026101537,
+    "season": 50990000,
+    "episode": 2026100907,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33415377~~2FEP028036721237,imi:5c3c0179b261930810a0cf9095efbddcb9084dbd",
-      "episodeName": "Red Bull Salzburg - AC Milan",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558361~~2FEP035850992007,imi:c15c18dad815993cae0c323849835111570cf9e4",
+      "episodeName": "PSV - sc Heerenveen",
       "genres": [
         "Sport",
         "Voetbal"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {
-    "id": "playsports3:1792357920000:i67pjl",
+    "id": "playsports3:1792358460000:i67pjl",
     "channel": "playsports3",
     "title": "Play Sports Highlights",
-    "start": 1792357920000,
+    "start": 1792358460000,
     "end": 1792360500000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [

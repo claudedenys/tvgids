@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1792280400000:nus7s6",
+    "id": "play6:1792280700000:nus7s6",
     "channel": "play6",
     "title": "Taking Lives",
-    "start": 1792280400000,
-    "end": 1792287000000,
+    "start": 1792280700000,
+    "end": 1792286700000,
     "description": "FBI-profiler Illeana jaagt op een moordenaar die de identiteit van zijn slachtoffers overneemt, maar vervreemdt haar collega's binnen de FBI.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1792287000000:48zb9",
+    "id": "play6:1792286700000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1792287000000,
-    "end": 1792292400000,
+    "start": 1792286700000,
+    "end": 1792292100000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c33db2c00d486a633b733a1b8ecc5face9f0a37b",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1792292100000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1792292100000,
+    "end": 1792292400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:23f4ea2e7b0aa65cff0c869bc2c20e2eeb096036",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

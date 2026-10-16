@@ -1,10 +1,40 @@
 [
   {
-    "id": "play5:1792281600000:dswtyn",
+    "id": "play5:1792278300000:dswtyn",
     "channel": "play5",
     "title": "Criminal Minds",
-    "start": 1792281600000,
-    "end": 1792284900000,
+    "start": 1792278300000,
+    "end": 1792281900000,
+    "description": "Hotch krijgt een telefoontje van Sean, zijn broer uit New York van wie hij al enkele jaren niets meer heeft gehoord. Het meisje begon zonder aanwijsbare reden uit haar ogen, mond en neus te bloeden en viel enkele ogenblikken later dood neer.",
+    "category": [
+      "Dramaserie",
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9918763~~2FEP027942270240%2Cimi%3A806a0f4b70023724a84275b5eacff44ec44a3a31/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 8,
+    "episode": 23,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9918763~~2FEP027942270240,imi:806a0f4b70023724a84275b5eacff44ec44a3a31",
+      "episodeName": "Brothers Hotchner",
+      "genres": [
+        "Dramaserie",
+        "Misdaaddrama"
+      ],
+      "productionDate": "2012",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8d082383-bb57-406b-b7ff-14ae1661d82f"
+    }
+  },
+  {
+    "id": "play5:1792281900000:dswtyn",
+    "channel": "play5",
+    "title": "Criminal Minds",
+    "start": 1792281900000,
+    "end": 1792284300000,
     "description": "De beruchte seriemoordenaar The Replicator heeft het gemunt op een van de leden van het BAU-team. Daarnaast moet het team in Manhattan een reeks sterfgevallen onderzoeken. De slachtoffers bezweken allen aan een overdosis ecstasy.",
     "category": [
       "Dramaserie",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1792284900000:48zb9",
+    "id": "play5:1792284300000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1792284900000,
-    "end": 1792292400000,
+    "start": 1792284300000,
+    "end": 1792292100000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b7766c5c8eda4be3d983148f3075fde9c0eb3769",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1792292100000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1792292100000,
+    "end": 1792292400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:eba4163057dad557425a233572f65a327901e29c",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

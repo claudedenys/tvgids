@@ -1,10 +1,10 @@
 [
   {
-    "id": "npo1:1792360800000:j1jgyo",
+    "id": "npo1:1792360200000:j1jgyo",
     "channel": "npo1",
     "title": "De Bauers, een nieuwe fase",
-    "start": 1792360800000,
-    "end": 1792362600000,
+    "start": 1792360200000,
+    "end": 1792363200000,
     "description": "Nu de kinderen groter worden en steeds meer hun eigen weg gaan, zijn momenten met de hele familie minder...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bauers-een-nieuwe-fase-777900282.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "npo1:1792362600000:1qmbii9",
+    "id": "npo1:1792363200000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792362600000,
-    "end": 1792363500000,
+    "start": 1792363200000,
+    "end": 1792364100000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -47,11 +47,11 @@
     }
   },
   {
-    "id": "npo1:1792363500000:1f3cpph",
+    "id": "npo1:1792364100000:1f3cpph",
     "channel": "npo1",
     "title": "Pauw & De Wit",
-    "start": 1792363500000,
-    "end": 1792366500000,
+    "start": 1792364100000,
+    "end": 1792367100000,
     "description": "Talkshow over de actualiteit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-781925472.jpg",
@@ -69,36 +69,11 @@
     }
   },
   {
-    "id": "npo1:1792366500000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1792366500000,
-    "end": 1792367100000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-778345312.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
     "id": "npo1:1792367100000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1792367100000,
-    "end": 1792381800000,
+    "end": 1792367700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -114,6 +89,31 @@
       "labels": [
         "program",
         "live",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1792367700000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1792367700000,
+    "end": 1792381800000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-778345312.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
         "actueel",
         "rerun"
       ]
@@ -675,7 +675,7 @@
     "end": 1792404000000,
     "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-778742772.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-786052142.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1096,25 +1096,6 @@
     "channel": "npo1",
     "title": "Politieke partijen",
     "start": 1792425360000,
-    "end": 1792425420000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-779954952.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
-    "id": "npo1:1792425420000:12b58co",
-    "channel": "npo1",
-    "title": "Politieke partijen",
-    "start": 1792425420000,
     "end": 1792425600000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],

@@ -236,7 +236,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1792384500000,
-    "end": 1792385100000,
+    "end": 1792384800000,
     "description": "Een meisje past niet in haar rolschaatsen, maar het zijn haar lievelingen, Dropje maakt ze groter.",
     "category": [
       "Kids",
@@ -262,11 +262,11 @@
     }
   },
   {
-    "id": "ketnet:1792385100000:out9ds",
+    "id": "ketnet:1792384800000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1792385100000,
-    "end": 1792385400000,
+    "start": 1792384800000,
+    "end": 1792385100000,
     "description": "Sarah zingt samen met haar vriendjes de leukste kinderliedjes, en iedereen doet mee.",
     "category": [
       "Kunstnijverheid"
@@ -290,11 +290,11 @@
     }
   },
   {
-    "id": "ketnet:1792385400000:ykedwl",
+    "id": "ketnet:1792385100000:ykedwl",
     "channel": "ketnet",
     "title": "Bing",
-    "start": 1792385400000,
-    "end": 1792386000000,
+    "start": 1792385100000,
+    "end": 1792385700000,
     "description": "Sula en Bing plakken een blaadje in de vorm van een hartje op al hun lievelingsdingen in het huis. Soms hebben ze verschillende lievelingsdingen en soms zijn hun lievelingsdingen hetzelfde.",
     "category": [
       "Kids",
@@ -320,11 +320,11 @@
     }
   },
   {
-    "id": "ketnet:1792386000000:1ysf81w",
+    "id": "ketnet:1792385700000:1ysf81w",
     "channel": "ketnet",
     "title": "Mojo Wisseltop",
-    "start": 1792386000000,
-    "end": 1792386600000,
+    "start": 1792385700000,
+    "end": 1792386300000,
     "description": "Preston zijn oude schuur moet gesloopt worden. Mojo en Bo proberen het met een reuzegrote afbraakbal, maar die rolt alle kanten uit. Samen vinden ze de juiste manier om het klusje te klaren.",
     "category": [
       "Kids",
@@ -350,11 +350,11 @@
     }
   },
   {
-    "id": "ketnet:1792386600000:dvn84u",
+    "id": "ketnet:1792386300000:dvn84u",
     "channel": "ketnet",
     "title": "Sarah knutselt",
-    "start": 1792386600000,
-    "end": 1792386900000,
+    "start": 1792386300000,
+    "end": 1792386600000,
     "description": "Sarah knutselt samen met haar vriendjes de leukste knutselwerkjes.",
     "category": [
       "Kids",
@@ -380,11 +380,11 @@
     }
   },
   {
-    "id": "ketnet:1792386900000:ne1xug",
+    "id": "ketnet:1792386600000:ne1xug",
     "channel": "ketnet",
     "title": "Biggen Bouwers",
-    "start": 1792386900000,
-    "end": 1792387500000,
+    "start": 1792386600000,
+    "end": 1792387200000,
     "description": "Vannacht zullen er vallende sterren te zien zijn van op de Platsteenberg. Iedereen in het bos klimt de berg op, maar Fiona heeft haar voet verstuikt. De Biggenbouwers kunnen haar niet achterlaten en willen haar kost wat kost meenemen, zelfs als ze daarvoor een raket nodig hebben.",
     "category": [
       "Kids",
@@ -407,6 +407,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30735817~~2FSH061662700000"
+    }
+  },
+  {
+    "id": "ketnet:1792387200000:axxnxm",
+    "channel": "ketnet",
+    "title": "Sarah: Sokpop telt tot tien",
+    "start": 1792387200000,
+    "end": 1792387500000,
+    "description": "Sokpop, het grappige vriendje van Sarah, telt tot tien en zingt met elk cijfer een liedje. De kinderen kunnen meezingen en meetellen met Sarah en Sokpop.",
+    "category": [
+      "Kids",
+      "Educatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23591229~~2FEP045652560001%2Cimi%3A859e09bcb2afff31c01e4fa32c3420f58719d1d3/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F23591229~~2FEP045652560001,imi:859e09bcb2afff31c01e4fa32c3420f58719d1d3",
+      "episodeName": "Cijfer 1",
+      "genres": [
+        "Kids",
+        "Educatie"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23591220~~2FSH045652560000"
     }
   },
   {
@@ -1486,7 +1516,7 @@
     "channel": "ketnet",
     "title": "Mush Mush en de Zwammetjes",
     "start": 1792404000000,
-    "end": 1792404600000,
+    "end": 1792404900000,
     "description": "Grote Paddenstoel heeft een hekel aan ingemaakt moerasmos, maar Champignon is ervan overtuigd dat het zijn lievelingsgerecht is. Grote Paddenstoel en de anderen moeten Champignon ervan overtuigen om het gerecht niet te serveren.",
     "category": [
       "Kids",
@@ -1509,36 +1539,6 @@
       "productionDate": "2023",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc5fa53c0-7d04-4d5f-8c58-140c50af8c66"
-    }
-  },
-  {
-    "id": "ketnet:1792404600000:ne8lx9",
-    "channel": "ketnet",
-    "title": "Zig & Sharko",
-    "start": 1792404600000,
-    "end": 1792404900000,
-    "description": "Twee toeristen arriveren op het eiland om een authentieke zeemeermin te zien. Marina wil de mascotte niet spelen, dus neemt Sharko de rol op zich in een volledige zeemeerminnenoutfit. Zig is blij dat zijn vijand afgeleid is door zijn nieuwe baan.",
-    "category": [
-      "Kids",
-      "Animatie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26644840~~2FEP035178410596%2Cimi%3A58216f8d281745133b0a551caca1223e2cc33492/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 4,
-    "episode": 36,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26644840~~2FEP035178410596,imi:58216f8d281745133b0a551caca1223e2cc33492",
-      "episodeName": "Welcome to Mermaid Island",
-      "genres": [
-        "Kids",
-        "Animatie"
-      ],
-      "productionDate": "2023",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0281727c-5e2e-4d94-a427-57282cfaf93d"
     }
   },
   {
@@ -2564,7 +2564,7 @@
     "channel": "ketnet",
     "title": "Waiko: reis door de ruimte",
     "start": 1792422900000,
-    "end": 1792423500000,
+    "end": 1792423200000,
     "description": "Otto baalt ervan dat Pluto officieel geen planeet meer is, maar een dwergplaneet. Samen met Nova zoekt hij uit waarom wetenschappers dat zo hebben beslist. Toch blijft Pluto voor Otto veruit het coolste ding in de ruimte!",
     "category": [
       "Avontuur",
@@ -2587,6 +2587,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31888542~~2FSH061953480000"
+    }
+  },
+  {
+    "id": "ketnet:1792423200000:ne8lx9",
+    "channel": "ketnet",
+    "title": "Zig & Sharko",
+    "start": 1792423200000,
+    "end": 1792423500000,
+    "description": "Twee toeristen arriveren op het eiland om een authentieke zeemeermin te zien. Marina wil de mascotte niet spelen, dus neemt Sharko de rol op zich in een volledige zeemeerminnenoutfit. Zig is blij dat zijn vijand afgeleid is door zijn nieuwe baan.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26644840~~2FEP035178410596%2Cimi%3A58216f8d281745133b0a551caca1223e2cc33492/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 4,
+    "episode": 36,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26644840~~2FEP035178410596,imi:58216f8d281745133b0a551caca1223e2cc33492",
+      "episodeName": "Welcome to Mermaid Island",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0281727c-5e2e-4d94-a427-57282cfaf93d"
     }
   },
   {
@@ -2744,7 +2774,7 @@
     "channel": "ketnet",
     "title": "Lettersoep",
     "start": 1792428300000,
-    "end": 1792429800000,
+    "end": 1792429440000,
     "description": "Taalgrage zussen Camille en Malin, alias De Lenskes, staan paraat met hun Chiro-energie en talenkennis. Zij nemen het op tegen de Ta(a)lenten Kobe en Timon, vrienden sinds de kleuterklas die trampolinekunsten en gekke stemmetjes doen.",
     "category": [
       "Spelprogramma",
@@ -2767,6 +2797,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31441768~~2FSH061044090000"
+    }
+  },
+  {
+    "id": "ketnet:1792429440000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1792429440000,
+    "end": 1792429800000,
+    "description": "De opslagruimte van de cabine is leeg en Grizzly's maag knort. In zijn verrekijker ziet hij de Lemmingen muntjes een chocolade-automaat gooien. De beer gaat naar hen toe, maar moet dan op zoek naar muntjes.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19967756~~2FEP041241250600%2Cimi%3Aafdd6ccb0dfd4355c84092db53bc1c28463c4533/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 17,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19967756~~2FEP041241250600,imi:afdd6ccb0dfd4355c84092db53bc1c28463c4533",
+      "episodeName": "Yummy Pirates",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {
