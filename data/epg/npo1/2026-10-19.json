@@ -99,7 +99,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1792367700000,
-    "end": 1792381800000,
+    "end": 1792382100000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -511,7 +511,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1792395000000,
-    "end": 1792395600000,
+    "end": 1792395900000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -532,10 +532,10 @@
     }
   },
   {
-    "id": "npo1:1792395600000:1qmbii9",
+    "id": "npo1:1792395900000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792395600000,
+    "start": 1792395900000,
     "end": 1792396800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -673,7 +673,7 @@
     "title": "Tijd voor MAX",
     "start": 1792401300000,
     "end": 1792404000000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * De Nederlandse popgroep K-otic was begin deze eeuw niet van de televisie en radio weg te...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-786052142.jpg",
     "icon": null,
@@ -963,30 +963,6 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1792414800000,
-    "end": 1792416000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nos-journaal-778740682.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1792416000000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1792416000000,
     "end": 1792416900000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1002,8 +978,7 @@
     "meta": {
       "labels": [
         "program",
-        "actueel",
-        "rerun"
+        "actueel"
       ]
     }
   },
@@ -1080,7 +1055,7 @@
     "end": 1792425360000,
     "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-778742772.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-786520532.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1099,7 +1074,7 @@
     "end": 1792425600000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-779954952.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-786186882.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1107,7 +1082,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -1253,10 +1231,10 @@
     "channel": "npo1",
     "title": "De slimste mens",
     "start": 1792438500000,
-    "end": 1792441500000,
-    "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
+    "end": 1792441800000,
+    "description": "Cabareti&egrave;re Nathalie Baartman wees De Slimste Mens twee keer eerder af.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-slimste-mens-778663882.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/n/carrousel/nathaliebaartmanvoordeslimstemenskroncrv.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1264,14 +1242,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {
-    "id": "npo1:1792441500000:1f3cpph",
+    "id": "npo1:1792441800000:1f3cpph",
     "channel": "npo1",
     "title": "Pauw & De Wit",
-    "start": 1792441500000,
+    "start": 1792441800000,
     "end": 1792444800000,
     "description": "Talkshow over de actualiteit.",
     "category": [],
@@ -1291,7 +1272,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1792444800000,
-    "end": 1792446000000,
+    "end": 1792446120000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -1311,10 +1292,10 @@
     }
   },
   {
-    "id": "npo1:1792446000000:cv01lx",
+    "id": "npo1:1792446120000:cv01lx",
     "channel": "npo1",
     "title": "Opsporing verzocht in 1 minuut",
-    "start": 1792446000000,
+    "start": 1792446120000,
     "end": 1792446600000,
     "description": "Opsporingsprogramma in samenwerking met politie en justitie.",
     "category": [],
@@ -1334,7 +1315,7 @@
     "channel": "npo1",
     "title": "Eva",
     "start": 1792446600000,
-    "end": 1792449600000,
+    "end": 1792449900000,
     "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eva-778741922.jpg",

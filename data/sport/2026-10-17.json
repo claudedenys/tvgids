@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1792196520000,
     "end": 1792212000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -147,7 +147,7 @@
     "sport": null,
     "start": 1792188000000,
     "end": 1792209600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,7 +170,7 @@
     "sport": null,
     "start": 1792209600000,
     "end": 1792231200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -262,7 +262,7 @@
     "sport": null,
     "start": 1792195140000,
     "end": 1792213200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -285,7 +285,7 @@
     "sport": "Tennis",
     "start": 1792225800000,
     "end": 1792233000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
     "platforms": [
@@ -492,7 +492,7 @@
     "sport": null,
     "start": 1792194000000,
     "end": 1792198440000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "source": "epg",
     "platforms": [
@@ -515,7 +515,7 @@
     "sport": null,
     "start": 1792198440000,
     "end": 1792212300000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -538,7 +538,7 @@
     "sport": null,
     "start": 1792212300000,
     "end": 1792215600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -561,7 +561,7 @@
     "sport": null,
     "start": 1792215600000,
     "end": 1792220100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -584,7 +584,7 @@
     "sport": "Motorsport",
     "start": 1792220100000,
     "end": 1792227960000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "source": "epg",
     "platforms": [
@@ -675,7 +675,7 @@
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
     "start": 1792257900000,
-    "end": 1792260060000,
+    "end": 1792260120000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -690,14 +690,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792260060000:i67pjl",
+    "id": "sport:playsports4:1792260120000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792260060000,
+    "start": 1792260120000,
     "end": 1792262400000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
@@ -721,7 +721,7 @@
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
     "start": 1792269600000,
-    "end": 1792271400000,
+    "end": 1792270920000,
     "status": "aankomend",
     "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "source": "epg",
@@ -736,15 +736,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792271400000:i67pjl",
+    "id": "sport:playsports4:1792270920000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792271400000,
-    "end": 1792274100000,
+    "start": 1792270920000,
+    "end": 1792273620000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -759,15 +759,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792274100000:5qme33",
+    "id": "sport:playsports4:1792273620000:5qme33",
     "externalId": null,
     "title": "WTA1000: Dag 12, Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792274100000,
-    "end": 1792282140000,
+    "start": 1792273620000,
+    "end": 1792281660000,
     "status": "aankomend",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
@@ -791,7 +791,7 @@
     "sport": null,
     "start": 1792188000000,
     "end": 1792209600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -814,7 +814,7 @@
     "sport": null,
     "start": 1792209600000,
     "end": 1792231200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -906,7 +906,7 @@
     "sport": "Golf",
     "start": 1792195200000,
     "end": 1792198800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Alle hoogtepunten van AIG Women's Open 2023, gespeeld op de St Andrews Golf Club in St Andrews, Schotland.",
     "source": "epg",
     "platforms": [
@@ -929,7 +929,7 @@
     "sport": "Golf",
     "start": 1792198800000,
     "end": 1792202400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Aramco Korea Championship, gespeeld op de New Korea Country Club in Goyang, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -952,7 +952,7 @@
     "sport": "Golf",
     "start": 1792202400000,
     "end": 1792213200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de tweede dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -975,7 +975,7 @@
     "sport": "Golf",
     "start": 1792213200000,
     "end": 1792216800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Alle hoogtepunten van AIG Women's Open 2023, gespeeld op de St Andrews Golf Club in St Andrews, Schotland.",
     "source": "epg",
     "platforms": [
@@ -998,7 +998,7 @@
     "sport": "Golf",
     "start": 1792216800000,
     "end": 1792218600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Hainan Open, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
@@ -1021,7 +1021,7 @@
     "sport": "Golf",
     "start": 1792218600000,
     "end": 1792236600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de derde dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -1274,7 +1274,7 @@
     "sport": "Voetbal",
     "start": 1792189920000,
     "end": 1792196520000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1297,7 +1297,7 @@
     "sport": "Voetbal",
     "start": 1792212000000,
     "end": 1792218540000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1320,7 +1320,7 @@
     "sport": "Voetbal",
     "start": 1792218540000,
     "end": 1792225200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de WWK ARENA in Augsburg, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1343,7 +1343,7 @@
     "sport": "Voetbal",
     "start": 1792225200000,
     "end": 1792231620000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1527,7 +1527,7 @@
     "sport": "Voetbal",
     "start": 1792213200000,
     "end": 1792219320000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1550,7 +1550,7 @@
     "sport": "Voetbal",
     "start": 1792219320000,
     "end": 1792225800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [

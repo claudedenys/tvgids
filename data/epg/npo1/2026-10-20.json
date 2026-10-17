@@ -4,7 +4,7 @@
     "channel": "npo1",
     "title": "Eva",
     "start": 1792446600000,
-    "end": 1792449600000,
+    "end": 1792449900000,
     "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/e/carrousel/eva-778741922.jpg",
@@ -22,10 +22,10 @@
     }
   },
   {
-    "id": "npo1:1792449600000:1qmbii9",
+    "id": "npo1:1792449900000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1792449600000,
+    "start": 1792449900000,
     "end": 1792451400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -51,7 +51,7 @@
     "channel": "npo1",
     "title": "Pauw & De Wit",
     "start": 1792451400000,
-    "end": 1792454100000,
+    "end": 1792454400000,
     "description": "Talkshow over de actualiteit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/pauw-de-wit-781925472.jpg",
@@ -69,10 +69,10 @@
     }
   },
   {
-    "id": "npo1:1792454100000:1byfm7j",
+    "id": "npo1:1792454400000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1792454100000,
+    "start": 1792454400000,
     "end": 1792455900000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [
@@ -700,7 +700,7 @@
     "end": 1792490400000,
     "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-779344312.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-786520532.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1109,7 +1109,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -1128,7 +1131,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

@@ -26,7 +26,7 @@
     "channel": "npo2",
     "title": "Podium klassiek",
     "start": 1792362600000,
-    "end": 1792366500000,
+    "end": 1792366800000,
     "description": "Fuse speelt muziek van de Italiaanse cellist en componist Giovanni Sollima.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/podium-klassiek-778346672.jpg",
@@ -44,10 +44,10 @@
     }
   },
   {
-    "id": "npo2:1792366500000:qbw2jg",
+    "id": "npo2:1792366800000:qbw2jg",
     "channel": "npo2",
     "title": "Nieuwsuur",
-    "start": 1792366500000,
+    "start": 1792366800000,
     "end": 1792368900000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
@@ -145,7 +145,7 @@
     "title": "Tijd voor MAX",
     "start": 1792386900000,
     "end": 1792389600000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * De Nederlandse popgroep K-otic was begin deze eeuw niet van de televisie en radio weg te...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tijd-voor-max-778742772.jpg",
     "icon": null,
@@ -627,7 +627,7 @@
     "end": 1792421820000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-779954952.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-786182852.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -635,7 +635,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -646,7 +649,7 @@
     "end": 1792422300000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-779954952.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-786182852.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -654,7 +657,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

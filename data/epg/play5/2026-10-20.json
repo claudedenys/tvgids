@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "Superman & Lois",
     "start": 1792454400000,
-    "end": 1792457700000,
+    "end": 1792457100000,
     "description": "Luthor daagt Lois uit voor een tv-debat, maar niet alles is wat het lijkt. John Henry en Clark staan voor een zorgwekkende mogelijkheid.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1792457700000:1vr1iur",
+    "id": "play5:1792457100000:1vr1iur",
     "channel": "play5",
     "title": "How to Get Away With Murder",
-    "start": 1792457700000,
-    "end": 1792460700000,
+    "start": 1792457100000,
+    "end": 1792459800000,
     "description": "Nieuwe details van de nacht dat Wes werd vermoord, onthult eindelijk zijn moordenaar. Annalise test hoe ver ze zou gaan om zichzelf te redden.",
     "category": [
       "Dramaserie",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1792460700000:48zb9",
+    "id": "play5:1792459800000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1792460700000,
-    "end": 1792465200000,
+    "start": 1792459800000,
+    "end": 1792465020000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:7618623e64341be1bb6c52f4460277f417ebbee0",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1792465020000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1792465020000,
+    "end": 1792465200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3f6e473e1a89d659085642a87e99b5d334de64b4",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
