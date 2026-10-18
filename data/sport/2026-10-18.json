@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1792282680000,
     "end": 1792301100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +124,7 @@
     "sport": null,
     "start": 1792274400000,
     "end": 1792296000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -147,7 +147,7 @@
     "sport": null,
     "start": 1792296000000,
     "end": 1792317600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": null,
     "start": 1792281660000,
     "end": 1792298700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -230,14 +230,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792317480000:3tkxx5",
+    "id": "sport:playsports3:1792317540000:3tkxx5",
     "externalId": null,
     "title": "Ralf Seuntjens",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792317480000,
+    "start": 1792317540000,
     "end": 1792322700000,
     "status": "aankomend",
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjens.",
@@ -261,7 +261,7 @@
     "competition": null,
     "sport": null,
     "start": 1792329900000,
-    "end": 1792333200000,
+    "end": 1792332300000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -276,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792333200000:9elx6q",
+    "id": "sport:playsports3:1792332300000:9elx6q",
     "externalId": null,
     "title": "Hoogtepunten",
     "home": null,
     "away": null,
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1792333200000,
-    "end": 1792335600000,
+    "start": 1792332300000,
+    "end": 1792333800000,
     "status": "aankomend",
     "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "source": "epg",
@@ -299,17 +299,40 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792335600000:3tkxx5",
+    "id": "sport:playsports3:1792333800000:3tkxx5",
     "externalId": null,
     "title": "Ralf Seuntjens",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792335600000,
-    "end": 1792340700000,
+    "start": 1792333800000,
+    "end": 1792338900000,
     "status": "aankomend",
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjens.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1792346100000:9elx6q",
+    "externalId": null,
+    "title": "Hoogtepunten",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Europa League",
+    "sport": "Voetbal",
+    "start": 1792346100000,
+    "end": 1792347900000,
+    "status": "aankomend",
+    "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -353,7 +376,7 @@
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
     "start": 1792350120000,
-    "end": 1792352280000,
+    "end": 1792352340000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -423,7 +446,7 @@
     "sport": "Tennis",
     "start": 1792273620000,
     "end": 1792281660000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -446,7 +469,7 @@
     "sport": null,
     "start": 1792281660000,
     "end": 1792301700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -469,7 +492,7 @@
     "sport": "Tennis",
     "start": 1792301700000,
     "end": 1792308180000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -492,7 +515,7 @@
     "sport": "Tennis",
     "start": 1792308180000,
     "end": 1792316220000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -653,7 +676,7 @@
     "sport": null,
     "start": 1792274400000,
     "end": 1792296000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -676,7 +699,7 @@
     "sport": null,
     "start": 1792296000000,
     "end": 1792322700000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -745,7 +768,7 @@
     "sport": "Golf",
     "start": 1792281600000,
     "end": 1792285200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Baycurrent Classic, gespeeld op de Yokohama Country Club in Yokohama, Japan.",
     "source": "epg",
     "platforms": [
@@ -768,7 +791,7 @@
     "sport": "Golf",
     "start": 1792285200000,
     "end": 1792288800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Korn Ferry Championship, gespeeld in de Korn Ferry Tour.",
     "source": "epg",
     "platforms": [
@@ -791,7 +814,7 @@
     "sport": "Golf",
     "start": 1792288800000,
     "end": 1792299600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de derde dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -814,7 +837,7 @@
     "sport": "Golf",
     "start": 1792299600000,
     "end": 1792303200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Korn Ferry Championship, gespeeld in de Korn Ferry Tour.",
     "source": "epg",
     "platforms": [
@@ -837,7 +860,7 @@
     "sport": "Golf",
     "start": 1792303200000,
     "end": 1792321200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de vierde en laatste dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -1113,7 +1136,7 @@
     "sport": "Voetbal",
     "start": 1792276200000,
     "end": 1792282680000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1136,7 +1159,7 @@
     "sport": "Voetbal",
     "start": 1792301100000,
     "end": 1792307460000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1159,7 +1182,7 @@
     "sport": "Voetbal",
     "start": 1792307460000,
     "end": 1792313520000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1182,7 +1205,7 @@
     "sport": "Voetbal",
     "start": 1792313520000,
     "end": 1792319880000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1366,7 +1389,7 @@
     "sport": "Voetbal",
     "start": 1792275300000,
     "end": 1792281660000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1389,7 +1412,7 @@
     "sport": "Voetbal",
     "start": 1792298700000,
     "end": 1792304820000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1412,7 +1435,7 @@
     "sport": "Voetbal",
     "start": 1792304820000,
     "end": 1792311180000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1434,8 +1457,8 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1792311180000,
-    "end": 1792317480000,
-    "status": "aankomend",
+    "end": 1792317540000,
+    "status": "live",
     "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1472,15 +1495,15 @@
     ]
   },
   {
-    "id": "sport:match:1792340700000:beerschot - anderlecht",
+    "id": "sport:match:1792338900000:beerschot - anderlecht",
     "externalId": null,
     "title": "Beerschot - Anderlecht",
     "home": "Beerschot",
     "away": "Anderlecht",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792340700000,
-    "end": 1792347900000,
+    "start": 1792338900000,
+    "end": 1792346100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Beerschot - Anderlecht, gespeeld in de Croky Cup.",
     "source": "epg",
@@ -1495,14 +1518,14 @@
     ]
   },
   {
-    "id": "sport:match:1792352280000:psv - sc heerenveen",
+    "id": "sport:match:1792352340000:psv - sc heerenveen",
     "externalId": null,
     "title": "PSV - sc Heerenveen",
     "home": "PSV",
     "away": "sc Heerenveen",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1792352280000,
+    "start": 1792352340000,
     "end": 1792358460000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",

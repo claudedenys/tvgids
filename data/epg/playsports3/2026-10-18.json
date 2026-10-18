@@ -122,7 +122,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1792311180000,
-    "end": 1792317480000,
+    "end": 1792317540000,
     "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports3:1792317480000:3tkxx5",
+    "id": "playsports3:1792317540000:3tkxx5",
     "channel": "playsports3",
     "title": "MIDMID",
-    "start": 1792317480000,
+    "start": 1792317540000,
     "end": 1792322700000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjens.",
     "category": [
@@ -212,7 +212,7 @@
     "channel": "playsports3",
     "title": "Play Sports Highlights",
     "start": 1792329900000,
-    "end": 1792333200000,
+    "end": 1792332300000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -238,11 +238,11 @@
     }
   },
   {
-    "id": "playsports3:1792333200000:9elx6q",
+    "id": "playsports3:1792332300000:9elx6q",
     "channel": "playsports3",
     "title": "Europa & Conference League",
-    "start": 1792333200000,
-    "end": 1792335600000,
+    "start": 1792332300000,
+    "end": 1792333800000,
     "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "category": [
       "Sport",
@@ -268,11 +268,11 @@
     }
   },
   {
-    "id": "playsports3:1792335600000:3tkxx5",
+    "id": "playsports3:1792333800000:3tkxx5",
     "channel": "playsports3",
     "title": "MIDMID",
-    "start": 1792335600000,
-    "end": 1792340700000,
+    "start": 1792333800000,
+    "end": 1792338900000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Ralf Seuntjens.",
     "category": [
       "Voetbal",
@@ -298,11 +298,11 @@
     }
   },
   {
-    "id": "playsports3:1792340700000:15p1p85",
+    "id": "playsports3:1792338900000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792340700000,
-    "end": 1792347900000,
+    "start": 1792338900000,
+    "end": 1792346100000,
     "description": "Verslag van de wedstrijd Beerschot - Anderlecht, gespeeld in de Croky Cup.",
     "category": [
       "Sport",
@@ -325,6 +325,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa250326f-0738-4d66-8fdf-3825435d29a2"
+    }
+  },
+  {
+    "id": "playsports3:1792346100000:9elx6q",
+    "channel": "playsports3",
+    "title": "Europa & Conference League",
+    "start": 1792346100000,
+    "end": 1792347900000,
+    "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240927~~2FEP040097570114%2Cimi%3Aa06dfd823a877d98148bf864aafa73dda5c9e422/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240927~~2FEP040097570114,imi:a06dfd823a877d98148bf864aafa73dda5c9e422",
+      "episodeName": "Hoogtepunten",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb2a79889-7a59-40a2-a7cf-278ffca2d725"
     }
   },
   {
@@ -362,7 +392,7 @@
     "channel": "playsports3",
     "title": "UEFA Champions League Highlights",
     "start": 1792350120000,
-    "end": 1792352280000,
+    "end": 1792352340000,
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
@@ -388,10 +418,10 @@
     }
   },
   {
-    "id": "playsports3:1792352280000:1va4v2m",
+    "id": "playsports3:1792352340000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1792352280000,
+    "start": 1792352340000,
     "end": 1792358460000,
     "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [

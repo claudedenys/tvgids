@@ -75,7 +75,7 @@
     "title": "EenVandaag",
     "start": 1792281600000,
     "end": 1792283100000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Bedrijven bij Lelystad Airport moeten wijken, zodat Defensie meer ruimte...",
     "category": [
       "Actueel"
     ],
@@ -125,7 +125,7 @@
     "title": "NOS Journaal",
     "start": 1792283400000,
     "end": 1792299900000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Protest Frankrijk loopt uit de hand * Waterschappen teleurgesteld *...",
     "category": [
       "Actueel"
     ],
@@ -202,7 +202,7 @@
     "category": [
       "Sport"
     ],
-    "image": "https://tvgidsassets.nl/v388/upload/m/carrousel/marathon-van-amsterdam-778170152.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -424,7 +424,7 @@
     "title": "Studio sport",
     "start": 1792339800000,
     "end": 1792342800000,
-    "description": "Met livebeelden en samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Wielrennen: - slotdag WK baan in Shanghai - interview Otter,.....",
     "category": [
       "Sport"
     ],
@@ -438,7 +438,8 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "sport",
+        "updated"
       ]
     }
   },
@@ -584,7 +585,7 @@
     "title": "NOS Journaal",
     "start": 1792359000000,
     "end": 1792360200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Wielrennen: slotdag WK baan in Shanghai * Atletiek: marathon van Amsterdam.....",
     "category": [
       "Actueel"
     ],
@@ -598,7 +599,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
