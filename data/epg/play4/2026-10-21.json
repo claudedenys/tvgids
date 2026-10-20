@@ -1,9 +1,37 @@
 [
   {
-    "id": "play4:1792540800000:48zb9",
+    "id": "play4:1792536600000:vehkrz",
+    "channel": "play4",
+    "title": "De Tafel van Tine",
+    "start": 1792536600000,
+    "end": 1792541700000,
+    "description": "Samen met een karrenvracht aan Tafelgasten en Tafelspringers werpt Tine Embrechts een kritische, scherpe, interessante en soms ook grappige blik op de actualiteit van de dag.",
+    "category": [
+      "Talkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34282838~~2FEP057108390080%2Cimi%3A6139178127398be202208f15d9f9b916ef2ef22e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 9,
+    "episode": 34,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34282838~~2FEP057108390080,imi:6139178127398be202208f15d9f9b916ef2ef22e",
+      "episodeName": "Aflevering 34",
+      "genres": [
+        "Talkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29906662~~2FSH057108390000"
+    }
+  },
+  {
+    "id": "play4:1792541700000:48zb9",
     "channel": "play4",
     "title": "Geen uitzending",
-    "start": 1792540800000,
+    "start": 1792541700000,
     "end": 1792551000000,
     "description": null,
     "category": [],

@@ -63,21 +63,21 @@
     "title": "Croky Cup",
     "start": 1792642200000,
     "end": 1792648800000,
-    "description": "Vanuit het Kuipje in Westerlo, Antwerpen, België.",
+    "description": "Vanuit het Stedelijk Sportstadion Hasselt in Hasselt, België.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34242609~~2FEP037052220128%2Cimi%3Aec648b8e002ffe0bbb58a64cc4b2deee621c7ba2/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240998~~2FEP037052220120%2Cimi%3A51cadf942a81015fa2ff6d2410490f01911ed7cf/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 52220000,
-    "episode": 2026101628,
+    "episode": 2026101620,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34242609~~2FEP037052220128,imi:ec648b8e002ffe0bbb58a64cc4b2deee621c7ba2",
-      "episodeName": "KVC Westerlo - Patro Eisden",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240998~~2FEP037052220120,imi:51cadf942a81015fa2ff6d2410490f01911ed7cf",
+      "episodeName": "Sporting Hasselt - Cercle Brugge",
       "genres": [
         "Sport",
         "Voetbal"
@@ -178,17 +178,47 @@
     }
   },
   {
-    "id": "playsports3:1792674000000:15p1p85",
+    "id": "playsports3:1792674000000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1792674000000,
+    "end": 1792677000000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568048089%2Cimi%3A2b69f64d8400dab31f3da67e157ecf5cbb40f5e1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 568048089,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568048089,imi:2b69f64d8400dab31f3da67e157ecf5cbb40f5e1",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1792677000000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792674000000,
-    "end": 1792680600000,
+    "start": 1792677000000,
+    "end": 1792683600000,
     "description": "Vanuit het Stedelijk Sportstadion Hasselt in Hasselt, België.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240998~~2FEP037052220120%2Cimi%3A51cadf942a81015fa2ff6d2410490f01911ed7cf/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240998~~2FEP037052220120%2Cimi%3A4982d48ca26da28641c1c9ef7c480eed37243ef2/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 52220000,
@@ -196,7 +226,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240998~~2FEP037052220120,imi:51cadf942a81015fa2ff6d2410490f01911ed7cf",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240998~~2FEP037052220120,imi:4982d48ca26da28641c1c9ef7c480eed37243ef2",
       "episodeName": "Sporting Hasselt - Cercle Brugge",
       "genres": [
         "Sport",
@@ -208,33 +238,63 @@
     }
   },
   {
-    "id": "playsports3:1792680600000:15p1p85",
+    "id": "playsports3:1792683600000:1p3n9ye",
     "channel": "playsports3",
-    "title": "Croky Cup",
-    "start": 1792680600000,
-    "end": 1792687200000,
-    "description": "Vanuit het Maurice Dufrasne stadion in Luik, België.",
+    "title": "UEFA Champions League Highlights",
+    "start": 1792683600000,
+    "end": 1792685400000,
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34242803~~2FEP037052220130%2Cimi%3A995b6f1b3cf3a74bdd78825e107e9d435d4f3c15/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038%2Cimi%3Ac6c907b8a411301fc16fb48e9ea15403e0136ce3/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 52220000,
-    "episode": 2026101630,
+    "season": 102026,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34242803~~2FEP037052220130,imi:995b6f1b3cf3a74bdd78825e107e9d435d4f3c15",
-      "episodeName": "Standard - Dender",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038,imi:c6c907b8a411301fc16fb48e9ea15403e0136ce3",
+      "episodeName": "Aflevering 6",
       "genres": [
         "Sport",
         "Voetbal"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa250326f-0738-4d66-8fdf-3825435d29a2"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
+    }
+  },
+  {
+    "id": "playsports3:1792685400000:1p3n9ye",
+    "channel": "playsports3",
+    "title": "UEFA Champions League Highlights",
+    "start": 1792685400000,
+    "end": 1792687200000,
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34346482~~2FEP052508440039%2Cimi%3A36fd01ed3b1ac724474bea6bf0e21b7719ae085e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34346482~~2FEP052508440039,imi:36fd01ed3b1ac724474bea6bf0e21b7719ae085e",
+      "episodeName": "Aflevering 7",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
     }
   },
   {

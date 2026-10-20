@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1792540200000:1aas33z",
+    "id": "play5:1792540500000:1aas33z",
     "channel": "play5",
     "title": "Fire Country",
-    "start": 1792540200000,
-    "end": 1792543500000,
+    "start": 1792540500000,
+    "end": 1792543200000,
     "description": "Vijf jaar geleden liet Bode de stad achter zich met een groot geheim. Nu sluit hij zich als jonge veroordeelde aan bij een brandbestrijdingsprogramma voor gedetineerden, om zichzelf te bevrijden van zijn criminele verleden.",
     "category": [
       "Dramaserie"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "play5:1792543500000:48zb9",
+    "id": "play5:1792543200000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1792543500000,
-    "end": 1792551600000,
+    "start": 1792543200000,
+    "end": 1792551480000,
     "description": null,
     "category": [],
     "image": null,
@@ -44,6 +44,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3bd9fe5e6cd95a07acd4f84acddb4c6ea44b35d1",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1792551480000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1792551480000,
+    "end": 1792551600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:25881444c8e947af7aea2631a43cb22d28131632",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

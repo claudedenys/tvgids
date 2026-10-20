@@ -1,14 +1,14 @@
 [
   {
-    "id": "sport:playsports1:1792624860000:xykime",
+    "id": "sport:playsports1:1792623960000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792624860000,
-    "end": 1792645200000,
+    "start": 1792623960000,
+    "end": 1792645800000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -253,6 +253,75 @@
     ]
   },
   {
+    "id": "sport:playsports3:1792674000000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792674000000,
+    "end": 1792677000000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1792683600000:1p3n9ye",
+    "externalId": null,
+    "title": "Aflevering 6",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1792683600000,
+    "end": 1792685400000,
+    "status": "aankomend",
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1792685400000:1p3n9ye",
+    "externalId": null,
+    "title": "Aflevering 7",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1792685400000,
+    "end": 1792687200000,
+    "status": "aankomend",
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:playsports3:1792687200000:1o47cq7",
     "externalId": null,
     "title": "Aflevering 2",
@@ -322,15 +391,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792634220000:xykime",
+    "id": "sport:playsports4:1792634340000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792634220000,
-    "end": 1792645200000,
+    "start": 1792634340000,
+    "end": 1792644600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -345,15 +414,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792645200000:5qme33",
+    "id": "sport:playsports4:1792644600000:5qme33",
     "externalId": null,
     "title": "WTA1000: Dag 12, Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792645200000,
-    "end": 1792653360000,
+    "start": 1792644600000,
+    "end": 1792652940000,
     "status": "aankomend",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
@@ -368,15 +437,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792663200000:arbc9d",
+    "id": "sport:playsports4:1792662780000:arbc9d",
     "externalId": null,
     "title": "GP van Singapore: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1792663200000,
-    "end": 1792671000000,
+    "start": 1792662780000,
+    "end": 1792670580000,
     "status": "aankomend",
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "source": "epg",
@@ -391,17 +460,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792671000000:1kmei86",
+    "id": "sport:playsports4:1792670580000:8a2n92",
     "externalId": null,
-    "title": "ATP1000: Finale",
+    "title": "WTA Wuhan Open / ATP Shanghai Masters",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792671000000,
-    "end": 1792678200000,
+    "start": 1792670580000,
+    "end": 1792677600000,
     "status": "aankomend",
-    "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
+    "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -414,17 +483,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792678200000:1meoiy7",
+    "id": "sport:playsports4:1792677600000:1kmei86",
     "externalId": null,
-    "title": "WTA1000: Finale",
+    "title": "ATP1000: Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792678200000,
+    "start": 1792677600000,
     "end": 1792687200000,
     "status": "aankomend",
-    "description": "Verslag van de Wuhan Open, gespeeld in Wuhan, China.",
+    "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -897,15 +966,15 @@
     ]
   },
   {
-    "id": "sport:match:1792645200000:everton - chelsea",
+    "id": "sport:match:1792645800000:everton - chelsea",
     "externalId": null,
     "title": "Everton - Chelsea",
     "home": "Everton",
     "away": "Chelsea",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792645200000,
-    "end": 1792652340000,
+    "start": 1792645800000,
+    "end": 1792652580000,
     "status": "aankomend",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
@@ -920,15 +989,15 @@
     ]
   },
   {
-    "id": "sport:match:1792652340000:manchester city - ipswich town",
+    "id": "sport:match:1792652580000:manchester city - ipswich town",
     "externalId": null,
     "title": "Manchester City - Ipswich Town",
     "home": "Manchester City",
     "away": "Ipswich Town",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792652340000,
-    "end": 1792659540000,
+    "start": 1792652580000,
+    "end": 1792659240000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "source": "epg",
@@ -943,15 +1012,15 @@
     ]
   },
   {
-    "id": "sport:match:1792659540000:newcastle united - aston villa",
+    "id": "sport:match:1792659240000:newcastle united - aston villa",
     "externalId": null,
     "title": "Newcastle United - Aston Villa",
     "home": "Newcastle United",
     "away": "Aston Villa",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792659540000,
-    "end": 1792665900000,
+    "start": 1792659240000,
+    "end": 1792665600000,
     "status": "aankomend",
     "description": "St James' Park",
     "source": "epg",
@@ -966,14 +1035,14 @@
     ]
   },
   {
-    "id": "sport:match:1792665900000:bayer leverkusen - sc freiburg",
+    "id": "sport:match:1792665600000:bayer leverkusen - sc freiburg",
     "externalId": null,
     "title": "Bayer Leverkusen - SC Freiburg",
     "home": "Bayer Leverkusen",
     "away": "SC Freiburg",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792665900000,
+    "start": 1792665600000,
     "end": 1792672140000,
     "status": "aankomend",
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
@@ -1127,38 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1792642200000:kvc westerlo - patro eisden",
-    "externalId": null,
-    "title": "KVC Westerlo - Patro Eisden",
-    "home": "KVC Westerlo",
-    "away": "Patro Eisden",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1792642200000,
-    "end": 1792648800000,
-    "status": "aankomend",
-    "description": "Vanuit het Kuipje in Westerlo, Antwerpen, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792674000000:sporting hasselt - cercle brugge",
+    "id": "sport:match:1792642200000:sporting hasselt - cercle brugge",
     "externalId": null,
     "title": "Sporting Hasselt - Cercle Brugge",
     "home": "Sporting Hasselt",
     "away": "Cercle Brugge",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792674000000,
-    "end": 1792680600000,
+    "start": 1792642200000,
+    "end": 1792648800000,
     "status": "aankomend",
     "description": "Vanuit het Stedelijk Sportstadion Hasselt in Hasselt, België.",
     "source": "epg",
@@ -1173,17 +1219,17 @@
     ]
   },
   {
-    "id": "sport:match:1792680600000:standard - dender",
+    "id": "sport:match:1792677000000:sporting hasselt - cercle brugge",
     "externalId": null,
-    "title": "Standard - Dender",
-    "home": "Standard",
-    "away": "Dender",
+    "title": "Sporting Hasselt - Cercle Brugge",
+    "home": "Sporting Hasselt",
+    "away": "Cercle Brugge",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792680600000,
-    "end": 1792687200000,
+    "start": 1792677000000,
+    "end": 1792683600000,
     "status": "aankomend",
-    "description": "Vanuit het Maurice Dufrasne stadion in Luik, België.",
+    "description": "Vanuit het Stedelijk Sportstadion Hasselt in Hasselt, België.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1227,7 +1273,7 @@
     "competition": null,
     "sport": "Basketbal",
     "start": 1792624440000,
-    "end": 1792634220000,
+    "end": 1792634340000,
     "status": "aankomend",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",
@@ -1242,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1792653360000:antwerp giants - kortrijk",
+    "id": "sport:match:1792652940000:antwerp giants - kortrijk",
     "externalId": null,
     "title": "Antwerp Giants - Kortrijk",
     "home": "Antwerp Giants",
     "away": "Kortrijk",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1792653360000,
-    "end": 1792663200000,
+    "start": 1792652940000,
+    "end": 1792662780000,
     "status": "aankomend",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",
@@ -1273,9 +1319,32 @@
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
     "start": 1792687200000,
-    "end": 1792694160000,
+    "end": 1792694400000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Juventus - Stade Rennais, gespeeld in de competitiefase van de UEFA Europa League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1792694400000:fc union berlin - borussia dortmund",
+    "externalId": null,
+    "title": "FC Union Berlin - Borussia Dortmund",
+    "home": "FC Union Berlin",
+    "away": "Borussia Dortmund",
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1792694400000,
+    "end": 1792695300000,
+    "status": "aankomend",
+    "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"

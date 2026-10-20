@@ -1,10 +1,40 @@
 [
   {
-    "id": "play6:1792540800000:r5y6ed",
+    "id": "play6:1792537200000:1ex9hz",
+    "channel": "play6",
+    "title": "World's Most Dangerous Prisoners",
+    "start": 1792537200000,
+    "end": 1792541400000,
+    "description": "Bendeleider 'Mugsy' Williams zorgt ook in de gevangenis voor een golf van geweld. Zijn daden leiden uiteindelijk tot een bloedige confrontatie in een gevangenis in Nevada, waarbij meerdere gevangenen omkomen.",
+    "category": [
+      "Docu",
+      "Misdaad"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30674933~~2FEP049872620024%2Cimi%3A6a4c1eefc6ec31d967f993da06de35a989d1f6ed/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 10,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30674933~~2FEP049872620024,imi:6a4c1eefc6ec31d967f993da06de35a989d1f6ed",
+      "episodeName": "Williams",
+      "genres": [
+        "Docu",
+        "Misdaad"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26391761~~2FSH049872620000"
+    }
+  },
+  {
+    "id": "play6:1792541400000:r5y6ed",
     "channel": "play6",
     "title": "Pawn Stars: Best Of",
-    "start": 1792540800000,
-    "end": 1792544100000,
+    "start": 1792541400000,
+    "end": 1792543800000,
     "description": "Objecten van de meest beruchte criminelen in de geschiedenis komen de winkel binnen.",
     "category": [
       "Reality",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "play6:1792544100000:48zb9",
+    "id": "play6:1792543800000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1792544100000,
-    "end": 1792551600000,
+    "start": 1792543800000,
+    "end": 1792551480000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:aa91485b50a068f4de3096c8db4c05f3e817a856",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1792551480000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1792551480000,
+    "end": 1792551600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:de62f6434fcef3f76bb29e3f4ad1f586a3c791e6",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

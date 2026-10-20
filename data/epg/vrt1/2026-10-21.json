@@ -762,7 +762,7 @@
     "channel": "vrt1",
     "title": "Clips",
     "start": 1792589700000,
-    "end": 1792590900000,
+    "end": 1792591200000,
     "description": "Clips.",
     "category": [
       "Entertainment"
@@ -786,100 +786,40 @@
     }
   },
   {
-    "id": "vrt1:1792590900000:14zi71g",
+    "id": "vrt1:1792591200000:1yi9jwv",
     "channel": "vrt1",
-    "title": "Dierendokters 24/7",
-    "start": 1792590900000,
-    "end": 1792592400000,
-    "description": "Merrie Iksen wordt binnengebracht met een hevige koliekaanval. De eigenaars staan voor een dilemma. Een boer vond een van zijn kalfjes ineengezakt in de stal en brengt het diertje meteen naar de faculteit. Poes Mila heeft IMHA.",
+    "title": "Sporza: European Open",
+    "start": 1792591200000,
+    "end": 1792598520000,
+    "description": "Verslag van de European Open in Brussel.",
     "category": [
-      "Docu",
-      "Medisch"
+      "Sport",
+      "Tennis"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18296006~~2FEP032088190016%2Cimi%3Af6f425ba1223ac8836751e614030a3852079fa51/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34400680~~2FEP048894390018%2Cimi%3A96c14f664e69213949fed26525b4b5c9df575039/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 2,
-    "episode": 4,
+    "season": 94390000,
+    "episode": 2026102118,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F18296006~~2FEP032088190016,imi:f6f425ba1223ac8836751e614030a3852079fa51",
-      "episodeName": "Aflevering 4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34400680~~2FEP048894390018,imi:96c14f664e69213949fed26525b4b5c9df575039",
+      "episodeName": null,
       "genres": [
-        "Docu",
-        "Medisch"
-      ],
-      "productionDate": "2020",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F689e5c98-3e26-4b4e-8e6f-588f70c4d509"
-    }
-  },
-  {
-    "id": "vrt1:1792592400000:13swm3w",
-    "channel": "vrt1",
-    "title": "De Noodcentrale",
-    "start": 1792592400000,
-    "end": 1792595100000,
-    "description": "Een toerist maakt zich zorgen over een pinguïn op het strand. Calltakers Mats en Iris krijgen verschillende telefoontjes over een agressieve fietser. In Vlaams-Brabant probeert Sjurd via de telefoon een reanimatie op te starten, maar dat loopt niet gemakkelijk.",
-    "category": [
-      "Reality",
-      "Docu"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34281254~~2FEP025496100041%2Cimi%3A25acf9288d99673462b95ca5c02155f168dee42e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 5,
-    "episode": 8,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34281254~~2FEP025496100041,imi:25acf9288d99673462b95ca5c02155f168dee42e",
-      "episodeName": "Aflevering 8",
-      "genres": [
-        "Reality",
-        "Docu"
+        "Sport",
+        "Tennis"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb9030821-aa7d-4d0e-9372-82bf1367ecb2"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25802650~~2FSH048894390000"
     }
   },
   {
-    "id": "vrt1:1792595100000:4m7t01",
-    "channel": "vrt1",
-    "title": "Witse",
-    "start": 1792595100000,
-    "end": 1792598760000,
-    "description": "Als het lijk van een vermiste landbouwer opgevist wordt, reageert de familie anders dan gedacht. Wanneer blijkt dat de man vermoord werd, en niet door verdrinking stierf, probeert Witse het raadsel op te lossen.",
-    "category": [
-      "Misdaaddrama",
-      "Mysterie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14680109~~2FEP027596440031%2Cimi%3Ae2dfe0f036e7259fe3ad6967bca57bf55b13f99e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 2,
-    "episode": 5,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F14680109~~2FEP027596440031,imi:e2dfe0f036e7259fe3ad6967bca57bf55b13f99e",
-      "episodeName": "Uit de diepte",
-      "genres": [
-        "Misdaaddrama",
-        "Mysterie"
-      ],
-      "productionDate": "2004",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F200a8cef-85ab-42c3-968f-57cfd7e8f562"
-    }
-  },
-  {
-    "id": "vrt1:1792598760000:qpj1ag",
+    "id": "vrt1:1792598520000:qpj1ag",
     "channel": "vrt1",
     "title": "Het weer (vooravond)",
-    "start": 1792598760000,
+    "start": 1792598520000,
     "end": 1792599000000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
@@ -1052,7 +992,7 @@
     "channel": "vrt1",
     "title": "Het weer",
     "start": 1792607100000,
-    "end": 1792607400000,
+    "end": 1792607700000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
@@ -1078,11 +1018,11 @@
     }
   },
   {
-    "id": "vrt1:1792607400000:4k2soi",
+    "id": "vrt1:1792607700000:4k2soi",
     "channel": "vrt1",
     "title": "Thuis",
-    "start": 1792607400000,
-    "end": 1792608900000,
+    "start": 1792607700000,
+    "end": 1792609200000,
     "description": "Nancy zit met een telefoontje van haar dochter in haar maag. Simonne is ongerust wanneer ze merkt dat Kaat niet thuis heeft geslapen en dat blijkt niet helemaal onterecht.",
     "category": [
       "Dramaserie",
@@ -1108,11 +1048,11 @@
     }
   },
   {
-    "id": "vrt1:1792608900000:39z16v",
+    "id": "vrt1:1792609200000:39z16v",
     "channel": "vrt1",
     "title": "VRT NWS Pano",
-    "start": 1792608900000,
-    "end": 1792611600000,
+    "start": 1792609200000,
+    "end": 1792611900000,
     "description": "Duidingsmagazine met indringende reportages over de grote thema's van deze tijd. Een gedreven team van reporters diept de beste nieuwsverhalen uit en zoekt het antwoord op actuele vragen.",
     "category": [
       "Docu"
@@ -1136,11 +1076,11 @@
     }
   },
   {
-    "id": "vrt1:1792611600000:6iq1kr",
+    "id": "vrt1:1792611900000:6iq1kr",
     "channel": "vrt1",
     "title": "Ons huis, nieuw huis",
-    "start": 1792611600000,
-    "end": 1792615500000,
+    "start": 1792611900000,
+    "end": 1792615800000,
     "description": "Caroline en Sebastiaan wonen in een statig maar stevig verouderd huis in Diepenbeek. Met hun drukke jobs hebben ze eigenlijk geen tijd voor verbouwingen, laat staan om zelf te renoveren.",
     "category": [
       "Huis & Tuin"
@@ -1164,11 +1104,11 @@
     }
   },
   {
-    "id": "vrt1:1792615500000:39vxy3",
+    "id": "vrt1:1792615800000:39vxy3",
     "channel": "vrt1",
     "title": "VRT NWS laat",
-    "start": 1792615500000,
-    "end": 1792616400000,
+    "start": 1792615800000,
+    "end": 1792616700000,
     "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
     "category": [
       "Actua"
@@ -1192,11 +1132,11 @@
     }
   },
   {
-    "id": "vrt1:1792616400000:behtd8",
+    "id": "vrt1:1792616700000:behtd8",
     "channel": "vrt1",
     "title": "Het weer (laat)",
-    "start": 1792616400000,
-    "end": 1792616700000,
+    "start": 1792616700000,
+    "end": 1792617000000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1220,11 +1160,11 @@
     }
   },
   {
-    "id": "vrt1:1792616700000:13swm3w",
+    "id": "vrt1:1792617000000:13swm3w",
     "channel": "vrt1",
     "title": "De Noodcentrale",
-    "start": 1792616700000,
-    "end": 1792619460000,
+    "start": 1792617000000,
+    "end": 1792619760000,
     "description": "Een toerist maakt zich zorgen over een pinguïn op het strand. Calltakers Mats en Iris krijgen verschillende telefoontjes over een agressieve fietser. In Vlaams-Brabant probeert Sjurd via de telefoon een reanimatie op te starten, maar dat loopt niet gemakkelijk.",
     "category": [
       "Reality",
@@ -1250,11 +1190,11 @@
     }
   },
   {
-    "id": "vrt1:1792619460000:1btyxep",
+    "id": "vrt1:1792619760000:1btyxep",
     "channel": "vrt1",
     "title": "Winst joker+ / lotto",
-    "start": 1792619460000,
-    "end": 1792619520000,
+    "start": 1792619760000,
+    "end": 1792619820000,
     "description": "Winstverdeling van de joker+ / lotto.",
     "category": [
       "Spelprogramma"
@@ -1278,11 +1218,11 @@
     }
   },
   {
-    "id": "vrt1:1792619520000:ykl842",
+    "id": "vrt1:1792619820000:ykl842",
     "channel": "vrt1",
     "title": "Keno",
-    "start": 1792619520000,
-    "end": 1792619580000,
+    "start": 1792619820000,
+    "end": 1792619880000,
     "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
     "category": [
       "Spelprogramma",
@@ -1308,11 +1248,11 @@
     }
   },
   {
-    "id": "vrt1:1792619580000:jzl470",
+    "id": "vrt1:1792619880000:jzl470",
     "channel": "vrt1",
     "title": "Euromillions winstverdeling",
-    "start": 1792619580000,
-    "end": 1792619700000,
+    "start": 1792619880000,
+    "end": 1792620000000,
     "description": "Een uitzending van de uitslagen en de winstverdeling van de Euromillions loterij.",
     "category": [
       "Entertainment"
@@ -1333,36 +1273,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22958591~~2FSH044581140000"
-    }
-  },
-  {
-    "id": "vrt1:1792619700000:4k2soi",
-    "channel": "vrt1",
-    "title": "Thuis",
-    "start": 1792619700000,
-    "end": 1792621200000,
-    "description": "Nancy zit met een telefoontje van haar dochter in haar maag. Simonne is ongerust wanneer ze merkt dat Kaat niet thuis heeft geslapen en dat blijkt niet helemaal onterecht.",
-    "category": [
-      "Dramaserie",
-      "Soap"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34282233~~2FEP023120352487%2Cimi%3A32bebc57d4e4f37e84c5c27a7bef3e72754172ea/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 32,
-    "episode": 6147,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34282233~~2FEP023120352487,imi:32bebc57d4e4f37e84c5c27a7bef3e72754172ea",
-      "episodeName": "Aflevering 6147",
-      "genres": [
-        "Dramaserie",
-        "Soap"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fe7f97702-c08c-4d38-b008-c773c1d246bc"
     }
   }
 ]

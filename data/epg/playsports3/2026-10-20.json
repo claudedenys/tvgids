@@ -122,7 +122,7 @@
     "channel": "playsports3",
     "title": "UEFA Conference League",
     "start": 1792484400000,
-    "end": 1792490700000,
+    "end": 1792490760000,
     "description": "Vanuit het Daio Wasabi Stayen Stadium in Sint-Truiden, België.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports3:1792490700000:16v40h",
+    "id": "playsports3:1792490760000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1792490700000,
+    "start": 1792490760000,
     "end": 1792497300000,
     "description": "Verslag van de wedstrijd KAA Gent - Aarhus GF, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
@@ -242,7 +242,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1792506000000,
-    "end": 1792512300000,
+    "end": 1792512480000,
     "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -268,10 +268,10 @@
     }
   },
   {
-    "id": "playsports3:1792512300000:i67pjl",
+    "id": "playsports3:1792512480000:i67pjl",
     "channel": "playsports3",
     "title": "Play Sports Highlights",
-    "start": 1792512300000,
+    "start": 1792512480000,
     "end": 1792514100000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
@@ -388,40 +388,40 @@
     }
   },
   {
-    "id": "playsports3:1792529700000:qjkkk5",
+    "id": "playsports3:1792529700000:culsgw",
     "channel": "playsports3",
-    "title": "Premier League Stories",
+    "title": "Croky Cup Highlights",
     "start": 1792529700000,
-    "end": 1792531200000,
-    "description": "Volg Coventry City terwijl de club zich voorbereidt op de langverwachte terugkeer naar de Premier League, waarmee een einde komt aan een afwezigheid van 25 jaar in de hoogste klasse van het Engelse voetbal.",
+    "end": 1792531560000,
+    "description": "Hoogtepunten van de wedstrijden gespeeld in de Croky Cup.",
     "category": [
-      "Docu",
+      "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33680789~~2FEP043309820269%2Cimi%3A5504278a2cc272238e71514cc19d47316bab6d33/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34292464~~2FSH066472510000~~2F568048093%2Cimi%3A9edb1592774c0884eb3f5751ca8f4da41f4ebdaf/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 6,
-    "episode": 12,
+    "season": 72510000,
+    "episode": 568048093,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33680789~~2FEP043309820269,imi:5504278a2cc272238e71514cc19d47316bab6d33",
-      "episodeName": "Coventry Rising",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34292464~~2FSH066472510000~~2F568048093,imi:9edb1592774c0884eb3f5751ca8f4da41f4ebdaf",
+      "episodeName": null,
       "genres": [
-        "Docu",
+        "Sport",
         "Voetbal"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34292464~~2FSH066472510000"
     }
   },
   {
-    "id": "playsports3:1792531200000:i67pjl",
+    "id": "playsports3:1792531560000:i67pjl",
     "channel": "playsports3",
     "title": "Play Sports Highlights",
-    "start": 1792531200000,
+    "start": 1792531560000,
     "end": 1792533300000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [

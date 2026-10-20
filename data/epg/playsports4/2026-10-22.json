@@ -4,7 +4,7 @@
     "channel": "playsports4",
     "title": "BNXT League",
     "start": 1792624440000,
-    "end": 1792634220000,
+    "end": 1792634340000,
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1792634220000:xykime",
+    "id": "playsports4:1792634340000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1792634220000,
-    "end": 1792645200000,
+    "start": 1792634340000,
+    "end": 1792644600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports4:1792645200000:5qme33",
+    "id": "playsports4:1792644600000:5qme33",
     "channel": "playsports4",
     "title": "Tennis: China Open 2026",
-    "start": 1792645200000,
-    "end": 1792653360000,
+    "start": 1792644600000,
+    "end": 1792652940000,
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1792653360000:1ng6s",
+    "id": "playsports4:1792652940000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1792653360000,
-    "end": 1792663200000,
+    "start": 1792652940000,
+    "end": 1792662780000,
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1792663200000:arbc9d",
+    "id": "playsports4:1792662780000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1792663200000,
-    "end": 1792671000000,
+    "start": 1792662780000,
+    "end": 1792670580000,
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "category": [
       "Sport",
@@ -148,11 +148,41 @@
     }
   },
   {
-    "id": "playsports4:1792671000000:1kmei86",
+    "id": "playsports4:1792670580000:8a2n92",
+    "channel": "playsports4",
+    "title": "Tennis",
+    "start": 1792670580000,
+    "end": 1792677600000,
+    "description": "Live verslag van verschillende tennisevenementen.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240801~~2FEP028686360955%2Cimi%3Adb7d85a076a8d8969c87bfac653fdc2998e8cab1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 86360000,
+    "episode": 2026101755,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240801~~2FEP028686360955,imi:db7d85a076a8d8969c87bfac653fdc2998e8cab1",
+      "episodeName": "WTA Wuhan Open / ATP Shanghai Masters",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F71818c23-56e7-41c1-8def-9b99474678e7"
+    }
+  },
+  {
+    "id": "playsports4:1792677600000:1kmei86",
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
-    "start": 1792671000000,
-    "end": 1792678200000,
+    "start": 1792677600000,
+    "end": 1792687200000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
@@ -178,41 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1792678200000:1meoiy7",
-    "channel": "playsports4",
-    "title": "Tennis: Wuhan Open 2026",
-    "start": 1792678200000,
-    "end": 1792687200000,
-    "description": "Verslag van de Wuhan Open, gespeeld in Wuhan, China.",
-    "category": [
-      "Sport",
-      "Tennis"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34234393~~2FEP066369030001%2Cimi%3A97a3cd1afef63458f29e09eef4a96d7f1fe93906/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 69030000,
-    "episode": 2026101801,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34234393~~2FEP066369030001,imi:97a3cd1afef63458f29e09eef4a96d7f1fe93906",
-      "episodeName": "WTA1000: Finale",
-      "genres": [
-        "Sport",
-        "Tennis"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33571998~~2FSH066369030000"
-    }
-  },
-  {
     "id": "playsports4:1792687200000:ear1gl",
     "channel": "playsports4",
     "title": "UEFA Europa League",
     "start": 1792687200000,
-    "end": 1792694160000,
+    "end": 1792694400000,
     "description": "Verslag van de wedstrijd Juventus - Stade Rennais, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -238,27 +238,33 @@
     }
   },
   {
-    "id": "playsports4:1792694160000:48zb9",
+    "id": "playsports4:1792694400000:11wg5yb",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1792694160000,
+    "title": "Bundesliga",
+    "start": 1792694400000,
     "end": 1792695300000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614482~~2FEP033948601872%2Cimi%3A7fa6f9d51a4339456ffafbc62dbd7514218050c6/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 48600000,
+    "episode": 2026101772,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1d4a9c926a8aad4a5dd5874b80038be1604a0c27",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614482~~2FEP033948601872,imi:7fa6f9d51a4339456ffafbc62dbd7514218050c6",
+      "episodeName": "FC Union Berlin - Borussia Dortmund",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
     }
   },
   {

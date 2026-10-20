@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1792451340000,
     "end": 1792472400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -32,7 +32,7 @@
     "sport": null,
     "start": 1792447200000,
     "end": 1792468800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -55,7 +55,7 @@
     "sport": null,
     "start": 1792468800000,
     "end": 1792490400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +124,7 @@
     "sport": null,
     "start": 1792455720000,
     "end": 1792472100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -161,14 +161,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792512300000:i67pjl",
+    "id": "sport:playsports3:1792512480000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792512300000,
+    "start": 1792512480000,
     "end": 1792514100000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
@@ -207,17 +207,17 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792529700000:qjkkk5",
+    "id": "sport:playsports3:1792529700000:culsgw",
     "externalId": null,
-    "title": "Coventry Rising",
+    "title": "Croky Cup Highlights",
     "home": null,
     "away": null,
-    "competition": "Premier League",
+    "competition": null,
     "sport": "Voetbal",
     "start": 1792529700000,
-    "end": 1792531200000,
+    "end": 1792531560000,
     "status": "aankomend",
-    "description": "Volg Coventry City terwijl de club zich voorbereidt op de langverwachte terugkeer naar de Premier League, waarmee een einde komt aan een afwezigheid van 25 jaar in de hoogste klasse van het Engelse voetbal.",
+    "description": "Hoogtepunten van de wedstrijden gespeeld in de Croky Cup.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -230,14 +230,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792531200000:i67pjl",
+    "id": "sport:playsports3:1792531560000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792531200000,
+    "start": 1792531560000,
     "end": 1792533300000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
@@ -285,7 +285,7 @@
     "sport": "Tennis",
     "start": 1792448340000,
     "end": 1792454760000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -308,7 +308,7 @@
     "sport": null,
     "start": 1792454760000,
     "end": 1792471200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -331,7 +331,7 @@
     "sport": "Tennis",
     "start": 1792471200000,
     "end": 1792477560000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -354,7 +354,7 @@
     "sport": "Tennis",
     "start": 1792477560000,
     "end": 1792483740000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
     "platforms": [
@@ -377,7 +377,7 @@
     "sport": "Tennis",
     "start": 1792483740000,
     "end": 1792491780000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -492,7 +492,7 @@
     "sport": null,
     "start": 1792447200000,
     "end": 1792468800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -515,7 +515,7 @@
     "sport": null,
     "start": 1792468800000,
     "end": 1792490400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -607,7 +607,7 @@
     "sport": "Golf",
     "start": 1792449000000,
     "end": 1792459800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -630,7 +630,7 @@
     "sport": "Golf",
     "start": 1792459800000,
     "end": 1792467000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Aramco Korea Championship, gespeeld in Goyang, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -653,7 +653,7 @@
     "sport": "Golf",
     "start": 1792467000000,
     "end": 1792472400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Buick LPGA Shanghai, gespeeld op de Sheshan Golf Club in Shanghai, China.",
     "source": "epg",
     "platforms": [
@@ -676,7 +676,7 @@
     "sport": "Golf",
     "start": 1792472400000,
     "end": 1792479600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Aramco Korea Championship, gespeeld in Goyang, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -699,7 +699,7 @@
     "sport": "Golf",
     "start": 1792479600000,
     "end": 1792490400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de vierde en laatste dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -952,7 +952,7 @@
     "sport": "Voetbal",
     "start": 1792472400000,
     "end": 1792478700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -975,7 +975,7 @@
     "sport": "Voetbal",
     "start": 1792478700000,
     "end": 1792484820000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -998,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1792484820000,
     "end": 1792491360000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1182,7 +1182,7 @@
     "sport": "Voetbal",
     "start": 1792449600000,
     "end": 1792455720000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1205,7 @@
     "sport": "Voetbal",
     "start": 1792472100000,
     "end": 1792478100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Benfica - Celtic, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1228,7 @@
     "sport": "Voetbal",
     "start": 1792478100000,
     "end": 1792484400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Celta de Vigo - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1250,8 +1250,8 @@
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
     "start": 1792484400000,
-    "end": 1792490700000,
-    "status": "aankomend",
+    "end": 1792490760000,
+    "status": "live",
     "description": "Vanuit het Daio Wasabi Stayen Stadium in Sint-Truiden, België.",
     "source": "epg",
     "platforms": [
@@ -1265,14 +1265,14 @@
     ]
   },
   {
-    "id": "sport:match:1792490700000:kaa gent - aarhus gf",
+    "id": "sport:match:1792490760000:kaa gent - aarhus gf",
     "externalId": null,
     "title": "KAA Gent - Aarhus GF",
     "home": "KAA Gent",
     "away": "Aarhus GF",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1792490700000,
+    "start": 1792490760000,
     "end": 1792497300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd KAA Gent - Aarhus GF, gespeeld in de competitiefase van de UEFA Conference League.",
@@ -1319,7 +1319,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1792506000000,
-    "end": 1792512300000,
+    "end": 1792512480000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",

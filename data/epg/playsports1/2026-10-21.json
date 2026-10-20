@@ -32,7 +32,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1792558800000,
-    "end": 1792565040000,
+    "end": 1792565400000,
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "category": [
       "Sport",
@@ -58,17 +58,47 @@
     }
   },
   {
-    "id": "playsports1:1792565040000:11wg5yb",
+    "id": "playsports1:1792565400000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792565400000,
+    "end": 1792566000000,
+    "description": "Vanuit Elland Road in Leeds, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583004~~2FEP033946612490%2Cimi%3A4d1aa19cf56e4c22d3422d672970d5462982f19a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101890,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583004~~2FEP033946612490,imi:4d1aa19cf56e4c22d3422d672970d5462982f19a",
+      "episodeName": "Leeds United - Manchester United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792566000000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792565040000,
-    "end": 1792571340000,
+    "start": 1792566000000,
+    "end": 1792572420000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871%2Cimi%3A0168ddd04ff7f1c195efd42c893557c894fc69a6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871%2Cimi%3A046c34d32709d01673dd27f82281f7ecb5b031d0/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -76,7 +106,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871,imi:0168ddd04ff7f1c195efd42c893557c894fc69a6",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871,imi:046c34d32709d01673dd27f82281f7ecb5b031d0",
       "episodeName": "Eintracht Frankfurt - 1. FC Köln",
       "genres": [
         "Sport",
@@ -88,17 +118,17 @@
     }
   },
   {
-    "id": "playsports1:1792571340000:11wg5yb",
+    "id": "playsports1:1792572420000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792571340000,
-    "end": 1792577700000,
+    "start": 1792572420000,
+    "end": 1792578780000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869%2Cimi%3Ad176f8d05460114a5fae307da3f50a2395b31cad/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869%2Cimi%3Ac7a934c8e321caf97dbc1de6db2360608d07c9e4/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -106,7 +136,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869,imi:d176f8d05460114a5fae307da3f50a2395b31cad",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869,imi:c7a934c8e321caf97dbc1de6db2360608d07c9e4",
       "episodeName": "Bayern München - RB Leipzig",
       "genres": [
         "Sport",
@@ -118,17 +148,17 @@
     }
   },
   {
-    "id": "playsports1:1792577700000:1prlzbg",
+    "id": "playsports1:1792578780000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792577700000,
-    "end": 1792584840000,
+    "start": 1792578780000,
+    "end": 1792585380000,
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582981~~2FEP033946612489%2Cimi%3A24f51d211425ae8a6abdbd133cbaff7ece09259c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582981~~2FEP033946612489%2Cimi%3Aaed73f63f3b87bc3be4710ae0f3b6d6dc6470d60/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -136,7 +166,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582981~~2FEP033946612489,imi:24f51d211425ae8a6abdbd133cbaff7ece09259c",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582981~~2FEP033946612489,imi:aed73f63f3b87bc3be4710ae0f3b6d6dc6470d60",
       "episodeName": "Everton - Chelsea",
       "genres": [
         "Sport",
@@ -148,17 +178,17 @@
     }
   },
   {
-    "id": "playsports1:1792584840000:1prlzbg",
+    "id": "playsports1:1792585380000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792584840000,
+    "start": 1792585380000,
     "end": 1792592040000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493%2Cimi%3A78e3f40668875f51353c16ab24da86aded433040/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493%2Cimi%3A16956cb12a2def1cf03cf2fba2634f9b8f5614e4/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -166,7 +196,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493,imi:78e3f40668875f51353c16ab24da86aded433040",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493,imi:16956cb12a2def1cf03cf2fba2634f9b8f5614e4",
       "episodeName": "Manchester City - Ipswich Town",
       "genres": [
         "Sport",
@@ -212,7 +242,7 @@
     "channel": "playsports1",
     "title": "Premier League Review",
     "start": 1792598400000,
-    "end": 1792601700000,
+    "end": 1792601580000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
@@ -238,17 +268,17 @@
     }
   },
   {
-    "id": "playsports1:1792601700000:fly4em",
+    "id": "playsports1:1792601580000:fly4em",
     "channel": "playsports1",
     "title": "Bundesliga Highlights",
-    "start": 1792601700000,
-    "end": 1792604940000,
+    "start": 1792601580000,
+    "end": 1792604760000,
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34301336~~2FEP050961140064%2Cimi%3A72e450f167b675a12b948f131457cf90e8011e50/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34301336~~2FEP050961140064%2Cimi%3A1baea9d389bb5e17efcb4cca66cf3b32ce1b9208/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -256,7 +286,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34301336~~2FEP050961140064,imi:72e450f167b675a12b948f131457cf90e8011e50",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34301336~~2FEP050961140064,imi:1baea9d389bb5e17efcb4cca66cf3b32ce1b9208",
       "episodeName": "Aflevering 6",
       "genres": [
         "Sport",
@@ -268,17 +298,17 @@
     }
   },
   {
-    "id": "playsports1:1792604940000:1prlzbg",
+    "id": "playsports1:1792604760000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792604940000,
-    "end": 1792611300000,
+    "start": 1792604760000,
+    "end": 1792611180000,
     "description": "Vanuit Elland Road in Leeds, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583004~~2FEP033946612490%2Cimi%3A867c77384534026c5850d00234fa2d41be3048a0/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583004~~2FEP033946612490%2Cimi%3Addade3a180abd857bdccb92c573a865684eee53b/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -286,7 +316,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583004~~2FEP033946612490,imi:867c77384534026c5850d00234fa2d41be3048a0",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583004~~2FEP033946612490,imi:ddade3a180abd857bdccb92c573a865684eee53b",
       "episodeName": "Leeds United - Manchester United",
       "genres": [
         "Sport",
@@ -298,17 +328,17 @@
     }
   },
   {
-    "id": "playsports1:1792611300000:1prlzbg",
+    "id": "playsports1:1792611180000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1792611300000,
-    "end": 1792618500000,
+    "start": 1792611180000,
+    "end": 1792617600000,
     "description": "Vanuit The City Ground in Nottingham, England.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492%2Cimi%3Ae96ded9705741bfc8641274930b1815385593977/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492%2Cimi%3A6d710d5ab45a8526097adacf271708beb2ea8d06/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -316,7 +346,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492,imi:e96ded9705741bfc8641274930b1815385593977",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492,imi:6d710d5ab45a8526097adacf271708beb2ea8d06",
       "episodeName": "Nottingham Forest - Arsenal",
       "genres": [
         "Sport",
@@ -328,17 +358,17 @@
     }
   },
   {
-    "id": "playsports1:1792618500000:11wg5yb",
+    "id": "playsports1:1792617600000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792618500000,
-    "end": 1792624860000,
+    "start": 1792617600000,
+    "end": 1792623960000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871%2Cimi%3A36c54a86c313195937734b66a0defd721bce5c13/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871%2Cimi%3A3e5a69d9111d95b066f2adc4b9f88623203d6eca/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -346,7 +376,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871,imi:36c54a86c313195937734b66a0defd721bce5c13",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871,imi:3e5a69d9111d95b066f2adc4b9f88623203d6eca",
       "episodeName": "Eintracht Frankfurt - 1. FC Köln",
       "genres": [
         "Sport",

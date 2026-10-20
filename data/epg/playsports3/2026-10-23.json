@@ -63,21 +63,21 @@
     "title": "Croky Cup",
     "start": 1792728900000,
     "end": 1792735200000,
-    "description": "Vanuit het Freethiel Stadion in Beveren, België.",
+    "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34242779~~2FEP037052220129%2Cimi%3Af60fd0ada27aec87503b5d5d8c11e05a0f55f1ed/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34242841~~2FEP037052220131%2Cimi%3Af83a36f9e9b3dd1870b0f3a0a7b697ddb8ce1c73/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 52220000,
-    "episode": 2026101629,
+    "episode": 2026101731,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34242779~~2FEP037052220129,imi:f60fd0ada27aec87503b5d5d8c11e05a0f55f1ed",
-      "episodeName": "SK Beveren - RSC Habay",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34242841~~2FEP037052220131,imi:f83a36f9e9b3dd1870b0f3a0a7b697ddb8ce1c73",
+      "episodeName": "KSK Heist - Royal Antwerp FC",
       "genres": [
         "Sport",
         "Voetbal"
@@ -178,17 +178,107 @@
     }
   },
   {
-    "id": "playsports3:1792760400000:15p1p85",
+    "id": "playsports3:1792760400000:1prlzbg",
+    "channel": "playsports3",
+    "title": "Premier League",
+    "start": 1792760400000,
+    "end": 1792761060000,
+    "description": "Vanuit The City Ground in Nottingham, England.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492%2Cimi%3A3abe693be56580aa10f8a6303124b07d138f5b6b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101892,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492,imi:3abe693be56580aa10f8a6303124b07d138f5b6b",
+      "episodeName": "Nottingham Forest - Arsenal",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports3:1792761060000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1792761060000,
+    "end": 1792761420000,
+    "description": "Verslag van de wedstrijd FC Groningen - Ajax uit de 9e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558758~~2FEP035850992024%2Cimi%3Afd0cd8d6f219499e6bb73e0843ca1accf01dcbde/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026101824,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558758~~2FEP035850992024,imi:fd0cd8d6f219499e6bb73e0843ca1accf01dcbde",
+      "episodeName": "FC Groningen - Ajax",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1792761420000:1prlzbg",
+    "channel": "playsports3",
+    "title": "Premier League",
+    "start": 1792761420000,
+    "end": 1792761900000,
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493%2Cimi%3Abd7cda806a6dd155775f373fe6240e9b3e6586a6/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101793,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493,imi:bd7cda806a6dd155775f373fe6240e9b3e6586a6",
+      "episodeName": "Manchester City - Ipswich Town",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports3:1792761900000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792760400000,
-    "end": 1792765020000,
+    "start": 1792761900000,
+    "end": 1792768080000,
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34242841~~2FEP037052220131%2Cimi%3Af83a36f9e9b3dd1870b0f3a0a7b697ddb8ce1c73/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34242841~~2FEP037052220131%2Cimi%3Abf554d805f5bf3ef5b7fe6db34a7cb674332f397/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 52220000,
@@ -196,7 +286,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34242841~~2FEP037052220131,imi:f83a36f9e9b3dd1870b0f3a0a7b697ddb8ce1c73",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34242841~~2FEP037052220131,imi:bf554d805f5bf3ef5b7fe6db34a7cb674332f397",
       "episodeName": "KSK Heist - Royal Antwerp FC",
       "genres": [
         "Sport",
@@ -208,50 +298,26 @@
     }
   },
   {
-    "id": "playsports3:1792765020000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1792765020000,
-    "end": 1792766700000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:009978da2fe3659a51e91fe11b1087b57ce34925",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1792766700000:15p1p85",
+    "id": "playsports3:1792768080000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792766700000,
-    "end": 1792773060000,
-    "description": "Vanuit het Stade Yvan Georges in Virton, België.",
+    "start": 1792768080000,
+    "end": 1792774200000,
+    "description": "Vanuit het Stade Joseph Marien in Vorst, België.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34243002~~2FEP037052220132%2Cimi%3A312dbebe360c8d6049be7ddeb9be51c30a6ad2a6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34243404~~2FEP037052220134%2Cimi%3Ab3085d698e8c20c07ca7a2b1f9254d2f44374da0/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 52220000,
-    "episode": 2026101732,
+    "episode": 2026101834,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34243002~~2FEP037052220132,imi:312dbebe360c8d6049be7ddeb9be51c30a6ad2a6",
-      "episodeName": "Royal Excelsior Virton - KRC Genk",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34243404~~2FEP037052220134,imi:b3085d698e8c20c07ca7a2b1f9254d2f44374da0",
+      "episodeName": "Union SG - Nijlen",
       "genres": [
         "Sport",
         "Voetbal"
@@ -259,30 +325,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa250326f-0738-4d66-8fdf-3825435d29a2"
-    }
-  },
-  {
-    "id": "playsports3:1792773060000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1792773060000,
-    "end": 1792774200000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3d27b383afe5b03847c47670615a069efab4d305",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {
@@ -380,7 +422,7 @@
     "channel": "playsports3",
     "title": "Croky Cup",
     "start": 1792789200000,
-    "end": 1792795500000,
+    "end": 1792795800000,
     "description": "Vanuit het King Power at Den Dreef Stadion in Leuven, België.",
     "category": [
       "Sport",

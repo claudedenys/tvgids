@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1792540500000:rmqxmh",
+    "id": "play7:1792540800000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1792540500000,
-    "end": 1792544100000,
+    "start": 1792540800000,
+    "end": 1792543500000,
     "description": "Sara en Paul hebben £ 38.000 te besteden aan een vakantiehuis in de regio Murcia in Spanje. Ze staan versteld van wat ze met dit budget kunnen kopen.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1792544100000:48zb9",
+    "id": "play7:1792543500000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1792544100000,
-    "end": 1792551600000,
+    "start": 1792543500000,
+    "end": 1792551300000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:163d958317173158c5f26d6d0549113c84d83159",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1792551300000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1792551300000,
+    "end": 1792551600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:97ce509f12a312d521b170ac964898aa5890548e",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

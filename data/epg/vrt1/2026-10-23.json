@@ -1,9 +1,37 @@
 [
   {
-    "id": "vrt1:1792713600000:n5mqgl",
+    "id": "vrt1:1792708500000:1vwoq3q",
+    "channel": "vrt1",
+    "title": "VRT NWS Villa Politica",
+    "start": 1792708500000,
+    "end": 1792713900000,
+    "description": "Politieke verslaggeving vanuit het Vlaams en Federaal Parlement.",
+    "category": [
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34282286~~2FEP032303440368%2Cimi%3A6488b2e150ede4b69b7e8c432f6ea90eabdc75a0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 55,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34282286~~2FEP032303440368,imi:6488b2e150ede4b69b7e8c432f6ea90eabdc75a0",
+      "episodeName": "Aflevering 55",
+      "genres": [
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F614a228b-3d84-4adf-a71f-048b0d447726"
+    }
+  },
+  {
+    "id": "vrt1:1792713900000:n5mqgl",
     "channel": "vrt1",
     "title": "Journaallus",
-    "start": 1792713600000,
+    "start": 1792713900000,
     "end": 1792728000000,
     "description": "Doorlopende herhalingen van het journaal in lusvorm tot de volgende ochtend.",
     "category": [
