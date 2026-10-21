@@ -545,7 +545,7 @@
     "title": "Happy Hour",
     "start": 1792844100000,
     "end": 1792847400000,
-    "description": "Ruben praat in zijn eigen talkshow met een vaste groep bekende vrienden over alles wat hen op dat moment bezighoudt.",
+    "description": "Ruben praat in zijn eigen talkshow met een vaste groep bekende vrienden over alles wat hen op dat moment bezighoudt. Vandaag nodigt hij Herman Brusselmans, Metejoor en Ingeborg uit.",
     "category": [
       "Talkshow"
     ],
@@ -802,11 +802,41 @@
     }
   },
   {
-    "id": "vtm:1792874400000:rg9a5q",
+    "id": "vtm:1792874400000:u48443",
+    "channel": "vtm",
+    "title": "Alloo bij de Wegpolitie",
+    "start": 1792874400000,
+    "end": 1792876500000,
+    "description": "De wegpolitie betrapt een trucker die belt tijdens het rijden. Agenten spreken een vrachtwagenchauffeur aan die verboden inhaalt zonder gordel. Een ervaren trucker vecht intussen een snelheidsboete voor zijn vrachtwagen aan.",
+    "category": [
+      "Docu",
+      "Samenleving"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33440808~~2FEP036415170092%2Cimi%3A88d52d9b0128f6b7f8aefb6dec2369fadf06a5d8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 12,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33440808~~2FEP036415170092,imi:88d52d9b0128f6b7f8aefb6dec2369fadf06a5d8",
+      "episodeName": "Aflevering 12",
+      "genres": [
+        "Docu",
+        "Samenleving"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4a19b7ea-7072-4084-b224-1a6c2382962d"
+    }
+  },
+  {
+    "id": "vtm:1792876500000:rg9a5q",
     "channel": "vtm",
     "title": "Operatiekamer",
-    "start": 1792874400000,
-    "end": 1792878300000,
+    "start": 1792876500000,
+    "end": 1792880700000,
     "description": "Nina Derwael ontdekt wat er tijdens haar schouderoperatie gebeurde, nadat haar schouder voor de tweede keer uit de kom schoot. Ze blikt terug op de loodzware revalidatie.",
     "category": [
       "Reality",
@@ -829,36 +859,6 @@
       "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34073895~~2FSH066080460000"
-    }
-  },
-  {
-    "id": "vtm:1792878300000:ykrqu5",
-    "channel": "vtm",
-    "title": "Styx",
-    "start": 1792878300000,
-    "end": 1792882500000,
-    "description": "Geschokt door wat hij gedaan heeft, zondert Styx zich af. Hij beseft dat hij een gevaar vormt voor zijn omgeving. Maar dan wordt een eerste slachtoffer gevonden. Het werk van de gemaskerde seriemoordenaar wordt geopenbaard.",
-    "category": [
-      "Misdaad",
-      "Thriller"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26719542~~2FEP050100790006%2Cimi%3A8965aa5c34db6bb5977ecfbd52f7ef23543f6702/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 5,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26719542~~2FEP050100790006,imi:8965aa5c34db6bb5977ecfbd52f7ef23543f6702",
-      "episodeName": "Openbaring",
-      "genres": [
-        "Misdaad",
-        "Thriller"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26581953~~2FSH050100790000"
     }
   }
 ]

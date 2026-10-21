@@ -1,0 +1,388 @@
+[
+  {
+    "id": "playsports1:1792882800000:xykime",
+    "channel": "playsports1",
+    "title": "Play Sports",
+    "start": 1792882800000,
+    "end": 1792911600000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A36c810306cf513af12efc7206a209bc0e96cdd46/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:36c810306cf513af12efc7206a209bc0e96cdd46",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1792911600000:1ltn7gx",
+    "channel": "playsports1",
+    "title": "Wordt aangekondigd",
+    "start": 1792911600000,
+    "end": 1792914300000,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A5cf12f35853070ddb53aaef7f54d67f6fedbbd5d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:5cf12f35853070ddb53aaef7f54d67f6fedbbd5d",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1792914300000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792914300000,
+    "end": 1792920900000,
+    "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614419~~2FEP033948601870%2Cimi%3A66f08a0287a267124b6247bb08ceee2612f55e05/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101870,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614419~~2FEP033948601870,imi:66f08a0287a267124b6247bb08ceee2612f55e05",
+      "episodeName": "Bayer Leverkusen - SC Freiburg",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792920900000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792920900000,
+    "end": 1792927200000,
+    "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871%2Cimi%3A03cb9283d8b66f745bdcd89fa430a5e6df29efd4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101671,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871,imi:03cb9283d8b66f745bdcd89fa430a5e6df29efd4",
+      "episodeName": "Eintracht Frankfurt - 1. FC Köln",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792927200000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792927200000,
+    "end": 1792933500000,
+    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869%2Cimi%3A2066be9716121c58ac9ba200aa87bc3d7f54eb9f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101769,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869,imi:2066be9716121c58ac9ba200aa87bc3d7f54eb9f",
+      "episodeName": "Bayern München - RB Leipzig",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792933500000:qjkkk5",
+    "channel": "playsports1",
+    "title": "Premier League Stories",
+    "start": 1792933500000,
+    "end": 1792935000000,
+    "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311495~~2FEP043309820205%2Cimi%3Ab3f37439064d3f0eb9f6f2bec65f404b007f2f5b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311495~~2FEP043309820205,imi:b3f37439064d3f0eb9f6f2bec65f404b007f2f5b",
+      "episodeName": "Manager Rivalries",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports1:1792935000000:fl98t7",
+    "channel": "playsports1",
+    "title": "The Premier Show",
+    "start": 1792935000000,
+    "end": 1792936500000,
+    "description": "In The Premier Show zetten Ruben Van Gucht en Caro Houbreghts elke zondag de mooiste affiche van de Premier League in de spotlights. Met hun gasten fileren ze de topper van het weekend en bespreken ze wat er leeft in de beste competitie ter wereld.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34300061~~2FEP065715530015%2Cimi%3A44b935d4cde2e5344004aec27d2a229cd12a14bd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 15,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34300061~~2FEP065715530015,imi:44b935d4cde2e5344004aec27d2a229cd12a14bd",
+      "episodeName": "Aflevering 15",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33871301~~2FSH065715530000"
+    }
+  },
+  {
+    "id": "playsports1:1792936500000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792936500000,
+    "end": 1792943700000,
+    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583671~~2FEP033946612500%2Cimi%3A085f794410f20800f9f3c71d6d1ce926deb15231/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026102500,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583671~~2FEP033946612500,imi:085f794410f20800f9f3c71d6d1ce926deb15231",
+      "episodeName": "Liverpool - Brighton & Hove Albion",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792943700000:fl98t7",
+    "channel": "playsports1",
+    "title": "The Premier Show",
+    "start": 1792943700000,
+    "end": 1792945500000,
+    "description": "In The Premier Show zetten Ruben Van Gucht en Caro Houbreghts elke zondag de mooiste affiche van de Premier League in de spotlights. Met hun gasten fileren ze de topper van het weekend en bespreken ze wat er leeft in de beste competitie ter wereld.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34300065~~2FEP065715530016%2Cimi%3A9aec8e17c4da5011dbc56eeb7efbcf4cea0bc85d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 16,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34300065~~2FEP065715530016,imi:9aec8e17c4da5011dbc56eeb7efbcf4cea0bc85d",
+      "episodeName": "Aflevering 16",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33871301~~2FSH065715530000"
+    }
+  },
+  {
+    "id": "playsports1:1792945500000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792945500000,
+    "end": 1792952700000,
+    "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583732~~2FEP033946612505%2Cimi%3A22493aa80fa414b5e853aa7709156f20c7b57fbf/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026102505,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583732~~2FEP033946612505,imi:22493aa80fa414b5e853aa7709156f20c7b57fbf",
+      "episodeName": "Sunderland - Leeds United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1792952700000:qjkkk5",
+    "channel": "playsports1",
+    "title": "Premier League Stories",
+    "start": 1792952700000,
+    "end": 1792954140000,
+    "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311495~~2FEP043309820205%2Cimi%3A0b665ffcaa298df6940dcff2a18e46eb893adbfa/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311495~~2FEP043309820205,imi:0b665ffcaa298df6940dcff2a18e46eb893adbfa",
+      "episodeName": "Manager Rivalries",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports1:1792954140000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1792954140000,
+    "end": 1792960440000,
+    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869%2Cimi%3A75024085eda1b586b4fe1f9bb749b9081ab7773b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026101769,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614356~~2FEP033948601869,imi:75024085eda1b586b4fe1f9bb749b9081ab7773b",
+      "episodeName": "Bayern München - RB Leipzig",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1792960440000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1792960440000,
+    "end": 1792966800000,
+    "description": "Vanuit Elland Road in Leeds, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583004~~2FEP033946612490%2Cimi%3Afc16b14f5ab680a722ebbc99e85f610ca82737e3/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026101890,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583004~~2FEP033946612490,imi:fc16b14f5ab680a722ebbc99e85f610ca82737e3",
+      "episodeName": "Leeds United - Manchester United",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  }
+]

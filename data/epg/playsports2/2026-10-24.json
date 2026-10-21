@@ -60,7 +60,7 @@
     "channel": "playsports2",
     "title": "Play Sports",
     "start": 1792836000000,
-    "end": 1792857600000,
+    "end": 1792850100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -84,11 +84,41 @@
     }
   },
   {
-    "id": "playsports2:1792857600000:xykime",
+    "id": "playsports2:1792850100000:1prlzbg",
+    "channel": "playsports2",
+    "title": "Premier League",
+    "start": 1792850100000,
+    "end": 1792857300000,
+    "description": "Vanuit de Coventry Building Society Arena in Coventry, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583720~~2FEP033946612504%2Cimi%3Ac76dd52a21922e168dfe4cd644e41c7fc6ef23c7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026102404,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583720~~2FEP033946612504,imi:c76dd52a21922e168dfe4cd644e41c7fc6ef23c7",
+      "episodeName": "Coventry City - Fulham",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports2:1792857300000:xykime",
     "channel": "playsports2",
     "title": "Play Sports",
-    "start": 1792857600000,
-    "end": 1792879200000,
+    "start": 1792857300000,
+    "end": 1792859100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -102,6 +132,64 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:f074cfb3148c64f5cd45f401d066f2d773288159",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports2:1792859100000:11wg5yb",
+    "channel": "playsports2",
+    "title": "Bundesliga",
+    "start": 1792859100000,
+    "end": 1792866300000,
+    "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616138~~2FEP033948601884%2Cimi%3A6d731854553f31efdc55ad037bef2cd3a8c33351/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026102484,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616138~~2FEP033948601884,imi:6d731854553f31efdc55ad037bef2cd3a8c33351",
+      "episodeName": "Borussia Dortmund - Eintracht Frankfurt",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports2:1792866300000:xykime",
+    "channel": "playsports2",
+    "title": "Play Sports",
+    "start": 1792866300000,
+    "end": 1792879200000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Aa5dbaf2d13eb381ac882ea1669c72c0ffdf6d0be/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:a5dbaf2d13eb381ac882ea1669c72c0ffdf6d0be",
       "episodeName": null,
       "genres": [
         "Sport"

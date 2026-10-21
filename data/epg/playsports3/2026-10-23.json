@@ -178,93 +178,33 @@
     }
   },
   {
-    "id": "playsports3:1792760400000:1prlzbg",
+    "id": "playsports3:1792760400000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1792760400000,
-    "end": 1792761060000,
-    "description": "Vanuit The City Ground in Nottingham, England.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492%2Cimi%3A3abe693be56580aa10f8a6303124b07d138f5b6b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101892,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492,imi:3abe693be56580aa10f8a6303124b07d138f5b6b",
-      "episodeName": "Nottingham Forest - Arsenal",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1792761060000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1792761060000,
-    "end": 1792761420000,
-    "description": "Verslag van de wedstrijd FC Groningen - Ajax uit de 9e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558758~~2FEP035850992024%2Cimi%3Afd0cd8d6f219499e6bb73e0843ca1accf01dcbde/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026101824,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558758~~2FEP035850992024,imi:fd0cd8d6f219499e6bb73e0843ca1accf01dcbde",
-      "episodeName": "FC Groningen - Ajax",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1792761420000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1792761420000,
     "end": 1792761900000,
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493%2Cimi%3Abd7cda806a6dd155775f373fe6240e9b3e6586a6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568875777%2Cimi%3A4ff0ae1f99c79fc28dd984991007f1814fcabcc1/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101793,
+    "season": 50390000,
+    "episode": 568875777,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493,imi:bd7cda806a6dd155775f373fe6240e9b3e6586a6",
-      "episodeName": "Manchester City - Ipswich Town",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568875777,imi:4ff0ae1f99c79fc28dd984991007f1814fcabcc1",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {

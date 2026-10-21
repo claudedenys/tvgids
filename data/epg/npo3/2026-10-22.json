@@ -1,10 +1,10 @@
 [
   {
-    "id": "npo3:1792624800000:3776ld",
+    "id": "npo3:1792625100000:3776ld",
     "channel": "npo3",
     "title": "Eva",
-    "start": 1792624800000,
-    "end": 1792641600000,
+    "start": 1792625100000,
+    "end": 1792628400000,
     "description": "Schuif aan bij het gesprek van de dag met Eva Jinek. Met iedere dag de verhalen achter het nieuws, inspirerende gesprekken en verrassende liveoptredens.",
     "category": [
       "Talkshow"
@@ -25,6 +25,34 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28047018~~2FSH052475130000"
+    }
+  },
+  {
+    "id": "npo3:1792628400000:1szo1ev",
+    "channel": "npo3",
+    "title": "Tekst-TV",
+    "start": 1792628400000,
+    "end": 1792641600000,
+    "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000~~2F557531369%2Cimi%3A32f07f644f77713ae06b17daeba9f3cd96ce1101/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 22710000,
+    "episode": 557531369,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000~~2F557531369,imi:32f07f644f77713ae06b17daeba9f3cd96ce1101",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F10898271~~2FSH027122710000"
     }
   },
   {
@@ -2131,7 +2159,7 @@
     "title": "Zappbios: Bert verpest alles",
     "start": 1792675500000,
     "end": 1792680300000,
-    "description": null,
+    "description": "Het is de week van de snuffelstage voor de beste vrienden Bert en Åke, wanneer Åke voor het eerst verliefd wordt op een meisje genaamd Molly. Dezelfde Molly op wie Bert óók verliefd is geworden!",
     "category": [
       "Drama",
       "Film"
@@ -2574,7 +2602,7 @@
     "channel": "npo3",
     "title": "De Spookvoetballer",
     "start": 1792704300000,
-    "end": 1792707600000,
+    "end": 1792707300000,
     "description": "In het Deense Holstebro zijn de autoriteiten op zoek naar Bernio, die via sociale media meerdere dwaalsporen uitzet. Terwijl de gebeurtenissen rond hem zich verder opstapelen, blijkt zijn verhaal zich ook buiten Europa voort te zetten. Journalisten onderzoeken hoe Bernio lange tijd uit handen van verschillende autoriteiten weet te blijven en vragen zich af of eerder ingrijpen mogelijk was geweest.",
     "category": [
       "Docu"

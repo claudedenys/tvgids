@@ -192,7 +192,7 @@
     "competition": null,
     "sport": null,
     "start": 1792836000000,
-    "end": 1792857600000,
+    "end": 1792850100000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -207,14 +207,37 @@
     ]
   },
   {
-    "id": "sport:playsports2:1792857600000:xykime",
+    "id": "sport:playsports2:1792857300000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792857600000,
+    "start": 1792857300000,
+    "end": 1792859100000,
+    "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 2"
+    ],
+    "channels": [
+      "Play Sports 2"
+    ],
+    "channelIds": [
+      "playsports2"
+    ]
+  },
+  {
+    "id": "sport:playsports2:1792866300000:xykime",
+    "externalId": null,
+    "title": "Play Sports",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792866300000,
     "end": 1792879200000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -287,6 +310,29 @@
     "end": 1792841400000,
     "status": "aankomend",
     "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1792841400000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792841400000,
+    "end": 1792843200000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -391,14 +437,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792807740000:xykime",
+    "id": "sport:playsports4:1792808160000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792807740000,
+    "start": 1792808160000,
     "end": 1792818000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -1173,6 +1219,52 @@
     ]
   },
   {
+    "id": "sport:match:1792850100000:coventry city - fulham",
+    "externalId": null,
+    "title": "Coventry City - Fulham",
+    "home": "Coventry City",
+    "away": "Fulham",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1792850100000,
+    "end": 1792857300000,
+    "status": "aankomend",
+    "description": "Vanuit de Coventry Building Society Arena in Coventry, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 2"
+    ],
+    "channels": [
+      "Play Sports 2"
+    ],
+    "channelIds": [
+      "playsports2"
+    ]
+  },
+  {
+    "id": "sport:match:1792859100000:borussia dortmund - eintracht frankfurt",
+    "externalId": null,
+    "title": "Borussia Dortmund - Eintracht Frankfurt",
+    "home": "Borussia Dortmund",
+    "away": "Eintracht Frankfurt",
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1792859100000,
+    "end": 1792866300000,
+    "status": "aankomend",
+    "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 2"
+    ],
+    "channels": [
+      "Play Sports 2"
+    ],
+    "channelIds": [
+      "playsports2"
+    ]
+  },
+  {
     "id": "sport:match:1792795800000:zulte waregem - rfc seraing",
     "externalId": null,
     "title": "Zulte Waregem - RFC Seraing",
@@ -1207,98 +1299,6 @@
     "end": 1792825200000,
     "status": "aankomend",
     "description": "Vanuit het Jan Breydelstadion in Brugge, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792841400000:nottingham forest - arsenal",
-    "externalId": null,
-    "title": "Nottingham Forest - Arsenal",
-    "home": "Nottingham Forest",
-    "away": "Arsenal",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1792841400000,
-    "end": 1792842060000,
-    "status": "aankomend",
-    "description": "Vanuit The City Ground in Nottingham, England.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792842060000:fc groningen - ajax",
-    "externalId": null,
-    "title": "FC Groningen - Ajax",
-    "home": "FC Groningen",
-    "away": "Ajax",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1792842060000,
-    "end": 1792842300000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd FC Groningen - Ajax uit de 9e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792842300000:manchester city - ipswich town",
-    "externalId": null,
-    "title": "Manchester City - Ipswich Town",
-    "home": "Manchester City",
-    "away": "Ipswich Town",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1792842300000,
-    "end": 1792842720000,
-    "status": "aankomend",
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792842720000:everton - chelsea",
-    "externalId": null,
-    "title": "Everton - Chelsea",
-    "home": "Everton",
-    "away": "Chelsea",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1792842720000,
-    "end": 1792843200000,
-    "status": "aankomend",
-    "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1403,15 +1403,15 @@
     ]
   },
   {
-    "id": "sport:match:1792797900000:antwerp giants - kortrijk",
+    "id": "sport:match:1792798380000:antwerp giants - kortrijk",
     "externalId": null,
     "title": "Antwerp Giants - Kortrijk",
     "home": "Antwerp Giants",
     "away": "Kortrijk",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1792797900000,
-    "end": 1792807740000,
+    "start": 1792798380000,
+    "end": 1792808160000,
     "status": "aankomend",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",

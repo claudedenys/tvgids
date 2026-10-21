@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "Fire Country",
     "start": 1792627200000,
-    "end": 1792630500000,
+    "end": 1792629900000,
     "description": "Nadat Bode heeft verzocht om overgeplaatst te worden naar een andere stad, staat zijn toekomst in Edgewater op het spel. De bemanning bundelt zijn krachten om de stad te beschermen tegen een verraderlijke storm.",
     "category": [
       "Dramaserie"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "play5:1792630500000:48zb9",
+    "id": "play5:1792629900000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1792630500000,
-    "end": 1792638000000,
+    "start": 1792629900000,
+    "end": 1792637400000,
     "description": null,
     "category": [],
     "image": null,
@@ -44,6 +44,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2157054a059636264526747ba0ab2cd634cd901a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1792637400000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1792637400000,
+    "end": 1792638000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f6a6e2e65be25c43cd920c4486d8ff6782cfe5f6",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

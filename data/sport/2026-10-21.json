@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1792537320000,
     "end": 1792558800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -54,7 +54,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1792601580000,
-    "end": 1792604760000,
+    "end": 1792604820000,
     "status": "aankomend",
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "source": "epg",
@@ -78,7 +78,7 @@
     "sport": null,
     "start": 1792533600000,
     "end": 1792555200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1792555200000,
     "end": 1792576800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,7 +170,7 @@
     "sport": null,
     "start": 1792541460000,
     "end": 1792560600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -308,7 +308,7 @@
     "sport": null,
     "start": 1792537260000,
     "end": 1792541760000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "source": "epg",
     "platforms": [
@@ -331,7 +331,7 @@
     "sport": null,
     "start": 1792541760000,
     "end": 1792547340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Wanneer de dames op citytrip gaan besluiten ze hun kamer niet te verlaten. Het is namelijk tijd voor een ware orgie!",
     "source": "epg",
     "platforms": [
@@ -354,7 +354,7 @@
     "sport": null,
     "start": 1792547340000,
     "end": 1792559100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -377,7 +377,7 @@
     "sport": "Tennis",
     "start": 1792559100000,
     "end": 1792565340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
     "platforms": [
@@ -399,8 +399,8 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1792565340000,
-    "end": 1792571760000,
-    "status": "aankomend",
+    "end": 1792571700000,
+    "status": "afgelopen",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -414,16 +414,16 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792571760000:5qme33",
+    "id": "sport:playsports4:1792571700000:5qme33",
     "externalId": null,
     "title": "WTA1000: Dag 12, Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792571760000,
+    "start": 1792571700000,
     "end": 1792579800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -445,7 +445,7 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1792579800000,
-    "end": 1792587600000,
+    "end": 1792587660000,
     "status": "aankomend",
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "source": "epg",
@@ -460,15 +460,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792587600000:3y5tln",
+    "id": "sport:playsports4:1792587660000:3y5tln",
     "externalId": null,
     "title": "GP van Indonesië: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792587600000,
-    "end": 1792592100000,
+    "start": 1792587660000,
+    "end": 1792592220000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "source": "epg",
@@ -483,14 +483,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792592100000:1kmei86",
+    "id": "sport:playsports4:1792592220000:1kmei86",
     "externalId": null,
     "title": "Bergs vs. Alcaraz",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792592100000,
+    "start": 1792592220000,
     "end": 1792600500000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
@@ -561,7 +561,7 @@
     "sport": null,
     "start": 1792533600000,
     "end": 1792555200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -584,7 +584,7 @@
     "sport": null,
     "start": 1792555200000,
     "end": 1792576800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -676,7 +676,7 @@
     "sport": "Golf",
     "start": 1792535400000,
     "end": 1792542600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Aramco Korea Championship, gespeeld in Goyang, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -699,7 +699,7 @@
     "sport": "Golf",
     "start": 1792542600000,
     "end": 1792553400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de DP World India Championship, gespeeld in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -722,7 +722,7 @@
     "sport": "Golf",
     "start": 1792553400000,
     "end": 1792557000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van het Bank of Utah Championship, gespeeld op de Black Desert Resort in Ivins, Utah.",
     "source": "epg",
     "platforms": [
@@ -745,7 +745,7 @@
     "sport": "Golf",
     "start": 1792557000000,
     "end": 1792558800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Hainan Open, gespeeld in de HotelPlanner Tour Series van 2026.",
     "source": "epg",
     "platforms": [
@@ -768,7 +768,7 @@
     "sport": "Golf",
     "start": 1792558800000,
     "end": 1792577700000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Herbeleef een aantal legendarische laatste rondes op The Masters. Deze keer de laatste ronde van 2012.",
     "source": "epg",
     "platforms": [
@@ -1067,7 +1067,7 @@
     "sport": "Voetbal",
     "start": 1792558800000,
     "end": 1792565400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1090,7 +1090,7 @@
     "sport": "Voetbal",
     "start": 1792565400000,
     "end": 1792566000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Elland Road in Leeds, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1113,7 +1113,7 @@
     "sport": "Voetbal",
     "start": 1792566000000,
     "end": 1792572420000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1136,7 +1136,7 @@
     "sport": "Voetbal",
     "start": 1792572420000,
     "end": 1792578780000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1219,14 +1219,14 @@
     ]
   },
   {
-    "id": "sport:match:1792604760000:leeds united - manchester united",
+    "id": "sport:match:1792604820000:leeds united - manchester united",
     "externalId": null,
     "title": "Leeds United - Manchester United",
     "home": "Leeds United",
     "away": "Manchester United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792604760000,
+    "start": 1792604820000,
     "end": 1792611180000,
     "status": "aankomend",
     "description": "Vanuit Elland Road in Leeds, Engeland.",
@@ -1297,7 +1297,7 @@
     "sport": "Voetbal",
     "start": 1792535100000,
     "end": 1792541460000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Daio Wasabi Stayen Stadium in Sint-Truiden, België.",
     "source": "epg",
     "platforms": [
@@ -1320,7 +1320,7 @@
     "sport": "Voetbal",
     "start": 1792560600000,
     "end": 1792566900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Celta de Vigo - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1343,7 +1343,7 @@
     "sport": "Voetbal",
     "start": 1792566900000,
     "end": 1792573200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Daio Wasabi Stayen Stadium in Sint-Truiden, België.",
     "source": "epg",
     "platforms": [
@@ -1366,7 +1366,7 @@
     "sport": "Voetbal",
     "start": 1792573200000,
     "end": 1792579560000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd KAA Gent - Aarhus GF, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
     "platforms": [

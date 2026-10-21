@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1792626300000:rmqxmh",
+    "id": "play7:1792626000000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1792626300000,
-    "end": 1792629900000,
+    "start": 1792626000000,
+    "end": 1792629300000,
     "description": "Jasmine Harman is op het prachtige Griekse eiland Kreta en laat vijf eigendommen zien aan de jeugdliefdes Catherine en Patrick uit Leeds, die niet kunnen wachten om daar hun vakanties te vieren.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1792629900000:48zb9",
+    "id": "play7:1792629300000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1792629900000,
-    "end": 1792638000000,
+    "start": 1792629300000,
+    "end": 1792637400000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ec3a22a41b94e4ab0fd495a2195563d58e8456cd",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1792637400000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1792637400000,
+    "end": 1792638000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2c77b5bcf3b3ea1a25f1aa2a800bd8f41b9ae510",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

@@ -148,123 +148,33 @@
     }
   },
   {
-    "id": "playsports3:1792841400000:1prlzbg",
+    "id": "playsports3:1792841400000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1792841400000,
-    "end": 1792842060000,
-    "description": "Vanuit The City Ground in Nottingham, England.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492%2Cimi%3Ad2caa2409510e9438b33ce0cc7406a8143f4b5bb/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101892,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583135~~2FEP033946612492,imi:d2caa2409510e9438b33ce0cc7406a8143f4b5bb",
-      "episodeName": "Nottingham Forest - Arsenal",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1792842060000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1792842060000,
-    "end": 1792842300000,
-    "description": "Verslag van de wedstrijd FC Groningen - Ajax uit de 9e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33558758~~2FEP035850992024%2Cimi%3A3d81b528dfb41c76df0d8fe403e7fb16f5c16a7c/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026101824,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33558758~~2FEP035850992024,imi:3d81b528dfb41c76df0d8fe403e7fb16f5c16a7c",
-      "episodeName": "FC Groningen - Ajax",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1792842300000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1792842300000,
-    "end": 1792842720000,
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493%2Cimi%3A36c6d90ff88a3f626ec9725f2498227e91ee93ba/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101793,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493,imi:36c6d90ff88a3f626ec9725f2498227e91ee93ba",
-      "episodeName": "Manchester City - Ipswich Town",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1792842720000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1792842720000,
     "end": 1792843200000,
-    "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33582981~~2FEP033946612489%2Cimi%3A3c78c5e45fe117061c8d60f6de6e23797b94ec10/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568875778%2Cimi%3A957b70cc847ff2a4cc953183f9f5bb2ff3c1a0dc/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026101789,
+    "season": 50390000,
+    "episode": 568875778,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33582981~~2FEP033946612489,imi:3c78c5e45fe117061c8d60f6de6e23797b94ec10",
-      "episodeName": "Everton - Chelsea",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568875778,imi:957b70cc847ff2a4cc953183f9f5bb2ff3c1a0dc",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
