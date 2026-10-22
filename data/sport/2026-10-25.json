@@ -1,14 +1,14 @@
 [
   {
-    "id": "sport:playsports1:1792882800000:xykime",
+    "id": "sport:playsports1:1792882080000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792882800000,
-    "end": 1792911600000,
+    "start": 1792882080000,
+    "end": 1792907280000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -23,37 +23,14 @@
     ]
   },
   {
-    "id": "sport:playsports1:1792911600000:1ltn7gx",
-    "externalId": null,
-    "title": "Wordt aangekondigd",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1792911600000,
-    "end": 1792914300000,
-    "status": "aankomend",
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:playsports1:1792933500000:qjkkk5",
+    "id": "sport:playsports1:1792933320000:qjkkk5",
     "externalId": null,
     "title": "Manager Rivalries",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792933500000,
+    "start": 1792933320000,
     "end": 1792935000000,
     "status": "aankomend",
     "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
@@ -253,14 +230,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792893600000:xykime",
+    "id": "sport:playsports3:1792893900000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792893600000,
+    "start": 1792893900000,
     "end": 1792896900000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -376,7 +353,7 @@
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
     "start": 1792941900000,
-    "end": 1792943700000,
+    "end": 1792944000000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -414,15 +391,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792895040000:xykime",
+    "id": "sport:playsports4:1792895400000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792895040000,
-    "end": 1792906920000,
+    "start": 1792895400000,
+    "end": 1792906980000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -437,15 +414,61 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792906920000:bjf8gr",
+    "id": "sport:playsports4:1792906980000:bjf8gr",
+    "externalId": null,
+    "title": "Race 1 (MXGP & MX2)",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792906980000,
+    "end": 1792910400000,
+    "status": "aankomend",
+    "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1792910400000:bjf8gr",
+    "externalId": null,
+    "title": "Race 2 (MX2 & Open)",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792910400000,
+    "end": 1792913640000,
+    "status": "aankomend",
+    "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1792913640000:bjf8gr",
     "externalId": null,
     "title": "Race 3 (MXGP & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792906920000,
-    "end": 1792911600000,
+    "start": 1792913640000,
+    "end": 1792918200000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -460,17 +483,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792911600000:wy82ms",
+    "id": "sport:playsports4:1792918200000:3y5tln",
     "externalId": null,
-    "title": "Dag 7: Finale",
+    "title": "GP van Indonesië: Race",
     "home": null,
     "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1792911600000,
-    "end": 1792918800000,
+    "competition": null,
+    "sport": null,
+    "start": 1792918200000,
+    "end": 1792922640000,
     "status": "aankomend",
-    "description": "Verslag van de Almaty Open, gespeeld in Almaty, Kazachstan.",
+    "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -483,109 +506,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792918800000:1p3n9ye",
+    "id": "sport:playsports4:1792932600000:1p3n9ye",
     "externalId": null,
     "title": "Aflevering 6",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
-    "start": 1792918800000,
-    "end": 1792920600000,
-    "status": "aankomend",
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1792920600000:i67pjl",
-    "externalId": null,
-    "title": "Play Sports Highlights",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1792920600000,
-    "end": 1792922400000,
-    "status": "aankomend",
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1792922400000:17dve15",
-    "externalId": null,
-    "title": "Dag 7: Finale",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1792922400000,
-    "end": 1792931400000,
-    "status": "aankomend",
-    "description": null,
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1792931400000:1p3n9ye",
-    "externalId": null,
-    "title": "Aflevering 6",
-    "home": null,
-    "away": null,
-    "competition": "UEFA Champions League",
-    "sport": "Voetbal",
-    "start": 1792931400000,
-    "end": 1792933200000,
-    "status": "aankomend",
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1792933200000:i67pjl",
-    "externalId": null,
-    "title": "Play Sports Highlights",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1792933200000,
+    "start": 1792932600000,
     "end": 1792934700000,
     "status": "aankomend",
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -598,15 +529,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792950600000:1kmei86",
+    "id": "sport:playsports4:1792950720000:1kmei86",
     "externalId": null,
     "title": "Bergs vs. Paul",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792950600000,
-    "end": 1792957800000,
+    "start": 1792950720000,
+    "end": 1792957860000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
@@ -621,15 +552,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792957800000:1kmei86",
+    "id": "sport:playsports4:1792957860000:1kmei86",
     "externalId": null,
     "title": "ATP1000: Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792957800000,
-    "end": 1792967400000,
+    "start": 1792957860000,
+    "end": 1792967520000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
@@ -675,7 +606,7 @@
     "competition": null,
     "sport": null,
     "start": 1792904400000,
-    "end": 1792926000000,
+    "end": 1792911600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -690,15 +621,107 @@
     ]
   },
   {
-    "id": "sport:playsports-premierleague:1792926000000:xykime",
+    "id": "sport:playsports-premierleague:1792911600000:wy82ms",
+    "externalId": null,
+    "title": "Dag 7: Finale",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1792911600000,
+    "end": 1792918800000,
+    "status": "aankomend",
+    "description": "Verslag van de Almaty Open, gespeeld in Almaty, Kazachstan.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 5"
+    ],
+    "channels": [
+      "Play Sports 5"
+    ],
+    "channelIds": [
+      "playsports-premierleague"
+    ]
+  },
+  {
+    "id": "sport:playsports-premierleague:1792918800000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792926000000,
-    "end": 1792938600000,
+    "start": 1792918800000,
+    "end": 1792922400000,
+    "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 5"
+    ],
+    "channels": [
+      "Play Sports 5"
+    ],
+    "channelIds": [
+      "playsports-premierleague"
+    ]
+  },
+  {
+    "id": "sport:playsports-premierleague:1792922400000:17dve15",
+    "externalId": null,
+    "title": "Dag 7: Finale",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1792922400000,
+    "end": 1792931400000,
+    "status": "aankomend",
+    "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 5"
+    ],
+    "channels": [
+      "Play Sports 5"
+    ],
+    "channelIds": [
+      "playsports-premierleague"
+    ]
+  },
+  {
+    "id": "sport:playsports-premierleague:1792931400000:xykime",
+    "externalId": null,
+    "title": "Play Sports",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792931400000,
+    "end": 1792935000000,
+    "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 5"
+    ],
+    "channels": [
+      "Play Sports 5"
+    ],
+    "channelIds": [
+      "playsports-premierleague"
+    ]
+  },
+  {
+    "id": "sport:playsports-premierleague:1792942200000:xykime",
+    "externalId": null,
+    "title": "Play Sports",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792942200000,
+    "end": 1792945800000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -1081,15 +1104,38 @@
     ]
   },
   {
-    "id": "sport:match:1792914300000:bayer leverkusen - sc freiburg",
+    "id": "sport:match:1792907280000:manchester city - ipswich town",
+    "externalId": null,
+    "title": "Manchester City - Ipswich Town",
+    "home": "Manchester City",
+    "away": "Ipswich Town",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1792907280000,
+    "end": 1792913940000,
+    "status": "aankomend",
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1792913940000:bayer leverkusen - sc freiburg",
     "externalId": null,
     "title": "Bayer Leverkusen - SC Freiburg",
     "home": "Bayer Leverkusen",
     "away": "SC Freiburg",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792914300000,
-    "end": 1792920900000,
+    "start": 1792913940000,
+    "end": 1792920540000,
     "status": "aankomend",
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "source": "epg",
@@ -1104,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1792920900000:eintracht frankfurt - 1. fc koln",
+    "id": "sport:match:1792920540000:eintracht frankfurt - 1. fc koln",
     "externalId": null,
     "title": "Eintracht Frankfurt - 1. FC Köln",
     "home": "Eintracht Frankfurt",
     "away": "1. FC Köln",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792920900000,
-    "end": 1792927200000,
+    "start": 1792920540000,
+    "end": 1792926960000,
     "status": "aankomend",
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "source": "epg",
@@ -1127,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1792927200000:bayern munchen - rb leipzig",
+    "id": "sport:match:1792926960000:bayern munchen - rb leipzig",
     "externalId": null,
     "title": "Bayern München - RB Leipzig",
     "home": "Bayern München",
     "away": "RB Leipzig",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792927200000,
-    "end": 1792933500000,
+    "start": 1792926960000,
+    "end": 1792933320000,
     "status": "aankomend",
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "source": "epg",
@@ -1288,15 +1334,15 @@
     ]
   },
   {
-    "id": "sport:match:1792883400000:telstar - feyenoord",
+    "id": "sport:match:1792883820000:telstar - feyenoord",
     "externalId": null,
     "title": "Telstar - Feyenoord",
     "home": "Telstar",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1792883400000,
-    "end": 1792893600000,
+    "start": 1792883820000,
+    "end": 1792893900000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Telstar - Feyenoord uit de 9e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1342,7 +1388,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1792914900000,
-    "end": 1792921200000,
+    "end": 1792921260000,
     "status": "aankomend",
     "description": "From Achter de Kazerne in Mechelen, Antwerpen, Belgium.",
     "source": "epg",
@@ -1357,14 +1403,14 @@
     ]
   },
   {
-    "id": "sport:match:1792921200000:union rochefortoise - kaa gent",
+    "id": "sport:match:1792921260000:union rochefortoise - kaa gent",
     "externalId": null,
     "title": "Union Rochefortoise - KAA Gent",
     "home": "Union Rochefortoise",
     "away": "KAA Gent",
     "competition": "Beker van België",
     "sport": "Voetbal",
-    "start": 1792921200000,
+    "start": 1792921260000,
     "end": 1792930500000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
@@ -1380,17 +1426,17 @@
     ]
   },
   {
-    "id": "sport:match:1792943700000:fc groningen - ajax",
+    "id": "sport:match:1792944000000:ksk heist - royal antwerp fc",
     "externalId": null,
-    "title": "FC Groningen - Ajax",
-    "home": "FC Groningen",
-    "away": "Ajax",
-    "competition": "Eredivisie",
+    "title": "KSK Heist - Royal Antwerp FC",
+    "home": "KSK Heist",
+    "away": "Royal Antwerp FC",
+    "competition": "Beker van België",
     "sport": "Voetbal",
-    "start": 1792943700000,
-    "end": 1792950000000,
+    "start": 1792944000000,
+    "end": 1792950360000,
     "status": "aankomend",
-    "description": "Verslag van de wedstrijd FC Groningen - Ajax uit de 9e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1403,17 +1449,17 @@
     ]
   },
   {
-    "id": "sport:match:1792950000000:ado den haag - psv",
+    "id": "sport:match:1792950360000:union sg - nijlen",
     "externalId": null,
-    "title": "ADO Den Haag - PSV",
-    "home": "ADO Den Haag",
-    "away": "PSV",
-    "competition": "Eredivisie",
+    "title": "Union SG - Nijlen",
+    "home": "Union SG",
+    "away": "Nijlen",
+    "competition": null,
     "sport": "Voetbal",
-    "start": 1792950000000,
-    "end": 1792956540000,
+    "start": 1792950360000,
+    "end": 1792956420000,
     "status": "aankomend",
-    "description": "Verslag van de wedstrijd ADO Den Haag - PSV uit de 9e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "Vanuit het Stade Joseph Marien in Vorst, België.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1426,14 +1472,14 @@
     ]
   },
   {
-    "id": "sport:match:1792956540000:aston villa - manchester city",
+    "id": "sport:match:1792956420000:aston villa - manchester city",
     "externalId": null,
     "title": "Aston Villa - Manchester City",
     "home": "Aston Villa",
     "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1792956540000,
+    "start": 1792956420000,
     "end": 1792957200000,
     "status": "aankomend",
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
@@ -1449,15 +1495,38 @@
     ]
   },
   {
-    "id": "sport:match:1792881660000:antwerp giants - kortrijk",
+    "id": "sport:match:1792881960000:antwerp giants - kortrijk",
     "externalId": null,
     "title": "Antwerp Giants - Kortrijk",
     "home": "Antwerp Giants",
     "away": "Kortrijk",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1792881660000,
-    "end": 1792895040000,
+    "start": 1792881960000,
+    "end": 1792895400000,
+    "status": "aankomend",
+    "description": "Vanuit de Lotto Arena in Antwerpen, België.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1792922640000:antwerp giants - kortrijk",
+    "externalId": null,
+    "title": "Antwerp Giants - Kortrijk",
+    "home": "Antwerp Giants",
+    "away": "Kortrijk",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1792922640000,
+    "end": 1792932600000,
     "status": "aankomend",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",
@@ -1549,7 +1618,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1792950000000,
-    "end": 1792950600000,
+    "end": 1792950720000,
     "status": "aankomend",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
@@ -1564,15 +1633,15 @@
     ]
   },
   {
-    "id": "sport:match:1792938600000:tennis: grand prix auvergne-rhone-alpes 2026",
+    "id": "sport:match:1792935000000:tennis: grand prix auvergne-rhone-alpes 2026",
     "externalId": null,
     "title": "Tennis: Grand Prix Auvergne-Rhone-Alpes 2026",
     "home": "Tennis: Grand Prix Auvergne",
     "away": "Rhone-Alpes 2026",
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1792938600000,
-    "end": 1792945800000,
+    "start": 1792935000000,
+    "end": 1792942200000,
     "status": "aankomend",
     "description": "Verslag van de Grand Prix Auvergne-Rhone-Alpes, gespeeld in Lyon, Frankrijk.",
     "source": "epg",

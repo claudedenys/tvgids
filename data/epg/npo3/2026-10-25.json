@@ -64,7 +64,7 @@
     "channel": "npo3",
     "title": "Reizen Waes",
     "start": 1792893600000,
-    "end": 1792904400000,
+    "end": 1792898400000,
     "description": "Met de boodschap `Tuvalu is sinking' reist de eerste minister van het piepkleine Tuvalu al jaren de wereld rond. Volgens hem zullen de eilanden van Tuvalu als eerste ter wereld verdwijnen door de klimaatopwarming. Tom is benieuwd naar het land en naar hoe de Tuvaluanen met die dreiging omgaan. Hij volgt het verhaal al jaren en trekt er eindelijk naartoe.",
     "category": [
       "Docu",
@@ -87,6 +87,64 @@
       "productionDate": "2017",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F26bb7782-623a-49a3-92b2-4b0f46aba821"
+    }
+  },
+  {
+    "id": "npo3:1792898400000:1adboki",
+    "channel": "npo3",
+    "title": "Reizen Waes",
+    "start": 1792898400000,
+    "end": 1792901100000,
+    "description": "Met de boodschap `Tuvalu is sinking' reist de eerste minister van het piepkleine Tuvalu al jaren de wereld rond. Volgens hem zullen de eilanden van Tuvalu als eerste ter wereld verdwijnen door de klimaatopwarming. Tom is benieuwd naar het land en naar hoe de Tuvaluanen met die dreiging omgaan. Hij volgt het verhaal al jaren en trekt er eindelijk naartoe.",
+    "category": [
+      "Docu",
+      "Reizen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F15898738~~2FEP021727130015%2Cimi%3A9b2befb596df3593d7c4c93e2c7408875bc13b55/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F15898738~~2FEP021727130015,imi:9b2befb596df3593d7c4c93e2c7408875bc13b55",
+      "episodeName": "Tuvalu",
+      "genres": [
+        "Docu",
+        "Reizen"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F26bb7782-623a-49a3-92b2-4b0f46aba821"
+    }
+  },
+  {
+    "id": "npo3:1792901100000:1olmvr0",
+    "channel": "npo3",
+    "title": "NOS Jeugdjournaal met gebarentaal",
+    "start": 1792901100000,
+    "end": 1792904400000,
+    "description": "Nieuwsprogramma voor de Nederlandse jeugd. Geschikt voor kinderen van negen tot twaalf. Met gebarentolk.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F817613~~2FSH041384060000~~2F558487067%2Cimi%3Ac26864a8bba6b6f77fbab3073eeae663766e5e8a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 84060000,
+    "episode": 558487067,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F817613~~2FSH041384060000~~2F558487067,imi:c26864a8bba6b6f77fbab3073eeae663766e5e8a",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Feee099f5-e9c3-4fde-894e-9585046d5dcc"
     }
   },
   {

@@ -463,3 +463,11 @@
 {"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-10-24: HTTP 403 voor DAZN-EPG 2026-10-24","ts":"2026-10-21T09:29:31.802Z"}
 {"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-10-25: HTTP 403 voor DAZN-EPG 2026-10-25","ts":"2026-10-21T09:30:44.626Z"}
 {"level":"info","source":"system","message":"Import klaar: 5 dag(en), 34 zender(s), 3672 programma's","programmes":3672,"channels":34,"durationMs":429340,"ts":"2026-10-21T09:31:52.542Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-10-22: HTTP 403 voor DAZN-EPG 2026-10-22","ts":"2026-10-22T09:27:38.940Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-10-23: HTTP 403 voor DAZN-EPG 2026-10-23","ts":"2026-10-22T09:29:12.018Z"}
+{"level":"error","source":"tvgids.nl","message":"Import mislukt voor rtl4 op 2026-10-23: fetch failed","channelId":"rtl4","ts":"2026-10-22T09:30:46.980Z"}
+{"level":"error","source":"tvgids.nl","message":"Import mislukt voor rtl5 op 2026-10-23: fetch failed","channelId":"rtl5","ts":"2026-10-22T09:31:20.859Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-10-24: HTTP 403 voor DAZN-EPG 2026-10-24","ts":"2026-10-22T09:31:44.368Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-10-25: HTTP 403 voor DAZN-EPG 2026-10-25","ts":"2026-10-22T09:32:57.640Z"}
+{"level":"error","source":"dazn.com","message":"DAZN-import mislukt op 2026-10-25: HTTP 403 voor DAZN-EPG 2026-10-25","ts":"2026-10-22T09:34:03.190Z"}
+{"level":"info","source":"system","message":"Import klaar: 5 dag(en), 34 zender(s), 3503 programma's","programmes":3503,"channels":34,"durationMs":390011,"ts":"2026-10-22T09:34:05.680Z"}

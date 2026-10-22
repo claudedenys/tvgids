@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports4:1792881660000:1ng6s",
+    "id": "playsports4:1792881960000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1792881660000,
-    "end": 1792895040000,
+    "start": 1792881960000,
+    "end": 1792895400000,
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1792895040000:xykime",
+    "id": "playsports4:1792895400000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1792895040000,
-    "end": 1792906920000,
+    "start": 1792895400000,
+    "end": 1792906980000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,71 @@
     }
   },
   {
-    "id": "playsports4:1792906920000:bjf8gr",
+    "id": "playsports4:1792906980000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1792906920000,
-    "end": 1792911600000,
+    "start": 1792906980000,
+    "end": 1792910400000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135273~~2FEP053069220007%2Cimi%3A38dd3dac94d5c096c8cc16940635f722a2541ebc/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 69220000,
+    "episode": 2026100407,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135273~~2FEP053069220007,imi:38dd3dac94d5c096c8cc16940635f722a2541ebc",
+      "episodeName": "Race 1 (MXGP & MX2)",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
+    }
+  },
+  {
+    "id": "playsports4:1792910400000:bjf8gr",
+    "channel": "playsports4",
+    "title": "FIM Motocross of Nations",
+    "start": 1792910400000,
+    "end": 1792913640000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135340~~2FEP053069220008%2Cimi%3Ad1b77450f2eb353546ff29e62710cf642b7aab79/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 69220000,
+    "episode": 2026100408,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135340~~2FEP053069220008,imi:d1b77450f2eb353546ff29e62710cf642b7aab79",
+      "episodeName": "Race 2 (MX2 & Open)",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
+    }
+  },
+  {
+    "id": "playsports4:1792913640000:bjf8gr",
+    "channel": "playsports4",
+    "title": "FIM Motocross of Nations",
+    "start": 1792913640000,
+    "end": 1792918200000,
     "description": null,
     "category": [
       "Sport",
@@ -88,131 +148,71 @@
     }
   },
   {
-    "id": "playsports4:1792911600000:wy82ms",
+    "id": "playsports4:1792918200000:3y5tln",
     "channel": "playsports4",
-    "title": "Tennis: Almaty Open 2026",
-    "start": 1792911600000,
-    "end": 1792918800000,
-    "description": "Verslag van de Almaty Open, gespeeld in Almaty, Kazachstan.",
+    "title": "MotoGP",
+    "start": 1792918200000,
+    "end": 1792922640000,
+    "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "category": [
       "Sport",
-      "Tennis"
+      "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34359133~~2FEP066187700019%2Cimi%3A4e3d772fc93311efb1213063381a920dbe820330/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514%2Cimi%3A8a64dccf355974d81f78f7ffed52b7302216b0cb/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 87700000,
-    "episode": 2026102519,
+    "season": 38910000,
+    "episode": 2026101114,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34359133~~2FEP066187700019,imi:4e3d772fc93311efb1213063381a920dbe820330",
-      "episodeName": "Dag 7: Finale",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514,imi:8a64dccf355974d81f78f7ffed52b7302216b0cb",
+      "episodeName": "GP van Indonesië: Race",
       "genres": [
         "Sport",
-        "Tennis"
+        "Motorracen"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33552698~~2FSH066187700000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
     }
   },
   {
-    "id": "playsports4:1792918800000:1p3n9ye",
+    "id": "playsports4:1792922640000:1ng6s",
+    "channel": "playsports4",
+    "title": "BNXT League",
+    "start": 1792922640000,
+    "end": 1792932600000,
+    "description": "Vanuit de Lotto Arena in Antwerpen, België.",
+    "category": [
+      "Sport",
+      "Basketbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34240965~~2FEP039991360285%2Cimi%3Ae4045a525ef0aea3015b8673f449c98787cf3b7e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 91360000,
+    "episode": 2026101085,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34240965~~2FEP039991360285,imi:e4045a525ef0aea3015b8673f449c98787cf3b7e",
+      "episodeName": "Antwerp Giants - Kortrijk",
+      "genres": [
+        "Sport",
+        "Basketbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
+    }
+  },
+  {
+    "id": "playsports4:1792932600000:1p3n9ye",
     "channel": "playsports4",
     "title": "UEFA Champions League Highlights",
-    "start": 1792918800000,
-    "end": 1792920600000,
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038%2Cimi%3A7cb4a862408f835b6807cd5a0e57a0c5aefaaf08/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 6,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038,imi:7cb4a862408f835b6807cd5a0e57a0c5aefaaf08",
-      "episodeName": "Aflevering 6",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
-    }
-  },
-  {
-    "id": "playsports4:1792920600000:i67pjl",
-    "channel": "playsports4",
-    "title": "Play Sports Highlights",
-    "start": 1792920600000,
-    "end": 1792922400000,
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "category": [
-      "Sport",
-      "Multisportevenement"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568876633%2Cimi%3A9e882e7d1180bc1e22f784fcfcaa7327ea09e132/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50390000,
-    "episode": 568876633,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568876633,imi:9e882e7d1180bc1e22f784fcfcaa7327ea09e132",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Multisportevenement"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
-    }
-  },
-  {
-    "id": "playsports4:1792922400000:17dve15",
-    "channel": "playsports4",
-    "title": "Tennis: Ningbo Open 2026",
-    "start": 1792922400000,
-    "end": 1792931400000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Tennis"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34359067~~2FEP066610500009%2Cimi%3A650a19cb48fbc61748078e3c199008e26882b2e8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 10500000,
-    "episode": 2026102509,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34359067~~2FEP066610500009,imi:650a19cb48fbc61748078e3c199008e26882b2e8",
-      "episodeName": "Dag 7: Finale",
-      "genres": [
-        "Sport",
-        "Tennis"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33572009~~2FSH066610500000"
-    }
-  },
-  {
-    "id": "playsports4:1792931400000:1p3n9ye",
-    "channel": "playsports4",
-    "title": "UEFA Champions League Highlights",
-    "start": 1792931400000,
-    "end": 1792933200000,
+    "start": 1792932600000,
+    "end": 1792934700000,
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
@@ -235,36 +235,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
-    }
-  },
-  {
-    "id": "playsports4:1792933200000:i67pjl",
-    "channel": "playsports4",
-    "title": "Play Sports Highlights",
-    "start": 1792933200000,
-    "end": 1792934700000,
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "category": [
-      "Sport",
-      "Multisportevenement"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568876634%2Cimi%3Ac14b71943f9baadb49461ef95c5f3b10bdd892eb/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50390000,
-    "episode": 568876634,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F568876634,imi:c14b71943f9baadb49461ef95c5f3b10bdd892eb",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Multisportevenement"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -362,7 +332,7 @@
     "channel": "playsports4",
     "title": "Premier League",
     "start": 1792950000000,
-    "end": 1792950600000,
+    "end": 1792950720000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -388,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1792950600000:1kmei86",
+    "id": "playsports4:1792950720000:1kmei86",
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
-    "start": 1792950600000,
-    "end": 1792957800000,
+    "start": 1792950720000,
+    "end": 1792957860000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
@@ -418,11 +388,11 @@
     }
   },
   {
-    "id": "playsports4:1792957800000:1kmei86",
+    "id": "playsports4:1792957860000:1kmei86",
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
-    "start": 1792957800000,
-    "end": 1792967400000,
+    "start": 1792957860000,
+    "end": 1792967520000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",

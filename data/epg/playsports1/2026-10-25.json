@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports1:1792882800000:xykime",
+    "id": "playsports1:1792882080000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1792882800000,
-    "end": 1792911600000,
+    "start": 1792882080000,
+    "end": 1792907280000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -28,39 +28,41 @@
     }
   },
   {
-    "id": "playsports1:1792911600000:1ltn7gx",
+    "id": "playsports1:1792907280000:1prlzbg",
     "channel": "playsports1",
-    "title": "Wordt aangekondigd",
-    "start": 1792911600000,
-    "end": 1792914300000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "Premier League",
+    "start": 1792907280000,
+    "end": 1792913940000,
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A5cf12f35853070ddb53aaef7f54d67f6fedbbd5d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493%2Cimi%3A30b33d37a36fc6be28eb10813d4de63c38c308da/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 46610000,
+    "episode": 2026101793,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:5cf12f35853070ddb53aaef7f54d67f6fedbbd5d",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583170~~2FEP033946612493,imi:30b33d37a36fc6be28eb10813d4de63c38c308da",
+      "episodeName": "Manchester City - Ipswich Town",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Voetbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
     }
   },
   {
-    "id": "playsports1:1792914300000:11wg5yb",
+    "id": "playsports1:1792913940000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792914300000,
-    "end": 1792920900000,
+    "start": 1792913940000,
+    "end": 1792920540000,
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "category": [
       "Sport",
@@ -86,11 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1792920900000:11wg5yb",
+    "id": "playsports1:1792920540000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792920900000,
-    "end": 1792927200000,
+    "start": 1792920540000,
+    "end": 1792926960000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",
@@ -116,11 +118,11 @@
     }
   },
   {
-    "id": "playsports1:1792927200000:11wg5yb",
+    "id": "playsports1:1792926960000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792927200000,
-    "end": 1792933500000,
+    "start": 1792926960000,
+    "end": 1792933320000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
@@ -146,10 +148,10 @@
     }
   },
   {
-    "id": "playsports1:1792933500000:qjkkk5",
+    "id": "playsports1:1792933320000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1792933500000,
+    "start": 1792933320000,
     "end": 1792935000000,
     "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
     "category": [

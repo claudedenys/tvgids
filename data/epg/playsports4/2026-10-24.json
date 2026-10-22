@@ -92,7 +92,7 @@
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
     "start": 1792827780000,
-    "end": 1792836060000,
+    "end": 1792836120000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1792836060000:3y5tln",
+    "id": "playsports4:1792836120000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1792836060000,
-    "end": 1792840500000,
+    "start": 1792836120000,
+    "end": 1792840620000,
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "category": [
       "Sport",
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1792840500000:8a2n92",
+    "id": "playsports4:1792840620000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1792840500000,
-    "end": 1792848840000,
+    "start": 1792840620000,
+    "end": 1792848960000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -178,11 +178,41 @@
     }
   },
   {
-    "id": "playsports4:1792848840000:8a2n92",
+    "id": "playsports4:1792848960000:arbc9d",
+    "channel": "playsports4",
+    "title": "The Paddock Live: Formule 1",
+    "start": 1792848960000,
+    "end": 1792856880000,
+    "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388909~~2FEP063235100107%2Cimi%3A9f89dca16e48fd414f5022dcb926e8d6e1840c3f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35100000,
+    "episode": 2026101107,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388909~~2FEP063235100107,imi:9f89dca16e48fd414f5022dcb926e8d6e1840c3f",
+      "episodeName": "GP van Singapore: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1792856880000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1792848840000,
-    "end": 1792855860000,
+    "start": 1792856880000,
+    "end": 1792863900000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -208,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1792855860000:1kmei86",
+    "id": "playsports4:1792863900000:1kmei86",
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
-    "start": 1792855860000,
-    "end": 1792865460000,
+    "start": 1792863900000,
+    "end": 1792873620000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
@@ -238,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1792865460000:8a2n92",
+    "id": "playsports4:1792873620000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1792865460000,
-    "end": 1792873860000,
+    "start": 1792873620000,
+    "end": 1792881960000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -265,36 +295,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F71818c23-56e7-41c1-8def-9b99474678e7"
-    }
-  },
-  {
-    "id": "playsports4:1792873860000:arbc9d",
-    "channel": "playsports4",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1792873860000,
-    "end": 1792881660000,
-    "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
-    "category": [
-      "Sport",
-      "Motorsport"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388909~~2FEP063235100107%2Cimi%3A9f89dca16e48fd414f5022dcb926e8d6e1840c3f/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026101107,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388909~~2FEP063235100107,imi:9f89dca16e48fd414f5022dcb926e8d6e1840c3f",
-      "episodeName": "GP van Singapore: Race",
-      "genres": [
-        "Sport",
-        "Motorsport"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
     }
   }
 ]

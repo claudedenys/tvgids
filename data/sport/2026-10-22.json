@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1792623960000,
     "end": 1792645800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -78,7 +78,7 @@
     "sport": null,
     "start": 1792620000000,
     "end": 1792641600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +101,7 @@
     "sport": null,
     "start": 1792641600000,
     "end": 1792663200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,7 +170,7 @@
     "sport": null,
     "start": 1792627920000,
     "end": 1792642200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +193,7 @@
     "sport": "Tennis",
     "start": 1792648800000,
     "end": 1792656000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -216,7 +216,7 @@
     "sport": "Tennis",
     "start": 1792656000000,
     "end": 1792663200000,
-    "status": "aankomend",
+    "status": "live",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -261,7 +261,7 @@
     "competition": null,
     "sport": null,
     "start": 1792674000000,
-    "end": 1792677000000,
+    "end": 1792676280000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -276,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792683600000:1p3n9ye",
+    "id": "sport:playsports3:1792682820000:1p3n9ye",
     "externalId": null,
     "title": "Aflevering 6",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
-    "start": 1792683600000,
-    "end": 1792685400000,
+    "start": 1792682820000,
+    "end": 1792685040000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -299,14 +299,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792685400000:1p3n9ye",
+    "id": "sport:playsports3:1792685040000:1p3n9ye",
     "externalId": null,
     "title": "Aflevering 7",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
-    "start": 1792685400000,
+    "start": 1792685040000,
     "end": 1792687200000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
@@ -400,7 +400,7 @@
     "sport": null,
     "start": 1792634340000,
     "end": 1792644600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -423,7 +423,7 @@
     "sport": "Tennis",
     "start": 1792644600000,
     "end": 1792652640000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de China Open, gespeeld in Peking, China.",
     "source": "epg",
     "platforms": [
@@ -506,29 +506,6 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792695300000:ear1gl",
-    "externalId": null,
-    "title": "UEFA Europa League",
-    "home": null,
-    "away": null,
-    "competition": "UEFA Europa League",
-    "sport": "Voetbal",
-    "start": 1792695300000,
-    "end": 1792702500000,
-    "status": "aankomend",
-    "description": "Hoogtepunten en samenvattingen van de wedstrijden gespeeld in de UEFA Europa League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
     "id": "sport:playsports4:1792702500000:1kmei86",
     "externalId": null,
     "title": "Bergs vs. Alcaraz",
@@ -561,7 +538,7 @@
     "sport": null,
     "start": 1792620000000,
     "end": 1792641600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -584,7 +561,7 @@
     "sport": null,
     "start": 1792641600000,
     "end": 1792663200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -676,7 +653,7 @@
     "sport": "Golf",
     "start": 1792627200000,
     "end": 1792630800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de SJM Macao Open, gespeeld in de Asian Tour.",
     "source": "epg",
     "platforms": [
@@ -699,7 +676,7 @@
     "sport": "Golf",
     "start": 1792630800000,
     "end": 1792632600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
     "source": "epg",
     "platforms": [
@@ -722,7 +699,7 @@
     "sport": "Golf",
     "start": 1792632600000,
     "end": 1792634400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de DP World India Championship, gespeeld op de Delhi GC in New Delhi, India.",
     "source": "epg",
     "platforms": [
@@ -745,7 +722,7 @@
     "sport": "Golf",
     "start": 1792634400000,
     "end": 1792638000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de SAS Championship, gespeeld in de PGA Tour Champions.",
     "source": "epg",
     "platforms": [
@@ -768,7 +745,7 @@
     "sport": "Golf",
     "start": 1792638000000,
     "end": 1792645200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de Genesis Championship, gespeeld in Cheonan, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -791,7 +768,7 @@
     "sport": "Golf",
     "start": 1792645200000,
     "end": 1792656000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de Genesis Championship, gespeeld in Cheonan, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -814,7 +791,7 @@
     "sport": "Golf",
     "start": 1792656000000,
     "end": 1792666800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de vierde en laatste dag van de Baycurrent Classic, gespeeld in Yokohama, Japan.",
     "source": "epg",
     "platforms": [
@@ -975,7 +952,7 @@
     "sport": "Voetbal",
     "start": 1792645800000,
     "end": 1792652340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
     "platforms": [
@@ -998,7 +975,7 @@
     "sport": "Voetbal",
     "start": 1792652340000,
     "end": 1792659000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1021,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1792659000000,
     "end": 1792665360000,
-    "status": "aankomend",
+    "status": "live",
     "description": "St James' Park",
     "source": "epg",
     "platforms": [
@@ -1182,7 +1159,7 @@
     "sport": "Voetbal",
     "start": 1792621500000,
     "end": 1792627920000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd KAA Gent - Aarhus GF, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1182,7 @@
     "sport": "Voetbal",
     "start": 1792642200000,
     "end": 1792648800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Stedelijk Sportstadion Hasselt in Hasselt, België.",
     "source": "epg",
     "platforms": [
@@ -1219,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1792677000000:sporting hasselt - cercle brugge",
+    "id": "sport:match:1792676280000:sporting hasselt - cercle brugge",
     "externalId": null,
     "title": "Sporting Hasselt - Cercle Brugge",
     "home": "Sporting Hasselt",
     "away": "Cercle Brugge",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792677000000,
-    "end": 1792683600000,
+    "start": 1792676280000,
+    "end": 1792682820000,
     "status": "aankomend",
     "description": "Vanuit het Stedelijk Sportstadion Hasselt in Hasselt, België.",
     "source": "epg",
@@ -1274,7 +1251,7 @@
     "sport": "Basketbal",
     "start": 1792624440000,
     "end": 1792634340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",
     "platforms": [
@@ -1297,7 +1274,7 @@
     "sport": "Basketbal",
     "start": 1792652640000,
     "end": 1792662480000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",
     "platforms": [
@@ -1345,6 +1322,29 @@
     "end": 1792695300000,
     "status": "aankomend",
     "description": "Vanuit het Stadion An der Alten Försterei in Berlijn, Duitsland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1792695300000:jagiellonia białystok - anderlecht",
+    "externalId": null,
+    "title": "Jagiellonia Białystok - Anderlecht",
+    "home": "Jagiellonia Białystok",
+    "away": "Anderlecht",
+    "competition": "UEFA Europa League",
+    "sport": "Voetbal",
+    "start": 1792695300000,
+    "end": 1792702500000,
+    "status": "aankomend",
+    "description": "Vanuit het Stadion Miejski in Białystok, Polen.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"

@@ -4,7 +4,7 @@
     "channel": "play7",
     "title": "A Place in the Sun",
     "start": 1792713300000,
-    "end": 1792717200000,
+    "end": 1792716300000,
     "description": "Tracey en Dean hebben hun gezin grootgebracht en kunnen nu een vakantiehuis kopen in de Mar Menor in Spanje. Jasmine Harman laat ze vijf eigendommen zien voor hun budget van £ 70.000.",
     "category": [
       "Huis & Tuin",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1792717200000:48zb9",
+    "id": "play7:1792716300000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1792717200000,
-    "end": 1792724400000,
+    "start": 1792716300000,
+    "end": 1792723800000,
     "description": null,
     "category": [],
     "image": null,
@@ -46,6 +46,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5a3c4ec1aba918bc55f7e1b15b2425b665a03823",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1792723800000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1792723800000,
+    "end": 1792724400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c859c520d117b55055b509f822edef6ccfce8b52",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

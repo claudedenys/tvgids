@@ -32,7 +32,7 @@
     "channel": "playsports-premierleague",
     "title": "Play Sports",
     "start": 1792904400000,
-    "end": 1792926000000,
+    "end": 1792911600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -56,11 +56,41 @@
     }
   },
   {
-    "id": "playsports-premierleague:1792926000000:xykime",
+    "id": "playsports-premierleague:1792911600000:wy82ms",
+    "channel": "playsports-premierleague",
+    "title": "Tennis: Almaty Open 2026",
+    "start": 1792911600000,
+    "end": 1792918800000,
+    "description": "Verslag van de Almaty Open, gespeeld in Almaty, Kazachstan.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34359133~~2FEP066187700019%2Cimi%3A8a1fe0184df4e77707259d24fc48a15a5505e42b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 87700000,
+    "episode": 2026102519,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34359133~~2FEP066187700019,imi:8a1fe0184df4e77707259d24fc48a15a5505e42b",
+      "episodeName": "Dag 7: Finale",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33552698~~2FSH066187700000"
+    }
+  },
+  {
+    "id": "playsports-premierleague:1792918800000:xykime",
     "channel": "playsports-premierleague",
     "title": "Play Sports",
-    "start": 1792926000000,
-    "end": 1792938600000,
+    "start": 1792918800000,
+    "end": 1792922400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -84,11 +114,69 @@
     }
   },
   {
-    "id": "playsports-premierleague:1792938600000:yqp4i9",
+    "id": "playsports-premierleague:1792922400000:17dve15",
+    "channel": "playsports-premierleague",
+    "title": "Tennis: Ningbo Open 2026",
+    "start": 1792922400000,
+    "end": 1792931400000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34359067~~2FEP066610500009%2Cimi%3A10cd1f9e734bf45403956428bae59a8eb8b69689/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 10500000,
+    "episode": 2026102509,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34359067~~2FEP066610500009,imi:10cd1f9e734bf45403956428bae59a8eb8b69689",
+      "episodeName": "Dag 7: Finale",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33572009~~2FSH066610500000"
+    }
+  },
+  {
+    "id": "playsports-premierleague:1792931400000:xykime",
+    "channel": "playsports-premierleague",
+    "title": "Play Sports",
+    "start": 1792931400000,
+    "end": 1792935000000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A681f23adc5df89f656b7bf9a857480c6bcd19a11/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:681f23adc5df89f656b7bf9a857480c6bcd19a11",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports-premierleague:1792935000000:yqp4i9",
     "channel": "playsports-premierleague",
     "title": "Tennis: Grand Prix Auvergne-Rhone-Alpes 2026",
-    "start": 1792938600000,
-    "end": 1792945800000,
+    "start": 1792935000000,
+    "end": 1792942200000,
     "description": "Verslag van de Grand Prix Auvergne-Rhone-Alpes, gespeeld in Lyon, Frankrijk.",
     "category": [
       "Sport",
@@ -111,6 +199,34 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33552717~~2FSH066471690000"
+    }
+  },
+  {
+    "id": "playsports-premierleague:1792942200000:xykime",
+    "channel": "playsports-premierleague",
+    "title": "Play Sports",
+    "start": 1792942200000,
+    "end": 1792945800000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Aaaaf6fe2881dcbe0161ad7097c21467a8ffbe9e2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:aaaf6fe2881dcbe0161ad7097c21467a8ffbe9e2",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

@@ -332,7 +332,7 @@
     "channel": "vrt1",
     "title": "Zee in zicht",
     "start": 1792820100000,
-    "end": 1792821000000,
+    "end": 1792820880000,
     "description": "In deze reeks worden de Ketnetters door Nona 't Jolle meegenomen aan boord van het onderzoeksschip RV Simon Stevin. Varend over de golven van de Noordzee ontdekken de Ketnetters de wetenschap in en rond de Noordzee.",
     "category": [
       "Wetenschap"
@@ -353,6 +353,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32724135~~2FSH063591510000"
+    }
+  },
+  {
+    "id": "vrt1:1792820880000:usts0h",
+    "channel": "vrt1",
+    "title": "Videoclips #likeme",
+    "start": 1792820880000,
+    "end": 1792821000000,
+    "description": "De videoclip van 'Ik vraag het aan' uit aflevering 6.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33101458~~2FEP056506200040%2Cimi%3Ab3d50c8ba89ee949e61fe8fe219c5ba4f348c627/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 11,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33101458~~2FEP056506200040,imi:b3d50c8ba89ee949e61fe8fe219c5ba4f348c627",
+      "episodeName": "Ik vraag het aan",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
     }
   },
   {
@@ -1140,7 +1170,7 @@
     "channel": "vrt1",
     "title": "Dwars door de Pyreneeën",
     "start": 1792877100000,
-    "end": 1792879800000,
+    "end": 1792880100000,
     "description": "Het einde is in zicht, maar de Pyreneeën geven zich nog niet gewonnen. Arnout en zijn vrienden beklimmen de Canigou, de heilige berg die voor de Catalanen symbool staat voor hun verbondenheid. Maar die verbondenheid werd in het verleden zwaar op de proef gesteld. Bij La Vajol ontdekt Arnout het tragische verhaal van de duizenden Catalanen die aan het einde van de Spaanse Burgeroorlog via de bergen naar Frankrijk vluchtten.",
     "category": [
       "Docu",
