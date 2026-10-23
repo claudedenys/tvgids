@@ -4,7 +4,7 @@
     "channel": "vtm2",
     "title": "Geen uitzending",
     "start": 1792883100000,
-    "end": 1792918500000,
+    "end": 1792911900000,
     "description": null,
     "category": [],
     "image": null,
@@ -24,10 +24,38 @@
     }
   },
   {
-    "id": "vtm2:1792918500000:jfmd6",
+    "id": "vtm2:1792911900000:1ltn7gx",
+    "channel": "vtm2",
+    "title": "Wordt aangekondigd",
+    "start": 1792911900000,
+    "end": 1792918200000,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A1aef88eb2013e6c9922c3d62744fcddce3e8c42f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:1aef88eb2013e6c9922c3d62744fcddce3e8c42f",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm2:1792918200000:jfmd6",
     "channel": "vtm2",
     "title": "America's Got Talent: Fantasy Team",
-    "start": 1792918500000,
+    "start": 1792918200000,
     "end": 1792924200000,
     "description": "De overgebleven halvefinalisten treden op. Twee acts krijgen een golden buzzer en gaan door naar de finale, samen met een derde die wordt gekozen door de stemmen van het publiek.",
     "category": [

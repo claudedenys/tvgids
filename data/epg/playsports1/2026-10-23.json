@@ -328,41 +328,71 @@
     }
   },
   {
-    "id": "playsports1:1792788900000:qjkkk5",
+    "id": "playsports1:1792788900000:3n8bja",
+    "channel": "playsports1",
+    "title": "Maxim De Cuyper, als een meeuw boven water",
+    "start": 1792788900000,
+    "end": 1792789200000,
+    "description": "Maxim De Cuyper scheert hoge toppen met Brighton in de Premier League. Hoger op het veld, hoger in het klassement en vaker op het scorebord. Caro Hougbreghts vist naar antwoorden bij de Belgische Seagull.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34434462~~2FSH066767790000~~2Fspecial%2Cimi%3A2b9d578eb525847f0dbcecf9b4e8b64fe157618b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34434462~~2FSH066767790000~~2Fspecial,imi:2b9d578eb525847f0dbcecf9b4e8b64fe157618b",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1792789200000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1792788900000,
-    "end": 1792790400000,
-    "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
+    "start": 1792789200000,
+    "end": 1792790820000,
+    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311495~~2FEP043309820205%2Cimi%3Ae8c9d8559b372e92003e773fd5f6d38204940f5c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33680848~~2FEP043309820270%2Cimi%3A79bac4a9c5d363dd2a906973c56dcddf88c498cb/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 5,
-    "episode": 5,
+    "season": 6,
+    "episode": 13,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311495~~2FEP043309820205,imi:e8c9d8559b372e92003e773fd5f6d38204940f5c",
-      "episodeName": "Manager Rivalries",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33680848~~2FEP043309820270,imi:79bac4a9c5d363dd2a906973c56dcddf88c498cb",
+      "episodeName": "Pep: The Legacy",
       "genres": [
         "Docu",
         "Voetbal"
       ],
-      "productionDate": "2025",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
     }
   },
   {
-    "id": "playsports1:1792790400000:11wg5yb",
+    "id": "playsports1:1792790820000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1792790400000,
-    "end": 1792796940000,
+    "start": 1792790820000,
+    "end": 1792797240000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",

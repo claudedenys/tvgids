@@ -1,10 +1,40 @@
 [
   {
-    "id": "play5:1792886100000:dswtyn",
+    "id": "play5:1792882500000:dswtyn",
     "channel": "play5",
     "title": "Criminal Minds",
-    "start": 1792886100000,
-    "end": 1792893000000,
+    "start": 1792882500000,
+    "end": 1792890000000,
+    "description": "Op een plein in Dallas opent een sluipschutter het vuur op voorbijgangers. Er vallen zes slachtoffers, die op het eerste gezicht niets met elkaar gemeen hebben. Rossi ontdekt dat de schutter ook enkele kogels afvuurde die hun doel misten.",
+    "category": [
+      "Dramaserie",
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F10215627~~2FEP027942270245%2Cimi%3Ac7b418b092ba399d0574fd738323b3c194597352/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 9,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F10215627~~2FEP027942270245,imi:c7b418b092ba399d0574fd738323b3c194597352",
+      "episodeName": "Final Shot",
+      "genres": [
+        "Dramaserie",
+        "Misdaaddrama"
+      ],
+      "productionDate": "2013",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8d082383-bb57-406b-b7ff-14ae1661d82f"
+    }
+  },
+  {
+    "id": "play5:1792890000000:dswtyn",
+    "channel": "play5",
+    "title": "Criminal Minds",
+    "start": 1792890000000,
+    "end": 1792900800000,
     "description": "Het team ontmoet hun nieuwe chef Mateo Cruz, die een lange geschiedenis deelt met JJ. Mateo en zijn team moeten achter een crimineel aan die de straten van Baltimore onveilig maakt.",
     "category": [
       "Dramaserie",
@@ -27,30 +57,6 @@
       "productionDate": "2013",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8d082383-bb57-406b-b7ff-14ae1661d82f"
-    }
-  },
-  {
-    "id": "play5:1792893000000:48zb9",
-    "channel": "play5",
-    "title": "Geen uitzending",
-    "start": 1792893000000,
-    "end": 1792900800000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:15cd9a61037169de1db3e242b8c576bf7b31f43d",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {

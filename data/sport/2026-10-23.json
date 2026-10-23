@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1792710300000,
     "end": 1792733100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -92,17 +92,40 @@
     ]
   },
   {
-    "id": "sport:playsports1:1792788900000:qjkkk5",
+    "id": "sport:playsports1:1792788900000:3n8bja",
     "externalId": null,
-    "title": "Manager Rivalries",
+    "title": "Maxim De Cuyper, als een meeuw boven water",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1792788900000,
-    "end": 1792790400000,
+    "end": 1792789200000,
     "status": "aankomend",
-    "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
+    "description": "Maxim De Cuyper scheert hoge toppen met Brighton in de Premier League. Hoger op het veld, hoger in het klassement en vaker op het scorebord. Caro Hougbreghts vist naar antwoorden bij de Belgische Seagull.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1792789200000:qjkkk5",
+    "externalId": null,
+    "title": "Pep: The Legacy",
+    "home": null,
+    "away": null,
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1792789200000,
+    "end": 1792790820000,
+    "status": "aankomend",
+    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -124,7 +147,7 @@
     "sport": null,
     "start": 1792706400000,
     "end": 1792728000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -147,7 +170,7 @@
     "sport": null,
     "start": 1792728000000,
     "end": 1792749600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -262,7 +285,7 @@
     "sport": null,
     "start": 1792713780000,
     "end": 1792728900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -285,7 +308,7 @@
     "sport": "Tennis",
     "start": 1792735200000,
     "end": 1792742400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -308,7 +331,7 @@
     "sport": "Tennis",
     "start": 1792742400000,
     "end": 1792749600000,
-    "status": "aankomend",
+    "status": "live",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -423,7 +446,7 @@
     "sport": null,
     "start": 1792710840000,
     "end": 1792715340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "source": "epg",
     "platforms": [
@@ -446,7 +469,7 @@
     "sport": null,
     "start": 1792715340000,
     "end": 1792719420000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vlaamse jonge grieten kreunen en laten zien hoe ze van seks genieten.",
     "source": "epg",
     "platforms": [
@@ -469,7 +492,7 @@
     "sport": null,
     "start": 1792719420000,
     "end": 1792731600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -492,7 +515,7 @@
     "sport": "Motorsport",
     "start": 1792731600000,
     "end": 1792739400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Marina Bay Street Circuit in Singapore.",
     "source": "epg",
     "platforms": [
@@ -515,7 +538,7 @@
     "sport": "Tennis",
     "start": 1792739400000,
     "end": 1792749000000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
     "platforms": [
@@ -653,7 +676,7 @@
     "sport": null,
     "start": 1792706400000,
     "end": 1792728000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -676,7 +699,7 @@
     "sport": null,
     "start": 1792728000000,
     "end": 1792749600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -745,7 +768,7 @@
     "sport": "Golf",
     "start": 1792713600000,
     "end": 1792717200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de SAS Championship, gespeeld in de PGA Tour Champions.",
     "source": "epg",
     "platforms": [
@@ -768,7 +791,7 @@
     "sport": "Golf",
     "start": 1792717200000,
     "end": 1792720800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van het Reignwood Legends Championship, gespeeld in de European Legend Tour 2026.",
     "source": "epg",
     "platforms": [
@@ -791,7 +814,7 @@
     "sport": "Golf",
     "start": 1792720800000,
     "end": 1792724400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de SJM Macao Open, gespeeld in de Asian Tour.",
     "source": "epg",
     "platforms": [
@@ -814,7 +837,7 @@
     "sport": "Golf",
     "start": 1792724400000,
     "end": 1792731600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de Genesis Championship, gespeeld in Cheonan, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -837,7 +860,7 @@
     "sport": "Golf",
     "start": 1792731600000,
     "end": 1792742400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de tweede dag van de Genesis Championship, gespeeld in Cheonan, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -860,7 +883,7 @@
     "sport": "Golf",
     "start": 1792742400000,
     "end": 1792753200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de eerste dag van de Butterfield Bermuda Championship, gespeeld in Southampton, Bermuda.",
     "source": "epg",
     "platforms": [
@@ -1044,7 +1067,7 @@
     "sport": "Voetbal",
     "start": 1792733100000,
     "end": 1792739700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de BayArena in Leverkusen, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1067,7 +1090,7 @@
     "sport": "Voetbal",
     "start": 1792739700000,
     "end": 1792746060000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1090,7 +1113,7 @@
     "sport": "Voetbal",
     "start": 1792746060000,
     "end": 1792752480000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1196,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1792790400000:eintracht frankfurt - 1. fc koln",
+    "id": "sport:match:1792790820000:eintracht frankfurt - 1. fc koln",
     "externalId": null,
     "title": "Eintracht Frankfurt - 1. FC Köln",
     "home": "Eintracht Frankfurt",
     "away": "1. FC Köln",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1792790400000,
-    "end": 1792796940000,
+    "start": 1792790820000,
+    "end": 1792797240000,
     "status": "aankomend",
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "source": "epg",
@@ -1251,7 +1274,7 @@
     "sport": "Voetbal",
     "start": 1792707600000,
     "end": 1792713780000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Stade Joseph Marien in Vorst, België.",
     "source": "epg",
     "platforms": [
@@ -1274,7 +1297,7 @@
     "sport": "Voetbal",
     "start": 1792728900000,
     "end": 1792735200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "source": "epg",
     "platforms": [
