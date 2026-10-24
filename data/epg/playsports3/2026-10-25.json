@@ -92,7 +92,7 @@
     "channel": "playsports3",
     "title": "Play Sports",
     "start": 1792901100000,
-    "end": 1792908300000,
+    "end": 1792907400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -116,11 +116,11 @@
     }
   },
   {
-    "id": "playsports3:1792908300000:15p1p85",
+    "id": "playsports3:1792907400000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792908300000,
-    "end": 1792914900000,
+    "start": 1792907400000,
+    "end": 1792914000000,
     "description": "Verslag van de wedstrijd Beerschot - Anderlecht, gespeeld in de Croky Cup.",
     "category": [
       "Sport",
@@ -146,11 +146,11 @@
     }
   },
   {
-    "id": "playsports3:1792914900000:15p1p85",
+    "id": "playsports3:1792914000000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792914900000,
-    "end": 1792921260000,
+    "start": 1792914000000,
+    "end": 1792920420000,
     "description": "From Achter de Kazerne in Mechelen, Antwerpen, Belgium.",
     "category": [
       "Sport",
@@ -176,11 +176,11 @@
     }
   },
   {
-    "id": "playsports3:1792921260000:15p1p85",
+    "id": "playsports3:1792920420000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792921260000,
-    "end": 1792930500000,
+    "start": 1792920420000,
+    "end": 1792929600000,
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "category": [
       "Sport",
@@ -203,6 +203,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa250326f-0738-4d66-8fdf-3825435d29a2"
+    }
+  },
+  {
+    "id": "playsports3:1792929600000:11quqlf",
+    "channel": "playsports3",
+    "title": "The Paddock On Tour",
+    "start": 1792929600000,
+    "end": 1792930500000,
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007%2Cimi%3A58780c3203c1d5c4d3f24a41ae42a95796c3ee51/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007,imi:58780c3203c1d5c4d3f24a41ae42a95796c3ee51",
+      "episodeName": "RC Racing",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
     }
   },
   {
@@ -266,41 +296,71 @@
     }
   },
   {
-    "id": "playsports3:1792941900000:1p3n9ye",
+    "id": "playsports3:1792941900000:11quqlf",
     "channel": "playsports3",
-    "title": "UEFA Champions League Highlights",
+    "title": "The Paddock On Tour",
     "start": 1792941900000,
-    "end": 1792943700000,
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "end": 1792942740000,
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
     "category": [
       "Sport",
-      "Voetbal"
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34346482~~2FEP052508440039%2Cimi%3A02ec073800f475232899a2ba518e863f74e7f9bb/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007%2Cimi%3A0574ae4c9f1c9b637f42ee4d62bd766549258841/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 7,
+    "season": 2,
+    "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34346482~~2FEP052508440039,imi:02ec073800f475232899a2ba518e863f74e7f9bb",
-      "episodeName": "Aflevering 7",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007,imi:0574ae4c9f1c9b637f42ee4d62bd766549258841",
+      "episodeName": "RC Racing",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Motorsport"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
     }
   },
   {
-    "id": "playsports3:1792943700000:15p1p85",
+    "id": "playsports3:1792942740000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1792942740000,
+    "end": 1792943640000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F570669716%2Cimi%3A06a6c2cd91e2d978ee0b3dc72b3501ff2f5ef5bc/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 570669716,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F570669716,imi:06a6c2cd91e2d978ee0b3dc72b3501ff2f5ef5bc",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1792943640000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792943700000,
-    "end": 1792950060000,
+    "start": 1792943640000,
+    "end": 1792950000000,
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "category": [
       "Sport",
@@ -326,10 +386,10 @@
     }
   },
   {
-    "id": "playsports3:1792950060000:15p1p85",
+    "id": "playsports3:1792950000000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1792950060000,
+    "start": 1792950000000,
     "end": 1792956240000,
     "description": "Vanuit het Stade Joseph Marien in Vorst, België.",
     "category": [
@@ -356,33 +416,33 @@
     }
   },
   {
-    "id": "playsports3:1792956240000:1prlzbg",
+    "id": "playsports3:1792956240000:11quqlf",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "The Paddock On Tour",
     "start": 1792956240000,
     "end": 1792957200000,
-    "description": "Vanuit het Villa Park in Birmingham, Engeland.",
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
     "category": [
       "Sport",
-      "Voetbal"
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583684~~2FEP033946612501%2Cimi%3Afd6c6b0095373cc5f6de37e5d8ac62800c69b6cb/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007%2Cimi%3A45034dbe7811d662d499acfca941bdaba4d17dad/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026102401,
+    "season": 2,
+    "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583684~~2FEP033946612501,imi:fd6c6b0095373cc5f6de37e5d8ac62800c69b6cb",
-      "episodeName": "Aston Villa - Manchester City",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007,imi:45034dbe7811d662d499acfca941bdaba4d17dad",
+      "episodeName": "RC Racing",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Motorsport"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
     }
   },
   {

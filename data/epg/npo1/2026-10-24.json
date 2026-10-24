@@ -74,7 +74,7 @@
     "title": "EenVandaag",
     "start": 1792800300000,
     "end": 1792802100000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Alles wordt duurder, wat kun je zelf doen?",
     "category": [
       "Actueel"
     ],
@@ -190,7 +190,7 @@
     "channel": "npo1",
     "title": "Close up",
     "start": 1792821900000,
-    "end": 1792825200000,
+    "end": 1792825500000,
     "description": "Ze is een rijzende ster in de kunstwereld: de 94-jarige Isabella Ducrot.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/c/carrousel/close-up-780945382.jpg",
@@ -208,10 +208,10 @@
     }
   },
   {
-    "id": "npo1:1792825200000:111ln6k",
+    "id": "npo1:1792825500000:111ln6k",
     "channel": "npo1",
     "title": "Ik vertrek",
-    "start": 1792825200000,
+    "start": 1792825500000,
     "end": 1792828200000,
     "description": "Een follow-up bij de familie Mensing.",
     "category": [],
@@ -260,7 +260,7 @@
     "end": 1792833600000,
     "description": "Er komen weer een reeks verschillende muzikanten met hun instrumenten langs bij de audities.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/h/carrousel/het-max-orkest-777899772.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -366,12 +366,12 @@
     "channel": "npo1",
     "title": "Turnen: WK in Rotterdam",
     "start": 1792843200000,
-    "end": 1792848600000,
-    "description": "Liveverslag van de WK turnen in Rotterdam Ahoy.",
+    "end": 1792848900000,
+    "description": "De laatste twee dagen van de WK Turnen draaien om de toestelfinales.",
     "category": [
       "Sport"
     ],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/turnen-wk-in-rotterdam-780944842.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/k/carrousel/kaylianeymourturnsterwknossport.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -382,16 +382,17 @@
       "labels": [
         "program",
         "live",
-        "sport"
+        "sport",
+        "tip"
       ]
     }
   },
   {
-    "id": "npo1:1792848600000:1i2kbra",
+    "id": "npo1:1792848900000:1i2kbra",
     "channel": "npo1",
     "title": "Turnen: WK in Rotterdam",
-    "start": 1792848600000,
-    "end": 1792857180000,
+    "start": 1792848900000,
+    "end": 1792857360000,
     "description": "Liveverslag van de WK turnen in Rotterdam Ahoy: toestelfinales dag 1.",
     "category": [
       "Sport"
@@ -412,10 +413,10 @@
     }
   },
   {
-    "id": "npo1:1792857180000:1ttndez",
+    "id": "npo1:1792857360000:1ttndez",
     "channel": "npo1",
     "title": "Socutera",
-    "start": 1792857180000,
+    "start": 1792857360000,
     "end": 1792857600000,
     "description": "Het Diabetes Fonds werkt aan genezing van diabetes en aan een gezond leven zonder dagelijkse zorgen over diabetes en...",
     "category": [],
@@ -435,7 +436,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1792857600000,
-    "end": 1792858500000,
+    "end": 1792858800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -455,11 +456,11 @@
     }
   },
   {
-    "id": "npo1:1792858500000:ejkxyx",
+    "id": "npo1:1792858800000:ejkxyx",
     "channel": "npo1",
     "title": "Sportjournaal",
-    "start": 1792858500000,
-    "end": 1792859400000,
+    "start": 1792858800000,
+    "end": 1792859700000,
     "description": "Aandacht voor het laatste sportnieuws.",
     "category": [
       "Sport"
@@ -479,10 +480,10 @@
     }
   },
   {
-    "id": "npo1:1792859400000:1byfm7j",
+    "id": "npo1:1792859700000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1792859400000,
+    "start": 1792859700000,
     "end": 1792861500000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [

@@ -330,9 +330,32 @@
     "competition": null,
     "sport": null,
     "start": 1792901100000,
-    "end": 1792908300000,
+    "end": 1792907400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1792929600000:11quqlf",
+    "externalId": null,
+    "title": "RC Racing",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Motorsport",
+    "start": 1792929600000,
+    "end": 1792930500000,
+    "status": "aankomend",
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -391,17 +414,63 @@
     ]
   },
   {
-    "id": "sport:playsports3:1792941900000:1p3n9ye",
+    "id": "sport:playsports3:1792941900000:11quqlf",
     "externalId": null,
-    "title": "Aflevering 7",
+    "title": "RC Racing",
     "home": null,
     "away": null,
-    "competition": "UEFA Champions League",
-    "sport": "Voetbal",
+    "competition": null,
+    "sport": "Motorsport",
     "start": 1792941900000,
-    "end": 1792943700000,
+    "end": 1792942740000,
     "status": "aankomend",
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1792942740000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1792942740000,
+    "end": 1792943640000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1792956240000:11quqlf",
+    "externalId": null,
+    "title": "RC Racing",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Motorsport",
+    "start": 1792956240000,
+    "end": 1792957200000,
+    "status": "aankomend",
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -468,7 +537,7 @@
     "competition": null,
     "sport": null,
     "start": 1792906980000,
-    "end": 1792910400000,
+    "end": 1792910280000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -483,15 +552,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792910400000:bjf8gr",
+    "id": "sport:playsports4:1792910280000:bjf8gr",
     "externalId": null,
     "title": "Race 2 (MX2 & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792910400000,
-    "end": 1792913640000,
+    "start": 1792910280000,
+    "end": 1792913520000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -506,15 +575,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792913640000:bjf8gr",
+    "id": "sport:playsports4:1792913520000:bjf8gr",
     "externalId": null,
     "title": "Race 3 (MXGP & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792913640000,
-    "end": 1792918200000,
+    "start": 1792913520000,
+    "end": 1792918080000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -529,15 +598,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792918200000:3y5tln",
+    "id": "sport:playsports4:1792918080000:3y5tln",
     "externalId": null,
     "title": "GP van Indonesië: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1792918200000,
-    "end": 1792922640000,
+    "start": 1792918080000,
+    "end": 1792922520000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "source": "epg",
@@ -552,14 +621,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1792932600000:1p3n9ye",
+    "id": "sport:playsports4:1792932420000:1p3n9ye",
     "externalId": null,
     "title": "Aflevering 6",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
-    "start": 1792932600000,
+    "start": 1792932420000,
     "end": 1792934700000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
@@ -1403,15 +1472,15 @@
     ]
   },
   {
-    "id": "sport:match:1792908300000:beerschot - anderlecht",
+    "id": "sport:match:1792907400000:beerschot - anderlecht",
     "externalId": null,
     "title": "Beerschot - Anderlecht",
     "home": "Beerschot",
     "away": "Anderlecht",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792908300000,
-    "end": 1792914900000,
+    "start": 1792907400000,
+    "end": 1792914000000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Beerschot - Anderlecht, gespeeld in de Croky Cup.",
     "source": "epg",
@@ -1426,15 +1495,15 @@
     ]
   },
   {
-    "id": "sport:match:1792914900000:kv mechelen - kas eupen",
+    "id": "sport:match:1792914000000:kv mechelen - kas eupen",
     "externalId": null,
     "title": "KV Mechelen - KAS Eupen",
     "home": "KV Mechelen",
     "away": "KAS Eupen",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792914900000,
-    "end": 1792921260000,
+    "start": 1792914000000,
+    "end": 1792920420000,
     "status": "aankomend",
     "description": "From Achter de Kazerne in Mechelen, Antwerpen, Belgium.",
     "source": "epg",
@@ -1449,15 +1518,15 @@
     ]
   },
   {
-    "id": "sport:match:1792921260000:union rochefortoise - kaa gent",
+    "id": "sport:match:1792920420000:union rochefortoise - kaa gent",
     "externalId": null,
     "title": "Union Rochefortoise - KAA Gent",
     "home": "Union Rochefortoise",
     "away": "KAA Gent",
     "competition": "Beker van België",
     "sport": "Voetbal",
-    "start": 1792921260000,
-    "end": 1792930500000,
+    "start": 1792920420000,
+    "end": 1792929600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "source": "epg",
@@ -1472,15 +1541,15 @@
     ]
   },
   {
-    "id": "sport:match:1792943700000:ksk heist - royal antwerp fc",
+    "id": "sport:match:1792943640000:ksk heist - royal antwerp fc",
     "externalId": null,
     "title": "KSK Heist - Royal Antwerp FC",
     "home": "KSK Heist",
     "away": "Royal Antwerp FC",
     "competition": "Beker van België",
     "sport": "Voetbal",
-    "start": 1792943700000,
-    "end": 1792950060000,
+    "start": 1792943640000,
+    "end": 1792950000000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "source": "epg",
@@ -1495,40 +1564,17 @@
     ]
   },
   {
-    "id": "sport:match:1792950060000:union sg - nijlen",
+    "id": "sport:match:1792950000000:union sg - nijlen",
     "externalId": null,
     "title": "Union SG - Nijlen",
     "home": "Union SG",
     "away": "Nijlen",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1792950060000,
+    "start": 1792950000000,
     "end": 1792956240000,
     "status": "aankomend",
     "description": "Vanuit het Stade Joseph Marien in Vorst, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1792956240000:aston villa - manchester city",
-    "externalId": null,
-    "title": "Aston Villa - Manchester City",
-    "home": "Aston Villa",
-    "away": "Manchester City",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1792956240000,
-    "end": 1792957200000,
-    "status": "aankomend",
-    "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1564,15 +1610,15 @@
     ]
   },
   {
-    "id": "sport:match:1792922640000:antwerp giants - kortrijk",
+    "id": "sport:match:1792922520000:antwerp giants - kortrijk",
     "externalId": null,
     "title": "Antwerp Giants - Kortrijk",
     "home": "Antwerp Giants",
     "away": "Kortrijk",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1792922640000,
-    "end": 1792932600000,
+    "start": 1792922520000,
+    "end": 1792932420000,
     "status": "aankomend",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",
