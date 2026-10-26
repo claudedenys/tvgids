@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1793058900000:1mgci6o",
+    "id": "play7:1793058600000:1mgci6o",
     "channel": "play7",
     "title": "Masterchef USA",
-    "start": 1793058900000,
-    "end": 1793062500000,
+    "start": 1793058600000,
+    "end": 1793061900000,
     "description": "De chefs moeten het iconische biertje Blue Moon in hun gerechten verwerken en ervoor zorgen dat de frisse smaak in hun creaties op de voorgrond staat.",
     "category": [
       "Koken",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1793062500000:rmqxmh",
+    "id": "play7:1793061900000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1793062500000,
-    "end": 1793066100000,
+    "start": 1793061900000,
+    "end": 1793064600000,
     "description": "Een koppel verkent het zonnige Jaén in Spanje in de hoop hun ideale woning te vinden. Met hulp van de makelaar bezoeken ze verschillende huizen in deze authentieke regio vol cultuur en natuur.",
     "category": [
       "Huis & Tuin",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play7:1793066100000:48zb9",
+    "id": "play7:1793064600000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1793066100000,
-    "end": 1793073600000,
+    "start": 1793064600000,
+    "end": 1793073300000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:74d07a31f9a629601c374cfde7467495aae8a5c2",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1793073300000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1793073300000,
+    "end": 1793073600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b4d2fb0e602bc09cd3347ee12e377506a4e79fab",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

@@ -182,7 +182,7 @@
     "channel": "playsports4",
     "title": "Tennis: Ningbo Open 2026",
     "start": 1793188380000,
-    "end": 1793197380000,
+    "end": 1793193540000,
     "description": null,
     "category": [
       "Sport",
@@ -205,6 +205,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33572009~~2FSH066610500000"
+    }
+  },
+  {
+    "id": "playsports4:1793193540000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1793193540000,
+    "end": 1793197380000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b074a53adf5ef4185fc2714c449c3aec8317b144",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
