@@ -46,7 +46,7 @@
     "title": "Nieuwsuur",
     "start": 1793057100000,
     "end": 1793059800000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Studentenbeweging wint verkiezingen Servië De Studentenlijst in Servië heeft de meeste...",
     "category": [
       "Actueel"
     ],
@@ -71,7 +71,7 @@
     "title": "Nieuwsuur",
     "start": 1793059800000,
     "end": 1793080800000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Studentenbeweging wint verkiezingen Servië De Studentenlijst in Servië heeft de meeste...",
     "category": [
       "Actueel"
     ],
@@ -281,7 +281,7 @@
     "end": 1793094900000,
     "description": "In museum Klok en Peel in Asten trof expert Menno Hoencamp een gouden zakhorloge (3800 euro).",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/tussen-kunst-en-kitsch-extra-788374862.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -413,7 +413,7 @@
     "title": "NOS Journaal",
     "start": 1793102400000,
     "end": 1793103600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met sport: * Honkbal: World Series * Voetbal: Gouden Bal.....",
     "category": [
       "Actueel"
     ],
@@ -427,7 +427,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },

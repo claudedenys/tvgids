@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "Hawaii Five-0",
     "start": 1793142600000,
-    "end": 1793146200000,
+    "end": 1793146500000,
     "description": "Als het systeem van het politiekorps wordt gehackt, komt een vertrouwelijke informant van het Fivo-0 team in gevaar. Het team roept de hulp in van een onlangs gevangen genomen hacker om de zaak op te lossen.",
     "category": [
       "Misdaaddrama"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "play6:1793146200000:50juxo",
+    "id": "play6:1793146500000:50juxo",
     "channel": "play6",
     "title": "The Paddock",
-    "start": 1793146200000,
-    "end": 1793150100000,
+    "start": 1793146500000,
+    "end": 1793151000000,
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -58,11 +58,41 @@
     }
   },
   {
-    "id": "play6:1793150100000:r5y6ed",
+    "id": "play6:1793151000000:1ex9hz",
+    "channel": "play6",
+    "title": "World's Most Dangerous Prisoners",
+    "start": 1793151000000,
+    "end": 1793153700000,
+    "description": "Joshua Dewayne Gardner pleegt op 24-jarige leeftijd een moord voor slechts twintig dollar. In de gevangenis komt zijn woede opnieuw tot uitbarsting met een dodelijke aanval op een medegevangene.",
+    "category": [
+      "Docu",
+      "Misdaad"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31578281~~2FEP049872620027%2Cimi%3Adf43ac24c350233711938ff712ca54ddeaaccb1e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31578281~~2FEP049872620027,imi:df43ac24c350233711938ff712ca54ddeaaccb1e",
+      "episodeName": "Gardner",
+      "genres": [
+        "Docu",
+        "Misdaad"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26391761~~2FSH049872620000"
+    }
+  },
+  {
+    "id": "play6:1793153700000:r5y6ed",
     "channel": "play6",
     "title": "Pawn Stars: Best Of",
-    "start": 1793150100000,
-    "end": 1793153100000,
+    "start": 1793153700000,
+    "end": 1793156400000,
     "description": "Rick en de Pawn Stars betrappen Chum erop dat hij stiekem lootjes wil trekken. Rick raast door de sneeuw op een open slee uit de jaren 1800 die door één paard getrokken wordt. Corey en Chum scoren een klassieke Lionel treinset.",
     "category": [
       "Reality",
@@ -88,11 +118,11 @@
     }
   },
   {
-    "id": "play6:1793153100000:48zb9",
+    "id": "play6:1793156400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1793153100000,
-    "end": 1793160000000,
+    "start": 1793156400000,
+    "end": 1793159760000,
     "description": null,
     "category": [],
     "image": null,
@@ -104,6 +134,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e598b868e7caf3fb5fcfd321fcec3fa34521ff59",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1793159760000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1793159760000,
+    "end": 1793160000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6eaa0a3c57fbd2e3e254bd1f74d5b089cbbf4fd2",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

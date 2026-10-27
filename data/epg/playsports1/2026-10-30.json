@@ -122,7 +122,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1793360160000,
-    "end": 1793366520000,
+    "end": 1793366640000,
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports1:1793366520000:1prlzbg",
+    "id": "playsports1:1793366640000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793366520000,
+    "start": 1793366640000,
     "end": 1793373000000,
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "category": [
@@ -182,7 +182,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1793373000000,
-    "end": 1793380200000,
+    "end": 1793379180000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
@@ -205,6 +205,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1793379180000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1793379180000,
+    "end": 1793380200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:11f677701367eb8e1f71758927432d627ac67a3a",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -278,16 +302,16 @@
       "Sporttalkshow",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34340740~~2FEP039508280215%2Cimi%3A437141bba0069592d19f802340d8126f98d67130/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34430354~~2FEP039508280216%2Cimi%3Ae3fa09061ba7def9d8601ba38474a45ac09bb309/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 12,
-    "episode": 9,
+    "episode": 10,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34340740~~2FEP039508280215,imi:437141bba0069592d19f802340d8126f98d67130",
-      "episodeName": "Aflevering 9",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34430354~~2FEP039508280216,imi:e3fa09061ba7def9d8601ba38474a45ac09bb309",
+      "episodeName": "Aflevering 10",
       "genres": [
         "Sporttalkshow",
         "Voetbal"
@@ -362,7 +386,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1793396940000,
-    "end": 1793404800000,
+    "end": 1793403180000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",

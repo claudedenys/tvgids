@@ -1,10 +1,40 @@
 [
   {
-    "id": "vtm:1793231100000:iug1rc",
+    "id": "vtm:1793228100000:1bzob18",
+    "channel": "vtm",
+    "title": "Mijn Restaurant",
+    "start": 1793228100000,
+    "end": 1793232900000,
+    "description": "De jury bezoekt en eet bij de duo's in Halle, Mechelen en Oostende. Intussen brengen de klanten voor het eerst hun stem uit en delen ze hun ongezouten commentaar.",
+    "category": [
+      "Koken",
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34345506~~2FEP061100380024%2Cimi%3A554ba9b45b5f928d21d2ed1f27fe89e2d88fa0f5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34345506~~2FEP061100380024,imi:554ba9b45b5f928d21d2ed1f27fe89e2d88fa0f5",
+      "episodeName": "Aflevering 7",
+      "genres": [
+        "Koken",
+        "Reality"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31470278~~2FSH061100380000"
+    }
+  },
+  {
+    "id": "vtm:1793232900000:iug1rc",
     "channel": "vtm",
     "title": "NYPD Blue",
-    "start": 1793231100000,
-    "end": 1793234100000,
+    "start": 1793232900000,
+    "end": 1793236200000,
     "description": "Simone en Sipowicz volgen aanwijzingen in een moordzaak die naar een van hen wijst.",
     "category": [
       "Misdaaddrama"
@@ -28,11 +58,11 @@
     }
   },
   {
-    "id": "vtm:1793234100000:10nqaiu",
+    "id": "vtm:1793236200000:10nqaiu",
     "channel": "vtm",
     "title": "De Branche-Expert",
-    "start": 1793234100000,
-    "end": 1793236500000,
+    "start": 1793236200000,
+    "end": 1793238600000,
     "description": "De redactie stelt vragen die veel mensen zich thuis ook stellen, maar waar je vaak pas het juiste antwoord op krijgt als je bij iemand langsgaat die het elke dag doet. De presentatoren trekken door heel Vlaanderen, op bezoek bij branche-experts.",
     "category": [
       "Entertainment"
@@ -56,35 +86,11 @@
     }
   },
   {
-    "id": "vtm:1793236500000:48zb9",
+    "id": "vtm:1793238600000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1793236500000,
-    "end": 1793240100000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:058d25faa861eabf40df04f0ac0bae4edb5e8993",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "vtm:1793240100000:48zb9",
-    "channel": "vtm",
-    "title": "Geen uitzending",
-    "start": 1793240100000,
-    "end": 1793250000000,
+    "start": 1793238600000,
+    "end": 1793242500000,
     "description": null,
     "category": [],
     "image": null,
@@ -96,6 +102,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c76a32b8d80f69f6778520dc26baee29e24b6b30",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm:1793242500000:48zb9",
+    "channel": "vtm",
+    "title": "Geen uitzending",
+    "start": 1793242500000,
+    "end": 1793250000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:058d25faa861eabf40df04f0ac0bae4edb5e8993",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

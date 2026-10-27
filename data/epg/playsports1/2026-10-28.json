@@ -1,45 +1,15 @@
 [
   {
-    "id": "playsports1:1793139300000:11wg5yb",
-    "channel": "playsports1",
-    "title": "Bundesliga",
-    "start": 1793139300000,
-    "end": 1793145720000,
-    "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871%2Cimi%3Aef613efe292e5161af2abc30183623b7d715c0c5/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 48600000,
-    "episode": 2026101671,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614460~~2FEP033948601871,imi:ef613efe292e5161af2abc30183623b7d715c0c5",
-      "episodeName": "Eintracht Frankfurt - 1. FC Köln",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
-    }
-  },
-  {
-    "id": "playsports1:1793145720000:xykime",
+    "id": "playsports1:1793145120000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1793145720000,
+    "start": 1793145120000,
     "end": 1793167200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Aa3a7fae501855d900768ef3f0dde15148c5419ff/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A6e710b88dea03a8efd551a43d3401386d38d7ff1/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -47,7 +17,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:a3a7fae501855d900768ef3f0dde15148c5419ff",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:6e710b88dea03a8efd551a43d3401386d38d7ff1",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -212,7 +182,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1793199540000,
-    "end": 1793205720000,
+    "end": 1793205900000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
@@ -238,27 +208,33 @@
     }
   },
   {
-    "id": "playsports1:1793205720000:48zb9",
+    "id": "playsports1:1793205900000:11wg5yb",
     "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1793205720000,
+    "title": "Bundesliga",
+    "start": 1793205900000,
     "end": 1793206800000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33615195~~2FEP033948601880%2Cimi%3A90a33912e2eba6209af0154a490fde450de223e8/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 48600000,
+    "episode": 2026102580,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5b9b06f6507e6b2de60205f996d1e91dc024a7d5",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33615195~~2FEP033948601880,imi:90a33912e2eba6209af0154a490fde450de223e8",
+      "episodeName": "SC Freiburg - Bayern München",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
     }
   },
   {
@@ -326,7 +302,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1793213340000,
-    "end": 1793219580000,
+    "end": 1793219700000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
@@ -352,41 +328,17 @@
     }
   },
   {
-    "id": "playsports1:1793219580000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1793219580000,
-    "end": 1793220600000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:728be357c608bd4e238c006924bea7c6b5a051ff",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1793220600000:11wg5yb",
+    "id": "playsports1:1793219700000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793220600000,
-    "end": 1793226960000,
+    "start": 1793219700000,
+    "end": 1793226060000,
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33615195~~2FEP033948601880%2Cimi%3A9e3ec861ea1e79b21c78e79bad5bd9c46dee9623/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33615195~~2FEP033948601880%2Cimi%3A7a14e920314942baa90bf2d09d917704447b4a43/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -394,7 +346,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33615195~~2FEP033948601880,imi:9e3ec861ea1e79b21c78e79bad5bd9c46dee9623",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33615195~~2FEP033948601880,imi:7a14e920314942baa90bf2d09d917704447b4a43",
       "episodeName": "SC Freiburg - Bayern München",
       "genres": [
         "Sport",
@@ -406,17 +358,17 @@
     }
   },
   {
-    "id": "playsports1:1793226960000:11wg5yb",
+    "id": "playsports1:1793226060000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793226960000,
-    "end": 1793233440000,
+    "start": 1793226060000,
+    "end": 1793232300000,
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616138~~2FEP033948601884%2Cimi%3A2f63ebaba6a27625d70a14d021fd6db3270e5894/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616138~~2FEP033948601884%2Cimi%3A10ae84e93ae21ad61ec95721da869fbc6cd8fee7/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -424,7 +376,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616138~~2FEP033948601884,imi:2f63ebaba6a27625d70a14d021fd6db3270e5894",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616138~~2FEP033948601884,imi:10ae84e93ae21ad61ec95721da869fbc6cd8fee7",
       "episodeName": "Borussia Dortmund - Eintracht Frankfurt",
       "genres": [
         "Sport",

@@ -1,56 +1,32 @@
 [
   {
-    "id": "playsports4:1793317560000:48zb9",
+    "id": "playsports4:1793317200000:17dve15",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1793317560000,
-    "end": 1793321400000,
+    "title": "Tennis: Ningbo Open 2026",
+    "start": 1793317200000,
+    "end": 1793322300000,
     "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5f9bc253e037b9c38d6496351078845f9107bbc9",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1793321400000:1amkxa8",
-    "channel": "playsports4",
-    "title": "Massage Therapy 18YO Sex Addicts",
-    "start": 1793321400000,
-    "end": 1793326620000,
-    "description": "Mrs. Veronique neemt sexy Sabine mee naar de SM zolder, waar zij kennis maakt met de zweep.",
     "category": [
-      "Adult",
-      "Film"
+      "Sport",
+      "Tennis"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26583540~~2FMV025774020000%2Cimi%3A93d66d68eec2756ab03527130ceef96e5b305942/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34359067~~2FEP066610500009%2Cimi%3A855f742b9517916f0ed6d9b21456eba536a9b551/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 10500000,
+    "episode": 2026102509,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26583540~~2FMV025774020000,imi:93d66d68eec2756ab03527130ceef96e5b305942",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34359067~~2FEP066610500009,imi:855f742b9517916f0ed6d9b21456eba536a9b551",
+      "episodeName": "Dag 7: Finale",
       "genres": [
-        "Adult",
-        "Film"
+        "Sport",
+        "Tennis"
       ],
-      "productionDate": "2023",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33572009~~2FSH066610500000"
     }
   },
   {
