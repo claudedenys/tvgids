@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports-golf:1793232000000:yw0r97",
+    "id": "playsports-golf:1793228400000:18uqtlf",
+    "channel": "playsports-golf",
+    "title": "LPGA Tour Hoogtepunten",
+    "start": 1793228400000,
+    "end": 1793233800000,
+    "description": "Hoogtepunten van de BMW Ladies Championship, gespeeld op de Pine Beach Golf Links in Haenam-gun, Zuid-Korea.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34292999~~2FEP042788330159%2Cimi%3A1626dcf5b5fda9d6c1aaddc7e1e2e255e63a200f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026102659,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34292999~~2FEP042788330159,imi:1626dcf5b5fda9d6c1aaddc7e1e2e255e63a200f",
+      "episodeName": "BMW Ladies Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22040071~~2FSH042788330000"
+    }
+  },
+  {
+    "id": "playsports-golf:1793233800000:yw0r97",
     "channel": "playsports-golf",
     "title": "Asian Tour Hoogtepunten",
-    "start": 1793232000000,
-    "end": 1793235600000,
+    "start": 1793233800000,
+    "end": 1793237400000,
     "description": "Hoogtepunten van de LINK Hong Kong Open, gespeeld op de Hong Kong Golf Club in de Asian Tour.",
     "category": [
       "Sport",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "playsports-golf:1793235600000:36ys9t",
+    "id": "playsports-golf:1793237400000:36ys9t",
     "channel": "playsports-golf",
     "title": "PGA Tour - The Cut",
-    "start": 1793235600000,
-    "end": 1793237400000,
+    "start": 1793237400000,
+    "end": 1793239200000,
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
     "category": [
       "Sport",
@@ -57,36 +87,6 @@
       "productionDate": "2023",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
-    }
-  },
-  {
-    "id": "playsports-golf:1793237400000:lt7aff",
-    "channel": "playsports-golf",
-    "title": "DP World Tour Hoogtepunten",
-    "start": 1793237400000,
-    "end": 1793239200000,
-    "description": "Hoogtepunten van de Genesis Championship, gespeeld op de Woo Jeong Hills CC in Cheonan, Zuid-Korea.",
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34300581~~2FEP049393090265%2Cimi%3A56c7a7295a959d250ee7c556b9d8a2d096b90f6e/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 2026102865,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34300581~~2FEP049393090265,imi:56c7a7295a959d250ee7c556b9d8a2d096b90f6e",
-      "episodeName": "Genesis Championship",
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
     }
   },
   {
@@ -390,33 +390,33 @@
     }
   },
   {
-    "id": "playsports-golf:1793293200000:rnzpmx",
+    "id": "playsports-golf:1793293200000:dh4bf",
     "channel": "playsports-golf",
-    "title": "PGA Korn Ferry Tour Hoogtepunten",
+    "title": "The Open Championship Hoogtepunten",
     "start": 1793293200000,
     "end": 1793296800000,
-    "description": "Alle hoogtepunten van een toernooi gespeeld op de Korn Ferry Tour.",
+    "description": "Hoogtepunten van The Open Championship 2024, gespeeld op de Royal Troon golf Club in Troon, Schotland.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33948029~~2FEP036179500047%2Cimi%3Ae2411ed2862761d359cc6360519c60a6f8973550/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28741427~~2FEP043714650020%2Cimi%3Ab77c61e84cac81c0e45ac1502088810f4b1391d0/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 2026083047,
+    "season": 102024,
+    "episode": 2024120420,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33948029~~2FEP036179500047,imi:e2411ed2862761d359cc6360519c60a6f8973550",
-      "episodeName": "AdventHealth Championship",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28741427~~2FEP043714650020,imi:b77c61e84cac81c0e45ac1502088810f4b1391d0",
+      "episodeName": null,
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": "2026",
+      "productionDate": "2024",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179500000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22533434~~2FSH043714650000"
     }
   },
   {

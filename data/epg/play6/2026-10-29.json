@@ -1,9 +1,9 @@
 [
   {
-    "id": "play6:1793228700000:8c7jz",
+    "id": "play6:1793229000000:8c7jz",
     "channel": "play6",
     "title": "Hawaii Five-0",
-    "start": 1793228700000,
+    "start": 1793229000000,
     "end": 1793232600000,
     "description": "Het team onderzoekt een serie moorden die nauw verwant lijken te zijn aan bekende Hawaiiaanse volksverhalen. Ondertussen gaat Grover op bezoek bij een man die op het punt staat om geëxecuteerd te worden.",
     "category": [
@@ -62,7 +62,7 @@
     "channel": "play6",
     "title": "Pawn Stars",
     "start": 1793236500000,
-    "end": 1793239800000,
+    "end": 1793238900000,
     "description": "Een klant probeert de garderobe van Tony Soprano uit de serie 'The Sopranos' te verkopen. Rick en Chum maken een reisje naar Italië voor enkele pauselijke artefacten. Cory is in de ban van een vreemd speelgoedje en Rick vindt een zeldzaam boek.",
     "category": [
       "Reality",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "play6:1793239800000:48zb9",
+    "id": "play6:1793238900000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1793239800000,
-    "end": 1793246400000,
+    "start": 1793238900000,
+    "end": 1793246160000,
     "description": null,
     "category": [],
     "image": null,
@@ -104,6 +104,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9ddf3247baf2eee043a222ff7f7e0358e5fded77",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1793246160000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1793246160000,
+    "end": 1793246400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3df8484c880282c45fa4304ad6905a5189f14cb9",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

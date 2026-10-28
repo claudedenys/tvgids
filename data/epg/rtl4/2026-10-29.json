@@ -1,10 +1,10 @@
 [
   {
-    "id": "rtl4:1793227800000:4ilhwp",
+    "id": "rtl4:1793227500000:4ilhwp",
     "channel": "rtl4",
     "title": "Renze",
-    "start": 1793227800000,
-    "end": 1793231400000,
+    "start": 1793227500000,
+    "end": 1793231040000,
     "description": "Talkshow waarin Renze Klamer iedere werkdag met relevante gasten het nieuws van de dag uit binnen- en buitenland...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/r/carrousel/renze-781759612.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "rtl4:1793231400000:3epbx0",
+    "id": "rtl4:1793231040000:3epbx0",
     "channel": "rtl4",
     "title": "Lubach",
-    "start": 1793231400000,
-    "end": 1793233200000,
+    "start": 1793231040000,
+    "end": 1793232660000,
     "description": "Satirische latenightshow waarin actuele thema’s en nieuws op humoristische wijze worden besproken.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/l/carrousel/lubach-778655262.jpg",
@@ -44,14 +44,36 @@
     }
   },
   {
-    "id": "rtl4:1793233200000:1v43lh7",
+    "id": "rtl4:1793232660000:1v43lh7",
     "channel": "rtl4",
     "title": "RTL Boulevard",
-    "start": 1793233200000,
-    "end": 1793236200000,
+    "start": 1793232660000,
+    "end": 1793235120000,
     "description": "Dagelijkse mix van actualiteiten, vermaak en opinies met een of twee deskundigen, gasten of andere nieuwsmakers.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/r/carrousel/rtl-boulevard-781267452.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "rtl4:1793235120000:1avzef3",
+    "channel": "rtl4",
+    "title": "Teleshop 4: Tommy teleshopping",
+    "start": 1793235120000,
+    "end": 1793235720000,
+    "description": "Homeshoppingprogramma.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/teleshop-4-tommy-teleshopping-791327752.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -70,7 +92,7 @@
     "channel": "rtl4",
     "title": "Teleshop 4: Tommy teleshopping",
     "start": 1793235720000,
-    "end": 1793250000000,
+    "end": 1793249820000,
     "description": "Homeshoppingprogramma.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/teleshop-4-tommy-teleshopping-779159192.jpg",

@@ -4,7 +4,7 @@
     "channel": "playsports-golf",
     "title": "PGA Tour",
     "start": 1793143800000,
-    "end": 1793154600000,
+    "end": 1793167200000,
     "description": "Verslag van de vierde en laatste dag van de Butterfield Bermuda Championship, gespeeld in Southampton, Bermuda.",
     "category": [
       "Sport",
@@ -27,66 +27,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
-    }
-  },
-  {
-    "id": "playsports-golf:1793154600000:zzkb3f",
-    "channel": "playsports-golf",
-    "title": "DP World Tour",
-    "start": 1793154600000,
-    "end": 1793165400000,
-    "description": "Verslag van de vierde en laatste dag van de Genesis Championship, gespeeld in Cheonan, Zuid-Korea.",
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825464~~2FEP049392790497%2Cimi%3A576314fd64319719e6da0534c461286eeed431dc/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 92790000,
-    "episode": 2026102597,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825464~~2FEP049392790497,imi:576314fd64319719e6da0534c461286eeed431dc",
-      "episodeName": "Genesis Championship: Dag 4",
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
-    }
-  },
-  {
-    "id": "playsports-golf:1793165400000:36ys9t",
-    "channel": "playsports-golf",
-    "title": "PGA Tour - The Cut",
-    "start": 1793165400000,
-    "end": 1793167200000,
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31027101~~2FEP036113230281%2Cimi%3Abda3992096369102de17e89b850e3db273b0cd90/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102025,
-    "episode": 64,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31027101~~2FEP036113230281,imi:bda3992096369102de17e89b850e3db273b0cd90",
-      "episodeName": "Aflevering 64",
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": "2025",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
     }
   },
   {

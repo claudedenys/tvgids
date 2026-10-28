@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports4:1793398980000:1ng6s",
+    "id": "playsports4:1793397360000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1793398980000,
-    "end": 1793407080000,
+    "start": 1793397360000,
+    "end": 1793405760000,
     "description": "Verslaggeving van de Belgische en Nederlandse basketbalkampioenschappen.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1793407080000:arbc9d",
+    "id": "playsports4:1793405760000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1793407080000,
-    "end": 1793416080000,
+    "start": 1793405760000,
+    "end": 1793412180000,
     "description": "Vanaf het Circuit of the Americas in Austin, Texas, Verenigde Staten.",
     "category": [
       "Sport",
@@ -60,11 +60,41 @@
     }
   },
   {
-    "id": "playsports4:1793416080000:xykime",
+    "id": "playsports4:1793412180000:3y5tln",
+    "channel": "playsports4",
+    "title": "MotoGP",
+    "start": 1793412180000,
+    "end": 1793416620000,
+    "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514%2Cimi%3A1f9f7974ff355ec98cdc1867e6eeaf9f7d3e71dd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 38910000,
+    "episode": 2026101114,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514,imi:1f9f7974ff355ec98cdc1867e6eeaf9f7d3e71dd",
+      "episodeName": "GP van Indonesië: Race",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
+    }
+  },
+  {
+    "id": "playsports4:1793416620000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1793416080000,
-    "end": 1793425260000,
+    "start": 1793416620000,
+    "end": 1793424600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1793425260000:8a2n92",
+    "id": "playsports4:1793424600000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1793425260000,
-    "end": 1793433660000,
+    "start": 1793424600000,
+    "end": 1793433000000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -118,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1793433660000:8a2n92",
+    "id": "playsports4:1793433000000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1793433660000,
-    "end": 1793440560000,
+    "start": 1793433000000,
+    "end": 1793439900000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -148,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1793440560000:1kmei86",
+    "id": "playsports4:1793439900000:1kmei86",
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
-    "start": 1793440560000,
-    "end": 1793450160000,
+    "start": 1793439900000,
+    "end": 1793449500000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
@@ -178,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1793450160000:arbc9d",
+    "id": "playsports4:1793449500000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1793450160000,
-    "end": 1793459100000,
+    "start": 1793449500000,
+    "end": 1793456100000,
     "description": "Vanaf het Circuit of the Americas in Austin, Texas, Verenigde Staten.",
     "category": [
       "Sport",
@@ -208,26 +238,26 @@
     }
   },
   {
-    "id": "playsports4:1793459100000:3y5tln",
+    "id": "playsports4:1793456100000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1793459100000,
-    "end": 1793462940000,
-    "description": "Verslag van de race van de MotoGP van Australië, gereden op Phillip Island, Australië.",
+    "start": 1793456100000,
+    "end": 1793460600000,
+    "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393944~~2FEP036138911522%2Cimi%3A821d406665d891d0aa0ccd93e8180eaf858195b1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514%2Cimi%3A65bb04f27296472d042b6d06774480337dc337bd/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 38910000,
-    "episode": 2026102522,
+    "episode": 2026101114,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393944~~2FEP036138911522,imi:821d406665d891d0aa0ccd93e8180eaf858195b1",
-      "episodeName": "GP van Australië: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393906~~2FEP036138911514,imi:65bb04f27296472d042b6d06774480337dc337bd",
+      "episodeName": "GP van Indonesië: Race",
       "genres": [
         "Sport",
         "Motorracen"
@@ -238,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1793462940000:bjf8gr",
+    "id": "playsports4:1793460600000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1793462940000,
-    "end": 1793467500000,
+    "start": 1793460600000,
+    "end": 1793465100000,
     "description": null,
     "category": [
       "Sport",
@@ -268,11 +298,41 @@
     }
   },
   {
+    "id": "playsports4:1793465100000:i67pjl",
+    "channel": "playsports4",
+    "title": "Play Sports Highlights",
+    "start": 1793465100000,
+    "end": 1793467500000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F571700291%2Cimi%3A8e84bcabd3e9efc9dde0fbe9f0ff2f875c555f7f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 571700291,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F571700291,imi:8e84bcabd3e9efc9dde0fbe9f0ff2f875c555f7f",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
     "id": "playsports4:1793467500000:11wg5yb",
     "channel": "playsports4",
     "title": "Bundesliga",
     "start": 1793467500000,
-    "end": 1793474520000,
+    "end": 1793474700000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
@@ -298,27 +358,33 @@
     }
   },
   {
-    "id": "playsports4:1793474520000:48zb9",
+    "id": "playsports4:1793474700000:i67pjl",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1793474520000,
+    "title": "Play Sports Highlights",
+    "start": 1793474700000,
     "end": 1793476500000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F571700292%2Cimi%3A67748d66109369cbfb56fcc67c2b04a12cef79df/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 571700292,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:56c8b428d5b29c90e334b85d453b37f933216e12",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F571700292,imi:67748d66109369cbfb56fcc67c2b04a12cef79df",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {

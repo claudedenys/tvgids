@@ -152,7 +152,7 @@
     "channel": "playsports3",
     "title": "UEFA Europa League",
     "start": 1793185980000,
-    "end": 1793191980000,
+    "end": 1793192100000,
     "description": "Verslag van de wedstrijd Benfica - Celtic, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -178,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1793191980000:ear1gl",
+    "id": "playsports3:1793192100000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1793191980000,
-    "end": 1793198760000,
+    "start": 1793192100000,
+    "end": 1793198820000,
     "description": "Verslag van de wedstrijd Juventus - Stade Rennais, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -208,11 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1793198760000:16v40h",
+    "id": "playsports3:1793198820000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1793198760000,
-    "end": 1793205180000,
+    "start": 1793198820000,
+    "end": 1793205240000,
     "description": "Vanuit het MCH Arena in Herning, Midtjylland, Denemarken.",
     "category": [
       "Sport",
@@ -238,11 +238,11 @@
     }
   },
   {
-    "id": "playsports3:1793205180000:16v40h",
+    "id": "playsports3:1793205240000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1793205180000,
-    "end": 1793211360000,
+    "start": 1793205240000,
+    "end": 1793211480000,
     "description": "Verslag van de wedstrijd Ajax - Atalanta, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -268,11 +268,11 @@
     }
   },
   {
-    "id": "playsports3:1793211360000:15p1p85",
+    "id": "playsports3:1793211480000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1793211360000,
-    "end": 1793218080000,
+    "start": 1793211480000,
+    "end": 1793218200000,
     "description": "Vanuit het King Power at Den Dreef Stadion in Leuven, België.",
     "category": [
       "Sport",
@@ -298,41 +298,101 @@
     }
   },
   {
-    "id": "playsports3:1793218080000:15p1p85",
+    "id": "playsports3:1793218200000:1p2p7re",
     "channel": "playsports3",
-    "title": "Croky Cup",
-    "start": 1793218080000,
-    "end": 1793224500000,
-    "description": "Vanuit het Regenboogstadion in Waregem, België.",
+    "title": "The Paddock Podcast",
+    "start": 1793218200000,
+    "end": 1793221680000,
+    "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Motorsport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34242189~~2FEP037052220125%2Cimi%3A5c6b9a357234ffef33d788f7d5f82d50caf156c5/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34359748~~2FEP063090210022%2Cimi%3Adb4743beed8ca32baa81fa9fb28ede258664e5ce/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 52220000,
-    "episode": 2026101725,
+    "season": 6,
+    "episode": 20,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34242189~~2FEP037052220125,imi:5c6b9a357234ffef33d788f7d5f82d50caf156c5",
-      "episodeName": "Zulte Waregem - RFC Seraing",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34359748~~2FEP063090210022,imi:db4743beed8ca32baa81fa9fb28ede258664e5ce",
+      "episodeName": "Aflevering 20",
       "genres": [
         "Sport",
-        "Voetbal"
+        "Motorsport"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa250326f-0738-4d66-8fdf-3825435d29a2"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20976076~~2FSH063090210000"
     }
   },
   {
-    "id": "playsports3:1793224500000:15p1p85",
+    "id": "playsports3:1793221680000:arbc9d",
+    "channel": "playsports3",
+    "title": "The Paddock Live: Formule 1",
+    "start": 1793221680000,
+    "end": 1793222340000,
+    "description": "Vanaf het Circuit of the Americas in Austin, Texas, Verenigde Staten.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32389182~~2FEP063235100121%2Cimi%3A493e6b4e848daf6e8b59d24e0f991f50eee98081/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 35100000,
+    "episode": 2026102521,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32389182~~2FEP063235100121,imi:493e6b4e848daf6e8b59d24e0f991f50eee98081",
+      "episodeName": "GP van de Verenigde Staten: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports3:1793222340000:11quqlf",
+    "channel": "playsports3",
+    "title": "The Paddock On Tour",
+    "start": 1793222340000,
+    "end": 1793223180000,
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007%2Cimi%3A5f38003d646a220921fd08c5e4d3044486c9ff5d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007,imi:5f38003d646a220921fd08c5e4d3044486c9ff5d",
+      "episodeName": "RC Racing",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
+    }
+  },
+  {
+    "id": "playsports3:1793223180000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1793224500000,
-    "end": 1793233740000,
+    "start": 1793223180000,
+    "end": 1793232420000,
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "category": [
       "Sport",

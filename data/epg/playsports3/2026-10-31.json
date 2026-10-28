@@ -88,35 +88,41 @@
     }
   },
   {
-    "id": "playsports3:1793426400000:48zb9",
+    "id": "playsports3:1793426400000:1p3n9ye",
     "channel": "playsports3",
-    "title": "Geen uitzending",
+    "title": "UEFA Champions League Highlights",
     "start": 1793426400000,
-    "end": 1793429400000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "end": 1793428800000,
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038%2Cimi%3A29b7cee1616434fb2b91829797f6e9374454e270/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 102026,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0b3a611a3026f83778056a71353e346bdbc1b803",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038,imi:29b7cee1616434fb2b91829797f6e9374454e270",
+      "episodeName": "Aflevering 6",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
     }
   },
   {
-    "id": "playsports3:1793429400000:15p1p85",
+    "id": "playsports3:1793428800000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1793429400000,
-    "end": 1793436120000,
+    "start": 1793428800000,
+    "end": 1793435520000,
     "description": "Verslag van de wedstrijd Beerschot - Anderlecht, gespeeld in de Croky Cup.",
     "category": [
       "Sport",
@@ -142,11 +148,11 @@
     }
   },
   {
-    "id": "playsports3:1793436120000:15p1p85",
+    "id": "playsports3:1793435520000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1793436120000,
-    "end": 1793445300000,
+    "start": 1793435520000,
+    "end": 1793444700000,
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "category": [
       "Sport",
@@ -172,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1793445300000:16v40h",
+    "id": "playsports3:1793444700000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1793445300000,
-    "end": 1793451600000,
+    "start": 1793444700000,
+    "end": 1793451000000,
     "description": "Vanuit het MCH Arena in Herning, Midtjylland, Denemarken.",
     "category": [
       "Sport",
@@ -202,11 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1793451600000:16v40h",
+    "id": "playsports3:1793451000000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1793451600000,
-    "end": 1793457900000,
+    "start": 1793451000000,
+    "end": 1793457300000,
     "description": "Verslag van de wedstrijd Ajax - Atalanta, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -232,17 +238,17 @@
     }
   },
   {
-    "id": "playsports3:1793457900000:1p3n9ye",
+    "id": "playsports3:1793457300000:1p3n9ye",
     "channel": "playsports3",
     "title": "UEFA Champions League Highlights",
-    "start": 1793457900000,
-    "end": 1793460300000,
+    "start": 1793457300000,
+    "end": 1793459700000,
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038%2Cimi%3A29b7cee1616434fb2b91829797f6e9374454e270/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038%2Cimi%3A3bdc33ea027e85a250a46a2a90ad7f6c6687e8da/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -250,7 +256,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038,imi:29b7cee1616434fb2b91829797f6e9374454e270",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34338689~~2FEP052508440038,imi:3bdc33ea027e85a250a46a2a90ad7f6c6687e8da",
       "episodeName": "Aflevering 6",
       "genres": [
         "Sport",
@@ -259,6 +265,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
+    }
+  },
+  {
+    "id": "playsports3:1793459700000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1793459700000,
+    "end": 1793460300000,
+    "description": "Verslag van de wedstrijd Sparta Rotterdam - Ajax uit de 10e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559087~~2FEP035850992032%2Cimi%3Aea4388fc62cb0e50551cba83817d58b739abaf36/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026102532,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559087~~2FEP035850992032,imi:ea4388fc62cb0e50551cba83817d58b739abaf36",
+      "episodeName": "Sparta Rotterdam - Ajax",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {

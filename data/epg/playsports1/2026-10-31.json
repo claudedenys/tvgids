@@ -1,15 +1,45 @@
 [
   {
-    "id": "playsports1:1793404800000:xykime",
+    "id": "playsports1:1793403360000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1793403360000,
+    "end": 1793409900000,
+    "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33614980~~2FEP033948601879%2Cimi%3A404933f80e7efeed1f65866cd5afdf77e7200875/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026102379,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33614980~~2FEP033948601879,imi:404933f80e7efeed1f65866cd5afdf77e7200875",
+      "episodeName": "VfB Stuttgart - Borussia Mönchengladbach",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1793409900000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1793404800000,
-    "end": 1793426400000,
+    "start": 1793409900000,
+    "end": 1793426700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A7a345c7beff7c9dfe582d9b0033ca4867f72d679/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Aa3a7fae501855d900768ef3f0dde15148c5419ff/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +47,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:7a345c7beff7c9dfe582d9b0033ca4867f72d679",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:a3a7fae501855d900768ef3f0dde15148c5419ff",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -28,35 +58,11 @@
     }
   },
   {
-    "id": "playsports1:1793426400000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1793426400000,
-    "end": 1793427900000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:128ee6973886657eaa74fd224c077627ebeb6ad1",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1793427900000:1prlzbg",
+    "id": "playsports1:1793426700000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793427900000,
-    "end": 1793434080000,
+    "start": 1793426700000,
+    "end": 1793432880000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
@@ -82,35 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1793434080000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1793434080000,
-    "end": 1793435040000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:8c65c7420f911f4bc27a7f8359f182facaed671f",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1793435040000:1prlzbg",
+    "id": "playsports1:1793432880000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793435040000,
-    "end": 1793442360000,
+    "start": 1793432880000,
+    "end": 1793439360000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -136,10 +118,40 @@
     }
   },
   {
-    "id": "playsports1:1793442360000:amnfa6",
+    "id": "playsports1:1793439360000:fly4em",
+    "channel": "playsports1",
+    "title": "Bundesliga Highlights",
+    "start": 1793439360000,
+    "end": 1793442480000,
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34407362~~2FEP050961140065%2Cimi%3A57ce19cf473201fee03d441fd11af51ea011a03b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34407362~~2FEP050961140065,imi:57ce19cf473201fee03d441fd11af51ea011a03b",
+      "episodeName": "Aflevering 7",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27175952~~2FSH050961140000"
+    }
+  },
+  {
+    "id": "playsports1:1793442480000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
-    "start": 1793442360000,
+    "start": 1793442480000,
     "end": 1793445600000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
@@ -170,7 +182,7 @@
     "channel": "playsports1",
     "title": "Premier League Stories",
     "start": 1793445600000,
-    "end": 1793447100000,
+    "end": 1793447160000,
     "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
     "category": [
       "Docu",
@@ -196,10 +208,10 @@
     }
   },
   {
-    "id": "playsports1:1793447100000:1dvjy1m",
+    "id": "playsports1:1793447160000:1dvjy1m",
     "channel": "playsports1",
     "title": "Meester Tacticus",
-    "start": 1793447100000,
+    "start": 1793447160000,
     "end": 1793448000000,
     "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
     "category": [
@@ -470,7 +482,7 @@
     "channel": "playsports1",
     "title": "Meester Tacticus",
     "start": 1793483700000,
-    "end": 1793484900000,
+    "end": 1793484600000,
     "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
     "category": [
       "Sport",
@@ -496,11 +508,11 @@
     }
   },
   {
-    "id": "playsports1:1793484900000:qjkkk5",
+    "id": "playsports1:1793484600000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1793484900000,
-    "end": 1793486400000,
+    "start": 1793484600000,
+    "end": 1793486160000,
     "description": "We onthullen de meest iconische rivaliteiten tussen managers in de Premier League. Strijd die tijdperken heeft gevormd, clubs heeft gedefinieerd en fans over de hele wereld heeft geboeid.",
     "category": [
       "Docu",
@@ -526,11 +538,11 @@
     }
   },
   {
-    "id": "playsports1:1793486400000:11wg5yb",
+    "id": "playsports1:1793486160000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793486400000,
-    "end": 1793492940000,
+    "start": 1793486160000,
+    "end": 1793492580000,
     "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
     "category": [
       "Sport",

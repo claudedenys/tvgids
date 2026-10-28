@@ -144,31 +144,33 @@
     }
   },
   {
-    "id": "playsports2:1793465400000:xykime",
+    "id": "playsports2:1793465400000:i67pjl",
     "channel": "playsports2",
-    "title": "Play Sports",
+    "title": "Play Sports Highlights",
     "start": 1793465400000,
     "end": 1793467500000,
-    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
-      "Sport"
+      "Sport",
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A2bdee7e36598c010bf79e2f78bdfbcc46acada05/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572452289%2Cimi%3A9f4375a96022254c912d186c3c3348b3ef7608ec/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 572452289,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:2bdee7e36598c010bf79e2f78bdfbcc46acada05",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572452289,imi:9f4375a96022254c912d186c3c3348b3ef7608ec",
       "episodeName": null,
       "genres": [
-        "Sport"
+        "Sport",
+        "Multisportevenement"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -202,10 +204,40 @@
     }
   },
   {
-    "id": "playsports2:1793474700000:xykime",
+    "id": "playsports2:1793474700000:qjkkk5",
+    "channel": "playsports2",
+    "title": "Premier League Stories",
+    "start": 1793474700000,
+    "end": 1793476200000,
+    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274%2Cimi%3A52440c7f3161e4c17c282e4d29d3b80f57484ebe/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 17,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274,imi:52440c7f3161e4c17c282e4d29d3b80f57484ebe",
+      "episodeName": "Granit Xhaka",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports2:1793476200000:xykime",
     "channel": "playsports2",
     "title": "Play Sports",
-    "start": 1793474700000,
+    "start": 1793476200000,
     "end": 1793487600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [

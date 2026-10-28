@@ -9,8 +9,31 @@
     "sport": null,
     "start": 1793145120000,
     "end": 1793167200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1793205300000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1793205300000,
+    "end": 1793206800000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -31,7 +54,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1793206800000,
-    "end": 1793210100000,
+    "end": 1793209920000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -46,15 +69,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1793210100000:fly4em",
+    "id": "sport:playsports1:1793209920000:fly4em",
     "externalId": null,
     "title": "Aflevering 7",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1793210100000,
-    "end": 1793213340000,
+    "start": 1793209920000,
+    "end": 1793213100000,
     "status": "aankomend",
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "source": "epg",
@@ -78,7 +101,7 @@
     "sport": null,
     "start": 1793142000000,
     "end": 1793163600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -101,7 +124,7 @@
     "sport": null,
     "start": 1793163600000,
     "end": 1793185200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -170,8 +193,77 @@
     "sport": null,
     "start": 1793148420000,
     "end": 1793167200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1793218200000:1p2p7re",
+    "externalId": null,
+    "title": "Aflevering 20",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Motorsport",
+    "start": 1793218200000,
+    "end": 1793221680000,
+    "status": "aankomend",
+    "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1793221680000:arbc9d",
+    "externalId": null,
+    "title": "GP van de Verenigde Staten: Race",
+    "home": null,
+    "away": null,
+    "competition": "Formule 1",
+    "sport": "Motorsport",
+    "start": 1793221680000,
+    "end": 1793222340000,
+    "status": "aankomend",
+    "description": "Vanaf het Circuit of the Americas in Austin, Texas, Verenigde Staten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1793222340000:11quqlf",
+    "externalId": null,
+    "title": "RC Racing",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Motorsport",
+    "start": 1793222340000,
+    "end": 1793223180000,
+    "status": "aankomend",
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -193,7 +285,7 @@
     "sport": "Tennis",
     "start": 1793140200000,
     "end": 1793149560000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
     "platforms": [
@@ -216,7 +308,7 @@
     "sport": null,
     "start": 1793149560000,
     "end": 1793155320000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Het moet geheim blijven dat ik een pik heb! Nu je het aan iedereen hebt verteld, moet je ermee spelen en je laten neuken.",
     "source": "epg",
     "platforms": [
@@ -239,7 +331,7 @@
     "sport": null,
     "start": 1793155320000,
     "end": 1793167200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -262,7 +354,7 @@
     "sport": null,
     "start": 1793167200000,
     "end": 1793171700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -285,7 +377,7 @@
     "sport": "Tennis",
     "start": 1793171700000,
     "end": 1793180040000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
     "platforms": [
@@ -307,8 +399,8 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1793180040000,
-    "end": 1793188500000,
-    "status": "aankomend",
+    "end": 1793188380000,
+    "status": "live",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
     "platforms": [
@@ -322,15 +414,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1793188500000:17dve15",
+    "id": "sport:playsports4:1793188380000:17dve15",
     "externalId": null,
     "title": "Dag 6: Halve finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1793188500000,
-    "end": 1793195100000,
+    "start": 1793188380000,
+    "end": 1793195040000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -345,15 +437,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1793195100000:17dve15",
+    "id": "sport:playsports4:1793195040000:17dve15",
     "externalId": null,
     "title": "Dag 7: Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1793195100000,
-    "end": 1793200380000,
+    "start": 1793195040000,
+    "end": 1793200260000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -368,15 +460,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1793200380000:1kmei86",
+    "id": "sport:playsports4:1793200260000:1kmei86",
     "externalId": null,
     "title": "ATP1000: Finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1793200380000,
-    "end": 1793210040000,
+    "start": 1793200260000,
+    "end": 1793209860000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
@@ -391,15 +483,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1793210040000:arbc9d",
+    "id": "sport:playsports4:1793209860000:arbc9d",
     "externalId": null,
     "title": "GP van de Verenigde Staten: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1793210040000,
-    "end": 1793216400000,
+    "start": 1793209860000,
+    "end": 1793216340000,
     "status": "aankomend",
     "description": "Vanaf het Circuit of the Americas in Austin, Texas, Verenigde Staten.",
     "source": "epg",
@@ -414,15 +506,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1793216400000:3y5tln",
+    "id": "sport:playsports4:1793216340000:3y5tln",
     "externalId": null,
     "title": "GP van Indonesië: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1793216400000,
-    "end": 1793220840000,
+    "start": 1793216340000,
+    "end": 1793220780000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "source": "epg",
@@ -437,15 +529,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1793220840000:1kmei86",
+    "id": "sport:playsports4:1793220780000:1kmei86",
     "externalId": null,
     "title": "Bergs vs. Alcaraz",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1793220840000,
-    "end": 1793229120000,
+    "start": 1793220780000,
+    "end": 1793229060000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
@@ -469,7 +561,7 @@
     "sport": null,
     "start": 1793142000000,
     "end": 1793163600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -492,7 +584,7 @@
     "sport": null,
     "start": 1793163600000,
     "end": 1793185200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -560,55 +652,9 @@
     "competition": null,
     "sport": "Golf",
     "start": 1793143800000,
-    "end": 1793154600000,
-    "status": "aankomend",
-    "description": "Verslag van de vierde en laatste dag van de Butterfield Bermuda Championship, gespeeld in Southampton, Bermuda.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1793154600000:zzkb3f",
-    "externalId": null,
-    "title": "Genesis Championship: Dag 4",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1793154600000,
-    "end": 1793165400000,
-    "status": "aankomend",
-    "description": "Verslag van de vierde en laatste dag van de Genesis Championship, gespeeld in Cheonan, Zuid-Korea.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1793165400000:36ys9t",
-    "externalId": null,
-    "title": "Aflevering 64",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1793165400000,
     "end": 1793167200000,
-    "status": "aankomend",
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "status": "afgelopen",
+    "description": "Verslag van de vierde en laatste dag van de Butterfield Bermuda Championship, gespeeld in Southampton, Bermuda.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -630,7 +676,7 @@
     "sport": "Golf",
     "start": 1793167200000,
     "end": 1793178000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de derde en laatste dag op de Solheim Cup 2026, gespeeld in Cromvoirt, Nederland.",
     "source": "epg",
     "platforms": [
@@ -653,7 +699,7 @@
     "sport": "Golf",
     "start": 1793178000000,
     "end": 1793185200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de derde dag van de Ryder Cup 2025, gespeeld in Farmingdale, New York.",
     "source": "epg",
     "platforms": [
@@ -1020,8 +1066,8 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1793167200000,
-    "end": 1793173800000,
-    "status": "aankomend",
+    "end": 1793173620000,
+    "status": "afgelopen",
     "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1035,16 +1081,16 @@
     ]
   },
   {
-    "id": "sport:match:1793173800000:borussia dortmund - eintracht frankfurt",
+    "id": "sport:match:1793173620000:borussia dortmund - eintracht frankfurt",
     "externalId": null,
     "title": "Borussia Dortmund - Eintracht Frankfurt",
     "home": "Borussia Dortmund",
     "away": "Eintracht Frankfurt",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1793173800000,
-    "end": 1793180160000,
-    "status": "aankomend",
+    "start": 1793173620000,
+    "end": 1793179740000,
+    "status": "afgelopen",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1058,16 +1104,16 @@
     ]
   },
   {
-    "id": "sport:match:1793180160000:sc freiburg - bayern munchen",
+    "id": "sport:match:1793179740000:sc freiburg - bayern munchen",
     "externalId": null,
     "title": "SC Freiburg - Bayern München",
     "home": "SC Freiburg",
     "away": "Bayern München",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1793180160000,
-    "end": 1793186700000,
-    "status": "aankomend",
+    "start": 1793179740000,
+    "end": 1793186220000,
+    "status": "live",
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1081,15 +1127,15 @@
     ]
   },
   {
-    "id": "sport:match:1793186700000:ipswich town - nottingham forest",
+    "id": "sport:match:1793186220000:ipswich town - nottingham forest",
     "externalId": null,
     "title": "Ipswich Town - Nottingham Forest",
     "home": "Ipswich Town",
     "away": "Nottingham Forest",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1793186700000,
-    "end": 1793193240000,
+    "start": 1793186220000,
+    "end": 1793192820000,
     "status": "aankomend",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
@@ -1104,15 +1150,15 @@
     ]
   },
   {
-    "id": "sport:match:1793193240000:aston villa - manchester city",
+    "id": "sport:match:1793192820000:aston villa - manchester city",
     "externalId": null,
     "title": "Aston Villa - Manchester City",
     "home": "Aston Villa",
     "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1793193240000,
-    "end": 1793199540000,
+    "start": 1793192820000,
+    "end": 1793199120000,
     "status": "aankomend",
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "source": "epg",
@@ -1127,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1793199540000:chelsea - tottenham hotspur",
+    "id": "sport:match:1793199120000:chelsea - tottenham hotspur",
     "externalId": null,
     "title": "Chelsea - Tottenham Hotspur",
     "home": "Chelsea",
     "away": "Tottenham Hotspur",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1793199540000,
-    "end": 1793205900000,
+    "start": 1793199120000,
+    "end": 1793205300000,
     "status": "aankomend",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
@@ -1150,40 +1196,17 @@
     ]
   },
   {
-    "id": "sport:match:1793205900000:sc freiburg - bayern munchen",
+    "id": "sport:match:1793213100000:coventry city - fulham",
     "externalId": null,
-    "title": "SC Freiburg - Bayern München",
-    "home": "SC Freiburg",
-    "away": "Bayern München",
-    "competition": "Bundesliga",
-    "sport": "Voetbal",
-    "start": 1793205900000,
-    "end": 1793206800000,
-    "status": "aankomend",
-    "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:match:1793213340000:chelsea - tottenham hotspur",
-    "externalId": null,
-    "title": "Chelsea - Tottenham Hotspur",
-    "home": "Chelsea",
-    "away": "Tottenham Hotspur",
+    "title": "Coventry City - Fulham",
+    "home": "Coventry City",
+    "away": "Fulham",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1793213340000,
-    "end": 1793219700000,
+    "start": 1793213100000,
+    "end": 1793219460000,
     "status": "aankomend",
-    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
+    "description": "Vanuit de Coventry Building Society Arena in Coventry, Engeland.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -1196,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1793219700000:sc freiburg - bayern munchen",
+    "id": "sport:match:1793219460000:sc freiburg - bayern munchen",
     "externalId": null,
     "title": "SC Freiburg - Bayern München",
     "home": "SC Freiburg",
     "away": "Bayern München",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1793219700000,
-    "end": 1793226060000,
+    "start": 1793219460000,
+    "end": 1793225940000,
     "status": "aankomend",
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
     "source": "epg",
@@ -1219,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1793226060000:borussia dortmund - eintracht frankfurt",
+    "id": "sport:match:1793225940000:borussia dortmund - eintracht frankfurt",
     "externalId": null,
     "title": "Borussia Dortmund - Eintracht Frankfurt",
     "home": "Borussia Dortmund",
     "away": "Eintracht Frankfurt",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1793226060000,
-    "end": 1793232300000,
+    "start": 1793225940000,
+    "end": 1793232060000,
     "status": "aankomend",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
@@ -1251,7 +1274,7 @@
     "sport": "Voetbal",
     "start": 1793142120000,
     "end": 1793148420000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het MCH Arena in Herning, Midtjylland, Denemarken.",
     "source": "epg",
     "platforms": [
@@ -1274,7 +1297,7 @@
     "sport": "Voetbal",
     "start": 1793167200000,
     "end": 1793173320000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - sc Heerenveen uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1297,7 +1320,7 @@
     "sport": "Voetbal",
     "start": 1793173320000,
     "end": 1793179680000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - AZ uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1320,7 +1343,7 @@
     "sport": "Voetbal",
     "start": 1793179680000,
     "end": 1793185980000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd Ajax - N.E.C. uit de 8e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1342,7 +1365,7 @@
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
     "start": 1793185980000,
-    "end": 1793191980000,
+    "end": 1793192100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Benfica - Celtic, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1357,15 +1380,15 @@
     ]
   },
   {
-    "id": "sport:match:1793191980000:juventus - stade rennais",
+    "id": "sport:match:1793192100000:juventus - stade rennais",
     "externalId": null,
     "title": "Juventus - Stade Rennais",
     "home": "Juventus",
     "away": "Stade Rennais",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1793191980000,
-    "end": 1793198760000,
+    "start": 1793192100000,
+    "end": 1793198820000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Juventus - Stade Rennais, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1380,15 +1403,15 @@
     ]
   },
   {
-    "id": "sport:match:1793198760000:fc midtjylland - stvv",
+    "id": "sport:match:1793198820000:fc midtjylland - stvv",
     "externalId": null,
     "title": "FC Midtjylland - STVV",
     "home": "FC Midtjylland",
     "away": "STVV",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1793198760000,
-    "end": 1793205180000,
+    "start": 1793198820000,
+    "end": 1793205240000,
     "status": "aankomend",
     "description": "Vanuit het MCH Arena in Herning, Midtjylland, Denemarken.",
     "source": "epg",
@@ -1403,15 +1426,15 @@
     ]
   },
   {
-    "id": "sport:match:1793205180000:ajax - atalanta",
+    "id": "sport:match:1793205240000:ajax - atalanta",
     "externalId": null,
     "title": "Ajax - Atalanta",
     "home": "Ajax",
     "away": "Atalanta",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1793205180000,
-    "end": 1793211360000,
+    "start": 1793205240000,
+    "end": 1793211480000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - Atalanta, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -1426,15 +1449,15 @@
     ]
   },
   {
-    "id": "sport:match:1793211360000:oh leuven - royal francs borains",
+    "id": "sport:match:1793211480000:oh leuven - royal francs borains",
     "externalId": null,
     "title": "OH Leuven - Royal Francs Borains",
     "home": "OH Leuven",
     "away": "Royal Francs Borains",
     "competition": null,
     "sport": "Voetbal",
-    "start": 1793211360000,
-    "end": 1793218080000,
+    "start": 1793211480000,
+    "end": 1793218200000,
     "status": "aankomend",
     "description": "Vanuit het King Power at Den Dreef Stadion in Leuven, België.",
     "source": "epg",
@@ -1449,38 +1472,15 @@
     ]
   },
   {
-    "id": "sport:match:1793218080000:zulte waregem - rfc seraing",
-    "externalId": null,
-    "title": "Zulte Waregem - RFC Seraing",
-    "home": "Zulte Waregem",
-    "away": "RFC Seraing",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1793218080000,
-    "end": 1793224500000,
-    "status": "aankomend",
-    "description": "Vanuit het Regenboogstadion in Waregem, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1793224500000:union rochefortoise - kaa gent",
+    "id": "sport:match:1793223180000:union rochefortoise - kaa gent",
     "externalId": null,
     "title": "Union Rochefortoise - KAA Gent",
     "home": "Union Rochefortoise",
     "away": "KAA Gent",
     "competition": "Beker van België",
     "sport": "Voetbal",
-    "start": 1793224500000,
-    "end": 1793233740000,
+    "start": 1793223180000,
+    "end": 1793232420000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "source": "epg",
