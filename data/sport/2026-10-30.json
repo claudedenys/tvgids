@@ -71,7 +71,7 @@
   {
     "id": "sport:playsports1:1793386620000:1spiq9g",
     "externalId": null,
-    "title": "Aflevering 10",
+    "title": "Aflevering 9",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
@@ -207,14 +207,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1793329500000:xykime",
+    "id": "sport:playsports3:1793324820000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1793329500000,
+    "start": 1793324820000,
     "end": 1793340000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -310,6 +310,52 @@
     "end": 1793394000000,
     "status": "aankomend",
     "description": "Live verslag van verschillende tennisevenementen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1793394000000:3tkxx5",
+    "externalId": null,
+    "title": "Bram Van Driessche",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1793394000000,
+    "end": 1793398680000,
+    "status": "aankomend",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Bram Van Driessche.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1793398680000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1793398680000,
+    "end": 1793401920000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -951,7 +997,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1793342100000,
-    "end": 1793348520000,
+    "end": 1793348580000,
     "status": "aankomend",
     "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
     "source": "epg",
@@ -966,15 +1012,15 @@
     ]
   },
   {
-    "id": "sport:match:1793348520000:borussia dortmund - eintracht frankfurt",
+    "id": "sport:match:1793348580000:borussia dortmund - eintracht frankfurt",
     "externalId": null,
     "title": "Borussia Dortmund - Eintracht Frankfurt",
     "home": "Borussia Dortmund",
     "away": "Eintracht Frankfurt",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1793348520000,
-    "end": 1793354640000,
+    "start": 1793348580000,
+    "end": 1793354700000,
     "status": "aankomend",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
@@ -989,14 +1035,14 @@
     ]
   },
   {
-    "id": "sport:match:1793354640000:sc freiburg - bayern munchen",
+    "id": "sport:match:1793354700000:sc freiburg - bayern munchen",
     "externalId": null,
     "title": "SC Freiburg - Bayern München",
     "home": "SC Freiburg",
     "away": "Bayern München",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1793354640000,
+    "start": 1793354700000,
     "end": 1793361120000,
     "status": "aankomend",
     "description": "Vanuit het Europa-Park Stadion in Freiburg, Duitsland.",
@@ -1020,7 +1066,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1793361120000,
-    "end": 1793367720000,
+    "end": 1793367780000,
     "status": "aankomend",
     "description": "Vanuit het Portman Road Stadium in Ipswich, Engeland.",
     "source": "epg",
@@ -1035,14 +1081,14 @@
     ]
   },
   {
-    "id": "sport:match:1793367720000:aston villa - manchester city",
+    "id": "sport:match:1793367780000:aston villa - manchester city",
     "externalId": null,
     "title": "Aston Villa - Manchester City",
     "home": "Aston Villa",
     "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1793367720000,
+    "start": 1793367780000,
     "end": 1793374080000,
     "status": "aankomend",
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
@@ -1127,40 +1173,17 @@
     ]
   },
   {
-    "id": "sport:match:1793313900000:union rochefortoise - kaa gent",
+    "id": "sport:match:1793315580000:union rochefortoise - kaa gent",
     "externalId": null,
     "title": "Union Rochefortoise - KAA Gent",
     "home": "Union Rochefortoise",
     "away": "KAA Gent",
     "competition": "Beker van België",
     "sport": "Voetbal",
-    "start": 1793313900000,
-    "end": 1793323020000,
+    "start": 1793315580000,
+    "end": 1793324820000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1793323020000:stvv - lommel sk",
-    "externalId": null,
-    "title": "STVV - Lommel SK",
-    "home": "STVV",
-    "away": "Lommel SK",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1793323020000,
-    "end": 1793329500000,
-    "status": "aankomend",
-    "description": "Vanuit het Daio Wasabi Stayen Stadium in Sint-Truiden, België.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1204,7 +1227,7 @@
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
     "start": 1793346000000,
-    "end": 1793352600000,
+    "end": 1793352660000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Juventus - Stade Rennais, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1219,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1793352600000:ajax - atalanta",
+    "id": "sport:match:1793352660000:ajax - atalanta",
     "externalId": null,
     "title": "Ajax - Atalanta",
     "home": "Ajax",
     "away": "Atalanta",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1793352600000,
-    "end": 1793358900000,
+    "start": 1793352660000,
+    "end": 1793358780000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - Atalanta, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -1242,63 +1265,17 @@
     ]
   },
   {
-    "id": "sport:match:1793358900000:fc midtjylland - stvv",
+    "id": "sport:match:1793358780000:fc midtjylland - stvv",
     "externalId": null,
     "title": "FC Midtjylland - STVV",
     "home": "FC Midtjylland",
     "away": "STVV",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1793358900000,
+    "start": 1793358780000,
     "end": 1793365200000,
     "status": "aankomend",
     "description": "Vanuit het MCH Arena in Herning, Midtjylland, Denemarken.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1793394000000:zulte waregem - rfc seraing",
-    "externalId": null,
-    "title": "Zulte Waregem - RFC Seraing",
-    "home": "Zulte Waregem",
-    "away": "RFC Seraing",
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1793394000000,
-    "end": 1793400300000,
-    "status": "aankomend",
-    "description": "Vanuit het Regenboogstadion in Waregem, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1793400300000:union rochefortoise - kaa gent",
-    "externalId": null,
-    "title": "Union Rochefortoise - KAA Gent",
-    "home": "Union Rochefortoise",
-    "away": "KAA Gent",
-    "competition": "Beker van België",
-    "sport": "Voetbal",
-    "start": 1793400300000,
-    "end": 1793409420000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"

@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1793488020000:15p1p85",
+    "id": "playsports3:1793487840000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1793488020000,
-    "end": 1793497200000,
+    "start": 1793487840000,
+    "end": 1793497020000,
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports3:1793497200000:xykime",
+    "id": "playsports3:1793497020000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1793497200000,
+    "start": 1793497020000,
     "end": 1793514600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -92,7 +92,7 @@
     "channel": "playsports3",
     "title": "MotoGP",
     "start": 1793516100000,
-    "end": 1793520240000,
+    "end": 1793520300000,
     "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports3:1793520240000:1p2p7re",
+    "id": "playsports3:1793520300000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1793520240000,
-    "end": 1793523900000,
+    "start": 1793520300000,
+    "end": 1793523780000,
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -148,71 +148,41 @@
     }
   },
   {
-    "id": "playsports3:1793523900000:arbc9d",
+    "id": "playsports3:1793523780000:i67pjl",
     "channel": "playsports3",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1793523900000,
-    "end": 1793524800000,
-    "description": "Vanaf het Circuit of the Americas in Austin, Texas, Verenigde Staten.",
+    "title": "Play Sports Highlights",
+    "start": 1793523780000,
+    "end": 1793525880000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Motorsport"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32389182~~2FEP063235100121%2Cimi%3A24c0f9db1ff9d88f9a46c0469ec729d79bef5b45/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572957353%2Cimi%3A0b9fc460e9482247e538ff1a1e923758e79df0b1/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026102521,
+    "season": 50390000,
+    "episode": 572957353,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32389182~~2FEP063235100121,imi:24c0f9db1ff9d88f9a46c0469ec729d79bef5b45",
-      "episodeName": "GP van de Verenigde Staten: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572957353,imi:0b9fc460e9482247e538ff1a1e923758e79df0b1",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Motorsport"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports3:1793524800000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1793524800000,
-    "end": 1793525700000,
-    "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031%2Cimi%3Af4eb00c4d23b7541d3fe1667e9323ba38bc44c4a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026102531,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031,imi:f4eb00c4d23b7541d3fe1667e9323ba38bc44c4a",
-      "episodeName": "PSV - Feyenoord",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1793525700000:ear1gl",
+    "id": "playsports3:1793525880000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1793525700000,
-    "end": 1793532600000,
+    "start": 1793525880000,
+    "end": 1793532660000,
     "description": "Verslag van de wedstrijd Juventus - Stade Rennais, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -238,10 +208,10 @@
     }
   },
   {
-    "id": "playsports3:1793532600000:17dve15",
+    "id": "playsports3:1793532660000:17dve15",
     "channel": "playsports3",
     "title": "Tennis: Ningbo Open 2026",
-    "start": 1793532600000,
+    "start": 1793532660000,
     "end": 1793538000000,
     "description": null,
     "category": [
@@ -328,101 +298,71 @@
     }
   },
   {
-    "id": "playsports3:1793550600000:1prlzbg",
+    "id": "playsports3:1793550600000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1793550600000,
-    "end": 1793551320000,
-    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
+    "end": 1793553000000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583898~~2FEP033946612509%2Cimi%3A339a8183ecb143cbdb8efab4ce9ae2835676f8bd/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572957354%2Cimi%3A0daa619055efe93bff5eac2c2b2d24055b98e406/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026103109,
+    "season": 50390000,
+    "episode": 572957354,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583898~~2FEP033946612509,imi:339a8183ecb143cbdb8efab4ce9ae2835676f8bd",
-      "episodeName": "Chelsea - Manchester United",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572957354,imi:0daa619055efe93bff5eac2c2b2d24055b98e406",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports3:1793551320000:1prlzbg",
+    "id": "playsports3:1793553000000:3tkxx5",
     "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1793551320000,
-    "end": 1793552100000,
-    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "title": "MIDMID",
+    "start": 1793553000000,
+    "end": 1793557680000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Bram Van Driessche.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583972~~2FEP033946612514%2Cimi%3A18426759f276b6b42771e8fcefc1ee986f6485cc/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34482566~~2FEP037584270195%2Cimi%3Ad0cf461e66fe71fa23c51a708eeb044e20976fb3/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026103114,
+    "season": 7,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583972~~2FEP033946612514,imi:18426759f276b6b42771e8fcefc1ee986f6485cc",
-      "episodeName": "Manchester City - Brighton & Hove Albion",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34482566~~2FEP037584270195,imi:d0cf461e66fe71fa23c51a708eeb044e20976fb3",
+      "episodeName": "Bram Van Driessche",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports3:1793552100000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1793552100000,
-    "end": 1793558400000,
-    "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031%2Cimi%3A2160fddd2ba6404f76f1771d838e672f165cf225/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026102531,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031,imi:2160fddd2ba6404f76f1771d838e672f165cf225",
-      "episodeName": "PSV - Feyenoord",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1793558400000:1p2p7re",
+    "id": "playsports3:1793557680000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1793558400000,
-    "end": 1793562000000,
+    "start": 1793557680000,
+    "end": 1793561100000,
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -445,6 +385,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20976076~~2FSH063090210000"
+    }
+  },
+  {
+    "id": "playsports3:1793561100000:11quqlf",
+    "channel": "playsports3",
+    "title": "The Paddock On Tour",
+    "start": 1793561100000,
+    "end": 1793562000000,
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007%2Cimi%3Aa910cb57b144b12abc3c5099d92746cc38b9596f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007,imi:a910cb57b144b12abc3c5099d92746cc38b9596f",
+      "episodeName": "RC Racing",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
     }
   },
   {

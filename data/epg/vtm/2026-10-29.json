@@ -1,10 +1,10 @@
 [
   {
-    "id": "vtm:1793228100000:1bzob18",
+    "id": "vtm:1793231400000:1bzob18",
     "channel": "vtm",
     "title": "Mijn Restaurant",
-    "start": 1793228100000,
-    "end": 1793232900000,
+    "start": 1793231400000,
+    "end": 1793236200000,
     "description": "De jury bezoekt en eet bij de duo's in Halle, Mechelen en Oostende. Intussen brengen de klanten voor het eerst hun stem uit en delen ze hun ongezouten commentaar.",
     "category": [
       "Koken",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "vtm:1793232900000:iug1rc",
+    "id": "vtm:1793236200000:iug1rc",
     "channel": "vtm",
     "title": "NYPD Blue",
-    "start": 1793232900000,
-    "end": 1793236200000,
+    "start": 1793236200000,
+    "end": 1793239200000,
     "description": "Simone en Sipowicz volgen aanwijzingen in een moordzaak die naar een van hen wijst.",
     "category": [
       "Misdaaddrama"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "vtm:1793236200000:10nqaiu",
+    "id": "vtm:1793239200000:10nqaiu",
     "channel": "vtm",
     "title": "De Branche-Expert",
-    "start": 1793236200000,
-    "end": 1793238600000,
+    "start": 1793239200000,
+    "end": 1793241600000,
     "description": "De redactie stelt vragen die veel mensen zich thuis ook stellen, maar waar je vaak pas het juiste antwoord op krijgt als je bij iemand langsgaat die het elke dag doet. De presentatoren trekken door heel Vlaanderen, op bezoek bij branche-experts.",
     "category": [
       "Entertainment"
@@ -86,35 +86,11 @@
     }
   },
   {
-    "id": "vtm:1793238600000:48zb9",
+    "id": "vtm:1793241600000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1793238600000,
-    "end": 1793242500000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c76a32b8d80f69f6778520dc26baee29e24b6b30",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "vtm:1793242500000:48zb9",
-    "channel": "vtm",
-    "title": "Geen uitzending",
-    "start": 1793242500000,
-    "end": 1793250000000,
+    "start": 1793241600000,
+    "end": 1793245200000,
     "description": null,
     "category": [],
     "image": null,
@@ -126,6 +102,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:058d25faa861eabf40df04f0ac0bae4edb5e8993",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm:1793245200000:48zb9",
+    "channel": "vtm",
+    "title": "Geen uitzending",
+    "start": 1793245200000,
+    "end": 1793250000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c76a32b8d80f69f6778520dc26baee29e24b6b30",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -1072,39 +1072,41 @@
     }
   },
   {
-    "id": "vtm:1793307300000:172klko",
+    "id": "vtm:1793307300000:u48443",
     "channel": "vtm",
-    "title": "Love Island VIPS",
+    "title": "Alloo bij de Wegpolitie",
     "start": 1793307300000,
-    "end": 1793310600000,
-    "description": "Bombshell Maxim maakt indruk, maar zijn uitspraken vallen niet bij iedereen goed. Ondertussen lopen de spanningen op tussen Donny, Thira en Christina, terwijl een nieuwe herkoppeling nadert.",
+    "end": 1793309700000,
+    "description": "Een motorrijder met een unieke Mario-helm valt op. Agenten betrappen een bestuurder die veel te snel rijdt waardoor hij zijn rijbewijs kwijtraakt. Tijdens een alcoholcontrole verrast een chauffeur met een eerlijke bekentenis.",
     "category": [
-      "Reality"
+      "Docu",
+      "Samenleving"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34289210~~2FEP066442590004%2Cimi%3A5e89266aeae5fdf5694f5610f90cf7c8fbe8c183/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33167853~~2FEP036415170076%2Cimi%3A60483f7d6fbf6078196d060696d36b49209f4c63/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 1,
-    "episode": 4,
+    "season": 7,
+    "episode": 16,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34289210~~2FEP066442590004,imi:5e89266aeae5fdf5694f5610f90cf7c8fbe8c183",
-      "episodeName": "Aflevering 4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33167853~~2FEP036415170076,imi:60483f7d6fbf6078196d060696d36b49209f4c63",
+      "episodeName": "Aflevering 16",
       "genres": [
-        "Reality"
+        "Docu",
+        "Samenleving"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34277965~~2FSH066442590000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4a19b7ea-7072-4084-b224-1a6c2382962d"
     }
   },
   {
-    "id": "vtm:1793310600000:1bpb4o3",
+    "id": "vtm:1793309700000:1bpb4o3",
     "channel": "vtm",
     "title": "Chicago P.D.",
-    "start": 1793310600000,
-    "end": 1793314200000,
+    "start": 1793309700000,
+    "end": 1793313300000,
     "description": "Platt komt in de problemen wanneer een simpele gunst voor een voormalige rekruut uitmondt in een rampzalige situatie.",
     "category": [
       "Misdaaddrama",
@@ -1130,33 +1132,31 @@
     }
   },
   {
-    "id": "vtm:1793314200000:hwgmxr",
+    "id": "vtm:1793313300000:172klko",
     "channel": "vtm",
-    "title": "Blind getrouwd",
-    "start": 1793314200000,
-    "end": 1793318700000,
-    "description": "Drie maanden na de beslissing zien de koppels elkaar terug in de natuur. Wie is nog altijd samen en wie ging uit elkaar? Samen met Frances en de experten kijken de deelnemers terug op hun avontuur.",
+    "title": "Love Island VIPS",
+    "start": 1793313300000,
+    "end": 1793316300000,
+    "description": "Bombshell Maxim maakt indruk, maar zijn uitspraken vallen niet bij iedereen goed. Ondertussen lopen de spanningen op tussen Donny, Thira en Christina, terwijl een nieuwe herkoppeling nadert.",
     "category": [
-      "Reality",
-      "Romantiek"
+      "Reality"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34361033~~2FEP037688640127%2Cimi%3A5e563811c29ffb41f04b7f5edf652fde8dba0011/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34289210~~2FEP066442590004%2Cimi%3A5e89266aeae5fdf5694f5610f90cf7c8fbe8c183/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 11,
-    "episode": 16,
+    "season": 1,
+    "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34361033~~2FEP037688640127,imi:5e563811c29ffb41f04b7f5edf652fde8dba0011",
-      "episodeName": "Aflevering 16",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34289210~~2FEP066442590004,imi:5e89266aeae5fdf5694f5610f90cf7c8fbe8c183",
+      "episodeName": "Aflevering 4",
       "genres": [
-        "Reality",
-        "Romantiek"
+        "Reality"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fbebbbe29-3048-480e-9deb-88b43e70a166"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34277965~~2FSH066442590000"
     }
   }
 ]

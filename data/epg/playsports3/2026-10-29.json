@@ -122,7 +122,7 @@
     "channel": "playsports3",
     "title": "UEFA Europa League",
     "start": 1793259600000,
-    "end": 1793266200000,
+    "end": 1793266260000,
     "description": "Verslag van de wedstrijd Juventus - Stade Rennais, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports3:1793266200000:16v40h",
+    "id": "playsports3:1793266260000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1793266200000,
+    "start": 1793266260000,
     "end": 1793272500000,
     "description": "Vanuit het MCH Arena in Herning, Midtjylland, Denemarken.",
     "category": [
@@ -328,63 +328,63 @@
     }
   },
   {
-    "id": "playsports3:1793307600000:15p1p85",
+    "id": "playsports3:1793307600000:3tkxx5",
     "channel": "playsports3",
-    "title": "Croky Cup",
+    "title": "MIDMID",
     "start": 1793307600000,
-    "end": 1793313900000,
-    "description": "Vanuit het Regenboogstadion in Waregem, België.",
+    "end": 1793312280000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Bram Van Driessche.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34242189~~2FEP037052220125%2Cimi%3A9978a1ef4a799893f234c36de8e951702425cf68/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34482566~~2FEP037584270195%2Cimi%3A1cd121ada4d610d2fd866307964d868c5b2426c7/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 52220000,
-    "episode": 2026101725,
+    "season": 7,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34242189~~2FEP037052220125,imi:9978a1ef4a799893f234c36de8e951702425cf68",
-      "episodeName": "Zulte Waregem - RFC Seraing",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34482566~~2FEP037584270195,imi:1cd121ada4d610d2fd866307964d868c5b2426c7",
+      "episodeName": "Bram Van Driessche",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa250326f-0738-4d66-8fdf-3825435d29a2"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports3:1793313900000:15p1p85",
+    "id": "playsports3:1793312280000:i67pjl",
     "channel": "playsports3",
-    "title": "Croky Cup",
-    "start": 1793313900000,
-    "end": 1793323020000,
-    "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
+    "title": "Play Sports Highlights",
+    "start": 1793312280000,
+    "end": 1793315580000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34243439~~2FEP037052220135%2Cimi%3A14a7d536c2d31e73fe2d51d35c46f71c84bf3df4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572957357%2Cimi%3A2b7fa0678d0f14eb61b013ba0dfd5c4071089ab4/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 52220000,
-    "episode": 2026101835,
+    "season": 50390000,
+    "episode": 572957357,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34243439~~2FEP037052220135,imi:14a7d536c2d31e73fe2d51d35c46f71c84bf3df4",
-      "episodeName": "Union Rochefortoise - KAA Gent",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572957357,imi:2b7fa0678d0f14eb61b013ba0dfd5c4071089ab4",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa250326f-0738-4d66-8fdf-3825435d29a2"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   }
 ]

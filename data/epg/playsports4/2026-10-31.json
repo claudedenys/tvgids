@@ -122,7 +122,7 @@
     "channel": "playsports4",
     "title": "Tennis",
     "start": 1793424600000,
-    "end": 1793433000000,
+    "end": 1793432940000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports4:1793433000000:8a2n92",
+    "id": "playsports4:1793432940000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1793433000000,
+    "start": 1793432940000,
     "end": 1793439900000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
@@ -182,7 +182,7 @@
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
     "start": 1793439900000,
-    "end": 1793449500000,
+    "end": 1793449560000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
@@ -208,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1793449500000:arbc9d",
+    "id": "playsports4:1793449560000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1793449500000,
-    "end": 1793456100000,
+    "start": 1793449560000,
+    "end": 1793455980000,
     "description": "Vanaf het Circuit of the Americas in Austin, Texas, Verenigde Staten.",
     "category": [
       "Sport",
@@ -238,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1793456100000:3y5tln",
+    "id": "playsports4:1793455980000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1793456100000,
-    "end": 1793460600000,
+    "start": 1793455980000,
+    "end": 1793460540000,
     "description": "Verslag van de race van de MotoGP van Indonesië, gereden op Lombok, Indonesië.",
     "category": [
       "Sport",
@@ -268,10 +268,10 @@
     }
   },
   {
-    "id": "playsports4:1793460600000:bjf8gr",
+    "id": "playsports4:1793460540000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1793460600000,
+    "start": 1793460540000,
     "end": 1793465100000,
     "description": null,
     "category": [
@@ -338,16 +338,16 @@
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616702~~2FEP033948601890%2Cimi%3A4d86344577e42d053e0cdb7a37213f9eed79ee3f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34479333~~2FEP033948602130%2Cimi%3A61e5ac5c4fd0b8dbd8fd8be3b72e61d1b9ba8376/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
-    "episode": 2026103190,
+    "episode": 2026103130,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616702~~2FEP033948601890,imi:4d86344577e42d053e0cdb7a37213f9eed79ee3f",
-      "episodeName": "Bayern München - Borussia Dortmund",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34479333~~2FEP033948602130,imi:61e5ac5c4fd0b8dbd8fd8be3b72e61d1b9ba8376",
+      "episodeName": "Dortmund - Bayern: Kids",
       "genres": [
         "Sport",
         "Voetbal"
@@ -418,33 +418,33 @@
     }
   },
   {
-    "id": "playsports4:1793483700000:1kmei86",
+    "id": "playsports4:1793483700000:3tkxx5",
     "channel": "playsports4",
-    "title": "Tennis: Rolex Shanghai Masters 2026",
+    "title": "MIDMID",
     "start": 1793483700000,
-    "end": 1793492100000,
-    "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
+    "end": 1793488380000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Bram Van Driessche.",
     "category": [
-      "Sport",
-      "Tennis"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34335185~~2FEP066152590054%2Cimi%3A8e05cd49c185f99fa882248187f6f0e2ed07d4fa/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34482566~~2FEP037584270195%2Cimi%3Ad9534cee16b77507dea8b92fc282c736f330cd01/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 52590000,
-    "episode": 2026101254,
+    "season": 7,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34335185~~2FEP066152590054,imi:8e05cd49c185f99fa882248187f6f0e2ed07d4fa",
-      "episodeName": "Bergs vs. Alcaraz",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34482566~~2FEP037584270195,imi:d9534cee16b77507dea8b92fc282c736f330cd01",
+      "episodeName": "Bram Van Driessche",
       "genres": [
-        "Sport",
-        "Tennis"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33511409~~2FSH066152590000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   }
 ]
