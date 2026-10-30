@@ -409,7 +409,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1793620800000,
-    "end": 1793621400000,
+    "end": 1793622300000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -425,30 +425,6 @@
       "labels": [
         "program",
         "actueel"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1793621400000:ejkxyx",
-    "channel": "npo2",
-    "title": "Sportjournaal",
-    "start": 1793621400000,
-    "end": 1793622300000,
-    "description": "Aandacht voor het laatste sportnieuws.",
-    "category": [
-      "Sport"
-    ],
-    "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/sportjournaal-781767902.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "sport"
       ]
     }
   },
@@ -499,9 +475,9 @@
     "title": "Jazzportretten",
     "start": 1793627400000,
     "end": 1793629500000,
-    "description": "Serie portretten van Nederlandse jazzmusici.",
+    "description": "Glenn Gaddum sr.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/j/carrousel/jazzportretten-791460282.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/j/carrousel/jazzportretten-792019372.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -509,7 +485,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -648,7 +627,7 @@
     "end": 1793635020000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-785763102.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-792343092.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -656,7 +635,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -667,7 +649,7 @@
     "end": 1793635800000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-785763102.jpg",
+    "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/politieke-partijen-792343092.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -675,7 +657,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

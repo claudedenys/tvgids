@@ -1,10 +1,38 @@
 [
   {
-    "id": "vtm:1793577300000:48zb9",
+    "id": "vtm:1793574900000:1ksa8ot",
+    "channel": "vtm",
+    "title": "Datenight",
+    "start": 1793574900000,
+    "end": 1793578500000,
+    "description": "Tess Goossens duikt met verschillende BV's de wereld van de liefde in. We komen meer te weten over hun eerste liefde, de impact van liefdesverdriet en hun stoutste slaapkamergeheimen.",
+    "category": [
+      "Talkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34395235~~2FEP065341500021%2Cimi%3A63f87541a65645b93baeab35eed607d099623f07/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 8,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34395235~~2FEP065341500021,imi:63f87541a65645b93baeab35eed607d099623f07",
+      "episodeName": "Aflevering 8",
+      "genres": [
+        "Talkshow"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33656156~~2FSH065341500000"
+    }
+  },
+  {
+    "id": "vtm:1793578500000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1793577300000,
-    "end": 1793580900000,
+    "start": 1793578500000,
+    "end": 1793582100000,
     "description": null,
     "category": [],
     "image": null,
@@ -24,10 +52,10 @@
     }
   },
   {
-    "id": "vtm:1793580900000:48zb9",
+    "id": "vtm:1793582100000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1793580900000,
+    "start": 1793582100000,
     "end": 1793594400000,
     "description": null,
     "category": [],

@@ -236,7 +236,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1793597700000,
-    "end": 1793598300000,
+    "end": 1793598000000,
     "description": "Dropje ontmoet een meisje, dat een worm heeft gevonden. Ze ontdekken dat de worm een heel zacht velletje heeft en grappig beweegt. Samen brengen ze hem veilig naar huis.",
     "category": [
       "Kids",
@@ -259,6 +259,36 @@
       "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fed15498d-2873-4d20-8261-f3d42fb6e85b"
+    }
+  },
+  {
+    "id": "ketnet:1793598000000:1nn27y8",
+    "channel": "ketnet",
+    "title": "Toet Toet Cory Carson",
+    "start": 1793598000000,
+    "end": 1793598300000,
+    "description": "Cory's dag kan niet stuk als hij hoort dat hij een dagje junior vuilniswagenstagiair mag zijn bij zijn favoriete vuilniswagen. Hij leert veel over vuilnis ophalen tijdens de rondes die hij rijdt.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17809198~~2FEP037673630001%2Cimi%3Ae74a0e0ed0e20cf307cd4fc685de55b097e309ad/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17809198~~2FEP037673630001,imi:e74a0e0ed0e20cf307cd4fc685de55b097e309ad",
+      "episodeName": "Vuilnis ophalen",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17710822~~2FSH037673630000"
     }
   },
   {
@@ -1066,40 +1096,38 @@
     }
   },
   {
-    "id": "ketnet:1793617200000:1hfjh42",
+    "id": "ketnet:1793617200000:mphott",
     "channel": "ketnet",
-    "title": "Mush Mush en de Zwammetjes",
+    "title": "Optredens in Hallo Kroket!",
     "start": 1793617200000,
-    "end": 1793617800000,
-    "description": "Sep wil graag dapperder zijn zodat hij kan deelnemen aan alle onverschrokken activiteiten die Mush-Mush en Lilit voorstellen. Dus besluit hij een broek van beschermend schuim te laten maken.",
+    "end": 1793617500000,
+    "description": "Bart Peeters brengt samen met Emma We zijn ermee bezig.",
     "category": [
-      "Kids",
-      "Avontuur"
+      "Kids"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25700563~~2FEP041030170071%2Cimi%3Aa54a85a8bd9882f83f7fd251dbf1f4319ef30b77/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34492628~~2FEP066890130001%2Cimi%3A381c1352428974e6fa9a7492844d31cd5ec95cda/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 2,
-    "episode": 14,
+    "season": 1,
+    "episode": 33,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F25700563~~2FEP041030170071,imi:a54a85a8bd9882f83f7fd251dbf1f4319ef30b77",
-      "episodeName": "Meneer Mos Broek",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34492628~~2FEP066890130001,imi:381c1352428974e6fa9a7492844d31cd5ec95cda",
+      "episodeName": "Bart Peeters - We zijn ermee bezig",
       "genres": [
-        "Kids",
-        "Avontuur"
+        "Kids"
       ],
-      "productionDate": "2023",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc5fa53c0-7d04-4d5f-8c58-140c50af8c66"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34492624~~2FSH066890130000"
     }
   },
   {
-    "id": "ketnet:1793617800000:1784s1w",
+    "id": "ketnet:1793617500000:1784s1w",
     "channel": "ketnet",
     "title": "De week van Karrewiet met VGT",
-    "start": 1793617800000,
+    "start": 1793617500000,
     "end": 1793618400000,
     "description": "Weekoverzicht van dit infomagazine voor de jeugd getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
@@ -1848,7 +1876,7 @@
     "channel": "ketnet",
     "title": "Saïd & Anna",
     "start": 1793630700000,
-    "end": 1793631300000,
+    "end": 1793631000000,
     "description": "Als een muzikante haar xylofoon laat repareren voor het Muziek Open Podium geeft Saïd in een opwelling hemzelf en Anna ook op voor een optreden, maar er is één probleem: ze hebben geen instrument en kunnen er ook geen bespelen. Zullen ze op tijd iets bedenken om toch mee te doen?",
     "category": [
       "Kids",
@@ -1871,6 +1899,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25788099~~2FSH048878860000"
+    }
+  },
+  {
+    "id": "ketnet:1793631000000:1suh94n",
+    "channel": "ketnet",
+    "title": "Samson en Marie",
+    "start": 1793631000000,
+    "end": 1793631300000,
+    "description": "Samson en Marie moeten op een rider invullen wat ze willen eten en drinken voor hun show. Normaal vragen ze niet veel, maar deze keer komt de rider in handen van Alberto. Hij laat zich eens goed gaan met de bestelling.",
+    "category": [
+      "Kids",
+      "Avontuur"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19779416~~2FEP036193980099%2Cimi%3A0e6ea5652f33ab86fb12b0d69645cfd1b886264a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 99,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19779416~~2FEP036193980099,imi:0e6ea5652f33ab86fb12b0d69645cfd1b886264a",
+      "episodeName": "De rider",
+      "genres": [
+        "Kids",
+        "Avontuur"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb97b6212-7867-4b1f-9181-949ddaef45d2"
     }
   },
   {
@@ -2298,7 +2356,7 @@
     "channel": "ketnet",
     "title": "Lettersoep",
     "start": 1793641500000,
-    "end": 1793643000000,
+    "end": 1793642700000,
     "description": "In dit taalspel ontvangt Emma in elke aflevering twee duo's die het tegen elkaar opnemen. Om beurten proberen ze de antwoorden op haar vragen zo snel mogelijk terug te vinden in de woordzoeker die op de ledvloer verschijnt.",
     "category": [
       "Spelprogramma",
@@ -2321,6 +2379,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31441768~~2FSH061044090000"
+    }
+  },
+  {
+    "id": "ketnet:1793642700000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1793642700000,
+    "end": 1793643000000,
+    "description": "De Lemmingen maken grapjes bij de zandsculpturen van Grizzly. Woedend jaagt hij ze ver weg en maakt van hun afwezigheid gebruik om de meest grandioze sculptuur van zichzelf te maken.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19968578~~2FEP041241250601%2Cimi%3A3c9f44eb873306395c9febcf91c6e4e66b77691c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 19,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19968578~~2FEP041241250601,imi:3c9f44eb873306395c9febcf91c6e4e66b77691c",
+      "episodeName": "Sand Lemmings",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {

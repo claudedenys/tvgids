@@ -154,7 +154,7 @@
     "channel": "npo3",
     "title": "Tekst-TV",
     "start": 1793594220000,
-    "end": 1793595660000,
+    "end": 1793595600000,
     "description": "Een samenvatting van de hoogtepunten van het dagelijks nieuws, van het nieuws tot voetbal tot het weerbericht.",
     "category": [
       "Actua"
@@ -178,10 +178,10 @@
     }
   },
   {
-    "id": "npo3:1793595660000:vk2ib9",
+    "id": "npo3:1793595600000:vk2ib9",
     "channel": "npo3",
     "title": "Kiwi & Strit",
-    "start": 1793595660000,
+    "start": 1793595600000,
     "end": 1793595900000,
     "description": "Op een open plek in het bos leven twee grappige, pluizige wezentjes: Kiwi is toegewijd, netjes en geel, Strit is een paarse losbol en sloddervos. Ze zijn nieuwsgierig en maken altijd veel lol.",
     "category": [
@@ -1351,21 +1351,21 @@
     "title": "Olly, het kleine witte busje",
     "start": 1793613600000,
     "end": 1793613900000,
-    "description": "Stan speelt een golfwedstrijd tegen de belangrijke zakenman Sir Ronald Grump. Olly mag Stans golfkar zijn, dus hij blijft de hele weg aan Stans zijde en helpt hem zijn zenuwen te overwinnen.",
+    "description": "Boer Dan geeft Jethro een dagje vrij, omdat hij een hypermoderne tractor wil uitproberen die hij een dagje mag lenen. Maar Milford is zo ingewikkeld dat Boer Dan niet begrijpt hoe hij werkt.",
     "category": [
       "Kids",
       "Animatie"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9227180~~2FEP027992250063%2Cimi%3A35d353cf9ef3d155e09f9865871e7659987f2b46/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F9227198~~2FEP027992250062%2Cimi%3A5c7cb512e2b110392bc2b019a478cc424bf098bf/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 1,
-    "episode": 29,
+    "episode": 28,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F9227180~~2FEP027992250063,imi:35d353cf9ef3d155e09f9865871e7659987f2b46",
-      "episodeName": "De golfwedstrijd",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F9227198~~2FEP027992250062,imi:5c7cb512e2b110392bc2b019a478cc424bf098bf",
+      "episodeName": "Tractorproblemen",
       "genres": [
         "Kids",
         "Animatie"
@@ -2010,7 +2010,7 @@
     "channel": "npo3",
     "title": "Bob de Bouwer",
     "start": 1793624100000,
-    "end": 1793624700000,
+    "end": 1793625300000,
     "description": "Tijdens het bouwen van een achtbaan denken Lofty en Dizzy dat ze een dinosaurus hebben losgelaten.",
     "category": [
       "Kids",
@@ -2033,36 +2033,6 @@
       "productionDate": "2016",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb062a508-b348-4578-acc3-b6d48c905b72"
-    }
-  },
-  {
-    "id": "npo3:1793624700000:ykg2i3",
-    "channel": "npo3",
-    "title": "DORA",
-    "start": 1793624700000,
-    "end": 1793625300000,
-    "description": "Dora en haar vrienden organiseren een verrassingsfeestje voor Zwiebers verjaardag. Onderweg daarheen probeert Zwieber zijn eigen verrassingscadeau te stelen.",
-    "category": [
-      "Kids",
-      "Animatie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26750857~~2FEP050851890025%2Cimi%3Acf261209ed66748956fece5a8a066449097de44c/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 10,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26750857~~2FEP050851890025,imi:cf261209ed66748956fece5a8a066449097de44c",
-      "episodeName": "Zwiebers verjaardagsverrassing",
-      "genres": [
-        "Kids",
-        "Animatie"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26554200~~2FSH050851890000"
     }
   },
   {

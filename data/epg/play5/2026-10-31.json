@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "Fire Country",
     "start": 1793407200000,
-    "end": 1793410800000,
+    "end": 1793410200000,
     "description": "Er wordt een intern onderzoek gestart nadat een moeilijke redding mislukt en er iemand overlijdt.",
     "category": [
       "Dramaserie"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play5:1793410800000:48zb9",
+    "id": "play5:1793410200000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1793410800000,
-    "end": 1793419200000,
+    "start": 1793410200000,
+    "end": 1793418600000,
     "description": null,
     "category": [],
     "image": null,
@@ -82,11 +82,35 @@
     }
   },
   {
+    "id": "play5:1793418600000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1793418600000,
+    "end": 1793419200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0d81a02304230b222ddcdc14c725d8b678d65181",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play5:1793419200000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1793419200000,
-    "end": 1793421000000,
+    "end": 1793422800000,
     "description": null,
     "category": [],
     "image": null,
@@ -106,17 +130,17 @@
     }
   },
   {
-    "id": "play5:1793421000000:br4tdi",
+    "id": "play5:1793422800000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1793421000000,
-    "end": 1793423400000,
+    "start": 1793422800000,
+    "end": 1793425500000,
     "description": "Een reeks nachtelijke moorden, die dezelfde werkwijze kennen, zet het team op jacht naar een seriemoordenaar met banden met een radicale feministische groep. Ondertussen vraagt Nina's zus haar om een grote gunst.",
     "category": [
       "Misdaaddrama",
       "Actie"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29554970~~2FEP036505670102%2Cimi%3A0360ee06a4e045cabd2cdca33730a81c9c28983f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29554970~~2FEP036505670102%2Cimi%3A95eb87a53669f61e4a48eb1f4edf5e1371e48bca/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 6,
@@ -124,7 +148,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F29554970~~2FEP036505670102,imi:0360ee06a4e045cabd2cdca33730a81c9c28983f",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29554970~~2FEP036505670102,imi:95eb87a53669f61e4a48eb1f4edf5e1371e48bca",
       "episodeName": "Four Bodies",
       "genres": [
         "Misdaaddrama",
@@ -136,11 +160,11 @@
     }
   },
   {
-    "id": "play5:1793423400000:br4tdi",
+    "id": "play5:1793425500000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1793423400000,
-    "end": 1793425800000,
+    "start": 1793425500000,
+    "end": 1793427900000,
     "description": "De taskforce wordt ingeschakeld om willekeurige vergiftigingen met elkaar in verband te brengen.",
     "category": [
       "Misdaaddrama",
@@ -166,11 +190,11 @@
     }
   },
   {
-    "id": "play5:1793425800000:br4tdi",
+    "id": "play5:1793427900000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1793425800000,
-    "end": 1793428500000,
+    "start": 1793427900000,
+    "end": 1793430300000,
     "description": "Een stel dat bekend staat om hun tv-show over woningrenovaties komt in de schijnwerpers te staan nadat de vrouw dood wordt aangetroffen en haar man op de vlucht slaat. Barnes heroverweegt haar leven in New York.",
     "category": [
       "Misdaaddrama",
@@ -196,11 +220,11 @@
     }
   },
   {
-    "id": "play5:1793428500000:48zb9",
+    "id": "play5:1793430300000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1793428500000,
-    "end": 1793430300000,
+    "start": 1793430300000,
+    "end": 1793432100000,
     "description": null,
     "category": [],
     "image": null,
@@ -220,11 +244,11 @@
     }
   },
   {
-    "id": "play5:1793430300000:br4tdi",
+    "id": "play5:1793432100000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1793430300000,
-    "end": 1793432700000,
+    "start": 1793432100000,
+    "end": 1793434800000,
     "description": "De Fugitive Task Force wordt in de wereld van de rijken en gestoorden gegooid nadat een socialite uit Rhode Island wordt vermoord in haar eigen landhuis. Barnes overweegt grote veranderingen.",
     "category": [
       "Misdaaddrama",
@@ -250,11 +274,11 @@
     }
   },
   {
-    "id": "play5:1793432700000:br4tdi",
+    "id": "play5:1793434800000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1793432700000,
-    "end": 1793436000000,
+    "start": 1793434800000,
+    "end": 1793437800000,
     "description": "De ontvoering van een bekende astronaut wordt onderzocht en in verband gebracht met andere vermissingen in de regio. Dit onderzoek brengt de onderzoekers in de wereld van adult content. Remy en Abby kunnen het maar niet met elkaar eens worden.",
     "category": [
       "Misdaaddrama",
@@ -280,11 +304,11 @@
     }
   },
   {
-    "id": "play5:1793436000000:br4tdi",
+    "id": "play5:1793437800000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1793436000000,
-    "end": 1793439000000,
+    "start": 1793437800000,
+    "end": 1793440500000,
     "description": "Nadat de burgemeester van New Jersey is ontvoerd, werkt de Fugitive Task Force tegen de klok om een web van politieke samenzweringen te ontrafelen dat hun onderzoek kan helpen. Rays kampeertrip met zijn vader en Caleb neemt een onverwachte wending.",
     "category": [
       "Misdaaddrama",
@@ -310,11 +334,11 @@
     }
   },
   {
-    "id": "play5:1793439000000:br4tdi",
+    "id": "play5:1793440500000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1793439000000,
-    "end": 1793442300000,
+    "start": 1793440500000,
+    "end": 1793443500000,
     "description": "Drie mannen die zich voordoen als agenten van de immigratiedienst vallen een kerk in New Jersey binnen. Remy denkt na over zijn eigen toekomst als hij hoort dat Barnes overweegt een nieuwe baan aan te nemen.",
     "category": [
       "Misdaaddrama",
@@ -340,11 +364,11 @@
     }
   },
   {
-    "id": "play5:1793442300000:br4tdi",
+    "id": "play5:1793443500000:br4tdi",
     "channel": "play5",
     "title": "FBI: Most Wanted",
-    "start": 1793442300000,
-    "end": 1793445300000,
+    "start": 1793443500000,
+    "end": 1793446800000,
     "description": "De opsporingseenheid zit een corrupte overheidsfunctionaris achterna die een binnenlandse terreuraanslag plant.",
     "category": [
       "Misdaaddrama",
@@ -370,11 +394,11 @@
     }
   },
   {
-    "id": "play5:1793445300000:sib630",
+    "id": "play5:1793446800000:sib630",
     "channel": "play5",
     "title": "Elsbeth",
-    "start": 1793445300000,
-    "end": 1793448600000,
+    "start": 1793446800000,
+    "end": 1793449800000,
     "description": "Wanneer een theaterstudent op mysterieuze wijze sterft, vermoedt Elsbeth dat de theaterregisseur Alex Modarian kwaad in de zin heeft. Ze neemt het tegen hem op, in de overtuiging dat hij betrokken is bij de dood van de student.",
     "category": [
       "Dramaserie",
@@ -400,11 +424,11 @@
     }
   },
   {
-    "id": "play5:1793448600000:sib630",
+    "id": "play5:1793449800000:sib630",
     "channel": "play5",
     "title": "Elsbeth",
-    "start": 1793448600000,
-    "end": 1793451900000,
+    "start": 1793449800000,
+    "end": 1793452800000,
     "description": "Nadat een bestuursvoorzitter van haar balkon valt en overlijdt, worden Elsbeth en Kaya naar de plek geroepen om naar een aanknopingspunt te zoeken. Daar ontmoeten ze Joann, een invloedrijke vastgoedmakelaar met grote klanten en nog grotere geheimen.",
     "category": [
       "Dramaserie",
@@ -430,11 +454,11 @@
     }
   },
   {
-    "id": "play5:1793451900000:yknhhu",
+    "id": "play5:1793452800000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1793451900000,
-    "end": 1793455200000,
+    "start": 1793452800000,
+    "end": 1793455800000,
     "description": "Er worden kapotte kogelwerende vesten gevonden in een vrachtwagen vol met gestolen militaire goederen. Het team onderzoekt waar de vesten vandaan komen en spoort de al verzonden vesten op.",
     "category": [
       "Misdaaddrama",
@@ -460,11 +484,11 @@
     }
   },
   {
-    "id": "play5:1793455200000:yknhhu",
+    "id": "play5:1793455800000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1793455200000,
-    "end": 1793458500000,
+    "start": 1793455800000,
+    "end": 1793459100000,
     "description": "Tony ontmoet een man in een marine-uniform waarvan de verschillende onderdelen niet bij elkaar horen. Hij spreekt de man daarop aan en het draait uit op een dodelijke schietpartij. De enige ooggetuige is de vader van Tony.",
     "category": [
       "Misdaaddrama",
@@ -490,11 +514,11 @@
     }
   },
   {
-    "id": "play5:1793458500000:yknhhu",
+    "id": "play5:1793459100000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1793458500000,
-    "end": 1793461800000,
+    "start": 1793459100000,
+    "end": 1793462100000,
     "description": "Het team moet het doelwit ontdekken, wanneer er een bom afgaat in de kleedkamer bij een liefdadigheidsconcert. Jimmy is er klaar voor om vader te worden.",
     "category": [
       "Misdaaddrama",
@@ -520,11 +544,11 @@
     }
   },
   {
-    "id": "play5:1793461800000:yknhhu",
+    "id": "play5:1793462100000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1793461800000,
-    "end": 1793465100000,
+    "start": 1793462100000,
+    "end": 1793465400000,
     "description": "Het lichaam van een voormalige NCIS-agent spoelt aan in New Orleans, waarna Gibbs samenwerkt met Dwayne Cassius Pride. Ze onderzoeken of het een politieke moord is of dat de moord verband houdt met een bekende zaak.",
     "category": [
       "Misdaaddrama",
@@ -550,10 +574,10 @@
     }
   },
   {
-    "id": "play5:1793465100000:yknhhu",
+    "id": "play5:1793465400000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1793465100000,
+    "start": 1793465400000,
     "end": 1793468100000,
     "description": "Special agent Pride en Gibbs vermoeden dat de 'Privileged Killer' een na-aper is. Tony ontvangt een speciaal souvenir van Bishop.",
     "category": [
@@ -644,7 +668,7 @@
     "channel": "play5",
     "title": "NCIS",
     "start": 1793474400000,
-    "end": 1793477400000,
+    "end": 1793477700000,
     "description": "Een marinefotograaf verdwijnt vlak voordat hij een mogelijk belastende verklaring zal afleggen voor een militaire rechtbank. Abby helpt een jonge dakloze vrouw.",
     "category": [
       "Misdaaddrama",
@@ -670,10 +694,10 @@
     }
   },
   {
-    "id": "play5:1793477400000:yknhhu",
+    "id": "play5:1793477700000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1793477400000,
+    "start": 1793477700000,
     "end": 1793480700000,
     "description": "Tony reist naar Marseille om de dochter van een admiraal thuis te brengen, maar hij heeft hulp nodig van het team wanneer daar blijkt dat alle personeelsleden van het plaatselijke NCIS-kantoor zijn vermoord.",
     "category": [
@@ -734,7 +758,7 @@
     "channel": "play5",
     "title": "Criminal Minds",
     "start": 1793484000000,
-    "end": 1793487300000,
+    "end": 1793487600000,
     "description": "Hotch wordt met spoed naar het ziekenhuis gebracht wanneer er complicaties optreden. De rest van het team moet intussen een ontvoering proberen op te lossen.",
     "category": [
       "Dramaserie",
@@ -750,36 +774,6 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F10278160~~2FEP027942270247,imi:cefc5083f9da889337d1fdbeab3cad67c1e4c499",
       "episodeName": "Route 66",
-      "genres": [
-        "Dramaserie",
-        "Misdaaddrama"
-      ],
-      "productionDate": "2013",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8d082383-bb57-406b-b7ff-14ae1661d82f"
-    }
-  },
-  {
-    "id": "play5:1793487300000:dswtyn",
-    "channel": "play5",
-    "title": "Criminal Minds",
-    "start": 1793487300000,
-    "end": 1793490900000,
-    "description": "Het BAU-team reist naar Provo in Utah om de dood van Gloria Carlyle te onderzoeken. De jonge vrouw raakte in een park bedolven onder een hoop stenen.",
-    "category": [
-      "Dramaserie",
-      "Misdaaddrama"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F10278125~~2FEP027942270248%2Cimi%3A8f3634209594e58dac86ed4324a2a58ecfc6e797/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 9,
-    "episode": 6,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F10278125~~2FEP027942270248,imi:8f3634209594e58dac86ed4324a2a58ecfc6e797",
-      "episodeName": "In the Blood",
       "genres": [
         "Dramaserie",
         "Misdaaddrama"
