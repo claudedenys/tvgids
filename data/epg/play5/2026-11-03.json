@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1793662800000:7bb6ek",
+    "id": "play5:1793663100000:7bb6ek",
     "channel": "play5",
     "title": "Modern Family",
-    "start": 1793662800000,
-    "end": 1793664900000,
+    "start": 1793663100000,
+    "end": 1793665200000,
     "description": "Phil weet zijn hele gezin in kostuum te krijgen voor de themabruiloft van Frank Dunphy. Jay heeft de kunst van nee zeggen eindelijk onder de knie.",
     "category": [
       "Sitcom"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "play5:1793664900000:4hua1r",
+    "id": "play5:1793665200000:4hua1r",
     "channel": "play5",
     "title": "NCIS: Hawaii",
-    "start": 1793664900000,
-    "end": 1793668500000,
+    "start": 1793665200000,
+    "end": 1793668200000,
     "description": "Wanneer een anti-kapitalistische demonstrant wordt vermoord, gaan Jane en het team op onderzoek uit. Ze komen terecht in een oorlog tussen eco-activisten en een tech-miljardair die vecht om een stuk land. Jane en Captain Joe gaan op een date.",
     "category": [
       "Misdaaddrama",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play5:1793668500000:1aas33z",
+    "id": "play5:1793668200000:1aas33z",
     "channel": "play5",
     "title": "Fire Country",
-    "start": 1793668500000,
-    "end": 1793671800000,
+    "start": 1793668200000,
+    "end": 1793670600000,
     "description": "Een bakwagen botst op het station, waardoor de stroom uitvalt en er een gevaarlijke brand ontstaat. Sharon en Cara, de ex-vriendin van Bode, krijgen te maken met verschillende medische noodgevallen.",
     "category": [
       "Dramaserie"
@@ -86,41 +86,11 @@
     }
   },
   {
-    "id": "play5:1793671800000:hxtisv",
-    "channel": "play5",
-    "title": "Grey's Anatomy",
-    "start": 1793671800000,
-    "end": 1793674500000,
-    "description": "Meredith, die nog steeds fungeert als het hoofd van chirurgie, ziet Nick voor het eerst sinds ze zijn aanbod om naar Minnesota te verhuizen afwees. Bailey vertelt Richard dat ze niet klaar is om weer aan het werk te gaan. Levi heeft nieuws voor Jo.",
-    "category": [
-      "Dramaserie",
-      "Medisch"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22438312~~2FEP027786290430%2Cimi%3A38b527ccd3e9f709d0c8249a2bc23b9697faacf9/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 19,
-    "episode": 1,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F22438312~~2FEP027786290430,imi:38b527ccd3e9f709d0c8249a2bc23b9697faacf9",
-      "episodeName": "Everything Has Changed",
-      "genres": [
-        "Dramaserie",
-        "Medisch"
-      ],
-      "productionDate": "2022",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5e08c502-7198-4669-b6f8-4121e88b8a69"
-    }
-  },
-  {
-    "id": "play5:1793674500000:48zb9",
+    "id": "play5:1793670600000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1793674500000,
-    "end": 1793678400000,
+    "start": 1793670600000,
+    "end": 1793678100000,
     "description": null,
     "category": [],
     "image": null,
@@ -132,6 +102,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3c230b72b7086aca7d1400c0c23eaf02c5678852",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1793678100000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1793678100000,
+    "end": 1793678400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:39a385eded12beff942870716213151722e51006",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

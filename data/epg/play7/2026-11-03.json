@@ -4,7 +4,7 @@
     "channel": "play7",
     "title": "Masterchef USA",
     "start": 1793663700000,
-    "end": 1793667000000,
+    "end": 1793667300000,
     "description": "De acht chefs moeten in tweetallen identieke gerechten bereiden aan de weerzijden van een muur.",
     "category": [
       "Koken",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1793667000000:rmqxmh",
+    "id": "play7:1793667300000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1793667000000,
-    "end": 1793670600000,
+    "start": 1793667300000,
+    "end": 1793670000000,
     "description": "Koppels zoeken hun droomhuis in het buitenland terwijl ze worden begeleid door een expert die hen helpt de perfecte plek in de zon te vinden.",
     "category": [
       "Huis & Tuin",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play7:1793670600000:48zb9",
+    "id": "play7:1793670000000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1793670600000,
-    "end": 1793678400000,
+    "start": 1793670000000,
+    "end": 1793678100000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4696871a6f16b43d7fed3bf498de4d09bf5ee61f",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1793678100000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1793678100000,
+    "end": 1793678400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:03f766eae2df96d44305f7627d38b1ad6e4f5ac9",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
