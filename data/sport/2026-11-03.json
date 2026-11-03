@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1793665260000,
     "end": 1793685600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -32,7 +32,7 @@
     "sport": null,
     "start": 1793660400000,
     "end": 1793682000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -55,7 +55,7 @@
     "sport": null,
     "start": 1793682000000,
     "end": 1793703600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -78,7 +78,7 @@
     "sport": null,
     "start": 1793703600000,
     "end": 1793725200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,8 +124,31 @@
     "sport": null,
     "start": 1793672400000,
     "end": 1793685600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1793724900000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1793724900000,
+    "end": 1793725800000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -239,7 +262,7 @@
     "sport": "Tennis",
     "start": 1793663280000,
     "end": 1793668500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -262,7 +285,7 @@
     "sport": null,
     "start": 1793668500000,
     "end": 1793686200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -285,7 +308,7 @@
     "sport": null,
     "start": 1793686200000,
     "end": 1793689560000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -308,7 +331,7 @@
     "sport": null,
     "start": 1793689560000,
     "end": 1793694180000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -331,7 +354,7 @@
     "sport": "Tennis",
     "start": 1793694180000,
     "end": 1793702520000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "source": "epg",
     "platforms": [
@@ -354,7 +377,7 @@
     "sport": "Tennis",
     "start": 1793702520000,
     "end": 1793710920000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
     "platforms": [
@@ -469,7 +492,7 @@
     "sport": null,
     "start": 1793660400000,
     "end": 1793682000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -492,7 +515,7 @@
     "sport": null,
     "start": 1793682000000,
     "end": 1793703600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -515,7 +538,7 @@
     "sport": null,
     "start": 1793703600000,
     "end": 1793725200000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -584,7 +607,7 @@
     "sport": "Golf",
     "start": 1793662200000,
     "end": 1793673000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Rolex HotelPlanner Tour Grand Final, gespeeld op Mallorca, Spanje.",
     "source": "epg",
     "platforms": [
@@ -607,7 +630,7 @@
     "sport": "Golf",
     "start": 1793673000000,
     "end": 1793683800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de VidantaWorld Mexico Open, gespeeld in Puerto Vallarta, Mexico.",
     "source": "epg",
     "platforms": [
@@ -630,7 +653,7 @@
     "sport": "Golf",
     "start": 1793683800000,
     "end": 1793685600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Genesis Championship, gespeeld op de Woo Jeong Hills CC in Cheonan, Zuid-Korea.",
     "source": "epg",
     "platforms": [
@@ -653,7 +676,7 @@
     "sport": "Golf",
     "start": 1793685600000,
     "end": 1793696400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de VidantaWorld Mexico Open, gespeeld in Puerto Vallarta, Mexico.",
     "source": "epg",
     "platforms": [
@@ -676,7 +699,7 @@
     "sport": "Golf",
     "start": 1793696400000,
     "end": 1793707200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van de Rolex HotelPlanner Tour Grand Final, gespeeld op Mallorca, Spanje.",
     "source": "epg",
     "platforms": [
@@ -699,7 +722,7 @@
     "sport": "Golf",
     "start": 1793707200000,
     "end": 1793712600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Hoogtepunten van de Maybank Championship, gespeeld op de Kuala Lumpur Golf & Country Club in Kuala Lumpur, Maleisië.",
     "source": "epg",
     "platforms": [
@@ -906,7 +929,7 @@
     "sport": "Voetbal",
     "start": 1793658960000,
     "end": 1793665260000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -929,7 +952,7 @@
     "sport": "Voetbal",
     "start": 1793685600000,
     "end": 1793691840000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
     "platforms": [
@@ -952,7 +975,7 @@
     "sport": "Voetbal",
     "start": 1793691840000,
     "end": 1793698020000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -975,7 +998,7 @@
     "sport": "Voetbal",
     "start": 1793698020000,
     "end": 1793704500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -998,7 +1021,7 @@
     "sport": "Voetbal",
     "start": 1793704500000,
     "end": 1793710980000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1159,7 +1182,7 @@
     "sport": "Voetbal",
     "start": 1793656860000,
     "end": 1793666100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijden gespeeld in de Croky Cup, oftewel de beker van België.",
     "source": "epg",
     "platforms": [
@@ -1182,7 +1205,7 @@
     "sport": "Voetbal",
     "start": 1793666100000,
     "end": 1793672400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Daio Wasabi Stayen Stadium in Sint-Truiden, België.",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1228,7 @@
     "sport": "Voetbal",
     "start": 1793685600000,
     "end": 1793692260000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Juventus - Stade Rennais, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1251,7 @@
     "sport": "Voetbal",
     "start": 1793692260000,
     "end": 1793698620000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Stadion Miejski in Białystok, Polen.",
     "source": "epg",
     "platforms": [
@@ -1251,7 +1274,7 @@
     "sport": "Voetbal",
     "start": 1793698620000,
     "end": 1793704920000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het MCH Arena in Herning, Midtjylland, Denemarken.",
     "source": "epg",
     "platforms": [
@@ -1274,7 +1297,7 @@
     "sport": "Voetbal",
     "start": 1793704920000,
     "end": 1793711040000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd Ajax - Atalanta, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
     "platforms": [
@@ -1322,29 +1345,6 @@
     "end": 1793724900000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Atlético Madrid - Bayern München, gespeeld in de competitiefase van de UEFA Youth League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1793724900000:bayern munchen - borussia dortmund",
-    "externalId": null,
-    "title": "Bayern München - Borussia Dortmund",
-    "home": "Bayern München",
-    "away": "Borussia Dortmund",
-    "competition": "Bundesliga",
-    "sport": "Voetbal",
-    "start": 1793724900000,
-    "end": 1793725800000,
-    "status": "aankomend",
-    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"

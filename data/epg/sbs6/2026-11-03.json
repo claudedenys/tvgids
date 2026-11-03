@@ -313,7 +313,7 @@
     "title": "Hart van Nederland",
     "start": 1793692800000,
     "end": 1793693700000,
-    "description": "'Waar praat Nederland vandaag over?",
+    "description": "<span class=\"label label--updated\">Update</span> Na de doorbraak van gisteren is politiek Den Haag vanmorgen samengekomen voor een extra ministerraad...",
     "category": [
       "Actueel"
     ],
@@ -327,7 +327,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -432,7 +433,7 @@
     "channel": "sbs6",
     "title": "Hart van Nederland",
     "start": 1793697300000,
-    "end": 1793698200000,
+    "end": 1793698020000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -452,10 +453,10 @@
     }
   },
   {
-    "id": "sbs6:1793698200000:16r3jxd",
+    "id": "sbs6:1793698020000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1793698200000,
+    "start": 1793698020000,
     "end": 1793701200000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
@@ -478,7 +479,7 @@
     "channel": "sbs6",
     "title": "Nieuws van de dag",
     "start": 1793701200000,
-    "end": 1793704800000,
+    "end": 1793704620000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -499,11 +500,11 @@
     }
   },
   {
-    "id": "sbs6:1793704800000:2eepw1",
+    "id": "sbs6:1793704620000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1793704800000,
-    "end": 1793706900000,
+    "start": 1793704620000,
+    "end": 1793706540000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/p/carrousel/prijzenjacht-788995972.jpg",
@@ -521,14 +522,14 @@
     }
   },
   {
-    "id": "sbs6:1793706900000:1ku5afv",
+    "id": "sbs6:1793706540000:1ku5afv",
     "channel": "sbs6",
     "title": "Oh oh Den Haag",
-    "start": 1793706900000,
-    "end": 1793710200000,
+    "start": 1793706540000,
+    "end": 1793709960000,
     "description": "Frank legt de laatste hand aan zijn exclusieve verjaardagsfeest op een statig landgoed.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/o/carrousel/oh-oh-den-haag-782284852.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -543,11 +544,11 @@
     }
   },
   {
-    "id": "sbs6:1793710200000:1ddldj5",
+    "id": "sbs6:1793709960000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1793710200000,
-    "end": 1793713500000,
+    "start": 1793709960000,
+    "end": 1793713320000,
     "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bondgenoten-780046912.jpg",
@@ -565,10 +566,10 @@
     }
   },
   {
-    "id": "sbs6:1793713500000:ar1ua0",
+    "id": "sbs6:1793713320000:ar1ua0",
     "channel": "sbs6",
     "title": "Droomhuis op het platteland",
-    "start": 1793713500000,
+    "start": 1793713320000,
     "end": 1793716800000,
     "description": "Denise Nurse helpt een stel bij de zoektocht naar een huis in Somerset voor hun jonge gezin.",
     "category": [],
@@ -591,7 +592,7 @@
     "channel": "sbs6",
     "title": "Huizen onder de hamer",
     "start": 1793716800000,
-    "end": 1793721000000,
+    "end": 1793721060000,
     "description": "De nieuwe eigenaar van een rijtjeshuis in Crewe laat zich niet afschrikken door de vele veiligheidssloten op de...",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/h/carrousel/homes-under-the-hammer-784701952.jpg",
@@ -609,10 +610,10 @@
     }
   },
   {
-    "id": "sbs6:1793721000000:ar1ua0",
+    "id": "sbs6:1793721060000:ar1ua0",
     "channel": "sbs6",
     "title": "Droomhuis op het platteland",
-    "start": 1793721000000,
+    "start": 1793721060000,
     "end": 1793724600000,
     "description": "Jules Hudson helpt een gezin uit de kuststad Southend-on-Sea bij het vinden van een woning in Suffolk die ruimte...",
     "category": [],
@@ -656,7 +657,7 @@
     "channel": "sbs6",
     "title": "Nieuws van de dag",
     "start": 1793725500000,
-    "end": 1793728800000,
+    "end": 1793728680000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -676,10 +677,10 @@
     }
   },
   {
-    "id": "sbs6:1793728800000:2eepw1",
+    "id": "sbs6:1793728680000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1793728800000,
+    "start": 1793728680000,
     "end": 1793730600000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
@@ -699,7 +700,7 @@
     "channel": "sbs6",
     "title": "De bondgenoten",
     "start": 1793730600000,
-    "end": 1793734200000,
+    "end": 1793734080000,
     "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/d/carrousel/de-bondgenoten-780046912.jpg",
@@ -714,11 +715,11 @@
     }
   },
   {
-    "id": "sbs6:1793734200000:rwy9vp",
+    "id": "sbs6:1793734080000:rwy9vp",
     "channel": "sbs6",
     "title": "Waar is mijn erfenis?",
-    "start": 1793734200000,
-    "end": 1793738100000,
+    "start": 1793734080000,
+    "end": 1793738220000,
     "description": "De ouders van Gre overleden enkele decennia geleden.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/w/carrousel/waar-is-mijn-erfenis-785247622.jpg",
@@ -736,12 +737,12 @@
     }
   },
   {
-    "id": "sbs6:1793738100000:1rq69gz",
+    "id": "sbs6:1793738220000:1rq69gz",
     "channel": "sbs6",
     "title": "Vandaag inside",
-    "start": 1793738100000,
-    "end": 1793742000000,
-    "description": "In 'Vandaag inside' geven Wilfred Genee, Johan Derksen en René van der Gijp hun kijk op het nieuws en de actualiteit.",
+    "start": 1793738220000,
+    "end": 1793742180000,
+    "description": "Job Knoester schuift aan als tafelgast bij Johan Derksen, Wilfred Genee en René van der Gijp.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/v/carrousel/vandaag-inside-784822952.jpg",
     "icon": null,
@@ -755,11 +756,11 @@
     }
   },
   {
-    "id": "sbs6:1793742000000:1k6yy12",
+    "id": "sbs6:1793742180000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1793742000000,
-    "end": 1793743200000,
+    "start": 1793742180000,
+    "end": 1793743320000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -779,11 +780,11 @@
     }
   },
   {
-    "id": "sbs6:1793743200000:16r3jxd",
+    "id": "sbs6:1793743320000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1793743200000,
-    "end": 1793746500000,
+    "start": 1793743320000,
+    "end": 1793746800000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
     "image": "https://tvgidsassets.nl/v388/upload/s/carrousel/shownieuws-780939632.jpg",
@@ -795,28 +796,6 @@
     "live": false,
     "meta": {
       "labels": []
-    }
-  },
-  {
-    "id": "sbs6:1793746500000:1uf9v3q",
-    "channel": "sbs6",
-    "title": "True crime today",
-    "start": 1793746500000,
-    "end": 1793748600000,
-    "description": "Kirsten Westrik en Nochtli Peralta Alvarez bespreken misdaad die mensen direct raakt.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v388/upload/t/carrousel/true-crime-today-788995872.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
     }
   }
 ]

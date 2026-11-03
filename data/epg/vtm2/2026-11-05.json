@@ -1,15 +1,41 @@
 [
   {
-    "id": "vtm2:1793826000000:1ltn7gx",
+    "id": "vtm2:1793834400000:efnb6o",
     "channel": "vtm2",
-    "title": "Wordt aangekondigd",
-    "start": 1793826000000,
-    "end": 1793840400000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "Mr. Frank Visser Doet Uitspraak",
+    "start": 1793834400000,
+    "end": 1793837100000,
+    "description": "Christa en Dick wonen al ruim 40 jaar met veel plezier in hun knusse bovenwoning in Rotterdam. Tot een paar jaar geleden, want toen vestigde zich plots een shoarmazaak in hetzelfde pand.",
     "category": [
-      "Entertainment"
+      "Reality"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Ad39feb92d4aa6c5bf32c55ad56cb5c7e7fbc8615/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14649576~~2FEP027636470008%2Cimi%3Af96ff5e5f6f2e941bce72ece44a81e8b0e2f6001/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14649576~~2FEP027636470008,imi:f96ff5e5f6f2e941bce72ece44a81e8b0e2f6001",
+      "episodeName": "De shoarmazaak",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2015",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb3763d7c-5268-4986-8181-ba7967c48e9e"
+    }
+  },
+  {
+    "id": "vtm2:1793837100000:48zb9",
+    "channel": "vtm2",
+    "title": "Geen uitzending",
+    "start": 1793837100000,
+    "end": 1793865900000,
+    "description": null,
+    "category": [],
+    "image": null,
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +43,33 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:d39feb92d4aa6c5bf32c55ad56cb5c7e7fbc8615",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:03a61425bd41a5bfbd02db2add47e5e60908ff87",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm2:1793865900000:1ltn7gx",
+    "channel": "vtm2",
+    "title": "Wordt aangekondigd",
+    "start": 1793865900000,
+    "end": 1793866500000,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A36072ac9c1e25f6f7e9d2e0706ebcbd934b3881e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:36072ac9c1e25f6f7e9d2e0706ebcbd934b3881e",
       "episodeName": null,
       "genres": [
         "Entertainment"
@@ -28,16 +80,16 @@
     }
   },
   {
-    "id": "vtm2:1793840400000:1ltn7gx",
+    "id": "vtm2:1793866500000:1ltn7gx",
     "channel": "vtm2",
     "title": "Wordt aangekondigd",
-    "start": 1793840400000,
+    "start": 1793866500000,
     "end": 1793869200000,
     "description": "De programmering wordt nog aangekondigd.",
     "category": [
       "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A2d1b20cae9fe536c4439be5162c344602bbb9225/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A14280f7037c87ffcedba675335863409d50d7ad1/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -45,7 +97,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:2d1b20cae9fe536c4439be5162c344602bbb9225",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:14280f7037c87ffcedba675335863409d50d7ad1",
       "episodeName": null,
       "genres": [
         "Entertainment"

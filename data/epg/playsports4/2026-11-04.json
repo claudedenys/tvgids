@@ -94,7 +94,7 @@
     "channel": "playsports4",
     "title": "Play Sports",
     "start": 1793763480000,
-    "end": 1793772600000,
+    "end": 1793772300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1793772600000:1ng6s",
+    "id": "playsports4:1793772300000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1793772600000,
-    "end": 1793781000000,
+    "start": 1793772300000,
+    "end": 1793780520000,
     "description": "Verslaggeving van de Belgische en Nederlandse basketbalkampioenschappen.",
     "category": [
       "Sport",
@@ -148,41 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1793781000000:3y5tln",
-    "channel": "playsports4",
-    "title": "MotoGP",
-    "start": 1793781000000,
-    "end": 1793784900000,
-    "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530%2Cimi%3Ab0cbc78165b0d4914c00204d9b12efc451c058e8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 38910000,
-    "episode": 2026110130,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530,imi:b0cbc78165b0d4914c00204d9b12efc451c058e8",
-      "episodeName": "GP van Maleisië: Race",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
-    }
-  },
-  {
-    "id": "playsports4:1793784900000:arbc9d",
+    "id": "playsports4:1793780520000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1793784900000,
-    "end": 1793793900000,
+    "start": 1793780520000,
+    "end": 1793790720000,
     "description": "Vanaf het Autódromo Hermanos Rodríguez in Mexico-Stad, Mexico.",
     "category": [
       "Sport",
@@ -208,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1793793900000:8a2n92",
+    "id": "playsports4:1793790720000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1793793900000,
-    "end": 1793801100000,
+    "start": 1793790720000,
+    "end": 1793800440000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -238,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1793801100000:8a2n92",
+    "id": "playsports4:1793800440000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1793801100000,
-    "end": 1793808300000,
+    "start": 1793800440000,
+    "end": 1793806800000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -268,10 +238,10 @@
     }
   },
   {
-    "id": "playsports4:1793808300000:8a2n92",
+    "id": "playsports4:1793806800000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1793808300000,
+    "start": 1793806800000,
     "end": 1793813700000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [

@@ -1,16 +1,16 @@
 [
   {
-    "id": "playsports1:1793918280000:11wg5yb",
+    "id": "playsports1:1793917500000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793918280000,
+    "start": 1793917500000,
     "end": 1793924640000,
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616513~~2FEP033948601889%2Cimi%3A55290eaea7b9452f4250b4f24c6b1baf4e94da54/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616513~~2FEP033948601889%2Cimi%3Ac26fa313a4689b094e2a227ba13ca8bc91753480/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -18,7 +18,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616513~~2FEP033948601889,imi:55290eaea7b9452f4250b4f24c6b1baf4e94da54",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616513~~2FEP033948601889,imi:c26fa313a4689b094e2a227ba13ca8bc91753480",
       "episodeName": "FC Schalke 04 - RB Leipzig",
       "genres": [
         "Sport",
@@ -34,7 +34,7 @@
     "channel": "playsports1",
     "title": "Play Sports",
     "start": 1793924640000,
-    "end": 1793945160000,
+    "end": 1793944800000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,35 @@
     }
   },
   {
-    "id": "playsports1:1793945160000:11wg5yb",
+    "id": "playsports1:1793944800000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1793944800000,
+    "end": 1793946900000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:8768faa704d9f4afaf3067390fd6400f2402b2df",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1793946900000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793945160000,
-    "end": 1793951520000,
+    "start": 1793946900000,
+    "end": 1793953260000,
     "description": "Vanuit het Ursapharm-Arena an der Kaiserlinde in Spiesen-Elversberg, Duitsland.",
     "category": [
       "Sport",
@@ -88,11 +112,11 @@
     }
   },
   {
-    "id": "playsports1:1793951520000:11wg5yb",
+    "id": "playsports1:1793953260000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793951520000,
-    "end": 1793957880000,
+    "start": 1793953260000,
+    "end": 1793959500000,
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "category": [
       "Sport",
@@ -118,11 +142,11 @@
     }
   },
   {
-    "id": "playsports1:1793957880000:11wg5yb",
+    "id": "playsports1:1793959500000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793957880000,
-    "end": 1793964300000,
+    "start": 1793959500000,
+    "end": 1793966100000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",
@@ -148,11 +172,11 @@
     }
   },
   {
-    "id": "playsports1:1793964300000:1prlzbg",
+    "id": "playsports1:1793966100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793964300000,
-    "end": 1793971560000,
+    "start": 1793966100000,
+    "end": 1793972580000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
@@ -178,11 +202,11 @@
     }
   },
   {
-    "id": "playsports1:1793971560000:amnfa6",
+    "id": "playsports1:1793972580000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
-    "start": 1793971560000,
-    "end": 1793974800000,
+    "start": 1793972580000,
+    "end": 1793975700000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
@@ -208,11 +232,11 @@
     }
   },
   {
-    "id": "playsports1:1793974800000:1prlzbg",
+    "id": "playsports1:1793975700000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793974800000,
-    "end": 1793981040000,
+    "start": 1793975700000,
+    "end": 1793982000000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -238,35 +262,11 @@
     }
   },
   {
-    "id": "playsports1:1793981040000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1793981040000,
-    "end": 1793982000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:714cda774461520d818cb5394e1e3772238fd441",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
     "id": "playsports1:1793982000000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1793982000000,
-    "end": 1793988300000,
+    "end": 1793988540000,
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "category": [
       "Sport",
@@ -292,41 +292,11 @@
     }
   },
   {
-    "id": "playsports1:1793988300000:amnfa6",
-    "channel": "playsports1",
-    "title": "Premier League Review",
-    "start": 1793988300000,
-    "end": 1793991600000,
-    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34279202~~2FEP055411400068%2Cimi%3A104711e759852e3b62bf66b25b2987c1d68d5066/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 2026110468,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34279202~~2FEP055411400068,imi:104711e759852e3b62bf66b25b2987c1d68d5066",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
-    }
-  },
-  {
-    "id": "playsports1:1793991600000:fly4em",
+    "id": "playsports1:1793988540000:fly4em",
     "channel": "playsports1",
     "title": "Bundesliga Highlights",
-    "start": 1793991600000,
-    "end": 1793994900000,
+    "start": 1793988540000,
+    "end": 1793991660000,
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "category": [
       "Sport",
@@ -349,6 +319,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27175952~~2FSH050961140000"
+    }
+  },
+  {
+    "id": "playsports1:1793991660000:amnfa6",
+    "channel": "playsports1",
+    "title": "Premier League Review",
+    "start": 1793991660000,
+    "end": 1793994900000,
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34279202~~2FEP055411400068%2Cimi%3A104711e759852e3b62bf66b25b2987c1d68d5066/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026110468,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34279202~~2FEP055411400068,imi:104711e759852e3b62bf66b25b2987c1d68d5066",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
     }
   },
   {
@@ -446,7 +446,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1794004500000,
-    "end": 1794010860000,
+    "end": 1794011040000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",

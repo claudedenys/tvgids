@@ -32,7 +32,7 @@
     "channel": "vtm2",
     "title": "Geen uitzending",
     "start": 1793752800000,
-    "end": 1793781600000,
+    "end": 1793786700000,
     "description": null,
     "category": [],
     "image": null,
@@ -52,143 +52,359 @@
     }
   },
   {
-    "id": "vtm2:1793781600000:1ltn7gx",
+    "id": "vtm2:1793786700000:zhq0rb",
     "channel": "vtm2",
-    "title": "Wordt aangekondigd",
-    "start": 1793781600000,
-    "end": 1793781900000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "MasterChef Australië",
+    "start": 1793786700000,
+    "end": 1793790000000,
+    "description": "De koks moeten een op Hongkong geïnspireerd gerecht maken met twee willekeurig gekozen ingrediënten.",
     "category": [
-      "Entertainment"
+      "Reality",
+      "Koken"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Ab35f63c65becb9f38a94f1d199f630f84c5cd2a8/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F27657555~~2FEP027793300637%2Cimi%3A2499440234ba10fbbcd528db43d7bc72a9b2c981/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 16,
+    "episode": 40,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:b35f63c65becb9f38a94f1d199f630f84c5cd2a8",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F27657555~~2FEP027793300637,imi:2499440234ba10fbbcd528db43d7bc72a9b2c981",
+      "episodeName": "Lucky Dip Immunity Challenge",
       "genres": [
-        "Entertainment"
+        "Reality",
+        "Koken"
       ],
-      "productionDate": null,
+      "productionDate": "2024",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8137747~~2FSH027793300000"
     }
   },
   {
-    "id": "vtm2:1793781900000:1ltn7gx",
+    "id": "vtm2:1793790000000:1lf8b0d",
     "channel": "vtm2",
-    "title": "Wordt aangekondigd",
-    "start": 1793781900000,
-    "end": 1793782800000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "Kitchen Nightmares",
+    "start": 1793790000000,
+    "end": 1793793000000,
+    "description": "Gordon Ramsay helpt een verlaten restaurant in Californië te helpen. De eigenaar houdt echter niet van verandering en dat leidt tot flinke ruzie.",
     "category": [
-      "Entertainment"
+      "Reality",
+      "Koken"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Affdb0fabef308a335b4cfbb1e28bbb4452b05f09/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F3360359~~2FEP027610450032%2Cimi%3A6905911ea45a3c2888fdf898c9875dd15f2f92c3/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 1,
+    "episode": 10,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:ffdb0fabef308a335b4cfbb1e28bbb4452b05f09",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F3360359~~2FEP027610450032,imi:6905911ea45a3c2888fdf898c9875dd15f2f92c3",
+      "episodeName": "Secret Garden",
       "genres": [
-        "Entertainment"
+        "Reality",
+        "Koken"
       ],
-      "productionDate": null,
+      "productionDate": "2007",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4fc05d71-69e6-4a91-961f-34326da2a876"
     }
   },
   {
-    "id": "vtm2:1793782800000:1ltn7gx",
+    "id": "vtm2:1793793000000:1afuhwp",
     "channel": "vtm2",
-    "title": "Wordt aangekondigd",
-    "start": 1793782800000,
-    "end": 1793811600000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "B&B zoekt Lief NL: Winter",
+    "start": 1793793000000,
+    "end": 1793797500000,
+    "description": "Klaas gooit het in Oostenrijk over een heel andere boeg. In het hoge noorden fladderen Elsjes gedachten alle kanten op. Robin neemt zijn artistieke liefdeslogee graag mee in zijn Zweedse leven.",
     "category": [
-      "Entertainment"
+      "Romantiek",
+      "Reality"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A01fc739b277b0a75bed70e841854b5b91d305fda/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32045728~~2FEP060886710026%2Cimi%3A1c081b2328253256774e136a8c57abd97dc0d3e8/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 3,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:01fc739b277b0a75bed70e841854b5b91d305fda",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32045728~~2FEP060886710026,imi:1c081b2328253256774e136a8c57abd97dc0d3e8",
+      "episodeName": "Aflevering 6",
       "genres": [
-        "Entertainment"
+        "Romantiek",
+        "Reality"
       ],
-      "productionDate": null,
+      "productionDate": "2025",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26172632~~2FSH060886710000"
     }
   },
   {
-    "id": "vtm2:1793811600000:1ltn7gx",
+    "id": "vtm2:1793797500000:zhq0rb",
     "channel": "vtm2",
-    "title": "Wordt aangekondigd",
-    "start": 1793811600000,
-    "end": 1793826000000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "MasterChef Australië",
+    "start": 1793797500000,
+    "end": 1793801700000,
+    "description": "De koks bieden tegen elkaar op en ruilen tijd voor ingrediënten in een klassieke opdracht. Vier deelnemers hopen met hun gerecht een eliminatie te voorkomen en een plek in de top zes veilig te stellen.",
     "category": [
-      "Entertainment"
+      "Reality",
+      "Koken"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A1aeb78dc02cc923b068d6b3fa84eb3422ff5c016/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F27700759~~2FEP027793300638%2Cimi%3A4244a2fcc5cb06c498038d465b314283e94eb0d2/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 16,
+    "episode": 41,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:1aeb78dc02cc923b068d6b3fa84eb3422ff5c016",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F27700759~~2FEP027793300638,imi:4244a2fcc5cb06c498038d465b314283e94eb0d2",
+      "episodeName": "Time Auction Elimination Challenge",
       "genres": [
-        "Entertainment"
+        "Reality",
+        "Koken"
       ],
-      "productionDate": null,
+      "productionDate": "2024",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8137747~~2FSH027793300000"
     }
   },
   {
-    "id": "vtm2:1793826000000:1ltn7gx",
+    "id": "vtm2:1793801700000:1lf8b0d",
     "channel": "vtm2",
-    "title": "Wordt aangekondigd",
-    "start": 1793826000000,
-    "end": 1793840400000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "Kitchen Nightmares",
+    "start": 1793801700000,
+    "end": 1793805000000,
+    "description": "Gordon Ramsay probeert een luxe restaurant in Californië te helpen dat gerund wordt door de onervaren Lela en de arrogante jonge chef Ricky.",
     "category": [
-      "Entertainment"
+      "Reality",
+      "Koken"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Ad39feb92d4aa6c5bf32c55ad56cb5c7e7fbc8615/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F3360357~~2FEP027610450030%2Cimi%3A54335a93030f4360ff9be6dbbc3a68631065b9a7/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 1,
+    "episode": 8,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:d39feb92d4aa6c5bf32c55ad56cb5c7e7fbc8615",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F3360357~~2FEP027610450030,imi:54335a93030f4360ff9be6dbbc3a68631065b9a7",
+      "episodeName": "Lela's",
       "genres": [
-        "Entertainment"
+        "Reality",
+        "Koken"
       ],
-      "productionDate": null,
+      "productionDate": "2007",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4fc05d71-69e6-4a91-961f-34326da2a876"
+    }
+  },
+  {
+    "id": "vtm2:1793805000000:7ex8in",
+    "channel": "vtm2",
+    "title": "Blind Getrouwd UK",
+    "start": 1793805000000,
+    "end": 1793810100000,
+    "description": "Het is tijd voor de reünie en in echte MAFS-stijl wordt er actie aan tafel geserveerd wanneer twee bruiden met elkaar in conflict komen. Eén bruidegom wordt geconfronteerd met de gevolgen van zijn gedrag.",
+    "category": [
+      "Reality",
+      "Romantiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31586189~~2FEP046014240161%2Cimi%3Ad1517e00989b6215cddf46b964d3bfacfb10558e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 10,
+    "episode": 35,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31586189~~2FEP046014240161,imi:d1517e00989b6215cddf46b964d3bfacfb10558e",
+      "episodeName": "Aflevering 35",
+      "genres": [
+        "Reality",
+        "Romantiek"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F11910902~~2FSH046014240000"
+    }
+  },
+  {
+    "id": "vtm2:1793810100000:1afuhwp",
+    "channel": "vtm2",
+    "title": "B&B zoekt Lief NL: Winter",
+    "start": 1793810100000,
+    "end": 1793814900000,
+    "description": "Hanneke en Erik zoeken op de piste samen naar die felbegeerde klik. In Andorra richt Mylène al haar pijlen op Andrés hart. In Zwitserland, bij Monique, gooit de komst van een nieuwe single roet in het in de liefdesplannen van Edwin.",
+    "category": [
+      "Romantiek",
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32123024~~2FEP060886710029%2Cimi%3A5c4da7500867fb4b23391c392863ad892fb33404/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32123024~~2FEP060886710029,imi:5c4da7500867fb4b23391c392863ad892fb33404",
+      "episodeName": "Aflevering 7",
+      "genres": [
+        "Romantiek",
+        "Reality"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26172632~~2FSH060886710000"
+    }
+  },
+  {
+    "id": "vtm2:1793814900000:ou6wlv",
+    "channel": "vtm2",
+    "title": "Home and Away",
+    "start": 1793814900000,
+    "end": 1793817000000,
+    "description": "Abigail flirt met agent Richie en Mali brengt de nacht door met Lily. Alf wordt tegengehouden, omdat hij zonder rijbewijs rijdt. Justin regelt de inschrijving, terwijl Roo een doktersafspraak probeert te maken.",
+    "category": [
+      "Dramaserie",
+      "Soap"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32920163~~2FEP032263531600%2Cimi%3A11e14993da05fb7b50ef4c933e73527f6d714315/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 39,
+    "episode": 70,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32920163~~2FEP032263531600,imi:11e14993da05fb7b50ef4c933e73527f6d714315",
+      "episodeName": "Aflevering 70",
+      "genres": [
+        "Dramaserie",
+        "Soap"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb435ca6b-3516-4173-babe-070f4ce80731"
+    }
+  },
+  {
+    "id": "vtm2:1793817000000:efnb6o",
+    "channel": "vtm2",
+    "title": "Mr. Frank Visser Doet Uitspraak",
+    "start": 1793817000000,
+    "end": 1793820600000,
+    "description": "Christa en Dick wonen al ruim 40 jaar met veel plezier in hun knusse bovenwoning in Rotterdam. Tot een paar jaar geleden, want toen vestigde zich plots een shoarmazaak in hetzelfde pand.",
+    "category": [
+      "Reality"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14649576~~2FEP027636470008%2Cimi%3Af6ce91337e0097f2c08d2897931bee139f902be0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14649576~~2FEP027636470008,imi:f6ce91337e0097f2c08d2897931bee139f902be0",
+      "episodeName": "De shoarmazaak",
+      "genres": [
+        "Reality"
+      ],
+      "productionDate": "2015",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fb3763d7c-5268-4986-8181-ba7967c48e9e"
+    }
+  },
+  {
+    "id": "vtm2:1793820600000:1xivszf",
+    "channel": "vtm2",
+    "title": "UEFA Champions League",
+    "start": 1793820600000,
+    "end": 1793830800000,
+    "description": "Verslag van de wedstrijd PSV - Club Brugge, gespeeld in de competitiefase van de UEFA Champions League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33456260~~2FEP021727851421%2Cimi%3A2e995a3935eeb08d6bdce0526f24653e4a9f94b3/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 27850000,
+    "episode": 2026110421,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33456260~~2FEP021727851421,imi:2e995a3935eeb08d6bdce0526f24653e4a9f94b3",
+      "episodeName": "PSV - Club Brugge",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fc467eede-e003-4905-a1f6-2c15a4b14182"
+    }
+  },
+  {
+    "id": "vtm2:1793830800000:rmaqcf",
+    "channel": "vtm2",
+    "title": "UEFA Champions League samenvattingen",
+    "start": 1793830800000,
+    "end": 1793832600000,
+    "description": "Alle hoogtepunten van de vanavond gespeelde wedstrijden op speeldag vier in de league phase van de UEFA Champions League.",
+    "category": [
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34407360~~2FEP052965050064%2Cimi%3Ac1c4f32bf3bc720d3d70b7a5a563f37c18f79215/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 12,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34407360~~2FEP052965050064,imi:c1c4f32bf3bc720d3d70b7a5a563f37c18f79215",
+      "episodeName": "Aflevering 12",
+      "genres": [
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28336625~~2FSH052965050000"
+    }
+  },
+  {
+    "id": "vtm2:1793832600000:1y2twpt",
+    "channel": "vtm2",
+    "title": "Border Security Australia",
+    "start": 1793832600000,
+    "end": 1793834400000,
+    "description": "Douanier Gary ondervraagt een Nepalese student, die geen retourticket heeft en amper geld bezit. Intussen probeert een moeder vlees en planten te verbergen en onderzoeken douaniers verdachte pakketjes uit India op illegale stoffen.",
+    "category": [
+      "Docu",
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31803651~~2FEP065765450021%2Cimi%3A4547c56cbba1960f2f6dfe96fb4e10ad442b7337/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 17,
+    "episode": 12,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31803651~~2FEP065765450021,imi:4547c56cbba1960f2f6dfe96fb4e10ad442b7337",
+      "episodeName": "Aflevering 12",
+      "genres": [
+        "Docu",
+        "Actua"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F213949~~2FSH065765450000"
     }
   }
 ]

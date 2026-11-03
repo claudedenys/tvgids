@@ -529,9 +529,9 @@
     "title": "Radio 2 Top 500 van de 80s",
     "start": 1793952000000,
     "end": 1793959200000,
-    "description": null,
+    "description": "De vijfhonderd grootste favorieten uit de jaren tachtig. Live vanuit de Radio 2-studio.",
     "category": [
-      "Entertainment"
+      "Muziek"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34399858~~2FEP066699990005%2Cimi%3A295922f912837367aceeba24e7279e8066d2b250/posterTile",
     "icon": null,
@@ -544,7 +544,7 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34399858~~2FEP066699990005,imi:295922f912837367aceeba24e7279e8066d2b250",
       "episodeName": "Aflevering 5",
       "genres": [
-        "Entertainment"
+        "Muziek"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
@@ -904,7 +904,7 @@
     "channel": "vrt1",
     "title": "Witse",
     "start": 1793981100000,
-    "end": 1793984760000,
+    "end": 1793984640000,
     "description": "Tijdens een theatervoorstelling schiet een acteur zichzelf in het hoofd. In eerste instantie lijkt het op zelfmoord, maar Witse ontdekt al snel dat de man een groot aantal vijanden had.",
     "category": [
       "Misdaaddrama",
@@ -930,10 +930,10 @@
     }
   },
   {
-    "id": "vrt1:1793984760000:qpj1ag",
+    "id": "vrt1:1793984640000:qpj1ag",
     "channel": "vrt1",
     "title": "Het weer (vooravond)",
-    "start": 1793984760000,
+    "start": 1793984640000,
     "end": 1793985000000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
@@ -1108,7 +1108,7 @@
     "channel": "vrt1",
     "title": "Thuis",
     "start": 1793993400000,
-    "end": 1793994900000,
+    "end": 1793995200000,
     "description": "Sunny durft eindelijk kwetsbaar te zijn tegenover Vince. Christine probeert haar trauma onder ogen te zien voor haar gezin, maar verdwijnt dan ook plots. Een overweldigde Andreas vindt rust bij Tara.",
     "category": [
       "Dramaserie",
@@ -1134,10 +1134,10 @@
     }
   },
   {
-    "id": "vrt1:1793994900000:3tqtt1",
+    "id": "vrt1:1793995200000:3tqtt1",
     "channel": "vrt1",
     "title": "Milano",
-    "start": 1793994900000,
+    "start": 1793995200000,
     "end": 1794002100000,
     "description": "Alleenstaande vader Alain wil zijn dove zoon Milano een beter leven geven dan hij zelf ooit heeft gehad. De vader-zoonrelatie komt onder druk te staan wanneer Milano zijn biologische moeder wil ontmoeten.",
     "category": [
@@ -1196,7 +1196,7 @@
     "channel": "vrt1",
     "title": "Het weer (laat)",
     "start": 1794003000000,
-    "end": 1794003300000,
+    "end": 1794003600000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1220,11 +1220,11 @@
     }
   },
   {
-    "id": "vrt1:1794003300000:1v1fto2",
+    "id": "vrt1:1794003600000:1v1fto2",
     "channel": "vrt1",
     "title": "F*ck you, flik",
-    "start": 1794003300000,
-    "end": 1794005760000,
+    "start": 1794003600000,
+    "end": 1794006060000,
     "description": "Na de moord op politieagent Tomas Monjoie in Schaarbeek staat geweld tegen de politie en de vervolging en bestraffing ervan plots hoog op de politieke agenda. Maar tussen intenties en resultaten gaapt soms een brede kloof.",
     "category": [
       "Docu"
@@ -1245,66 +1245,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34219451~~2FSH066335720000"
-    }
-  },
-  {
-    "id": "vrt1:1794005760000:ykl842",
-    "channel": "vrt1",
-    "title": "Keno",
-    "start": 1794005760000,
-    "end": 1794005820000,
-    "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
-    "category": [
-      "Spelprogramma",
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34399494~~2FEP032302521572%2Cimi%3A170dbb20d9ff6537387e806e663bbfc6a979d5cc/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 221,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34399494~~2FEP032302521572,imi:170dbb20d9ff6537387e806e663bbfc6a979d5cc",
-      "episodeName": "Aflevering 221",
-      "genres": [
-        "Spelprogramma",
-        "Entertainment"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fae9111c0-9f33-41d5-ba9f-dd37052e485d"
-    }
-  },
-  {
-    "id": "vrt1:1794005820000:6z58qv",
-    "channel": "vrt1",
-    "title": "Euromillions",
-    "start": 1794005820000,
-    "end": 1794006300000,
-    "description": "De trekkingen van het EuroMillions-spel.",
-    "category": [
-      "Spelprogramma",
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34398992~~2FEP032294100540%2Cimi%3Afa5740ae252b4a95ff2c688ad929d43873b95136/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 89,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34398992~~2FEP032294100540,imi:fa5740ae252b4a95ff2c688ad929d43873b95136",
-      "episodeName": "Aflevering 89",
-      "genres": [
-        "Spelprogramma",
-        "Entertainment"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F9f3ced27-9582-4745-981f-ba99fe8441f5"
     }
   }
 ]

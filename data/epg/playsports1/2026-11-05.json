@@ -1,16 +1,16 @@
 [
   {
-    "id": "playsports1:1793831700000:1prlzbg",
+    "id": "playsports1:1793831100000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793831700000,
+    "start": 1793831100000,
     "end": 1793838060000,
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513%2Cimi%3Aff570ea6ff2076e537b1bf486ac5060c6ebdf3ec/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513%2Cimi%3Ae450097d0615faf09b07e5879d1d559ff3ea042b/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -18,7 +18,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513,imi:ff570ea6ff2076e537b1bf486ac5060c6ebdf3ec",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513,imi:e450097d0615faf09b07e5879d1d559ff3ea042b",
       "episodeName": "Aston Villa - Fulham",
       "genres": [
         "Sport",
@@ -58,17 +58,41 @@
     }
   },
   {
-    "id": "playsports1:1793858400000:1prlzbg",
+    "id": "playsports1:1793858400000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1793858400000,
+    "end": 1793859600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:d373ca4f68c177095084817e13ca61e0faaac57d",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1793859600000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793858400000,
-    "end": 1793864940000,
+    "start": 1793859600000,
+    "end": 1793866200000,
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513%2Cimi%3A88d7ce606bd0cd2afb902e05cf58386a2bacf871/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513%2Cimi%3A51118779bb783617e4ecbf0fd88a14ac758c4750/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -76,7 +100,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513,imi:88d7ce606bd0cd2afb902e05cf58386a2bacf871",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513,imi:51118779bb783617e4ecbf0fd88a14ac758c4750",
       "episodeName": "Aston Villa - Fulham",
       "genres": [
         "Sport",
@@ -88,17 +112,17 @@
     }
   },
   {
-    "id": "playsports1:1793864940000:1prlzbg",
+    "id": "playsports1:1793866200000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793864940000,
-    "end": 1793872200000,
+    "start": 1793866200000,
+    "end": 1793872500000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583938~~2FEP033946612512%2Cimi%3A81b6ff30a58db151950eb2d6a1b09376f7ec2dda/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583938~~2FEP033946612512%2Cimi%3A5c3b919225db62c174b8a760f0196ff3bebc3305/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -106,7 +130,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583938~~2FEP033946612512,imi:81b6ff30a58db151950eb2d6a1b09376f7ec2dda",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583938~~2FEP033946612512,imi:5c3b919225db62c174b8a760f0196ff3bebc3305",
       "episodeName": "Liverpool - Arsenal",
       "genres": [
         "Sport",
@@ -118,17 +142,17 @@
     }
   },
   {
-    "id": "playsports1:1793872200000:1prlzbg",
+    "id": "playsports1:1793872500000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793872200000,
+    "start": 1793872500000,
     "end": 1793878680000,
     "description": "Vanuit het Tottenham Hotspur Stadium in Tottenham, Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583883~~2FEP033946612508%2Cimi%3Acbf3f945290214e505de9e9625eeb7815c4bdf57/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583883~~2FEP033946612508%2Cimi%3Ac703cb61118c1e1fb488693b071cfae017006158/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -136,7 +160,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583883~~2FEP033946612508,imi:cbf3f945290214e505de9e9625eeb7815c4bdf57",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583883~~2FEP033946612508,imi:c703cb61118c1e1fb488693b071cfae017006158",
       "episodeName": "Tottenham Hotspur - Crystal Palace",
       "genres": [
         "Sport",
@@ -182,7 +206,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1793885040000,
-    "end": 1793891400000,
+    "end": 1793891700000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",
@@ -208,17 +232,17 @@
     }
   },
   {
-    "id": "playsports1:1793891400000:11wg5yb",
+    "id": "playsports1:1793891700000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793891400000,
-    "end": 1793896140000,
+    "start": 1793891700000,
+    "end": 1793898000000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616702~~2FEP033948601890%2Cimi%3A933211aa61d52aa9e0572d9c666049657791a106/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616702~~2FEP033948601890%2Cimi%3Af29ce9597e06904d351e1c344de7a2dd6a549138/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -226,7 +250,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616702~~2FEP033948601890,imi:933211aa61d52aa9e0572d9c666049657791a106",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616702~~2FEP033948601890,imi:f29ce9597e06904d351e1c344de7a2dd6a549138",
       "episodeName": "Bayern München - Borussia Dortmund",
       "genres": [
         "Sport",
@@ -235,30 +259,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
-    }
-  },
-  {
-    "id": "playsports1:1793896140000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1793896140000,
-    "end": 1793898000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:24a16cbad3624f1414c48608f4681dc7793c68d8",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
     }
   },
   {
@@ -326,7 +326,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1793904600000,
-    "end": 1793911860000,
+    "end": 1793910900000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",
@@ -352,17 +352,17 @@
     }
   },
   {
-    "id": "playsports1:1793911860000:11wg5yb",
+    "id": "playsports1:1793910900000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793911860000,
-    "end": 1793918280000,
+    "start": 1793910900000,
+    "end": 1793917500000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616786~~2FEP033948601893%2Cimi%3Abfd721f012bc0c44a3fc717eb31a0f452baa36ad/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616786~~2FEP033948601893%2Cimi%3A0d49a5c4f827dad3a691f8696afc22691b65b243/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -370,7 +370,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616786~~2FEP033948601893,imi:bfd721f012bc0c44a3fc717eb31a0f452baa36ad",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616786~~2FEP033948601893,imi:0d49a5c4f827dad3a691f8696afc22691b65b243",
       "episodeName": "Eintracht Frankfurt - HSV",
       "genres": [
         "Sport",
@@ -382,17 +382,17 @@
     }
   },
   {
-    "id": "playsports1:1793918280000:11wg5yb",
+    "id": "playsports1:1793917500000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1793918280000,
+    "start": 1793917500000,
     "end": 1793924640000,
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616513~~2FEP033948601889%2Cimi%3A55290eaea7b9452f4250b4f24c6b1baf4e94da54/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616513~~2FEP033948601889%2Cimi%3Ac26fa313a4689b094e2a227ba13ca8bc91753480/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -400,7 +400,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616513~~2FEP033948601889,imi:55290eaea7b9452f4250b4f24c6b1baf4e94da54",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616513~~2FEP033948601889,imi:c26fa313a4689b094e2a227ba13ca8bc91753480",
       "episodeName": "FC Schalke 04 - RB Leipzig",
       "genres": [
         "Sport",

@@ -268,33 +268,33 @@
     }
   },
   {
-    "id": "playsports3:1793724900000:11wg5yb",
+    "id": "playsports3:1793724900000:i67pjl",
     "channel": "playsports3",
-    "title": "Bundesliga",
+    "title": "Play Sports Highlights",
     "start": 1793724900000,
     "end": 1793725800000,
-    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616702~~2FEP033948601890%2Cimi%3A2497aa3cd3dc517343bd3362ce8909a1c5936b3f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F574506586%2Cimi%3Adfca108e5e95f506ce83456aa9d24238c1ad4888/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 48600000,
-    "episode": 2026103190,
+    "season": 50390000,
+    "episode": 574506586,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616702~~2FEP033948601890,imi:2497aa3cd3dc517343bd3362ce8909a1c5936b3f",
-      "episodeName": "Bayern München - Borussia Dortmund",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F574506586,imi:dfca108e5e95f506ce83456aa9d24238c1ad4888",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
