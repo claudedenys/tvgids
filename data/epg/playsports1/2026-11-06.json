@@ -4,7 +4,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1793917500000,
-    "end": 1793924640000,
+    "end": 1793923800000,
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "category": [
       "Sport",
@@ -30,16 +30,16 @@
     }
   },
   {
-    "id": "playsports1:1793924640000:xykime",
+    "id": "playsports1:1793923800000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1793924640000,
-    "end": 1793944800000,
+    "start": 1793923800000,
+    "end": 1793946900000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A6b5a40877f3a87c05b11b704fe7910e13037dedc/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ac3bbbd49d1d4db02b2f9cc6534834af19a68d6d1/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -47,35 +47,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:6b5a40877f3a87c05b11b704fe7910e13037dedc",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:c3bbbd49d1d4db02b2f9cc6534834af19a68d6d1",
       "episodeName": null,
       "genres": [
         "Sport"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1793944800000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1793944800000,
-    "end": 1793946900000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:8768faa704d9f4afaf3067390fd6400f2402b2df",
-      "episodeName": null,
-      "genres": [],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
@@ -236,7 +212,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1793975700000,
-    "end": 1793982000000,
+    "end": 1793981940000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -262,17 +238,17 @@
     }
   },
   {
-    "id": "playsports1:1793982000000:1prlzbg",
+    "id": "playsports1:1793981940000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1793982000000,
-    "end": 1793988540000,
+    "start": 1793981940000,
+    "end": 1793988480000,
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513%2Cimi%3A42767c972d861751b629e5477b560ffa5e929308/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513%2Cimi%3A88d7ce606bd0cd2afb902e05cf58386a2bacf871/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -280,7 +256,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513,imi:42767c972d861751b629e5477b560ffa5e929308",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583951~~2FEP033946612513,imi:88d7ce606bd0cd2afb902e05cf58386a2bacf871",
       "episodeName": "Aston Villa - Fulham",
       "genres": [
         "Sport",
@@ -292,17 +268,17 @@
     }
   },
   {
-    "id": "playsports1:1793988540000:fly4em",
+    "id": "playsports1:1793988480000:fly4em",
     "channel": "playsports1",
     "title": "Bundesliga Highlights",
-    "start": 1793988540000,
-    "end": 1793991660000,
+    "start": 1793988480000,
+    "end": 1793991600000,
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34422012~~2FEP050961140066%2Cimi%3Adf373faac0f823c543dd84c9a485b6b95dfb4e6e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34422012~~2FEP050961140066%2Cimi%3A0cf23d5acf205d71a674694687de91d85cf7917f/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -310,7 +286,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34422012~~2FEP050961140066,imi:df373faac0f823c543dd84c9a485b6b95dfb4e6e",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34422012~~2FEP050961140066,imi:0cf23d5acf205d71a674694687de91d85cf7917f",
       "episodeName": "Aflevering 8",
       "genres": [
         "Sport",
@@ -322,17 +298,17 @@
     }
   },
   {
-    "id": "playsports1:1793991660000:amnfa6",
+    "id": "playsports1:1793991600000:amnfa6",
     "channel": "playsports1",
     "title": "Premier League Review",
-    "start": 1793991660000,
+    "start": 1793991600000,
     "end": 1793994900000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34279202~~2FEP055411400068%2Cimi%3A104711e759852e3b62bf66b25b2987c1d68d5066/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34279202~~2FEP055411400068%2Cimi%3A6b7faf556f15220c62929dea7b226d0723e93df5/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -340,7 +316,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34279202~~2FEP055411400068,imi:104711e759852e3b62bf66b25b2987c1d68d5066",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34279202~~2FEP055411400068,imi:6b7faf556f15220c62929dea7b226d0723e93df5",
       "episodeName": null,
       "genres": [
         "Sport",
@@ -446,7 +422,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1794004500000,
-    "end": 1794011040000,
+    "end": 1794011160000,
     "description": "Vanuit de Frankfurt Arena in Frankfurt, Duitsland.",
     "category": [
       "Sport",

@@ -64,7 +64,7 @@
     "channel": "playsports3",
     "title": "Play Sports",
     "start": 1794017400000,
-    "end": 1794031200000,
+    "end": 1794030600000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,35 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1794031200000:48zb9",
-    "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1794031200000,
-    "end": 1794033600000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e999b8b5d3485f2f0102e797c7ffa70e36233c1a",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports3:1794033600000:29x1rm",
+    "id": "playsports3:1794030600000:29x1rm",
     "channel": "playsports3",
     "title": "UEFA Youth League",
-    "start": 1794033600000,
-    "end": 1794040200000,
+    "start": 1794030600000,
+    "end": 1794036960000,
     "description": "Verslag van de wedstrijd Atlético Madrid - Bayern München, gespeeld in de competitiefase van de UEFA Youth League.",
     "category": [
       "Sport",
@@ -142,11 +118,11 @@
     }
   },
   {
-    "id": "playsports3:1794040200000:1va4v2m",
+    "id": "playsports3:1794036960000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1794040200000,
-    "end": 1794046680000,
+    "start": 1794036960000,
+    "end": 1794043200000,
     "description": "Verslag van de wedstrijd PSV - Willem II uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -172,11 +148,11 @@
     }
   },
   {
-    "id": "playsports3:1794046680000:1va4v2m",
+    "id": "playsports3:1794043200000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1794046680000,
-    "end": 1794053100000,
+    "start": 1794043200000,
+    "end": 1794049620000,
     "description": "Verslag van de wedstrijd Feyenoord - Fortuna Sittard uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -202,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1794053100000:1va4v2m",
+    "id": "playsports3:1794049620000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1794053100000,
-    "end": 1794059400000,
+    "start": 1794049620000,
+    "end": 1794056100000,
     "description": "Verslag van de wedstrijd Ajax - AZ uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -232,33 +208,33 @@
     }
   },
   {
-    "id": "playsports3:1794059400000:1p3n9ye",
+    "id": "playsports3:1794056100000:3tkxx5",
     "channel": "playsports3",
-    "title": "UEFA Champions League Highlights",
-    "start": 1794059400000,
+    "title": "MIDMID",
+    "start": 1794056100000,
     "end": 1794061500000,
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Aimé Antheunis.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34461113~~2FEP052508440040%2Cimi%3A4e996cf1962d0ca63da2afb1dcfcd14fde8924c8/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34536456~~2FEP037584270196%2Cimi%3A4e5c13e5d529dcee1fc8c682a49139b2d32d3086/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 8,
+    "season": 7,
+    "episode": 7,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34461113~~2FEP052508440040,imi:4e996cf1962d0ca63da2afb1dcfcd14fde8924c8",
-      "episodeName": "Aflevering 8",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34536456~~2FEP037584270196,imi:4e5c13e5d529dcee1fc8c682a49139b2d32d3086",
+      "episodeName": "Aimé Antheunis",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
@@ -327,7 +303,7 @@
     "title": "The Paddock Podcast",
     "start": 1794069600000,
     "end": 1794073200000,
-    "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "description": "Kimi Antonelli schreef geschiedenis in Mexico door zich tot jongste wereldkampioen ooit te kronen.",
     "category": [
       "Sport",
       "Motorsport"

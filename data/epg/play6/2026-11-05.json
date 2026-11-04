@@ -1,9 +1,37 @@
 [
   {
-    "id": "play6:1793836800000:oujlb",
+    "id": "play6:1793833500000:8c7jz",
+    "channel": "play6",
+    "title": "Hawaii Five-0",
+    "start": 1793833500000,
+    "end": 1793837100000,
+    "description": "Wanneer McGarrett, Danny, Tani en Junior een verlaten jacht op zee onderzoeken, worden ze blootgesteld aan een dodelijk biowapen. De rest van Five-0 heeft slechts acht uur de tijd om een tegengif te vinden.",
+    "category": [
+      "Misdaaddrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14811066~~2FEP027832650321%2Cimi%3Ac332a9d0ecdd5c715886d3dff7e1d117ca203236/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 8,
+    "episode": 9,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14811066~~2FEP027832650321,imi:c332a9d0ecdd5c715886d3dff7e1d117ca203236",
+      "episodeName": "Make Me Kai (Death at Sea)",
+      "genres": [
+        "Misdaaddrama"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fbdd2d55a-84cf-4ba9-bbe8-675c98ded0eb"
+    }
+  },
+  {
+    "id": "play6:1793837100000:oujlb",
     "channel": "play6",
     "title": "See No Evil",
-    "start": 1793836800000,
+    "start": 1793837100000,
     "end": 1793841000000,
     "description": "Op 1 februari 2004 verdwijnt de elfjarige Carlie Brucia terwijl ze naar huis loopt vanaf het huis van een vriend. De politie ontdekt beveiligingscamera-beelden van haar schokkende ontvoering, en het onderzoek verandert in een klopjacht op de dader.",
     "category": [
@@ -34,7 +62,7 @@
     "channel": "play6",
     "title": "Pawn Stars",
     "start": 1793841000000,
-    "end": 1793844000000,
+    "end": 1793843400000,
     "description": "Rick en Chum onderhandelen over een Superman-pyjama. Rick tikt een vintage industriële snijmachine op de kop. Chum roept de hulp in van Alex als hij een zeldzaam jasje uit de Tweede Wereldoorlog tegenkomt.",
     "category": [
       "Reality",
@@ -60,11 +88,11 @@
     }
   },
   {
-    "id": "play6:1793844000000:48zb9",
+    "id": "play6:1793843400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1793844000000,
-    "end": 1793851200000,
+    "start": 1793843400000,
+    "end": 1793850900000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +104,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:07485376766eb9bf83f520ec80f14edd1e6300d7",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1793850900000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1793850900000,
+    "end": 1793851200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f2c100fae08746042b67b5c2de8942817ef87c91",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

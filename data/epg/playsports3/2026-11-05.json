@@ -4,7 +4,7 @@
     "channel": "playsports3",
     "title": "Croky Cup",
     "start": 1793835000000,
-    "end": 1793841600000,
+    "end": 1793841720000,
     "description": "Vanuit het King Power at Den Dreef Stadion in Leuven, België.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1793841600000:15p1p85",
+    "id": "playsports3:1793841720000:15p1p85",
     "channel": "playsports3",
     "title": "Croky Cup",
-    "start": 1793841600000,
-    "end": 1793848080000,
+    "start": 1793841720000,
+    "end": 1793848140000,
     "description": "Vanuit het Regenboogstadion in Waregem, België.",
     "category": [
       "Sport",
@@ -60,10 +60,10 @@
     }
   },
   {
-    "id": "playsports3:1793848080000:xykime",
+    "id": "playsports3:1793848140000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1793848080000,
+    "start": 1793848140000,
     "end": 1793857200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -122,7 +122,7 @@
     "channel": "playsports3",
     "title": "UEFA Europa League",
     "start": 1793863800000,
-    "end": 1793870100000,
+    "end": 1793870160000,
     "description": "Vanuit het Stadion Miejski in Białystok, Polen.",
     "category": [
       "Sport",
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports3:1793870100000:16v40h",
+    "id": "playsports3:1793870160000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1793870100000,
-    "end": 1793876400000,
+    "start": 1793870160000,
+    "end": 1793876460000,
     "description": "Vanuit het MCH Arena in Herning, Midtjylland, Denemarken.",
     "category": [
       "Sport",
@@ -178,11 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1793876400000:1va4v2m",
+    "id": "playsports3:1793876460000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1793876400000,
-    "end": 1793882700000,
+    "start": 1793876460000,
+    "end": 1793882520000,
     "description": "Verslag van de wedstrijd PSV - Willem II uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -208,11 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1793882700000:1va4v2m",
+    "id": "playsports3:1793882520000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1793882700000,
-    "end": 1793889120000,
+    "start": 1793882520000,
+    "end": 1793889000000,
     "description": "Verslag van de wedstrijd Feyenoord - Fortuna Sittard uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -238,10 +238,10 @@
     }
   },
   {
-    "id": "playsports3:1793889120000:1va4v2m",
+    "id": "playsports3:1793889000000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1793889120000,
+    "start": 1793889000000,
     "end": 1793895600000,
     "description": "Verslag van de wedstrijd Ajax - AZ uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -273,7 +273,7 @@
     "title": "The Paddock Podcast",
     "start": 1793895600000,
     "end": 1793899200000,
-    "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "description": "Kimi Antonelli schreef geschiedenis in Mexico door zich tot jongste wereldkampioen ooit te kronen.",
     "category": [
       "Sport",
       "Motorsport"
@@ -358,63 +358,33 @@
     }
   },
   {
-    "id": "playsports3:1793905200000:1prlzbg",
+    "id": "playsports3:1793905200000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
+    "title": "Play Sports Highlights",
     "start": 1793905200000,
-    "end": 1793905860000,
-    "description": "Vanuit Stamford Bridge in Londen, Engeland.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583898~~2FEP033946612509%2Cimi%3A0cb11177615a3e07d8126aa8dbfa936e6649691b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026103109,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583898~~2FEP033946612509,imi:0cb11177615a3e07d8126aa8dbfa936e6649691b",
-      "episodeName": "Chelsea - Manchester United",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
-    }
-  },
-  {
-    "id": "playsports3:1793905860000:1prlzbg",
-    "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1793905860000,
     "end": 1793906400000,
-    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33583938~~2FEP033946612512%2Cimi%3Ad10958151eb2ee019bba1c181964921e234c01c9/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575071964%2Cimi%3Afb2810be10153ac2b8139bad3468551d27a8206b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026110112,
+    "season": 50390000,
+    "episode": 575071964,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33583938~~2FEP033946612512,imi:d10958151eb2ee019bba1c181964921e234c01c9",
-      "episodeName": "Liverpool - Arsenal",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575071964,imi:fb2810be10153ac2b8139bad3468551d27a8206b",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -448,41 +418,71 @@
     }
   },
   {
-    "id": "playsports3:1793911200000:1p3n9ye",
+    "id": "playsports3:1793911200000:3tkxx5",
     "channel": "playsports3",
-    "title": "UEFA Champions League Highlights",
+    "title": "MIDMID",
     "start": 1793911200000,
-    "end": 1793913300000,
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "end": 1793916600000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Aimé Antheunis.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34461122~~2FEP052508440041%2Cimi%3A8f7a18d26cb791c4d815be01dc2c15cef8b5f808/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34536456~~2FEP037584270196%2Cimi%3A596290ca1aa7ff9362f34e4e779cc3e50d92d8d7/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 9,
+    "season": 7,
+    "episode": 7,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34461122~~2FEP052508440041,imi:8f7a18d26cb791c4d815be01dc2c15cef8b5f808",
-      "episodeName": "Aflevering 9",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34536456~~2FEP037584270196,imi:596290ca1aa7ff9362f34e4e779cc3e50d92d8d7",
+      "episodeName": "Aimé Antheunis",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports3:1793913300000:1va4v2m",
+    "id": "playsports3:1793916600000:i67pjl",
+    "channel": "playsports3",
+    "title": "Play Sports Highlights",
+    "start": 1793916600000,
+    "end": 1793918700000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575071966%2Cimi%3A6a44b411cc3f210d2b40b78ae793a0a0e03f34af/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 575071966,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575071966,imi:6a44b411cc3f210d2b40b78ae793a0a0e03f34af",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1793918700000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1793913300000,
-    "end": 1793919600000,
+    "start": 1793918700000,
+    "end": 1793924760000,
     "description": "Verslag van de wedstrijd PSV - Willem II uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",

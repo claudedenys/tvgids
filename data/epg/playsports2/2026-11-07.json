@@ -114,10 +114,100 @@
     }
   },
   {
-    "id": "playsports2:1794068700000:xykime",
+    "id": "playsports2:1794068700000:qjkkk5",
+    "channel": "playsports2",
+    "title": "Premier League Stories",
+    "start": 1794068700000,
+    "end": 1794070200000,
+    "description": "De carrière van Petr Čech, één van de beste keepers ooit in de Premier League, werd in 2006 bijna voorgoed op zijn kop gezet door het gruwelijke hoofdletsel dat hij opliep. We gaan met hem in gesprek over zijn opmerkelijke herstel en zijn weg terug naar de top.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33857629~~2FEP043309820271%2Cimi%3Ac48f0dd2ca4c8c0325ce4697eea7c2b3a895c2ee/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 14,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33857629~~2FEP043309820271,imi:c48f0dd2ca4c8c0325ce4697eea7c2b3a895c2ee",
+      "episodeName": "Petr Cech",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports2:1794070200000:i67pjl",
+    "channel": "playsports2",
+    "title": "Play Sports Highlights",
+    "start": 1794070200000,
+    "end": 1794072300000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575071950%2Cimi%3Acb2f66286f5adb849d917e0c1148e81350bb7149/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 575071950,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575071950,imi:cb2f66286f5adb849d917e0c1148e81350bb7149",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports2:1794072300000:11wg5yb",
+    "channel": "playsports2",
+    "title": "Bundesliga",
+    "start": 1794072300000,
+    "end": 1794079500000,
+    "description": "Vanuit de Stuttgart Arena in Stuttgart, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33616953~~2FEP033948601898%2Cimi%3Ab5e0a03313f5706ce9271d60bb9460c6551b534f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026110798,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33616953~~2FEP033948601898,imi:b5e0a03313f5706ce9271d60bb9460c6551b534f",
+      "episodeName": "VfB Stuttgart - Werder Bremen",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports2:1794079500000:xykime",
     "channel": "playsports2",
     "title": "Play Sports",
-    "start": 1794068700000,
+    "start": 1794079500000,
     "end": 1794092400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
