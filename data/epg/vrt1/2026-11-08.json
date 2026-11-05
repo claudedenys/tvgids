@@ -300,7 +300,7 @@
     "channel": "vrt1",
     "title": "Videoclips #likeme",
     "start": 1794119580000,
-    "end": 1794119700000,
+    "end": 1794119820000,
     "description": "De videoclip van 'Voorbij' uit aflevering 13.",
     "category": [
       "Avontuur",
@@ -326,11 +326,41 @@
     }
   },
   {
-    "id": "vrt1:1794119700000:5q0gaz",
+    "id": "vrt1:1794119820000:usts0h",
+    "channel": "vrt1",
+    "title": "Videoclips #likeme",
+    "start": 1794119820000,
+    "end": 1794120000000,
+    "description": "De videoclip van 'We kunnen het leven aan' uit aflevering 13.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34220817~~2FEP056506200053%2Cimi%3A8e2692b8a7a4f69afc700572771bb1698181bd6d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 26,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34220817~~2FEP056506200053,imi:8e2692b8a7a4f69afc700572771bb1698181bd6d",
+      "episodeName": "We kunnen het leven aan",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
+    }
+  },
+  {
+    "id": "vrt1:1794120000000:5q0gaz",
     "channel": "vrt1",
     "title": "De Raad van Soekie",
-    "start": 1794119700000,
-    "end": 1794120600000,
+    "start": 1794120000000,
+    "end": 1794120900000,
     "description": "In haar verkiezingsvideo is Soekie eerlijk dat er bespaard moet worden door de leerlingenraad. Pedro daarentegen belooft in zijn video dat alles beter wordt. Hij blijft bewust vaag om de leerlingen te misleiden.",
     "category": [
       "Comedy"
@@ -354,11 +384,11 @@
     }
   },
   {
-    "id": "vrt1:1794120600000:1652mxb",
+    "id": "vrt1:1794120900000:1652mxb",
     "channel": "vrt1",
     "title": "De Hoppers",
-    "start": 1794120600000,
-    "end": 1794121500000,
+    "start": 1794120900000,
+    "end": 1794121800000,
     "description": "Het is weer zover. De Hoppers vieren hun jaarlijkse Wally Wasbeerdag. Daria zit ondertussen in een lastige positie, omdat ze de beste punten wil halen voor een groepswerk van wiskunde.",
     "category": [
       "Kids",
@@ -384,11 +414,11 @@
     }
   },
   {
-    "id": "vrt1:1794121500000:93mi5q",
+    "id": "vrt1:1794121800000:93mi5q",
     "channel": "vrt1",
     "title": "United",
-    "start": 1794121500000,
-    "end": 1794122700000,
+    "start": 1794121800000,
+    "end": 1794123000000,
     "description": "Loubna heeft er genoeg van dat haar papa steeds staat te roepen langs de zijlijn. Ze neemt daardoor een drastische beslissing. Selma ontdekt dat Hannes en Xander in het geheim samen trainen.",
     "category": [
       "Comedy"
@@ -412,10 +442,10 @@
     }
   },
   {
-    "id": "vrt1:1794122700000:4inlwk",
+    "id": "vrt1:1794123000000:4inlwk",
     "channel": "vrt1",
     "title": "Ghost Rockers: compilatie",
-    "start": 1794122700000,
+    "start": 1794123000000,
     "end": 1794125700000,
     "description": "Een compilatie van afleveringen 21 tot en met 24 van de Vlaamse fictiereeks, waarin de mysterieuze gebeurtenissen in een artiestenacademie centraal staan.",
     "category": [
@@ -765,7 +795,7 @@
     "title": "Sporza: Veldrijden",
     "start": 1794145800000,
     "end": 1794151500000,
-    "description": "Verslag van de vrouwen U23 en mannen elite op het EK veldrijden in Zeddam (Nederland)",
+    "description": "Verslag van de mannen elite op het EK veldrijden in Zeddam (Nederland)",
     "category": [
       "Sport",
       "Mountainbiken"
@@ -779,7 +809,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34419458~~2FEP048746440095,imi:0896f633a040cb2b45588260b8e945ea51c65e6d",
-      "episodeName": "Vrouwen U23 en mannen elite",
+      "episodeName": "Mannen elite",
       "genres": [
         "Sport",
         "Mountainbiken"

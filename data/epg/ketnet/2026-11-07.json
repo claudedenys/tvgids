@@ -644,7 +644,7 @@
     "channel": "ketnet",
     "title": "De week van Karrewiet",
     "start": 1794037500000,
-    "end": 1794038400000,
+    "end": 1794038100000,
     "description": "Weekoverzicht van dit infomagazine voor de jeugd.",
     "category": [
       "Kids",
@@ -667,6 +667,34 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F40d963ad-da9b-4d6c-bee0-5e2497d9a92a"
+    }
+  },
+  {
+    "id": "ketnet:1794038100000:mphott",
+    "channel": "ketnet",
+    "title": "Optredens in Hallo Kroket!",
+    "start": 1794038100000,
+    "end": 1794038400000,
+    "description": "Berre brengt tijdens Hallo Kroket zijn nieuwe hit Yesterday, Today, Tomorrow!",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34545982~~2FEP066890130006%2Cimi%3A2b66126e12e6271b40f6b0e0b6bd0cc30e893ebb/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 26,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34545982~~2FEP066890130006,imi:2b66126e12e6271b40f6b0e0b6bd0cc30e893ebb",
+      "episodeName": "Berre - Yesterday, today, Tomorrow",
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34492624~~2FSH066890130000"
     }
   },
   {
@@ -1185,7 +1213,7 @@
     "end": 1794050400000,
     "description": "K3 brengt hun hit Toveren live in de Ketnet-studio tijdens Hallo Kroket!",
     "category": [
-      "Kids"
+      "Muziek"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34492648~~2FEP066890130004%2Cimi%3A372aa6b4ad900cae98a47029c0521ed2fd329a27/posterTile",
     "icon": null,
@@ -1198,7 +1226,7 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34492648~~2FEP066890130004,imi:372aa6b4ad900cae98a47029c0521ed2fd329a27",
       "episodeName": "K3 - Toveren",
       "genres": [
-        "Kids"
+        "Muziek"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
@@ -1360,7 +1388,7 @@
     "channel": "ketnet",
     "title": "100% Wolf: De legende van de maansteen",
     "start": 1794054000000,
-    "end": 1794055500000,
+    "end": 1794055200000,
     "description": "Rick geeft de kinderen een taak. Vind de geheime deur die verstopt zit ergens in de school, en krijg het alleenrecht op de schat die binnen verborgen zit.",
     "category": [
       "Kids",
@@ -1383,6 +1411,34 @@
       "productionDate": "2020",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19265561~~2FSH048416770000"
+    }
+  },
+  {
+    "id": "ketnet:1794055200000:mphott",
+    "channel": "ketnet",
+    "title": "Optredens in Hallo Kroket!",
+    "start": 1794055200000,
+    "end": 1794055500000,
+    "description": "Live optredens in de Ketnet-studio tijdens Hallo Kroket!",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34545984~~2FEP066890130007%2Cimi%3A4c3ca2c8838c551fe050a327d3ae8afa48e0f6ee/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 32,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34545984~~2FEP066890130007,imi:4c3ca2c8838c551fe050a327d3ae8afa48e0f6ee",
+      "episodeName": "Camille - Nu dat je weg bent",
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34492624~~2FSH066890130000"
     }
   },
   {
@@ -2076,7 +2132,7 @@
     "channel": "ketnet",
     "title": "De Chimera Wachters",
     "start": 1794064500000,
-    "end": 1794065100000,
+    "end": 1794065400000,
     "description": "Nadat ze een kostbare steen heeft opgegeten die Wendy had schoongemaakt, krijgt Rubis een niesbui die de hele grond doet daveren. Ze slaat in paniek en vlucht naar het daglicht.",
     "category": [
       "Kids",
@@ -2102,41 +2158,11 @@
     }
   },
   {
-    "id": "ketnet:1794065100000:o103md",
-    "channel": "ketnet",
-    "title": "Shaun het schaap",
-    "start": 1794065100000,
-    "end": 1794065400000,
-    "description": "Als Shaun in een blik rode verf stapt, is hij met zijn rode hoef opeens een stijlicoon op de boerderij. Al snel gaat ook de rest van de kudde op zoek naar nieuwe trends en moet iedereen steeds extremere keuzes maken om op te vallen.",
-    "category": [
-      "Kids",
-      "Animatie"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30129244~~2FEP027636970414%2Cimi%3Af4fadb28195f05287f4e7cda063a7f82f37c4c4c/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 7,
-    "episode": 7,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30129244~~2FEP027636970414,imi:f4fadb28195f05287f4e7cda063a7f82f37c4c4c",
-      "episodeName": "Schapenmode",
-      "genres": [
-        "Kids",
-        "Animatie"
-      ],
-      "productionDate": "2025",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F66f483f1-005b-4c67-832d-a12c8dfb0fd3"
-    }
-  },
-  {
     "id": "ketnet:1794065400000:c6r4j4",
     "channel": "ketnet",
     "title": "Het Kind van de Gruffalo",
     "start": 1794065400000,
-    "end": 1794067200000,
+    "end": 1794066900000,
     "description": "Het kind van de Gruffalo gaat op zoek naar de Grote Gevaarlijke Muis. Haar vader heeft verteld hoe dat monster eruitziet, maar ze kan de muis niet vinden. Ze gaat twijfelen of hij wel bestaat.",
     "category": [
       "Kids",
@@ -2159,6 +2185,36 @@
       "productionDate": "2011",
       "isSportsTeamEvent": false,
       "parentSeriesId": null
+    }
+  },
+  {
+    "id": "ketnet:1794066900000:o103md",
+    "channel": "ketnet",
+    "title": "Shaun het schaap",
+    "start": 1794066900000,
+    "end": 1794067200000,
+    "description": "Als Shaun in een blik rode verf stapt, is hij met zijn rode hoef opeens een stijlicoon op de boerderij. Al snel gaat ook de rest van de kudde op zoek naar nieuwe trends en moet iedereen steeds extremere keuzes maken om op te vallen.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30129244~~2FEP027636970414%2Cimi%3Af4fadb28195f05287f4e7cda063a7f82f37c4c4c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 7,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30129244~~2FEP027636970414,imi:f4fadb28195f05287f4e7cda063a7f82f37c4c4c",
+      "episodeName": "Schapenmode",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F66f483f1-005b-4c67-832d-a12c8dfb0fd3"
     }
   },
   {
@@ -2464,7 +2520,7 @@
     "channel": "ketnet",
     "title": "Spelbrekers",
     "start": 1794076800000,
-    "end": 1794077700000,
+    "end": 1794077400000,
     "description": "Thomas neemt het op tegen Average Rob in een spannende racegame. Maar dit is geen gewone strijd. Terwijl ze hun wagen onder controle proberen te houden, moeten ze tegelijk zoveel mogelijk hete chips uit hun sombrero's eten.",
     "category": [
       "Spelprogramma"
@@ -2485,6 +2541,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29950657~~2FSH057231010000"
+    }
+  },
+  {
+    "id": "ketnet:1794077400000:1ind05c",
+    "channel": "ketnet",
+    "title": "Athleticus Urban Games",
+    "start": 1794077400000,
+    "end": 1794077700000,
+    "description": "Een kangoeroe en een flamingo breken alle regels van het frisbeespel.",
+    "category": [
+      "Animatie",
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20899685~~2FEP054806600013%2Cimi%3Acf65aa36e92059290a3db418dc5bfc4ac7d66947/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 13,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20899685~~2FEP054806600013,imi:cf65aa36e92059290a3db418dc5bfc4ac7d66947",
+      "episodeName": "Frisbee",
+      "genres": [
+        "Animatie",
+        "Comedy"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F15191163~~2FSH054806600000"
     }
   },
   {

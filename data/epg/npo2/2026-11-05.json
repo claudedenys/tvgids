@@ -43,7 +43,7 @@
     "title": "Nieuwsuur",
     "start": 1793834700000,
     "end": 1793837100000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Democratische overwinning zet Trump onder druk De Democraten hebben bij de Amerikaanse...",
     "category": [
       "Actueel"
     ],
@@ -68,7 +68,7 @@
     "title": "Nieuwsuur",
     "start": 1793837100000,
     "end": 1793858400000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Democratische overwinning zet Trump onder druk De Democraten hebben bij de Amerikaanse...",
     "category": [
       "Actueel"
     ],
@@ -117,7 +117,7 @@
     "title": "Tijd voor MAX",
     "start": 1793859180000,
     "end": 1793862000000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * Willem Post schuift aan om te praten over de uitslag van de Amerikaanse midterms.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/t/carrousel/tijd-voor-max-786520532.jpg",
     "icon": null,
@@ -361,7 +361,7 @@
     "title": "NOS Journaal",
     "start": 1793876400000,
     "end": 1793877300000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Weer bommeldingen Europese vluchten * KLM bezuinigt en schrapt 5000.....",
     "category": [
       "Actueel"
     ],
@@ -375,7 +375,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -451,7 +452,7 @@
     "title": "NOS Journaal",
     "start": 1793880000000,
     "end": 1793881200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Weer bommeldingen Europese vluchten * KLM bezuinigt en schrapt 5000.....",
     "category": [
       "Actueel"
     ],
@@ -465,7 +466,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -477,7 +479,7 @@
     "end": 1793883300000,
     "description": "Het pontificaat van de heilige paus Johannes Paulus II ging de geschiedenis in als een van de langste pontificaten...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/p/carrousel/pauscast-784033412.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -882,7 +884,7 @@
     "channel": "npo2",
     "title": "De Joodse wereld",
     "start": 1793915100000,
-    "end": 1793916900000,
+    "end": 1793917200000,
     "description": "Talkshow waarin de Joodse actualiteit centraal staat.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/de-joodse-wereld-786360772.jpg",
@@ -897,10 +899,10 @@
     }
   },
   {
-    "id": "npo2:1793916900000:17upwfm",
+    "id": "npo2:1793917200000:17upwfm",
     "channel": "npo2",
     "title": "De boeddhistische blik",
-    "start": 1793916900000,
+    "start": 1793917200000,
     "end": 1793920500000,
     "description": "Mindfulness voor chronisch depressieven.",
     "category": [],

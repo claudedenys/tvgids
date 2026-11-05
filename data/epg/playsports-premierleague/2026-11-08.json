@@ -114,63 +114,31 @@
     }
   },
   {
-    "id": "playsports-premierleague:1794155400000:i67pjl",
+    "id": "playsports-premierleague:1794155400000:xykime",
     "channel": "playsports-premierleague",
-    "title": "Play Sports Highlights",
+    "title": "Play Sports",
     "start": 1794155400000,
-    "end": 1794156900000,
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "end": 1794161100000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
-      "Sport",
-      "Multisportevenement"
+      "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572960260%2Cimi%3A508d71e133ae3d327e847fd0b6a3135b61e205b3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Ac529c40aa8afa97469223c6a018612c5c85fba68/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50390000,
-    "episode": 572960260,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F572960260,imi:508d71e133ae3d327e847fd0b6a3135b61e205b3",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:c529c40aa8afa97469223c6a018612c5c85fba68",
       "episodeName": null,
       "genres": [
-        "Sport",
-        "Multisportevenement"
+        "Sport"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
-    }
-  },
-  {
-    "id": "playsports-premierleague:1794156900000:3y5tln",
-    "channel": "playsports-premierleague",
-    "title": "MotoGP",
-    "start": 1794156900000,
-    "end": 1794161100000,
-    "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
-    "category": [
-      "Sport",
-      "Motorracen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538%2Cimi%3Ab73f82248dbe64a4336a4a30ae031e6a83d4e163/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 38910000,
-    "episode": 2026110838,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538,imi:b73f82248dbe64a4336a4a30ae031e6a83d4e163",
-      "episodeName": "GP van Qatar: Race",
-      "genres": [
-        "Sport",
-        "Motorracen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F77c7529d-5bab-4dd1-a351-4ea158d1d4c9"
+      "parentSeriesId": null
     }
   },
   {

@@ -1064,7 +1064,7 @@
     "channel": "ketnet",
     "title": "De week van Karrewiet",
     "start": 1794135900000,
-    "end": 1794136800000,
+    "end": 1794136500000,
     "description": "Weekoverzicht van dit infomagazine voor de jeugd.",
     "category": [
       "Kids",
@@ -1087,6 +1087,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F40d963ad-da9b-4d6c-bee0-5e2497d9a92a"
+    }
+  },
+  {
+    "id": "ketnet:1794136500000:1cd3zt1",
+    "channel": "ketnet",
+    "title": "Hallo Kroket",
+    "start": 1794136500000,
+    "end": 1794136800000,
+    "description": "Dagelijkse liveshow waarin de KETNET-wrappers je meetrekken in de wereld van KETNET en die van de Ketnetters. Verwacht je aan bekende gasten, zotte primeurs, leuke optredens, spannende spelletjes en nog zo veel meer. HALLO KROKET!",
+    "category": [
+      "Spelprogramma",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29043969~~2FEP054804770003%2Cimi%3A1a593b119404cd33fd5aef1d849e56c0fe7a94dd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29043969~~2FEP054804770003,imi:1a593b119404cd33fd5aef1d849e56c0fe7a94dd",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Spelprogramma",
+        "Muziek"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29043949~~2FSH054804770000"
     }
   },
   {
@@ -2108,7 +2138,7 @@
     "channel": "ketnet",
     "title": "De week van Karrewiet",
     "start": 1794159300000,
-    "end": 1794160200000,
+    "end": 1794159900000,
     "description": "Weekoverzicht van dit infomagazine voor de jeugd.",
     "category": [
       "Kids",
@@ -2131,6 +2161,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F40d963ad-da9b-4d6c-bee0-5e2497d9a92a"
+    }
+  },
+  {
+    "id": "ketnet:1794159900000:1ind05c",
+    "channel": "ketnet",
+    "title": "Athleticus Urban Games",
+    "start": 1794159900000,
+    "end": 1794160200000,
+    "description": "Een zeeleeuw-rolschaatskampioen gebruikt een flamingo als proefkonijn.",
+    "category": [
+      "Animatie",
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20899943~~2FEP054806600016%2Cimi%3A594363dc3c58c58a0674fbfe7f15e8429696331e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 16,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20899943~~2FEP054806600016,imi:594363dc3c58c58a0674fbfe7f15e8429696331e",
+      "episodeName": "Skates Show",
+      "genres": [
+        "Animatie",
+        "Comedy"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F15191163~~2FSH054806600000"
     }
   },
   {

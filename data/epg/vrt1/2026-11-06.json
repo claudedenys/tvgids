@@ -268,7 +268,7 @@
     "channel": "vrt1",
     "title": "Karrewiet met VGT",
     "start": 1793944800000,
-    "end": 1793945400000,
+    "end": 1793945100000,
     "description": "Infomagazine voor de jeugd. Getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
       "Actua"
@@ -292,11 +292,11 @@
     }
   },
   {
-    "id": "vrt1:1793945400000:1cd3zt1",
+    "id": "vrt1:1793945100000:1cd3zt1",
     "channel": "vrt1",
     "title": "Hallo Kroket",
-    "start": 1793945400000,
-    "end": 1793946300000,
+    "start": 1793945100000,
+    "end": 1793946000000,
     "description": "Dagelijkse liveshow waarin de KETNET-wrappers je meetrekken in de wereld van KETNET en die van de Ketnetters. Verwacht je aan bekende gasten, zotte primeurs, leuke optredens, spannende spelletjes en nog zo veel meer. HALLO KROKET!",
     "category": [
       "Spelprogramma",
@@ -322,11 +322,11 @@
     }
   },
   {
-    "id": "vrt1:1793946300000:1wu7k5",
+    "id": "vrt1:1793946000000:1wu7k5",
     "channel": "vrt1",
     "title": "Ket & Doc",
-    "start": 1793946300000,
-    "end": 1793947200000,
+    "start": 1793946000000,
+    "end": 1793946900000,
     "description": "Charlotte en Husna zijn beste vriendinnen. Ze wonen allebei in de Antwerpse wijk Luchtbal en spelen samen bij de voetbalclub City Pirates. Ze dromen allebei van een professionele voetbalcarrière.",
     "category": [
       "Docu"
@@ -350,11 +350,11 @@
     }
   },
   {
-    "id": "vrt1:1793947200000:1bk0l3d",
+    "id": "vrt1:1793946900000:1bk0l3d",
     "channel": "vrt1",
     "title": "Otis-Skate",
-    "start": 1793947200000,
-    "end": 1793948700000,
+    "start": 1793946900000,
+    "end": 1793948520000,
     "description": "Otis neemt afscheid van zijn leerlingen tijdens een laatste skateles. Thuis ontdekken Noor en Nadya de waarheid. Wat betekent dit voor zijn droomreis naar Australië?",
     "category": [
       "Dramaserie"
@@ -375,6 +375,36 @@
       "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27112160~~2FSH050862930000"
+    }
+  },
+  {
+    "id": "vrt1:1793948520000:usts0h",
+    "channel": "vrt1",
+    "title": "Videoclips #likeme",
+    "start": 1793948520000,
+    "end": 1793948700000,
+    "description": "De videoclip van 'Morgen wordt het beter' uit aflevering 11.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34116775~~2FEP056506200050%2Cimi%3A0d09d70a4b10cc3987db47c906e2800eec575621/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 22,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34116775~~2FEP056506200050,imi:0d09d70a4b10cc3987db47c906e2800eec575621",
+      "episodeName": "Morgen wordt het beter",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
     }
   },
   {

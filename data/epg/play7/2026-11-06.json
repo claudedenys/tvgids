@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1793922900000:1mgci6o",
+    "id": "play7:1793923200000:1mgci6o",
     "channel": "play7",
     "title": "Masterchef USA",
-    "start": 1793922900000,
-    "end": 1793926500000,
+    "start": 1793923200000,
+    "end": 1793926800000,
     "description": "De drie beste chefs moeten een driegangenmenu creëren, te beginnen met een voorgerecht.",
     "category": [
       "Koken",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1793926500000:rmqxmh",
+    "id": "play7:1793926800000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1793926500000,
-    "end": 1793930100000,
+    "start": 1793926800000,
+    "end": 1793929500000,
     "description": "Koppels zoeken hun droomhuis in het buitenland terwijl ze worden begeleid door een expert die hen helpt de perfecte plek in de zon te vinden.",
     "category": [
       "Huis & Tuin",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play7:1793930100000:48zb9",
+    "id": "play7:1793929500000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1793930100000,
-    "end": 1793937600000,
+    "start": 1793929500000,
+    "end": 1793937300000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6405ba31ba60f17922e9b4951e79c47dfb9118d7",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1793937300000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1793937300000,
+    "end": 1793937600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ce00c455e534c4dfcd20c07d17969841c03fd930",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -113,7 +137,7 @@
     "title": "Love Island UK",
     "start": 1793943000000,
     "end": 1793946600000,
-    "description": "Een dramatische dubbeldate stelt onderlinge banden zwaar op de proef. Finley krijgt te maken met de ingrijpende gevolgen van de dates; Simba besluit het initiatief te nemen en zijn hart op tafel te leggen.",
+    "description": "Een dramatische dubbeldate stelt onderlinge banden zwaar op de proef. Finley krijgt te maken met de ingrijpende gevolgen van de dates. Simba besluit het initiatief te nemen en zijn hart op tafel te leggen.",
     "category": [
       "Reality-competitie",
       "Romantiek"

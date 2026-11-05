@@ -1176,7 +1176,7 @@
     "channel": "ketnet",
     "title": "Karrewiet met VGT",
     "start": 1793963100000,
-    "end": 1793963700000,
+    "end": 1793963400000,
     "description": "Infomagazine voor de jeugd. Getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
       "Actua"
@@ -1200,10 +1200,10 @@
     }
   },
   {
-    "id": "ketnet:1793963700000:1f2tme3",
+    "id": "ketnet:1793963400000:1f2tme3",
     "channel": "ketnet",
     "title": "Wannabe's",
-    "start": 1793963700000,
+    "start": 1793963400000,
     "end": 1793964600000,
     "description": "Mike heeft voor het eerst een date met Vicky en hij is erg onzeker. Daarom stuurt hij erop aan dat Video King een tutorial maakt over hoe je moet daten. Zo kan hij stiekem de kneepjes leren.",
     "category": [
@@ -1324,7 +1324,7 @@
     "channel": "ketnet",
     "title": "100% Wolf: De legende van de maansteen",
     "start": 1793967600000,
-    "end": 1793969100000,
+    "end": 1793968800000,
     "description": "Ric schrijft de schoolkinderen in voor een obstakelparcourscompetitie waar meerdere scholen aan meedoen. Een peuter raakt vermist, en de competitie wordt onderbroken.",
     "category": [
       "Kids",
@@ -1347,6 +1347,34 @@
       "productionDate": "2020",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F19265561~~2FSH048416770000"
+    }
+  },
+  {
+    "id": "ketnet:1793968800000:mphott",
+    "channel": "ketnet",
+    "title": "Optredens in Hallo Kroket!",
+    "start": 1793968800000,
+    "end": 1793969100000,
+    "description": "Ertebrekers brengen hun hit Cocon live in de Ketnet-studio tijdens Hallo Kroket!",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34545413~~2FEP066890130005%2Cimi%3A510a5a0951a6dfc935190fae8136fb85bddc1c0e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 20,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34545413~~2FEP066890130005,imi:510a5a0951a6dfc935190fae8136fb85bddc1c0e",
+      "episodeName": "Ertebrekers - Cocon",
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34492624~~2FSH066890130000"
     }
   },
   {
@@ -2308,7 +2336,7 @@
     "channel": "ketnet",
     "title": "Karrewiet",
     "start": 1793984100000,
-    "end": 1793984700000,
+    "end": 1793984400000,
     "description": "Infomagazine voor de jeugd.",
     "category": [
       "Kids",
@@ -2334,11 +2362,11 @@
     }
   },
   {
-    "id": "ketnet:1793984700000:2udwcu",
+    "id": "ketnet:1793984400000:2udwcu",
     "channel": "ketnet",
     "title": "GameKeepers",
-    "start": 1793984700000,
-    "end": 1793986200000,
+    "start": 1793984400000,
+    "end": 1793985900000,
     "description": "Mats en Sari komen terecht in een dinoreservaat, waar ze het ei van een T-Rex in de broedmachine moeten leggen. Ze moeten niet alleen nachtwakers omzeilen, maar worden ook belaagd door moordzuchtige skeletten van dinosaurussen.",
     "category": [
       "Kids",
@@ -2361,6 +2389,36 @@
       "productionDate": "2021",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8f18b814-0b50-4ebc-ad0d-9a6373585d9b"
+    }
+  },
+  {
+    "id": "ketnet:1793985900000:1ind05c",
+    "channel": "ketnet",
+    "title": "Athleticus Urban Games",
+    "start": 1793985900000,
+    "end": 1793986200000,
+    "description": "Een struisvogel geeft een muzikale gymles, maar een brutale jonge olifant en giraffe grijpen met hun hoeven naar de muziekspeler, waardoor de les volledig uit de hand loopt!",
+    "category": [
+      "Animatie",
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20900404~~2FEP054806600024%2Cimi%3Ab6827ba57611881c9cbb55b78e07abef7e4ee03e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 24,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20900404~~2FEP054806600024,imi:b6827ba57611881c9cbb55b78e07abef7e4ee03e",
+      "episodeName": "Tonic Gym",
+      "genres": [
+        "Animatie",
+        "Comedy"
+      ],
+      "productionDate": "2022",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F15191163~~2FSH054806600000"
     }
   },
   {

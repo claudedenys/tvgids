@@ -212,7 +212,7 @@
     "channel": "vrt1",
     "title": "Karrewiet met VGT",
     "start": 1794031200000,
-    "end": 1794031800000,
+    "end": 1794031680000,
     "description": "Infomagazine voor de jeugd. Getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
       "Actua"
@@ -236,11 +236,11 @@
     }
   },
   {
-    "id": "vrt1:1794031800000:i76a47",
+    "id": "vrt1:1794031680000:i76a47",
     "channel": "vrt1",
     "title": "De regels van Floor",
-    "start": 1794031800000,
-    "end": 1794032100000,
+    "start": 1794031680000,
+    "end": 1794031980000,
     "description": "Regel: Als er iets van je gestolen is... Floor raakt in paniek als ze ontdekt dat ze haar horloge kwijt is. Juf Marja ziet de paniek in haar ogen en vraagt zich af of iemand Floors horloge heeft gestolen.",
     "category": [
       "Kids",
@@ -266,11 +266,11 @@
     }
   },
   {
-    "id": "vrt1:1794032100000:1h98ffm",
+    "id": "vrt1:1794031980000:1h98ffm",
     "channel": "vrt1",
     "title": "Zee in zicht",
-    "start": 1794032100000,
-    "end": 1794032880000,
+    "start": 1794031980000,
+    "end": 1794032760000,
     "description": "Onze Noordzee is een schatkamer van allerlei wonderlijke dingen, van vissen over krabben tot kwallen. Helaas bevat ons zeetje ook heel erg veel plastic. En plastic hoort, in tegenstelling tot al die dieren, niet thuis in de zee. Karen en haar collega Nelle leggen aan Nona uit hoe groot het plasticprobleem in de zee is en wat jij en ik eraan kunnen doen...",
     "category": [
       "Wetenschap"
@@ -294,11 +294,11 @@
     }
   },
   {
-    "id": "vrt1:1794032880000:usts0h",
+    "id": "vrt1:1794032760000:usts0h",
     "channel": "vrt1",
     "title": "Videoclips #likeme",
-    "start": 1794032880000,
-    "end": 1794033120000,
+    "start": 1794032760000,
+    "end": 1794033000000,
     "description": "Videoclips uit de Vlaamse fictiereeks '#LikeMe'.",
     "category": [
       "Avontuur",
@@ -324,11 +324,71 @@
     }
   },
   {
-    "id": "vrt1:1794033120000:p8c4k7",
+    "id": "vrt1:1794033000000:usts0h",
+    "channel": "vrt1",
+    "title": "Videoclips #likeme",
+    "start": 1794033000000,
+    "end": 1794033300000,
+    "description": "Clip #LikeMe van Reeks 05 Aflevering 01: #Firstimpressions - Ik ben verliefd op jou.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29707643~~2FEP056506200004%2Cimi%3A720189c4f4b88eb62df007793a42391233d68229/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29707643~~2FEP056506200004,imi:720189c4f4b88eb62df007793a42391233d68229",
+      "episodeName": "Duizend dromen worden waar",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
+    }
+  },
+  {
+    "id": "vrt1:1794033300000:usts0h",
+    "channel": "vrt1",
+    "title": "Videoclips #likeme",
+    "start": 1794033300000,
+    "end": 1794033600000,
+    "description": "Clip #LikeMe van Reeks 05 Aflevering 05: #Upcycling - Meisjes.",
+    "category": [
+      "Avontuur",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30269931~~2FEP056506200020%2Cimi%3A89d576d7cc3a9938b9199b68004e884d0a90c5f2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 11,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30269931~~2FEP056506200020,imi:89d576d7cc3a9938b9199b68004e884d0a90c5f2",
+      "episodeName": "Meisjes",
+      "genres": [
+        "Avontuur",
+        "Muziek"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
+    }
+  },
+  {
+    "id": "vrt1:1794033600000:p8c4k7",
     "channel": "vrt1",
     "title": "Grizzy & the Lemmings",
-    "start": 1794033120000,
-    "end": 1794033600000,
+    "start": 1794033600000,
+    "end": 1794033900000,
     "description": "Terwijl Grizzly en de Lemmingen ruzie maken over een pot chocoladepasta vinden ze stukjes chocola in goudpapier in de jungle. Ze ontdekken dat de chocola afkomstig is van een vrachtwagen en gaan op zoek naar de hele lading.",
     "category": [
       "Kids",
@@ -354,11 +414,11 @@
     }
   },
   {
-    "id": "vrt1:1794033600000:5q0gaz",
+    "id": "vrt1:1794033900000:5q0gaz",
     "channel": "vrt1",
     "title": "De Raad van Soekie",
-    "start": 1794033600000,
-    "end": 1794034500000,
+    "start": 1794033900000,
+    "end": 1794034800000,
     "description": "Soekie wil het onderwijssysteem veranderen en beslist dat de school elke dag om 6 uur begint en eindigt om 17 uur. Niemand is akkoord. Alle leerlingen hebben slaaptekort en slapen tijdens de les. Soekie houdt vol, want ze wil geschiedenis schrijven.",
     "category": [
       "Comedy"
@@ -382,11 +442,11 @@
     }
   },
   {
-    "id": "vrt1:1794034500000:1652mxb",
+    "id": "vrt1:1794034800000:1652mxb",
     "channel": "vrt1",
     "title": "De Hoppers",
-    "start": 1794034500000,
-    "end": 1794035400000,
+    "start": 1794034800000,
+    "end": 1794035700000,
     "description": "Er gebeuren 's nachts rare dingen in het Hopper-huis. Arno en Geert zijn ervan overtuigd dat het een spook is. Ze zijn superbang, maar willen toch proberen om het spook weg te jagen.",
     "category": [
       "Kids",
@@ -412,11 +472,11 @@
     }
   },
   {
-    "id": "vrt1:1794035400000:93mi5q",
+    "id": "vrt1:1794035700000:93mi5q",
     "channel": "vrt1",
     "title": "United",
-    "start": 1794035400000,
-    "end": 1794036600000,
+    "start": 1794035700000,
+    "end": 1794036900000,
     "description": "Hannes en Mira zijn een koppel. Hij durft haar niet te vertellen dat hij traint met pestkop Xander en naar Blauw Geel gaat volgend seizoen. Het gedrag langs de lijn van de papa van Loubna wordt erger en erger.",
     "category": [
       "Comedy"
@@ -440,11 +500,11 @@
     }
   },
   {
-    "id": "vrt1:1794036600000:4inlwk",
+    "id": "vrt1:1794036900000:4inlwk",
     "channel": "vrt1",
     "title": "Ghost Rockers: compilatie",
-    "start": 1794036600000,
-    "end": 1794039300000,
+    "start": 1794036900000,
+    "end": 1794039600000,
     "description": "Een compilatie van afleveringen 17 tot en met 20 van de Vlaamse fictiereeks, waarin de mysterieuze gebeurtenissen in een artiestenacademie centraal staan.",
     "category": [
       "Dramaserie",
@@ -470,11 +530,11 @@
     }
   },
   {
-    "id": "vrt1:1794039300000:1cp49r1",
+    "id": "vrt1:1794039600000:1cp49r1",
     "channel": "vrt1",
     "title": "Spellbound",
-    "start": 1794039300000,
-    "end": 1794040800000,
+    "start": 1794039600000,
+    "end": 1794041100000,
     "description": "Lola en Amy flippen helemaal nu ze erachter zijn gekomen dat Cece de Macbeth vloek heeft ontketend. Samen met Cece en Simone gaan ze op bezemkastjacht om de Wizen te vinden die de spreuk heeft bedacht.",
     "category": [
       "Dramaserie",
@@ -500,10 +560,10 @@
     }
   },
   {
-    "id": "vrt1:1794040800000:ne8lx9",
+    "id": "vrt1:1794041100000:ne8lx9",
     "channel": "vrt1",
     "title": "Zig & Sharko",
-    "start": 1794040800000,
+    "start": 1794041100000,
     "end": 1794041400000,
     "description": "Marina en Sharko hebben nog maar één yoghurt over. Uit beleefdheid neemt geen van beiden hem. Maar Sharko houdt het niet lang vol en bedenkt uiteindelijk om het stiekem op te eten.",
     "category": [
@@ -765,26 +825,26 @@
     "title": "Sporza: Veldrijden",
     "start": 1794059400000,
     "end": 1794064200000,
-    "description": "Verslag van het EK veldrijden in Middelkerke. Vrouwen elite.",
+    "description": "Verslag van de vrouwen elite op het EK veldrijden in Zeddam (Nederland)",
     "category": [
       "Sport",
       "Mountainbiken"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31520452~~2FEP048746440062%2Cimi%3Ab451b01060e77a848bb988410ba18fc2461d7cb6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34419451~~2FEP048746440094%2Cimi%3A358e1b5e5c590791dac9f529a165c18d22191415/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46440000,
-    "episode": 2025110862,
+    "episode": 2026110794,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31520452~~2FEP048746440062,imi:b451b01060e77a848bb988410ba18fc2461d7cb6",
-      "episodeName": "EK",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34419451~~2FEP048746440094,imi:358e1b5e5c590791dac9f529a165c18d22191415",
+      "episodeName": "Vrouwen elite",
       "genres": [
         "Sport",
         "Mountainbiken"
       ],
-      "productionDate": "2025",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25693160~~2FSH048746440000"
     }
