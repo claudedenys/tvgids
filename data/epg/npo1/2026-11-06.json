@@ -1,11 +1,11 @@
 [
   {
-    "id": "npo1:1793918700000:3776ld",
+    "id": "npo1:1793919000000:3776ld",
     "channel": "npo1",
     "title": "Eva",
-    "start": 1793918700000,
-    "end": 1793922300000,
-    "description": "Talkshow met Eva Jinek waarin de actualiteiten en cultuur centraal staan.",
+    "start": 1793919000000,
+    "end": 1793922600000,
+    "description": "Met in deze uitzending: * 36 uur na de historische nederlaag is het vingerwijzen bij de Republikeinen begonnen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/e/carrousel/eva-786360922.jpg",
     "icon": null,
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "npo1:1793922300000:1qmbii9",
+    "id": "npo1:1793922600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1793922300000,
-    "end": 1793923800000,
+    "start": 1793922600000,
+    "end": 1793924100000,
     "description": "Met sport: * Voetbal: samenvattingen Europese wedstrijden: -N.E.C.",
     "category": [
       "Actueel"
@@ -47,12 +47,12 @@
     }
   },
   {
-    "id": "npo1:1793923800000:1f3cpph",
+    "id": "npo1:1793924100000:1f3cpph",
     "channel": "npo1",
     "title": "Pauw & De Wit",
-    "start": 1793923800000,
-    "end": 1793926800000,
-    "description": "Talkshow over de actualiteit.",
+    "start": 1793924100000,
+    "end": 1793927100000,
+    "description": "Met in deze uitzending: * Een speciale uitzending met Mark Rutte, secretaris-generaal van de NAVO.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/p/carrousel/pauw-de-wit-786360652.jpg",
     "icon": null,
@@ -69,12 +69,12 @@
     }
   },
   {
-    "id": "npo1:1793926800000:1byfm7j",
+    "id": "npo1:1793927100000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1793926800000,
-    "end": 1793928300000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "start": 1793927100000,
+    "end": 1793928600000,
+    "description": "Met in deze uitzending: * KLM schrapt 5.000 banen: zo staat het ervoor met de vliegmaatschappij * Opnieuw...",
     "category": [
       "Actueel"
     ],
@@ -94,11 +94,11 @@
     }
   },
   {
-    "id": "npo1:1793928300000:1qmbii9",
+    "id": "npo1:1793928600000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1793928300000,
-    "end": 1793929500000,
+    "start": 1793928600000,
+    "end": 1793929800000,
     "description": "Met sport: * Voetbal: samenvattingen Europese wedstrijden: -N.E.C.",
     "category": [
       "Actueel"
@@ -119,12 +119,12 @@
     }
   },
   {
-    "id": "npo1:1793929500000:1qmbii9",
+    "id": "npo1:1793929800000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1793929500000,
+    "start": 1793929800000,
     "end": 1793940600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * KLM bezuinigt en schrapt 5000 banen.",
     "category": [
       "Actueel"
     ],
@@ -145,10 +145,10 @@
     }
   },
   {
-    "id": "npo1:1793941800000:1dw9gp4",
+    "id": "npo1:1793941500000:1dw9gp4",
     "channel": "npo1",
     "title": "MAX geheugentrainer",
-    "start": 1793941800000,
+    "start": 1793941500000,
     "end": 1793943000000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -295,7 +295,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1793944800000,
-    "end": 1793945400000,
+    "end": 1793945700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -315,10 +315,10 @@
     }
   },
   {
-    "id": "npo1:1793945400000:1qmbii9",
+    "id": "npo1:1793945700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1793945400000,
+    "start": 1793945700000,
     "end": 1793946600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -369,7 +369,7 @@
     "title": "Goedemorgen Nederland",
     "start": 1793947200000,
     "end": 1793948400000,
-    "description": "Ochtendshow. Actualiteit met een focus op politiek, economie, veiligheid en de Nederlandse identiteit.",
+    "description": "<span class=\"label label--updated\">Update</span> Te gast zijn Amber Brantsen, Mirjam Bikker, Mari Carmen Oudendijk en Gijs Scholten van Aschat...",
     "category": [
       "Actueel"
     ],
@@ -383,7 +383,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -417,7 +418,7 @@
     "title": "Goedemorgen Nederland",
     "start": 1793949000000,
     "end": 1793950200000,
-    "description": "Ochtendshow. Actualiteit met een focus op politiek, economie, veiligheid en de Nederlandse identiteit.",
+    "description": "<span class=\"label label--updated\">Update</span> Te gast zijn Amber Brantsen, Mirjam Bikker, Mari Carmen Oudendijk en Gijs Scholten van Aschat...",
     "category": [
       "Actueel"
     ],
@@ -431,7 +432,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -465,7 +467,7 @@
     "title": "Goedemorgen Nederland",
     "start": 1793950800000,
     "end": 1793952000000,
-    "description": "Ochtendshow. Actualiteit met een focus op politiek, economie, veiligheid en de Nederlandse identiteit.",
+    "description": "<span class=\"label label--updated\">Update</span> Te gast zijn Amber Brantsen, Mirjam Bikker, Mari Carmen Oudendijk en Gijs Scholten van Aschat...",
     "category": [
       "Actueel"
     ],
@@ -479,7 +481,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -513,7 +516,7 @@
     "title": "Goedemorgen Nederland",
     "start": 1793952600000,
     "end": 1793953800000,
-    "description": "Ochtendshow. Actualiteit met een focus op politiek, economie, veiligheid en de Nederlandse identiteit.",
+    "description": "<span class=\"label label--updated\">Update</span> Te gast zijn Amber Brantsen, Mirjam Bikker, Mari Carmen Oudendijk en Gijs Scholten van Aschat...",
     "category": [
       "Actueel"
     ],
@@ -527,7 +530,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -536,7 +540,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1793953800000,
-    "end": 1793954400000,
+    "end": 1793954700000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -557,10 +561,10 @@
     }
   },
   {
-    "id": "npo1:1793954400000:1qmbii9",
+    "id": "npo1:1793954700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1793954400000,
+    "start": 1793954700000,
     "end": 1793955600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -719,8 +723,8 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1793962800000,
-    "end": 1793963700000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "end": 1793964000000,
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * \"Geef oudere longpatiënt RS-vaccin\" * Nachtvorst: schaatsen in Winterswijk *.....",
     "category": [
       "Actueel"
     ],
@@ -734,17 +738,18 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
   {
-    "id": "npo1:1793963700000:1qmbii9",
+    "id": "npo1:1793964000000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1793963700000,
+    "start": 1793964000000,
     "end": 1793964600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * \"Geef oudere longpatiënt RS-vaccin\" * Nachtvorst: schaatsen in Winterswijk *...",
     "category": [
       "Actueel"
     ],
@@ -769,7 +774,7 @@
     "title": "NOS Journaal",
     "start": 1793964600000,
     "end": 1793965200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * \"Geef oudere longpatiënt RS-vaccin\" * Nachtvorst: schaatsen in Winterswijk *...",
     "category": [
       "Actueel"
     ],
@@ -794,7 +799,7 @@
     "title": "NOS Journaal",
     "start": 1793965200000,
     "end": 1793966400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * \"Geef oudere longpatiënt RS-vaccin\" * Nachtvorst: schaatsen in Winterswijk *...",
     "category": [
       "Actueel"
     ],
@@ -818,12 +823,12 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1793966400000,
-    "end": 1793967600000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "end": 1793967900000,
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * \"Geef oudere longpatiënt RS-vaccin\" * Nachtvorst: schaatsen in Winterswijk *.....",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v389/upload/n/carrousel/nos-journaal-786923532.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -833,15 +838,16 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
   {
-    "id": "npo1:1793967600000:vg9k6u",
+    "id": "npo1:1793967900000:vg9k6u",
     "channel": "npo1",
     "title": "Bak mee met MAX",
-    "start": 1793967600000,
+    "start": 1793967900000,
     "end": 1793968500000,
     "description": "Toegankelijke en inspirerende lekkernijen worden bereid.",
     "category": [],
@@ -865,7 +871,7 @@
     "title": "NOS Journaal",
     "start": 1793968500000,
     "end": 1793970000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * \"Geef oudere longpatiënt RS-vaccin\" * Nachtvorst: schaatsen in Winterswijk *...",
     "category": [
       "Actueel"
     ],
@@ -889,7 +895,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1793970000000,
-    "end": 1793970900000,
+    "end": 1793971200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -909,10 +915,10 @@
     }
   },
   {
-    "id": "npo1:1793970900000:1qmbii9",
+    "id": "npo1:1793971200000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1793970900000,
+    "start": 1793971200000,
     "end": 1793971800000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -1078,9 +1084,9 @@
     "title": "Tijd voor MAX",
     "start": 1793981400000,
     "end": 1793984160000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Herman Koch is genomineerd voor de NS Publieksprijs met zijn boek 'De Overbodigen'...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/t/carrousel/tijd-voor-max-786923832.jpg",
+    "image": "https://tvgidsassets.nl/v389/upload/t/carrousel/tijd-voor-max-795673722.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1088,7 +1094,9 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
@@ -1121,7 +1129,7 @@
     "end": 1793984400000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/p/carrousel/politieke-partijen-792499622.jpg",
+    "image": "https://tvgidsassets.nl/v389/upload/p/carrousel/politieke-partijen-792499602.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1129,10 +1137,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
+      "labels": []
     }
   },
   {
@@ -1165,7 +1170,7 @@
     "title": "Sportjournaal",
     "start": 1793985300000,
     "end": 1793986200000,
-    "description": "Aandacht voor het laatste sportnieuws.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Voetbal: vooraf eredivisie * Veldrijden: vooruitblik EK.....",
     "category": [
       "Sport"
     ],
@@ -1179,7 +1184,8 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "sport",
+        "updated"
       ]
     }
   },
@@ -1237,7 +1243,7 @@
     "title": "Carrie op vrijdag",
     "start": 1793988300000,
     "end": 1793991600000,
-    "description": "Carrie ten Napel ontvangt in haar clubhuis verschillende gasten.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending * Guus Hiddink wordt zondag 80...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/c/carrousel/carrie-op-vrijdag-786924082.jpg",
     "icon": null,
@@ -1247,7 +1253,9 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
@@ -1327,10 +1335,10 @@
     "channel": "npo1",
     "title": "De slimste mens",
     "start": 1793997600000,
-    "end": 1794000600000,
-    "description": "De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om...",
+    "end": 1794000900000,
+    "description": "Wie wordt De Slimste Mens van dit seizoen?",
     "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/de-slimste-mens-786682732.jpg",
+    "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/deslimstemensfrankvanleeuwenfinalekroncrv.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1338,15 +1346,18 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "tip"
+      ]
     }
   },
   {
-    "id": "npo1:1794000600000:1xgkm7h",
+    "id": "npo1:1794000900000:1xgkm7h",
     "channel": "npo1",
     "title": "Keuringsdienst van waarde",
-    "start": 1794000600000,
-    "end": 1794002700000,
+    "start": 1794000900000,
+    "end": 1794003000000,
     "description": "PFAS komt terug in zo'n beetje alle te consumeren producten en in de Keuringsdienst van Waarde wordt onderzocht...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/k/carrousel/keuringsdienst-van-waarde-786681592.jpg",
@@ -1364,11 +1375,11 @@
     }
   },
   {
-    "id": "npo1:1794002700000:tc69gi",
+    "id": "npo1:1794003000000:tc69gi",
     "channel": "npo1",
     "title": "Studio sport voetbal",
-    "start": 1794002700000,
-    "end": 1794004800000,
+    "start": 1794003000000,
+    "end": 1794005100000,
     "description": "Samenvatting van het Eredivisieduel Willem II - PEC Zwolle.",
     "category": [
       "Sport"
@@ -1388,11 +1399,11 @@
     }
   },
   {
-    "id": "npo1:1794004800000:1qmbii9",
+    "id": "npo1:1794005100000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1794004800000,
-    "end": 1794006600000,
+    "start": 1794005100000,
+    "end": 1794006900000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"

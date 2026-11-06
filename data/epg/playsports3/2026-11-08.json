@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1794094620000:1va4v2m",
+    "id": "playsports3:1794094560000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1794094620000,
-    "end": 1794101100000,
+    "start": 1794094560000,
+    "end": 1794101040000,
     "description": "Verslag van de wedstrijd Ajax - AZ uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports3:1794101100000:xykime",
+    "id": "playsports3:1794101040000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1794101100000,
+    "start": 1794101040000,
     "end": 1794118500000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -62,7 +62,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1794118500000,
-    "end": 1794124680000,
+    "end": 1794124560000,
     "description": "Verslag van de wedstrijd PSV - Willem II uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1794124680000:1va4v2m",
+    "id": "playsports3:1794124560000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1794124680000,
-    "end": 1794131100000,
+    "start": 1794124560000,
+    "end": 1794131040000,
     "description": "Verslag van de wedstrijd Feyenoord - Fortuna Sittard uit de 11e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports3:1794131100000:29x1rm",
+    "id": "playsports3:1794131040000:29x1rm",
     "channel": "playsports3",
     "title": "UEFA Youth League",
-    "start": 1794131100000,
-    "end": 1794137400000,
+    "start": 1794131040000,
+    "end": 1794137340000,
     "description": "Verslag van de wedstrijd Atlético Madrid - Bayern München, gespeeld in de competitiefase van de UEFA Youth League.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports3:1794137400000:16v40h",
+    "id": "playsports3:1794137340000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1794137400000,
+    "start": 1794137340000,
     "end": 1794144000000,
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
@@ -238,33 +238,63 @@
     }
   },
   {
-    "id": "playsports3:1794153600000:1p3n9ye",
+    "id": "playsports3:1794153600000:i67pjl",
     "channel": "playsports3",
-    "title": "UEFA Champions League Highlights",
+    "title": "Play Sports Highlights",
     "start": 1794153600000,
-    "end": 1794156000000,
-    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "end": 1794155100000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34461122~~2FEP052508440041%2Cimi%3Afa22436f68a6706f49e849d1acc37aba47813caa/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575962154%2Cimi%3Ac20ea84b2f1ccb41c46167fddca74f990bcd77f3/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102026,
-    "episode": 9,
+    "season": 50390000,
+    "episode": 575962154,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34461122~~2FEP052508440041,imi:fa22436f68a6706f49e849d1acc37aba47813caa",
-      "episodeName": "Aflevering 9",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575962154,imi:c20ea84b2f1ccb41c46167fddca74f990bcd77f3",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports3:1794155100000:11quqlf",
+    "channel": "playsports3",
+    "title": "The Paddock On Tour",
+    "start": 1794155100000,
+    "end": 1794156000000,
+    "description": "Dennis Xhaët en Sam Dejonghe trokken opnieuw naar West-Vlaanderen voor een trip down memory lane. Auto's op afstandsbediening of RC-racing, hoe moeilijk is dat nu echt?",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007%2Cimi%3Af5eb4646318c4e14602bab848b011023a700198a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34233630~~2FEP060553550007,imi:f5eb4646318c4e14602bab848b011023a700198a",
+      "episodeName": "RC Racing",
+      "genres": [
+        "Sport",
+        "Motorsport"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28067800~~2FSH052508440000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31245695~~2FSH060553550000"
     }
   },
   {

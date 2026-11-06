@@ -732,39 +732,11 @@
     }
   },
   {
-    "id": "vrt1:1794144000000:485hmo",
-    "channel": "vrt1",
-    "title": "Clips",
-    "start": 1794144000000,
-    "end": 1794144600000,
-    "description": "Clips.",
-    "category": [
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16954694~~2FSH032321380000~~2F573195003%2Cimi%3A26471c912320be92b9e8b8c91298ec504e20094b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 21380000,
-    "episode": 573195003,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F16954694~~2FSH032321380000~~2F573195003,imi:26471c912320be92b9e8b8c91298ec504e20094b",
-      "episodeName": null,
-      "genres": [
-        "Entertainment"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F4face6bf-4d53-4a33-8cba-34715311b75b"
-    }
-  },
-  {
-    "id": "vrt1:1794144600000:14zi71g",
+    "id": "vrt1:1794144000000:14zi71g",
     "channel": "vrt1",
     "title": "Dierendokters 24/7",
-    "start": 1794144600000,
-    "end": 1794145800000,
+    "start": 1794144000000,
+    "end": 1794145200000,
     "description": "Het veulen van merrie Electra heeft na de geboorte niet genoeg goede biestmelk gekregen en ze is daardoor heel vatbaar voor infecties. Speurhond Dokus wordt wel eens ingezet om vermiste personen terug te vinden, maar het gaat niet goed met hem.",
     "category": [
       "Docu",
@@ -790,10 +762,10 @@
     }
   },
   {
-    "id": "vrt1:1794145800000:jh1745",
+    "id": "vrt1:1794145200000:jh1745",
     "channel": "vrt1",
     "title": "Sporza: Veldrijden",
-    "start": 1794145800000,
+    "start": 1794145200000,
     "end": 1794151500000,
     "description": "Verslag van de mannen elite op het EK veldrijden in Zeddam (Nederland)",
     "category": [

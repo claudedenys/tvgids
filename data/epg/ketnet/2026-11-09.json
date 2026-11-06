@@ -234,7 +234,7 @@
     "channel": "ketnet",
     "title": "Dropje",
     "start": 1794202500000,
-    "end": 1794203100000,
+    "end": 1794202800000,
     "description": "Dropje viert zijn verjaardag met een zelfgemaakte kroon en een hele grote taart.",
     "category": [
       "Kids",
@@ -257,6 +257,36 @@
       "productionDate": "2019",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fed15498d-2873-4d20-8261-f3d42fb6e85b"
+    }
+  },
+  {
+    "id": "ketnet:1794202800000:1nn27y8",
+    "channel": "ketnet",
+    "title": "Toet Toet Cory Carson",
+    "start": 1794202800000,
+    "end": 1794203100000,
+    "description": "Cory sluipt weg om stiekem met zijn vriendjes een griezelige film kijken. Maar als hij 's nachts bang wordt van schaduwen en geluiden in de kamer, heeft hij spijt van zijn beslissing.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19274428~~2FEP037673630015%2Cimi%3Af4e42ae93374dc31d8e4326db426f56715473b68/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19274428~~2FEP037673630015,imi:f4e42ae93374dc31d8e4326db426f56715473b68",
+      "episodeName": "Tienermonstertruck",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17710822~~2FSH037673630000"
     }
   },
   {
@@ -532,7 +562,7 @@
     "channel": "ketnet",
     "title": "Draken: beschermers van Berk",
     "start": 1794207600000,
-    "end": 1794209100000,
+    "end": 1794208800000,
     "description": "Hikkie en Astrid willen een gloeiende draak vinden die elk decennium verschijnt.",
     "category": [
       "Kids",
@@ -555,6 +585,34 @@
       "productionDate": "2013",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F46024b60-efdd-4b14-b41b-208d8adb30e9"
+    }
+  },
+  {
+    "id": "ketnet:1794208800000:mphott",
+    "channel": "ketnet",
+    "title": "Optredens in Hallo Kroket!",
+    "start": 1794208800000,
+    "end": 1794209100000,
+    "description": "Admiral Freebee brengt zijn nieuwe nummer The Dog That Never Dies live in de Ketnet-studio tijdens Hallo Kroket!",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34557198~~2FEP066890130008%2Cimi%3A5cd097a51f98bb6e2766f92b63fa57f41befbab6/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 22,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34557198~~2FEP066890130008,imi:5cd097a51f98bb6e2766f92b63fa57f41befbab6",
+      "episodeName": "Admiral Freebee - The dog that never dies",
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34492624~~2FSH066890130000"
     }
   },
   {
@@ -622,7 +680,7 @@
     "channel": "ketnet",
     "title": "De week van Karrewiet met VGT",
     "start": 1794210300000,
-    "end": 1794210900000,
+    "end": 1794210600000,
     "description": "Weekoverzicht van dit infomagazine voor de jeugd getolkt in Vlaamse Gebarentaal (VGT).",
     "category": [
       "Kids",
@@ -645,6 +703,34 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F71d4aac3-8111-46ce-a7cb-5bc0f5a0e386"
+    }
+  },
+  {
+    "id": "ketnet:1794210600000:mphott",
+    "channel": "ketnet",
+    "title": "Optredens in Hallo Kroket!",
+    "start": 1794210600000,
+    "end": 1794210900000,
+    "description": "K3 brengt hun hit Goden live in de Ketnet-studio tijdens Hallo Kroket!",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34492633~~2FEP066890130002%2Cimi%3A15c48d6d1f7462d17c7265e6a2635b84998386c7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34492633~~2FEP066890130002,imi:15c48d6d1f7462d17c7265e6a2635b84998386c7",
+      "episodeName": "K3 - Goden",
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34492624~~2FSH066890130000"
     }
   },
   {
@@ -2652,7 +2738,7 @@
     "channel": "ketnet",
     "title": "Lettersoep",
     "start": 1794246300000,
-    "end": 1794247800000,
+    "end": 1794247500000,
     "description": "Retage en Josefien uit Antwerpen, een duo van muziek en boeken, nemen het op tegen Viktor en Mirko, een verrassende mix van debatteren en muziek maken.",
     "category": [
       "Spelprogramma",
@@ -2675,6 +2761,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31441768~~2FSH061044090000"
+    }
+  },
+  {
+    "id": "ketnet:1794247500000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1794247500000,
+    "end": 1794247800000,
+    "description": "Grizzy wordt wakker na een dutje en is uitgehongerd. Dan blijkt de laatste pot Yummy chocoladepasta leeg te zijn en Grizzy komt op het idee om chocoladepoeder te mengen met kokosmelk. De Lemmings, die net zo gulzig zijn, willen hun deel van de drank.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19936636~~2FEP041241250158%2Cimi%3A140f57ffc71006a0e06039f6a7ecbde7c6c2a91a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 15,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19936636~~2FEP041241250158,imi:140f57ffc71006a0e06039f6a7ecbde7c6c2a91a",
+      "episodeName": "Aflevering 15",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {

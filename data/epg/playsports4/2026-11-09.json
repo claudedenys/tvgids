@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports4:1794182400000:17dve15",
+    "id": "playsports4:1794177780000:10r7t8e",
+    "channel": "playsports4",
+    "title": "Superprestige Veldrijden",
+    "start": 1794177780000,
+    "end": 1794182580000,
+    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
+    "category": [
+      "Sport",
+      "Wielrennen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34482702~~2FEP054141920060%2Cimi%3Ae4ee4e0acef93c7b3549c4283d5bb47a4ad00156/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 41920000,
+    "episode": 2026110560,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34482702~~2FEP054141920060,imi:e4ee4e0acef93c7b3549c4283d5bb47a4ad00156",
+      "episodeName": "Middelkerke: Mannen",
+      "genres": [
+        "Sport",
+        "Wielrennen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27079673~~2FSH054141920000"
+    }
+  },
+  {
+    "id": "playsports4:1794182580000:17dve15",
     "channel": "playsports4",
     "title": "Tennis: Ningbo Open 2026",
-    "start": 1794182400000,
-    "end": 1794189180000,
+    "start": 1794182580000,
+    "end": 1794189240000,
     "description": null,
     "category": [
       "Sport",
@@ -30,10 +60,10 @@
     }
   },
   {
-    "id": "playsports4:1794189180000:xykime",
+    "id": "playsports4:1794189240000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1794189180000,
+    "start": 1794189240000,
     "end": 1794204000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [

@@ -1,10 +1,10 @@
 [
   {
-    "id": "play6:1794090300000:kbah07",
+    "id": "play6:1794090600000:kbah07",
     "channel": "play6",
     "title": "Blade Runner",
-    "start": 1794090300000,
-    "end": 1794098400000,
+    "start": 1794090600000,
+    "end": 1794098700000,
     "description": "Paul Deckard, een politieagent gespecialiseerd in het opsporen van androïden die als twee druppels water op echte mensen lijken, jaagt in een donker en dystopisch Los Angeles op vier weggelopen replica's die een gevaar voor de aarde vormen.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1794098400000:12zxnez",
+    "id": "play6:1794098700000:12zxnez",
     "channel": "play6",
     "title": "The Girl in the Spider's Web",
-    "start": 1794098400000,
-    "end": 1794105600000,
+    "start": 1794098700000,
+    "end": 1794105300000,
     "description": "De briljante hacker Lisbeth Salander moet gestolen nucleaire codes terug zien te vinden. Zij moet het opnemen tegen de meedogenloze misdaadorganisatie The Spiders, en wordt geconfronteerd met een oude bekende uit haar verleden.",
     "category": [
       "Film",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play6:1794105600000:48zb9",
+    "id": "play6:1794105300000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1794105600000,
-    "end": 1794110400000,
+    "start": 1794105300000,
+    "end": 1794110160000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c26862b0289019b9697c2d4c5cb794151e8dc168",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1794110160000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1794110160000,
+    "end": 1794110400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:4bf6b364ea0ac406350e0435f483e4b5d0c5b0de",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

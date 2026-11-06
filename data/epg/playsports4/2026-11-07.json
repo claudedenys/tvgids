@@ -64,7 +64,7 @@
     "channel": "playsports4",
     "title": "Play Sports",
     "start": 1794018000000,
-    "end": 1794030600000,
+    "end": 1794030900000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1794030600000:3y5tln",
+    "id": "playsports4:1794030900000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1794030600000,
-    "end": 1794034680000,
+    "start": 1794030900000,
+    "end": 1794034980000,
     "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1794034680000:8a2n92",
+    "id": "playsports4:1794034980000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1794034680000,
-    "end": 1794040980000,
+    "start": 1794034980000,
+    "end": 1794041280000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1794040980000:8a2n92",
+    "id": "playsports4:1794041280000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1794040980000,
-    "end": 1794047700000,
+    "start": 1794041280000,
+    "end": 1794048120000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -178,70 +178,40 @@
     }
   },
   {
-    "id": "playsports4:1794047700000:10r7t8e",
+    "id": "playsports4:1794048120000:1ng6s",
     "channel": "playsports4",
-    "title": "Superprestige Veldrijden",
-    "start": 1794047700000,
-    "end": 1794051600000,
-    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
+    "title": "BNXT League",
+    "start": 1794048120000,
+    "end": 1794056520000,
+    "description": "Verslaggeving van de Belgische en Nederlandse basketbalkampioenschappen.",
     "category": [
       "Sport",
-      "Wielrennen"
+      "Basketbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34482697~~2FEP054141920059%2Cimi%3Abc9f7760d9a774607d08e0956eb52f2fb64be837/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34359269~~2FEP039991360286%2Cimi%3A48102ecd1240ee5e8720b0b8c366f11aa79f42f7/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 41920000,
-    "episode": 2026110559,
+    "season": 91360000,
+    "episode": 2026102386,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34482697~~2FEP054141920059,imi:bc9f7760d9a774607d08e0956eb52f2fb64be837",
-      "episodeName": "Middelkerke: Vrouwen",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34359269~~2FEP039991360286,imi:48102ecd1240ee5e8720b0b8c366f11aa79f42f7",
+      "episodeName": "Charleroi - Filou Oostende",
       "genres": [
         "Sport",
-        "Wielrennen"
+        "Basketbal"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27079673~~2FSH054141920000"
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
     }
   },
   {
-    "id": "playsports4:1794051600000:10r7t8e",
-    "channel": "playsports4",
-    "title": "Superprestige Veldrijden",
-    "start": 1794051600000,
-    "end": 1794056400000,
-    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
-    "category": [
-      "Sport",
-      "Wielrennen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34482702~~2FEP054141920060%2Cimi%3A0683215244407fddc63ce0626c6a561bcc87f033/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 41920000,
-    "episode": 2026110560,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34482702~~2FEP054141920060,imi:0683215244407fddc63ce0626c6a561bcc87f033",
-      "episodeName": "Middelkerke: Mannen",
-      "genres": [
-        "Sport",
-        "Wielrennen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27079673~~2FSH054141920000"
-    }
-  },
-  {
-    "id": "playsports4:1794056400000:17dve15",
+    "id": "playsports4:1794056520000:17dve15",
     "channel": "playsports4",
     "title": "Tennis: Ningbo Open 2026",
-    "start": 1794056400000,
+    "start": 1794056520000,
     "end": 1794063300000,
     "description": null,
     "category": [
@@ -302,7 +272,7 @@
     "channel": "playsports4",
     "title": "MIDMID",
     "start": 1794070500000,
-    "end": 1794076800000,
+    "end": 1794076860000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Aimé Anthuenis.",
     "category": [
       "Voetbal",
@@ -328,11 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1794076800000:9elx6q",
+    "id": "playsports4:1794076860000:9elx6q",
     "channel": "playsports4",
     "title": "Europa & Conference League",
-    "start": 1794076800000,
-    "end": 1794078300000,
+    "start": 1794076860000,
+    "end": 1794078360000,
     "description": "Samenvattingen van alle wedstrijden uit de Europa League en Conference League.",
     "category": [
       "Sport",
@@ -358,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1794078300000:17dve15",
+    "id": "playsports4:1794078360000:17dve15",
     "channel": "playsports4",
     "title": "Tennis: Ningbo Open 2026",
-    "start": 1794078300000,
-    "end": 1794083460000,
+    "start": 1794078360000,
+    "end": 1794083580000,
     "description": null,
     "category": [
       "Sport",
@@ -388,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1794083460000:17dve15",
+    "id": "playsports4:1794083580000:17dve15",
     "channel": "playsports4",
     "title": "Tennis: Ningbo Open 2026",
-    "start": 1794083460000,
-    "end": 1794090240000,
+    "start": 1794083580000,
+    "end": 1794090300000,
     "description": null,
     "category": [
       "Sport",
@@ -418,11 +388,11 @@
     }
   },
   {
-    "id": "playsports4:1794090240000:10r7t8e",
+    "id": "playsports4:1794090300000:10r7t8e",
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
-    "start": 1794090240000,
-    "end": 1794094140000,
+    "start": 1794090300000,
+    "end": 1794094200000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
       "Sport",

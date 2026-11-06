@@ -63,11 +63,11 @@
     }
   },
   {
-    "id": "rtl8:1793943000000:16iekd8",
+    "id": "rtl8:1793943060000:16iekd8",
     "channel": "rtl8",
     "title": "Teleshop 8: Telvero",
-    "start": 1793943000000,
-    "end": 1793961000000,
+    "start": 1793943060000,
+    "end": 1793961060000,
     "description": "Homeshoppingprogramma.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/t/carrousel/teleshop-8-telvero-783197192.jpg",
@@ -85,14 +85,14 @@
     }
   },
   {
-    "id": "rtl8:1793961000000:16iekd8",
+    "id": "rtl8:1793961060000:16iekd8",
     "channel": "rtl8",
     "title": "Teleshop 8: Telvero",
-    "start": 1793961000000,
-    "end": 1793979000000,
+    "start": 1793961060000,
+    "end": 1793979600000,
     "description": "Homeshoppingprogramma.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/t/carrousel/teleshop-8-telvero-783197192.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -107,11 +107,11 @@
     }
   },
   {
-    "id": "rtl8:1793979000000:19cuq2h",
+    "id": "rtl8:1793979600000:19cuq2h",
     "channel": "rtl8",
     "title": "Goede tijden, slechte tijden",
-    "start": 1793979000000,
-    "end": 1793980800000,
+    "start": 1793979600000,
+    "end": 1793981340000,
     "description": "Soapserie over de perikelen rondom verschillende families in het plaatsje Meerdijk.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/g/carrousel/goede-tijden-slechte-tijden-787442512.jpg",
@@ -129,11 +129,11 @@
     }
   },
   {
-    "id": "rtl8:1793980800000:1y76a8y",
+    "id": "rtl8:1793981340000:1y76a8y",
     "channel": "rtl8",
     "title": "Undercover boss USA",
-    "start": 1793980800000,
-    "end": 1793984700000,
+    "start": 1793981340000,
+    "end": 1793984760000,
     "description": "Operationeel directeur Courtland Gray van Peavey Electronics bereidt zich voor om ooit de leiding over te nemen van...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/u/carrousel/undercover-boss-usa-781763412.jpg",
@@ -151,11 +151,11 @@
     }
   },
   {
-    "id": "rtl8:1793984700000:ql0xto",
+    "id": "rtl8:1793984760000:ql0xto",
     "channel": "rtl8",
     "title": "The bold and the beautiful",
-    "start": 1793984700000,
-    "end": 1793986200000,
+    "start": 1793984760000,
+    "end": 1793986380000,
     "description": "Darcy herinnert Dylan eraan dat ze Katies goedkeuring niet nodig heeft.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/t/carrousel/the-bold-and-the-beautiful-786839902.jpg",
@@ -170,10 +170,10 @@
     }
   },
   {
-    "id": "rtl8:1793986200000:fyzl8w",
+    "id": "rtl8:1793986380000:fyzl8w",
     "channel": "rtl8",
     "title": "Christmas Scavenger Hunt",
-    "start": 1793986200000,
+    "start": 1793986380000,
     "end": 1793993100000,
     "description": "Makelaar Belinda is voor haar werk terug in haar geboorteplaats.",
     "category": [],
@@ -193,7 +193,7 @@
     "channel": "rtl8",
     "title": "Rocky Mountain Christmas",
     "start": 1793993100000,
-    "end": 1793999700000,
+    "end": 1793999460000,
     "description": "Als haar relatiebreuk met een beroemde techondernemer landelijk nieuws wordt, keert Sarah terug naar de ranch van...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/r/carrousel/rocky-mountain-christmas-788217172.jpg",
@@ -208,11 +208,11 @@
     }
   },
   {
-    "id": "rtl8:1793999700000:1mgk0l0",
+    "id": "rtl8:1793999460000:1mgk0l0",
     "channel": "rtl8",
     "title": "Reporting For Christmas",
-    "start": 1793999700000,
-    "end": 1794006000000,
+    "start": 1793999460000,
+    "end": 1794005760000,
     "description": "Mary Romero wil als onderzoeksjournalist werken, maar ze krijgt van haar baas de opdracht een kerstverhaal te...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/r/carrousel/reporting-for-christmas-786678522.jpg",
@@ -224,6 +224,28 @@
     "live": false,
     "meta": {
       "labels": []
+    }
+  },
+  {
+    "id": "rtl8:1794005760000:1z0y89z",
+    "channel": "rtl8",
+    "title": "Crime scene investigation",
+    "start": 1794005760000,
+    "end": 1794009480000,
+    "description": "David Philips gaat naar een reünie van de middelbare school.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v389/upload/c/carrousel/crime-scene-investigation-787549922.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   }
 ]

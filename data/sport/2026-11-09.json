@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1794185580000:xykime",
+    "id": "sport:playsports1:1794185520000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794185580000,
+    "start": 1794185520000,
     "end": 1794204000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -184,15 +184,38 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794182400000:17dve15",
+    "id": "sport:playsports4:1794177780000:10r7t8e",
+    "externalId": null,
+    "title": "Middelkerke: Mannen",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Wielrennen",
+    "start": 1794177780000,
+    "end": 1794182580000,
+    "status": "aankomend",
+    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1794182580000:17dve15",
     "externalId": null,
     "title": "Dag 6: Halve finale",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1794182400000,
-    "end": 1794189180000,
+    "start": 1794182580000,
+    "end": 1794189240000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -207,14 +230,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794189180000:xykime",
+    "id": "sport:playsports4:1794189240000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794189180000,
+    "start": 1794189240000,
     "end": 1794204000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -667,15 +690,15 @@
     ]
   },
   {
-    "id": "sport:match:1794178980000:aston villa - fulham",
+    "id": "sport:match:1794178920000:aston villa - fulham",
     "externalId": null,
     "title": "Aston Villa - Fulham",
     "home": "Aston Villa",
     "away": "Fulham",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1794178980000,
-    "end": 1794185580000,
+    "start": 1794178920000,
+    "end": 1794185520000,
     "status": "aankomend",
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "source": "epg",
