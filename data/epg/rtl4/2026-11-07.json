@@ -5,7 +5,7 @@
     "title": "Renze",
     "start": 1794005940000,
     "end": 1794009780000,
-    "description": "Talkshow waarin Renze Klamer iedere werkdag met relevante gasten het nieuws van de dag uit binnen- en buitenland...",
+    "description": "Met in deze uitzending: * Loiza Lamers schuift aan met haar nieuws van de dag.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/r/carrousel/renze-781759612.jpg",
     "icon": null,
@@ -49,7 +49,7 @@
     "title": "RTL Boulevard",
     "start": 1794011700000,
     "end": 1794014340000,
-    "description": "Dagelijkse mix van actualiteiten, vermaak en opinies met een of twee deskundigen, gasten of andere nieuwsmakers.",
+    "description": "Met in deze uitzending: * Roy Donders en Michelle Bibi zetten na bijna 5 jaar punt achter relatie: 'Denken dat dit...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/r/carrousel/rtl-boulevard-781267452.jpg",
     "icon": null,
@@ -554,7 +554,7 @@
     "end": 1794050880000,
     "description": "Lifestylemagazine waarin Chimène van Oosterhout en Els van Roode de kijker meenemen naar de mooiste plekken in...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/n/carrousel/nederland-ontdekt-784024732.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -721,7 +721,7 @@
     "channel": "rtl4",
     "title": "De cruise familie",
     "start": 1794065280000,
-    "end": 1794067020000,
+    "end": 1794067080000,
     "description": "Het avontuur van de familie Ewbank begint in Barcelona, waar drie generaties voor het eerst aan boord stappen van MSC...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/de-cruise-familie-787050592.jpg",
@@ -736,11 +736,11 @@
     }
   },
   {
-    "id": "rtl4:1794067020000:1uyts6o",
+    "id": "rtl4:1794067080000:1uyts6o",
     "channel": "rtl4",
     "title": "Cruise life",
-    "start": 1794067020000,
-    "end": 1794068880000,
+    "start": 1794067080000,
+    "end": 1794068940000,
     "description": "Chimène maakt een cruise naar IJsland en bezoekt onder andere de Blue Lagoon en Reykjavik.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/c/carrousel/cruise-life-784024312.jpg",
@@ -755,10 +755,10 @@
     }
   },
   {
-    "id": "rtl4:1794068880000:1grdy07",
+    "id": "rtl4:1794068940000:1grdy07",
     "channel": "rtl4",
     "title": "Snaakse streken",
-    "start": 1794068880000,
+    "start": 1794068940000,
     "end": 1794070800000,
     "description": "Wietze Snaak bezoekt zijn wijnvrienden en laat zien hoe geschiedenis, landschap en lokale (eet)cultuur verbonden zijn...",
     "category": [],
@@ -936,7 +936,7 @@
     "channel": "rtl4",
     "title": "Nederlands domste",
     "start": 1794081660000,
-    "end": 1794086400000,
+    "end": 1794086700000,
     "description": "Tien bekende Nederlanders strijden tegen elkaar om zo snel mogelijk naar huis gestuurd te worden, zodat ze niet...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/n/carrousel/nederlands-domste-787050572.jpg",
@@ -951,14 +951,14 @@
     }
   },
   {
-    "id": "rtl4:1794086400000:g2lxyo",
+    "id": "rtl4:1794086700000:1bsghw9",
     "channel": "rtl4",
-    "title": "Bureau Groningen",
-    "start": 1794086400000,
-    "end": 1794090540000,
-    "description": "Sezgin en Yorick staan voor een lastig dilemma als een dakloze man voor overlast zorgt.",
+    "title": "Waar de f*ck is stuk?",
+    "start": 1794086700000,
+    "end": 1794090420000,
+    "description": "Giel, Thomas en Stefan verstoppen zich ieder in een Europese stad.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/b/carrousel/bureau-groningen-784024682.jpg",
+    "image": "https://tvgidsassets.nl/v389/upload/w/carrousel/waar-de-f-ck-is-stuk-796076602.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -966,18 +966,15 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
+      "labels": []
     }
   },
   {
-    "id": "rtl4:1794090540000:8caatu",
+    "id": "rtl4:1794090420000:8caatu",
     "channel": "rtl4",
     "title": "RTL Nieuws",
-    "start": 1794090540000,
-    "end": 1794091200000,
+    "start": 1794090420000,
+    "end": 1794091320000,
     "description": "Dagelijks het laatste nieuws uit binnen- en buitenland.",
     "category": [
       "Actueel"
@@ -997,11 +994,11 @@
     }
   },
   {
-    "id": "rtl4:1794091200000:146wvl6",
+    "id": "rtl4:1794091320000:146wvl6",
     "channel": "rtl4",
     "title": "RTL Weer",
-    "start": 1794091200000,
-    "end": 1794091440000,
+    "start": 1794091320000,
+    "end": 1794091560000,
     "description": "Een uitgebreide blik op de actuele weerkaart.",
     "category": [
       "Actueel"
@@ -1021,36 +1018,14 @@
     }
   },
   {
-    "id": "rtl4:1794091440000:g2lxyo",
+    "id": "rtl4:1794091560000:g2lxyo",
     "channel": "rtl4",
     "title": "Bureau Groningen",
-    "start": 1794091440000,
-    "end": 1794092160000,
+    "start": 1794091560000,
+    "end": 1794095820000,
     "description": "Sezgin en Yorick staan voor een lastig dilemma als een dakloze man voor overlast zorgt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/b/carrousel/bureau-groningen-784024682.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "rtl4:1794092160000:1v43lh7",
-    "channel": "rtl4",
-    "title": "RTL Boulevard",
-    "start": 1794092160000,
-    "end": 1794095340000,
-    "description": "Dagelijkse mix van actualiteiten, vermaak en opinies met een of twee deskundigen, gasten of andere nieuwsmakers.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/r/carrousel/rtl-boulevard-787050762.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

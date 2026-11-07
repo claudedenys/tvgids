@@ -496,10 +496,32 @@
     "channel": "npo2",
     "title": "2 meter sessies",
     "start": 1794232200000,
-    "end": 1794234600000,
+    "end": 1794234240000,
     "description": "Nieuwe sessie met Coach Party.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/2/carrousel/2-meter-sessies-794483222.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1794234240000:r3sp6g",
+    "channel": "npo2",
+    "title": "Nu te zien!",
+    "start": 1794234240000,
+    "end": 1794234600000,
+    "description": "Kunstprogramma 'Nu te zien!",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v389/upload/n/carrousel/nu-te-zien-796166272.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

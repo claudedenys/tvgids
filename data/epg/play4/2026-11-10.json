@@ -1,9 +1,37 @@
 [
   {
-    "id": "play4:1794268800000:15tdem3",
+    "id": "play4:1794264600000:15tdem3",
     "channel": "play4",
     "title": "De Tafel van Ruben",
-    "start": 1794268800000,
+    "start": 1794264600000,
+    "end": 1794269400000,
+    "description": null,
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34440397~~2FEP066660810005%2Cimi%3Ac1c938d75ecbfe815c7504098ee8c2905de66696/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 9,
+    "episode": 45,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34440397~~2FEP066660810005,imi:c1c938d75ecbfe815c7504098ee8c2905de66696",
+      "episodeName": "Aflevering 45",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34382075~~2FSH066660810000"
+    }
+  },
+  {
+    "id": "play4:1794269400000:15tdem3",
+    "channel": "play4",
+    "title": "De Tafel van Ruben",
+    "start": 1794269400000,
     "end": 1794273300000,
     "description": null,
     "category": [
