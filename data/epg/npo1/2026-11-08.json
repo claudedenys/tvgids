@@ -74,7 +74,7 @@
     "title": "EenVandaag",
     "start": 1794099600000,
     "end": 1794101400000,
-    "description": "Nieuws en achtergronden uit binnen- en buitenland.",
+    "description": "Met in deze uitzending: * Opnieuw een incident met een uithuisgeplaatst kind.",
     "category": [
       "Actueel"
     ],
@@ -124,7 +124,7 @@
     "title": "NOS Journaal",
     "start": 1794101700000,
     "end": 1794117300000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "Met in deze uitzending: * Man opent vuur in Krakau: zes doden.",
     "category": [
       "Actueel"
     ],
@@ -238,7 +238,7 @@
     "title": "WNL op zondag",
     "start": 1794128400000,
     "end": 1794132300000,
-    "description": "Rechts georiënteerde ochtendshow.",
+    "description": "<span class=\"label label--updated\">Update</span> Te gast zijn Hans Vijlbrief over arbeidsmigratie, politiek verslaggever Floor Bremer en oud-politicus Ronald van Raak...",
     "category": [
       "Actueel"
     ],
@@ -252,7 +252,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -281,7 +282,7 @@
     "title": "NOS Journaal",
     "start": 1794135600000,
     "end": 1794136200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Drie doden in huis schutter Krakau...",
     "category": [
       "Actueel"
     ],
@@ -295,7 +296,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -305,9 +307,9 @@
     "title": "Buitenhof",
     "start": 1794136200000,
     "end": 1794139800000,
-    "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
+    "description": "Met in deze uitzending: * Het minderheidskabinet-Jetten is naarstig op zoek naar steun voor het Belastingplan in...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/b/carrousel/buitenhof-787362662.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -458,7 +460,7 @@
     "title": "Studio sport",
     "start": 1794157800000,
     "end": 1794160800000,
-    "description": "Met onder meer veldrijden: EK (m) in Zeddam.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * wielrennen: EK veldrijden in Zeddam (m)...",
     "category": [
       "Sport"
     ],
@@ -472,7 +474,8 @@
     "meta": {
       "labels": [
         "program",
-        "sport"
+        "sport",
+        "updated"
       ]
     }
   },

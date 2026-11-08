@@ -242,7 +242,7 @@
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
     "start": 1794405000000,
-    "end": 1794414000000,
+    "end": 1794410940000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -265,6 +265,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33727930~~2FSH066187840000"
+    }
+  },
+  {
+    "id": "playsports4:1794410940000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1794410940000,
+    "end": 1794414000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1c79828131c6deffc4195a22f3e2f5dc166895c5",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

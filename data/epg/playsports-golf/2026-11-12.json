@@ -1,0 +1,118 @@
+[
+  {
+    "id": "playsports-golf:1794434400000:8c6tnl",
+    "channel": "playsports-golf",
+    "title": "Ziggo Sport Extra",
+    "start": 1794434400000,
+    "end": 1794448800000,
+    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A98bd36f094d6243fff8c3bafa37d73e8ad08818f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:98bd36f094d6243fff8c3bafa37d73e8ad08818f",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports-golf:1794448800000:8c6tnl",
+    "channel": "playsports-golf",
+    "title": "Ziggo Sport Extra",
+    "start": 1794448800000,
+    "end": 1794466800000,
+    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A76bea1c09fffe632e287bf22e13fc8384551ed21/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:76bea1c09fffe632e287bf22e13fc8384551ed21",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports-golf:1794466800000:zzkb3f",
+    "channel": "playsports-golf",
+    "title": "DP World Tour",
+    "start": 1794466800000,
+    "end": 1794506400000,
+    "description": "Verslag van de eerste dag van de DP World Tour Championship, gespeeld in Dubai, Verenigde Arabische Emiraten.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825699~~2FEP049392790505%2Cimi%3Ab2eb88b88d49f7e31141d1e88fc1d77a429c7107/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 92790000,
+    "episode": 2026111205,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825699~~2FEP049392790505,imi:b2eb88b88d49f7e31141d1e88fc1d77a429c7107",
+      "episodeName": "DP World Tour Championship: Dag 1",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794506400000:1ehmmzr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour",
+    "start": 1794506400000,
+    "end": 1794553200000,
+    "description": "Verslag van de eerste dag van de Austin Championship, gespeeld in Austin, Texas.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32193412~~2FEP034450033544%2Cimi%3A2e927b2b20bf71895e1225a72270e2cbceca89f4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50030000,
+    "episode": 2026111244,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32193412~~2FEP034450033544,imi:2e927b2b20bf71895e1225a72270e2cbceca89f4",
+      "episodeName": "Austin Championship: Dag 1",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
+    }
+  }
+]

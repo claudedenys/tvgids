@@ -183,21 +183,21 @@
     "title": "Premier League",
     "start": 1794402300000,
     "end": 1794409200000,
-    "description": "Vanuit Elland Road in Leeds, Engeland.",
+    "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584224~~2FEP033946612521%2Cimi%3Af57ed7ca73b596aff90ee3a8e0ae157c9b9777b1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584191~~2FEP033946612520%2Cimi%3Aabd750a93d6edc8f42618b51c993cf2b9c45a9f1/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
-    "episode": 2026110721,
+    "episode": 2026110820,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584224~~2FEP033946612521,imi:f57ed7ca73b596aff90ee3a8e0ae157c9b9777b1",
-      "episodeName": "Leeds United - Tottenham Hotspur",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584191~~2FEP033946612520,imi:abd750a93d6edc8f42618b51c993cf2b9c45a9f1",
+      "episodeName": "Crystal Palace - Liverpool",
       "genres": [
         "Sport",
         "Voetbal"
@@ -212,7 +212,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1794409200000,
-    "end": 1794416400000,
+    "end": 1794415440000,
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "category": [
       "Sport",
@@ -235,6 +235,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1794415440000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1794415440000,
+    "end": 1794416400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3fb1f2522eab8d8d1f44063ac4fc2e2d2f3d0b3f",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
