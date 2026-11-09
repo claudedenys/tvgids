@@ -154,7 +154,7 @@
     "channel": "playsports-golf",
     "title": "LPGA European Tour",
     "start": 1794196800000,
-    "end": 1794225600000,
+    "end": 1794204000000,
     "description": "Verslag van de eerste dag van de Aramco China Championship, gespeeld in Shenzhen, China.",
     "category": [
       "Sport",
@@ -180,17 +180,107 @@
     }
   },
   {
-    "id": "playsports-golf:1794225600000:1gjf1p",
+    "id": "playsports-golf:1794204000000:zzkb3f",
     "channel": "playsports-golf",
-    "title": "Tiger Woods Special",
-    "start": 1794225600000,
-    "end": 1794229200000,
-    "description": "In deze documentaire beleven we nogmaals de beste momenten van Tigers imposante golfcarrière.",
+    "title": "DP World Tour",
+    "start": 1794204000000,
+    "end": 1794214800000,
+    "description": "Verslag van de vierde en laatste dag van de Abu Dhabi Championship, gespeeld in Abu Dhabi, Verenigde Arabische Emiraten.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F13845155~~2FSH042736490000~~2Fspecial%2Cimi%3Ab25fdb358e162c3db202a7989be569da86d7a2fc/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825526~~2FEP049392790504%2Cimi%3Ac19194e0bf3b171cdddadf69e0289c284be991b0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 92790000,
+    "episode": 2026110804,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825526~~2FEP049392790504,imi:c19194e0bf3b171cdddadf69e0289c284be991b0",
+      "episodeName": "Abu Dhabi Championship: Dag 4",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794214800000:1ehmmzr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour",
+    "start": 1794214800000,
+    "end": 1794225600000,
+    "description": "Verslag van de vierde en laatste dag van de World Wide Technology Championship, gespeeld in Los Cabos, Mexico.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32218402~~2FEP034450033543%2Cimi%3A96c1ab54959395e37eb7ae83d7264f13c9c6577a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50030000,
+    "episode": 2026110843,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32218402~~2FEP034450033543,imi:96c1ab54959395e37eb7ae83d7264f13c9c6577a",
+      "episodeName": "World Wide Technology Championship: Dag 4",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794225600000:u5yv5e",
+    "channel": "playsports-golf",
+    "title": "LPGA European Tour",
+    "start": 1794225600000,
+    "end": 1794232800000,
+    "description": "Verslag van de eerste dag van de Aramco China Championship, gespeeld in Shenzhen, China.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30185226~~2FEP042378310232%2Cimi%3A44836dc33e251d6a441fffcf51a4e998e41ac441/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 78310000,
+    "episode": 2025110632,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30185226~~2FEP042378310232,imi:44836dc33e251d6a441fffcf51a4e998e41ac441",
+      "episodeName": "Aramco China Championship: Dag 1",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8177536~~2FSH042378310000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794232800000:1qyh1kd",
+    "channel": "playsports-golf",
+    "title": "AIG Women's Open Official Film",
+    "start": 1794232800000,
+    "end": 1794236400000,
+    "description": "Alle hoogtepunten van AIG Women's Open 2023, gespeeld op de St Andrews Golf Club in St Andrews, Schotland.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25526735~~2FSH054185540000~~2Fspecial%2Cimi%3Afe69c553e88ab5420f6d5cce4905f97db50afbef/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -198,7 +288,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F13845155~~2FSH042736490000~~2Fspecial,imi:b25fdb358e162c3db202a7989be569da86d7a2fc",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25526735~~2FSH054185540000~~2Fspecial,imi:fe69c553e88ab5420f6d5cce4905f97db50afbef",
       "episodeName": null,
       "genres": [
         "Sport",
@@ -210,33 +300,153 @@
     }
   },
   {
-    "id": "playsports-golf:1794229200000:dh4bf",
+    "id": "playsports-golf:1794236400000:zzkb3f",
     "channel": "playsports-golf",
-    "title": "The Open Championship Hoogtepunten",
-    "start": 1794229200000,
-    "end": 1794272400000,
-    "description": "Hoogtepunten van The Open Championship 2024, gespeeld op de Royal Troon golf Club in Troon, Schotland.",
+    "title": "DP World Tour",
+    "start": 1794236400000,
+    "end": 1794243600000,
+    "description": "Verslag van de vierde en laatste dag van de Abu Dhabi Championship, gespeeld in Abu Dhabi, Verenigde Arabische Emiraten.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28741427~~2FEP043714650020%2Cimi%3Ae550a802f5716702732c028edc0f625c5070f450/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825526~~2FEP049392790504%2Cimi%3Aedc9381b4b15b14691366b2925c34a3af3a43cea/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 102024,
-    "episode": 2024120420,
+    "season": 92790000,
+    "episode": 2026110804,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F28741427~~2FEP043714650020,imi:e550a802f5716702732c028edc0f625c5070f450",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825526~~2FEP049392790504,imi:edc9381b4b15b14691366b2925c34a3af3a43cea",
+      "episodeName": "Abu Dhabi Championship: Dag 4",
       "genres": [
         "Sport",
         "Golf"
       ],
-      "productionDate": "2024",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22533434~~2FSH043714650000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794243600000:18uqtlf",
+    "channel": "playsports-golf",
+    "title": "LPGA Tour Hoogtepunten",
+    "start": 1794243600000,
+    "end": 1794249000000,
+    "description": "Hoogtepunten van de TOTO Japan Classic, gespeeld op de Taiheiyo Club Minori Course in Omitama, Japan.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34457726~~2FEP042788330161%2Cimi%3Abd02b6327cdb485d593cef916d90d3cb10be5b51/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026110961,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34457726~~2FEP042788330161,imi:bd02b6327cdb485d593cef916d90d3cb10be5b51",
+      "episodeName": "TOTO Japan Classic",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22040071~~2FSH042788330000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794249000000:zzkb3f",
+    "channel": "playsports-golf",
+    "title": "DP World Tour",
+    "start": 1794249000000,
+    "end": 1794256200000,
+    "description": "Verslag van de vierde en laatste dag van de Abu Dhabi Championship, gespeeld in Abu Dhabi, Verenigde Arabische Emiraten.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825526~~2FEP049392790504%2Cimi%3A56e4fe12138e58481955d087e904d8dbedc0c15b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 92790000,
+    "episode": 2026110804,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825526~~2FEP049392790504,imi:56e4fe12138e58481955d087e904d8dbedc0c15b",
+      "episodeName": "Abu Dhabi Championship: Dag 4",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794256200000:1ehmmzr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour",
+    "start": 1794256200000,
+    "end": 1794263400000,
+    "description": "Verslag van de vierde en laatste dag van de World Wide Technology Championship, gespeeld in Los Cabos, Mexico.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32218402~~2FEP034450033543%2Cimi%3A109857181521f943c1531b6251482305d66d870f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50030000,
+    "episode": 2026110843,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32218402~~2FEP034450033543,imi:109857181521f943c1531b6251482305d66d870f",
+      "episodeName": "World Wide Technology Championship: Dag 4",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794263400000:18uqtlf",
+    "channel": "playsports-golf",
+    "title": "LPGA Tour Hoogtepunten",
+    "start": 1794263400000,
+    "end": 1794268800000,
+    "description": "Hoogtepunten van de TOTO Japan Classic, gespeeld op de Taiheiyo Club Minori Course in Omitama, Japan.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34457726~~2FEP042788330161%2Cimi%3Aa88b0715cd6fa65045eb7a26736b692d54036e40/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026110961,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34457726~~2FEP042788330161,imi:a88b0715cd6fa65045eb7a26736b692d54036e40",
+      "episodeName": "TOTO Japan Classic",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22040071~~2FSH042788330000"
     }
   }
 ]

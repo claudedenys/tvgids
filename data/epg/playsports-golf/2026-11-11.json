@@ -1,99 +1,376 @@
 [
   {
-    "id": "playsports-golf:1794348000000:8c6tnl",
+    "id": "playsports-golf:1794355200000:mkyqbr",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
-    "start": 1794348000000,
-    "end": 1794362400000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1794355200000,
+    "end": 1794358800000,
+    "description": "Hoogtepunten van The Genesis Invitational, gespeeld op The Riviere Country Club in Pacific Palisades, Californië.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3Aba27f804ed9798fec724745fc55f69a1540083d6/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24478465~~2FEP042788190062%2Cimi%3A2cff26be5842e47b25e848dc09916742d8c2ba65/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 102023,
+    "episode": 143,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:ba27f804ed9798fec724745fc55f69a1540083d6",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24478465~~2FEP042788190062,imi:2cff26be5842e47b25e848dc09916742d8c2ba65",
+      "episodeName": "The Genesis Invitational",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2023",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F9060599~~2FSH042788190000"
     }
   },
   {
-    "id": "playsports-golf:1794362400000:8c6tnl",
+    "id": "playsports-golf:1794358800000:brfzum",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
-    "start": 1794362400000,
+    "title": "WTGL Golf League",
+    "start": 1794358800000,
+    "end": 1794366000000,
+    "description": "Verslag van de wedstrijd Motor City Golf Club - Los Angeles Golf Club, gespeeld in de WTGL Golf League.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002%2Cimi%3Af9628a96b54c9e876e1a7d41e9aa63d6b4efc845/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 17490000,
+    "episode": 2026111002,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002,imi:f9628a96b54c9e876e1a7d41e9aa63d6b4efc845",
+      "episodeName": "Motor City Golf Club - Los Angeles Golf Club",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34198343~~2FSH066817490000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794366000000:zzkb3f",
+    "channel": "playsports-golf",
+    "title": "DP World Tour",
+    "start": 1794366000000,
     "end": 1794376800000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Verslag van de vierde en laatste dag van de Abu Dhabi Championship, gespeeld in Abu Dhabi, Verenigde Arabische Emiraten.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A05d152d02b532a897cd6c59fee7424c3b8efd4eb/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825526~~2FEP049392790504%2Cimi%3A7ffe3e54af7e074959ed1fb4e3c4b95d60f0b115/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 92790000,
+    "episode": 2026110804,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:05d152d02b532a897cd6c59fee7424c3b8efd4eb",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825526~~2FEP049392790504,imi:7ffe3e54af7e074959ed1fb4e3c4b95d60f0b115",
+      "episodeName": "Abu Dhabi Championship: Dag 4",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
     }
   },
   {
-    "id": "playsports-golf:1794376800000:8c6tnl",
+    "id": "playsports-golf:1794376800000:186xtng",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
+    "title": "Ryder Cup 2025",
     "start": 1794376800000,
+    "end": 1794384000000,
+    "description": "Verslag van de derde dag van de Ryder Cup 2025, gespeeld in Farmingdale, New York.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31259283~~2FEP060299250009%2Cimi%3A272a5fccb31aba426e7643d107f8eb4f405d5b60/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 99250000,
+    "episode": 2025092809,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31259283~~2FEP060299250009,imi:272a5fccb31aba426e7643d107f8eb4f405d5b60",
+      "episodeName": "Dag 3",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30686219~~2FSH060299250000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794384000000:186xtng",
+    "channel": "playsports-golf",
+    "title": "Ryder Cup 2025",
+    "start": 1794384000000,
     "end": 1794391200000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Verslag van de derde dag van de Ryder Cup 2025, gespeeld in Farmingdale, New York.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A68d33da97a82d282b3a721e8007d5fe6dd8f20b2/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31259283~~2FEP060299250009%2Cimi%3A3201a9a5dc113c4f257e4f50a8d71480b4f9ac56/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 99250000,
+    "episode": 2025092809,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:68d33da97a82d282b3a721e8007d5fe6dd8f20b2",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31259283~~2FEP060299250009,imi:3201a9a5dc113c4f257e4f50a8d71480b4f9ac56",
+      "episodeName": "Dag 3",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2025",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30686219~~2FSH060299250000"
     }
   },
   {
-    "id": "playsports-golf:1794391200000:8c6tnl",
+    "id": "playsports-golf:1794391200000:brfzum",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
+    "title": "WTGL Golf League",
     "start": 1794391200000,
-    "end": 1794405600000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "end": 1794398400000,
+    "description": "Verslag van de wedstrijd Motor City Golf Club - Los Angeles Golf Club, gespeeld in de WTGL Golf League.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A404520287421814de57d8206b24b9977ca7d7921/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002%2Cimi%3A3ade1de81ac8857bcc6b12f186707c5681405089/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 17490000,
+    "episode": 2026111002,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002,imi:3ade1de81ac8857bcc6b12f186707c5681405089",
+      "episodeName": "Motor City Golf Club - Los Angeles Golf Club",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34198343~~2FSH066817490000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794398400000:18uqtlf",
+    "channel": "playsports-golf",
+    "title": "LPGA Tour Hoogtepunten",
+    "start": 1794398400000,
+    "end": 1794403800000,
+    "description": "Hoogtepunten van de TOTO Japan Classic, gespeeld op de Taiheiyo Club Minori Course in Omitama, Japan.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34457726~~2FEP042788330161%2Cimi%3Abbb45b9f571e745ebad111bd5aa6677c4baaa259/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026110961,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34457726~~2FEP042788330161,imi:bbb45b9f571e745ebad111bd5aa6677c4baaa259",
+      "episodeName": "TOTO Japan Classic",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22040071~~2FSH042788330000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794403800000:1869fxq",
+    "channel": "playsports-golf",
+    "title": "EPGA Legends Tour Hoogtepunten",
+    "start": 1794403800000,
+    "end": 1794407400000,
+    "description": "Hoogtepunten van de Sergio Melpignano Senior Italian Open, gespeeld in de European Legends Tour 2025.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31395792~~2FEP043415830043%2Cimi%3A1c17ba7c9e22c2e6fb820aa3059d7073ffae479f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102025,
+    "episode": 2025103143,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31395792~~2FEP043415830043,imi:1c17ba7c9e22c2e6fb820aa3059d7073ffae479f",
+      "episodeName": "Sergio Melpignano Senior Italian Open",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22396263~~2FSH043415830000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794407400000:qt4vc6",
+    "channel": "playsports-golf",
+    "title": "HotelPlanner Tour Series Hoogtepunten",
+    "start": 1794407400000,
+    "end": 1794409200000,
+    "description": "Hoogtepunten van de Hangzhou Open, gespeeld in de HotelPlanner Tour Series van 2026.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34245800~~2FEP055625730059%2Cimi%3A1be672b0d235f3a13b637da2e21df557f8413121/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 36,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34245800~~2FEP055625730059,imi:1be672b0d235f3a13b637da2e21df557f8413121",
+      "episodeName": "Hangzhou Open",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22039946~~2FSH055625730000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794409200000:dh4bf",
+    "channel": "playsports-golf",
+    "title": "The Open Championship Hoogtepunten",
+    "start": 1794409200000,
+    "end": 1794412800000,
+    "description": "Hoogtepunten van The Open Championship 2024, gespeeld op de Royal Troon golf Club in Troon, Schotland.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F28741427~~2FEP043714650020%2Cimi%3Ab47a1cb2ab04ff79091ce8a3ebc4011e94f1f566/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102024,
+    "episode": 2024120420,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F28741427~~2FEP043714650020,imi:b47a1cb2ab04ff79091ce8a3ebc4011e94f1f566",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22533434~~2FSH043714650000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794412800000:36ys9t",
+    "channel": "playsports-golf",
+    "title": "PGA Tour - The Cut",
+    "start": 1794412800000,
+    "end": 1794414600000,
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31257154~~2FEP036113230284%2Cimi%3Aba4681889255bdfd6f9b7d4939b33fb0facfe020/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102025,
+    "episode": 66,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31257154~~2FEP036113230284,imi:ba4681889255bdfd6f9b7d4939b33fb0facfe020",
+      "episodeName": "Aflevering 66",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
+    }
+  },
+  {
+    "id": "playsports-golf:1794414600000:lt7aff",
+    "channel": "playsports-golf",
+    "title": "DP World Tour Hoogtepunten",
+    "start": 1794414600000,
+    "end": 1794416400000,
+    "description": "Hoogtepunten van de Abu Dhabi Championship, gespeeld op de Yas Links GC in Abu Dhabi, Verenigde Arabische Emiraten.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34422260~~2FEP049393090267%2Cimi%3Aec6e0eb3dd5405ed299977e4cdda516d092d4eb4/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111167,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34422260~~2FEP049393090267,imi:ec6e0eb3dd5405ed299977e4cdda516d092d4eb4",
+      "episodeName": "Abu Dhabi Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794416400000:1tgnqwn",
+    "channel": "playsports-golf",
+    "title": "On The Bubble: Fighting for their Future",
+    "start": 1794416400000,
+    "end": 1794418200000,
+    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial%2Cimi%3A31855c94865f6014a298fdd5ac6b47f31a9c358d/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -101,10 +378,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:404520287421814de57d8206b24b9977ca7d7921",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial,imi:31855c94865f6014a298fdd5ac6b47f31a9c358d",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
@@ -112,44 +390,167 @@
     }
   },
   {
-    "id": "playsports-golf:1794405600000:8c6tnl",
+    "id": "playsports-golf:1794418200000:mkyqbr",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
-    "start": 1794405600000,
-    "end": 1794420000000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1794418200000,
+    "end": 1794421800000,
+    "description": "Hoogtepunten van de World Wide Technology Championship, gespeeld op het El Cardonal at Diamante in Los Cabos, Mexico.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A455efb6c988b14085efad2d59ed2371a3bd92db7/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34431757~~2FEP055230080115%2Cimi%3A63af0e74a95eeefcd70d9a71c97ab32310d786ed/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 102026,
+    "episode": 2026111115,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:455efb6c988b14085efad2d59ed2371a3bd92db7",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34431757~~2FEP055230080115,imi:63af0e74a95eeefcd70d9a71c97ab32310d786ed",
+      "episodeName": "World Wide Technology Championship",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
     }
   },
   {
-    "id": "playsports-golf:1794420000000:8c6tnl",
+    "id": "playsports-golf:1794421800000:v0dpte",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
-    "start": 1794420000000,
+    "title": "LPGA European Tour Hoogtepunten",
+    "start": 1794421800000,
+    "end": 1794425400000,
+    "description": "Hoogtepunten van de Aramco China Championship, gespeeld op de Mission Hills China in Shenzhen, China.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34457794~~2FEP050323180073%2Cimi%3A30630a36392c98f7466e572ec07bfb1f174fd69e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111173,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34457794~~2FEP050323180073,imi:30630a36392c98f7466e572ec07bfb1f174fd69e",
+      "episodeName": "Aramco China Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F12733886~~2FSH050323180000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794425400000:18uqtlf",
+    "channel": "playsports-golf",
+    "title": "LPGA Tour Hoogtepunten",
+    "start": 1794425400000,
+    "end": 1794430800000,
+    "description": "Hoogtepunten van de TOTO Japan Classic, gespeeld op de Taiheiyo Club Minori Course in Omitama, Japan.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34457726~~2FEP042788330161%2Cimi%3A283662b79e2f57a881d748f929c69c5cdbb61cb6/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026110961,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34457726~~2FEP042788330161,imi:283662b79e2f57a881d748f929c69c5cdbb61cb6",
+      "episodeName": "TOTO Japan Classic",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22040071~~2FSH042788330000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794430800000:36ys9t",
+    "channel": "playsports-golf",
+    "title": "PGA Tour - The Cut",
+    "start": 1794430800000,
+    "end": 1794432600000,
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31257154~~2FEP036113230284%2Cimi%3A35f91275fd4b5f2bb42734344920a6e5c6e5120e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102025,
+    "episode": 66,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31257154~~2FEP036113230284,imi:35f91275fd4b5f2bb42734344920a6e5c6e5120e",
+      "episodeName": "Aflevering 66",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
+    }
+  },
+  {
+    "id": "playsports-golf:1794432600000:lt7aff",
+    "channel": "playsports-golf",
+    "title": "DP World Tour Hoogtepunten",
+    "start": 1794432600000,
     "end": 1794434400000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Hoogtepunten van de Abu Dhabi Championship, gespeeld op de Yas Links GC in Abu Dhabi, Verenigde Arabische Emiraten.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A948bf2411712915f9ccd847fc16491c534327f72/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34422260~~2FEP049393090267%2Cimi%3A4b33199bc928875eeef52b6867a29eab25f9997f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111167,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34422260~~2FEP049393090267,imi:4b33199bc928875eeef52b6867a29eab25f9997f",
+      "episodeName": "Abu Dhabi Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794434400000:1tgnqwn",
+    "channel": "playsports-golf",
+    "title": "On The Bubble: Fighting for their Future",
+    "start": 1794434400000,
+    "end": 1794436200000,
+    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial%2Cimi%3Ab14b08d212ed1877acb534f0f96c531350176ade/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -157,10 +558,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:948bf2411712915f9ccd847fc16491c534327f72",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial,imi:b14b08d212ed1877acb534f0f96c531350176ade",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
@@ -168,31 +570,33 @@
     }
   },
   {
-    "id": "playsports-golf:1794434400000:8c6tnl",
+    "id": "playsports-golf:1794436200000:mkyqbr",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
-    "start": 1794434400000,
-    "end": 1794448800000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1794436200000,
+    "end": 1794439800000,
+    "description": "Hoogtepunten van de World Wide Technology Championship, gespeeld op het El Cardonal at Diamante in Los Cabos, Mexico.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A98bd36f094d6243fff8c3bafa37d73e8ad08818f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34431757~~2FEP055230080115%2Cimi%3A9a64b737d32241df7ee04017738af88bc15d384e/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 102026,
+    "episode": 2026111115,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:98bd36f094d6243fff8c3bafa37d73e8ad08818f",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34431757~~2FEP055230080115,imi:9a64b737d32241df7ee04017738af88bc15d384e",
+      "episodeName": "World Wide Technology Championship",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
     }
   }
 ]

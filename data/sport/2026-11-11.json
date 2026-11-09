@@ -393,7 +393,7 @@
   {
     "id": "sport:playsports4:1794384900000:3y5tln",
     "externalId": null,
-    "title": "GP van Qatar: Race",
+    "title": "GP van Maleisië: Race",
     "home": null,
     "away": null,
     "competition": null,
@@ -401,7 +401,7 @@
     "start": 1794384900000,
     "end": 1794388800000,
     "status": "aankomend",
-    "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
+    "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -422,78 +422,9 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1794388800000,
-    "end": 1794397800000,
+    "end": 1794396180000,
     "status": "aankomend",
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1794397800000:10r9e8y",
-    "externalId": null,
-    "title": "Tennis: Rolex Paris Masters 2026",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1794397800000,
-    "end": 1794405000000,
-    "status": "aankomend",
-    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1794405000000:10r9e8y",
-    "externalId": null,
-    "title": "Tennis: Rolex Paris Masters 2026",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1794405000000,
-    "end": 1794410940000,
-    "status": "aankomend",
-    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1794414000000:10r9e8y",
-    "externalId": null,
-    "title": "Tennis: Rolex Paris Masters 2026",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1794414000000,
-    "end": 1794423000000,
-    "status": "aankomend",
-    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -644,17 +575,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1794348000000:8c6tnl",
+    "id": "sport:playsports-golf:1794355200000:mkyqbr",
     "externalId": null,
-    "title": "Ziggo Sport Extra",
+    "title": "The Genesis Invitational",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1794348000000,
-    "end": 1794362400000,
+    "sport": "Golf",
+    "start": 1794355200000,
+    "end": 1794358800000,
     "status": "aankomend",
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Hoogtepunten van The Genesis Invitational, gespeeld op The Riviere Country Club in Pacific Palisades, Californië.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -667,17 +598,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1794362400000:8c6tnl",
+    "id": "sport:playsports-golf:1794366000000:zzkb3f",
     "externalId": null,
-    "title": "Ziggo Sport Extra",
+    "title": "Abu Dhabi Championship: Dag 4",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1794362400000,
+    "sport": "Golf",
+    "start": 1794366000000,
     "end": 1794376800000,
     "status": "aankomend",
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Verslag van de vierde en laatste dag van de Abu Dhabi Championship, gespeeld in Abu Dhabi, Verenigde Arabische Emiraten.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -690,17 +621,40 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1794376800000:8c6tnl",
+    "id": "sport:playsports-golf:1794376800000:186xtng",
     "externalId": null,
-    "title": "Ziggo Sport Extra",
+    "title": "Dag 3",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
+    "sport": "Golf",
     "start": 1794376800000,
+    "end": 1794384000000,
+    "status": "aankomend",
+    "description": "Verslag van de derde dag van de Ryder Cup 2025, gespeeld in Farmingdale, New York.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794384000000:186xtng",
+    "externalId": null,
+    "title": "Dag 3",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794384000000,
     "end": 1794391200000,
     "status": "aankomend",
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Verslag van de derde dag van de Ryder Cup 2025, gespeeld in Farmingdale, New York.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -713,17 +667,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1794391200000:8c6tnl",
+    "id": "sport:playsports-golf:1794398400000:18uqtlf",
     "externalId": null,
-    "title": "Ziggo Sport Extra",
+    "title": "TOTO Japan Classic",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1794391200000,
-    "end": 1794405600000,
+    "sport": "Golf",
+    "start": 1794398400000,
+    "end": 1794403800000,
     "status": "aankomend",
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Hoogtepunten van de TOTO Japan Classic, gespeeld op de Taiheiyo Club Minori Course in Omitama, Japan.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -736,17 +690,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1794405600000:8c6tnl",
+    "id": "sport:playsports-golf:1794403800000:1869fxq",
     "externalId": null,
-    "title": "Ziggo Sport Extra",
+    "title": "Sergio Melpignano Senior Italian Open",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1794405600000,
-    "end": 1794420000000,
+    "sport": "Golf",
+    "start": 1794403800000,
+    "end": 1794407400000,
     "status": "aankomend",
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Hoogtepunten van de Sergio Melpignano Senior Italian Open, gespeeld in de European Legends Tour 2025.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -759,17 +713,224 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1794420000000:8c6tnl",
+    "id": "sport:playsports-golf:1794407400000:qt4vc6",
     "externalId": null,
-    "title": "Ziggo Sport Extra",
+    "title": "Hangzhou Open",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
-    "start": 1794420000000,
+    "sport": "Golf",
+    "start": 1794407400000,
+    "end": 1794409200000,
+    "status": "aankomend",
+    "description": "Hoogtepunten van de Hangzhou Open, gespeeld in de HotelPlanner Tour Series van 2026.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794409200000:dh4bf",
+    "externalId": null,
+    "title": "The Open Championship Hoogtepunten",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794409200000,
+    "end": 1794412800000,
+    "status": "aankomend",
+    "description": "Hoogtepunten van The Open Championship 2024, gespeeld op de Royal Troon golf Club in Troon, Schotland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794412800000:36ys9t",
+    "externalId": null,
+    "title": "Aflevering 66",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794412800000,
+    "end": 1794414600000,
+    "status": "aankomend",
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794414600000:lt7aff",
+    "externalId": null,
+    "title": "Abu Dhabi Championship",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794414600000,
+    "end": 1794416400000,
+    "status": "aankomend",
+    "description": "Hoogtepunten van de Abu Dhabi Championship, gespeeld op de Yas Links GC in Abu Dhabi, Verenigde Arabische Emiraten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794416400000:1tgnqwn",
+    "externalId": null,
+    "title": "On The Bubble: Fighting for their Future",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794416400000,
+    "end": 1794418200000,
+    "status": "aankomend",
+    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794418200000:mkyqbr",
+    "externalId": null,
+    "title": "World Wide Technology Championship",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794418200000,
+    "end": 1794421800000,
+    "status": "aankomend",
+    "description": "Hoogtepunten van de World Wide Technology Championship, gespeeld op het El Cardonal at Diamante in Los Cabos, Mexico.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794421800000:v0dpte",
+    "externalId": null,
+    "title": "Aramco China Championship",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794421800000,
+    "end": 1794425400000,
+    "status": "aankomend",
+    "description": "Hoogtepunten van de Aramco China Championship, gespeeld op de Mission Hills China in Shenzhen, China.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794425400000:18uqtlf",
+    "externalId": null,
+    "title": "TOTO Japan Classic",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794425400000,
+    "end": 1794430800000,
+    "status": "aankomend",
+    "description": "Hoogtepunten van de TOTO Japan Classic, gespeeld op de Taiheiyo Club Minori Course in Omitama, Japan.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794430800000:36ys9t",
+    "externalId": null,
+    "title": "Aflevering 66",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794430800000,
+    "end": 1794432600000,
+    "status": "aankomend",
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794432600000:lt7aff",
+    "externalId": null,
+    "title": "Abu Dhabi Championship",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794432600000,
     "end": 1794434400000,
     "status": "aankomend",
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Hoogtepunten van de Abu Dhabi Championship, gespeeld op de Yas Links GC in Abu Dhabi, Verenigde Arabische Emiraten.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -782,17 +943,40 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1794434400000:8c6tnl",
+    "id": "sport:playsports-golf:1794434400000:1tgnqwn",
     "externalId": null,
-    "title": "Ziggo Sport Extra",
+    "title": "On The Bubble: Fighting for their Future",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
+    "sport": "Golf",
     "start": 1794434400000,
-    "end": 1794448800000,
+    "end": 1794436200000,
     "status": "aankomend",
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:playsports-golf:1794436200000:mkyqbr",
+    "externalId": null,
+    "title": "World Wide Technology Championship",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794436200000,
+    "end": 1794439800000,
+    "status": "aankomend",
+    "description": "Hoogtepunten van de World Wide Technology Championship, gespeeld op het El Cardonal at Diamante in Los Cabos, Mexico.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -828,15 +1012,15 @@
     ]
   },
   {
-    "id": "sport:match:1794376800000:hsv - borussia monchengladbach",
+    "id": "sport:match:1794378000000:hsv - borussia monchengladbach",
     "externalId": null,
     "title": "HSV - Borussia Mönchengladbach",
     "home": "HSV",
     "away": "Borussia Mönchengladbach",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1794376800000,
-    "end": 1794383160000,
+    "start": 1794378000000,
+    "end": 1794384300000,
     "status": "aankomend",
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "source": "epg",
@@ -851,15 +1035,15 @@
     ]
   },
   {
-    "id": "sport:match:1794383160000:1. fsv mainz 05 - bayern munchen",
+    "id": "sport:match:1794384300000:1. fsv mainz 05 - bayern munchen",
     "externalId": null,
     "title": "1. FSV Mainz 05 - Bayern München",
     "home": "1. FSV Mainz 05",
     "away": "Bayern München",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1794383160000,
-    "end": 1794389520000,
+    "start": 1794384300000,
+    "end": 1794390900000,
     "status": "aankomend",
     "description": "Vanuit de MEWA Arena in Mainz, Duitsland.",
     "source": "epg",
@@ -874,15 +1058,15 @@
     ]
   },
   {
-    "id": "sport:match:1794389520000:borussia dortmund - sv elversberg",
+    "id": "sport:match:1794390900000:borussia dortmund - sv elversberg",
     "externalId": null,
     "title": "Borussia Dortmund - SV Elversberg",
     "home": "Borussia Dortmund",
     "away": "SV Elversberg",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1794389520000,
-    "end": 1794395880000,
+    "start": 1794390900000,
+    "end": 1794397200000,
     "status": "aankomend",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
@@ -897,15 +1081,15 @@
     ]
   },
   {
-    "id": "sport:match:1794395880000:everton - coventry city",
+    "id": "sport:match:1794397200000:everton - coventry city",
     "externalId": null,
     "title": "Everton - Coventry City",
     "home": "Everton",
     "away": "Coventry City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1794395880000,
-    "end": 1794402300000,
+    "start": 1794397200000,
+    "end": 1794403800000,
     "status": "aankomend",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
@@ -920,15 +1104,15 @@
     ]
   },
   {
-    "id": "sport:match:1794402300000:crystal palace - liverpool",
+    "id": "sport:match:1794403800000:crystal palace - liverpool",
     "externalId": null,
     "title": "Crystal Palace - Liverpool",
     "home": "Crystal Palace",
     "away": "Liverpool",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1794402300000,
-    "end": 1794409200000,
+    "start": 1794403800000,
+    "end": 1794410100000,
     "status": "aankomend",
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
@@ -943,15 +1127,15 @@
     ]
   },
   {
-    "id": "sport:match:1794409200000:arsenal - hull city",
+    "id": "sport:match:1794410100000:arsenal - hull city",
     "externalId": null,
     "title": "Arsenal - Hull City",
     "home": "Arsenal",
     "away": "Hull City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1794409200000,
-    "end": 1794415440000,
+    "start": 1794410100000,
+    "end": 1794416400000,
     "status": "aankomend",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
@@ -974,7 +1158,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1794423000000,
-    "end": 1794430200000,
+    "end": 1794429600000,
     "status": "aankomend",
     "description": "Vanuit The City Ground in Nottingham, England.",
     "source": "epg",
@@ -989,15 +1173,15 @@
     ]
   },
   {
-    "id": "sport:match:1794430200000:manchester united - aston villa",
+    "id": "sport:match:1794429600000:manchester united - aston villa",
     "externalId": null,
     "title": "Manchester United - Aston Villa",
     "home": "Manchester United",
     "away": "Aston Villa",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1794430200000,
-    "end": 1794437400000,
+    "start": 1794429600000,
+    "end": 1794436800000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
@@ -1012,14 +1196,14 @@
     ]
   },
   {
-    "id": "sport:match:1794437400000:tsg hoffenheim - fc schalke 04",
+    "id": "sport:match:1794436800000:tsg hoffenheim - fc schalke 04",
     "externalId": null,
     "title": "TSG Hoffenheim - FC Schalke 04",
     "home": "TSG Hoffenheim",
     "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1794437400000,
+    "start": 1794436800000,
     "end": 1794443820000,
     "status": "aankomend",
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
@@ -1242,6 +1426,75 @@
     ]
   },
   {
+    "id": "sport:match:1794397800000:halve finale: van assche - shelton",
+    "externalId": null,
+    "title": "Halve finale: Van Assche - Shelton",
+    "home": "Halve finale: Van Assche",
+    "away": "Shelton",
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1794397800000,
+    "end": 1794407100000,
+    "status": "aankomend",
+    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1794407100000:halve finale: ruud - alcaraz",
+    "externalId": null,
+    "title": "Halve finale: Ruud - Alcaraz",
+    "home": "Halve finale: Ruud",
+    "away": "Alcaraz",
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1794407100000,
+    "end": 1794412980000,
+    "status": "aankomend",
+    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1794414000000:shelton - alcaraz (finale)",
+    "externalId": null,
+    "title": "Shelton - Alcaraz (Finale)",
+    "home": "Shelton",
+    "away": "Alcaraz (Finale)",
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1794414000000,
+    "end": 1794423000000,
+    "status": "aankomend",
+    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
     "id": "sport:match:1794432840000:coretec oostende - antwerp giants",
     "externalId": null,
     "title": "Coretec Oostende - Antwerp Giants",
@@ -1250,7 +1503,7 @@
     "competition": null,
     "sport": "Basketbal",
     "start": 1794432840000,
-    "end": 1794440940000,
+    "end": 1794441000000,
     "status": "aankomend",
     "description": "Vanuit de COREtec Dôme in Oostende, België.",
     "source": "epg",
@@ -1262,6 +1515,52 @@
     ],
     "channelIds": [
       "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1794358800000:motor city golf club - los angeles golf club",
+    "externalId": null,
+    "title": "Motor City Golf Club - Los Angeles Golf Club",
+    "home": "Motor City Golf Club",
+    "away": "Los Angeles Golf Club",
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794358800000,
+    "end": 1794366000000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Motor City Golf Club - Los Angeles Golf Club, gespeeld in de WTGL Golf League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:match:1794391200000:motor city golf club - los angeles golf club",
+    "externalId": null,
+    "title": "Motor City Golf Club - Los Angeles Golf Club",
+    "home": "Motor City Golf Club",
+    "away": "Los Angeles Golf Club",
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794391200000,
+    "end": 1794398400000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Motor City Golf Club - Los Angeles Golf Club, gespeeld in de WTGL Golf League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
     ]
   }
 ]

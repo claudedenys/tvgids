@@ -322,17 +322,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794440940000:3y5tln",
+    "id": "sport:playsports4:1794441000000:3y5tln",
     "externalId": null,
-    "title": "GP van Qatar: Race",
+    "title": "GP van Maleisië: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794440940000,
+    "start": 1794441000000,
     "end": 1794444840000,
     "status": "aankomend",
-    "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
+    "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -468,7 +468,7 @@
     "competition": null,
     "sport": null,
     "start": 1794476220000,
-    "end": 1794480780000,
+    "end": 1794480900000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -483,17 +483,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794480780000:3y5tln",
+    "id": "sport:playsports4:1794480900000:3y5tln",
     "externalId": null,
-    "title": "GP van Qatar: Race",
+    "title": "GP van Maleisië: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794480780000,
+    "start": 1794480900000,
     "end": 1794484680000,
     "status": "aankomend",
-    "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
+    "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -514,78 +514,9 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1794484680000,
-    "end": 1794493680000,
+    "end": 1794492060000,
     "status": "aankomend",
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1794493680000:10r9e8y",
-    "externalId": null,
-    "title": "Tennis: Rolex Paris Masters 2026",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1794493680000,
-    "end": 1794500880000,
-    "status": "aankomend",
-    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1794500880000:10r9e8y",
-    "externalId": null,
-    "title": "Tennis: Rolex Paris Masters 2026",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1794500880000,
-    "end": 1794506820000,
-    "status": "aankomend",
-    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1794509940000:10r9e8y",
-    "externalId": null,
-    "title": "Tennis: Rolex Paris Masters 2026",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1794509940000,
-    "end": 1794518940000,
-    "status": "aankomend",
-    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -736,29 +667,6 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1794434400000:8c6tnl",
-    "externalId": null,
-    "title": "Ziggo Sport Extra",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1794434400000,
-    "end": 1794448800000,
-    "status": "aankomend",
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
     "id": "sport:playsports-golf:1794448800000:8c6tnl",
     "externalId": null,
     "title": "Ziggo Sport Extra",
@@ -828,14 +736,14 @@
     ]
   },
   {
-    "id": "sport:match:1794437400000:tsg hoffenheim - fc schalke 04",
+    "id": "sport:match:1794436800000:tsg hoffenheim - fc schalke 04",
     "externalId": null,
     "title": "TSG Hoffenheim - FC Schalke 04",
     "home": "TSG Hoffenheim",
     "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1794437400000,
+    "start": 1794436800000,
     "end": 1794443820000,
     "status": "aankomend",
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
@@ -859,7 +767,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1794463200000,
-    "end": 1794469320000,
+    "end": 1794469800000,
     "status": "aankomend",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
@@ -874,15 +782,15 @@
     ]
   },
   {
-    "id": "sport:match:1794469320000:hsv - borussia monchengladbach",
+    "id": "sport:match:1794469800000:hsv - borussia monchengladbach",
     "externalId": null,
     "title": "HSV - Borussia Mönchengladbach",
     "home": "HSV",
     "away": "Borussia Mönchengladbach",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1794469320000,
-    "end": 1794475680000,
+    "start": 1794469800000,
+    "end": 1794476100000,
     "status": "aankomend",
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "source": "epg",
@@ -897,17 +805,17 @@
     ]
   },
   {
-    "id": "sport:match:1794475680000:1. fsv mainz 05 - bayern munchen",
+    "id": "sport:match:1794476100000:tsg hoffenheim - fc schalke 04",
     "externalId": null,
-    "title": "1. FSV Mainz 05 - Bayern München",
-    "home": "1. FSV Mainz 05",
-    "away": "Bayern München",
+    "title": "TSG Hoffenheim - FC Schalke 04",
+    "home": "TSG Hoffenheim",
+    "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1794475680000,
-    "end": 1794482100000,
+    "start": 1794476100000,
+    "end": 1794482700000,
     "status": "aankomend",
-    "description": "Vanuit de MEWA Arena in Mainz, Duitsland.",
+    "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -920,15 +828,15 @@
     ]
   },
   {
-    "id": "sport:match:1794482100000:borussia dortmund - sv elversberg",
+    "id": "sport:match:1794482700000:borussia dortmund - sv elversberg",
     "externalId": null,
     "title": "Borussia Dortmund - SV Elversberg",
     "home": "Borussia Dortmund",
     "away": "SV Elversberg",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1794482100000,
-    "end": 1794488400000,
+    "start": 1794482700000,
+    "end": 1794489000000,
     "status": "aankomend",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
@@ -943,14 +851,14 @@
     ]
   },
   {
-    "id": "sport:match:1794488400000:nottingham forest - manchester city",
+    "id": "sport:match:1794489000000:nottingham forest - manchester city",
     "externalId": null,
     "title": "Nottingham Forest - Manchester City",
     "home": "Nottingham Forest",
     "away": "Manchester City",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1794488400000,
+    "start": 1794489000000,
     "end": 1794495600000,
     "status": "aankomend",
     "description": "Vanuit The City Ground in Nottingham, England.",
@@ -974,7 +882,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1794495600000,
-    "end": 1794502800000,
+    "end": 1794501600000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
@@ -1043,7 +951,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1794521820000,
-    "end": 1794528180000,
+    "end": 1794528360000,
     "status": "aankomend",
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "source": "epg",
@@ -1262,6 +1170,98 @@
     ],
     "channelIds": [
       "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1794493680000:halve finale: van assche - shelton",
+    "externalId": null,
+    "title": "Halve finale: Van Assche - Shelton",
+    "home": "Halve finale: Van Assche",
+    "away": "Shelton",
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1794493680000,
+    "end": 1794502740000,
+    "status": "aankomend",
+    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1794502740000:halve finale: ruud - alcaraz",
+    "externalId": null,
+    "title": "Halve finale: Ruud - Alcaraz",
+    "home": "Halve finale: Ruud",
+    "away": "Alcaraz",
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1794502740000,
+    "end": 1794508680000,
+    "status": "aankomend",
+    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1794509940000:shelton - alcaraz (finale)",
+    "externalId": null,
+    "title": "Shelton - Alcaraz (Finale)",
+    "home": "Shelton",
+    "away": "Alcaraz (Finale)",
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1794509940000,
+    "end": 1794518940000,
+    "status": "aankomend",
+    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1794439800000:motor city golf club - los angeles golf club",
+    "externalId": null,
+    "title": "Motor City Golf Club - Los Angeles Golf Club",
+    "home": "Motor City Golf Club",
+    "away": "Los Angeles Golf Club",
+    "competition": null,
+    "sport": "Golf",
+    "start": 1794439800000,
+    "end": 1794447000000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Motor City Golf Club - Los Angeles Golf Club, gespeeld in de WTGL Golf League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports Golf"
+    ],
+    "channels": [
+      "Play Sports Golf"
+    ],
+    "channelIds": [
+      "playsports-golf"
     ]
   }
 ]

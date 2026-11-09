@@ -1,25 +1,25 @@
 [
   {
-    "id": "playsports4:1794440940000:3y5tln",
+    "id": "playsports4:1794441000000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1794440940000,
+    "start": 1794441000000,
     "end": 1794444840000,
-    "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
+    "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538%2Cimi%3Af5f32e426733993c4e5187167a86f99aac6a2d19/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530%2Cimi%3Ac3d78d52b3e45cdb2113d44e1771904990867319/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 38910000,
-    "episode": 2026110838,
+    "episode": 2026110130,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538,imi:f5f32e426733993c4e5187167a86f99aac6a2d19",
-      "episodeName": "GP van Qatar: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530,imi:c3d78d52b3e45cdb2113d44e1771904990867319",
+      "episodeName": "GP van Maleisië: Race",
       "genres": [
         "Sport",
         "Motorracen"
@@ -182,7 +182,7 @@
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
     "start": 1794476220000,
-    "end": 1794480780000,
+    "end": 1794480900000,
     "description": null,
     "category": [
       "Sport",
@@ -208,26 +208,26 @@
     }
   },
   {
-    "id": "playsports4:1794480780000:3y5tln",
+    "id": "playsports4:1794480900000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1794480780000,
+    "start": 1794480900000,
     "end": 1794484680000,
-    "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
+    "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538%2Cimi%3Ae588ed5522a7a4e5dc6748851d23a0819413a66d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530%2Cimi%3A308d649ca39095424cd4ef9b2b5f2f287dfcb173/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 38910000,
-    "episode": 2026110838,
+    "episode": 2026110130,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538,imi:e588ed5522a7a4e5dc6748851d23a0819413a66d",
-      "episodeName": "GP van Qatar: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530,imi:308d649ca39095424cd4ef9b2b5f2f287dfcb173",
+      "episodeName": "GP van Maleisië: Race",
       "genres": [
         "Sport",
         "Motorracen"
@@ -242,7 +242,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1794484680000,
-    "end": 1794493680000,
+    "end": 1794492060000,
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
     "category": [
       "Sport",
@@ -268,11 +268,35 @@
     }
   },
   {
+    "id": "playsports4:1794492060000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1794492060000,
+    "end": 1794493680000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:bef963e6afd0483a068c69272373a789134c1e23",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "playsports4:1794493680000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
     "start": 1794493680000,
-    "end": 1794500880000,
+    "end": 1794502740000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -287,7 +311,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34482763~~2FEP066187840030,imi:0843bd52cc513a83c52c9e840341044e51cce544",
-      "episodeName": null,
+      "episodeName": "Halve finale: Van Assche - Shelton",
       "genres": [
         "Sport",
         "Tennis"
@@ -298,11 +322,11 @@
     }
   },
   {
-    "id": "playsports4:1794500880000:10r9e8y",
+    "id": "playsports4:1794502740000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1794500880000,
-    "end": 1794506820000,
+    "start": 1794502740000,
+    "end": 1794508680000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -317,7 +341,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34482765~~2FEP066187840031,imi:213311b80963c35d808ffccb4237232ab612fc01",
-      "episodeName": null,
+      "episodeName": "Halve finale: Ruud - Alcaraz",
       "genres": [
         "Sport",
         "Tennis"
@@ -328,10 +352,10 @@
     }
   },
   {
-    "id": "playsports4:1794506820000:48zb9",
+    "id": "playsports4:1794508680000:48zb9",
     "channel": "playsports4",
     "title": "Geen uitzending",
-    "start": 1794506820000,
+    "start": 1794508680000,
     "end": 1794509940000,
     "description": null,
     "category": [],
@@ -343,7 +367,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:bef963e6afd0483a068c69272373a789134c1e23",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0a66fd4e66e72709aaae2bd9496ee225393a8cd4",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -371,7 +395,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34482774~~2FEP066187840032,imi:4c9ced91654ff8a966ee096571af2c6aeff57b58",
-      "episodeName": null,
+      "episodeName": "Shelton - Alcaraz (Finale)",
       "genres": [
         "Sport",
         "Tennis"

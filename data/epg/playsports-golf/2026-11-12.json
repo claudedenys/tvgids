@@ -1,30 +1,32 @@
 [
   {
-    "id": "playsports-golf:1794434400000:8c6tnl",
+    "id": "playsports-golf:1794439800000:brfzum",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
-    "start": 1794434400000,
-    "end": 1794448800000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "title": "WTGL Golf League",
+    "start": 1794439800000,
+    "end": 1794447000000,
+    "description": "Verslag van de wedstrijd Motor City Golf Club - Los Angeles Golf Club, gespeeld in de WTGL Golf League.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A98bd36f094d6243fff8c3bafa37d73e8ad08818f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002%2Cimi%3A89714d93c1e859db5101ebbf04bcc35da9fc958d/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 17490000,
+    "episode": 2026111002,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:98bd36f094d6243fff8c3bafa37d73e8ad08818f",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002,imi:89714d93c1e859db5101ebbf04bcc35da9fc958d",
+      "episodeName": "Motor City Golf Club - Los Angeles Golf Club",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34198343~~2FSH066817490000"
     }
   },
   {

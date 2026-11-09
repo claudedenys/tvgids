@@ -153,21 +153,21 @@
     "title": "MotoGP",
     "start": 1794384900000,
     "end": 1794388800000,
-    "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
+    "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538%2Cimi%3A3e8949f1f376592cfd7bc1cf55bdb4c94a081803/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530%2Cimi%3Aaacdf27c61d5636e73ca710ff80a3acccd6589f2/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 38910000,
-    "episode": 2026110838,
+    "episode": 2026110130,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538,imi:3e8949f1f376592cfd7bc1cf55bdb4c94a081803",
-      "episodeName": "GP van Qatar: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530,imi:aacdf27c61d5636e73ca710ff80a3acccd6589f2",
+      "episodeName": "GP van Maleisië: Race",
       "genres": [
         "Sport",
         "Motorracen"
@@ -182,7 +182,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1794388800000,
-    "end": 1794397800000,
+    "end": 1794396180000,
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
     "category": [
       "Sport",
@@ -208,11 +208,35 @@
     }
   },
   {
+    "id": "playsports4:1794396180000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1794396180000,
+    "end": 1794397800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1c79828131c6deffc4195a22f3e2f5dc166895c5",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "playsports4:1794397800000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
     "start": 1794397800000,
-    "end": 1794405000000,
+    "end": 1794407100000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -227,7 +251,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34482763~~2FEP066187840030,imi:df4d37be66761567759f1317cd454e984947a6be",
-      "episodeName": null,
+      "episodeName": "Halve finale: Van Assche - Shelton",
       "genres": [
         "Sport",
         "Tennis"
@@ -238,11 +262,11 @@
     }
   },
   {
-    "id": "playsports4:1794405000000:10r9e8y",
+    "id": "playsports4:1794407100000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1794405000000,
-    "end": 1794410940000,
+    "start": 1794407100000,
+    "end": 1794412980000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -257,7 +281,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34482765~~2FEP066187840031,imi:2f170d87a60978a8e6e0d6db60c10832553a06b7",
-      "episodeName": null,
+      "episodeName": "Halve finale: Ruud - Alcaraz",
       "genres": [
         "Sport",
         "Tennis"
@@ -268,10 +292,10 @@
     }
   },
   {
-    "id": "playsports4:1794410940000:48zb9",
+    "id": "playsports4:1794412980000:48zb9",
     "channel": "playsports4",
     "title": "Geen uitzending",
-    "start": 1794410940000,
+    "start": 1794412980000,
     "end": 1794414000000,
     "description": null,
     "category": [],
@@ -283,7 +307,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1c79828131c6deffc4195a22f3e2f5dc166895c5",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:264119b76ff370e3621e1ebaae90b36895e80dcb",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
@@ -311,7 +335,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34482774~~2FEP066187840032,imi:fcd7c3e129de57249ca5a7c030d51d63d5cb5c9e",
-      "episodeName": null,
+      "episodeName": "Shelton - Alcaraz (Finale)",
       "genres": [
         "Sport",
         "Tennis"
@@ -386,7 +410,7 @@
     "channel": "playsports4",
     "title": "BNXT League",
     "start": 1794432840000,
-    "end": 1794440940000,
+    "end": 1794441000000,
     "description": "Vanuit de COREtec Dôme in Oostende, België.",
     "category": [
       "Sport",

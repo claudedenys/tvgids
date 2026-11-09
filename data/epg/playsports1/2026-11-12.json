@@ -1,16 +1,16 @@
 [
   {
-    "id": "playsports1:1794437400000:11wg5yb",
+    "id": "playsports1:1794436800000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1794437400000,
+    "start": 1794436800000,
     "end": 1794443820000,
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901%2Cimi%3A6a0b2b079679911951c93feab325daadf7f71846/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901%2Cimi%3A522d9b7290496798f4417b2eb4fcca5bfbd1d709/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -18,7 +18,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901,imi:6a0b2b079679911951c93feab325daadf7f71846",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901,imi:522d9b7290496798f4417b2eb4fcca5bfbd1d709",
       "episodeName": "TSG Hoffenheim - FC Schalke 04",
       "genres": [
         "Sport",
@@ -62,7 +62,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1794463200000,
-    "end": 1794469320000,
+    "end": 1794469800000,
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1794469320000:11wg5yb",
+    "id": "playsports1:1794469800000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1794469320000,
-    "end": 1794475680000,
+    "start": 1794469800000,
+    "end": 1794476100000,
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "category": [
       "Sport",
@@ -118,26 +118,26 @@
     }
   },
   {
-    "id": "playsports1:1794475680000:11wg5yb",
+    "id": "playsports1:1794476100000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1794475680000,
-    "end": 1794482100000,
-    "description": "Vanuit de MEWA Arena in Mainz, Duitsland.",
+    "start": 1794476100000,
+    "end": 1794482700000,
+    "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617168~~2FEP033948601902%2Cimi%3Abf086e7ace2aaada27152931a61be64f57be05a1/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901%2Cimi%3A70a84253653eafd993b3b5db228f734230a9502f/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
-    "episode": 2026110702,
+    "episode": 2026110801,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617168~~2FEP033948601902,imi:bf086e7ace2aaada27152931a61be64f57be05a1",
-      "episodeName": "1. FSV Mainz 05 - Bayern München",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901,imi:70a84253653eafd993b3b5db228f734230a9502f",
+      "episodeName": "TSG Hoffenheim - FC Schalke 04",
       "genres": [
         "Sport",
         "Voetbal"
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports1:1794482100000:11wg5yb",
+    "id": "playsports1:1794482700000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1794482100000,
-    "end": 1794488400000,
+    "start": 1794482700000,
+    "end": 1794489000000,
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "category": [
       "Sport",
@@ -178,10 +178,10 @@
     }
   },
   {
-    "id": "playsports1:1794488400000:1prlzbg",
+    "id": "playsports1:1794489000000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1794488400000,
+    "start": 1794489000000,
     "end": 1794495600000,
     "description": "Vanuit The City Ground in Nottingham, England.",
     "category": [
@@ -212,7 +212,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1794495600000,
-    "end": 1794502800000,
+    "end": 1794501600000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -235,6 +235,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1794501600000:48zb9",
+    "channel": "playsports1",
+    "title": "Geen uitzending",
+    "start": 1794501600000,
+    "end": 1794502800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:153eefcb14aae4d57ee75c2abf8bc7ea58adc9ab",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -362,7 +386,7 @@
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1794521820000,
-    "end": 1794528180000,
+    "end": 1794528360000,
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "category": [
       "Sport",

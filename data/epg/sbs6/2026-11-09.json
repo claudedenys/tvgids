@@ -313,7 +313,7 @@
     "title": "Hart van Nederland",
     "start": 1794211200000,
     "end": 1794212100000,
-    "description": "'Waar praat Nederland vandaag over?",
+    "description": "<span class=\"label label--updated\">Update</span> Dubbel pech bij pech vandaag: wegenwachters staken...",
     "category": [
       "Actueel"
     ],
@@ -327,7 +327,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -432,7 +433,7 @@
     "channel": "sbs6",
     "title": "Hart van Nederland",
     "start": 1794215700000,
-    "end": 1794216600000,
+    "end": 1794216300000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -452,11 +453,11 @@
     }
   },
   {
-    "id": "sbs6:1794216600000:16r3jxd",
+    "id": "sbs6:1794216300000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1794216600000,
-    "end": 1794219600000,
+    "start": 1794216300000,
+    "end": 1794219420000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/s/carrousel/shownieuws-786675802.jpg",
@@ -474,12 +475,12 @@
     }
   },
   {
-    "id": "sbs6:1794219600000:f1exxs",
+    "id": "sbs6:1794219420000:f1exxs",
     "channel": "sbs6",
     "title": "De Oranjezondag",
-    "start": 1794219600000,
-    "end": 1794223200000,
-    "description": "Hélène Hendriks ontvangt wekelijks andere gasten en spreekt met hen over de actualiteit.",
+    "start": 1794219420000,
+    "end": 1794223020000,
+    "description": "Rutger Castricum, Thomas van Groningen, Dyantha Brooks, Victor Vlam en Nicky van der Gijp schuiven aan bij...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/de-oranjezondag-787357112.jpg",
     "icon": null,
@@ -496,11 +497,11 @@
     }
   },
   {
-    "id": "sbs6:1794223200000:vg1ir",
+    "id": "sbs6:1794223020000:vg1ir",
     "channel": "sbs6",
     "title": "Man bijt hond",
-    "start": 1794223200000,
-    "end": 1794224100000,
+    "start": 1794223020000,
+    "end": 1794223740000,
     "description": "'Man bijt hond' brengt alledaags nieuws en laat zien wat Nederland bezighoudt.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/m/carrousel/man-bijt-hond-788976352.jpg",
@@ -518,11 +519,11 @@
     }
   },
   {
-    "id": "sbs6:1794224100000:4al8ip",
+    "id": "sbs6:1794223740000:4al8ip",
     "channel": "sbs6",
     "title": "vtwonen weer verliefd op je huis",
-    "start": 1794224100000,
-    "end": 1794227400000,
+    "start": 1794223740000,
+    "end": 1794227160000,
     "description": "Een half jaar geleden hebben Derk en Martien het ouderlijk huis van Derk overgenomen en ze wonen hier met hun drie...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/v/carrousel/vtwonen-weer-verliefd-op-je-huis-784388522.jpg",
@@ -540,11 +541,33 @@
     }
   },
   {
-    "id": "sbs6:1794227400000:1ddldj5",
+    "id": "sbs6:1794227160000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1794227400000,
-    "end": 1794230700000,
+    "start": 1794227160000,
+    "end": 1794230460000,
+    "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "sbs6:1794230460000:1ddldj5",
+    "channel": "sbs6",
+    "title": "De bondgenoten",
+    "start": 1794230460000,
+    "end": 1794232440000,
     "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/de-bondgenoten-785710062.jpg",
@@ -562,33 +585,11 @@
     }
   },
   {
-    "id": "sbs6:1794230700000:1ddldj5",
-    "channel": "sbs6",
-    "title": "De bondgenoten",
-    "start": 1794230700000,
-    "end": 1794232800000,
-    "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/de-bondgenoten-785710062.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "sbs6:1794232800000:ar1ua0",
+    "id": "sbs6:1794232440000:ar1ua0",
     "channel": "sbs6",
     "title": "Droomhuis op het platteland",
-    "start": 1794232800000,
-    "end": 1794236100000,
+    "start": 1794232440000,
+    "end": 1794235920000,
     "description": "Alistair Appleton helpt moeder Diana en dochter Millie bij hun zoektocht naar een huis in het landelijke Somerset.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/e/carrousel/escape-to-the-country-787395642.jpg",
@@ -606,10 +607,10 @@
     }
   },
   {
-    "id": "sbs6:1794236100000:12gmlo0",
+    "id": "sbs6:1794235920000:12gmlo0",
     "channel": "sbs6",
     "title": "De grote huisverbouwing",
-    "start": 1794236100000,
+    "start": 1794235920000,
     "end": 1794239400000,
     "description": "Het team gaat aan de slag in Hoogland, waar Sander en Delphine al ruim 22 jaar met hun drie kinderen wonen.",
     "category": [],
@@ -678,7 +679,7 @@
     "channel": "sbs6",
     "title": "Nieuws van de dag",
     "start": 1794243900000,
-    "end": 1794247200000,
+    "end": 1794246960000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -698,11 +699,11 @@
     }
   },
   {
-    "id": "sbs6:1794247200000:2eepw1",
+    "id": "sbs6:1794246960000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1794247200000,
-    "end": 1794249000000,
+    "start": 1794246960000,
+    "end": 1794248940000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/p/carrousel/prijzenjacht-788995972.jpg",
@@ -717,11 +718,11 @@
     }
   },
   {
-    "id": "sbs6:1794249000000:1ddldj5",
+    "id": "sbs6:1794248940000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1794249000000,
-    "end": 1794252600000,
+    "start": 1794248940000,
+    "end": 1794252540000,
     "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/de-bondgenoten-785710062.jpg",
@@ -736,11 +737,11 @@
     }
   },
   {
-    "id": "sbs6:1794252600000:1ku5afv",
+    "id": "sbs6:1794252540000:1ku5afv",
     "channel": "sbs6",
     "title": "Oh oh Den Haag",
-    "start": 1794252600000,
-    "end": 1794256500000,
+    "start": 1794252540000,
+    "end": 1794256620000,
     "description": "In het programma Oh Oh Den Haag zien we hoe volkszanger Chicco een hechte band heeft met zijn moeder Ramona.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/c/carrousel/chiccovoorohohdenhaagrealitysbs.jpg",
@@ -758,12 +759,12 @@
     }
   },
   {
-    "id": "sbs6:1794256500000:1rq69gz",
+    "id": "sbs6:1794256620000:1rq69gz",
     "channel": "sbs6",
     "title": "Vandaag inside",
-    "start": 1794256500000,
-    "end": 1794260400000,
-    "description": "In 'Vandaag inside' geven Wilfred Genee, Johan Derksen en René van der Gijp hun kijk op het nieuws en de actualiteit.",
+    "start": 1794256620000,
+    "end": 1794260580000,
+    "description": "<span class=\"label label--updated\">Update</span> Valentijn Driessen schuift aan als tafelgast bij Johan Derksen, Wilfred Genee en René van der Gijp, Bas Nijhuis neemt...",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/v/carrousel/vandaag-inside-784822952.jpg",
     "icon": null,
@@ -773,15 +774,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
-    "id": "sbs6:1794260400000:1k6yy12",
+    "id": "sbs6:1794260580000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1794260400000,
-    "end": 1794261600000,
+    "start": 1794260580000,
+    "end": 1794261720000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -801,11 +804,11 @@
     }
   },
   {
-    "id": "sbs6:1794261600000:16r3jxd",
+    "id": "sbs6:1794261720000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1794261600000,
-    "end": 1794264900000,
+    "start": 1794261720000,
+    "end": 1794264960000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/s/carrousel/shownieuws-786675802.jpg",
@@ -820,11 +823,11 @@
     }
   },
   {
-    "id": "sbs6:1794264900000:1ddldj5",
+    "id": "sbs6:1794264960000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1794264900000,
-    "end": 1794268200000,
+    "start": 1794264960000,
+    "end": 1794268260000,
     "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
     "category": [],
     "image": "https://tvgidsassets.nl/v389/upload/d/carrousel/de-bondgenoten-785710062.jpg",
