@@ -212,7 +212,7 @@
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
     "start": 1794307980000,
-    "end": 1794316200000,
+    "end": 1794316260000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
@@ -238,26 +238,26 @@
     }
   },
   {
-    "id": "playsports4:1794316200000:3y5tln",
+    "id": "playsports4:1794316260000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1794316200000,
-    "end": 1794320160000,
-    "description": "Verslag van de race van de MotoGP van Maleisië, gereden in Sepang, Maleisië.",
+    "start": 1794316260000,
+    "end": 1794320460000,
+    "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
     "category": [
       "Sport",
       "Motorracen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530%2Cimi%3A68a4a2a7fe41a5ea522a3e0aabe827f8dcb761b0/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538%2Cimi%3Af6e5642ea86fefd62cbfe473c5028e1bb7cee631/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 38910000,
-    "episode": 2026110130,
+    "episode": 2026110838,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32393970~~2FEP036138911530,imi:68a4a2a7fe41a5ea522a3e0aabe827f8dcb761b0",
-      "episodeName": "GP van Maleisië: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32388978~~2FEP036138911538,imi:f6e5642ea86fefd62cbfe473c5028e1bb7cee631",
+      "episodeName": "GP van Qatar: Race",
       "genres": [
         "Sport",
         "Motorracen"
@@ -268,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1794320160000:arbc9d",
+    "id": "playsports4:1794320460000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1794320160000,
-    "end": 1794327540000,
+    "start": 1794320460000,
+    "end": 1794327780000,
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
     "category": [
       "Sport",
@@ -298,35 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1794327540000:48zb9",
-    "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1794327540000,
-    "end": 1794329160000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3e869d1f650805f3d07b7c877034acb1eb08def6",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1794329160000:1kmei86",
+    "id": "playsports4:1794327780000:1kmei86",
     "channel": "playsports4",
     "title": "Tennis: Rolex Shanghai Masters 2026",
-    "start": 1794329160000,
-    "end": 1794338820000,
+    "start": 1794327780000,
+    "end": 1794337440000,
     "description": "Verslag van de Rolex Shanghai Masters, gespeeld in Shanghai, China.",
     "category": [
       "Sport",
@@ -352,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1794338820000:10r7t8e",
+    "id": "playsports4:1794337440000:10r7t8e",
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
-    "start": 1794338820000,
-    "end": 1794343260000,
+    "start": 1794337440000,
+    "end": 1794341880000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
       "Sport",
@@ -382,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1794343260000:10r7t8e",
+    "id": "playsports4:1794341880000:10r7t8e",
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
-    "start": 1794343260000,
-    "end": 1794348600000,
+    "start": 1794341880000,
+    "end": 1794347220000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
       "Sport",
@@ -412,11 +388,11 @@
     }
   },
   {
-    "id": "playsports4:1794348600000:8a2n92",
+    "id": "playsports4:1794347220000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1794348600000,
-    "end": 1794355380000,
+    "start": 1794347220000,
+    "end": 1794354000000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",

@@ -34,7 +34,7 @@
     "channel": "playsports1",
     "title": "Play Sports",
     "start": 1794361080000,
-    "end": 1794376800000,
+    "end": 1794377700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,41 +58,17 @@
     }
   },
   {
-    "id": "playsports1:1794376800000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1794376800000,
-    "end": 1794378000000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3c38cdfe056e37b9beffcc8ab3b46f7308651462",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports1:1794378000000:11wg5yb",
+    "id": "playsports1:1794377700000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1794378000000,
-    "end": 1794384300000,
+    "start": 1794377700000,
+    "end": 1794384000000,
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617198~~2FEP033948601903%2Cimi%3A0b10aeb36bab49251f811f84fc8139291e1ec1a4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617198~~2FEP033948601903%2Cimi%3Aea728693716036611c1eec7da30677d8303b27a2/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -100,7 +76,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617198~~2FEP033948601903,imi:0b10aeb36bab49251f811f84fc8139291e1ec1a4",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617198~~2FEP033948601903,imi:ea728693716036611c1eec7da30677d8303b27a2",
       "episodeName": "HSV - Borussia Mönchengladbach",
       "genres": [
         "Sport",
@@ -112,26 +88,26 @@
     }
   },
   {
-    "id": "playsports1:1794384300000:11wg5yb",
+    "id": "playsports1:1794384000000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1794384300000,
-    "end": 1794390900000,
-    "description": "Vanuit de MEWA Arena in Mainz, Duitsland.",
+    "start": 1794384000000,
+    "end": 1794390600000,
+    "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617168~~2FEP033948601902%2Cimi%3A866170908917e49450e3a17b86f1ad0b75bd8e10/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901%2Cimi%3A6e3267eee23e935f2d339ac0b8e4eea3a0859d6f/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
-    "episode": 2026110702,
+    "episode": 2026110801,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617168~~2FEP033948601902,imi:866170908917e49450e3a17b86f1ad0b75bd8e10",
-      "episodeName": "1. FSV Mainz 05 - Bayern München",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901,imi:6e3267eee23e935f2d339ac0b8e4eea3a0859d6f",
+      "episodeName": "TSG Hoffenheim - FC Schalke 04",
       "genres": [
         "Sport",
         "Voetbal"
@@ -142,17 +118,17 @@
     }
   },
   {
-    "id": "playsports1:1794390900000:11wg5yb",
+    "id": "playsports1:1794390600000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1794390900000,
-    "end": 1794397200000,
+    "start": 1794390600000,
+    "end": 1794396900000,
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617218~~2FEP033948601904%2Cimi%3A4c28c70595ab24ad1ecdd9a30183a61d9c0a5d62/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617218~~2FEP033948601904%2Cimi%3A6c908143847804b006a7203d3526593f8317fd78/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -160,7 +136,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617218~~2FEP033948601904,imi:4c28c70595ab24ad1ecdd9a30183a61d9c0a5d62",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617218~~2FEP033948601904,imi:6c908143847804b006a7203d3526593f8317fd78",
       "episodeName": "Borussia Dortmund - SV Elversberg",
       "genres": [
         "Sport",
@@ -172,17 +148,17 @@
     }
   },
   {
-    "id": "playsports1:1794397200000:1prlzbg",
+    "id": "playsports1:1794396900000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1794397200000,
-    "end": 1794403800000,
+    "start": 1794396900000,
+    "end": 1794403500000,
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584279~~2FEP033946612524%2Cimi%3A60df5a5bab4688691384b43e0822273c1ffaf6aa/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584279~~2FEP033946612524%2Cimi%3A0af15c8c268c7dd5a8c56c0c051d3b58b4915557/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -190,7 +166,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584279~~2FEP033946612524,imi:60df5a5bab4688691384b43e0822273c1ffaf6aa",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584279~~2FEP033946612524,imi:0af15c8c268c7dd5a8c56c0c051d3b58b4915557",
       "episodeName": "Everton - Coventry City",
       "genres": [
         "Sport",
@@ -202,17 +178,17 @@
     }
   },
   {
-    "id": "playsports1:1794403800000:1prlzbg",
+    "id": "playsports1:1794403500000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1794403800000,
+    "start": 1794403500000,
     "end": 1794410100000,
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584191~~2FEP033946612520%2Cimi%3A72d5624745a57db2e1fb44ae737dbb951d797093/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584191~~2FEP033946612520%2Cimi%3Aabd750a93d6edc8f42618b51c993cf2b9c45a9f1/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -220,7 +196,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584191~~2FEP033946612520,imi:72d5624745a57db2e1fb44ae737dbb951d797093",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584191~~2FEP033946612520,imi:abd750a93d6edc8f42618b51c993cf2b9c45a9f1",
       "episodeName": "Crystal Palace - Liverpool",
       "genres": [
         "Sport",
@@ -356,7 +332,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1794429600000,
-    "end": 1794436800000,
+    "end": 1794436200000,
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -382,17 +358,17 @@
     }
   },
   {
-    "id": "playsports1:1794436800000:11wg5yb",
+    "id": "playsports1:1794436200000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1794436800000,
-    "end": 1794443820000,
+    "start": 1794436200000,
+    "end": 1794442800000,
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901%2Cimi%3A522d9b7290496798f4417b2eb4fcca5bfbd1d709/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901%2Cimi%3Ac39a184cdde40e5a3af90a21161c1267b722107d/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 48600000,
@@ -400,7 +376,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901,imi:522d9b7290496798f4417b2eb4fcca5bfbd1d709",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617137~~2FEP033948601901,imi:c39a184cdde40e5a3af90a21161c1267b722107d",
       "episodeName": "TSG Hoffenheim - FC Schalke 04",
       "genres": [
         "Sport",

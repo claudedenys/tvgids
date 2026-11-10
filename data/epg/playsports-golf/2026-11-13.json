@@ -1,32 +1,212 @@
 [
   {
-    "id": "playsports-golf:1794506400000:1ehmmzr",
+    "id": "playsports-golf:1794520800000:zzkb3f",
     "channel": "playsports-golf",
-    "title": "PGA Tour",
-    "start": 1794506400000,
-    "end": 1794553200000,
-    "description": "Verslag van de eerste dag van de Austin Championship, gespeeld in Austin, Texas.",
+    "title": "DP World Tour",
+    "start": 1794520800000,
+    "end": 1794531600000,
+    "description": "Verslag van de eerste dag van de DP World Tour Championship, gespeeld in Dubai, Verenigde Arabische Emiraten.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32193412~~2FEP034450033544%2Cimi%3A2e927b2b20bf71895e1225a72270e2cbceca89f4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825699~~2FEP049392790505%2Cimi%3A731d876c0faf6af84ca856b556ba065db1952d13/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50030000,
-    "episode": 2026111244,
+    "season": 92790000,
+    "episode": 2026111205,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32193412~~2FEP034450033544,imi:2e927b2b20bf71895e1225a72270e2cbceca89f4",
-      "episodeName": "Austin Championship: Dag 1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825699~~2FEP049392790505,imi:731d876c0faf6af84ca856b556ba065db1952d13",
+      "episodeName": "DP World Tour Championship: Dag 1",
       "genres": [
         "Sport",
         "Golf"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794531600000:lt7aff",
+    "channel": "playsports-golf",
+    "title": "DP World Tour Hoogtepunten",
+    "start": 1794531600000,
+    "end": 1794533400000,
+    "description": "Hoogtepunten van de Abu Dhabi Championship, gespeeld op de Yas Links GC in Abu Dhabi, Verenigde Arabische Emiraten.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34422260~~2FEP049393090267%2Cimi%3A9eb9253a37faefcb5a951639be8f9e26ade9af0c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111167,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34422260~~2FEP049393090267,imi:9eb9253a37faefcb5a951639be8f9e26ade9af0c",
+      "episodeName": "Abu Dhabi Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794533400000:1tgnqwn",
+    "channel": "playsports-golf",
+    "title": "On The Bubble: Fighting for their Future",
+    "start": 1794533400000,
+    "end": 1794535200000,
+    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial%2Cimi%3A59d807d11359b21c8e34150f2d955bd0bcabb1d2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial,imi:59d807d11359b21c8e34150f2d955bd0bcabb1d2",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports-golf:1794535200000:1869fxq",
+    "channel": "playsports-golf",
+    "title": "EPGA Legends Tour Hoogtepunten",
+    "start": 1794535200000,
+    "end": 1794538800000,
+    "description": "Hoogtepunten en samenvattingen van de toernooien gespeeld in de European Legend Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34019498~~2FEP043415830055%2Cimi%3A9d3964acf193dcd862a5f8efa7d59952b2532804/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 18,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34019498~~2FEP043415830055,imi:9d3964acf193dcd862a5f8efa7d59952b2532804",
+      "episodeName": "Black Desert NI Legends Open",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22396263~~2FSH043415830000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794538800000:mkyqbr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1794538800000,
+    "end": 1794542400000,
+    "description": "Hoogtepunten van de Butterfield Bermuda Championship, gespeeld op de Port Royal Golf Course in Southampton, Bermuda.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34300490~~2FEP055230080111%2Cimi%3A870a5f77f4e6e2829bb99fa7e1e96939b4e6d29f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026102811,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34300490~~2FEP055230080111,imi:870a5f77f4e6e2829bb99fa7e1e96939b4e6d29f",
+      "episodeName": "Butterfield Bermuda Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794542400000:brfzum",
+    "channel": "playsports-golf",
+    "title": "WTGL Golf League",
+    "start": 1794542400000,
+    "end": 1794549600000,
+    "description": "Verslag van de wedstrijd Motor City Golf Club - Los Angeles Golf Club, gespeeld in de WTGL Golf League.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002%2Cimi%3A071ce2b39e54fec022d5c124572233d9f061cf30/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 17490000,
+    "episode": 2026111002,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002,imi:071ce2b39e54fec022d5c124572233d9f061cf30",
+      "episodeName": "Motor City Golf Club - Los Angeles Golf Club",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34198343~~2FSH066817490000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794549600000:v0dpte",
+    "channel": "playsports-golf",
+    "title": "LPGA European Tour Hoogtepunten",
+    "start": 1794549600000,
+    "end": 1794553200000,
+    "description": "Hoogtepunten van de Aramco China Championship, gespeeld op de Mission Hills China in Shenzhen, China.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34457794~~2FEP050323180073%2Cimi%3Ae202bc6ce959f08aea1f8aa5cc9c090420c0bc7f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111173,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34457794~~2FEP050323180073,imi:e202bc6ce959f08aea1f8aa5cc9c090420c0bc7f",
+      "episodeName": "Aramco China Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F12733886~~2FSH050323180000"
     }
   },
   {
@@ -34,7 +214,7 @@
     "channel": "playsports-golf",
     "title": "DP World Tour",
     "start": 1794553200000,
-    "end": 1794592800000,
+    "end": 1794574800000,
     "description": "Verslag van de tweede dag van de DP World Tour Championship, gespeeld in Dubai, Verenigde Arabische Emiraten.",
     "category": [
       "Sport",
@@ -60,11 +240,131 @@
     }
   },
   {
-    "id": "playsports-golf:1794592800000:1ehmmzr",
+    "id": "playsports-golf:1794574800000:mkyqbr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1794574800000,
+    "end": 1794578400000,
+    "description": "Hoogtepunten van de Biltmore Championship Asheville, gespeeld op The Cliffs at Walnut Cove in Asheville, North Carolina.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34172618~~2FEP055230080108%2Cimi%3A9f9b01672b1ed51dcd4f2767972fd7997cde2f27/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026092308,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34172618~~2FEP055230080108,imi:9f9b01672b1ed51dcd4f2767972fd7997cde2f27",
+      "episodeName": "Biltmore Championship Asheville",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794578400000:1oidiqx",
+    "channel": "playsports-golf",
+    "title": "PGA Champions Tour Hoogtepunten",
+    "start": 1794578400000,
+    "end": 1794582000000,
+    "description": "Hoogtepunten van de Constellation Furyk & Friends, gespeeld in de PGA Tour Champions.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31236934~~2FEP036138130121%2Cimi%3A5af9a501fa7e4c2f4b8df3987d966549f22dd150/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102025,
+    "episode": 2025100821,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31236934~~2FEP036138130121,imi:5af9a501fa7e4c2f4b8df3987d966549f22dd150",
+      "episodeName": "Constellation Furyk & Friends",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1dd41e22-12a3-4fcf-b680-4cc67156fcbf"
+    }
+  },
+  {
+    "id": "playsports-golf:1794582000000:1ehmmzr",
     "channel": "playsports-golf",
     "title": "PGA Tour",
+    "start": 1794582000000,
+    "end": 1794592800000,
+    "description": "Verslag van de eerste dag van de Austin Championship, gespeeld in Austin, Texas.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32193412~~2FEP034450033544%2Cimi%3A532b6d5c85d43621dc5380d0054f814d334583bd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50030000,
+    "episode": 2026111244,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32193412~~2FEP034450033544,imi:532b6d5c85d43621dc5380d0054f814d334583bd",
+      "episodeName": "Austin Championship: Dag 1",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794592800000:rnzpmx",
+    "channel": "playsports-golf",
+    "title": "PGA Korn Ferry Tour Hoogtepunten",
     "start": 1794592800000,
-    "end": 1794639600000,
+    "end": 1794596400000,
+    "description": "Hoogtepunten van het Compliance Solutions Championship, gespeeld op de Korn Ferry Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34124216~~2FEP036179500050%2Cimi%3A1794334c0833c4e5359285cd65e0c000b00b437f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026100850,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34124216~~2FEP036179500050,imi:1794334c0833c4e5359285cd65e0c000b00b437f",
+      "episodeName": "Compliance Solutions Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179500000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794596400000:1ehmmzr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour",
+    "start": 1794596400000,
+    "end": 1794607200000,
     "description": "Verslag van de tweede dag van de Austin Championship, gespeeld in Austin, Texas.",
     "category": [
       "Sport",
@@ -87,6 +387,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794607200000:zzkb3f",
+    "channel": "playsports-golf",
+    "title": "DP World Tour",
+    "start": 1794607200000,
+    "end": 1794618000000,
+    "description": "Verslag van de tweede dag van de DP World Tour Championship, gespeeld in Dubai, Verenigde Arabische Emiraten.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825713~~2FEP049392790506%2Cimi%3A3375965b7ea82d544ae81bbceb10e4fd1fb7ac70/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 92790000,
+    "episode": 2026111306,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825713~~2FEP049392790506,imi:3375965b7ea82d544ae81bbceb10e4fd1fb7ac70",
+      "episodeName": "DP World Tour Championship: Dag 2",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
     }
   }
 ]

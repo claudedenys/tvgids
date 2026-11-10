@@ -1,9 +1,37 @@
 [
   {
-    "id": "vrt1:1794441300000:n5mqgl",
+    "id": "vrt1:1794441000000:ykw7nd",
+    "channel": "vrt1",
+    "title": "Dagelijkse kost",
+    "start": 1794441000000,
+    "end": 1794441900000,
+    "description": "Ovengeroosterde prei, botersaus met parmezaan, duxelles met truffel en balsamico, gepocheerd ei en crumble van aardappel.",
+    "category": [
+      "Koken"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34476685~~2FEP025112262323%2Cimi%3Af95ec60c901062db0067e0f4cb752ddd4c2a92ad/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 17,
+    "episode": 4205,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34476685~~2FEP025112262323,imi:f95ec60c901062db0067e0f4cb752ddd4c2a92ad",
+      "episodeName": "Gebraiseerde prei, gepocheerd ei, beurre blanc met parmezaan en duxelles",
+      "genres": [
+        "Koken"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fec914979-4be3-4c32-891a-b7c35a77b331"
+    }
+  },
+  {
+    "id": "vrt1:1794441900000:n5mqgl",
     "channel": "vrt1",
     "title": "Journaallus",
-    "start": 1794441300000,
+    "start": 1794441900000,
     "end": 1794459600000,
     "description": "Doorlopende herhalingen van het journaal in lusvorm tot de volgende ochtend.",
     "category": [
@@ -178,33 +206,33 @@
     }
   },
   {
-    "id": "vrt1:1794462900000:1r0y4s2",
+    "id": "vrt1:1794462900000:usts0h",
     "channel": "vrt1",
-    "title": "Zotte dieren",
+    "title": "Videoclips #likeme",
     "start": 1794462900000,
     "end": 1794463200000,
-    "description": "Gary brengt de beste en gekste dansrages die overal op het internet te vinden zijn.",
+    "description": "De videoclip van 'Wat zie ik je graag ' uit aflevering 3.",
     "category": [
-      "Kids",
-      "Avontuur"
+      "Avontuur",
+      "Muziek"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F23597383~~2FEP049761730006%2Cimi%3A5da7cda40550d43f9fc369f57b68a883a72d6eb3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32667751~~2FEP056506200034%2Cimi%3A22ff9af2c1f3fe2665f3ca74cd9ec820346ed779/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 1,
+    "season": 6,
     "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F23597383~~2FEP049761730006,imi:5da7cda40550d43f9fc369f57b68a883a72d6eb3",
-      "episodeName": "Aflevering 6",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32667751~~2FEP056506200034,imi:22ff9af2c1f3fe2665f3ca74cd9ec820346ed779",
+      "episodeName": "Wat zie ik je graag",
       "genres": [
-        "Kids",
-        "Avontuur"
+        "Avontuur",
+        "Muziek"
       ],
-      "productionDate": "2023",
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23534172~~2FSH049761730000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29700826~~2FSH056506200000"
     }
   },
   {
@@ -703,7 +731,7 @@
     "title": "Switch",
     "start": 1794486600000,
     "end": 1794488700000,
-    "description": "De eerste quiz ter wereld zonder punten, met Fien Germijns. Elke dag van de week strijden dezelfde vijf kandidaten voor duizend euro.",
+    "description": "Fien Germijns ontvangt deze week Maud, Idries, Camilo, Victor en Antony in SWITCH. Zij strijden elke dag om die duizend euro binnen te halen.",
     "category": [
       "Spelprogramma",
       "Entertainment"
@@ -848,7 +876,7 @@
     "channel": "vrt1",
     "title": "Witse",
     "start": 1794499500000,
-    "end": 1794503040000,
+    "end": 1794502920000,
     "description": "Als een makelaar wordt neergeschoten, blijkt Sam het slachtoffer te kennen. Een oplichter wordt verdacht van de moord, maar al snel blijkt dat er twee verschillende voetsporen het huis verlaten.",
     "category": [
       "Misdaaddrama",
@@ -874,10 +902,10 @@
     }
   },
   {
-    "id": "vrt1:1794503040000:qpj1ag",
+    "id": "vrt1:1794502920000:qpj1ag",
     "channel": "vrt1",
     "title": "Het weer (vooravond)",
-    "start": 1794503040000,
+    "start": 1794502920000,
     "end": 1794503400000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
@@ -992,8 +1020,8 @@
     "channel": "vrt1",
     "title": "Switch",
     "start": 1794509100000,
-    "end": 1794511200000,
-    "description": "De eerste quiz ter wereld zonder punten, met Fien Germijns. Elke dag van de week strijden dezelfde vijf kandidaten voor duizend euro.",
+    "end": 1794511500000,
+    "description": "Fien Germijns ontvangt deze week Maud, Idries, Camilo, Victor en Antony in SWITCH. Zij strijden elke dag om die duizend euro binnen te halen.",
     "category": [
       "Spelprogramma",
       "Entertainment"
@@ -1018,11 +1046,11 @@
     }
   },
   {
-    "id": "vrt1:1794511200000:1rw80yh",
+    "id": "vrt1:1794511500000:1rw80yh",
     "channel": "vrt1",
     "title": "Het weer",
-    "start": 1794511200000,
-    "end": 1794511500000,
+    "start": 1794511500000,
+    "end": 1794511800000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
@@ -1048,11 +1076,11 @@
     }
   },
   {
-    "id": "vrt1:1794511500000:4k2soi",
+    "id": "vrt1:1794511800000:4k2soi",
     "channel": "vrt1",
     "title": "Thuis",
-    "start": 1794511500000,
-    "end": 1794513300000,
+    "start": 1794511800000,
+    "end": 1794513600000,
     "description": "Na een zoveelste discussie met Andreas besluit Marie hem te geven wat hij wil. Nancy doet een lugubere ontdekking. Peter betrapt Christine wanneer ze stiekem even terugkeert naar de loft. Sunny bezorgt Vince een fijn moment tijdens het werk.",
     "category": [
       "Dramaserie",
@@ -1078,11 +1106,11 @@
     }
   },
   {
-    "id": "vrt1:1794513300000:86sslw",
+    "id": "vrt1:1794513600000:86sslw",
     "channel": "vrt1",
     "title": "De laatste lach",
-    "start": 1794513300000,
-    "end": 1794516300000,
+    "start": 1794513600000,
+    "end": 1794516600000,
     "description": "Vijf mensen die ongeneeslijk ziek zijn kiezen voor de troost van de lach. Ze geven een humorist een bijzondere opdracht: schrijf een grafrede, maar dan wel eentje om te lachen. Om die afscheidsspeech te schrijven, moeten ze elkaar leren kennen.",
     "category": [
       "Miniserie",
@@ -1108,11 +1136,11 @@
     }
   },
   {
-    "id": "vrt1:1794516300000:kp35w5",
+    "id": "vrt1:1794516600000:kp35w5",
     "channel": "vrt1",
     "title": "De goldies",
-    "start": 1794516300000,
-    "end": 1794518400000,
+    "start": 1794516600000,
+    "end": 1794518700000,
     "description": "Flory trakteert haar vriendinnen op een les tai-chi. Niet iedereen staat meteen te springen, maar de nieuwsgierigheid wint het van de tegenzin. Al snel blijkt dat de vriendinnen niet veel goesting hebben in innerlijke rust of gehoorzaamheid.",
     "category": [
       "Reality"
@@ -1136,11 +1164,11 @@
     }
   },
   {
-    "id": "vrt1:1794518400000:39vxy3",
+    "id": "vrt1:1794518700000:39vxy3",
     "channel": "vrt1",
     "title": "VRT NWS laat",
-    "start": 1794518400000,
-    "end": 1794519300000,
+    "start": 1794518700000,
+    "end": 1794519600000,
     "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
     "category": [
       "Actua"
@@ -1164,11 +1192,11 @@
     }
   },
   {
-    "id": "vrt1:1794519300000:behtd8",
+    "id": "vrt1:1794519600000:behtd8",
     "channel": "vrt1",
     "title": "Het weer (laat)",
-    "start": 1794519300000,
-    "end": 1794519600000,
+    "start": 1794519600000,
+    "end": 1794519900000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1192,12 +1220,12 @@
     }
   },
   {
-    "id": "vrt1:1794519600000:39z16v",
+    "id": "vrt1:1794519900000:39z16v",
     "channel": "vrt1",
     "title": "VRT NWS Pano",
-    "start": 1794519600000,
-    "end": 1794522060000,
-    "description": "Duidingsmagazine met indringende reportages over de grote thema's van deze tijd. Een gedreven team van reporters diept de beste nieuwsverhalen uit en zoekt het antwoord op actuele vragen.",
+    "start": 1794519900000,
+    "end": 1794522360000,
+    "description": "In het ziekenhuis is ketamine een verdovingsmiddel. In het uitgangsleven is het een drug, intussen een van de populairste in ons land, naast cannabis, cocaïne en xtc. Het middel staat bekend om zijn dissociatieve werking.",
     "category": [
       "Docu"
     ],
@@ -1210,7 +1238,7 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34476203~~2FEP066339670005,imi:b208bbdc8390770a086cf49396fe8e0138485186",
-      "episodeName": "Aflevering 5",
+      "episodeName": "Ketamine kartel",
       "genres": [
         "Docu"
       ],
@@ -1220,11 +1248,11 @@
     }
   },
   {
-    "id": "vrt1:1794522060000:14j79ss",
+    "id": "vrt1:1794522360000:14j79ss",
     "channel": "vrt1",
     "title": "Eurodreams",
-    "start": 1794522060000,
-    "end": 1794522300000,
+    "start": 1794522360000,
+    "end": 1794522600000,
     "description": "Over de trekking van de lotto EuroDreams.",
     "category": [
       "Spelprogramma",
@@ -1250,11 +1278,11 @@
     }
   },
   {
-    "id": "vrt1:1794522300000:4k2soi",
+    "id": "vrt1:1794522600000:4k2soi",
     "channel": "vrt1",
     "title": "Thuis",
-    "start": 1794522300000,
-    "end": 1794523800000,
+    "start": 1794522600000,
+    "end": 1794524100000,
     "description": "Na een zoveelste discussie met Andreas besluit Marie hem te geven wat hij wil. Nancy doet een lugubere ontdekking. Peter betrapt Christine wanneer ze stiekem even terugkeert naar de loft. Sunny bezorgt Vince een fijn moment tijdens het werk.",
     "category": [
       "Dramaserie",
@@ -1280,11 +1308,11 @@
     }
   },
   {
-    "id": "vrt1:1794523800000:ykw7nd",
+    "id": "vrt1:1794524100000:ykw7nd",
     "channel": "vrt1",
     "title": "Dagelijkse kost",
-    "start": 1794523800000,
-    "end": 1794524700000,
+    "start": 1794524100000,
+    "end": 1794525000000,
     "description": "Thaise snack op basis van wijting met verse zoete chilisaus, geroosterde pinda's, koriander en lente-ui.",
     "category": [
       "Koken"

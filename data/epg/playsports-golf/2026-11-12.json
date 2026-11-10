@@ -30,16 +30,47 @@
     }
   },
   {
-    "id": "playsports-golf:1794448800000:8c6tnl",
+    "id": "playsports-golf:1794447000000:36ys9t",
     "channel": "playsports-golf",
-    "title": "Ziggo Sport Extra",
-    "start": 1794448800000,
-    "end": 1794466800000,
-    "description": "Neem nu Ziggo Sport Totaal. Het sportpakket met zes kanalen vol topsport!",
+    "title": "PGA Tour - The Cut",
+    "start": 1794447000000,
+    "end": 1794448800000,
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial%2Cimi%3A76bea1c09fffe632e287bf22e13fc8384551ed21/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31257154~~2FEP036113230284%2Cimi%3A876144e593098631182bc64081128ecd1e2adda9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102025,
+    "episode": 66,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31257154~~2FEP036113230284,imi:876144e593098631182bc64081128ecd1e2adda9",
+      "episodeName": "Aflevering 66",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
+    }
+  },
+  {
+    "id": "playsports-golf:1794448800000:1tgnqwn",
+    "channel": "playsports-golf",
+    "title": "On The Bubble: Fighting for their Future",
+    "start": 1794448800000,
+    "end": 1794450600000,
+    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial%2Cimi%3A7a487628d82aa2de4c311f32d679926f08a5225a/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -47,10 +78,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F31193031~~2FSH060430870000~~2Fspecial,imi:76bea1c09fffe632e287bf22e13fc8384551ed21",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial,imi:7a487628d82aa2de4c311f32d679926f08a5225a",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
@@ -58,11 +90,191 @@
     }
   },
   {
+    "id": "playsports-golf:1794450600000:qt4vc6",
+    "channel": "playsports-golf",
+    "title": "HotelPlanner Tour Series Hoogtepunten",
+    "start": 1794450600000,
+    "end": 1794452400000,
+    "description": "Hoogtepunten van de Hangzhou Open, gespeeld in de HotelPlanner Tour Series van 2026.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34245800~~2FEP055625730059%2Cimi%3A435f820f257947ea4ab1bdc40eedd1a302fe9e3a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 36,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34245800~~2FEP055625730059,imi:435f820f257947ea4ab1bdc40eedd1a302fe9e3a",
+      "episodeName": "Hangzhou Open",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22039946~~2FSH055625730000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794452400000:lt7aff",
+    "channel": "playsports-golf",
+    "title": "DP World Tour Hoogtepunten",
+    "start": 1794452400000,
+    "end": 1794454200000,
+    "description": "Hoogtepunten van de Abu Dhabi Championship, gespeeld op de Yas Links GC in Abu Dhabi, Verenigde Arabische Emiraten.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34422260~~2FEP049393090267%2Cimi%3A060bae48b0865aaa1d1a810782c487fecb740e08/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111167,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34422260~~2FEP049393090267,imi:060bae48b0865aaa1d1a810782c487fecb740e08",
+      "episodeName": "Abu Dhabi Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F23151354~~2FSH049393090000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794454200000:1tgnqwn",
+    "channel": "playsports-golf",
+    "title": "On The Bubble: Fighting for their Future",
+    "start": 1794454200000,
+    "end": 1794456000000,
+    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial%2Cimi%3Abe835bb2bd5c73424f9487ac0fcc93365c5ee3cb/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial,imi:be835bb2bd5c73424f9487ac0fcc93365c5ee3cb",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports-golf:1794456000000:mkyqbr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1794456000000,
+    "end": 1794459600000,
+    "description": "Hoogtepunten van de World Wide Technology Championship, gespeeld op het El Cardonal at Diamante in Los Cabos, Mexico.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34431757~~2FEP055230080115%2Cimi%3A6fe60eec0d80d1402a7ea111b13e8650cf523f9c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111115,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34431757~~2FEP055230080115,imi:6fe60eec0d80d1402a7ea111b13e8650cf523f9c",
+      "episodeName": "World Wide Technology Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794459600000:v0dpte",
+    "channel": "playsports-golf",
+    "title": "LPGA European Tour Hoogtepunten",
+    "start": 1794459600000,
+    "end": 1794463200000,
+    "description": "Hoogtepunten van de Aramco China Championship, gespeeld op de Mission Hills China in Shenzhen, China.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34457794~~2FEP050323180073%2Cimi%3Ac86e0ba151e35e8ab15c6b776094c8e1214994bd/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111173,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34457794~~2FEP050323180073,imi:c86e0ba151e35e8ab15c6b776094c8e1214994bd",
+      "episodeName": "Aramco China Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F12733886~~2FSH050323180000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794463200000:mkyqbr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1794463200000,
+    "end": 1794466800000,
+    "description": "Hoogtepunten van de World Wide Technology Championship, gespeeld op het El Cardonal at Diamante in Los Cabos, Mexico.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34431757~~2FEP055230080115%2Cimi%3A9c59525fd4fa730044d800c91b4c85c30bc5d267/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026111115,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34431757~~2FEP055230080115,imi:9c59525fd4fa730044d800c91b4c85c30bc5d267",
+      "episodeName": "World Wide Technology Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
+    }
+  },
+  {
     "id": "playsports-golf:1794466800000:zzkb3f",
     "channel": "playsports-golf",
     "title": "DP World Tour",
     "start": 1794466800000,
-    "end": 1794506400000,
+    "end": 1794488400000,
     "description": "Verslag van de eerste dag van de DP World Tour Championship, gespeeld in Dubai, Verenigde Arabische Emiraten.",
     "category": [
       "Sport",
@@ -88,11 +300,191 @@
     }
   },
   {
-    "id": "playsports-golf:1794506400000:1ehmmzr",
+    "id": "playsports-golf:1794488400000:mkyqbr",
+    "channel": "playsports-golf",
+    "title": "PGA Tour Hoogtepunten",
+    "start": 1794488400000,
+    "end": 1794492000000,
+    "description": "Hoogtepunten van de Butterfield Bermuda Championship, gespeeld op de Port Royal Golf Course in Southampton, Bermuda.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34300490~~2FEP055230080111%2Cimi%3A754afb9a32fd64f0f129182948f720b4c5b15033/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026102811,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34300490~~2FEP055230080111,imi:754afb9a32fd64f0f129182948f720b4c5b15033",
+      "episodeName": "Butterfield Bermuda Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29193110~~2FSH055230080000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794492000000:1oidiqx",
+    "channel": "playsports-golf",
+    "title": "PGA Champions Tour Hoogtepunten",
+    "start": 1794492000000,
+    "end": 1794495600000,
+    "description": "Hoogtepunten van de Simmons Bank Championship, gespeeld in de PGA Tour Champions.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31395846~~2FEP036138130124%2Cimi%3A1d1fc4f94d8938cd74c4a56a2caf44f91910f271/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102025,
+    "episode": 2025102924,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31395846~~2FEP036138130124,imi:1d1fc4f94d8938cd74c4a56a2caf44f91910f271",
+      "episodeName": "Simmons Bank Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1dd41e22-12a3-4fcf-b680-4cc67156fcbf"
+    }
+  },
+  {
+    "id": "playsports-golf:1794495600000:36ys9t",
+    "channel": "playsports-golf",
+    "title": "PGA Tour - The Cut",
+    "start": 1794495600000,
+    "end": 1794497400000,
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31257154~~2FEP036113230284%2Cimi%3A176be542bc35fc25905e3bace2515944a4609557/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102025,
+    "episode": 66,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31257154~~2FEP036113230284,imi:176be542bc35fc25905e3bace2515944a4609557",
+      "episodeName": "Aflevering 66",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
+    }
+  },
+  {
+    "id": "playsports-golf:1794497400000:1tgnqwn",
+    "channel": "playsports-golf",
+    "title": "On The Bubble: Fighting for their Future",
+    "start": 1794497400000,
+    "end": 1794499200000,
+    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial%2Cimi%3A8a263b27525ee7b659426e7a9d0a936165e28684/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31788797~~2FSH061771270000~~2Fspecial,imi:8a263b27525ee7b659426e7a9d0a936165e28684",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports-golf:1794499200000:brfzum",
+    "channel": "playsports-golf",
+    "title": "WTGL Golf League",
+    "start": 1794499200000,
+    "end": 1794506400000,
+    "description": "Verslag van de wedstrijd Motor City Golf Club - Los Angeles Golf Club, gespeeld in de WTGL Golf League.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002%2Cimi%3Ad16fc7de0d18a8e90b3cb8b901e1b0933baa6369/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 17490000,
+    "episode": 2026111002,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34305672~~2FEP066817490002,imi:d16fc7de0d18a8e90b3cb8b901e1b0933baa6369",
+      "episodeName": "Motor City Golf Club - Los Angeles Golf Club",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34198343~~2FSH066817490000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794506400000:rnzpmx",
+    "channel": "playsports-golf",
+    "title": "PGA Korn Ferry Tour Hoogtepunten",
+    "start": 1794506400000,
+    "end": 1794510000000,
+    "description": "Hoogtepunten van het Nationwide Children's Hospital Championship, gespeeld in de Korn Ferry Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34124211~~2FEP036179500049%2Cimi%3A11caac50c6ee84ca94af96e76d3b5c8fde4fa67b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 2026092749,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34124211~~2FEP036179500049,imi:11caac50c6ee84ca94af96e76d3b5c8fde4fa67b",
+      "episodeName": "Nationwide Children's Hospital Championship",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17120790~~2FSH036179500000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794510000000:1ehmmzr",
     "channel": "playsports-golf",
     "title": "PGA Tour",
-    "start": 1794506400000,
-    "end": 1794553200000,
+    "start": 1794510000000,
+    "end": 1794520800000,
     "description": "Verslag van de eerste dag van de Austin Championship, gespeeld in Austin, Texas.",
     "category": [
       "Sport",
@@ -115,6 +507,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F845788~~2FSH034450030000"
+    }
+  },
+  {
+    "id": "playsports-golf:1794520800000:zzkb3f",
+    "channel": "playsports-golf",
+    "title": "DP World Tour",
+    "start": 1794520800000,
+    "end": 1794531600000,
+    "description": "Verslag van de eerste dag van de DP World Tour Championship, gespeeld in Dubai, Verenigde Arabische Emiraten.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F31825699~~2FEP049392790505%2Cimi%3A731d876c0faf6af84ca856b556ba065db1952d13/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 92790000,
+    "episode": 2026111205,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F31825699~~2FEP049392790505,imi:731d876c0faf6af84ca856b556ba065db1952d13",
+      "episodeName": "DP World Tour Championship: Dag 1",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
     }
   }
 ]

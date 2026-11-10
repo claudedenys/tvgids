@@ -32,7 +32,7 @@
     "channel": "play5",
     "title": "NCIS: Hawaii",
     "start": 1794355500000,
-    "end": 1794359100000,
+    "end": 1794358800000,
     "description": "Jane wordt ondervraagd na de arrestatie van Maggie Shaw. Ondertussen onderzoekt de rest van het team een mysterieuze zaak omtrent mariniers die beschadigde gehoorgangen hebben door een ultrasonisch wapen. Ernie bezoekt zijn vriend dr. Tony Lee.",
     "category": [
       "Misdaaddrama",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play5:1794359100000:1aas33z",
+    "id": "play5:1794358800000:1aas33z",
     "channel": "play5",
     "title": "Fire Country",
-    "start": 1794359100000,
-    "end": 1794362700000,
+    "start": 1794358800000,
+    "end": 1794361200000,
     "description": "Wanneer een enorme en onvoorspelbare natuurbrand uitbreekt, wordt het team van station 42 opgeroepen om te helpen bij de reddingswerkzaamheden.",
     "category": [
       "Dramaserie"
@@ -86,11 +86,11 @@
     }
   },
   {
-    "id": "play5:1794362700000:48zb9",
+    "id": "play5:1794361200000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1794362700000,
-    "end": 1794369600000,
+    "start": 1794361200000,
+    "end": 1794369000000,
     "description": null,
     "category": [],
     "image": null,
@@ -102,6 +102,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a016d317a1d4640c72740a0e3c2f9cf8f8430df6",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1794369000000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1794369000000,
+    "end": 1794369600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:27afa1ecbe90313c1961fa3c619c4e23fe082f7b",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

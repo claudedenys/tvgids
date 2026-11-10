@@ -328,7 +328,7 @@
     "channel": "vrtcanvas",
     "title": "Therapie",
     "start": 1794428700000,
-    "end": 1794431700000,
+    "end": 1794432000000,
     "description": "Een vrouw van 40 onderzoekt op welke manier vertrouwen kan terugkomen in haar relatie nadat ze haar man heeft bedrogen. Een twintiger heeft last van verregaande smetvrees.",
     "category": [
       "Reality",
@@ -354,11 +354,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1794431700000:m8bu5t",
+    "id": "vrtcanvas:1794432000000:m8bu5t",
     "channel": "vrtcanvas",
     "title": "Mariinka",
-    "start": 1794431700000,
-    "end": 1794437520000,
+    "start": 1794432000000,
+    "end": 1794437820000,
     "description": "In het stadje Mariinka in Oost-Oekraïne zijn de levens van meerdere jonge Oekraïners voorgoed gevormd door meer dan tien jaar oorlog en conflict in de Donbas.",
     "category": [
       "Film",
@@ -384,11 +384,11 @@
     }
   },
   {
-    "id": "vrtcanvas:1794437520000:1rw80yh",
+    "id": "vrtcanvas:1794437820000:1rw80yh",
     "channel": "vrtcanvas",
     "title": "Het weer",
-    "start": 1794437520000,
-    "end": 1794437700000,
+    "start": 1794437820000,
+    "end": 1794438000000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer",
@@ -411,36 +411,6 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
-    }
-  },
-  {
-    "id": "vrtcanvas:1794437700000:1m2jji3",
-    "channel": "vrtcanvas",
-    "title": "Onder ons: crimi",
-    "start": 1794437700000,
-    "end": 1794439500000,
-    "description": "Gerechtsjournalisten van VRT NWS geven uitleg bij nieuwsverhalen rond justitie, met een blik ook achter de schermen, zodat je beter begrijpt wat er speelt.",
-    "category": [
-      "Misdaad",
-      "Actualiteitsmagazine"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34476291~~2FEP059931580047%2Cimi%3A32d31ed742cee363b9a4752c9db57a115178abd1/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 4,
-    "episode": 10,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34476291~~2FEP059931580047,imi:32d31ed742cee363b9a4752c9db57a115178abd1",
-      "episodeName": "Aflevering 10",
-      "genres": [
-        "Misdaad",
-        "Actualiteitsmagazine"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30968104~~2FSH059931580000"
     }
   }
 ]
