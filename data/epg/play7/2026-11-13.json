@@ -34,7 +34,7 @@
     "channel": "play7",
     "title": "A Place in the Sun",
     "start": 1794531000000,
-    "end": 1794534600000,
+    "end": 1794533700000,
     "description": "Acht jaar geleden ontmoetten Shami en Clive elkaar voor het eerst bij de vriesafdeling in de supermarkt. In de jaren die ze sindsdien samen hebben doorgebracht, zijn ze verliefd geworden op Sicilië, en nu willen ze investeren in een woning.",
     "category": [
       "Huis & Tuin",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play7:1794534600000:48zb9",
+    "id": "play7:1794533700000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1794534600000,
-    "end": 1794542400000,
+    "start": 1794533700000,
+    "end": 1794541800000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c3119418c72d76e4c32dc5306f709a02b3dab61e",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1794541800000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1794541800000,
+    "end": 1794542400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:5692828d2f3c6b88e53b21bb9c6d066a24592bed",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

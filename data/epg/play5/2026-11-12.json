@@ -1,10 +1,10 @@
 [
   {
-    "id": "play5:1794440400000:7bb6ek",
+    "id": "play5:1794440700000:7bb6ek",
     "channel": "play5",
     "title": "Modern Family",
-    "start": 1794440400000,
-    "end": 1794442500000,
+    "start": 1794440700000,
+    "end": 1794442800000,
     "description": "Phil vertrekt bij zijn vastgoedfirma om voor zichzelf te beginnen en besluit dat een solokampeerreis in de wildernis de ideale manier is om zijn zelfvertrouwen een boost te geven.",
     "category": [
       "Sitcom"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "play5:1794442500000:4hua1r",
+    "id": "play5:1794442800000:4hua1r",
     "channel": "play5",
     "title": "NCIS: Hawaii",
-    "start": 1794442500000,
-    "end": 1794446100000,
+    "start": 1794442800000,
+    "end": 1794445800000,
     "description": "Terwijl Jesse geniet van een dagje zeilen met zijn dochter Gracie, gijzelen piraten plotseling zijn jacht en alle passagiers. Het is aan zijn team om zijn dochter op te sporen en te redden.",
     "category": [
       "Misdaaddrama",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play5:1794446100000:1aas33z",
+    "id": "play5:1794445800000:1aas33z",
     "channel": "play5",
     "title": "Fire Country",
-    "start": 1794446100000,
-    "end": 1794449700000,
+    "start": 1794445800000,
+    "end": 1794448500000,
     "description": "Een interne onderzoeker verdenkt Jake ervan de seriebrandstichter te zijn die recente branden heeft aangestoken, dus nemen Bode en de bemanning de taak op zich om het te onderzoeken.",
     "category": [
       "Dramaserie"
@@ -86,11 +86,11 @@
     }
   },
   {
-    "id": "play5:1794449700000:48zb9",
+    "id": "play5:1794448500000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1794449700000,
-    "end": 1794456000000,
+    "start": 1794448500000,
+    "end": 1794455400000,
     "description": null,
     "category": [],
     "image": null,
@@ -110,11 +110,35 @@
     }
   },
   {
+    "id": "play5:1794455400000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1794455400000,
+    "end": 1794456000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a4901b88f5ac8e53baca576e5c50508ab224aa7f",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play5:1794456000000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1794456000000,
-    "end": 1794456900000,
+    "end": 1794459300000,
     "description": null,
     "category": [],
     "image": null,
@@ -134,11 +158,11 @@
     }
   },
   {
-    "id": "play5:1794456900000:hxtisv",
+    "id": "play5:1794459300000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1794456900000,
-    "end": 1794459300000,
+    "start": 1794459300000,
+    "end": 1794461700000,
     "description": "Teddy belegt een spoedvergadering om het stageprogramma te bespreken. Link worstelt met twijfels terwijl hij zich voorbereidt op een grote operatie. Nick biedt broodnodige begeleiding aan een worstelende Lucas.",
     "category": [
       "Dramaserie",
@@ -164,16 +188,16 @@
     }
   },
   {
-    "id": "play5:1794459300000:1hk0z8w",
+    "id": "play5:1794461700000:1hk0z8w",
     "channel": "play5",
     "title": "Friends",
-    "start": 1794459300000,
-    "end": 1794460800000,
+    "start": 1794461700000,
+    "end": 1794463200000,
     "description": "Monica en Rachel stellen alles in het werk om hun oude appartement terug te krijgen van de jongens. Ross vraagt Emily ten huwelijk en ze zegt ja, maar de vrienden vinden dat hun relatie nog te pril.",
     "category": [
       "Sitcom"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F1712344~~2FEP028439180048%2Cimi%3A54b6b37df15c4c4ab17c2ecaa33323f9b5fa717e/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F1712344~~2FEP028439180048%2Cimi%3Aace0442e90e1cbfb43183971d39648fd924dee0d/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 4,
@@ -181,7 +205,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F1712344~~2FEP028439180048,imi:54b6b37df15c4c4ab17c2ecaa33323f9b5fa717e",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F1712344~~2FEP028439180048,imi:ace0442e90e1cbfb43183971d39648fd924dee0d",
       "episodeName": "The One With All the Haste",
       "genres": [
         "Sitcom"
@@ -192,11 +216,11 @@
     }
   },
   {
-    "id": "play5:1794460800000:1hk0z8w",
+    "id": "play5:1794463200000:1hk0z8w",
     "channel": "play5",
     "title": "Friends",
-    "start": 1794460800000,
-    "end": 1794462000000,
+    "start": 1794463200000,
+    "end": 1794464400000,
     "description": "Monica heeft Emily's trouwjurk aan. Chandler dwingt Joey om zich in een slaapkliniek te laten behandelen voor zijn gesnurk. Rachel jaagt Joshua op de vlucht door hem in een impulsieve bui ten huwelijk te vragen.",
     "category": [
       "Sitcom"
@@ -220,11 +244,11 @@
     }
   },
   {
-    "id": "play5:1794462000000:7bb6ek",
+    "id": "play5:1794464400000:7bb6ek",
     "channel": "play5",
     "title": "Modern Family",
-    "start": 1794462000000,
-    "end": 1794463200000,
+    "start": 1794464400000,
+    "end": 1794465600000,
     "description": "De hele club vertelt over de grootste beroemdheden die ze zijn tegengekomen. Phil laat een huis zien aan zijn muzikale held en is vastbesloten om een goede indruk te maken, ondanks de hevige pijn in een onhandig lichaamsdeel.",
     "category": [
       "Sitcom"
@@ -248,11 +272,11 @@
     }
   },
   {
-    "id": "play5:1794463200000:7bb6ek",
+    "id": "play5:1794465600000:7bb6ek",
     "channel": "play5",
     "title": "Modern Family",
-    "start": 1794463200000,
-    "end": 1794464700000,
+    "start": 1794465600000,
+    "end": 1794467100000,
     "description": "Phil vertrekt bij zijn vastgoedfirma om voor zichzelf te beginnen en besluit dat een solokampeerreis in de wildernis de ideale manier is om zijn zelfvertrouwen een boost te geven.",
     "category": [
       "Sitcom"
@@ -276,11 +300,11 @@
     }
   },
   {
-    "id": "play5:1794464700000:1w8dao1",
+    "id": "play5:1794467100000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1794464700000,
-    "end": 1794467400000,
+    "start": 1794467100000,
+    "end": 1794469800000,
     "description": "Het lichaam van een al jarenlang vermiste maffioso wordt gevonden door bouwvakkers. Castle en Beckett zijn op zoek naar iemand die 35 jaar geleden getuige was van de moord.",
     "category": [
       "Misdaaddrama",
@@ -306,11 +330,11 @@
     }
   },
   {
-    "id": "play5:1794467400000:48zb9",
+    "id": "play5:1794469800000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1794467400000,
-    "end": 1794469200000,
+    "start": 1794469800000,
+    "end": 1794471600000,
     "description": null,
     "category": [],
     "image": null,
@@ -330,11 +354,11 @@
     }
   },
   {
-    "id": "play5:1794469200000:1w8dao1",
+    "id": "play5:1794471600000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1794469200000,
-    "end": 1794472200000,
+    "start": 1794471600000,
+    "end": 1794474600000,
     "description": "Een mysterieuze motorrijder schiet een veelbelovende professionele skateboarder neer. Castle en Beckett duiken in de wereld van de 'extreme sports' om de zaak te onderzoeken.",
     "category": [
       "Misdaaddrama",
@@ -360,11 +384,11 @@
     }
   },
   {
-    "id": "play5:1794472200000:sib630",
+    "id": "play5:1794474600000:sib630",
     "channel": "play5",
     "title": "Elsbeth",
-    "start": 1794472200000,
-    "end": 1794475500000,
+    "start": 1794474600000,
+    "end": 1794477600000,
     "description": "Elsbeth wordt eindelijk een echte New Yorker wanneer ze wordt opgeroepen voor jurydienst. Ze komt terecht in een moordzaak waar ze het opneemt tegen de ongewoon lastige rechter, Milton Crawford, die een geduchte tegenstander blijkt te zijn.",
     "category": [
       "Dramaserie",
@@ -390,11 +414,11 @@
     }
   },
   {
-    "id": "play5:1794475500000:sib630",
+    "id": "play5:1794477600000:sib630",
     "channel": "play5",
     "title": "Elsbeth",
-    "start": 1794475500000,
-    "end": 1794478800000,
+    "start": 1794477600000,
+    "end": 1794480600000,
     "description": "Elsbeth komt in de televisiewereld terecht, nadat de hoofdspeler van een politieserie in zijn kantoor wordt vermoord. Hoewel het lijkt alsof een ontevreden fan de dader is, begint Elsbeth Regina Coburn, de ster van de serie, te verdenken.",
     "category": [
       "Dramaserie",
@@ -420,11 +444,11 @@
     }
   },
   {
-    "id": "play5:1794478800000:yknhhu",
+    "id": "play5:1794480600000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1794478800000,
-    "end": 1794482100000,
+    "start": 1794480600000,
+    "end": 1794483600000,
     "description": "Een wetenschappelijk onderzoeker wordt vermoord en de Russische ambassade vraagt het NCIS-team om de belangrijkste verdachte in de VS op te sporen.",
     "category": [
       "Misdaaddrama",
@@ -450,11 +474,11 @@
     }
   },
   {
-    "id": "play5:1794482100000:fw222e",
+    "id": "play5:1794483600000:fw222e",
     "channel": "play5",
     "title": "Truth Be Told",
-    "start": 1794482100000,
-    "end": 1794485400000,
+    "start": 1794483600000,
+    "end": 1794486600000,
     "description": "Terwijl ze een oude zaak bekijkt, komt Poppy oog in oog te staan met de man die ze achter de tralies heeft gekregen.",
     "category": [
       "Misdaaddrama",
@@ -480,11 +504,11 @@
     }
   },
   {
-    "id": "play5:1794485400000:7r8smq",
+    "id": "play5:1794486600000:7r8smq",
     "channel": "play5",
     "title": "SkyMed",
-    "start": 1794485400000,
-    "end": 1794489000000,
+    "start": 1794486600000,
+    "end": 1794489900000,
     "description": "Wanneer Weezer Crystals geheim ontdekt, moet zij de gevolgen onder ogen zien.",
     "category": [
       "Dramaserie"
@@ -508,11 +532,11 @@
     }
   },
   {
-    "id": "play5:1794489000000:7r8smq",
+    "id": "play5:1794489900000:7r8smq",
     "channel": "play5",
     "title": "SkyMed",
-    "start": 1794489000000,
-    "end": 1794492300000,
+    "start": 1794489900000,
+    "end": 1794492900000,
     "description": "Terwijl de SkyMed-teamleden worden geconfronteerd met een onderzoek naar het ongeval van een patiënt, worstelt Hayley met het verzamelen van vage herinneringen aan de oorzaak van haar terugval- en of zij het dodelijke ongeval heeft veroorzaakt.",
     "category": [
       "Dramaserie"
@@ -536,11 +560,11 @@
     }
   },
   {
-    "id": "play5:1794492300000:7r8smq",
+    "id": "play5:1794492900000:7r8smq",
     "channel": "play5",
     "title": "SkyMed",
-    "start": 1794492300000,
-    "end": 1794495600000,
+    "start": 1794492900000,
+    "end": 1794496200000,
     "description": "Terwijl de druk rondom de SkyMed-uitbreiding tot een hoogtepunt komt, vecht een van de cockpitbemanningen voor zijn leven door een schokkende noodsituatie.",
     "category": [
       "Dramaserie"
@@ -564,11 +588,11 @@
     }
   },
   {
-    "id": "play5:1794495600000:1w8dao1",
+    "id": "play5:1794496200000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1794495600000,
-    "end": 1794498900000,
+    "start": 1794496200000,
+    "end": 1794499200000,
     "description": "Beckett is de hoofdverdachte als een man die zij achtervolgde wordt vermoord. Wanneer er een tweede persoon met haar dienstwapen wordt gedood is er nog maar één optie; vluchten.",
     "category": [
       "Misdaaddrama",
@@ -594,10 +618,10 @@
     }
   },
   {
-    "id": "play5:1794498900000:1w8dao1",
+    "id": "play5:1794499200000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1794498900000,
+    "start": 1794499200000,
     "end": 1794502200000,
     "description": "Als een verrassing de trouwdag van Beckett en Castle dreigt te verpesten, worden ze geforceerd om een wilde missie vol gemaskerde mannen en boosaardige motorrijders te ondernemen.",
     "category": [
@@ -806,7 +830,7 @@
     "channel": "play5",
     "title": "Friends",
     "start": 1794520500000,
-    "end": 1794522000000,
+    "end": 1794522300000,
     "description": "Nadat Joey bijna de trouwring is kwijtgeraakt, vraagt Ross zowel Joey als Chandler als getuige. De meiden houden een babyshower voor Phoebe.",
     "category": [
       "Sitcom"
@@ -830,10 +854,10 @@
     }
   },
   {
-    "id": "play5:1794522000000:7bb6ek",
+    "id": "play5:1794522300000:7bb6ek",
     "channel": "play5",
     "title": "Modern Family",
-    "start": 1794522000000,
+    "start": 1794522300000,
     "end": 1794523800000,
     "description": "Claire bezorgt Pritchetts Closets een grote kans en Jay verwacht een beetje erkenning voor zijn bijdrage. Pams ex-vriend Bo duikt op en Mitchell beschouwt het als de ideale mogelijkheid om Pam eindelijk het huis uit te krijgen.",
     "category": [

@@ -1,10 +1,10 @@
 [
   {
-    "id": "vrt1:1794526200000:1vwoq3q",
+    "id": "vrt1:1794526500000:1vwoq3q",
     "channel": "vrt1",
     "title": "VRT NWS Villa Politica",
-    "start": 1794526200000,
-    "end": 1794531600000,
+    "start": 1794526500000,
+    "end": 1794531900000,
     "description": "Politieke verslaggeving vanuit het Vlaams en Federaal Parlement.",
     "category": [
       "Politiek"
@@ -25,6 +25,34 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F614a228b-3d84-4adf-a71f-048b0d447726"
+    }
+  },
+  {
+    "id": "vrt1:1794531900000:n5mqgl",
+    "channel": "vrt1",
+    "title": "Journaallus",
+    "start": 1794531900000,
+    "end": 1794546000000,
+    "description": "Doorlopende herhalingen van het journaal in lusvorm tot de volgende ochtend.",
+    "category": [
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16945230~~2FSH032302400000~~2F572427867%2Cimi%3Ad8acbc997c8907abd59259a13c5191812f5b0311/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2400000,
+    "episode": 572427867,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16945230~~2FSH032302400000~~2F572427867,imi:d8acbc997c8907abd59259a13c5191812f5b0311",
+      "episodeName": null,
+      "genres": [
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fd9b03910-f610-4056-af57-e10b8c84a636"
     }
   },
   {
@@ -1023,7 +1051,7 @@
     "title": "Switch",
     "start": 1794595500000,
     "end": 1794597900000,
-    "description": "De eerste quiz ter wereld zonder punten, met Fien Germijns. Elke dag van de week strijden dezelfde vijf kandidaten voor duizend euro.",
+    "description": "Fien Germijns ontvangt deze week Maud, Idries, Camilo, Victor en Antony in SWITCH. Zij strijden elke dag om die duizend euro binnen te halen.",
     "category": [
       "Spelprogramma",
       "Entertainment"

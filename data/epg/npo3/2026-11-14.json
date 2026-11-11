@@ -1168,9 +1168,10 @@
     "channel": "npo3",
     "title": "Intocht Sinterklaas 2026",
     "start": 1794654000000,
-    "end": 1794658500000,
-    "description": null,
+    "end": 1794658800000,
+    "description": "Feestelijke intocht van Sinterklaas in de historische stad Grave, in de Noord-Brabantse gemeente Land van Cuijk.",
     "category": [
+      "Kids",
       "Entertainment"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34430984~~2FSH066759510000~~2Fspecial%2Cimi%3A29e0d629e3af1980ffd656a80c65bbe4d8c32f1f/posterTile",
@@ -1184,39 +1185,12 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34430984~~2FSH066759510000~~2Fspecial,imi:29e0d629e3af1980ffd656a80c65bbe4d8c32f1f",
       "episodeName": null,
       "genres": [
+        "Kids",
         "Entertainment"
       ],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
-    }
-  },
-  {
-    "id": "npo3:1794658500000:1upfhvk",
-    "channel": "npo3",
-    "title": "Freeks wilde wereld shorts",
-    "start": 1794658500000,
-    "end": 1794658800000,
-    "description": null,
-    "category": [
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34546781~~2FSH066996450000~~2F575780563%2Cimi%3A7b448557f9b26edfcc434673c3e30a5c761ae925/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 96450000,
-    "episode": 575780563,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34546781~~2FSH066996450000~~2F575780563,imi:7b448557f9b26edfcc434673c3e30a5c761ae925",
-      "episodeName": null,
-      "genres": [
-        "Entertainment"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34546781~~2FSH066996450000"
     }
   },
   {
@@ -1464,21 +1438,21 @@
       "Kids",
       "Docu"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F11232086~~2FSH022626790000~~2F570012295%2Cimi%3A87548e9ed01ffa66eeea6ada8c86337b2685167d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29651147~~2FEP022626790226%2Cimi%3A8106ac19a40e7bcd630b90fd6d33792a5cf7826f/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 26790000,
-    "episode": 570012295,
+    "season": 12,
+    "episode": 1,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F11232086~~2FSH022626790000~~2F570012295,imi:87548e9ed01ffa66eeea6ada8c86337b2685167d",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29651147~~2FEP022626790226,imi:8106ac19a40e7bcd630b90fd6d33792a5cf7826f",
+      "episodeName": "Freek tussen de wolven",
       "genres": [
         "Kids",
         "Docu"
       ],
-      "productionDate": null,
+      "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fa29143dc-833a-40be-8282-a3258668440c"
     }
@@ -1635,7 +1609,7 @@
     "title": "Klaas kan alles",
     "start": 1794681900000,
     "end": 1794683400000,
-    "description": "Klaas stapt op drie wel heel bijzondere fietsen. Zijn missie: in totaal 15 kilometer afleggen, waarbij hij op iedere fiets minimaal één kilometer moet rijden. Hij begint op een elektrische fiets die zichzelf met zonnepanelen oplaadt.",
+    "description": "Klaas stapt op drie wel heel bijzondere fietsen. Zijn missie. In totaal 15 kilometer afleggen, waarbij hij op iedere fiets minimaal één kilometer moet rijden. Hij begint op een elektrische fiets die zichzelf met zonnepanelen oplaadt.",
     "category": [
       "Entertainment",
       "Wetenschap"
