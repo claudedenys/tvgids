@@ -345,15 +345,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794613680000:3y5tln",
+    "id": "sport:playsports4:1794615780000:3y5tln",
     "externalId": null,
     "title": "GP van Qatar: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794613680000,
-    "end": 1794618000000,
+    "start": 1794615780000,
+    "end": 1794620100000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
     "source": "epg",
@@ -368,38 +368,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794618000000:17dve15",
-    "externalId": null,
-    "title": "Dag 6: Halve finale",
-    "home": null,
-    "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1794618000000,
-    "end": 1794624600000,
-    "status": "aankomend",
-    "description": null,
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1794624600000:xykime",
+    "id": "sport:playsports4:1794620100000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794624600000,
-    "end": 1794638100000,
+    "start": 1794620100000,
+    "end": 1794637500000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -414,15 +391,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794638100000:bjf8gr",
+    "id": "sport:playsports4:1794637500000:bjf8gr",
     "externalId": null,
     "title": "Race 3 (MXGP & Open)",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794638100000,
-    "end": 1794642540000,
+    "start": 1794637500000,
+    "end": 1794642000000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -437,15 +414,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794642540000:10r7t8e",
+    "id": "sport:playsports4:1794642000000:10r7t8e",
     "externalId": null,
     "title": "Niel: Vrouwen",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Wielrennen",
-    "start": 1794642540000,
-    "end": 1794647340000,
+    "start": 1794642000000,
+    "end": 1794647400000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "source": "epg",
@@ -460,14 +437,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794647340000:10r7t8e",
+    "id": "sport:playsports4:1794647400000:10r7t8e",
     "externalId": null,
     "title": "Niel: Mannen",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Wielrennen",
-    "start": 1794647340000,
+    "start": 1794647400000,
     "end": 1794654000000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
@@ -1423,6 +1400,29 @@
     ],
     "channelIds": [
       "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1794607200000:coretec oostende - antwerp giants",
+    "externalId": null,
+    "title": "Coretec Oostende - Antwerp Giants",
+    "home": "Coretec Oostende",
+    "away": "Antwerp Giants",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1794607200000,
+    "end": 1794615780000,
+    "status": "aankomend",
+    "description": "Vanuit de COREtec Dôme in Oostende, België.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
     ]
   },
   {

@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports4:1794613680000:3y5tln",
+    "id": "playsports4:1794607200000:1ng6s",
+    "channel": "playsports4",
+    "title": "BNXT League",
+    "start": 1794607200000,
+    "end": 1794615780000,
+    "description": "Vanuit de COREtec Dôme in Oostende, België.",
+    "category": [
+      "Sport",
+      "Basketbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34469412~~2FEP039991360287%2Cimi%3A6e9c6a0baee11ef159f9dd32d28e677e82236bb1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 91360000,
+    "episode": 2026110887,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34469412~~2FEP039991360287,imi:6e9c6a0baee11ef159f9dd32d28e677e82236bb1",
+      "episodeName": "Coretec Oostende - Antwerp Giants",
+      "genres": [
+        "Sport",
+        "Basketbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
+    }
+  },
+  {
+    "id": "playsports4:1794615780000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1794613680000,
-    "end": 1794618000000,
+    "start": 1794615780000,
+    "end": 1794620100000,
     "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
     "category": [
       "Sport",
@@ -30,41 +60,11 @@
     }
   },
   {
-    "id": "playsports4:1794618000000:17dve15",
-    "channel": "playsports4",
-    "title": "Tennis: Ningbo Open 2026",
-    "start": 1794618000000,
-    "end": 1794624600000,
-    "description": null,
-    "category": [
-      "Sport",
-      "Tennis"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34359050~~2FEP066610500008%2Cimi%3Acdd388f9d4c38687ea63144fd65891cc45c9a19a/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 10500000,
-    "episode": 2026102408,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34359050~~2FEP066610500008,imi:cdd388f9d4c38687ea63144fd65891cc45c9a19a",
-      "episodeName": "Dag 6: Halve finale",
-      "genres": [
-        "Sport",
-        "Tennis"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33572009~~2FSH066610500000"
-    }
-  },
-  {
-    "id": "playsports4:1794624600000:xykime",
+    "id": "playsports4:1794620100000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1794624600000,
-    "end": 1794638100000,
+    "start": 1794620100000,
+    "end": 1794637500000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1794638100000:bjf8gr",
+    "id": "playsports4:1794637500000:bjf8gr",
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
-    "start": 1794638100000,
-    "end": 1794642540000,
+    "start": 1794637500000,
+    "end": 1794642000000,
     "description": null,
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1794642540000:10r7t8e",
+    "id": "playsports4:1794642000000:10r7t8e",
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
-    "start": 1794642540000,
-    "end": 1794647340000,
+    "start": 1794642000000,
+    "end": 1794647400000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports4:1794647340000:10r7t8e",
+    "id": "playsports4:1794647400000:10r7t8e",
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
-    "start": 1794647340000,
+    "start": 1794647400000,
     "end": 1794654000000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
