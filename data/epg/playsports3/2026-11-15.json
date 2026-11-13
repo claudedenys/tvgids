@@ -332,7 +332,7 @@
     "channel": "playsports3",
     "title": "Tennis: Nitto ATP Finals 2026",
     "start": 1794771000000,
-    "end": 1794778200000,
+    "end": 1794772800000,
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "category": [
       "Sport",
@@ -358,11 +358,41 @@
     }
   },
   {
-    "id": "playsports3:1794778200000:i67pjl",
+    "id": "playsports3:1794772800000:1mv1683",
+    "channel": "playsports3",
+    "title": "Tennis: WTA Finals 2026",
+    "start": 1794772800000,
+    "end": 1794780000000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34618150~~2FEP067143680001%2Cimi%3A4d24f2fe38423f3df7f76f6ea94c658615258da1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 43680000,
+    "episode": 2026111501,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34618150~~2FEP067143680001,imi:4d24f2fe38423f3df7f76f6ea94c658615258da1",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33728212~~2FSH067143680000"
+    }
+  },
+  {
+    "id": "playsports3:1794780000000:i67pjl",
     "channel": "playsports3",
     "title": "Play Sports Highlights",
-    "start": 1794778200000,
-    "end": 1794780300000,
+    "start": 1794780000000,
+    "end": 1794782100000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -388,11 +418,11 @@
     }
   },
   {
-    "id": "playsports3:1794780300000:16v40h",
+    "id": "playsports3:1794782100000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1794780300000,
-    "end": 1794786900000,
+    "start": 1794782100000,
+    "end": 1794788700000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",

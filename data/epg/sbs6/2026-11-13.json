@@ -1,10 +1,10 @@
 [
   {
-    "id": "sbs6:1794524280000:1ddldj5",
+    "id": "sbs6:1794524220000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1794524280000,
-    "end": 1794527580000,
+    "start": 1794524220000,
+    "end": 1794527520000,
     "description": "Zoals bij elk begin van de cyclus gaan de deelnemers speeddaten om elkaar beter te leren kennen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/d/carrousel/de-bondgenoten-785710062.jpg",
@@ -22,14 +22,16 @@
     }
   },
   {
-    "id": "sbs6:1794527580000:16r3jxd",
+    "id": "sbs6:1794527520000:1e1evyy",
     "channel": "sbs6",
-    "title": "Shownieuws",
-    "start": 1794527580000,
-    "end": 1794530340000,
-    "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/s/carrousel/shownieuws-786675802.jpg",
+    "title": "Nieuws van de dag",
+    "start": 1794527520000,
+    "end": 1794530460000,
+    "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v390/upload/n/carrousel/nieuws-van-de-dag-798468762.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -39,15 +41,16 @@
     "meta": {
       "labels": [
         "program",
+        "actueel",
         "rerun"
       ]
     }
   },
   {
-    "id": "sbs6:1794530340000:1k6yy12",
+    "id": "sbs6:1794530460000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1794530340000,
+    "start": 1794530460000,
     "end": 1794546000000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
@@ -452,38 +455,16 @@
     }
   },
   {
-    "id": "sbs6:1794562200000:16r3jxd",
-    "channel": "sbs6",
-    "title": "Shownieuws",
-    "start": 1794562200000,
-    "end": 1794565200000,
-    "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/s/carrousel/shownieuws-786675802.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "sbs6:1794565200000:1e1evyy",
+    "id": "sbs6:1794562200000:1e1evyy",
     "channel": "sbs6",
     "title": "Nieuws van de dag",
-    "start": 1794565200000,
-    "end": 1794568800000,
-    "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
+    "start": 1794562200000,
+    "end": 1794565620000,
+    "description": "De politieke headlines vliegen ons de hele dag al om de oren.",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v390/upload/n/carrousel/nieuws-van-de-dag-787842582.jpg",
+    "image": "https://tvgidsassets.nl/v390/upload/n/carrousel/nieuws-van-de-dag-798552072.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -499,10 +480,32 @@
     }
   },
   {
-    "id": "sbs6:1794568800000:2eepw1",
+    "id": "sbs6:1794565620000:1odxj95",
+    "channel": "sbs6",
+    "title": "Secret life of the zoo",
+    "start": 1794565620000,
+    "end": 1794568680000,
+    "description": "De verzorgers maken kerstcadeautjes voor de dieren.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v390/upload/s/carrousel/secret-life-of-the-zoo-798552132.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "sbs6:1794568680000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1794568800000,
+    "start": 1794568680000,
     "end": 1794570600000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
@@ -525,10 +528,10 @@
     "channel": "sbs6",
     "title": "Waar is mijn erfenis?",
     "start": 1794570600000,
-    "end": 1794574200000,
+    "end": 1794573900000,
     "description": "Gre's ouders zijn al decennia geleden overleden, maar tot haar grote frustratie is hun erfenis nog steeds niet verdeeld.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/w/carrousel/waar-is-mijn-erfenis-788315162.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -543,11 +546,11 @@
     }
   },
   {
-    "id": "sbs6:1794574200000:1ddldj5",
+    "id": "sbs6:1794573900000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1794574200000,
-    "end": 1794577500000,
+    "start": 1794573900000,
+    "end": 1794577260000,
     "description": "Zoals bij elk begin van de cyclus gaan de deelnemers speeddaten om elkaar beter te leren kennen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/d/carrousel/de-bondgenoten-785710062.jpg",
@@ -565,11 +568,11 @@
     }
   },
   {
-    "id": "sbs6:1794577500000:ar1ua0",
+    "id": "sbs6:1794577260000:ar1ua0",
     "channel": "sbs6",
     "title": "Droomhuis op het platteland",
-    "start": 1794577500000,
-    "end": 1794580800000,
+    "start": 1794577260000,
+    "end": 1794580680000,
     "description": "Een stel uit Kent gaat op huizenjacht in Cornwall, waar ze een wellnessresort willen opzetten.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/e/carrousel/escape-to-the-country-791979742.jpg",
@@ -587,10 +590,10 @@
     }
   },
   {
-    "id": "sbs6:1794580800000:4xdmkm",
+    "id": "sbs6:1794580680000:4xdmkm",
     "channel": "sbs6",
     "title": "Huizen onder de hamer",
-    "start": 1794580800000,
+    "start": 1794580680000,
     "end": 1794585000000,
     "description": "Karakteristieke cottages in zowel Zuid-Wales als Norfolk worden gekocht door mensen die eigenlijk niet van plan waren...",
     "category": [],
@@ -659,7 +662,7 @@
     "channel": "sbs6",
     "title": "Nieuws van de dag",
     "start": 1794589500000,
-    "end": 1794592800000,
+    "end": 1794592620000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -679,11 +682,11 @@
     }
   },
   {
-    "id": "sbs6:1794592800000:2eepw1",
+    "id": "sbs6:1794592620000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1794592800000,
-    "end": 1794594600000,
+    "start": 1794592620000,
+    "end": 1794594480000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/prijzenjacht-789658692.jpg",
@@ -698,11 +701,11 @@
     }
   },
   {
-    "id": "sbs6:1794594600000:1ddldj5",
+    "id": "sbs6:1794594480000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1794594600000,
-    "end": 1794598200000,
+    "start": 1794594480000,
+    "end": 1794598080000,
     "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/d/carrousel/de-bondgenoten-785710062.jpg",
@@ -717,11 +720,11 @@
     }
   },
   {
-    "id": "sbs6:1794598200000:ykt86w",
+    "id": "sbs6:1794598080000:ykt86w",
     "channel": "sbs6",
     "title": "Urk!",
-    "start": 1794598200000,
-    "end": 1794602100000,
+    "start": 1794598080000,
+    "end": 1794602220000,
     "description": "De tweeling gaat met de kinderen een weekje op vakantie naar een camping net buiten Urk.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/u/carrousel/urk-789782982.jpg",
@@ -736,12 +739,12 @@
     }
   },
   {
-    "id": "sbs6:1794602100000:1rq69gz",
+    "id": "sbs6:1794602220000:1rq69gz",
     "channel": "sbs6",
     "title": "Vandaag inside",
-    "start": 1794602100000,
-    "end": 1794606000000,
-    "description": "In 'Vandaag inside' geven Wilfred Genee, Johan Derksen en René van der Gijp hun kijk op het nieuws en de actualiteit.",
+    "start": 1794602220000,
+    "end": 1794606120000,
+    "description": "<span class=\"label label--updated\">Update</span> Wouter de Winther schuift aan als tafelgast bij Johan Derksen, Wilfred Genee en René van der Gijp...",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/v/carrousel/vandaag-inside-784822952.jpg",
     "icon": null,
@@ -751,15 +754,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
-    "id": "sbs6:1794606000000:1k6yy12",
+    "id": "sbs6:1794606120000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1794606000000,
-    "end": 1794607200000,
+    "start": 1794606120000,
+    "end": 1794607260000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -779,11 +784,11 @@
     }
   },
   {
-    "id": "sbs6:1794607200000:16r3jxd",
+    "id": "sbs6:1794607260000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1794607200000,
-    "end": 1794610500000,
+    "start": 1794607260000,
+    "end": 1794610440000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/s/carrousel/shownieuws-786675802.jpg",
@@ -798,11 +803,11 @@
     }
   },
   {
-    "id": "sbs6:1794610500000:1v08pes",
+    "id": "sbs6:1794610440000:1v08pes",
     "channel": "sbs6",
     "title": "Sing with me",
-    "start": 1794610500000,
-    "end": 1794615900000,
+    "start": 1794610440000,
+    "end": 1794615780000,
     "description": "Komt er een droom uit voor supermarktmedewerkster Lotte, voor Dominique die nog nooit eerder op een podium heeft...",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/s/carrousel/sing-with-me-790843072.jpg",

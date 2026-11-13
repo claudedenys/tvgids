@@ -104,11 +104,35 @@
     }
   },
   {
-    "id": "vtm3:1794660300000:tfdwix",
+    "id": "vtm3:1794660300000:48zb9",
+    "channel": "vtm3",
+    "title": "Geen uitzending",
+    "start": 1794660300000,
+    "end": 1794660900000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:27f012a2c90725c32b8af1311259ae18ab66f155",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm3:1794660900000:tfdwix",
     "channel": "vtm3",
     "title": "Chicago Med",
-    "start": 1794660300000,
-    "end": 1794663900000,
+    "start": 1794660900000,
+    "end": 1794664200000,
     "description": "De spoedafdeling kampt nog steeds met tekorten in de bevoorrading. Wanneer de bestuurder van het verongelukte metrostel een longtransplantatie nodig heeft, moet Marcel gaan improviseren.",
     "category": [
       "Dramaserie",
@@ -134,10 +158,10 @@
     }
   },
   {
-    "id": "vtm3:1794663900000:1qi5brh",
+    "id": "vtm3:1794664200000:1qi5brh",
     "channel": "vtm3",
     "title": "The Lost Husband",
-    "start": 1794663900000,
+    "start": 1794664200000,
     "end": 1794671400000,
     "description": "Een weduwe en haar kinderen verhuizen naar de boerderij van haar vervreemde tante in Texas na de plotselinge dood van haar man. Ze beginnen verliefd te worden op het plattelandsleven.",
     "category": [
@@ -288,7 +312,7 @@
     "channel": "vtm3",
     "title": "The Invisible Man",
     "start": 1794692100000,
-    "end": 1794699900000,
+    "end": 1794700200000,
     "description": "Na zijn eigen zelfmoord in scène te hebben gezet, gebruikt een gestoorde wetenschapper zijn kracht om onzichtbaar te worden om zijn ex-vriendin te stalken en te terroriseren. De politie weigert haar verhaal te geloven.",
     "category": [
       "Film",

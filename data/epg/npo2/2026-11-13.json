@@ -46,7 +46,7 @@
     "title": "Nieuwsuur",
     "start": 1794528000000,
     "end": 1794530700000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Cruciaal debat over belastingplan.",
     "category": [
       "Actueel"
     ],
@@ -96,7 +96,7 @@
     "title": "Nieuwsuur",
     "start": 1794533100000,
     "end": 1794549600000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Cruciaal debat over belastingplan.",
     "category": [
       "Actueel"
     ],
@@ -145,7 +145,7 @@
     "title": "Tijd voor MAX",
     "start": 1794550380000,
     "end": 1794553200000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * Kees Boonman over het laatste nieuws uit Den Haag: staat het minderheidskabinet op omvallen?",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/t/carrousel/tijd-voor-max-798206042.jpg",
     "icon": null,
@@ -297,7 +297,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1794560400000,
-    "end": 1794563160000,
+    "end": 1794561000000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -317,10 +317,10 @@
     }
   },
   {
-    "id": "npo2:1794563160000:qbw2jg",
+    "id": "npo2:1794561000000:qbw2jg",
     "channel": "npo2",
     "title": "Nieuwsuur",
-    "start": 1794563160000,
+    "start": 1794561000000,
     "end": 1794564000000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
@@ -392,7 +392,7 @@
     "end": 1794567600000,
     "description": "Ter ere van het tiende seizoen blijft directeur Sietske van Zanten voor deze ene keer in haar eigen museum LAM in Lisse.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/n/carrousel/nu-te-zien-791243862.jpg",
+    "image": "https://tvgidsassets.nl/v390/upload/n/carrousel/nu-te-zien-798477652.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -412,7 +412,7 @@
     "title": "NOS Journaal",
     "start": 1794567600000,
     "end": 1794568500000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: Kabinetscrisis * Nog geen besluit VVD over coalitie *...",
     "category": [
       "Actueel"
     ],
@@ -426,7 +426,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -480,11 +481,11 @@
     "title": "NOS Journaal",
     "start": 1794571200000,
     "end": 1794572400000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: Kabinetscrisis * Nog geen besluit VVD over coalitie *...",
     "category": [
       "Actueel"
     ],
-    "image": "https://tvgidsassets.nl/v390/upload/n/carrousel/nos-journaal-790002742.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -494,7 +495,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -635,7 +637,7 @@
     "channel": "npo2",
     "title": "Bak mee met MAX",
     "start": 1794582600000,
-    "end": 1794583500000,
+    "end": 1794583800000,
     "description": "Toegankelijke en inspirerende lekkernijen worden bereid.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/b/carrousel/bak-mee-met-max-792609912.jpg",
@@ -653,14 +655,36 @@
     }
   },
   {
-    "id": "npo2:1794583500000:ddfk14",
+    "id": "npo2:1794583800000:ddfk14",
     "channel": "npo2",
     "title": "Per seconde wijzer",
-    "start": 1794583500000,
-    "end": 1794585360000,
+    "start": 1794583800000,
+    "end": 1794585300000,
     "description": "Twee kandidaten testen onder hoge druk hun kennis in verschillende categorieën.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/per-seconde-wijzer-790536642.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1794585300000:12b58co",
+    "channel": "npo2",
+    "title": "Politieke partijen",
+    "start": 1794585300000,
+    "end": 1794585360000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/politieke-partijen-795820562.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -679,28 +703,6 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1794585360000,
-    "end": 1794585420000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/politieke-partijen-795820562.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1794585420000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1794585420000,
     "end": 1794585900000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
@@ -724,9 +726,9 @@
     "title": "Attenborough: Kingdom",
     "start": 1794585900000,
     "end": 1794589200000,
-    "description": "Flint, een wilde hond die gewond is geraakt, heeft de steun van zijn roedel nodig.",
+    "description": "In het hart van Zambia strijden luipaarden, hyena's, wilde honden en leeuwen om een thuis bij de rivier Luangwa.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/a/carrousel/attenborough-kingdom-788324472.jpg",
+    "image": "https://tvgidsassets.nl/v390/upload/a/carrousel/attenborough-kingdom-798552402.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -939,7 +941,7 @@
     "end": 1794610200000,
     "description": "Tony Sallinger, een van de rijkste mensen op Jersey, wordt op de dag van zijn bruiloft doodgestoken.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/b/carrousel/bergerac-789792382.jpg",
+    "image": "https://tvgidsassets.nl/v390/upload/b/carrousel/bergerac-789792402.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

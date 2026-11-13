@@ -438,33 +438,31 @@
     }
   },
   {
-    "id": "vrtcanvas:1794865800000:hib74j",
+    "id": "vrtcanvas:1794865800000:715c2v",
     "channel": "vrtcanvas",
-    "title": "90 minutes",
+    "title": "Nachtlus",
     "start": 1794865800000,
-    "end": 1794873000000,
-    "description": "Voetbalmagazine waarin de voetbalactualiteit wordt besproken.",
+    "end": 1794891600000,
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
     "category": [
-      "Sport",
-      "Sporttalkshow"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32560384~~2FEP059737540025%2Cimi%3Ab8b61479cdb2598d06af467667401852b7a0e83d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F578190854%2Cimi%3A148ea71ad7d1f9ae38de158f94ce35aebb8c43fc/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 7,
-    "episode": 9,
+    "season": 57190000,
+    "episode": 578190854,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32560384~~2FEP059737540025,imi:b8b61479cdb2598d06af467667401852b7a0e83d",
-      "episodeName": "Aflevering 9",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F578190854,imi:148ea71ad7d1f9ae38de158f94ce35aebb8c43fc",
+      "episodeName": null,
       "genres": [
-        "Sport",
-        "Sporttalkshow"
+        "Entertainment"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F30890192~~2FSH059737540000"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
     }
   }
 ]

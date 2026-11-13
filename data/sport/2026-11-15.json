@@ -330,7 +330,7 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1794771000000,
-    "end": 1794778200000,
+    "end": 1794772800000,
     "status": "aankomend",
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "source": "epg",
@@ -345,15 +345,38 @@
     ]
   },
   {
-    "id": "sport:playsports3:1794778200000:i67pjl",
+    "id": "sport:playsports3:1794772800000:1mv1683",
+    "externalId": null,
+    "title": "Tennis: WTA Finals 2026",
+    "home": null,
+    "away": null,
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1794772800000,
+    "end": 1794780000000,
+    "status": "aankomend",
+    "description": null,
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1794780000000:i67pjl",
     "externalId": null,
     "title": "Play Sports Highlights",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794778200000,
-    "end": 1794780300000,
+    "start": 1794780000000,
+    "end": 1794782100000,
     "status": "aankomend",
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
@@ -1449,15 +1472,15 @@
     ]
   },
   {
-    "id": "sport:match:1794780300000:kups - kaa gent",
+    "id": "sport:match:1794782100000:kups - kaa gent",
     "externalId": null,
     "title": "KuPS - KAA Gent",
     "home": "KuPS",
     "away": "KAA Gent",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1794780300000,
-    "end": 1794786900000,
+    "start": 1794782100000,
+    "end": 1794788700000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",

@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "The Tomorrow War",
     "start": 1794694200000,
-    "end": 1794703200000,
+    "end": 1794703500000,
     "description": "De wereld staat versteld als een groep tijdreizigers uit het jaar 2051 arriveert om een dringende boodschap te brengen: dertig jaar in de toekomst verliest de mensheid een wereldwijde oorlog tegen een dodelijke buitenaardse soort.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1794703200000:x0511g",
+    "id": "play6:1794703500000:x0511g",
     "channel": "play6",
     "title": "Ocean's Eleven",
-    "start": 1794703200000,
-    "end": 1794710400000,
+    "start": 1794703500000,
+    "end": 1794710100000,
     "description": "Dief Danny Ocean stelt een team samen om drie casino's in Las Vegas te beroven. De eigenaar heeft namelijk een relatie met Danny's ex-vrouw.",
     "category": [
       "Film",
@@ -60,10 +60,34 @@
     }
   },
   {
-    "id": "play6:1794710400000:48zb9",
+    "id": "play6:1794710100000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1794710400000,
+    "start": 1794710100000,
+    "end": 1794714600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:88e88a13cf6eb9f7cd830657f2ef1d731a01140e",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1794714600000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1794714600000,
     "end": 1794715200000,
     "description": null,
     "category": [],
@@ -75,7 +99,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:be07d4da03918a8f0cec7f264c3634dd9c008352",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e4884300a227e1d353980297c6c691425edef7d5",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

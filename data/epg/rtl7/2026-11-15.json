@@ -1,10 +1,10 @@
 [
   {
-    "id": "rtl7:1794695400000:1cdu49o",
+    "id": "rtl7:1794695100000:1cdu49o",
     "channel": "rtl7",
     "title": "Total Recall",
-    "start": 1794695400000,
-    "end": 1794704400000,
+    "start": 1794695100000,
+    "end": 1794703860000,
     "description": "In de nabije toekomst is een groot deel van de aarde onbewoonbaar.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/t/carrousel/total-recall-792964702.jpg",
@@ -16,6 +16,28 @@
     "live": false,
     "meta": {
       "labels": []
+    }
+  },
+  {
+    "id": "rtl7:1794703860000:1td3lbd",
+    "channel": "rtl7",
+    "title": "Teleshop",
+    "start": 1794703860000,
+    "end": 1794704400000,
+    "description": "Homeshopping.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v390/upload/t/carrousel/teleshop-798491842.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

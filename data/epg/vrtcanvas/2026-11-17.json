@@ -1,0 +1,528 @@
+[
+  {
+    "id": "vrtcanvas:1794865800000:715c2v",
+    "channel": "vrtcanvas",
+    "title": "Nachtlus",
+    "start": 1794865800000,
+    "end": 1794891600000,
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F578190854%2Cimi%3A148ea71ad7d1f9ae38de158f94ce35aebb8c43fc/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 57190000,
+    "episode": 578190854,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F578190854,imi:148ea71ad7d1f9ae38de158f94ce35aebb8c43fc",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794891600000:677l6h",
+    "channel": "vrtcanvas",
+    "title": "Radio 2: Goeiemorgen morgen",
+    "start": 1794891600000,
+    "end": 1794902400000,
+    "description": "Live vanuit de studio van Radio 2.",
+    "category": [
+      "Talkshow",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34527185~~2FEP062272870172%2Cimi%3Abeeec35ce57c7d016f63f87ddbb71d7d1d2db771/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 177,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34527185~~2FEP062272870172,imi:beeec35ce57c7d016f63f87ddbb71d7d1d2db771",
+      "episodeName": "Aflevering 177",
+      "genres": [
+        "Talkshow",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32034719~~2FSH062272870000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794902400000:1jdr2w0",
+    "channel": "vrtcanvas",
+    "title": "Herfstbeelden",
+    "start": 1794902400000,
+    "end": 1794910500000,
+    "description": "Programma met beelden van de herfst.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34526309~~2FEP033154570159%2Cimi%3A93d30dcf485bf321dc54aac1df2962b70fa08b63/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102014,
+    "episode": 155,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34526309~~2FEP033154570159,imi:93d30dcf485bf321dc54aac1df2962b70fa08b63",
+      "episodeName": "Aflevering 155",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794910500000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1794910500000,
+    "end": 1794913200000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34524556~~2FEP029086300750%2Cimi%3Af0a778452674308cdd7e418d51bec9497dc19341/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 110,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34524556~~2FEP029086300750,imi:f0a778452674308cdd7e418d51bec9497dc19341",
+      "episodeName": "Aflevering 110",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794913200000:jrwg93",
+    "channel": "vrtcanvas",
+    "title": "Radio 1: Nieuwe Feiten",
+    "start": 1794913200000,
+    "end": 1794916800000,
+    "description": "Lieven Vandenhaute gaat op zoek naar nieuws dat verbijstert, verbaast of verwondert.",
+    "category": [
+      "Actualiteitsmagazine"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34527212~~2FEP052737980432%2Cimi%3Ade339de54b7414c43f384d5e6ef95514336750cf/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 179,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34527212~~2FEP052737980432,imi:de339de54b7414c43f384d5e6ef95514336750cf",
+      "episodeName": "Aflevering 179",
+      "genres": [
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28183070~~2FSH052737980000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794916800000:1jdr2w0",
+    "channel": "vrtcanvas",
+    "title": "Herfstbeelden",
+    "start": 1794916800000,
+    "end": 1794927600000,
+    "description": "Programma met beelden van de herfst.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34526352~~2FEP033154570164%2Cimi%3Adef5e65ec0a7f2a0ec6600d7b13a34e72c997ae2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102014,
+    "episode": 160,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34526352~~2FEP033154570164,imi:def5e65ec0a7f2a0ec6600d7b13a34e72c997ae2",
+      "episodeName": "Aflevering 160",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794927600000:etk3q5",
+    "channel": "vrtcanvas",
+    "title": "Radio 1: De Wereld Vandaag",
+    "start": 1794927600000,
+    "end": 1794933900000,
+    "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
+    "category": [
+      "Actualiteitsmagazine"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34399769~~2FEP049391810656%2Cimi%3Ae6302097506c5a60b13ca576e55378902198d086/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 189,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34399769~~2FEP049391810656,imi:e6302097506c5a60b13ca576e55378902198d086",
+      "episodeName": "Aflevering 189",
+      "genres": [
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26149743~~2FSH049391810000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794933900000:7rs1ua",
+    "channel": "vrtcanvas",
+    "title": "Julius Caesar: The Making of a Dictator",
+    "start": 1794933900000,
+    "end": 1794937200000,
+    "description": "Terwijl Caesar de macht over Rome overneemt en zijn greep op de Republiek verstevigt, kent hij zichzelf steeds grotere bevoegdheden toe. Hij wordt benoemd tot dictator voor één jaar om de vrede te herstellen.",
+    "category": [
+      "Miniserie",
+      "Docudrama"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26127491~~2FEP054097760003%2Cimi%3A88875723b73cfd49f485567554220ad9d1835c2c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26127491~~2FEP054097760003,imi:88875723b73cfd49f485567554220ad9d1835c2c",
+      "episodeName": "Ides of March",
+      "genres": [
+        "Miniserie",
+        "Docudrama"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26071785~~2FSH054097760000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794937200000:9grvl3",
+    "channel": "vrtcanvas",
+    "title": "Nomaden",
+    "start": 1794937200000,
+    "end": 1794938700000,
+    "description": "Hongarije slaat een nieuwe politieke weg in. Nadat in april 2026 een einde kwam aan zestien jaar bewind van Viktor Orbán, heeft het Hongaarse parlement nu ook een deel van zijn omstreden anti-LGBTQAI+-wetgeving teruggedraaid.",
+    "category": [
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34527478~~2FEP056066650013%2Cimi%3Aee8a08002984958ff73a0a92e26e82d12f794665/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2026,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34527478~~2FEP056066650013,imi:ee8a08002984958ff73a0a92e26e82d12f794665",
+      "episodeName": "Rot op, Fidesz",
+      "genres": [
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29510824~~2FSH056066650000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794938700000:1hv5shw",
+    "channel": "vrtcanvas",
+    "title": "De hel van Breendonk",
+    "start": 1794938700000,
+    "end": 1794942000000,
+    "description": "Naarmate de oorlog vordert, escaleert het geweld. In 1942 wordt er in het fort van Breendonk een folterkamer en executieplaats ingericht. Gevangenen voelen aan dat elke dag hun laatste kan zijn.",
+    "category": [
+      "Docu",
+      "Geschiedenis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34526555~~2FEP066855200002%2Cimi%3A75dc5bda7b7ba6bfbd4449573e1b987debf55529/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34526555~~2FEP066855200002,imi:75dc5bda7b7ba6bfbd4449573e1b987debf55529",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Docu",
+        "Geschiedenis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34476223~~2FSH066855200000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794942000000:eiur5b",
+    "channel": "vrtcanvas",
+    "title": "VRT NWS Terzake",
+    "start": 1794942000000,
+    "end": 1794943800000,
+    "description": "De actualiteit aan de hand van kritische en verhelderende interviews. Achtergrond en duiding bij het nieuws van de dag.",
+    "category": [
+      "Actualiteitsmagazine",
+      "Interview"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34399933~~2FEP029248091202%2Cimi%3A46ad26ab7a49833e136af183c343fc25db19bdd9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 209,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34399933~~2FEP029248091202,imi:46ad26ab7a49833e136af183c343fc25db19bdd9",
+      "episodeName": "Aflevering 209",
+      "genres": [
+        "Actualiteitsmagazine",
+        "Interview"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3c19e932-60f8-4f8d-a1d5-f6fdae10e620"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794943800000:1rw80yh",
+    "channel": "vrtcanvas",
+    "title": "Het weer",
+    "start": 1794943800000,
+    "end": 1794944100000,
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": [
+      "Weer",
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F574392641%2Cimi%3A160c8c498e85ccb488b18eae48a2f9ce8104bf16/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 31670000,
+    "episode": 574392641,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F574392641,imi:160c8c498e85ccb488b18eae48a2f9ce8104bf16",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794944100000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1794944100000,
+    "end": 1794947100000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34524557~~2FEP029086300751%2Cimi%3A64d8f756f84e1c8209417fac3b5ab57c4314a299/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 111,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34524557~~2FEP029086300751,imi:64d8f756f84e1c8209417fac3b5ab57c4314a299",
+      "episodeName": "Aflevering 111",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794947100000:or3ak1",
+    "channel": "vrtcanvas",
+    "title": "De nieuwe frontlijn",
+    "start": 1794947100000,
+    "end": 1794950400000,
+    "description": "In Oekraïne ligt de frontlijn van onze toekomst: het land heeft het meest geharde leger van het continent en is ongewild de proeftuin geworden van de oorlog van morgen, die draait om drones en algoritmes in plaats van mankracht.",
+    "category": [
+      "Miniserie",
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34526597~~2FEP066951980001%2Cimi%3A393c05c085383060645696d49782c44dd5703131/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34526597~~2FEP066951980001,imi:393c05c085383060645696d49782c44dd5703131",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Miniserie",
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34526592~~2FSH066951980000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794950400000:1wfx1sm",
+    "channel": "vrtcanvas",
+    "title": "Clinch",
+    "start": 1794950400000,
+    "end": 1794951900000,
+    "description": "Er staat een huis te koop, een echte cottage. Plots dienen niet één maar twee kopers zich aan.",
+    "category": [
+      "Miniserie",
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21812072~~2FEP042330660004%2Cimi%3Ae4e8e21cea93dbc884931de9b58572009fe500a6/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21812072~~2FEP042330660004,imi:e4e8e21cea93dbc884931de9b58572009fe500a6",
+      "episodeName": "Huis te koop",
+      "genres": [
+        "Miniserie",
+        "Comedy"
+      ],
+      "productionDate": "2016",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F21812005~~2FSH042330660000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794951900000:1wfx1sm",
+    "channel": "vrtcanvas",
+    "title": "Clinch",
+    "start": 1794951900000,
+    "end": 1794953760000,
+    "description": "Drie auto's botsen domweg op elkaar. De automobilisten trachten uit te maken wie er in fout is.",
+    "category": [
+      "Miniserie",
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21812021~~2FEP042330660001%2Cimi%3A361a7d14d86a4d4b7dfd37b80dbe47005b1a6041/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21812021~~2FEP042330660001,imi:361a7d14d86a4d4b7dfd37b80dbe47005b1a6041",
+      "episodeName": "Crash",
+      "genres": [
+        "Miniserie",
+        "Comedy"
+      ],
+      "productionDate": "2016",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F21812005~~2FSH042330660000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794953760000:1rw80yh",
+    "channel": "vrtcanvas",
+    "title": "Het weer",
+    "start": 1794953760000,
+    "end": 1794954000000,
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": [
+      "Weer",
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F574392646%2Cimi%3A8168643e84198c0e5b01f8d56fba436d2e189cf5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 31670000,
+    "episode": 574392646,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F574392646,imi:8168643e84198c0e5b01f8d56fba436d2e189cf5",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+    }
+  },
+  {
+    "id": "vrtcanvas:1794954000000:715c2v",
+    "channel": "vrtcanvas",
+    "title": "Nachtlus",
+    "start": 1794954000000,
+    "end": 1794978000000,
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F574392647%2Cimi%3A6e4c59dea7fb5b27802bd98b84d54c7b491fb857/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 57190000,
+    "episode": 574392647,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F574392647,imi:6e4c59dea7fb5b27802bd98b84d54c7b491fb857",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
+    }
+  }
+]

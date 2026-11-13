@@ -23,8 +23,8 @@
     "channel": "npo2",
     "title": "Podium klassiek",
     "start": 1794784500000,
-    "end": 1794788400000,
-    "description": "Muziekprogramma dat een podium biedt aan ensembles en solisten en hun verhalen.",
+    "end": 1794788700000,
+    "description": "Muziekprogramma van Floris Kortie met aanstormend talent, internationale topsolisten en spraakmakende ensembles en...",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/podium-klassiek-790536882.jpg",
     "icon": null,
@@ -41,11 +41,11 @@
     }
   },
   {
-    "id": "npo2:1794788400000:qbw2jg",
+    "id": "npo2:1794788700000:qbw2jg",
     "channel": "npo2",
     "title": "Nieuwsuur",
-    "start": 1794788400000,
-    "end": 1794790800000,
+    "start": 1794788700000,
+    "end": 1794791100000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
       "Actueel"
@@ -66,11 +66,11 @@
     }
   },
   {
-    "id": "npo2:1794790800000:cbx4tl",
+    "id": "npo2:1794791100000:cbx4tl",
     "channel": "npo2",
     "title": "Buitenhof",
-    "start": 1794790800000,
-    "end": 1794794100000,
+    "start": 1794791100000,
+    "end": 1794794400000,
     "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/b/carrousel/buitenhof-787362662.jpg",
@@ -88,10 +88,10 @@
     }
   },
   {
-    "id": "npo2:1794794100000:qbw2jg",
+    "id": "npo2:1794794400000:qbw2jg",
     "channel": "npo2",
     "title": "Nieuwsuur",
-    "start": 1794794100000,
+    "start": 1794794400000,
     "end": 1794808800000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
@@ -142,7 +142,7 @@
     "title": "Tijd voor MAX",
     "start": 1794809700000,
     "end": 1794812400000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * Het Nederlands kampioenschap Rummikub staat voor de deur.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/t/carrousel/tijd-voor-max-798206042.jpg",
     "icon": null,
@@ -322,7 +322,7 @@
     "end": 1794825600000,
     "description": "MAX Maakt Mogelijk komt in actie voor ouderen in een verzorgingshuis in Touwsrivier in Zuid-Afrika.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/m/carrousel/max-maakt-mogelijk-helpt-791019932.jpg",
+    "image": "https://tvgidsassets.nl/v390/upload/m/carrousel/max-maakt-mogelijk-helpt-798552522.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -330,7 +330,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -494,7 +497,7 @@
     "title": "Jazzportretten",
     "start": 1794837000000,
     "end": 1794839100000,
-    "description": "Serie portretten van Nederlandse jazzmusici.",
+    "description": "Vanaf de nieuwe plek van het Nederlands Jazz Archief in de Amsterdamse Roetersstraa portretteren we tenorsaxofonist...",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/j/carrousel/jazzportretten-794074762.jpg",
     "icon": null,
@@ -618,7 +621,7 @@
     "channel": "npo2",
     "title": "Blauw bloed",
     "start": 1794842700000,
-    "end": 1794844560000,
+    "end": 1794844380000,
     "description": "Koning Willem-Alexander, koningin Máxima, prinses Beatrix en de andere leden van het koninklijk huis worden van...",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/b/carrousel/blauw-bloed-794134402.jpg",
@@ -636,14 +639,14 @@
     }
   },
   {
-    "id": "npo2:1794844560000:12b58co",
+    "id": "npo2:1794844380000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
-    "start": 1794844560000,
-    "end": 1794844620000,
+    "start": 1794844380000,
+    "end": 1794844500000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/politieke-partijen-792322362.jpg",
+    "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/politieke-partijen-798477612.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -655,14 +658,14 @@
     }
   },
   {
-    "id": "npo2:1794844620000:12b58co",
+    "id": "npo2:1794844500000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
-    "start": 1794844620000,
-    "end": 1794845100000,
+    "start": 1794844500000,
+    "end": 1794844560000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/politieke-partijen-792322362.jpg",
+    "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/politieke-partijen-798477612.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -671,6 +674,50 @@
     "live": false,
     "meta": {
       "labels": []
+    }
+  },
+  {
+    "id": "npo2:1794844560000:12b58co",
+    "channel": "npo2",
+    "title": "Politieke partijen",
+    "start": 1794844560000,
+    "end": 1794844620000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/politieke-partijen-798552492.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1794844620000:12b58co",
+    "channel": "npo2",
+    "title": "Politieke partijen",
+    "start": 1794844620000,
+    "end": 1794845100000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/politieke-partijen-798552492.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

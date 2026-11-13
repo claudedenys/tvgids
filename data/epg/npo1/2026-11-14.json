@@ -4,7 +4,7 @@
     "channel": "npo1",
     "title": "Floortje over de oceaan",
     "start": 1794609000000,
-    "end": 1794612300000,
+    "end": 1794612900000,
     "description": "Floortje Dessing reist naar de Indonesische eilandengroep Raja Ampat, waar ze de Nederlander Max Ammer ontmoet.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/f/carrousel/floortje-over-de-oceaan-791657092.jpg",
@@ -22,12 +22,12 @@
     }
   },
   {
-    "id": "npo1:1794612300000:m52i3l",
+    "id": "npo1:1794612900000:m52i3l",
     "channel": "npo1",
     "title": "Carrie op vrijdag",
-    "start": 1794612300000,
-    "end": 1794615300000,
-    "description": "Carrie ten Napel ontvangt in haar clubhuis verschillende gasten.",
+    "start": 1794612900000,
+    "end": 1794616200000,
+    "description": "Met in deze uitzending: * Judith de Leeuw groeide op in de jeugdzorg en vond hoop in haar tekeningen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/c/carrousel/carrie-op-vrijdag-790003492.jpg",
     "icon": null,
@@ -44,12 +44,12 @@
     }
   },
   {
-    "id": "npo1:1794615300000:1qmbii9",
+    "id": "npo1:1794616200000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1794615300000,
-    "end": 1794617100000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "start": 1794616200000,
+    "end": 1794617700000,
+    "description": "Met sport: * Voetbal: - Nederland - Griekenland - play-off Jong Oranje...",
     "category": [
       "Actueel"
     ],
@@ -69,11 +69,11 @@
     }
   },
   {
-    "id": "npo1:1794617100000:1byfm7j",
+    "id": "npo1:1794617700000:1byfm7j",
     "channel": "npo1",
     "title": "EenVandaag",
-    "start": 1794617100000,
-    "end": 1794618000000,
+    "start": 1794617700000,
+    "end": 1794618900000,
     "description": "Nieuws en achtergronden uit binnen- en buitenland.",
     "category": [
       "Actueel"
@@ -94,12 +94,12 @@
     }
   },
   {
-    "id": "npo1:1794618000000:1qmbii9",
+    "id": "npo1:1794618900000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1794618000000,
-    "end": 1794619200000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "start": 1794618900000,
+    "end": 1794620100000,
+    "description": "Met sport: * Voetbal: - Nederland - Griekenland - play-off Jong Oranje...",
     "category": [
       "Actueel"
     ],
@@ -119,10 +119,10 @@
     }
   },
   {
-    "id": "npo1:1794619200000:1qmbii9",
+    "id": "npo1:1794620100000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1794619200000,
+    "start": 1794620100000,
     "end": 1794635100000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -259,7 +259,7 @@
     "channel": "npo1",
     "title": "Schaatsen: Wereldbeker in Beijing",
     "start": 1794650700000,
-    "end": 1794657600000,
+    "end": 1794656100000,
     "description": "Met livebeelden en/of samenvattingen van de belangrijkste sportwedstrijden en -evenementen van de dag.",
     "category": [
       "Sport"
@@ -276,6 +276,28 @@
         "program",
         "live",
         "sport"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1794656100000:fmxwos",
+    "channel": "npo1",
+    "title": "Kook mee met MAX",
+    "start": 1794656100000,
+    "end": 1794657600000,
+    "description": "Wat eet ik vanavond?",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v390/upload/k/carrousel/kook-mee-met-max-798462042.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
       ]
     }
   },
