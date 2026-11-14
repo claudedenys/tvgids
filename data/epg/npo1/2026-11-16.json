@@ -1,10 +1,10 @@
 [
   {
-    "id": "npo1:1794781500000:1066wfp",
+    "id": "npo1:1794782100000:1066wfp",
     "channel": "npo1",
     "title": "Ivo op zondag",
-    "start": 1794781500000,
-    "end": 1794784800000,
+    "start": 1794782100000,
+    "end": 1794785400000,
     "description": "Ivo Niehe ontvangt gasten uit de wereld van kunst, cultuur, media en samenleving.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/i/carrousel/ivo-op-zondag-790869332.jpg",
@@ -22,11 +22,11 @@
     }
   },
   {
-    "id": "npo1:1794784800000:1qmbii9",
+    "id": "npo1:1794785400000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1794784800000,
-    "end": 1794785400000,
+    "start": 1794785400000,
+    "end": 1794786600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -47,11 +47,11 @@
     }
   },
   {
-    "id": "npo1:1794785400000:1hsj6yg",
+    "id": "npo1:1794786600000:1hsj6yg",
     "channel": "npo1",
     "title": "WNL op zondag",
-    "start": 1794785400000,
-    "end": 1794789300000,
+    "start": 1794786600000,
+    "end": 1794790500000,
     "description": "Rechts georiënteerde ochtendshow.",
     "category": [
       "Actueel"
@@ -72,11 +72,11 @@
     }
   },
   {
-    "id": "npo1:1794789300000:6psfva",
+    "id": "npo1:1794790500000:6psfva",
     "channel": "npo1",
     "title": "Pauw, De Wit & Moggré",
-    "start": 1794789300000,
-    "end": 1794792300000,
+    "start": 1794790500000,
+    "end": 1794793500000,
     "description": "Talkshow over de actualiteit.",
     "category": [],
     "image": "https://tvgidsassets.nl/v390/upload/p/carrousel/pauw-de-wit-790535492.jpg",
@@ -94,36 +94,11 @@
     }
   },
   {
-    "id": "npo1:1794792300000:1qmbii9",
+    "id": "npo1:1794793500000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1794792300000,
-    "end": 1794792900000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
-    "category": [
-      "Actueel"
-    ],
-    "image": "https://tvgidsassets.nl/v390/upload/n/carrousel/nos-journaal-790839062.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "actueel",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo1:1794792900000:1qmbii9",
-    "channel": "npo1",
-    "title": "NOS Journaal",
-    "start": 1794792900000,
-    "end": 1794804600000,
+    "start": 1794793500000,
+    "end": 1794794100000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -139,6 +114,31 @@
       "labels": [
         "program",
         "live",
+        "actueel",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1794794100000:1qmbii9",
+    "channel": "npo1",
+    "title": "NOS Journaal",
+    "start": 1794794100000,
+    "end": 1794804600000,
+    "description": "Met het laatste nieuws en de weersverwachting.",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v390/upload/n/carrousel/nos-journaal-790839062.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
         "actueel",
         "rerun"
       ]
@@ -1329,9 +1329,9 @@
     "title": "Boer zoekt vrouw",
     "start": 1794861300000,
     "end": 1794864600000,
-    "description": "Deze keer openen ook de andere boeren de deuren van hun huis voor drie logees.",
+    "description": "Na het uitpakken van de koffers krijgen Ariannes mannen in Boer Zoekt Vrouw een snelle rondleiding op haar...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/b/carrousel/boer-zoekt-vrouw-790975232.jpg",
+    "image": "https://tvgidsassets.nl/v390/upload/b/carrousel/boerzoektvrouwariannesportieveuitdaging.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -1341,7 +1341,8 @@
     "meta": {
       "labels": [
         "program",
-        "audiodescription"
+        "audiodescription",
+        "tip"
       ]
     }
   },

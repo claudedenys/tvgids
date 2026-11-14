@@ -92,7 +92,37 @@
     "channel": "playsports4",
     "title": "FIM Motocross of Nations",
     "start": 1794637500000,
-    "end": 1794642000000,
+    "end": 1794640740000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Motorracen"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34135340~~2FEP053069220008%2Cimi%3A8b6001ead1afbd756e0a943beb161774e7023f03/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 69220000,
+    "episode": 2026100408,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34135340~~2FEP053069220008,imi:8b6001ead1afbd756e0a943beb161774e7023f03",
+      "episodeName": "Race 2 (MX2 & Open)",
+      "genres": [
+        "Sport",
+        "Motorracen"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8284164~~2FSH053069220000"
+    }
+  },
+  {
+    "id": "playsports4:1794640740000:bjf8gr",
+    "channel": "playsports4",
+    "title": "FIM Motocross of Nations",
+    "start": 1794640740000,
+    "end": 1794645480000,
     "description": null,
     "category": [
       "Sport",
@@ -118,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1794642000000:10r7t8e",
+    "id": "playsports4:1794645480000:10r7t8e",
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
-    "start": 1794642000000,
-    "end": 1794647400000,
+    "start": 1794645480000,
+    "end": 1794650820000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
       "Sport",
@@ -148,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1794647400000:10r7t8e",
+    "id": "playsports4:1794650820000:10r7t8e",
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
-    "start": 1794647400000,
-    "end": 1794654000000,
+    "start": 1794650820000,
+    "end": 1794657600000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
       "Sport",
@@ -178,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1794654000000:1jfkaf4",
+    "id": "playsports4:1794657600000:1jfkaf4",
     "channel": "playsports4",
     "title": "Tennis: Stockholm Open 2026",
-    "start": 1794654000000,
-    "end": 1794661200000,
+    "start": 1794657600000,
+    "end": 1794664800000,
     "description": "Verslag van de Stockholm Open, gespeeld in Stockholm, Zweden.",
     "category": [
       "Sport",
@@ -208,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1794661200000:3tkxx5",
+    "id": "playsports4:1794664800000:3tkxx5",
     "channel": "playsports4",
     "title": "MIDMID",
-    "start": 1794661200000,
-    "end": 1794667440000,
+    "start": 1794664800000,
+    "end": 1794671160000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Aimé Anthuenis.",
     "category": [
       "Voetbal",
@@ -238,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1794667440000:10r9e8y",
+    "id": "playsports4:1794671160000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1794667440000,
-    "end": 1794676740000,
+    "start": 1794671160000,
+    "end": 1794680220000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -268,11 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1794676740000:10r9e8y",
+    "id": "playsports4:1794680220000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1794676740000,
-    "end": 1794682740000,
+    "start": 1794680220000,
+    "end": 1794686160000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -298,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1794682740000:10r9e8y",
+    "id": "playsports4:1794686160000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1794682740000,
-    "end": 1794692640000,
+    "start": 1794686160000,
+    "end": 1794696000000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -328,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1794692640000:10r7t8e",
+    "id": "playsports4:1794696000000:10r7t8e",
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
-    "start": 1794692640000,
-    "end": 1794697140000,
+    "start": 1794696000000,
+    "end": 1794700440000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
       "Sport",
@@ -348,36 +378,6 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34482697~~2FEP054141920059,imi:18bac41fe680622610995b8957330a4f5696e091",
       "episodeName": "Middelkerke: Vrouwen",
-      "genres": [
-        "Sport",
-        "Wielrennen"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27079673~~2FSH054141920000"
-    }
-  },
-  {
-    "id": "playsports4:1794697140000:10r7t8e",
-    "channel": "playsports4",
-    "title": "Superprestige Veldrijden",
-    "start": 1794697140000,
-    "end": 1794702540000,
-    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
-    "category": [
-      "Sport",
-      "Wielrennen"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34482702~~2FEP054141920060%2Cimi%3A05f4c68a7aaae884c4d716e8468ba83b2ac1fd14/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 41920000,
-    "episode": 2026110560,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34482702~~2FEP054141920060,imi:05f4c68a7aaae884c4d716e8468ba83b2ac1fd14",
-      "episodeName": "Middelkerke: Mannen",
       "genres": [
         "Sport",
         "Wielrennen"

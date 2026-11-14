@@ -32,7 +32,7 @@
     "channel": "play5",
     "title": "NCIS: Hawaii",
     "start": 1794874800000,
-    "end": 1794878400000,
+    "end": 1794878100000,
     "description": "NCIS-agenten Nick Torres en Jessica Knight reizen naar Hawaï wanneer ze vernemen dat daar een belangrijke getuige in één van hun oude zaken is opgedoken met cruciaal bewijsmateriaal.",
     "category": [
       "Misdaaddrama",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play5:1794878400000:1aas33z",
+    "id": "play5:1794878100000:1aas33z",
     "channel": "play5",
     "title": "Fire Country",
-    "start": 1794878400000,
-    "end": 1794882000000,
+    "start": 1794878100000,
+    "end": 1794880800000,
     "description": "De bemanningen van Station 42 en Third Rock komen in actie na een dodelijke explosie in een verlaten mijn. Bode staat voor een moeilijke beslissing die ernstige gevolgen kan hebben.",
     "category": [
       "Dramaserie"
@@ -86,11 +86,11 @@
     }
   },
   {
-    "id": "play5:1794882000000:48zb9",
+    "id": "play5:1794880800000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1794882000000,
-    "end": 1794888000000,
+    "start": 1794880800000,
+    "end": 1794887400000,
     "description": null,
     "category": [],
     "image": null,
@@ -102,6 +102,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a9b44322c8252ba67dfbd8f93f291858ccd1d26e",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1794887400000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1794887400000,
+    "end": 1794888000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:001f211e86d51a6eb193d37e67bacd1cadc65e6b",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

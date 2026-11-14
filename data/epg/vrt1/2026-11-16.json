@@ -1054,7 +1054,7 @@
     "channel": "vrt1",
     "title": "Switch",
     "start": 1794854700000,
-    "end": 1794856800000,
+    "end": 1794856920000,
     "description": "Fien Germijns ontvangt deze week Mona, Emma-Louize, Vanessa, Ellen en Baptiste in SWITCH. Zij strijden elke dag om die duizend euro binnen te halen.",
     "category": [
       "Spelprogramma",
@@ -1080,10 +1080,10 @@
     }
   },
   {
-    "id": "vrt1:1794856800000:1rw80yh",
+    "id": "vrt1:1794856920000:1rw80yh",
     "channel": "vrt1",
     "title": "Het weer",
-    "start": 1794856800000,
+    "start": 1794856920000,
     "end": 1794857400000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
@@ -1145,7 +1145,7 @@
     "title": "Start to race",
     "start": 1794858900000,
     "end": 1794862200000,
-    "description": "WRT, het raceteam, en Sam Dejonghe, de coach, leggen de lat hoog. Ook fysiek worden ze uitgedaagd. Een racepiloot moet in topconditie zijn! De piloten in spe komen voor het eerst op een echt race circuit.",
+    "description": "WRT, het raceteam, en Sam Dejonghe, de coach, leggen de lat hoog. Ook fysiek worden ze uitgedaagd. Een racepiloot moet in topconditie zijn! De piloten in spe komen voor het eerst op een echt racecircuit.",
     "category": [
       "Sport",
       "Reality"
@@ -1174,7 +1174,7 @@
     "channel": "vrt1",
     "title": "Spoed 24/7",
     "start": 1794862200000,
-    "end": 1794865800000,
+    "end": 1794866100000,
     "description": "De 79-jarige Gilbert spreekt wartaal en wordt binnengebracht met verlammingsverschijnselen. Sam was met een kettingzaag aan het werk toen het misliep. Geert heeft al de hele dag onophoudelijk last van neusbloedingen. Anaïs is door haar knie gezakt.",
     "category": [
       "Docu",
@@ -1200,11 +1200,11 @@
     }
   },
   {
-    "id": "vrt1:1794865800000:39vxy3",
+    "id": "vrt1:1794866100000:39vxy3",
     "channel": "vrt1",
     "title": "VRT NWS laat",
-    "start": 1794865800000,
-    "end": 1794866700000,
+    "start": 1794866100000,
+    "end": 1794867000000,
     "description": "Compleet nieuwsoverzicht. Met het laatste nieuws, interviews, sport en de weersverwachting.",
     "category": [
       "Actua"
@@ -1228,11 +1228,11 @@
     }
   },
   {
-    "id": "vrt1:1794866700000:behtd8",
+    "id": "vrt1:1794867000000:behtd8",
     "channel": "vrt1",
     "title": "Het weer (laat)",
-    "start": 1794866700000,
-    "end": 1794867000000,
+    "start": 1794867000000,
+    "end": 1794867300000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1256,11 +1256,11 @@
     }
   },
   {
-    "id": "vrt1:1794867000000:u1m4rd",
+    "id": "vrt1:1794867300000:u1m4rd",
     "channel": "vrt1",
     "title": "Kamp Fly",
-    "start": 1794867000000,
-    "end": 1794869820000,
+    "start": 1794867300000,
+    "end": 1794870120000,
     "description": "In Kamp Fly volgt Tom Waes hoe ex-Special Forces operator Fly acht schoolverlaters meeneemt op een grensverleggend avontuur in Corsica. Hoog in de Corsicaanse bergen wil Fly, zelf een schoolverlater.",
     "category": [
       "Reality",
@@ -1283,36 +1283,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34336462~~2FSH066567020000"
-    }
-  },
-  {
-    "id": "vrt1:1794869820000:14j79ss",
-    "channel": "vrt1",
-    "title": "Eurodreams",
-    "start": 1794869820000,
-    "end": 1794870000000,
-    "description": "Over de trekking van de lotto EuroDreams.",
-    "category": [
-      "Spelprogramma",
-      "Entertainment"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34524565~~2FEP049125700317%2Cimi%3A392e861ea6ffe83beb7b7562048321361681687f/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 92,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34524565~~2FEP049125700317,imi:392e861ea6ffe83beb7b7562048321361681687f",
-      "episodeName": "Aflevering 92",
-      "genres": [
-        "Spelprogramma",
-        "Entertainment"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25970046~~2FSH049125700000"
     }
   }
 ]

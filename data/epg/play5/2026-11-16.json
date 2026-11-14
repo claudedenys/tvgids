@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "Watson",
     "start": 1794789300000,
-    "end": 1794792900000,
+    "end": 1794792300000,
     "description": "Watson en het team komen in actie wanneer Mary's moeder zichzelf per ongeluk vergiftigt, terwijl ze lijdt aan een zeldzame, razendsnel voortschrijdende vorm van dementie. Ondertussen duikt Sherlock Holmes weer op, nadat hij dood was gewaand.",
     "category": [
       "Dramaserie",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1794792900000:a5a4wx",
+    "id": "play5:1794792300000:a5a4wx",
     "channel": "play5",
     "title": "Watson",
-    "start": 1794792900000,
-    "end": 1794795600000,
+    "start": 1794792300000,
+    "end": 1794794700000,
     "description": "Wanneer een universitair microbioloog terugkeert van een expeditie naar Siberië, worden zij en haar teamleden ziek door een mogelijk herleefd pathogeen, een zogenaamd 'zombievirus'. Ondertussen zoekt Watson zijn oude vriend Sherlock Holmes op, nadat hij heeft ontdekt dat die nog leeft. En Ingrid belandt onverwachts bij het team op de werkvloer.",
     "category": [
       "Dramaserie",
@@ -90,11 +90,11 @@
     }
   },
   {
-    "id": "play5:1794795600000:48zb9",
+    "id": "play5:1794794700000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1794795600000,
-    "end": 1794801600000,
+    "start": 1794794700000,
+    "end": 1794801000000,
     "description": null,
     "category": [],
     "image": null,
@@ -114,11 +114,35 @@
     }
   },
   {
+    "id": "play5:1794801000000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1794801000000,
+    "end": 1794801600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b74dccadcf87225eddbb2a998932c88280ff6386",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play5:1794801600000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
     "start": 1794801600000,
-    "end": 1794802800000,
+    "end": 1794806700000,
     "description": null,
     "category": [],
     "image": null,
@@ -138,16 +162,16 @@
     }
   },
   {
-    "id": "play5:1794802800000:7r8smq",
+    "id": "play5:1794806700000:7r8smq",
     "channel": "play5",
     "title": "SkyMed",
-    "start": 1794802800000,
-    "end": 1794805500000,
+    "start": 1794806700000,
+    "end": 1794809400000,
     "description": "Wanneer Weezer Crystals geheim ontdekt, moet zij de gevolgen onder ogen zien.",
     "category": [
       "Dramaserie"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25934678~~2FEP043539800018%2Cimi%3Ad874fa608d7a9755ff10c03c188c822fef42d7f3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F25934678~~2FEP043539800018%2Cimi%3Afbf8ef24e361abcb19c50786a443bc525f4d71fa/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 2,
@@ -155,7 +179,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F25934678~~2FEP043539800018,imi:d874fa608d7a9755ff10c03c188c822fef42d7f3",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F25934678~~2FEP043539800018,imi:fbf8ef24e361abcb19c50786a443bc525f4d71fa",
       "episodeName": "Old Wounds",
       "genres": [
         "Dramaserie"
@@ -166,11 +190,11 @@
     }
   },
   {
-    "id": "play5:1794805500000:7r8smq",
+    "id": "play5:1794809400000:7r8smq",
     "channel": "play5",
     "title": "SkyMed",
-    "start": 1794805500000,
-    "end": 1794808200000,
+    "start": 1794809400000,
+    "end": 1794811800000,
     "description": "Terwijl de SkyMed-teamleden worden geconfronteerd met een onderzoek naar het ongeval van een patiënt, worstelt Hayley met het verzamelen van vage herinneringen aan de oorzaak van haar terugval- en of zij het dodelijke ongeval heeft veroorzaakt.",
     "category": [
       "Dramaserie"
@@ -194,11 +218,11 @@
     }
   },
   {
-    "id": "play5:1794808200000:7r8smq",
+    "id": "play5:1794811800000:7r8smq",
     "channel": "play5",
     "title": "SkyMed",
-    "start": 1794808200000,
-    "end": 1794811500000,
+    "start": 1794811800000,
+    "end": 1794814500000,
     "description": "Terwijl de druk rondom de SkyMed-uitbreiding tot een hoogtepunt komt, vecht een van de cockpitbemanningen voor zijn leven door een schokkende noodsituatie.",
     "category": [
       "Dramaserie"
@@ -222,11 +246,11 @@
     }
   },
   {
-    "id": "play5:1794811500000:48zb9",
+    "id": "play5:1794814500000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1794811500000,
-    "end": 1794813300000,
+    "start": 1794814500000,
+    "end": 1794816300000,
     "description": null,
     "category": [],
     "image": null,
@@ -246,11 +270,11 @@
     }
   },
   {
-    "id": "play5:1794813300000:1w8dao1",
+    "id": "play5:1794816300000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1794813300000,
-    "end": 1794816300000,
+    "start": 1794816300000,
+    "end": 1794819300000,
     "description": "Castle is verongelukt en zijn auto wordt compleet afgebrand gevonden. Door het persoonlijke tintje wordt dit de moeilijkste zaak uit Becketts carrière.",
     "category": [
       "Misdaaddrama",
@@ -276,11 +300,11 @@
     }
   },
   {
-    "id": "play5:1794816300000:1w8dao1",
+    "id": "play5:1794819300000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1794816300000,
-    "end": 1794819600000,
+    "start": 1794819300000,
+    "end": 1794822300000,
     "description": "Het team doet onderzoek naar de moord op de directeur van een speelgoedfabriek. Ondertussen is Castle een aanwijzing met betrekking tot zijn eigen mysterieuze verdwijning op het spoor.",
     "category": [
       "Misdaaddrama",
@@ -306,11 +330,11 @@
     }
   },
   {
-    "id": "play5:1794819600000:sib630",
+    "id": "play5:1794822300000:sib630",
     "channel": "play5",
     "title": "Elsbeth",
-    "start": 1794819600000,
-    "end": 1794822900000,
+    "start": 1794822300000,
+    "end": 1794825300000,
     "description": "De vonken vliegen ervan af tussen Elsbeth en een knappe Schotse muzikant genaamd Angus, nadat hij getuige was van een moord via een videokunstinstallatie die Manhattan verbindt met Angus' kleine kustplaatsje.",
     "category": [
       "Dramaserie",
@@ -336,11 +360,11 @@
     }
   },
   {
-    "id": "play5:1794822900000:sib630",
+    "id": "play5:1794825300000:sib630",
     "channel": "play5",
     "title": "Elsbeth",
-    "start": 1794822900000,
-    "end": 1794826200000,
+    "start": 1794825300000,
+    "end": 1794828300000,
     "description": "Tijdens het onderzoek naar de dood van een toelatingsfunctionaris van een universiteit, krijgt Elsbeth een conflict een onderwijsadviseur, die een plekje aan de prestigieuze universiteit belooft aan kinderen van goedbetalende ouders.",
     "category": [
       "Dramaserie",
@@ -366,11 +390,11 @@
     }
   },
   {
-    "id": "play5:1794826200000:yknhhu",
+    "id": "play5:1794828300000:yknhhu",
     "channel": "play5",
     "title": "NCIS",
-    "start": 1794826200000,
-    "end": 1794829500000,
+    "start": 1794828300000,
+    "end": 1794831000000,
     "description": "Het team onderzoekt meerdere motieven wanneer een therapeute, getrouwd met een marinecommandant, vermoord wordt gevonden. Ondertussen bespreekt het team de datinggewoontes van Tony.",
     "category": [
       "Misdaaddrama",
@@ -396,11 +420,11 @@
     }
   },
   {
-    "id": "play5:1794829500000:fw222e",
+    "id": "play5:1794831000000:fw222e",
     "channel": "play5",
     "title": "Truth Be Told",
-    "start": 1794829500000,
-    "end": 1794832800000,
+    "start": 1794831000000,
+    "end": 1794834000000,
     "description": "Het identificeren van een nieuwe verdachte heeft onbedoelde gevolgen voor het persoonlijke leven van Poppy.",
     "category": [
       "Misdaaddrama",
@@ -426,11 +450,11 @@
     }
   },
   {
-    "id": "play5:1794832800000:1slmu5f",
+    "id": "play5:1794834000000:1slmu5f",
     "channel": "play5",
     "title": "Good Will Hunting",
-    "start": 1794832800000,
-    "end": 1794840900000,
+    "start": 1794834000000,
+    "end": 1794841800000,
     "description": "De 20-jarige Will Hunting is een heel intelligente jongeman, maar heeft door zijn moeilijke jeugd geen opleiding gevolgd. Om geld te verdienen, werkt hij als conciërge op een universiteit. Op een avond lost hij een ontzettend moeilijk wiskundeprobleem op en wordt zijn intelligentie ontdekt door de professor Gerald Lambeau, die hem vervolgens de kans biedt om een betere richting aan zijn leven te geven.",
     "category": [
       "Drama",
@@ -456,11 +480,11 @@
     }
   },
   {
-    "id": "play5:1794840900000:1w8dao1",
+    "id": "play5:1794841800000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1794840900000,
-    "end": 1794844200000,
+    "start": 1794841800000,
+    "end": 1794844500000,
     "description": "Beckett en Castle proberen hun leven weer op orde te krijgen na de recente verdwijningen. Ondertussen doen ze onderzoek naar de dood van een poolspeler die is vermoord met een keu. Ze vermoeden dat er bovennatuurlijke krachten in het spel zijn.",
     "category": [
       "Misdaaddrama",
@@ -486,11 +510,11 @@
     }
   },
   {
-    "id": "play5:1794844200000:1w8dao1",
+    "id": "play5:1794844500000:1w8dao1",
     "channel": "play5",
     "title": "Castle",
-    "start": 1794844200000,
-    "end": 1794847500000,
+    "start": 1794844500000,
+    "end": 1794847800000,
     "description": "Als een ijsverkoper vermoord wordt gaat Castle undercover op een basisschool om informatie te winnen bij een nog onbekende scholier.",
     "category": [
       "Misdaaddrama",
@@ -516,10 +540,10 @@
     }
   },
   {
-    "id": "play5:1794847500000:sib630",
+    "id": "play5:1794847800000:sib630",
     "channel": "play5",
     "title": "Elsbeth",
-    "start": 1794847500000,
+    "start": 1794847800000,
     "end": 1794850800000,
     "description": "Tijdens het onderzoek naar de dood van een rijke vastgoedontwikkelaar komt Elsbeth terecht bij de laatste persoon die hem levend heeft gezien: een lifestyleconsultant genaamd Chloe.",
     "category": [
