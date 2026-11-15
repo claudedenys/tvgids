@@ -46,7 +46,7 @@
     "title": "Nieuwsuur",
     "start": 1794700200000,
     "end": 1794702600000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Coalitiepartijen D66, VVD en CDA voeren net als gisteren crisisoverleg.",
     "category": [
       "Actueel"
     ],
@@ -71,7 +71,7 @@
     "title": "Nieuwsuur",
     "start": 1794702600000,
     "end": 1794726000000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Coalitiepartijen D66, VVD en CDA voeren net als gisteren crisisoverleg.",
     "category": [
       "Actueel"
     ],
@@ -298,7 +298,7 @@
     "title": "NOS Journaal",
     "start": 1794740400000,
     "end": 1794741000000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Crisisoverleg kabinet vandaag hervat * Dode bij treinongeluk Eindhoven *...",
     "category": [
       "Actueel"
     ],
@@ -312,7 +312,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -322,9 +323,9 @@
     "title": "Buitenhof",
     "start": 1794741000000,
     "end": 1794744600000,
-    "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
+    "description": "Met in deze uitzending: * Presentatie door Joost Vullings.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v390/upload/b/carrousel/buitenhof-787362662.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
