@@ -64,7 +64,7 @@
     "channel": "npo3",
     "title": "NOS Studio Sport",
     "start": 1794793200000,
-    "end": 1794805260000,
+    "end": 1794805200000,
     "description": "Liveverslag van WB Schaatsen Beijing (Peking), China.",
     "category": [
       "Sport",
@@ -90,10 +90,10 @@
     }
   },
   {
-    "id": "npo3:1794805260000:vk2ib9",
+    "id": "npo3:1794805200000:vk2ib9",
     "channel": "npo3",
     "title": "Kiwi & Strit",
-    "start": 1794805260000,
+    "start": 1794805200000,
     "end": 1794805500000,
     "description": "Kiwi is ziek. Strit wil hem helpen opknappen, zodat ze weer samen kunnen gaan fietsen.",
     "category": [
@@ -2278,7 +2278,7 @@
     "channel": "npo3",
     "title": "Lassie Animated",
     "start": 1794841800000,
-    "end": 1794843300000,
+    "end": 1794842400000,
     "description": "Als Erwin hoort van een wedstrijd voor een omslagfoto voor de bezoekersbrochure, is hij vastbesloten om mee te doen. Hij weet echter niet of de oude camera die hij van zijn vader geërfd heeft goed genoeg is, dus begint hij aan een plan te werken…",
     "category": [
       "Kids",
@@ -2304,11 +2304,11 @@
     }
   },
   {
-    "id": "npo3:1794843300000:lg1fg6",
+    "id": "npo3:1794842400000:lg1fg6",
     "channel": "npo3",
     "title": "Prinses Spiegelbelle",
-    "start": 1794843300000,
-    "end": 1794844800000,
+    "start": 1794842400000,
+    "end": 1794843900000,
     "description": "Ellen ligt in het ziekenhuis met haar rechterarm in het gips. Dan verschijnt prinses Spiegelbelle. Zij heeft haar linkerarm gebroken toen ze van haar vliegende paard viel. De artsen en verpleegkundigen begrijpen er helemaal niets van!",
     "category": [
       "Kids",
@@ -2334,10 +2334,38 @@
     }
   },
   {
-    "id": "npo3:1794844800000:ak4u30",
+    "id": "npo3:1794843900000:1ltn7gx",
+    "channel": "npo3",
+    "title": "Wordt aangekondigd",
+    "start": 1794843900000,
+    "end": 1794844500000,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Acbdfde2a5cfe711a3df4883439f66255fb35862e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:cbdfde2a5cfe711a3df4883439f66255fb35862e",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "npo3:1794844500000:ak4u30",
     "channel": "npo3",
     "title": "Grizzy en de Lemmingen",
-    "start": 1794844800000,
+    "start": 1794844500000,
     "end": 1794845100000,
     "description": "Grizzly wordt wreed gewekt door de Lemmingen die een steekspel doen op schapen. Hij lokt de schapen weg met eten, waarna de Lemmingen hem verbannen tijdens zijn middagslaapje. De woedende beer bereidt zijn wraak voor, gewapend met een katapult.",
     "category": [

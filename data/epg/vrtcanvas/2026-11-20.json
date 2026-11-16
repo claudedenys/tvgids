@@ -1,0 +1,470 @@
+[
+  {
+    "id": "vrtcanvas:1795129800000:715c2v",
+    "channel": "vrtcanvas",
+    "title": "Nachtlus",
+    "start": 1795129800000,
+    "end": 1795150800000,
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F574390314%2Cimi%3A83d7ff92f11046e076cd09329fd2d6888ee975b3/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 57190000,
+    "episode": 574390314,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F574390314,imi:83d7ff92f11046e076cd09329fd2d6888ee975b3",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795150800000:677l6h",
+    "channel": "vrtcanvas",
+    "title": "Radio 2: Goeiemorgen morgen",
+    "start": 1795150800000,
+    "end": 1795161600000,
+    "description": "Live vanuit de studio van Radio 2.",
+    "category": [
+      "Talkshow",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34527189~~2FEP062272870175%2Cimi%3Aefd4e67c8f5dd7ec5a60c53bf6ceade205595c97/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 180,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34527189~~2FEP062272870175,imi:efd4e67c8f5dd7ec5a60c53bf6ceade205595c97",
+      "episodeName": "Aflevering 180",
+      "genres": [
+        "Talkshow",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32034719~~2FSH062272870000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795161600000:1jdr2w0",
+    "channel": "vrtcanvas",
+    "title": "Herfstbeelden",
+    "start": 1795161600000,
+    "end": 1795169700000,
+    "description": "Programma met beelden van de herfst.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34526340~~2FEP033154570162%2Cimi%3Aee5b640b12da6032d94c41a8ec3e3c706afa7030/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102014,
+    "episode": 158,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34526340~~2FEP033154570162,imi:ee5b640b12da6032d94c41a8ec3e3c706afa7030",
+      "episodeName": "Aflevering 158",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795169700000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1795169700000,
+    "end": 1795172400000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34524559~~2FEP029086300753%2Cimi%3Aa1344a5b8de5ef3f040ab7175a8fb0d7a961a25f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 113,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34524559~~2FEP029086300753,imi:a1344a5b8de5ef3f040ab7175a8fb0d7a961a25f",
+      "episodeName": "Aflevering 113",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795172400000:jrwg93",
+    "channel": "vrtcanvas",
+    "title": "Radio 1: Nieuwe Feiten",
+    "start": 1795172400000,
+    "end": 1795176000000,
+    "description": "Lieven Vandenhaute gaat op zoek naar nieuws dat verbijstert, verbaast of verwondert.",
+    "category": [
+      "Actualiteitsmagazine"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34527215~~2FEP052737980435%2Cimi%3Ab9886599538a7e80a65ad62384824f980ee10c7c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 182,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34527215~~2FEP052737980435,imi:b9886599538a7e80a65ad62384824f980ee10c7c",
+      "episodeName": "Aflevering 182",
+      "genres": [
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28183070~~2FSH052737980000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795176000000:1jdr2w0",
+    "channel": "vrtcanvas",
+    "title": "Herfstbeelden",
+    "start": 1795176000000,
+    "end": 1795186800000,
+    "description": "Programma met beelden van de herfst.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34526391~~2FEP033154570167%2Cimi%3A00189976eb927170b06f8d02c6dfcb75d46cc699/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102014,
+    "episode": 163,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34526391~~2FEP033154570167,imi:00189976eb927170b06f8d02c6dfcb75d46cc699",
+      "episodeName": "Aflevering 163",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795186800000:etk3q5",
+    "channel": "vrtcanvas",
+    "title": "Radio 1: De Wereld Vandaag",
+    "start": 1795186800000,
+    "end": 1795190700000,
+    "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
+    "category": [
+      "Actualiteitsmagazine"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34399772~~2FEP049391810659%2Cimi%3Ac939373380b9fc8b88373e6a066935a18e5a4443/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 192,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34399772~~2FEP049391810659,imi:c939373380b9fc8b88373e6a066935a18e5a4443",
+      "episodeName": "Aflevering 192",
+      "genres": [
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26149743~~2FSH049391810000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795190700000:1odp29h",
+    "channel": "vrtcanvas",
+    "title": "On Thin Ice: Putin v Greenpeace",
+    "start": 1795190700000,
+    "end": 1795194300000,
+    "description": "De activisten zetten koers naar het Russische olieplatform, maar worden achtervolgd. Hun actie wordt met brute kracht beantwoord door de FSB. Er worden schoten gelost. De activisten trekken zich terug, maar een FSB-helikopter komt steeds dichter bij.",
+    "category": [
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F29331765~~2FEP055592610001%2Cimi%3A063a09bd2afa4537c00d06f76786f78d30ae3bf7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F29331765~~2FEP055592610001,imi:063a09bd2afa4537c00d06f76786f78d30ae3bf7",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Docu"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29331753~~2FSH055592610000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795194300000:nlnx8",
+    "channel": "vrtcanvas",
+    "title": "Disco: Soundtrack of a Revolution",
+    "start": 1795194300000,
+    "end": 1795197600000,
+    "description": "Een absoluut hoogtepunt kende disco in de jaren zeventig. Het is een tijdperk waarin een generatie worstelt om een politieke en sociale stem te krijgen. Hun roep om bevrijding weten ze te laten horen aan de hand van de discomuziek.",
+    "category": [
+      "Miniserie",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26195014~~2FEP051529510002%2Cimi%3A8430e3b3a80b02f0e3822d710696b8b531335266/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26195014~~2FEP051529510002,imi:8430e3b3a80b02f0e3822d710696b8b531335266",
+      "episodeName": "Ain't No Stoppin' Us Now",
+      "genres": [
+        "Miniserie",
+        "Muziek"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26192522~~2FSH051529510000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795197600000:ia7irc",
+    "channel": "vrtcanvas",
+    "title": "Belga Sport",
+    "start": 1795197600000,
+    "end": 1795201200000,
+    "description": "Midden jaren 2000 haalt de Belgische Lotto wielerploeg Cadel Evans binnen. De Australiër moet een gooi doen naar eindwinst in de Ronde van Frankrijk. Volgens velen een krankzinnig idee uit de koker van hoofdsponsor Marc Coucke.",
+    "category": [
+      "Sport",
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26639034~~2FEP032041710043%2Cimi%3A95b1dd075dc0399eade57cfed3d83596c3caa354/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 11,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26639034~~2FEP032041710043,imi:95b1dd075dc0399eade57cfed3d83596c3caa354",
+      "episodeName": "Cadel Evans - Eén tegen allen",
+      "genres": [
+        "Sport",
+        "Docu"
+      ],
+      "productionDate": "2024",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F43c6fa2f-ec1a-4d81-b4f8-7ead6441656e"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795201200000:eiur5b",
+    "channel": "vrtcanvas",
+    "title": "VRT NWS Terzake",
+    "start": 1795201200000,
+    "end": 1795203000000,
+    "description": "De actualiteit aan de hand van kritische en verhelderende interviews. Achtergrond en duiding bij het nieuws van de dag.",
+    "category": [
+      "Actualiteitsmagazine",
+      "Interview"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34399936~~2FEP029248091205%2Cimi%3A8bcdfd603ad53105cf92a0e6aa87140dc09c3d9e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 212,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34399936~~2FEP029248091205,imi:8bcdfd603ad53105cf92a0e6aa87140dc09c3d9e",
+      "episodeName": "Aflevering 212",
+      "genres": [
+        "Actualiteitsmagazine",
+        "Interview"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3c19e932-60f8-4f8d-a1d5-f6fdae10e620"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795203000000:1rw80yh",
+    "channel": "vrtcanvas",
+    "title": "Het weer",
+    "start": 1795203000000,
+    "end": 1795203300000,
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": [
+      "Weer",
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F574379358%2Cimi%3A5fb1f4fb6f1ac1382666fdd85b93a1abb39b9ef9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 31670000,
+    "episode": 574379358,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F574379358,imi:5fb1f4fb6f1ac1382666fdd85b93a1abb39b9ef9",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795203300000:1v2jkjh",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak op vrijdag",
+    "start": 1795203300000,
+    "end": 1795206600000,
+    "description": "Ivan De Vadder nodigt wekelijks één politicus en twee andere gasten uit. Samen overlopen zij de politieke actualiteit van de afgelopen week.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34526525~~2FEP032312540226%2Cimi%3Ae7ca1c83fe66dd16bd464f3e8deae28e84dbdcc8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 33,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34526525~~2FEP032312540226,imi:e7ca1c83fe66dd16bd464f3e8deae28e84dbdcc8",
+      "episodeName": "Aflevering 33",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fdedd86fb-1690-4b7c-a9b5-14992e517c24"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795206600000:5bacc2",
+    "channel": "vrtcanvas",
+    "title": "Alleen Elvis blijft bestaan",
+    "start": 1795206600000,
+    "end": 1795212300000,
+    "description": "Thomas Vanderveken ontvangt oud-premier Yves Leterme voor een goed gesprek. Anderhalf uur lang praten ze samen over leven, werk en passie. Niet in het wilde weg, maar aan de hand van zelfgekozen beeldfragmenten.",
+    "category": [
+      "Interview",
+      "Samenleving"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34526495~~2FEP033368870054%2Cimi%3A8dd93ff0ae8dab72741fb3e0ea544f07a164a171/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 13,
+    "episode": 4,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34526495~~2FEP033368870054,imi:8dd93ff0ae8dab72741fb3e0ea544f07a164a171",
+      "episodeName": "Yves Leterme",
+      "genres": [
+        "Interview",
+        "Samenleving"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fe90eaf4e-e59c-4985-bd96-a8c8e808b063"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795212300000:ykoqrj",
+    "channel": "vrtcanvas",
+    "title": "Oxen",
+    "start": 1795212300000,
+    "end": 1795215000000,
+    "description": "Oxen en Silke ontsnappen maar net aan gewapende mannen. Mossman wantrouwt Margrethe en eist dat ze toont dat ze nog loyaal is. Kathrin en Nico gaan de confrontatie aan, maar dat gaat mis.",
+    "category": [
+      "Dramaserie",
+      "Thriller"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26021460~~2FEP051818960005%2Cimi%3Aa178a5d4734cd6169824b30607889b703653661e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 5,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26021460~~2FEP051818960005,imi:a178a5d4734cd6169824b30607889b703653661e",
+      "episodeName": "Aflevering 5",
+      "genres": [
+        "Dramaserie",
+        "Thriller"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25833569~~2FSH051818960000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1795215000000:ykoqrj",
+    "channel": "vrtcanvas",
+    "title": "Oxen",
+    "start": 1795215000000,
+    "end": 1795217580000,
+    "description": "Mossmann wil graag uitleggen waar ze op uit is, maar weet niet wie ze kan vertrouwen. Oxen en Margrethe komen steeds dichter bij de waarheid, maar dat betekent ook dat ze in groot gevaar zijn.",
+    "category": [
+      "Dramaserie",
+      "Thriller"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26068704~~2FEP051818960006%2Cimi%3Acb816266454114fbadfb99c2876ab8458c2b48ef/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 6,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26068704~~2FEP051818960006,imi:cb816266454114fbadfb99c2876ab8458c2b48ef",
+      "episodeName": "Aflevering 6",
+      "genres": [
+        "Dramaserie",
+        "Thriller"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25833569~~2FSH051818960000"
+    }
+  }
+]
