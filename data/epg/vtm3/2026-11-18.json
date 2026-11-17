@@ -32,7 +32,7 @@
     "channel": "vtm3",
     "title": "Geen uitzending",
     "start": 1794961500000,
-    "end": 1794988800000,
+    "end": 1794978000000,
     "description": null,
     "category": [],
     "image": null,
@@ -52,11 +52,39 @@
     }
   },
   {
+    "id": "vtm3:1794978000000:6hz2uv",
+    "channel": "vtm3",
+    "title": "Qmusic",
+    "start": 1794978000000,
+    "end": 1794988800000,
+    "description": "Geniet van de allerleukste muziek met Qmusic. Livebeelden vanuit de radiostudio, Twitter- en Instagram-updates, videoclips, weerberichten en nog veel meer.",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial%2Cimi%3A4c5ead2f00ab83770af214671422b951848935cb/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial,imi:4c5ead2f00ab83770af214671422b951848935cb",
+      "episodeName": null,
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "vtm3:1794988800000:48zb9",
     "channel": "vtm3",
     "title": "Geen uitzending",
     "start": 1794988800000,
-    "end": 1795007400000,
+    "end": 1795008000000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,11 +104,11 @@
     }
   },
   {
-    "id": "vtm3:1795007400000:1yyfct9",
+    "id": "vtm3:1795008000000:1yyfct9",
     "channel": "vtm3",
     "title": "Ghosts",
-    "start": 1795007400000,
-    "end": 1795009200000,
+    "start": 1795008000000,
+    "end": 1795009500000,
     "description": "Alberta legt het aan met een klopgeest die meekomt met een nieuwe Woodstone-gast. En Isaac en Nigel hebben elk een eigen vrijgezellenfeest.",
     "category": [
       "Sitcom",
@@ -106,10 +134,10 @@
     }
   },
   {
-    "id": "vtm3:1795009200000:ogoywb",
+    "id": "vtm3:1795009500000:ogoywb",
     "channel": "vtm3",
     "title": "Transformers",
-    "start": 1795009200000,
+    "start": 1795009500000,
     "end": 1795018500000,
     "description": "Twee soorten robots, de goede Autobots en de kwaadaardige Decepticons, voeren oorlog op aarde. De jonge Sam Witwicky zal een cruciale rol spelen in deze oorlog.",
     "category": [
@@ -200,7 +228,7 @@
     "channel": "vtm3",
     "title": "Ghosts",
     "start": 1795023900000,
-    "end": 1795025400000,
+    "end": 1795025700000,
     "description": "Als Sam en Jay de geesten een weekendje alleen thuis laten in een poging een romantisch uitje te hebben, volgen er schokkende onthullingen over twee geliefde spoken.",
     "category": [
       "Sitcom",
@@ -226,11 +254,11 @@
     }
   },
   {
-    "id": "vtm3:1795025400000:15vnov6",
+    "id": "vtm3:1795025700000:15vnov6",
     "channel": "vtm3",
     "title": "The Simpsons",
-    "start": 1795025400000,
-    "end": 1795027200000,
+    "start": 1795025700000,
+    "end": 1795027500000,
     "description": "Kemi, een Nigeriaanse prinses, komt naar Springfield omdat haar vader een uraniumdeal probeert af te sluiten met mr. Burns. Homer krijgt de taak om haar te beschermen.",
     "category": [
       "Animatie",
@@ -256,10 +284,10 @@
     }
   },
   {
-    "id": "vtm3:1795027200000:1jveca3",
+    "id": "vtm3:1795027500000:1jveca3",
     "channel": "vtm3",
     "title": "The Big Bang Theory",
-    "start": 1795027200000,
+    "start": 1795027500000,
     "end": 1795029000000,
     "description": "De familie van zowel Amy als Sheldon komt op visite, ze doen er alles aan om ervoor te zorgen dat alle plannen vlekkeloos verlopen. Alleen de bruid en bruidegom lijken niet mee te willen werken.",
     "category": [
@@ -288,7 +316,7 @@
     "channel": "vtm3",
     "title": "The Big Bang Theory",
     "start": 1795029000000,
-    "end": 1795030500000,
+    "end": 1795030800000,
     "description": "Sheldon en Amy's huwelijksreis loopt vast in New York. Penny en Leonard ontdekken dat ze lijken op de ouders van Amy. Koothrappali beledigt natuurkundige Neil deGrasse Tyson en begint een Twitteroorlog.",
     "category": [
       "Sitcom"
@@ -312,10 +340,10 @@
     }
   },
   {
-    "id": "vtm3:1795030500000:1x40icu",
+    "id": "vtm3:1795030800000:1x40icu",
     "channel": "vtm3",
     "title": "Meet the Parents",
-    "start": 1795030500000,
+    "start": 1795030800000,
     "end": 1795038000000,
     "description": "Verpleger Greg Focker wil trouwen met kleuterleidster Pam Byrnes, maar dan moet hij eerst haar vader Jack, een ex-CIA-agent, om de hand van zijn dochter vragen. Zijn ontmoeting met haar familie verloopt echter niet zoals gepland.",
     "category": [
@@ -346,7 +374,7 @@
     "channel": "vtm3",
     "title": "The Irrational",
     "start": 1795038000000,
-    "end": 1795041000000,
+    "end": 1795041300000,
     "description": "Wanneer een kampioenspaard zijn ruiter afwerpt en doodt, worden Alec en Phoebe opgeroepen om het paard te redden van euthanasie. Uit hun onderzoek blijkt dat niet alles is wat het lijkt.",
     "category": [
       "Misdaaddrama",
@@ -372,10 +400,10 @@
     }
   },
   {
-    "id": "vtm3:1795041000000:1kdmi77",
+    "id": "vtm3:1795041300000:1kdmi77",
     "channel": "vtm3",
     "title": "Based On A True Story",
-    "start": 1795041000000,
+    "start": 1795041300000,
     "end": 1795044600000,
     "description": "Een getrouwde makelaar en een voormalige tennisster proberen het hoofd boven water te houden terwijl een beruchte seriemoordenaar Los Angeles terroriseert.",
     "category": [

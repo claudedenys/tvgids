@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1794960300000:xykime",
+    "id": "sport:playsports1:1794959580000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794960300000,
+    "start": 1794959580000,
     "end": 1794981600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -115,14 +115,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1794965460000:xykime",
+    "id": "sport:playsports3:1794966900000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794965460000,
+    "start": 1794966900000,
     "end": 1794981000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -253,15 +253,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794959040000:8a2n92",
+    "id": "sport:playsports4:1794958800000:8a2n92",
     "externalId": null,
     "title": "ATP Basel / ATP Wenen",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1794959040000,
-    "end": 1794966600000,
+    "start": 1794958800000,
+    "end": 1794965580000,
     "status": "aankomend",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
@@ -276,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794966600000:156fmzo",
+    "id": "sport:playsports4:1794965580000:156fmzo",
     "externalId": null,
     "title": "Nieuwe Natte Kutjes",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794966600000,
-    "end": 1794970380000,
+    "start": 1794965580000,
+    "end": 1794969360000,
     "status": "aankomend",
     "description": "Natte nieuwe kutjes smaken heerlijk zoet, ontdek nieuwe dames in de heetste seksstandjes.",
     "source": "epg",
@@ -299,14 +299,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1794970380000:xykime",
+    "id": "sport:playsports4:1794969360000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1794970380000,
+    "start": 1794969360000,
     "end": 1794981600000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -1081,26 +1081,233 @@
     ]
   },
   {
-    "id": "sport:match:1794953880000:everton - coventry city",
+    "id": "sport:dazn1:1794956400000:Epg:15mdcfkgdd0m41atlr7kk6ene8",
     "externalId": null,
-    "title": "Everton - Coventry City",
-    "home": "Everton",
-    "away": "Coventry City",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1794953880000,
-    "end": 1794960300000,
+    "title": "Eastern Michigan @ Western Michigan",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1794956400000,
+    "end": 1794967200000,
     "status": "aankomend",
-    "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
+    "description": "NCAA Football\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
-      "Play Sports 1"
+      "DAZN 1"
     ],
     "channels": [
-      "Play Sports 1"
+      "DAZN 1"
     ],
     "channelIds": [
-      "playsports1"
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1794960000000:Epg:1n6ofzaccszvt1snbnc0t8amns",
+    "externalId": null,
+    "title": "Illinois @ Duke",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1794960000000,
+    "end": 1794970800000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1794963600000:Epg:asic2gaq5a9o9tvzk67cnb6l7",
+    "externalId": null,
+    "title": "Trail Blazers @ Timberwolves",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1794963600000,
+    "end": 1794974400000,
+    "status": "aankomend",
+    "description": "NBA\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1794967200000:Epg:h1uwiz8a8q0f1qli3iguu82qn",
+    "externalId": null,
+    "title": "Michigan State @ Tennessee",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1794967200000,
+    "end": 1794978000000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1794988800000:Epg:1jiiqsa69q5l71qa3fjifzk9lk",
+    "externalId": null,
+    "title": "Teremoana vs. Ahio",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Boksen",
+    "start": 1794988800000,
+    "end": 1794994200000,
+    "status": "aankomend",
+    "description": "Matchroom Boxing\nBekijk de grootste namen en de beste gevechten op DAZN, het wereldwijde home of boxing.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn2:1794958200000:Epg:2wk4t3hkku0f1cb4y29t4k91a",
+    "externalId": null,
+    "title": "Lipscomb @ Purdue",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1794958200000,
+    "end": 1794969000000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:dazn2:1794961800000:Epg:1eln3pmkzjes711p02te3yfai0",
+    "externalId": null,
+    "title": "Arkansas vs. Indiana",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1794961800000,
+    "end": 1794972600000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:dazn2:1794967200000:Epg:5u2b4u7zws5n15p4f0ya341o1",
+    "externalId": null,
+    "title": "College Football Playoff Rankings Show",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1794967200000,
+    "end": 1794978000000,
+    "status": "aankomend",
+    "description": "NCAA Football\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:dazn3:1794963600000:Epg:b05jt8au5sudh143rochsv92g",
+    "externalId": null,
+    "title": "Pistons @ Spurs",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1794963600000,
+    "end": 1794974400000,
+    "status": "aankomend",
+    "description": "NBA\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:dazn3:1795035600000:Epg:6jwzegqe6otf1l3tqrtg2csac",
+    "externalId": null,
+    "title": "Jones vs. Pettus: Persconferentie",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Boksen",
+    "start": 1795035600000,
+    "end": 1795041000000,
+    "status": "aankomend",
+    "description": "Golden Boy Promotions\nBekijk de grootste namen en de beste gevechten op DAZN, het wereldwijde home of boxing.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
     ]
   },
   {
@@ -1334,15 +1541,38 @@
     ]
   },
   {
-    "id": "sport:match:1794959280000:stvv - sk brann",
+    "id": "sport:match:1794954300000:kups - kaa gent",
+    "externalId": null,
+    "title": "KuPS - KAA Gent",
+    "home": "KuPS",
+    "away": "KAA Gent",
+    "competition": "UEFA Conference League",
+    "sport": "Voetbal",
+    "start": 1794954300000,
+    "end": 1794960720000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1794960720000:stvv - sk brann",
     "externalId": null,
     "title": "STVV - SK Brann",
     "home": "STVV",
     "away": "SK Brann",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1794959280000,
-    "end": 1794965460000,
+    "start": 1794960720000,
+    "end": 1794966900000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -1388,9 +1618,32 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1794987300000,
-    "end": 1794993900000,
+    "end": 1794993600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1794993600000:fc twente - ajax",
+    "externalId": null,
+    "title": "FC Twente - Ajax",
+    "home": "FC Twente",
+    "away": "Ajax",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1794993600000,
+    "end": 1794993900000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd FC Twente - Ajax uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1561,6 +1814,259 @@
     ],
     "channelIds": [
       "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1794977940000:players era 8 - quarterfinal: west virginia vs. auburn",
+    "externalId": null,
+    "title": "Players Era 8 - Quarterfinal: West Virginia vs. Auburn",
+    "home": "Players Era 8",
+    "away": "Quarterfinal: West Virginia vs. Auburn",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1794977940000,
+    "end": 1794988740000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795009500000:knockout semi-final - day 2",
+    "externalId": null,
+    "title": "Knockout Semi-Final - Day 2",
+    "home": "Knockout Semi",
+    "away": "Final - Day 2",
+    "competition": null,
+    "sport": null,
+    "start": 1795009500000,
+    "end": 1795020300000,
+    "status": "aankomend",
+    "description": "Total Chess World Championship Tour\nVolg alle actie live op DAZN!",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795021200000:galatasaray - legia warszawa",
+    "externalId": null,
+    "title": "Galatasaray - Legia Warszawa",
+    "home": "Galatasaray",
+    "away": "Legia Warszawa",
+    "competition": null,
+    "sport": null,
+    "start": 1795021200000,
+    "end": 1795032000000,
+    "status": "aankomend",
+    "description": "BCL\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795030200000:malaga - bk pardubice",
+    "externalId": null,
+    "title": "Malaga - BK Pardubice",
+    "home": "Malaga",
+    "away": "BK Pardubice",
+    "competition": null,
+    "sport": null,
+    "start": 1795030200000,
+    "end": 1795041000000,
+    "status": "aankomend",
+    "description": "BCL\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795037400000:players era 8 - semifinal 1: tbd vs. tbd",
+    "externalId": null,
+    "title": "Players Era 8 - Semifinal 1: TBD vs. TBD",
+    "home": "Players Era 8",
+    "away": "Semifinal 1: TBD vs. TBD",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795037400000,
+    "end": 1795048200000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nWatch all the action from the NCAA on DAZN",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795021200000:aek - szombathely",
+    "externalId": null,
+    "title": "AEK - Szombathely",
+    "home": "AEK",
+    "away": "Szombathely",
+    "competition": null,
+    "sport": null,
+    "start": 1795021200000,
+    "end": 1795032000000,
+    "status": "aankomend",
+    "description": "BCL\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795032000000:sydney, nova scotia - day 2, draw 7",
+    "externalId": null,
+    "title": "Sydney, Nova Scotia - Day 2, Draw 7",
+    "home": "Sydney, Nova Scotia",
+    "away": "Day 2, Draw 7",
+    "competition": null,
+    "sport": null,
+    "start": 1795032000000,
+    "end": 1795042800000,
+    "status": "aankomend",
+    "description": "Grand Slam of Curling\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1794960000000:sydney, nova scotia - day 1, draw 4",
+    "externalId": null,
+    "title": "Sydney, Nova Scotia - Day 1, Draw 4",
+    "home": "Sydney, Nova Scotia",
+    "away": "Day 1, Draw 4",
+    "competition": null,
+    "sport": null,
+    "start": 1794960000000,
+    "end": 1794970800000,
+    "status": "aankomend",
+    "description": "Grand Slam of Curling\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1794969000000:players era 8 - quarterfinal: unlv vs. kansas",
+    "externalId": null,
+    "title": "Players Era 8 - Quarterfinal: UNLV vs. Kansas",
+    "home": "Players Era 8",
+    "away": "Quarterfinal: UNLV vs. Kansas",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1794969000000,
+    "end": 1794979800000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1795017600000:sydney, nova scotia - day 2, draw 6",
+    "externalId": null,
+    "title": "Sydney, Nova Scotia - Day 2, Draw 6",
+    "home": "Sydney, Nova Scotia",
+    "away": "Day 2, Draw 6",
+    "competition": null,
+    "sport": null,
+    "start": 1795017600000,
+    "end": 1795028400000,
+    "status": "aankomend",
+    "description": "Grand Slam of Curling\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1795028400000:kk cibona - strasbourg",
+    "externalId": null,
+    "title": "KK Cibona - Strasbourg",
+    "home": "KK Cibona",
+    "away": "Strasbourg",
+    "competition": null,
+    "sport": null,
+    "start": 1795028400000,
+    "end": 1795039200000,
+    "status": "aankomend",
+    "description": "BCL\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
     ]
   }
 ]

@@ -284,7 +284,7 @@
     "competition": "Tennis",
     "sport": "Tennis",
     "start": 1795045440000,
-    "end": 1795052100000,
+    "end": 1795052400000,
     "status": "aankomend",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
@@ -299,14 +299,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795052100000:xykime",
+    "id": "sport:playsports4:1795052400000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795052100000,
+    "start": 1795052400000,
     "end": 1795068000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -943,6 +943,190 @@
     ]
   },
   {
+    "id": "sport:dazn1:1795044600000:Epg:l2hc72coewvc1j5nvgzkuwasa",
+    "externalId": null,
+    "title": "IU Indy @ Penn State",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795044600000,
+    "end": 1795055400000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795048200000:Epg:1n91uihh740j61nmtshodzl278",
+    "externalId": null,
+    "title": "Central Michigan @ Buffalo",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795048200000,
+    "end": 1795059000000,
+    "status": "aankomend",
+    "description": "NCAA Football\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795051800000:Epg:eslyeoshs7i310n07wvgz8v3g",
+    "externalId": null,
+    "title": "Nebraska vs. South Dakota",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795051800000,
+    "end": 1795062600000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795059000000:Epg:eegn05vet3hh1bofrtkwvu6bj",
+    "externalId": null,
+    "title": "Cal State Fullerton @ UCLA",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795059000000,
+    "end": 1795069800000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn2:1795046400000:Epg:2xjyfx0uv6s50bokcign3ervs",
+    "externalId": null,
+    "title": "Bucks @ Heat",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795046400000,
+    "end": 1795057200000,
+    "status": "aankomend",
+    "description": "NBA\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:dazn2:1795050000000:Epg:1uwuqnn7dafof1qhwo01kwo13l",
+    "externalId": null,
+    "title": "Kansas @ Minnesota",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795050000000,
+    "end": 1795060800000,
+    "status": "aankomend",
+    "description": "NCAA Women's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:dazn2:1795053600000:Epg:1b2pq39gh6jg18dnxoe2uem8k",
+    "externalId": null,
+    "title": "UConn @ Arizona",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795053600000,
+    "end": 1795064400000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:dazn3:1795046400000:Epg:3ydj3n8f6ep71xgy7nnch9yxd",
+    "externalId": null,
+    "title": "Ole Miss @ Ohio State",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795046400000,
+    "end": 1795057200000,
+    "status": "aankomend",
+    "description": "NCAA Women's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
     "id": "sport:match:1795040100000:everton - coventry city",
     "externalId": null,
     "title": "Everton - Coventry City",
@@ -1446,6 +1630,305 @@
     ],
     "channelIds": [
       "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:match:1795046400000:sydney, nova scotia - day 2, draw 8",
+    "externalId": null,
+    "title": "Sydney, Nova Scotia - Day 2, Draw 8",
+    "home": "Sydney, Nova Scotia",
+    "away": "Day 2, Draw 8",
+    "competition": null,
+    "sport": null,
+    "start": 1795046400000,
+    "end": 1795057200000,
+    "status": "aankomend",
+    "description": "Grand Slam of Curling\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795080300000:barcelona - north america, race 1",
+    "externalId": null,
+    "title": "Barcelona - North America, Race 1",
+    "home": "Barcelona",
+    "away": "North America, Race 1",
+    "competition": null,
+    "sport": null,
+    "start": 1795080300000,
+    "end": 1795091100000,
+    "status": "aankomend",
+    "description": "Ferrari Challenge North America\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795095900000:knockout final - day 1",
+    "externalId": null,
+    "title": "Knockout Final - Day 1",
+    "home": "Knockout Final",
+    "away": "Day 1",
+    "competition": null,
+    "sport": null,
+    "start": 1795095900000,
+    "end": 1795106700000,
+    "status": "aankomend",
+    "description": "Total Chess World Championship Tour\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795111200000:ppl mgm las vegas - dag 2 - session 1",
+    "externalId": null,
+    "title": "PPL MGM Las Vegas - Dag 2 - Session 1",
+    "home": "PPL MGM Las Vegas",
+    "away": "Dag 2 - Session 1",
+    "competition": null,
+    "sport": "Padel",
+    "start": 1795111200000,
+    "end": 1795122000000,
+    "status": "aankomend",
+    "description": "Pro Padel League\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795122000000:jones vs. pettus: weigh-in",
+    "externalId": null,
+    "title": "Jones vs. Pettus: Weigh-In",
+    "home": "Jones vs. Pettus: Weigh",
+    "away": "In",
+    "competition": null,
+    "sport": "Boksen",
+    "start": 1795122000000,
+    "end": 1795127400000,
+    "status": "aankomend",
+    "description": "Golden Boy Promotions\nBekijk de grootste namen en de beste gevechten op DAZN, het wereldwijde home of boxing.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795123800000:sydney, nova scotia - day 3 - draw 11",
+    "externalId": null,
+    "title": "Sydney, Nova Scotia - Day 3 - Draw 11",
+    "home": "Sydney, Nova Scotia",
+    "away": "Day 3 - Draw 11",
+    "competition": null,
+    "sport": null,
+    "start": 1795123800000,
+    "end": 1795134600000,
+    "status": "aankomend",
+    "description": "Grand Slam of Curling\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795098300000:barcelona - coppa shell, race 1",
+    "externalId": null,
+    "title": "Barcelona - Coppa Shell, Race 1",
+    "home": "Barcelona",
+    "away": "Coppa Shell, Race 1",
+    "competition": null,
+    "sport": null,
+    "start": 1795098300000,
+    "end": 1795109100000,
+    "status": "aankomend",
+    "description": "Ferrari Challenge Europe\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795109400000:sydney, nova scotia - day 3 - draw 10",
+    "externalId": null,
+    "title": "Sydney, Nova Scotia - Day 3 - Draw 10",
+    "home": "Sydney, Nova Scotia",
+    "away": "Day 3 - Draw 10",
+    "competition": null,
+    "sport": null,
+    "start": 1795109400000,
+    "end": 1795120200000,
+    "status": "aankomend",
+    "description": "Grand Slam of Curling\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795116600000:players era 8 - 3rd place game: tbd vs. tbd",
+    "externalId": null,
+    "title": "Players Era 8 - 3rd Place Game: TBD vs. TBD",
+    "home": "Players Era 8",
+    "away": "3rd Place Game: TBD vs. TBD",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795116600000,
+    "end": 1795127400000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nWatch all the action from the NCAA on DAZN",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795050000000:ppl mgm las vegas - dag 1",
+    "externalId": null,
+    "title": "PPL MGM Las Vegas - Dag 1",
+    "home": "PPL MGM Las Vegas",
+    "away": "Dag 1",
+    "competition": null,
+    "sport": "Padel",
+    "start": 1795050000000,
+    "end": 1795060800000,
+    "status": "aankomend",
+    "description": "Pro Padel League\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1795059000000:players era 8 - semifinal 2: tbd vs. tbd",
+    "externalId": null,
+    "title": "Players Era 8 - Semifinal 2: TBD vs. TBD",
+    "home": "Players Era 8",
+    "away": "Semifinal 2: TBD vs. TBD",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795059000000,
+    "end": 1795069800000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nWatch all the action from the NCAA on DAZN",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1795089300000:barcelona - trofeo pirelli, race 1",
+    "externalId": null,
+    "title": "Barcelona - Trofeo Pirelli, Race 1",
+    "home": "Barcelona",
+    "away": "Trofeo Pirelli, Race 1",
+    "competition": null,
+    "sport": null,
+    "start": 1795089300000,
+    "end": 1795100100000,
+    "status": "aankomend",
+    "description": "Ferrari Challenge Europe\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1795116600000:verona - gcl super cup quarter final",
+    "externalId": null,
+    "title": "Verona - GCL Super Cup Quarter Final",
+    "home": "Verona",
+    "away": "GCL Super Cup Quarter Final",
+    "competition": null,
+    "sport": null,
+    "start": 1795116600000,
+    "end": 1795127400000,
+    "status": "aankomend",
+    "description": "Longines Global Champions Tour\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
     ]
   }
 ]

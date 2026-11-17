@@ -62,7 +62,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1794894600000,
-    "end": 1794900900000,
+    "end": 1794900960000,
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -88,10 +88,10 @@
     }
   },
   {
-    "id": "playsports3:1794900900000:1va4v2m",
+    "id": "playsports3:1794900960000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1794900900000,
+    "start": 1794900960000,
     "end": 1794907500000,
     "description": "Verslag van de wedstrijd FC Twente - Ajax uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -122,7 +122,7 @@
     "channel": "playsports3",
     "title": "UEFA Conference League",
     "start": 1794907500000,
-    "end": 1794914100000,
+    "end": 1794913980000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports3:1794914100000:16v40h",
+    "id": "playsports3:1794913980000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1794914100000,
-    "end": 1794920400000,
+    "start": 1794913980000,
+    "end": 1794920100000,
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -178,71 +178,11 @@
     }
   },
   {
-    "id": "playsports3:1794920400000:f9awoa",
-    "channel": "playsports3",
-    "title": "Tennis: Nitto ATP Finals 2026",
-    "start": 1794920400000,
-    "end": 1794927600000,
-    "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
-    "category": [
-      "Sport",
-      "Tennis"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34544287~~2FEP066844560020%2Cimi%3A2feeee0b1864f051ee2033dee87a3178b76f59aa/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 44560000,
-    "episode": 2026111720,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34544287~~2FEP066844560020,imi:2feeee0b1864f051ee2033dee87a3178b76f59aa",
-      "episodeName": "Dag 3",
-      "genres": [
-        "Sport",
-        "Tennis"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33728051~~2FSH066844560000"
-    }
-  },
-  {
-    "id": "playsports3:1794927600000:1w47a4n",
-    "channel": "playsports3",
-    "title": "UEFA Champions League Magazine",
-    "start": 1794927600000,
-    "end": 1794929100000,
-    "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34380567~~2FEP027933070235%2Cimi%3A889d7da32273476b718ba8ad48b19b8bd9ec0f8b/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 26,
-    "episode": 10,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34380567~~2FEP027933070235,imi:889d7da32273476b718ba8ad48b19b8bd9ec0f8b",
-      "episodeName": "Aflevering 10",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F308750~~2FSH027933070000"
-    }
-  },
-  {
-    "id": "playsports3:1794929100000:1va4v2m",
+    "id": "playsports3:1794920100000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1794929100000,
-    "end": 1794935700000,
+    "start": 1794920100000,
+    "end": 1794920400000,
     "description": "Verslag van de wedstrijd FC Twente - Ajax uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -268,11 +208,101 @@
     }
   },
   {
+    "id": "playsports3:1794920400000:f9awoa",
+    "channel": "playsports3",
+    "title": "Tennis: Nitto ATP Finals 2026",
+    "start": 1794920400000,
+    "end": 1794927660000,
+    "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34544287~~2FEP066844560020%2Cimi%3A2feeee0b1864f051ee2033dee87a3178b76f59aa/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 44560000,
+    "episode": 2026111720,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34544287~~2FEP066844560020,imi:2feeee0b1864f051ee2033dee87a3178b76f59aa",
+      "episodeName": "Dag 3",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33728051~~2FSH066844560000"
+    }
+  },
+  {
+    "id": "playsports3:1794927660000:1w47a4n",
+    "channel": "playsports3",
+    "title": "UEFA Champions League Magazine",
+    "start": 1794927660000,
+    "end": 1794929160000,
+    "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34420107~~2FEP027933070236%2Cimi%3A6a4f0817aa0a1cd7ed2f27eebf6298ca3436b792/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 26,
+    "episode": 11,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34420107~~2FEP027933070236,imi:6a4f0817aa0a1cd7ed2f27eebf6298ca3436b792",
+      "episodeName": "Aflevering 11",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F308750~~2FSH027933070000"
+    }
+  },
+  {
+    "id": "playsports3:1794929160000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1794929160000,
+    "end": 1794935700000,
+    "description": "Verslag van de wedstrijd FC Twente - Ajax uit de 12e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559966~~2FEP035850992049%2Cimi%3A381a9aa04d367810a6d9d0041d6c0a761387aa8d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026110849,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559966~~2FEP035850992049,imi:381a9aa04d367810a6d9d0041d6c0a761387aa8d",
+      "episodeName": "FC Twente - Ajax",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
     "id": "playsports3:1794935700000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1794935700000,
-    "end": 1794942240000,
+    "end": 1794942060000,
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -298,10 +328,10 @@
     }
   },
   {
-    "id": "playsports3:1794942240000:i67pjl",
+    "id": "playsports3:1794942060000:i67pjl",
     "channel": "playsports3",
     "title": "Play Sports Highlights",
-    "start": 1794942240000,
+    "start": 1794942060000,
     "end": 1794943800000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
@@ -358,11 +388,41 @@
     }
   },
   {
-    "id": "playsports3:1794951000000:i67pjl",
+    "id": "playsports3:1794951000000:1w47a4n",
+    "channel": "playsports3",
+    "title": "UEFA Champions League Magazine",
+    "start": 1794951000000,
+    "end": 1794952500000,
+    "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34420107~~2FEP027933070236%2Cimi%3A74b867dd7ec44f34b5dfaa96ef11641ca7c79baf/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 26,
+    "episode": 11,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34420107~~2FEP027933070236,imi:74b867dd7ec44f34b5dfaa96ef11641ca7c79baf",
+      "episodeName": "Aflevering 11",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F308750~~2FSH027933070000"
+    }
+  },
+  {
+    "id": "playsports3:1794952500000:i67pjl",
     "channel": "playsports3",
     "title": "Play Sports Highlights",
-    "start": 1794951000000,
-    "end": 1794952800000,
+    "start": 1794952500000,
+    "end": 1794954300000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -388,11 +448,11 @@
     }
   },
   {
-    "id": "playsports3:1794952800000:16v40h",
+    "id": "playsports3:1794954300000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1794952800000,
-    "end": 1794959280000,
+    "start": 1794954300000,
+    "end": 1794960720000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",

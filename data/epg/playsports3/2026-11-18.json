@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports3:1794959280000:16v40h",
+    "id": "playsports3:1794954300000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1794959280000,
-    "end": 1794965460000,
+    "start": 1794954300000,
+    "end": 1794960720000,
+    "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33434406~~2FEP052089690828%2Cimi%3Aaf7e5da3ee8477cfcde56e16ae37743b0b3e8ca8/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 89690000,
+    "episode": 2026110528,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33434406~~2FEP052089690828,imi:af7e5da3ee8477cfcde56e16ae37743b0b3e8ca8",
+      "episodeName": "KuPS - KAA Gent",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27811245~~2FSH052089690000"
+    }
+  },
+  {
+    "id": "playsports3:1794960720000:16v40h",
+    "channel": "playsports3",
+    "title": "UEFA Conference League",
+    "start": 1794960720000,
+    "end": 1794966900000,
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -30,10 +60,10 @@
     }
   },
   {
-    "id": "playsports3:1794965460000:xykime",
+    "id": "playsports3:1794966900000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1794965460000,
+    "start": 1794966900000,
     "end": 1794981000000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -92,7 +122,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1794987300000,
-    "end": 1794993900000,
+    "end": 1794993600000,
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -108,6 +138,36 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33559946~~2FEP035850992048,imi:e18b1c058d9ac5b180438cb7fedd4fadc8a22b31",
       "episodeName": "sc Heerenveen - Feyenoord",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1794993600000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1794993600000,
+    "end": 1794993900000,
+    "description": "Verslag van de wedstrijd FC Twente - Ajax uit de 12e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559966~~2FEP035850992049%2Cimi%3Ac8a95642829be7beb3ab8ea92090db8a2906d303/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026110849,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559966~~2FEP035850992049,imi:c8a95642829be7beb3ab8ea92090db8a2906d303",
+      "episodeName": "FC Twente - Ajax",
       "genres": [
         "Sport",
         "Voetbal"

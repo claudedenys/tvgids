@@ -362,7 +362,7 @@
     "channel": "playsports4",
     "title": "BNXT League",
     "start": 1795202100000,
-    "end": 1795210200000,
+    "end": 1795210500000,
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "category": [
       "Sport",
@@ -388,27 +388,33 @@
     }
   },
   {
-    "id": "playsports4:1795210200000:48zb9",
+    "id": "playsports4:1795210500000:arbc9d",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1795210200000,
+    "title": "The Paddock Live: Formule 1",
+    "start": 1795210500000,
     "end": 1795217940000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
+    "category": [
+      "Sport",
+      "Motorsport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32390211~~2FEP063235100157%2Cimi%3Aa87e0ea1036734ef28f7aeae7ae730a9e8ed3146/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 35100000,
+    "episode": 2026110857,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0268dcbf20c90b2d691cabedc7f4141aed498d46",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32390211~~2FEP063235100157,imi:a87e0ea1036734ef28f7aeae7ae730a9e8ed3146",
+      "episodeName": "GP van Brazilië: Race",
+      "genres": [
+        "Sport",
+        "Motorsport"
+      ],
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
     }
   }
 ]
