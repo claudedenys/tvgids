@@ -1,9 +1,37 @@
 [
   {
-    "id": "play5:1795046400000:4hua1r",
+    "id": "play5:1795044600000:7bb6ek",
+    "channel": "play5",
+    "title": "Modern Family",
+    "start": 1795044600000,
+    "end": 1795046700000,
+    "description": "Haleys vriendje komt voor het eerst kennismaken met de rest van haar familie. Mitch en Cam gaan er tussenuit voor een yogasessie.",
+    "category": [
+      "Sitcom"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F14969904~~2FEP028434260390%2Cimi%3A7b12246dac104a4c68158a899aab91aa0d3b7093/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 9,
+    "episode": 17,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F14969904~~2FEP028434260390,imi:7b12246dac104a4c68158a899aab91aa0d3b7093",
+      "episodeName": "Hoog bezoek",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2017",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F6f58de17-3efc-4875-8dd4-f9101af038f8"
+    }
+  },
+  {
+    "id": "play5:1795046700000:4hua1r",
     "channel": "play5",
     "title": "NCIS: Hawaii",
-    "start": 1795046400000,
+    "start": 1795046700000,
     "end": 1795050300000,
     "description": "Een marinier raakt betrokken bij een moord, en het team wordt opgeroepen om op een vrije dag aan de zaak te werken. Lucy ontdekt dat Whistler een promotie in Washington heeft afgeslagen om in Hawaï te blijven.",
     "category": [
@@ -34,7 +62,7 @@
     "channel": "play5",
     "title": "Fire Country",
     "start": 1795050300000,
-    "end": 1795053600000,
+    "end": 1795053000000,
     "description": "De bemanningen van Station 42 en Third Rock moeten een gewaagde reddingsactie uitvoeren wanneer een enorme modderstroom Edgewater treft. Bodes vrijheid staat op het spel tijdens zijn hoorzitting over zijn voorwaardelijke vrijlating.",
     "category": [
       "Dramaserie"
@@ -58,11 +86,11 @@
     }
   },
   {
-    "id": "play5:1795053600000:48zb9",
+    "id": "play5:1795053000000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1795053600000,
-    "end": 1795060800000,
+    "start": 1795053000000,
+    "end": 1795060620000,
     "description": null,
     "category": [],
     "image": null,
@@ -74,6 +102,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:7a810116101603faa84fc8a155b3ab6cbc6ac5fd",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1795060620000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1795060620000,
+    "end": 1795060800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:a17a390f23fa0df8335f0b3e0fb6b6ccd01f5b21",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

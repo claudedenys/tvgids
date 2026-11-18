@@ -324,7 +324,7 @@
   {
     "id": "sport:playsports3:1795238700000:1w47a4n",
     "externalId": null,
-    "title": "Aflevering 10",
+    "title": "Aflevering 11",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
@@ -437,29 +437,6 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795239600000:1ltn7gx",
-    "externalId": null,
-    "title": "Wordt aangekondigd",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1795239600000,
-    "end": 1795247100000,
-    "status": "aankomend",
-    "description": "De programmering wordt nog aangekondigd.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports4"
-    ]
-  },
-  {
     "id": "sport:playsports4:1795247100000:3y5tln",
     "externalId": null,
     "title": "GP van Qatar: Race",
@@ -506,17 +483,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795258800000:1ltn7gx",
+    "id": "sport:playsports4:1795258800000:10r7t8e",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Merksplas: Vrouwen",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
+    "sport": "Wielrennen",
     "start": 1795258800000,
     "end": 1795264200000,
     "status": "aankomend",
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -529,17 +506,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795264200000:1ltn7gx",
+    "id": "sport:playsports4:1795264200000:10r7t8e",
     "externalId": null,
-    "title": "Wordt aangekondigd",
+    "title": "Merksplas: Mannen",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": null,
+    "sport": "Wielrennen",
     "start": 1795264200000,
     "end": 1795270500000,
     "status": "aankomend",
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -2435,6 +2412,29 @@
     ],
     "channelIds": [
       "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1795239600000:antwerp giants - brussels",
+    "externalId": null,
+    "title": "Antwerp Giants - Brussels",
+    "home": "Antwerp Giants",
+    "away": "Brussels",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795239600000,
+    "end": 1795247100000,
+    "status": "aankomend",
+    "description": "Vanuit de Lotto Arena in Antwerpen, België.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
     ]
   },
   {

@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1795046700000:xykime",
+    "id": "sport:playsports1:1795046160000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795046700000,
+    "start": 1795046160000,
     "end": 1795068000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -115,14 +115,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795051800000:xykime",
+    "id": "sport:playsports3:1795051860000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795051800000,
+    "start": 1795051860000,
     "end": 1795067700000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -184,29 +184,6 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795111500000:i67pjl",
-    "externalId": null,
-    "title": "Play Sports Highlights",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1795111500000,
-    "end": 1795113000000,
-    "status": "aankomend",
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
     "id": "sport:playsports3:1795113000000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 22",
@@ -253,38 +230,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795123800000:i67pjl",
-    "externalId": null,
-    "title": "Play Sports Highlights",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1795123800000,
-    "end": 1795125600000,
-    "status": "aankomend",
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports4:1795045440000:8a2n92",
+    "id": "sport:playsports4:1795045200000:8a2n92",
     "externalId": null,
     "title": "ATP Basel / ATP Wenen",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795045440000,
-    "end": 1795052400000,
+    "start": 1795045200000,
+    "end": 1795051980000,
     "status": "aankomend",
     "description": "Live verslag van verschillende tennisevenementen.",
     "source": "epg",
@@ -299,14 +253,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795052400000:xykime",
+    "id": "sport:playsports4:1795051980000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795052400000,
+    "start": 1795051980000,
     "end": 1795068000000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -759,17 +713,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1795089600000:36ys9t",
+    "id": "sport:playsports-golf:1795089600000:1ltn7gx",
     "externalId": null,
-    "title": "Aflevering 67",
+    "title": "Wordt aangekondigd",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": "Golf",
+    "sport": null,
     "start": 1795089600000,
     "end": 1795091400000,
     "status": "aankomend",
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "description": "De programmering wordt nog aangekondigd.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1127,29 +1081,6 @@
     ]
   },
   {
-    "id": "sport:match:1795040100000:everton - coventry city",
-    "externalId": null,
-    "title": "Everton - Coventry City",
-    "home": "Everton",
-    "away": "Coventry City",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1795040100000,
-    "end": 1795046700000,
-    "status": "aankomend",
-    "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
     "id": "sport:match:1795068000000:hsv - borussia monchengladbach",
     "externalId": null,
     "title": "HSV - Borussia Mönchengladbach",
@@ -1388,7 +1319,7 @@
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
     "start": 1795045500000,
-    "end": 1795051800000,
+    "end": 1795051860000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd AC Milan - Ferencváros, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",

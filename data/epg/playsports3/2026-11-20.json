@@ -218,16 +218,16 @@
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34380567~~2FEP027933070235%2Cimi%3A8314d11024d28c7060160472c49d41de3539e690/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34420107~~2FEP027933070236%2Cimi%3A7f7d0fbda42e4ac7cd62abf869db73afc4e94d5d/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 26,
-    "episode": 10,
+    "episode": 11,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34380567~~2FEP027933070235,imi:8314d11024d28c7060160472c49d41de3539e690",
-      "episodeName": "Aflevering 10",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34420107~~2FEP027933070236,imi:7f7d0fbda42e4ac7cd62abf869db73afc4e94d5d",
+      "episodeName": "Aflevering 11",
       "genres": [
         "Sport",
         "Voetbal"
@@ -298,33 +298,27 @@
     }
   },
   {
-    "id": "playsports3:1795201380000:i67pjl",
+    "id": "playsports3:1795201380000:48zb9",
     "channel": "playsports3",
-    "title": "Play Sports Highlights",
+    "title": "Geen uitzending",
     "start": 1795201380000,
     "end": 1795203000000,
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "category": [
-      "Sport",
-      "Multisportevenement"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575285689%2Cimi%3A1227f1fb9cd434fb90257a69fd98a723be2f1c74/posterTile",
+    "description": null,
+    "category": [],
+    "image": null,
     "icon": null,
     "source": "telenet.tv",
-    "season": 50390000,
-    "episode": 575285689,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575285689,imi:1227f1fb9cd434fb90257a69fd98a723be2f1c74",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e293f76709358fa0df36b0667ae99a201e5bcab8",
       "episodeName": null,
-      "genres": [
-        "Sport",
-        "Multisportevenement"
-      ],
+      "genres": [],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+      "parentSeriesId": null
     }
   },
   {

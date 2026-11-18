@@ -58,31 +58,33 @@
     }
   },
   {
-    "id": "playsports4:1795239600000:1ltn7gx",
+    "id": "playsports4:1795239600000:1ng6s",
     "channel": "playsports4",
-    "title": "Wordt aangekondigd",
+    "title": "BNXT League",
     "start": 1795239600000,
     "end": 1795247100000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Basketbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A7fff2344ea00e77e558ebfc2cdaab6f9e8b58afb/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34536484~~2FEP039991360288%2Cimi%3A022385aa0e13775f49500e7eb432e4c9dcc6211d/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 91360000,
+    "episode": 2026111488,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:7fff2344ea00e77e558ebfc2cdaab6f9e8b58afb",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34536484~~2FEP039991360288,imi:022385aa0e13775f49500e7eb432e4c9dcc6211d",
+      "episodeName": "Antwerp Giants - Brussels",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Basketbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
     }
   },
   {
@@ -146,59 +148,63 @@
     }
   },
   {
-    "id": "playsports4:1795258800000:1ltn7gx",
+    "id": "playsports4:1795258800000:10r7t8e",
     "channel": "playsports4",
-    "title": "Wordt aangekondigd",
+    "title": "Superprestige Veldrijden",
     "start": 1795258800000,
     "end": 1795264200000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Wielrennen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A57d982da4871b7e71b4318dc4ac8b38b59a31502/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34548459~~2FEP054141920066%2Cimi%3A15792d45b1fab8f5d480c6cf2a019f7ccbee4a73/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 41920000,
+    "episode": 2026111466,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:57d982da4871b7e71b4318dc4ac8b38b59a31502",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34548459~~2FEP054141920066,imi:15792d45b1fab8f5d480c6cf2a019f7ccbee4a73",
+      "episodeName": "Merksplas: Vrouwen",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Wielrennen"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27079673~~2FSH054141920000"
     }
   },
   {
-    "id": "playsports4:1795264200000:1ltn7gx",
+    "id": "playsports4:1795264200000:10r7t8e",
     "channel": "playsports4",
-    "title": "Wordt aangekondigd",
+    "title": "Superprestige Veldrijden",
     "start": 1795264200000,
     "end": 1795270500000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Wielrennen"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A65b9bdcb216337a506a4487d537752da0fe29600/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34548469~~2FEP054141920067%2Cimi%3A94d56abad14276e5473a509c9a6abecd0a4bf25b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 41920000,
+    "episode": 2026111467,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:65b9bdcb216337a506a4487d537752da0fe29600",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34548469~~2FEP054141920067,imi:94d56abad14276e5473a509c9a6abecd0a4bf25b",
+      "episodeName": "Merksplas: Mannen",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Wielrennen"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27079673~~2FSH054141920000"
     }
   },
   {

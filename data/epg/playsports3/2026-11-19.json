@@ -4,7 +4,7 @@
     "channel": "playsports3",
     "title": "UEFA Europa League",
     "start": 1795045500000,
-    "end": 1795051800000,
+    "end": 1795051860000,
     "description": "Verslag van de wedstrijd AC Milan - Ferencváros, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "playsports3:1795051800000:xykime",
+    "id": "playsports3:1795051860000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1795051800000,
+    "start": 1795051860000,
     "end": 1795067700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -268,33 +268,27 @@
     }
   },
   {
-    "id": "playsports3:1795111500000:i67pjl",
+    "id": "playsports3:1795111500000:48zb9",
     "channel": "playsports3",
-    "title": "Play Sports Highlights",
+    "title": "Geen uitzending",
     "start": 1795111500000,
     "end": 1795113000000,
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "category": [
-      "Sport",
-      "Multisportevenement"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F576417253%2Cimi%3Aeb140e224e9ab846ee3856098dbde092227aefc1/posterTile",
+    "description": null,
+    "category": [],
+    "image": null,
     "icon": null,
     "source": "telenet.tv",
-    "season": 50390000,
-    "episode": 576417253,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F576417253,imi:eb140e224e9ab846ee3856098dbde092227aefc1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:7ce0152c2875053fb2aa30a68adf2a220b28afc8",
       "episodeName": null,
-      "genres": [
-        "Sport",
-        "Multisportevenement"
-      ],
+      "genres": [],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+      "parentSeriesId": null
     }
   },
   {
@@ -358,33 +352,27 @@
     }
   },
   {
-    "id": "playsports3:1795123800000:i67pjl",
+    "id": "playsports3:1795123800000:48zb9",
     "channel": "playsports3",
-    "title": "Play Sports Highlights",
+    "title": "Geen uitzending",
     "start": 1795123800000,
     "end": 1795125600000,
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "category": [
-      "Sport",
-      "Multisportevenement"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575283029%2Cimi%3Abfadc413e54dc0e56e28481ef60be4f7864d4269/posterTile",
+    "description": null,
+    "category": [],
+    "image": null,
     "icon": null,
     "source": "telenet.tv",
-    "season": 50390000,
-    "episode": 575283029,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575283029,imi:bfadc413e54dc0e56e28481ef60be4f7864d4269",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:99063dd643ca2954e5200e3a52bc52bcfd6443a2",
       "episodeName": null,
-      "genres": [
-        "Sport",
-        "Multisportevenement"
-      ],
+      "genres": [],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+      "parentSeriesId": null
     }
   },
   {
