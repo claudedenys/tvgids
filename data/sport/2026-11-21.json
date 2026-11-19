@@ -8,55 +8,9 @@
     "competition": null,
     "sport": null,
     "start": 1795224600000,
-    "end": 1795241400000,
+    "end": 1795241700000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:playsports1:1795241400000:qjkkk5",
-    "externalId": null,
-    "title": "Claude Makélélé",
-    "home": null,
-    "away": null,
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1795241400000,
-    "end": 1795243200000,
-    "status": "aankomend",
-    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:playsports1:1795262400000:qjkkk5",
-    "externalId": null,
-    "title": "Claude Makélélé",
-    "home": null,
-    "away": null,
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1795262400000,
-    "end": 1795263900000,
-    "status": "aankomend",
-    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -138,15 +92,38 @@
     ]
   },
   {
-    "id": "sport:playsports1:1795290300000:qjkkk5",
+    "id": "sport:playsports1:1795290300000:qe2irj",
     "externalId": null,
-    "title": "Claude Makélélé",
+    "title": "Romelu Lukaku",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1795290300000,
+    "end": 1795294800000,
+    "status": "aankomend",
+    "description": "Romelu Lukaku is bezig aan zijn vijfde seizoen in het profvoetbal. Hij was 16 toen zijn eerste goal voor Anderlecht zijn leven veranderde.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1795294800000:qjkkk5",
+    "externalId": null,
+    "title": "Granit Xhaka",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795290300000,
-    "end": 1795291800000,
+    "start": 1795294800000,
+    "end": 1795296360000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -230,6 +207,52 @@
     ]
   },
   {
+    "id": "sport:playsports2:1795278300000:qjkkk5",
+    "externalId": null,
+    "title": "Claude Makélélé",
+    "home": null,
+    "away": null,
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1795278300000,
+    "end": 1795279800000,
+    "status": "aankomend",
+    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 2"
+    ],
+    "channels": [
+      "Play Sports 2"
+    ],
+    "channelIds": [
+      "playsports2"
+    ]
+  },
+  {
+    "id": "sport:playsports2:1795279800000:xykime",
+    "externalId": null,
+    "title": "Play Sports",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795279800000,
+    "end": 1795281900000,
+    "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 2"
+    ],
+    "channels": [
+      "Play Sports 2"
+    ],
+    "channelIds": [
+      "playsports2"
+    ]
+  },
+  {
     "id": "sport:playsports2:1795289100000:xykime",
     "externalId": null,
     "title": "Play Sports",
@@ -253,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795225260000:xykime",
+    "id": "sport:playsports3:1795224660000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795225260000,
-    "end": 1795228800000,
+    "start": 1795224660000,
+    "end": 1795228620000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -276,14 +299,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795228800000:1p2p7re",
+    "id": "sport:playsports3:1795228620000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 22",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Motorsport",
-    "start": 1795228800000,
+    "start": 1795228620000,
     "end": 1795232400000,
     "status": "aankomend",
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
@@ -330,7 +353,7 @@
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
     "start": 1795238700000,
-    "end": 1795240200000,
+    "end": 1795240260000,
     "status": "aankomend",
     "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "source": "epg",
@@ -345,14 +368,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795240200000:xykime",
+    "id": "sport:playsports3:1795240260000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795240200000,
+    "start": 1795240260000,
     "end": 1795240800000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -391,14 +414,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795217940000:8a2n92",
+    "id": "sport:playsports4:1795217640000:8a2n92",
     "externalId": null,
     "title": "ATP Basel / ATP Wenen",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795217940000,
+    "start": 1795217640000,
     "end": 1795224900000,
     "status": "aankomend",
     "description": "Live verslag van verschillende tennisevenementen.",
@@ -552,17 +575,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795290000000:f9awoa",
+    "id": "sport:playsports4:1795281900000:1ltn7gx",
     "externalId": null,
-    "title": "Dag 1",
+    "title": "Wordt aangekondigd",
     "home": null,
     "away": null,
-    "competition": "Tennis",
-    "sport": "Tennis",
-    "start": 1795290000000,
-    "end": 1795296600000,
+    "competition": null,
+    "sport": null,
+    "start": 1795281900000,
+    "end": 1795282800000,
     "status": "aankomend",
-    "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
+    "description": "De programmering wordt nog aangekondigd.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -575,15 +598,38 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795296600000:1mv1683",
+    "id": "sport:playsports4:1795290000000:3tkxx5",
+    "externalId": null,
+    "title": "Aimé Anthuenis",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1795290000000,
+    "end": 1795296300000,
+    "status": "aankomend",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Aimé Anthuenis.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1795296300000:1mv1683",
     "externalId": null,
     "title": "Tennis: WTA Finals 2026",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795296600000,
-    "end": 1795304700000,
+    "start": 1795296300000,
+    "end": 1795304400000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -784,7 +830,7 @@
   {
     "id": "sport:playsports-golf:1795230000000:36ys9t",
     "externalId": null,
-    "title": "Aflevering 67",
+    "title": "Aflevering 49",
     "home": null,
     "away": null,
     "competition": null,
@@ -792,7 +838,7 @@
     "start": 1795230000000,
     "end": 1795231800000,
     "status": "aankomend",
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1037,7 +1083,7 @@
   {
     "id": "sport:playsports-golf:1795300200000:36ys9t",
     "externalId": null,
-    "title": "Aflevering 67",
+    "title": "Aflevering 49",
     "home": null,
     "away": null,
     "competition": null,
@@ -1045,7 +1091,7 @@
     "start": 1795300200000,
     "end": 1795302000000,
     "status": "aankomend",
-    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de PGA-Tour.",
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1955,15 +2001,15 @@
     ]
   },
   {
-    "id": "sport:match:1795243200000:hsv - borussia monchengladbach",
+    "id": "sport:match:1795241700000:hsv - borussia monchengladbach",
     "externalId": null,
     "title": "HSV - Borussia Mönchengladbach",
     "home": "HSV",
     "away": "Borussia Mönchengladbach",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795243200000,
-    "end": 1795249500000,
+    "start": 1795241700000,
+    "end": 1795248000000,
     "status": "aankomend",
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "source": "epg",
@@ -1978,15 +2024,15 @@
     ]
   },
   {
-    "id": "sport:match:1795249500000:tsg hoffenheim - fc schalke 04",
+    "id": "sport:match:1795248000000:tsg hoffenheim - fc schalke 04",
     "externalId": null,
     "title": "TSG Hoffenheim - FC Schalke 04",
     "home": "TSG Hoffenheim",
     "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795249500000,
-    "end": 1795256100000,
+    "start": 1795248000000,
+    "end": 1795254480000,
     "status": "aankomend",
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "source": "epg",
@@ -2001,17 +2047,63 @@
     ]
   },
   {
-    "id": "sport:match:1795256100000:borussia dortmund - sv elversberg",
+    "id": "sport:match:1795254480000:borussia dortmund - sv elversberg",
     "externalId": null,
     "title": "Borussia Dortmund - SV Elversberg",
     "home": "Borussia Dortmund",
     "away": "SV Elversberg",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795256100000,
-    "end": 1795262400000,
+    "start": 1795254480000,
+    "end": 1795260900000,
     "status": "aankomend",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1795260900000:romelu lukaku - de parabel van een glas melk",
+    "externalId": null,
+    "title": "Romelu Lukaku - De parabel van een glas melk",
+    "home": "Romelu Lukaku",
+    "away": "De parabel van een glas melk",
+    "competition": null,
+    "sport": null,
+    "start": 1795260900000,
+    "end": 1795262400000,
+    "status": "aankomend",
+    "description": "Geert De Vlieger heeft een openhartig gesprek met Romelu Lukaku. De bonkige goalgetter had het niet altijd even gemakkelijk. Hij vertelt over zijn jeugd en over de beginjaren bij Anderlecht.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1795262400000:romelu lukaku - op naar de 500 goals",
+    "externalId": null,
+    "title": "Romelu Lukaku - Op naar de 500 goals",
+    "home": "Romelu Lukaku",
+    "away": "Op naar de 500 goals",
+    "competition": null,
+    "sport": null,
+    "start": 1795262400000,
+    "end": 1795263900000,
+    "status": "aankomend",
+    "description": "Romelu Lukaku heeft als zoveel doelpunten gemaakt dat hij een record op zijn naam heeft.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -2093,40 +2185,17 @@
     ]
   },
   {
-    "id": "sport:match:1795291800000:tsg hoffenheim - fc schalke 04",
+    "id": "sport:match:1795296360000:tsg hoffenheim - fc schalke 04",
     "externalId": null,
     "title": "TSG Hoffenheim - FC Schalke 04",
     "home": "TSG Hoffenheim",
     "away": "FC Schalke 04",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795291800000,
-    "end": 1795298400000,
+    "start": 1795296360000,
+    "end": 1795302840000,
     "status": "aankomend",
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:match:1795298400000:borussia dortmund - sv elversberg",
-    "externalId": null,
-    "title": "Borussia Dortmund - SV Elversberg",
-    "home": "Borussia Dortmund",
-    "away": "SV Elversberg",
-    "competition": "Bundesliga",
-    "sport": "Voetbal",
-    "start": 1795298400000,
-    "end": 1795304760000,
-    "status": "aankomend",
-    "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
     "platforms": [
       "Play Sports 1"
@@ -2147,7 +2216,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1795271100000,
-    "end": 1795278120000,
+    "end": 1795278300000,
     "status": "aankomend",
     "description": "Vanuit het Borussia-Park in Mönchengladbach, Duitsland.",
     "source": "epg",
@@ -2185,15 +2254,15 @@
     ]
   },
   {
-    "id": "sport:match:1795219080000:stvv - sk brann",
+    "id": "sport:match:1795218480000:stvv - sk brann",
     "externalId": null,
     "title": "STVV - SK Brann",
     "home": "STVV",
     "away": "SK Brann",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1795219080000,
-    "end": 1795225260000,
+    "start": 1795218480000,
+    "end": 1795224660000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -2323,15 +2392,61 @@
     ]
   },
   {
-    "id": "sport:match:1795280100000:kups - kaa gent",
+    "id": "sport:match:1795280100000:romelu lukaku - de parabel van een glas melk",
+    "externalId": null,
+    "title": "Romelu Lukaku - De parabel van een glas melk",
+    "home": "Romelu Lukaku",
+    "away": "De parabel van een glas melk",
+    "competition": null,
+    "sport": null,
+    "start": 1795280100000,
+    "end": 1795281600000,
+    "status": "aankomend",
+    "description": "Geert De Vlieger heeft een openhartig gesprek met Romelu Lukaku. De bonkige goalgetter had het niet altijd even gemakkelijk. Hij vertelt over zijn jeugd en over de beginjaren bij Anderlecht.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1795281600000:romelu lukaku - op naar de 500 goals",
+    "externalId": null,
+    "title": "Romelu Lukaku - Op naar de 500 goals",
+    "home": "Romelu Lukaku",
+    "away": "Op naar de 500 goals",
+    "competition": null,
+    "sport": null,
+    "start": 1795281600000,
+    "end": 1795283100000,
+    "status": "aankomend",
+    "description": "Romelu Lukaku heeft als zoveel doelpunten gemaakt dat hij een record op zijn naam heeft.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1795283100000:kups - kaa gent",
     "externalId": null,
     "title": "KuPS - KAA Gent",
     "home": "KuPS",
     "away": "KAA Gent",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1795280100000,
-    "end": 1795286580000,
+    "start": 1795283100000,
+    "end": 1795289640000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -2346,15 +2461,15 @@
     ]
   },
   {
-    "id": "sport:match:1795286580000:stvv - sk brann",
+    "id": "sport:match:1795289640000:stvv - sk brann",
     "externalId": null,
     "title": "STVV - SK Brann",
     "home": "STVV",
     "away": "SK Brann",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1795286580000,
-    "end": 1795292700000,
+    "start": 1795289640000,
+    "end": 1795295760000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -2369,40 +2484,17 @@
     ]
   },
   {
-    "id": "sport:match:1795292700000:sc cambuur - psv",
+    "id": "sport:match:1795295760000:sc cambuur - psv",
     "externalId": null,
     "title": "SC Cambuur - PSV",
     "home": "SC Cambuur",
     "away": "PSV",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795292700000,
-    "end": 1795299600000,
+    "start": 1795295760000,
+    "end": 1795302660000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd SC Cambuur - PSV uit de 12e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1795299600000:sc heerenveen - feyenoord",
-    "externalId": null,
-    "title": "sc Heerenveen - Feyenoord",
-    "home": "sc Heerenveen",
-    "away": "Feyenoord",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1795299600000,
-    "end": 1795305900000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -2446,7 +2538,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1795274700000,
-    "end": 1795281660000,
+    "end": 1795281900000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd N.E.C. - PSV uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",

@@ -1,9 +1,9 @@
 [
   {
-    "id": "playsports4:1795217940000:8a2n92",
+    "id": "playsports4:1795217640000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1795217940000,
+    "start": 1795217640000,
     "end": 1795224900000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
@@ -242,7 +242,7 @@
     "channel": "playsports4",
     "title": "Eredivisie",
     "start": 1795274700000,
-    "end": 1795281660000,
+    "end": 1795281900000,
     "description": "Verslag van de wedstrijd N.E.C. - PSV uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -268,14 +268,16 @@
     }
   },
   {
-    "id": "playsports4:1795281660000:48zb9",
+    "id": "playsports4:1795281900000:1ltn7gx",
     "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1795281660000,
+    "title": "Wordt aangekondigd",
+    "start": 1795281900000,
     "end": 1795282800000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "De programmering wordt nog aangekondigd.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A5e6e47daf6322fb73e8f6d67f475916df32c35c8/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -283,9 +285,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:7ce366825888fff8d32c24eabbe00180d60f2c39",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:5e6e47daf6322fb73e8f6d67f475916df32c35c8",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Entertainment"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
@@ -322,41 +326,41 @@
     }
   },
   {
-    "id": "playsports4:1795290000000:f9awoa",
+    "id": "playsports4:1795290000000:3tkxx5",
     "channel": "playsports4",
-    "title": "Tennis: Nitto ATP Finals 2026",
+    "title": "MIDMID",
     "start": 1795290000000,
-    "end": 1795296600000,
-    "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
+    "end": 1795296300000,
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Aimé Anthuenis.",
     "category": [
-      "Sport",
-      "Tennis"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34544242~~2FEP066844560016%2Cimi%3Ab8d74a92a0f8736a9858cc22cf354e1c08e1ce2b/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34536456~~2FEP037584270196%2Cimi%3A594ebfd180786271c153d771a0d52d068926bd4c/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 44560000,
-    "episode": 2026111516,
+    "season": 7,
+    "episode": 7,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34544242~~2FEP066844560016,imi:b8d74a92a0f8736a9858cc22cf354e1c08e1ce2b",
-      "episodeName": "Dag 1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34536456~~2FEP037584270196,imi:594ebfd180786271c153d771a0d52d068926bd4c",
+      "episodeName": "Aimé Anthuenis",
       "genres": [
-        "Sport",
-        "Tennis"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33728051~~2FSH066844560000"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {
-    "id": "playsports4:1795296600000:1mv1683",
+    "id": "playsports4:1795296300000:1mv1683",
     "channel": "playsports4",
     "title": "Tennis: WTA Finals 2026",
-    "start": 1795296600000,
-    "end": 1795304700000,
+    "start": 1795296300000,
+    "end": 1795304400000,
     "description": null,
     "category": [
       "Sport",

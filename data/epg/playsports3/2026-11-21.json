@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1795219080000:16v40h",
+    "id": "playsports3:1795218480000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1795219080000,
-    "end": 1795225260000,
+    "start": 1795218480000,
+    "end": 1795224660000,
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1795225260000:xykime",
+    "id": "playsports3:1795224660000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1795225260000,
-    "end": 1795228800000,
+    "start": 1795224660000,
+    "end": 1795228620000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,10 +58,10 @@
     }
   },
   {
-    "id": "playsports3:1795228800000:1p2p7re",
+    "id": "playsports3:1795228620000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1795228800000,
+    "start": 1795228620000,
     "end": 1795232400000,
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
@@ -122,7 +122,7 @@
     "channel": "playsports3",
     "title": "UEFA Champions League Magazine",
     "start": 1795238700000,
-    "end": 1795240200000,
+    "end": 1795240260000,
     "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports3:1795240200000:xykime",
+    "id": "playsports3:1795240260000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1795240200000,
+    "start": 1795240260000,
     "end": 1795240800000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -356,11 +356,67 @@
     }
   },
   {
-    "id": "playsports3:1795280100000:16v40h",
+    "id": "playsports3:1795280100000:2nh777",
+    "channel": "playsports3",
+    "title": "Hoogvliegers",
+    "start": 1795280100000,
+    "end": 1795281600000,
+    "description": "Geert De Vlieger heeft een openhartig gesprek met Romelu Lukaku. De bonkige goalgetter had het niet altijd even gemakkelijk. Hij vertelt over zijn jeugd en over de beginjaren bij Anderlecht.",
+    "category": [
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19832575~~2FEP037277910025%2Cimi%3A804a3939c027f028d701c156a64879b30a8a9f37/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 4,
+    "episode": 6,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19832575~~2FEP037277910025,imi:804a3939c027f028d701c156a64879b30a8a9f37",
+      "episodeName": "Romelu Lukaku - De parabel van een glas melk",
+      "genres": [
+        "Sporttalkshow"
+      ],
+      "productionDate": "2018",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96572ffa-cd30-4de9-a1d7-cb62441aa975"
+    }
+  },
+  {
+    "id": "playsports3:1795281600000:2nh777",
+    "channel": "playsports3",
+    "title": "Hoogvliegers",
+    "start": 1795281600000,
+    "end": 1795283100000,
+    "description": "Romelu Lukaku heeft als zoveel doelpunten gemaakt dat hij een record op zijn naam heeft.",
+    "category": [
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19274881~~2FEP037277910024%2Cimi%3Aedaaa70f0a3521d35197cee4be8b7bc25e6c2f3a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 4,
+    "episode": 8,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19274881~~2FEP037277910024,imi:edaaa70f0a3521d35197cee4be8b7bc25e6c2f3a",
+      "episodeName": "Romelu Lukaku - Op naar de 500 goals",
+      "genres": [
+        "Sporttalkshow"
+      ],
+      "productionDate": "2018",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96572ffa-cd30-4de9-a1d7-cb62441aa975"
+    }
+  },
+  {
+    "id": "playsports3:1795283100000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1795280100000,
-    "end": 1795286580000,
+    "start": 1795283100000,
+    "end": 1795289640000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -386,11 +442,11 @@
     }
   },
   {
-    "id": "playsports3:1795286580000:16v40h",
+    "id": "playsports3:1795289640000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1795286580000,
-    "end": 1795292700000,
+    "start": 1795289640000,
+    "end": 1795295760000,
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -416,11 +472,11 @@
     }
   },
   {
-    "id": "playsports3:1795292700000:1va4v2m",
+    "id": "playsports3:1795295760000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795292700000,
-    "end": 1795299600000,
+    "start": 1795295760000,
+    "end": 1795302660000,
     "description": "Verslag van de wedstrijd SC Cambuur - PSV uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -436,36 +492,6 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33559863~~2FEP035850992046,imi:fc598cbb3a3cf06ea550b176b3155780fde64082",
       "episodeName": "SC Cambuur - PSV",
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
-    }
-  },
-  {
-    "id": "playsports3:1795299600000:1va4v2m",
-    "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1795299600000,
-    "end": 1795305900000,
-    "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559946~~2FEP035850992048%2Cimi%3Aeb388de05f95b3125d8e5b5e8f947e983f96f042/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026110848,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559946~~2FEP035850992048,imi:eb388de05f95b3125d8e5b5e8f947e983f96f042",
-      "episodeName": "sc Heerenveen - Feyenoord",
       "genres": [
         "Sport",
         "Voetbal"

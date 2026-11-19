@@ -88,7 +88,7 @@
     "channel": "playsports2",
     "title": "Bundesliga",
     "start": 1795271100000,
-    "end": 1795278120000,
+    "end": 1795278300000,
     "description": "Vanuit het Borussia-Park in Mönchengladbach, Duitsland.",
     "category": [
       "Sport",
@@ -114,14 +114,46 @@
     }
   },
   {
-    "id": "playsports2:1795278120000:48zb9",
+    "id": "playsports2:1795278300000:qjkkk5",
     "channel": "playsports2",
-    "title": "Geen uitzending",
-    "start": 1795278120000,
+    "title": "Premier League Stories",
+    "start": 1795278300000,
+    "end": 1795279800000,
+    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311507~~2FEP043309820204%2Cimi%3A771dc922cd253e76bcc959923bbec7fca0a32a71/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 6,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311507~~2FEP043309820204,imi:771dc922cd253e76bcc959923bbec7fca0a32a71",
+      "episodeName": "Claude Makélélé",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2025",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports2:1795279800000:xykime",
+    "channel": "playsports2",
+    "title": "Play Sports",
+    "start": 1795279800000,
     "end": 1795281900000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A8e03abc0be25fc58b6b7304d5f2a1775ea79ca74/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -129,9 +161,11 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:08f711a3d489cc4fa72dced79e1a554de31614f1",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:8e03abc0be25fc58b6b7304d5f2a1775ea79ca74",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null

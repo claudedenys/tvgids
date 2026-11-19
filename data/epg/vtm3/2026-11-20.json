@@ -32,7 +32,7 @@
     "channel": "vtm3",
     "title": "Geen uitzending",
     "start": 1795133700000,
-    "end": 1795161600000,
+    "end": 1795150800000,
     "description": null,
     "category": [],
     "image": null,
@@ -52,11 +52,39 @@
     }
   },
   {
+    "id": "vtm3:1795150800000:6hz2uv",
+    "channel": "vtm3",
+    "title": "Qmusic",
+    "start": 1795150800000,
+    "end": 1795161600000,
+    "description": "Geniet van de allerleukste muziek met Qmusic. Livebeelden vanuit de radiostudio, Twitter- en Instagram-updates, videoclips, weerberichten en nog veel meer.",
+    "category": [
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial%2Cimi%3A18dcb069e28f8498e29a3e70762078d5e45c7d4d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18941157~~2FSH036446190000~~2Fspecial,imi:18dcb069e28f8498e29a3e70762078d5e45c7d4d",
+      "episodeName": null,
+      "genres": [
+        "Muziek"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "vtm3:1795161600000:48zb9",
     "channel": "vtm3",
     "title": "Geen uitzending",
     "start": 1795161600000,
-    "end": 1795182300000,
+    "end": 1795182600000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,11 +104,11 @@
     }
   },
   {
-    "id": "vtm3:1795182300000:1yyfct9",
+    "id": "vtm3:1795182600000:1yyfct9",
     "channel": "vtm3",
     "title": "Ghosts",
-    "start": 1795182300000,
-    "end": 1795183800000,
+    "start": 1795182600000,
+    "end": 1795184100000,
     "description": "Pete ontdekt een kracht waar hij niks van wist - eentje die hem hechter tot (en verder van) zijn maatje Jay brengt.",
     "category": [
       "Sitcom",
@@ -106,10 +134,10 @@
     }
   },
   {
-    "id": "vtm3:1795183800000:1x40icu",
+    "id": "vtm3:1795184100000:1x40icu",
     "channel": "vtm3",
     "title": "Meet the Parents",
-    "start": 1795183800000,
+    "start": 1795184100000,
     "end": 1795191300000,
     "description": "Verpleger Greg Focker wil trouwen met kleuterleidster Pam Byrnes, maar dan moet hij eerst haar vader Jack, een ex-CIA-agent, om de hand van zijn dochter vragen. Zijn ontmoeting met haar familie verloopt echter niet zoals gepland.",
     "category": [
@@ -346,7 +374,7 @@
     "channel": "vtm3",
     "title": "G.I. Joe: The Rise of Cobra",
     "start": 1795212000000,
-    "end": 1795219800000,
+    "end": 1795219200000,
     "description": "In de toekomst moet het elitekorps G.I. Joe het opnemen tegen de kwaadaardige organisatie Cobra, onder leiding van de Schotse wapenhandelaar Destro. Het team G.I. Joe gaat met futuristische spionage en militaire apparatuur de strijd aan.",
     "category": [
       "Film",

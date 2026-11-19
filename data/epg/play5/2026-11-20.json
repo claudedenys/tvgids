@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "NCIS: Hawaii",
     "start": 1795130700000,
-    "end": 1795134300000,
+    "end": 1795134000000,
     "description": "Kapitein Milius keert terug naar Hawaii voor een geheime gevangenenruil. Hij schakelt Jane in als zijn persoonlijke lijfwacht op de Filipijnen, waar de uitwisseling zal plaatsvinden.",
     "category": [
       "Dramaserie",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1795134300000:1ge28a5",
+    "id": "play5:1795134000000:1ge28a5",
     "channel": "play5",
     "title": "New Amsterdam",
-    "start": 1795134300000,
-    "end": 1795137900000,
+    "start": 1795134000000,
+    "end": 1795137300000,
     "description": "Bloom, Iggy en Reynolds scharen zich achter Max terwijl hij de gevolgen van Helens beslissing onder ogen ziet. Reynolds en Wilder helpen een jonge terminale patiënt bij het verwezenlijken van zijn droom om in een Bollywood-show te spelen.",
     "category": [
       "Dramaserie",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1795137900000:48zb9",
+    "id": "play5:1795137300000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1795137900000,
-    "end": 1795147200000,
+    "start": 1795137300000,
+    "end": 1795147020000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:cfe5bfa7bf8efb371782024efa37d432fa7c2838",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1795147020000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1795147020000,
+    "end": 1795147200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:eb02d7c09151f76dabddebee96034cd99fe294e9",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

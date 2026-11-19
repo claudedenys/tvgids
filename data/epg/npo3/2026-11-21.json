@@ -5,7 +5,7 @@
     "title": "Danny en de Blikjesjagers",
     "start": 1795217100000,
     "end": 1795219800000,
-    "description": "Statiegeld en crack, voor veel daklozen dé combinatie. Danny Ghosen gaat op onderzoek inAmsterdam, Arnhem en Nijmegen. Intimiderende straatdealers, maar ook inventieve daklozen in een eigen paradijs.",
+    "description": "Statiegeld en crack, voor veel daklozen dé combinatie. Danny Ghosen gaat op onderzoek in Amsterdam, Arnhem en Nijmegen. Intimiderende straatdealers, maar ook inventieve daklozen in een eigen paradijs.",
     "category": [
       "Docu"
     ],
@@ -1407,7 +1407,7 @@
     "title": "De familie Wezel",
     "start": 1795262100000,
     "end": 1795262400000,
-    "description": "Weasy, een opportunistische wezel met een voorliefde voor inbraken, merkt plotseling dat hij een groot ei aan het uitbroeden is, wat leidt tot ingrijpende veranderingen in zijn leven.",
+    "description": "Weasy verandert in een ondraaglijke coach wanneer de eendjes een race verliezen van de arendsjongen.",
     "category": [
       "Kids",
       "Animatie"
@@ -1851,9 +1851,10 @@
     "title": "Freeks wilde wereld shorts",
     "start": 1795279800000,
     "end": 1795280400000,
-    "description": "Freek reist in korte avonturen de hele wereld over om unieke diersoorten in hun natuurlijke leefomgeving te spotten. Ondertussen deelt hij handige tips om te overleven op de meest afgelegen en ruige plekken op aarde.",
+    "description": "Freek Vonk reist in korte avonturen de hele wereld over om unieke diersoorten in hun natuurlijke leefomgeving te spotten. Ondertussen deelt hij handige tips om te overleven op de meest afgelegen en ruige plekken op aarde.",
     "category": [
-      "Entertainment"
+      "Docu",
+      "Natuur"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34546798~~2FEP066996450003%2Cimi%3Ace5ed5fecdcf490ac434b023598bb588d071671d/posterTile",
     "icon": null,
@@ -1866,7 +1867,8 @@
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34546798~~2FEP066996450003,imi:ce5ed5fecdcf490ac434b023598bb588d071671d",
       "episodeName": "Wolvenzoen",
       "genres": [
-        "Entertainment"
+        "Docu",
+        "Natuur"
       ],
       "productionDate": "2026",
       "isSportsTeamEvent": false,
@@ -2142,7 +2144,7 @@
     "channel": "npo3",
     "title": "Vigil",
     "start": 1795293000000,
-    "end": 1795301700000,
+    "end": 1795296900000,
     "description": "Amy en Kirsten keren terug naar Schotland, maar ook daar loert het gevaar. Amy komt in aanraking met de wet. Ondanks grote politieke druk neemt Kirsten forse risico's om Amy te beschermen en de waarheid boven tafel te krijgen. Die stelt beide rechercheurs voor de moeilijkste keuze van hun carrière.",
     "category": [
       "Dramaserie",
@@ -2168,12 +2170,40 @@
     }
   },
   {
+    "id": "npo3:1795296900000:1frajq0",
+    "channel": "npo3",
+    "title": "Zembla Special: De neonazi-files",
+    "start": 1795296900000,
+    "end": 1795301700000,
+    "description": "Samen met journalisten van het VRT-programma Pano deed Zembla bijna een jaar lang onderzoek naar rechtsextremisme in de Lage Landen.",
+    "category": [
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34667350~~2FSH067256240000~~2Fspecial%2Cimi%3Ae3a6ccd44250cc28265b41ba69e4aa2facc39935/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34667350~~2FSH067256240000~~2Fspecial,imi:e3a6ccd44250cc28265b41ba69e4aa2facc39935",
+      "episodeName": null,
+      "genres": [
+        "Docu"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "npo3:1795301700000:1k8eqxu",
     "channel": "npo3",
     "title": "Hartslag van een ander",
     "start": 1795301700000,
     "end": 1795303200000,
-    "description": null,
+    "description": "Wanneer een donorhart beschikbaar komt, betekent dat voor iemand anders een kans op een nieuw leven. Maar voordat het hart in een nieuw lichaam kan worden geplaatst, moet het onder hoge tijdsdruk een kwetsbare en spannende reis afleggen. Artsen en transplantatieteams zetten alles op alles om het orgaan op tijd bij de ontvanger te krijgen. Vertragingen, turbulentie en technische problemen onderweg vragen om improvisatie en snelle beslissingen. Kan de dood plaatsmaken voor nieuw leven?",
     "category": [
       "Docu"
     ],

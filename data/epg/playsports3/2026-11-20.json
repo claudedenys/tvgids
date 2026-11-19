@@ -34,7 +34,7 @@
     "channel": "playsports3",
     "title": "Play Sports",
     "start": 1795138740000,
-    "end": 1795154100000,
+    "end": 1795153980000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports3:1795154100000:1va4v2m",
+    "id": "playsports3:1795153980000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795154100000,
-    "end": 1795160400000,
+    "start": 1795153980000,
+    "end": 1795160280000,
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -88,10 +88,10 @@
     }
   },
   {
-    "id": "playsports3:1795160400000:1va4v2m",
+    "id": "playsports3:1795160280000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795160400000,
+    "start": 1795160280000,
     "end": 1795166880000,
     "description": "Verslag van de wedstrijd FC Twente - Ajax uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -122,7 +122,7 @@
     "channel": "playsports3",
     "title": "UEFA Conference League",
     "start": 1795166880000,
-    "end": 1795173420000,
+    "end": 1795173360000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -148,10 +148,10 @@
     }
   },
   {
-    "id": "playsports3:1795173420000:16v40h",
+    "id": "playsports3:1795173360000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1795173420000,
+    "start": 1795173360000,
     "end": 1795179600000,
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
@@ -272,7 +272,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1795194900000,
-    "end": 1795201380000,
+    "end": 1795201260000,
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -298,27 +298,33 @@
     }
   },
   {
-    "id": "playsports3:1795201380000:48zb9",
+    "id": "playsports3:1795201260000:i67pjl",
     "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1795201380000,
+    "title": "Play Sports Highlights",
+    "start": 1795201260000,
     "end": 1795203000000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575283029%2Cimi%3Abfadc413e54dc0e56e28481ef60be4f7864d4269/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 575283029,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:e293f76709358fa0df36b0667ae99a201e5bcab8",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F575283029,imi:bfadc413e54dc0e56e28481ef60be4f7864d4269",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
@@ -356,7 +362,7 @@
     "channel": "playsports3",
     "title": "Play Sports Highlights",
     "start": 1795210200000,
-    "end": 1795212600000,
+    "end": 1795212000000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -382,11 +388,11 @@
     }
   },
   {
-    "id": "playsports3:1795212600000:16v40h",
+    "id": "playsports3:1795212000000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1795212600000,
-    "end": 1795219080000,
+    "start": 1795212000000,
+    "end": 1795218480000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",

@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports-golf:1795046400000:1869fxq",
+    "id": "playsports-golf:1795045800000:1869fxq",
     "channel": "playsports-golf",
     "title": "EPGA Legends Tour Hoogtepunten",
-    "start": 1795046400000,
-    "end": 1795050000000,
+    "start": 1795045800000,
+    "end": 1795048500000,
     "description": "Hoogtepunten van de Champions UK European Senior Masters, gespeeld in de European Legend Tour 2026.",
     "category": [
       "Sport",
@@ -27,6 +27,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F22396263~~2FSH043415830000"
+    }
+  },
+  {
+    "id": "playsports-golf:1795048500000:36ys9t",
+    "channel": "playsports-golf",
+    "title": "PGA Tour - The Cut",
+    "start": 1795048500000,
+    "end": 1795050000000,
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.",
+    "category": [
+      "Sport",
+      "Golf"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34503944~~2FEP036113230329%2Cimi%3A7d19dc497879fe242f1b8e313073126ab21e34eb/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 49,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34503944~~2FEP036113230329,imi:7d19dc497879fe242f1b8e313073126ab21e34eb",
+      "episodeName": "Aflevering 49",
+      "genres": [
+        "Sport",
+        "Golf"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
     }
   },
   {
@@ -94,7 +124,7 @@
     "channel": "playsports-golf",
     "title": "PGA Champions Tour Hoogtepunten",
     "start": 1795060800000,
-    "end": 1795064400000,
+    "end": 1795064100000,
     "description": "Hoogtepunten van de Charles Schwab Cup Championship, gespeeld in de PGA Tour Champions.",
     "category": [
       "Sport",
@@ -120,17 +150,17 @@
     }
   },
   {
-    "id": "playsports-golf:1795064400000:mkyqbr",
+    "id": "playsports-golf:1795064100000:mkyqbr",
     "channel": "playsports-golf",
     "title": "PGA Tour Hoogtepunten",
-    "start": 1795064400000,
+    "start": 1795064100000,
     "end": 1795068000000,
     "description": "Hoogtepunten van de Austin Championship, gespeeld op de Omni Barton Creek Resort & Spa in Austin, Texas.",
     "category": [
       "Sport",
       "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34469524~~2FEP055230080118%2Cimi%3A184f04fd23f7ea1002dd117758a0ba921fb1c436/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34469524~~2FEP055230080118%2Cimi%3A252db4a3abbdfa0b32b6b236e4ec53a6cd09da00/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 102026,
@@ -138,7 +168,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34469524~~2FEP055230080118,imi:184f04fd23f7ea1002dd117758a0ba921fb1c436",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34469524~~2FEP055230080118,imi:252db4a3abbdfa0b32b6b236e4ec53a6cd09da00",
       "episodeName": "Austin Championship",
       "genres": [
         "Sport",
@@ -210,31 +240,33 @@
     }
   },
   {
-    "id": "playsports-golf:1795089600000:1ltn7gx",
+    "id": "playsports-golf:1795089600000:36ys9t",
     "channel": "playsports-golf",
-    "title": "Wordt aangekondigd",
+    "title": "PGA Tour - The Cut",
     "start": 1795089600000,
     "end": 1795091400000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Golf"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A28b66662ad336be6d9171479ca1743a2aa5b5143/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34503944~~2FEP036113230329%2Cimi%3A17f3ef2de75af96f185f1bf8ddb53bf3fce0a28e/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 102026,
+    "episode": 49,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:28b66662ad336be6d9171479ca1743a2aa5b5143",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34503944~~2FEP036113230329,imi:17f3ef2de75af96f185f1bf8ddb53bf3fce0a28e",
+      "episodeName": "Aflevering 49",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Golf"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F15c19378-262d-494f-9493-681d75eda61a"
     }
   },
   {

@@ -4,7 +4,7 @@
     "channel": "play7",
     "title": "Next Level Chef",
     "start": 1795131600000,
-    "end": 1795135500000,
+    "end": 1795134600000,
     "description": "De tien overgebleven deelnemers gaan de keuken in met als doel de traditionele pizza te verheffen tot een meesterwerk. De winnende pizza krijgt immuniteit voor het hele team en eist de bovenste plek in de keuken op.",
     "category": [
       "Reality",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1795135500000:rmqxmh",
+    "id": "play7:1795134600000:rmqxmh",
     "channel": "play7",
     "title": "A Place in the Sun",
-    "start": 1795135500000,
-    "end": 1795139100000,
+    "start": 1795134600000,
+    "end": 1795137600000,
     "description": "In Murcia gaan de presentatoren op zoek naar een zonnig huis in het zuidoosten van Spanje. Met een vastgesteld budget bekijken ze verschillende woningen, van stadsappartementen tot rustige plekken nabij de kust.",
     "category": [
       "Huis & Tuin",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play7:1795139100000:48zb9",
+    "id": "play7:1795137600000:48zb9",
     "channel": "play7",
     "title": "Geen uitzending",
-    "start": 1795139100000,
-    "end": 1795147200000,
+    "start": 1795137600000,
+    "end": 1795146900000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:655f9df2afe33560aa796b264a97c44996ba9a20",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1795146900000:48zb9",
+    "channel": "play7",
+    "title": "Geen uitzending",
+    "start": 1795146900000,
+    "end": 1795147200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3412e0c9f7464f8ca1a043964cc1539b296f727f",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
