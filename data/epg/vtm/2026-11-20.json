@@ -962,7 +962,7 @@
     "channel": "vtm",
     "title": "Happy Hour",
     "start": 1795210800000,
-    "end": 1795213800000,
+    "end": 1795213500000,
     "description": "Ruben ontvangt deze keer Tom Boonen, Herman Brusselmans en Marc Coucke.",
     "category": [
       "Talkshow"
@@ -986,11 +986,39 @@
     }
   },
   {
-    "id": "vtm:1795213800000:1bzob18",
+    "id": "vtm:1795213500000:tujimb",
+    "channel": "vtm",
+    "title": "Dancing with the Stars",
+    "start": 1795213500000,
+    "end": 1795215300000,
+    "description": "Jonas Van Geel en Peter Van den Begin trappen het nieuwe seizoen af. De celebs ontmoeten hun danspartners voor het eerst in de Dance Academy. De komst van een mysterieuze deelnemer zorgt voor een verrassing.",
+    "category": [
+      "Reality-competitie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34527521~~2FEP056241160015%2Cimi%3A71c82d0f9f2f6505643686a583da9201279b614f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 2026111515,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34527521~~2FEP056241160015,imi:71c82d0f9f2f6505643686a583da9201279b614f",
+      "episodeName": "Kick-off",
+      "genres": [
+        "Reality-competitie"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29579200~~2FSH056241160000"
+    }
+  },
+  {
+    "id": "vtm:1795215300000:1bzob18",
     "channel": "vtm",
     "title": "Mijn Restaurant",
-    "start": 1795213800000,
-    "end": 1795218900000,
+    "start": 1795215300000,
+    "end": 1795220100000,
     "description": "Eén duo wordt verrast door de hulp van Marcelo en Shannah, terwijl de andere teams hun service moeten zien te redden. Intussen duiken drie bekende gezichten op in de restaurants.",
     "category": [
       "Koken",

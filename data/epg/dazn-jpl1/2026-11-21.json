@@ -48,5 +48,30 @@
       "sport": "Voetbal",
       "episodeName": "RFC Liège - RSCA Futures"
     }
+  },
+  {
+    "id": "dazn-jpl1:1795287600000:Epg:4txpe1xyzjz2foue1nzitjzz8",
+    "channel": "dazn-jpl1",
+    "title": "RFC Seraing - Patro Eisden",
+    "start": 1795287600000,
+    "end": 1795295700000,
+    "description": "Challenger Pro League\nVolg alle actie op DAZN.",
+    "category": [
+      "Voetbal"
+    ],
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/4txpe1xyzjz2foue1nzitjzz8_image-header_pRow_1786722677000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "icon": null,
+    "source": "dazn.com",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": true,
+    "meta": {
+      "dazn": true,
+      "eventId": "Epg:4txpe1xyzjz2foue1nzitjzz8",
+      "competition": "Challenger Pro League",
+      "sport": "Voetbal",
+      "episodeName": "RFC Seraing - Patro Eisden"
+    }
   }
 ]

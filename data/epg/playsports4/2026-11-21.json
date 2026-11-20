@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports4:1795217640000:8a2n92",
+    "id": "playsports4:1795217580000:8a2n92",
     "channel": "playsports4",
     "title": "Tennis",
-    "start": 1795217640000,
-    "end": 1795224900000,
+    "start": 1795217580000,
+    "end": 1795224360000,
     "description": "Live verslag van verschillende tennisevenementen.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1795224900000:xykime",
+    "id": "playsports4:1795224360000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1795224900000,
-    "end": 1795239600000,
+    "start": 1795224360000,
+    "end": 1795239900000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports4:1795239600000:1ng6s",
+    "id": "playsports4:1795239900000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1795239600000,
-    "end": 1795247100000,
+    "start": 1795239900000,
+    "end": 1795247220000,
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "category": [
       "Sport",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1795247100000:3y5tln",
+    "id": "playsports4:1795247220000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1795247100000,
-    "end": 1795251300000,
+    "start": 1795247220000,
+    "end": 1795251420000,
     "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
     "category": [
       "Sport",
@@ -118,10 +118,10 @@
     }
   },
   {
-    "id": "playsports4:1795251300000:arbc9d",
+    "id": "playsports4:1795251420000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1795251300000,
+    "start": 1795251420000,
     "end": 1795258800000,
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
     "category": [
@@ -182,7 +182,7 @@
     "channel": "playsports4",
     "title": "Superprestige Veldrijden",
     "start": 1795264200000,
-    "end": 1795270500000,
+    "end": 1795270440000,
     "description": "Verslag van de races gereden in het Superprestige veldrijden.",
     "category": [
       "Sport",
@@ -208,10 +208,10 @@
     }
   },
   {
-    "id": "playsports4:1795270500000:3y5tln",
+    "id": "playsports4:1795270440000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1795270500000,
+    "start": 1795270440000,
     "end": 1795274700000,
     "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
     "category": [
@@ -268,31 +268,33 @@
     }
   },
   {
-    "id": "playsports4:1795281900000:1ltn7gx",
+    "id": "playsports4:1795281900000:11wg5yb",
     "channel": "playsports4",
-    "title": "Wordt aangekondigd",
+    "title": "Bundesliga",
     "start": 1795281900000,
     "end": 1795282800000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A5e6e47daf6322fb73e8f6d67f475916df32c35c8/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617594~~2FEP033948601913%2Cimi%3Af35eb0d3418994d1892850402d58a7d7e556aef3/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 48600000,
+    "episode": 2026112013,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:5e6e47daf6322fb73e8f6d67f475916df32c35c8",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617594~~2FEP033948601913,imi:f35eb0d3418994d1892850402d58a7d7e556aef3",
+      "episodeName": "Bayern München - 1. FC Köln",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Voetbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
     }
   },
   {
@@ -330,7 +332,7 @@
     "channel": "playsports4",
     "title": "MIDMID",
     "start": 1795290000000,
-    "end": 1795296300000,
+    "end": 1795296360000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Aimé Anthuenis.",
     "category": [
       "Voetbal",
@@ -356,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1795296300000:1mv1683",
+    "id": "playsports4:1795296360000:1mv1683",
     "channel": "playsports4",
     "title": "Tennis: WTA Finals 2026",
-    "start": 1795296300000,
-    "end": 1795304400000,
+    "start": 1795296360000,
+    "end": 1795304520000,
     "description": null,
     "category": [
       "Sport",

@@ -1,10 +1,10 @@
 [
   {
-    "id": "sbs6:1795129020000:1ddldj5",
+    "id": "sbs6:1795129080000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1795129020000,
-    "end": 1795132380000,
+    "start": 1795129080000,
+    "end": 1795132440000,
     "description": "Er wordt hard gewerkt aan nieuwe jureerbare opdracht waarbij de teams in een nieuwe samenstelling tegen elkaar moeten...",
     "category": [],
     "image": "https://tvgidsassets.nl/v391/upload/d/carrousel/de-bondgenoten-791401472.jpg",
@@ -22,10 +22,10 @@
     }
   },
   {
-    "id": "sbs6:1795132380000:2eepw1",
+    "id": "sbs6:1795132440000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1795132380000,
+    "start": 1795132440000,
     "end": 1795134300000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
@@ -550,7 +550,7 @@
     "end": 1795182300000,
     "description": "Er wordt hard gewerkt aan nieuwe jureerbare opdracht waarbij de teams in een nieuwe samenstelling tegen elkaar moeten...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v391/upload/d/carrousel/de-bondgenoten-791401472.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -741,7 +741,7 @@
     "title": "Vandaag inside",
     "start": 1795206900000,
     "end": 1795210800000,
-    "description": "In 'Vandaag inside' geven Wilfred Genee, Johan Derksen en René van der Gijp hun kijk op het nieuws en de actualiteit.",
+    "description": "<span class=\"label label--updated\">Update</span> Hélène Hendriks schuift aan bij Johan Derksen, Wilfred Genee en René van der Gijp...",
     "category": [],
     "image": "https://tvgidsassets.nl/v391/upload/v/carrousel/vandaag-inside-790968802.jpg",
     "icon": null,
@@ -751,7 +751,9 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {

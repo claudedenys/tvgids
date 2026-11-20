@@ -1,15 +1,15 @@
 [
   {
-    "id": "dazn3:1795132800000:Epg:1buax8e901k001xiwyc132fyg8",
+    "id": "dazn3:1795132800000:Epg:grj0ud834st01psmwe8qobdn1",
     "channel": "dazn3",
-    "title": "UMBC @ Ohio State",
+    "title": "NRL 360: 2027 Draw",
     "start": 1795132800000,
-    "end": 1795143600000,
-    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "end": 1795138200000,
+    "description": "NRL 360\n2027 Draw",
     "category": [
-      "Basketbal"
+      "Rugby League"
     ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1buax8e901k001xiwyc132fyg8_image-header_pRow_1794321684000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/grj0ud834st01psmwe8qobdn1_image-header_pRow_1795030761000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
     "icon": null,
     "source": "dazn.com",
     "season": null,
@@ -18,23 +18,73 @@
     "live": true,
     "meta": {
       "dazn": true,
-      "eventId": "Epg:1buax8e901k001xiwyc132fyg8",
+      "eventId": "Epg:grj0ud834st01psmwe8qobdn1",
+      "competition": "NRL 360",
+      "sport": "Rugby League",
+      "episodeName": "NRL 360: 2027 Draw"
+    }
+  },
+  {
+    "id": "dazn3:1795132800000:Epg:scgqp7l06fm418dbiu4bx3ggq",
+    "channel": "dazn3",
+    "title": "BKFC Fight Night Myrtle Beach: Weigh-In",
+    "start": 1795132800000,
+    "end": 1795134608000,
+    "description": "BKFC Fight Night: Myrtle Beach\nVolg alle actie op DAZN.",
+    "category": [
+      "Bare Knuckle Fighting Championship"
+    ],
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/scgqp7l06fm418dbiu4bx3ggq_image-header_pRow_1793719823000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "icon": null,
+    "source": "dazn.com",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": true,
+    "meta": {
+      "dazn": true,
+      "eventId": "Epg:scgqp7l06fm418dbiu4bx3ggq",
+      "competition": "BKFC Fight Night: Myrtle Beach",
+      "sport": "Bare Knuckle Fighting Championship",
+      "episodeName": "BKFC Fight Night Myrtle Beach: Weigh-In"
+    }
+  },
+  {
+    "id": "dazn3:1795132800000:Epg:kko9uwvdawnl1ik217jkvwoni",
+    "channel": "dazn3",
+    "title": "UMBC @ Ohio State",
+    "start": 1795132800000,
+    "end": 1795145400000,
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "category": [
+      "Basketbal"
+    ],
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/kko9uwvdawnl1ik217jkvwoni_image-header_pRow_1794934069000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "icon": null,
+    "source": "dazn.com",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": true,
+    "meta": {
+      "dazn": true,
+      "eventId": "Epg:kko9uwvdawnl1ik217jkvwoni",
       "competition": "NCAA Men's Basketball",
       "sport": "Basketbal",
       "episodeName": "UMBC @ Ohio State"
     }
   },
   {
-    "id": "dazn3:1795137300000:Epg:dydt394jf9tv1c2fm0jiu8erp",
+    "id": "dazn3:1795136400000:Epg:29p5haebh5quk4uy5m2e2oeg9",
     "channel": "dazn3",
-    "title": "Colts @ Texans",
-    "start": 1795137300000,
-    "end": 1795148100000,
-    "description": "NFL Game Pass\nVolg alle actie op DAZN.",
+    "title": "PPL MGM Las Vegas - Dag 2 - Session 2",
+    "start": 1795136400000,
+    "end": 1795165200000,
+    "description": "Pro Padel League\nVolg alle actie op DAZN.",
     "category": [
-      "American Football"
+      "Padel"
     ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/dydt394jf9tv1c2fm0jiu8erp_image-header_pRow_1784203753000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/29p5haebh5quk4uy5m2e2oeg9_image-header_pRow_1757605519000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
     "icon": null,
     "source": "dazn.com",
     "season": null,
@@ -43,73 +93,23 @@
     "live": true,
     "meta": {
       "dazn": true,
-      "eventId": "Epg:dydt394jf9tv1c2fm0jiu8erp",
-      "competition": "NFL Game Pass",
-      "sport": "American Football",
-      "episodeName": "Colts @ Texans"
+      "eventId": "Epg:29p5haebh5quk4uy5m2e2oeg9",
+      "competition": "Pro Padel League",
+      "sport": "Padel",
+      "episodeName": "PPL MGM Las Vegas - Dag 2 - Session 2"
     }
   },
   {
-    "id": "dazn3:1795140000000:Epg:z17r0l5gwjhj1gnm1ury6y05o",
-    "channel": "dazn3",
-    "title": "Oregon State @ Oregon",
-    "start": 1795140000000,
-    "end": 1795150800000,
-    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
-    "category": [
-      "Basketbal"
-    ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/z17r0l5gwjhj1gnm1ury6y05o_image-header_pRow_1794321684000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
-    "icon": null,
-    "source": "dazn.com",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": true,
-    "meta": {
-      "dazn": true,
-      "eventId": "Epg:z17r0l5gwjhj1gnm1ury6y05o",
-      "competition": "NCAA Men's Basketball",
-      "sport": "Basketbal",
-      "episodeName": "Oregon State @ Oregon"
-    }
-  },
-  {
-    "id": "dazn3:1795148100000:Epg:647zwlgdmdodjya5m2sm7duzv",
-    "channel": "dazn3",
-    "title": "Macau - Qualifying",
-    "start": 1795148100000,
-    "end": 1795158900000,
-    "description": "FIA TCR World Tour\nVolg alle actie op DAZN.",
-    "category": [
-      "Motorsport"
-    ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/647zwlgdmdodjya5m2sm7duzv_image-header_pRow_1789068756000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
-    "icon": null,
-    "source": "dazn.com",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": true,
-    "meta": {
-      "dazn": true,
-      "eventId": "Epg:647zwlgdmdodjya5m2sm7duzv",
-      "competition": "FIA TCR World Tour",
-      "sport": "Motorsport",
-      "episodeName": "Macau - Qualifying"
-    }
-  },
-  {
-    "id": "dazn3:1795166700000:Epg:btglf8hnpqiwfmn9uk21nyicn",
+    "id": "dazn3:1795166700000:Epg:d33nvmnq4nfkrigvd2ew58xdf",
     "channel": "dazn3",
     "title": "Barcelona - Coppa Shell, Race 2",
     "start": 1795166700000,
-    "end": 1795177500000,
+    "end": 1795170600000,
     "description": "Ferrari Challenge Europe\nVolg alle actie op DAZN.",
     "category": [
       "Motorsport"
     ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/btglf8hnpqiwfmn9uk21nyicn_image-header_pRow_1772684806000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/d33nvmnq4nfkrigvd2ew58xdf_image-header_pRow_1772684806000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
     "icon": null,
     "source": "dazn.com",
     "season": null,
@@ -118,23 +118,23 @@
     "live": true,
     "meta": {
       "dazn": true,
-      "eventId": "Epg:btglf8hnpqiwfmn9uk21nyicn",
+      "eventId": "Epg:d33nvmnq4nfkrigvd2ew58xdf",
       "competition": "Ferrari Challenge Europe",
       "sport": "Motorsport",
       "episodeName": "Barcelona - Coppa Shell, Race 2"
     }
   },
   {
-    "id": "dazn3:1795179900000:Epg:1i7nvenesmrei13fbhfgplfj50",
+    "id": "dazn3:1795182300000:Epg:70y2ywf1swds11s8ms6vcdzc6",
     "channel": "dazn3",
-    "title": "UAE President Cup",
-    "start": 1795179900000,
-    "end": 1795190700000,
-    "description": "Riyadh Season Horse Racing\nDon't miss any of the Riyadh Season Horse Racing action on DAZN.",
+    "title": "Knockout Final - Day 2",
+    "start": 1795182300000,
+    "end": 1795193100000,
+    "description": "Total Chess World Championship Tour\nVolg alle actie op DAZN.",
     "category": [
-      "Horse Racing"
+      "Schaken"
     ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1i7nvenesmrei13fbhfgplfj50_image-header_pRow_1792593075000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/70y2ywf1swds11s8ms6vcdzc6_image-header_pRow_1794500075000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
     "icon": null,
     "source": "dazn.com",
     "season": null,
@@ -143,10 +143,10 @@
     "live": true,
     "meta": {
       "dazn": true,
-      "eventId": "Epg:1i7nvenesmrei13fbhfgplfj50",
-      "competition": "Riyadh Season Horse Racing",
-      "sport": "Horse Racing",
-      "episodeName": "UAE President Cup"
+      "eventId": "Epg:70y2ywf1swds11s8ms6vcdzc6",
+      "competition": "Total Chess World Championship Tour",
+      "sport": "Schaken",
+      "episodeName": "Knockout Final - Day 2"
     }
   },
   {
@@ -175,41 +175,16 @@
     }
   },
   {
-    "id": "dazn3:1795195800000:Epg:1x08co2u9zpydl6ew0fc9j5mf",
+    "id": "dazn3:1795195800000:Epg:m4laco6nhhmr18ufvx0hktpzc",
     "channel": "dazn3",
-    "title": "Union Berlin - Bayer Leverkusen",
+    "title": "Charleston Classic: Oklahoma State vs. Minnesota",
     "start": 1795195800000,
-    "end": 1795203900000,
-    "description": "Frauen Bundesliga\nVolg alle actie op DAZN.",
-    "category": [
-      "Voetbal"
-    ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1x08co2u9zpydl6ew0fc9j5mf_image-header_pRow_1792760794000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
-    "icon": null,
-    "source": "dazn.com",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": true,
-    "meta": {
-      "dazn": true,
-      "eventId": "Epg:1x08co2u9zpydl6ew0fc9j5mf",
-      "competition": "Frauen Bundesliga",
-      "sport": "Voetbal",
-      "episodeName": "Union Berlin - Bayer Leverkusen"
-    }
-  },
-  {
-    "id": "dazn3:1795201200000:Epg:e2xs3byzg4bx1pvcssdehccq0",
-    "channel": "dazn3",
-    "title": "Chorale Roanne - Limoges",
-    "start": 1795201200000,
-    "end": 1795212000000,
-    "description": "LNB Pro A\nVolg alle actie op DAZN.",
+    "end": 1795206600000,
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
     "category": [
       "Basketbal"
     ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/e2xs3byzg4bx1pvcssdehccq0_image-header_pRow_1789077045000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/m4laco6nhhmr18ufvx0hktpzc_image-header_pRow_1794845473000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
     "icon": null,
     "source": "dazn.com",
     "season": null,
@@ -218,23 +193,23 @@
     "live": true,
     "meta": {
       "dazn": true,
-      "eventId": "Epg:e2xs3byzg4bx1pvcssdehccq0",
-      "competition": "LNB Pro A",
+      "eventId": "Epg:m4laco6nhhmr18ufvx0hktpzc",
+      "competition": "NCAA Men's Basketball",
       "sport": "Basketbal",
-      "episodeName": "Chorale Roanne - Limoges"
+      "episodeName": "Charleston Classic: Oklahoma State vs. Minnesota"
     }
   },
   {
-    "id": "dazn3:1795203900000:Epg:kqrc26oa81cn1xqjyzvbji7xp",
+    "id": "dazn3:1795203000000:Epg:e52it9yahzql16nws92oyjjfa",
     "channel": "dazn3",
-    "title": "Southend United vs. Boreham Wood",
-    "start": 1795203900000,
-    "end": 1795212000000,
-    "description": "National League\nWatch Soccer action as Southend United takes on Boreham Wood",
+    "title": "Verona - GCL Super Cup Semi Final",
+    "start": 1795203000000,
+    "end": 1795213800000,
+    "description": "Longines Global Champions Tour\nVolg alle actie op DAZN.",
     "category": [
-      "Voetbal"
+      "Equestrian"
     ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/kqrc26oa81cn1xqjyzvbji7xp_image-header_pRow_1789641594000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/e52it9yahzql16nws92oyjjfa_image-header_pRow_1794510388000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
     "icon": null,
     "source": "dazn.com",
     "season": null,
@@ -243,23 +218,23 @@
     "live": true,
     "meta": {
       "dazn": true,
-      "eventId": "Epg:kqrc26oa81cn1xqjyzvbji7xp",
-      "competition": "National League",
-      "sport": "Voetbal",
-      "episodeName": "Southend United vs. Boreham Wood"
+      "eventId": "Epg:e52it9yahzql16nws92oyjjfa",
+      "competition": "Longines Global Champions Tour",
+      "sport": "Equestrian",
+      "episodeName": "Verona - GCL Super Cup Semi Final"
     }
   },
   {
-    "id": "dazn3:1795203900000:Epg:93nmo0xr4gf3aib4xfqcneolj",
+    "id": "dazn3:1795212000000:Epg:1vfach5egngnh10qgwrzy00ewu",
     "channel": "dazn3",
-    "title": "Troyes - Le Havre",
-    "start": 1795203900000,
-    "end": 1795212000000,
-    "description": "Ligue 1\nTroyes en Le Havre gaan met elkaar in gevecht tijdens een Ligue 1 26/27 wedstrijd die veel actie belooft. Beide teams willen graag drie punten pakken en hogerop komen op de ranglijst. Kan een van de teams de controle grijpen en de overwinning claimen? Stem af om elk moment te zien!",
+    "title": "Jones vs. Pettus: Prelims",
+    "start": 1795212000000,
+    "end": 1795217400000,
+    "description": "Golden Boy Promotions\nBekijk de grootste namen en de beste gevechten op DAZN, het wereldwijde home of boxing.",
     "category": [
-      "Voetbal"
+      "Boksen"
     ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/93nmo0xr4gf3aib4xfqcneolj_image-header_pRow_1793375109000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
+    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1vfach5egngnh10qgwrzy00ewu_image-header_pRow_1794596652000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
     "icon": null,
     "source": "dazn.com",
     "season": null,
@@ -268,60 +243,10 @@
     "live": true,
     "meta": {
       "dazn": true,
-      "eventId": "Epg:93nmo0xr4gf3aib4xfqcneolj",
-      "competition": "Ligue 1",
-      "sport": "Voetbal",
-      "episodeName": "Troyes - Le Havre"
-    }
-  },
-  {
-    "id": "dazn3:1795204800000:Epg:7fhj330tth3h11qlmievclayq",
-    "channel": "dazn3",
-    "title": "Athletic Club - Espanyol",
-    "start": 1795204800000,
-    "end": 1795212900000,
-    "description": "LaLiga\nAthletic Club neemt het op tegen Espanyol in deze LaLiga 26/27 wedstrijd. De thuisploeg wil cruciale punten veiligstellen terwijl de bezoekers de ranglijst willen beklimmen. Kan Athletic Club het middenveld controleren en de verdediging doorbreken, of vindt Espanyol hun ritme voor een belangrijk uitresultaat? Mis niets van dit boeiende duel!",
-    "category": [
-      "Voetbal"
-    ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/7fhj330tth3h11qlmievclayq_image-header_pRow_1793207008000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
-    "icon": null,
-    "source": "dazn.com",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": true,
-    "meta": {
-      "dazn": true,
-      "eventId": "Epg:7fhj330tth3h11qlmievclayq",
-      "competition": "LaLiga",
-      "sport": "Voetbal",
-      "episodeName": "Athletic Club - Espanyol"
-    }
-  },
-  {
-    "id": "dazn3:1795204800000:Epg:1mmsrvotmj5y81iliha309aach",
-    "channel": "dazn3",
-    "title": "Sydney, Nova Scotia - Day 4 - Draw 15",
-    "start": 1795204800000,
-    "end": 1795215600000,
-    "description": "Grand Slam of Curling\nVolg alle actie op DAZN.",
-    "category": [
-      "Curling"
-    ],
-    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1mmsrvotmj5y81iliha309aach_image-header_pRow_1794853265000/fill/none/top/none/80/334/187/webp/image?brand=dazn",
-    "icon": null,
-    "source": "dazn.com",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": true,
-    "meta": {
-      "dazn": true,
-      "eventId": "Epg:1mmsrvotmj5y81iliha309aach",
-      "competition": "Grand Slam of Curling",
-      "sport": "Curling",
-      "episodeName": "Sydney, Nova Scotia - Day 4 - Draw 15"
+      "eventId": "Epg:1vfach5egngnh10qgwrzy00ewu",
+      "competition": "Golden Boy Promotions",
+      "sport": "Boksen",
+      "episodeName": "Jones vs. Pettus: Prelims"
     }
   }
 ]

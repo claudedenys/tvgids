@@ -147,7 +147,7 @@
     "channel": "npo1",
     "title": "NOS Journaal",
     "start": 1795311900000,
-    "end": 1795323900000,
+    "end": 1795324200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -169,10 +169,10 @@
     }
   },
   {
-    "id": "npo1:1795323900000:1c293u9",
+    "id": "npo1:1795324200000:1c293u9",
     "channel": "npo1",
     "title": "Nederland in beweging",
-    "start": 1795323900000,
+    "start": 1795324200000,
     "end": 1795325400000,
     "description": "Beweeg mee met 'Nederland in beweging'.",
     "category": [],
@@ -356,7 +356,7 @@
     "channel": "npo1",
     "title": "Floortje over de oceaan",
     "start": 1795349400000,
-    "end": 1795353300000,
+    "end": 1795353000000,
     "description": "Floortje Dessing reist naar het Indonesische eiland Gili Air, waar ze de Nederlandse Rose ontmoet.",
     "category": [],
     "image": "https://tvgidsassets.nl/v391/upload/f/carrousel/floortje-over-de-oceaan-800940472.jpg",
@@ -374,10 +374,32 @@
     }
   },
   {
-    "id": "npo1:1795353300000:1mozw85",
+    "id": "npo1:1795353000000:it23b1",
+    "channel": "npo1",
+    "title": "KvWeetjes",
+    "start": 1795353000000,
+    "end": 1795353600000,
+    "description": "In Mexico kwakken ze het op van alles en nog wat: guacamole.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v391/upload/k/carrousel/kvweetjes-801456282.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo1:1795353600000:1mozw85",
     "channel": "npo1",
     "title": "Meer dan verwacht",
-    "start": 1795353300000,
+    "start": 1795353600000,
     "end": 1795356600000,
     "description": "Voor Melissa en Ben breekt een mijlpaal aan: na weken ziekenhuis mag hun drieling mee naar huis.",
     "category": [],
@@ -586,7 +608,7 @@
     "channel": "npo1",
     "title": "Zorg uit handen",
     "start": 1795379100000,
-    "end": 1795382100000,
+    "end": 1795382400000,
     "description": "Eindelijk kan Marcel (67) een keertje naar Parijs.",
     "category": [],
     "image": "https://tvgidsassets.nl/v391/upload/z/carrousel/zorg-uit-handen-791459712.jpg",
@@ -604,12 +626,12 @@
     }
   },
   {
-    "id": "npo1:1795382100000:6psfva",
+    "id": "npo1:1795382400000:6psfva",
     "channel": "npo1",
     "title": "Pauw, De Wit & Moggré",
-    "start": 1795382100000,
-    "end": 1795385400000,
-    "description": "Talkshow over de actualiteit.",
+    "start": 1795382400000,
+    "end": 1795385700000,
+    "description": "Met in deze uitzending: * De Nederlandse betrokkenheid bij de oorlog in Oekraïne komt steeds nadrukkelijker in beeld.",
     "category": [],
     "image": "https://tvgidsassets.nl/v391/upload/p/carrousel/pauw-de-wit-794037842.jpg",
     "icon": null,
@@ -623,10 +645,10 @@
     }
   },
   {
-    "id": "npo1:1795385400000:1qmbii9",
+    "id": "npo1:1795385700000:1qmbii9",
     "channel": "npo1",
     "title": "NOS Journaal",
-    "start": 1795385400000,
+    "start": 1795385700000,
     "end": 1795386600000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
@@ -651,7 +673,7 @@
     "channel": "npo1",
     "title": "Ivo op zondag",
     "start": 1795386600000,
-    "end": 1795389900000,
+    "end": 1795390200000,
     "description": "Ivo Niehe ontvangt gasten uit de wereld van kunst, cultuur, media en samenleving.",
     "category": [],
     "image": "https://tvgidsassets.nl/v391/upload/i/carrousel/ivo-op-zondag-794134282.jpg",

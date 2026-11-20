@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1795302660000:1va4v2m",
+    "id": "playsports3:1795302720000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795302660000,
-    "end": 1795309020000,
+    "start": 1795302720000,
+    "end": 1795309080000,
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1795309020000:xykime",
+    "id": "playsports3:1795309080000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1795309020000,
-    "end": 1795315200000,
+    "start": 1795309080000,
+    "end": 1795315020000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -58,10 +58,10 @@
     }
   },
   {
-    "id": "playsports3:1795315200000:1p2p7re",
+    "id": "playsports3:1795315020000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1795315200000,
+    "start": 1795315020000,
     "end": 1795318800000,
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
@@ -152,7 +152,7 @@
     "channel": "playsports3",
     "title": "Play Sports",
     "start": 1795329300000,
-    "end": 1795332000000,
+    "end": 1795332300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -176,11 +176,11 @@
     }
   },
   {
-    "id": "playsports3:1795332000000:1va4v2m",
+    "id": "playsports3:1795332300000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795332000000,
-    "end": 1795338540000,
+    "start": 1795332300000,
+    "end": 1795338840000,
     "description": "Verslag van de wedstrijd FC Twente - Ajax uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -206,35 +206,41 @@
     }
   },
   {
-    "id": "playsports3:1795338540000:48zb9",
+    "id": "playsports3:1795338840000:i67pjl",
     "channel": "playsports3",
-    "title": "Geen uitzending",
-    "start": 1795338540000,
-    "end": 1795339560000,
-    "description": null,
-    "category": [],
-    "image": null,
+    "title": "Play Sports Highlights",
+    "start": 1795338840000,
+    "end": 1795339740000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F581487174%2Cimi%3A4693d42001c3da0cc97f4e3d843d84ac8bd88a0c/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50390000,
+    "episode": 581487174,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:f981d81a945e0af200bc474b8dfc583e3870658b",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F581487174,imi:4693d42001c3da0cc97f4e3d843d84ac8bd88a0c",
       "episodeName": null,
-      "genres": [],
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
       "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {
-    "id": "playsports3:1795339560000:16v40h",
+    "id": "playsports3:1795339740000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1795339560000,
-    "end": 1795346100000,
+    "start": 1795339740000,
+    "end": 1795346160000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -260,11 +266,11 @@
     }
   },
   {
-    "id": "playsports3:1795346100000:16v40h",
+    "id": "playsports3:1795346160000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1795346100000,
-    "end": 1795352400000,
+    "start": 1795346160000,
+    "end": 1795352340000,
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -290,10 +296,10 @@
     }
   },
   {
-    "id": "playsports3:1795352400000:1w47a4n",
+    "id": "playsports3:1795352340000:1w47a4n",
     "channel": "playsports3",
     "title": "UEFA Champions League Magazine",
-    "start": 1795352400000,
+    "start": 1795352340000,
     "end": 1795353900000,
     "description": "Nieuws, achtergronden en interviews uit de UEFA Champions League.",
     "category": [
@@ -354,7 +360,7 @@
     "channel": "playsports3",
     "title": "Play Sports Highlights",
     "start": 1795361100000,
-    "end": 1795363140000,
+    "end": 1795363020000,
     "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
@@ -380,10 +386,10 @@
     }
   },
   {
-    "id": "playsports3:1795363140000:1p2p7re",
+    "id": "playsports3:1795363020000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1795363140000,
+    "start": 1795363020000,
     "end": 1795366800000,
     "description": "Dennis Xhaët en Sam Dejonghe fileren samen het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
@@ -504,7 +510,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1795384500000,
-    "end": 1795390800000,
+    "end": 1795390860000,
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",

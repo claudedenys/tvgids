@@ -1,16 +1,16 @@
 [
   {
-    "id": "playsports1:1795390800000:1prlzbg",
+    "id": "playsports1:1795391040000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1795390800000,
-    "end": 1795397340000,
+    "start": 1795391040000,
+    "end": 1795397520000,
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584279~~2FEP033946612524%2Cimi%3Ab9dd65191cf599dcbed3a399e43b74d0b8302809/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584279~~2FEP033946612524%2Cimi%3A60a4eb7a6bc50e47b64225b3ee076b1cb32a1a1a/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -18,7 +18,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584279~~2FEP033946612524,imi:b9dd65191cf599dcbed3a399e43b74d0b8302809",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584279~~2FEP033946612524,imi:60a4eb7a6bc50e47b64225b3ee076b1cb32a1a1a",
       "episodeName": "Everton - Coventry City",
       "genres": [
         "Sport",
@@ -30,16 +30,16 @@
     }
   },
   {
-    "id": "playsports1:1795397340000:xykime",
+    "id": "playsports1:1795397520000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1795397340000,
-    "end": 1795411800000,
+    "start": 1795397520000,
+    "end": 1795415400000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A6a6eff78dee789aca47475a6ee619d588dbf6933/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Af54d0a94ade4b635388e4a0ec064a56bc04d2acf/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -47,7 +47,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:6a6eff78dee789aca47475a6ee619d588dbf6933",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:f54d0a94ade4b635388e4a0ec064a56bc04d2acf",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -58,35 +58,11 @@
     }
   },
   {
-    "id": "playsports1:1795411800000:48zb9",
-    "channel": "playsports1",
-    "title": "Geen uitzending",
-    "start": 1795411800000,
-    "end": 1795415400000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0ee679e650fe5771fef96d65ca6d554906967e4b",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
     "id": "playsports1:1795415400000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
     "start": 1795415400000,
-    "end": 1795416900000,
+    "end": 1795416960000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
@@ -112,11 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1795416900000:1prlzbg",
+    "id": "playsports1:1795416960000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1795416900000,
-    "end": 1795423320000,
+    "start": 1795416960000,
+    "end": 1795423380000,
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "category": [
       "Sport",
@@ -142,11 +118,11 @@
     }
   },
   {
-    "id": "playsports1:1795423320000:11wg5yb",
+    "id": "playsports1:1795423380000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1795423320000,
-    "end": 1795429560000,
+    "start": 1795423380000,
+    "end": 1795429620000,
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "category": [
       "Sport",
@@ -172,11 +148,11 @@
     }
   },
   {
-    "id": "playsports1:1795429560000:11wg5yb",
+    "id": "playsports1:1795429620000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1795429560000,
-    "end": 1795436100000,
+    "start": 1795429620000,
+    "end": 1795436160000,
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "category": [
       "Sport",
@@ -202,10 +178,10 @@
     }
   },
   {
-    "id": "playsports1:1795436100000:11wg5yb",
+    "id": "playsports1:1795436160000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1795436100000,
+    "start": 1795436160000,
     "end": 1795442520000,
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "category": [
@@ -296,7 +272,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1795455600000,
-    "end": 1795462200000,
+    "end": 1795462080000,
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "category": [
       "Sport",
@@ -322,10 +298,10 @@
     }
   },
   {
-    "id": "playsports1:1795462200000:qjkkk5",
+    "id": "playsports1:1795462080000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1795462200000,
+    "start": 1795462080000,
     "end": 1795463700000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
@@ -382,41 +358,67 @@
     }
   },
   {
-    "id": "playsports1:1795470900000:qjkkk5",
+    "id": "playsports1:1795470900000:2nh777",
     "channel": "playsports1",
-    "title": "Premier League Stories",
+    "title": "Hoogvliegers",
     "start": 1795470900000,
     "end": 1795472400000,
-    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
+    "description": "Geert De Vlieger heeft een openhartig gesprek met Romelu Lukaku. De bonkige goalgetter had het niet altijd even gemakkelijk. Hij vertelt over zijn jeugd en over de beginjaren bij Anderlecht.",
     "category": [
-      "Docu",
-      "Voetbal"
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274%2Cimi%3A81cf78e53863943f4f0c389f1b5385fe71fc879d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19832575~~2FEP037277910025%2Cimi%3A7b25c7795cee26e70113ed6c27c703b0d7cdd525/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 6,
-    "episode": 17,
+    "season": 4,
+    "episode": 6,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274,imi:81cf78e53863943f4f0c389f1b5385fe71fc879d",
-      "episodeName": "Granit Xhaka",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19832575~~2FEP037277910025,imi:7b25c7795cee26e70113ed6c27c703b0d7cdd525",
+      "episodeName": "Romelu Lukaku - De parabel van een glas melk",
       "genres": [
-        "Docu",
-        "Voetbal"
+        "Sporttalkshow"
       ],
-      "productionDate": "2026",
+      "productionDate": "2018",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96572ffa-cd30-4de9-a1d7-cb62441aa975"
     }
   },
   {
-    "id": "playsports1:1795472400000:1prlzbg",
+    "id": "playsports1:1795472400000:2nh777",
+    "channel": "playsports1",
+    "title": "Hoogvliegers",
+    "start": 1795472400000,
+    "end": 1795473960000,
+    "description": "Romelu Lukaku heeft als zoveel doelpunten gemaakt dat hij een record op zijn naam heeft.",
+    "category": [
+      "Sporttalkshow"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19274881~~2FEP037277910024%2Cimi%3Aafe395ba35d51eee05e750b531c6592dc2eb0643/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 4,
+    "episode": 8,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19274881~~2FEP037277910024,imi:afe395ba35d51eee05e750b531c6592dc2eb0643",
+      "episodeName": "Romelu Lukaku - Op naar de 500 goals",
+      "genres": [
+        "Sporttalkshow"
+      ],
+      "productionDate": "2018",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96572ffa-cd30-4de9-a1d7-cb62441aa975"
+    }
+  },
+  {
+    "id": "playsports1:1795473960000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1795472400000,
-    "end": 1795478820000,
+    "start": 1795473960000,
+    "end": 1795480380000,
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "category": [
       "Sport",

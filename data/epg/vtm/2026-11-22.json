@@ -1,10 +1,10 @@
 [
   {
-    "id": "vtm:1795302300000:a125ad",
+    "id": "vtm:1795302600000:a125ad",
     "channel": "vtm",
     "title": "Happy Hour",
-    "start": 1795302300000,
-    "end": 1795305900000,
+    "start": 1795302600000,
+    "end": 1795306200000,
     "description": "Ruben ontvangt deze keer Tom Boonen, Herman Brusselmans en Marc Coucke.",
     "category": [
       "Talkshow"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "vtm:1795305900000:48zb9",
+    "id": "vtm:1795306200000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1795305900000,
-    "end": 1795309500000,
+    "start": 1795306200000,
+    "end": 1795309800000,
     "description": null,
     "category": [],
     "image": null,
@@ -52,10 +52,10 @@
     }
   },
   {
-    "id": "vtm:1795309500000:48zb9",
+    "id": "vtm:1795309800000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1795309500000,
+    "start": 1795309800000,
     "end": 1795324500000,
     "description": null,
     "category": [],
@@ -486,7 +486,7 @@
     "channel": "vtm",
     "title": "VTM Nieuws",
     "start": 1795348800000,
-    "end": 1795350900000,
+    "end": 1795351200000,
     "description": "Nieuws van de dag met achtergrondinformatie, gevolgd door uitgebreide sportverslaggeving.",
     "category": [
       "Actua"
@@ -510,10 +510,10 @@
     }
   },
   {
-    "id": "vtm:1795350900000:dnc634",
+    "id": "vtm:1795351200000:dnc634",
     "channel": "vtm",
     "title": "Het Weer (middag)",
-    "start": 1795350900000,
+    "start": 1795351200000,
     "end": 1795351500000,
     "description": "Blik op het weer in Vlaanderen en daarbuiten.",
     "category": [
@@ -542,7 +542,7 @@
     "channel": "vtm",
     "title": "Chicago Fire",
     "start": 1795351500000,
-    "end": 1795354800000,
+    "end": 1795355100000,
     "description": "Pascal komt onder grote druk te staan als een lid van de kazerne tijdens een oproep gewond raakt. Herrmann krijgt te maken met familieproblemen.",
     "category": [
       "Dramaserie",
@@ -568,11 +568,11 @@
     }
   },
   {
-    "id": "vtm:1795354800000:tfdwix",
+    "id": "vtm:1795355100000:tfdwix",
     "channel": "vtm",
     "title": "Chicago Med",
-    "start": 1795354800000,
-    "end": 1795358400000,
+    "start": 1795355100000,
+    "end": 1795358700000,
     "description": "Charles neemt drie geneeskundestudenten een dag lang onder zijn hoede. Goodwin bereidt zich voor op een belangrijke bestuursvergadering, terwijl Frost oog in oog komt te staan met zijn verleden.",
     "category": [
       "Dramaserie",
@@ -598,33 +598,59 @@
     }
   },
   {
-    "id": "vtm:1795358400000:1bpb4o3",
+    "id": "vtm:1795358700000:1ltn7gx",
     "channel": "vtm",
-    "title": "Chicago P.D.",
-    "start": 1795358400000,
-    "end": 1795362000000,
-    "description": "Er komen details uit Imani's verleden aan het licht terwijl de Intelligence Unit de waarheid probeert te achterhalen achter de onverwachte heropening van een verdwijningszaak rond een kind die al tientallen jaren oud is.",
+    "title": "Wordt aangekondigd",
+    "start": 1795358700000,
+    "end": 1795360500000,
+    "description": "De programmering wordt nog aangekondigd.",
     "category": [
-      "Misdaaddrama",
-      "Actie"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32235197~~2FEP029012480268%2Cimi%3A8cf174ee3241ae8de1d8e6fcc3faa93202f60a2f/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Aa6d20d530db0b7e7d692ffe565933731e269773b/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 13,
-    "episode": 12,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32235197~~2FEP029012480268,imi:8cf174ee3241ae8de1d8e6fcc3faa93202f60a2f",
-      "episodeName": "Missing",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:a6d20d530db0b7e7d692ffe565933731e269773b",
+      "episodeName": null,
       "genres": [
-        "Misdaaddrama",
-        "Actie"
+        "Entertainment"
       ],
-      "productionDate": "2025",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2fcb7184-31df-43da-8953-ee7dc0807abd"
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vtm:1795360500000:tujimb",
+    "channel": "vtm",
+    "title": "Dancing with the Stars",
+    "start": 1795360500000,
+    "end": 1795362000000,
+    "description": "Jonas Van Geel en Peter Van den Begin trappen het nieuwe seizoen af. De celebs ontmoeten hun danspartners voor het eerst in de Dance Academy. De komst van een mysterieuze deelnemer zorgt voor een verrassing.",
+    "category": [
+      "Reality-competitie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34527521~~2FEP056241160015%2Cimi%3A347cf86e80250b240c764cf92db9383930bf6d2f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 2026111515,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34527521~~2FEP056241160015,imi:347cf86e80250b240c764cf92db9383930bf6d2f",
+      "episodeName": "Kick-off",
+      "genres": [
+        "Reality-competitie"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29579200~~2FSH056241160000"
     }
   },
   {

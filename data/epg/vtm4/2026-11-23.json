@@ -1,9 +1,39 @@
 [
   {
-    "id": "vtm4:1795392000000:48zb9",
+    "id": "vtm4:1795390500000:p9oked",
+    "channel": "vtm4",
+    "title": "Sheriffs: El Dorado County",
+    "start": 1795390500000,
+    "end": 1795392300000,
+    "description": "Een hulpsheriff merkt een gekanteld voertuig op met de dronken bestuurder er nog in. Een routinecontrole leidt tot de arrestatie van een gezochte crimineel.",
+    "category": [
+      "Reality",
+      "Misdaad"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F17313535~~2FEP059395090010%2Cimi%3A79043a70dc47ad2d814dab53644f960d573858a2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102019,
+    "episode": 48,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F17313535~~2FEP059395090010,imi:79043a70dc47ad2d814dab53644f960d573858a2",
+      "episodeName": "Aflevering 48",
+      "genres": [
+        "Reality",
+        "Misdaad"
+      ],
+      "productionDate": "2019",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F16927670~~2FSH059395090000"
+    }
+  },
+  {
+    "id": "vtm4:1795392300000:48zb9",
     "channel": "vtm4",
     "title": "Geen uitzending",
-    "start": 1795392000000,
+    "start": 1795392300000,
     "end": 1795413600000,
     "description": null,
     "category": [],

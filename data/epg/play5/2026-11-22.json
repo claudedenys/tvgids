@@ -34,7 +34,7 @@
     "channel": "play5",
     "title": "Criminal Minds",
     "start": 1795309200000,
-    "end": 1795312800000,
+    "end": 1795311900000,
     "description": "In een afgelegen gebied in Virginia worden de lichamen van Clark Howard en Mathias Lee gevonden. De twee mannen werden op dezelfde manier om het leven gebracht. Het team ontdekt dat Howard en Lee elkaar niet konden luchten of zien.",
     "category": [
       "Dramaserie",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1795312800000:48zb9",
+    "id": "play5:1795311900000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1795312800000,
-    "end": 1795320000000,
+    "start": 1795311900000,
+    "end": 1795319820000,
     "description": null,
     "category": [],
     "image": null,
@@ -76,6 +76,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:89443da1de3f6910d4990e05135df92738f16660",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1795319820000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1795319820000,
+    "end": 1795320000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:1487cb8b0b8d4faa840abf607bb7b10829bfaede",
       "episodeName": null,
       "genres": [],
       "productionDate": null,
