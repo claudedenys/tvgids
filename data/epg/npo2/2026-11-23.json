@@ -26,7 +26,7 @@
     "channel": "npo2",
     "title": "Nieuwsuur",
     "start": 1795391400000,
-    "end": 1795393800000,
+    "end": 1795393500000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
       "Actueel"
@@ -47,10 +47,10 @@
     }
   },
   {
-    "id": "npo2:1795393800000:cbx4tl",
+    "id": "npo2:1795393500000:cbx4tl",
     "channel": "npo2",
     "title": "Buitenhof",
-    "start": 1795393800000,
+    "start": 1795393500000,
     "end": 1795396800000,
     "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
     "category": [],
@@ -144,7 +144,7 @@
     "channel": "npo2",
     "title": "BinnensteBuiten",
     "start": 1795417200000,
-    "end": 1795419600000,
+    "end": 1795419300000,
     "description": "Met in deze uitzending: * Daan en Reef wonen in een rijtjeshuis in Bleiswijk.",
     "category": [],
     "image": "https://tvgidsassets.nl/v391/upload/b/carrousel/binnenstebuiten-795171492.jpg",
@@ -162,10 +162,10 @@
     }
   },
   {
-    "id": "npo2:1795419600000:1dw9gp4",
+    "id": "npo2:1795419300000:1dw9gp4",
     "channel": "npo2",
     "title": "MAX geheugentrainer",
-    "start": 1795419600000,
+    "start": 1795419300000,
     "end": 1795420800000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -300,7 +300,7 @@
     "channel": "npo2",
     "title": "MAX Maakt Mogelijk helpt",
     "start": 1795429800000,
-    "end": 1795430460000,
+    "end": 1795430400000,
     "description": "De Nederlandse Anneke woont al jaren met haar man Mambu in zijn geboorteland Liberia.",
     "category": [],
     "image": "https://tvgidsassets.nl/v391/upload/m/carrousel/max-maakt-mogelijk-794483192.jpg",
@@ -315,10 +315,10 @@
     }
   },
   {
-    "id": "npo2:1795430460000:r3sp6g",
+    "id": "npo2:1795430400000:r3sp6g",
     "channel": "npo2",
     "title": "Nu te zien!",
-    "start": 1795430460000,
+    "start": 1795430400000,
     "end": 1795431600000,
     "description": "In het Centraal Museum Utrecht is de groots opgezette tentoonstelling 'Graffiti' te zien.",
     "category": [],
@@ -341,7 +341,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1795431600000,
-    "end": 1795432800000,
+    "end": 1795432500000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -361,10 +361,10 @@
     }
   },
   {
-    "id": "npo2:1795432800000:fmxwos",
+    "id": "npo2:1795432500000:fmxwos",
     "channel": "npo2",
     "title": "Kook mee met MAX",
-    "start": 1795432800000,
+    "start": 1795432500000,
     "end": 1795433400000,
     "description": "Wat eet ik vanavond?",
     "category": [],
@@ -431,7 +431,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1795435200000,
-    "end": 1795436700000,
+    "end": 1795436400000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -451,10 +451,10 @@
     }
   },
   {
-    "id": "npo2:1795436700000:lmucxc",
+    "id": "npo2:1795436400000:lmucxc",
     "channel": "npo2",
     "title": "Stand van Nederland: Aangehaakt",
-    "start": 1795436700000,
+    "start": 1795436400000,
     "end": 1795438200000,
     "description": "Sam Hagens en Josse de Voogd lopen door het veranderlijke Nijmegen.",
     "category": [],
@@ -624,10 +624,10 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1795449360000,
-    "end": 1795449420000,
+    "end": 1795449600000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v391/upload/p/carrousel/politieke-partijen-795261582.jpg",
+    "image": "https://tvgidsassets.nl/v391/upload/p/carrousel/politieke-partijen-801734342.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -635,33 +635,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
-    "id": "npo2:1795449420000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1795449420000,
-    "end": 1795449900000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v391/upload/p/carrousel/politieke-partijen-795261582.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
-    "id": "npo2:1795449900000:cfkl6y",
+    "id": "npo2:1795449600000:cfkl6y",
     "channel": "npo2",
     "title": "Natural born rebels",
-    "start": 1795449900000,
+    "start": 1795449600000,
     "end": 1795453200000,
     "description": "Een partner vinden om mee te paren en te helpen je jongen groot te brengen is geen eenvoudige klus en haalt vaak het...",
     "category": [],
@@ -792,7 +776,7 @@
     "end": 1795464900000,
     "description": "Multimediaal consumentenplatform met Antoinette Hertsenberg en Fons Hendriks.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v391/upload/r/carrousel/radar-799120952.jpg",
+    "image": "https://tvgidsassets.nl/v391/upload/r/carrousel/radar-801734542.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "Modern Family",
     "start": 1795477200000,
-    "end": 1795479300000,
+    "end": 1795479000000,
     "description": "Haley ontmoet de ouders van Arvin, maar als het niet gaat zoals gepland, leidt het lot tot een onverwachte hereniging met al haar ex-vriendjes. Ondertussen brengt het gezin een bezoek aan een verpleeghuis met de gemene zus van Jay, Becky, om een oude rekening te vereffenen. Terwijl Jay, Claire en Mitchell strijden om de aandacht van Becky, zitten Phil, Cam en Gloria gevangen in de kelder van het verpleeghuis, zonder uitweg.",
     "category": [
       "Sitcom"
@@ -28,11 +28,11 @@
     }
   },
   {
-    "id": "play5:1795479300000:4hua1r",
+    "id": "play5:1795479000000:4hua1r",
     "channel": "play5",
     "title": "NCIS: Hawaii",
-    "start": 1795479300000,
-    "end": 1795482900000,
+    "start": 1795479000000,
+    "end": 1795482000000,
     "description": "Het team van Tennant en NCIS-agenten Nick Torres en Jessica Knight ontdekken de verblijfplaats van The Raven op het eiland Oahu. Ze horen over zijn plannen om 's werelds grootste internationale maritieme oorlogsoefening aan te vallen.",
     "category": [
       "Misdaaddrama",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play5:1795482900000:1ge28a5",
+    "id": "play5:1795482000000:1ge28a5",
     "channel": "play5",
     "title": "New Amsterdam",
-    "start": 1795482900000,
-    "end": 1795486500000,
+    "start": 1795482000000,
+    "end": 1795484700000,
     "description": "Door een explosie tijdens een huwelijksceremonie belandt een groep gewonde feestgangers in het ziekenhuis. Max en Wilder haasten zich om een zeldzame bloedgroep te vinden om de bruidegom te redden. Iggy helpt een meisje uit een catatonische toestand.",
     "category": [
       "Dramaserie",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "play5:1795486500000:hxtisv",
+    "id": "play5:1795484700000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1795486500000,
-    "end": 1795488900000,
+    "start": 1795484700000,
+    "end": 1795487400000,
     "description": "Meredith, die nog steeds fungeert als het hoofd van chirurgie, ziet Nick voor het eerst sinds ze zijn aanbod om naar Minnesota te verhuizen afwees. Bailey vertelt Richard dat ze niet klaar is om weer aan het werk te gaan. Levi heeft nieuws voor Jo.",
     "category": [
       "Dramaserie",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "play5:1795488900000:48zb9",
+    "id": "play5:1795487400000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1795488900000,
-    "end": 1795492800000,
+    "start": 1795487400000,
+    "end": 1795492200000,
     "description": null,
     "category": [],
     "image": null,
@@ -134,6 +134,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:da834943475af9ba2ab7440fac638f52b9be60e5",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1795492200000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1795492200000,
+    "end": 1795492800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:eb26ce3c300fa9d4279a04a7d4136b722b1a21d6",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

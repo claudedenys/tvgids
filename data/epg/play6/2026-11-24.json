@@ -32,7 +32,7 @@
     "channel": "play6",
     "title": "See No Evil",
     "start": 1795480200000,
-    "end": 1795484100000,
+    "end": 1795483500000,
     "description": "In 2013 verdwijnt Kira Steger na een date night met haar man in de Mall of America. Na een schokkende vondst op een parkeerplaats vrezen onderzoekers dat er sprake is van kwaad opzet.",
     "category": [
       "Docu",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "play6:1795484100000:o13nu0",
+    "id": "play6:1795483500000:o13nu0",
     "channel": "play6",
     "title": "Pawn Stars",
-    "start": 1795484100000,
-    "end": 1795487100000,
+    "start": 1795483500000,
+    "end": 1795486200000,
     "description": "Chum zet zijn zinnen op een gesigneerd exemplaar van 'The Coming of the Saucers'. Chum probeert om de perfecte prijs ervoor te betalen. Ondertussen beweert een verkoper een schilderij van kunstenaar Ralph Blakelock te hebben.",
     "category": [
       "Reality",
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "play6:1795487100000:48zb9",
+    "id": "play6:1795486200000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1795487100000,
-    "end": 1795492800000,
+    "start": 1795486200000,
+    "end": 1795492500000,
     "description": null,
     "category": [],
     "image": null,
@@ -104,6 +104,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ea7dc962a24e22ff358f02dcbb74518482485dbc",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1795492500000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1795492500000,
+    "end": 1795492800000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:6fc280e5e5d9e1967aabf27250687b2003030b57",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

@@ -1,38 +1,10 @@
 [
   {
-    "id": "vtm:1795389600000:ptkscg",
-    "channel": "vtm",
-    "title": "Telefacts",
-    "start": 1795389600000,
-    "end": 1795392900000,
-    "description": "Is de NAVO klaar voor een mogelijke inval van Rusland? We kunnen meekijken achter de schermen van een NAVO-training: 'Steadfast Dart'. De trainingen zijn niet alleen een oefening, maar ook een duidelijke boodschap aan Moskou.",
-    "category": [
-      "Docu"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34527567~~2FEP036430420213%2Cimi%3A26753a5f362e9dc7c4680fdc7d8c36c171818369/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 102026,
-    "episode": 20,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34527567~~2FEP036430420213,imi:26753a5f362e9dc7c4680fdc7d8c36c171818369",
-      "episodeName": "De NAVO vs Poetin: deel 2",
-      "genres": [
-        "Docu"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F16052252-6f3e-428c-b798-42c8515eca39"
-    }
-  },
-  {
-    "id": "vtm:1795392900000:1ksa8ot",
+    "id": "vtm:1795392000000:1ksa8ot",
     "channel": "vtm",
     "title": "Datenight",
-    "start": 1795392900000,
-    "end": 1795396200000,
+    "start": 1795392000000,
+    "end": 1795395300000,
     "description": "Tess Goossens duikt met verschillende BV's de wereld van de liefde in. We komen meer te weten over hun eerste liefde, de impact van liefdesverdriet en hun stoutste slaapkamergeheimen.",
     "category": [
       "Talkshow"
@@ -56,11 +28,11 @@
     }
   },
   {
-    "id": "vtm:1795396200000:48zb9",
+    "id": "vtm:1795395300000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1795396200000,
-    "end": 1795399800000,
+    "start": 1795395300000,
+    "end": 1795398900000,
     "description": null,
     "category": [],
     "image": null,
@@ -80,10 +52,10 @@
     }
   },
   {
-    "id": "vtm:1795399800000:48zb9",
+    "id": "vtm:1795398900000:48zb9",
     "channel": "vtm",
     "title": "Geen uitzending",
-    "start": 1795399800000,
+    "start": 1795398900000,
     "end": 1795408800000,
     "description": null,
     "category": [],
@@ -578,7 +550,7 @@
     "channel": "vtm",
     "title": "Familie",
     "start": 1795430700000,
-    "end": 1795432800000,
+    "end": 1795432500000,
     "description": "Niko maakt meer tijd vrij voor Jos. Hanne geniet van een lief cadeautje van Erik en snapt niet waarom Lars denkt dat ze extra stress zou hebben. Jelle heeft Jan groot nieuws te vertellen. Véronique en Cédric maken ruzie over de overname van Zyn.",
     "category": [
       "Dramaserie",
@@ -604,10 +576,10 @@
     }
   },
   {
-    "id": "vtm:1795432800000:13xgpj9",
+    "id": "vtm:1795432500000:13xgpj9",
     "channel": "vtm",
     "title": "De Wereld van Plopsa",
-    "start": 1795432800000,
+    "start": 1795432500000,
     "end": 1795435200000,
     "description": "De jubileumparade is voor het eerst te zien tijdens de Grand Opening. Er zijn beroemdheden aanwezig, dus er mag niks misgaan. Gert Verhulst houdt een oogje in het zeil. Ondertussen is er grote drukte bij de horeca.",
     "category": [
@@ -722,7 +694,7 @@
     "channel": "vtm",
     "title": "Lisa",
     "start": 1795439700000,
-    "end": 1795442100000,
+    "end": 1795441800000,
     "description": "Jonas praat met Lisa over haar vader. Het komt bijna tot een derde kus, maar dan komt Katja binnen. Remco slaagt erin om de rechter te charmeren en Pilar houdt een emotionele speech in Remco's voordeel.",
     "category": [
       "Romantische komedie",
@@ -748,10 +720,40 @@
     }
   },
   {
-    "id": "vtm:1795442100000:tujimb",
+    "id": "vtm:1795441800000:lm0wc0",
+    "channel": "vtm",
+    "title": "America's Funniest Home Videos",
+    "start": 1795441800000,
+    "end": 1795443000000,
+    "description": "Amerikaanse show rond grappige, waargebeurde videobeelden, ingestuurd door de kijkers. Elke week kan het studiopubliek aangeven welke clip zij het grappigst vinden.",
+    "category": [
+      "Reality",
+      "Comedy"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F184249~~2FSH032754760000~~2F581713825%2Cimi%3A54b33aa663078aee72ccb90cba753dc6e9873082/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 54760000,
+    "episode": 581713825,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F184249~~2FSH032754760000~~2F581713825,imi:54b33aa663078aee72ccb90cba753dc6e9873082",
+      "episodeName": null,
+      "genres": [
+        "Reality",
+        "Comedy"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F23d499dc-3bb4-4f13-bf32-2deb42a4a973"
+    }
+  },
+  {
+    "id": "vtm:1795443000000:tujimb",
     "channel": "vtm",
     "title": "Dancing with the Stars",
-    "start": 1795442100000,
+    "start": 1795443000000,
     "end": 1795450500000,
     "description": "Jonas Van Geel en Peter Van den Begin verklaren de dansvloer van 'Dancing with the Stars' terug voor geopend. Na een spectaculaire openingsdans is het aan de eerste danskoppels om de jury en kijkers te laten zien wat ze in hun mars hebben.",
     "category": [
@@ -924,7 +926,7 @@
     "channel": "vtm",
     "title": "Camping Coppens",
     "start": 1795462800000,
-    "end": 1795467000000,
+    "end": 1795467300000,
     "description": "In Malmö staat Nora aan de start van het Zweeds kampioenschap kunstschaatsen. Het campingteam beleeft avontuurlijke winterreizen. Beau viert zijn 18e verjaardag met een onvergetelijke filmavond op Camp Grinsby.",
     "category": [
       "Reality",
@@ -950,10 +952,10 @@
     }
   },
   {
-    "id": "vtm:1795467000000:fw2xza",
+    "id": "vtm:1795467300000:fw2xza",
     "channel": "vtm",
     "title": "Gevangenisdirecteurs",
-    "start": 1795467000000,
+    "start": 1795467300000,
     "end": 1795471500000,
     "description": "Directeur Serge Rooman managet een stakingsdag in Merksplas. In Gent spreekt Marieke Peirsegaele een geïnterneerde aan die dringend nood heeft aan de juiste instelling.",
     "category": [
@@ -982,7 +984,7 @@
     "channel": "vtm",
     "title": "Telefacts",
     "start": 1795471500000,
-    "end": 1795474800000,
+    "end": 1795475400000,
     "description": "Brengt buitenlandse reportages met een bijzondere blik op de wereld tot in de Vlaamse huiskamers.",
     "category": [
       "Docu"
