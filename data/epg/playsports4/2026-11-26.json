@@ -116,7 +116,7 @@
     "channel": "playsports4",
     "title": "BNXT League",
     "start": 1795674900000,
-    "end": 1795683240000,
+    "end": 1795679880000,
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "category": [
       "Sport",
@@ -142,11 +142,35 @@
     }
   },
   {
+    "id": "playsports4:1795679880000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1795679880000,
+    "end": 1795683240000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:593d4af361bc1566db668b8da5609656954a66ce",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "playsports4:1795683240000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1795683240000,
-    "end": 1795692300000,
+    "end": 1795690800000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [
       "Sport",
@@ -169,6 +193,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1795690800000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1795690800000,
+    "end": 1795692300000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:c850806625ee2d9dabcb90b805cf044b98e828b0",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports4:1795557300000:1mv1683",
+    "id": "playsports4:1795558200000:1mv1683",
     "channel": "playsports4",
     "title": "Tennis: WTA Finals 2026",
-    "start": 1795557300000,
-    "end": 1795565400000,
+    "start": 1795558200000,
+    "end": 1795566300000,
     "description": null,
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports4:1795565400000:arbc9d",
+    "id": "playsports4:1795566300000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1795565400000,
-    "end": 1795572660000,
+    "start": 1795566300000,
+    "end": 1795573620000,
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
     "category": [
       "Sport",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "playsports4:1795572660000:1kmb1dx",
+    "id": "playsports4:1795573620000:1kmb1dx",
     "channel": "playsports4",
     "title": "Pyjama Party Porno",
-    "start": 1795572660000,
-    "end": 1795576200000,
+    "start": 1795573620000,
+    "end": 1795577400000,
     "description": "3 sexy BFF-vriendinnen Curly, Lisa en Kimberly houden een pyjamafeestje. Ze spelen een spelletje flesje draaien en al snel loopt het uit de hand.",
     "category": [
       "Adult",
@@ -90,11 +90,11 @@
     }
   },
   {
-    "id": "playsports4:1795576200000:xykime",
+    "id": "playsports4:1795577400000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1795576200000,
-    "end": 1795585500000,
+    "start": 1795577400000,
+    "end": 1795587360000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -112,30 +112,6 @@
       "genres": [
         "Sport"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1795585500000:48zb9",
-    "channel": "playsports4",
-    "title": "Geen uitzending",
-    "start": 1795585500000,
-    "end": 1795587360000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9d5211ab5b96f1fb61e8a9ba348395e0cde8eb5b",
-      "episodeName": null,
-      "genres": [],
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
@@ -176,7 +152,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1795591140000,
-    "end": 1795600200000,
+    "end": 1795598700000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [
       "Sport",
@@ -199,6 +175,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+    }
+  },
+  {
+    "id": "playsports4:1795598700000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1795598700000,
+    "end": 1795600200000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9d5211ab5b96f1fb61e8a9ba348395e0cde8eb5b",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -236,7 +236,7 @@
     "channel": "playsports4",
     "title": "BNXT League",
     "start": 1795609980000,
-    "end": 1795618140000,
+    "end": 1795615020000,
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "category": [
       "Sport",
@@ -259,6 +259,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F661ceb2e-1af2-4e22-ba63-11876c112947"
+    }
+  },
+  {
+    "id": "playsports4:1795615020000:48zb9",
+    "channel": "playsports4",
+    "title": "Geen uitzending",
+    "start": 1795615020000,
+    "end": 1795618140000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:87b7ea99014b775eeb0abdef07b847883e44f66e",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
