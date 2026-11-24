@@ -64,7 +64,7 @@
     "channel": "playsports3",
     "title": "Play Sports",
     "start": 1795575960000,
-    "end": 1795588800000,
+    "end": 1795589100000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,33 +88,31 @@
     }
   },
   {
-    "id": "playsports3:1795588800000:1va4v2m",
+    "id": "playsports3:1795589100000:1ltn7gx",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1795588800000,
+    "title": "Wordt aangekondigd",
+    "start": 1795589100000,
     "end": 1795595100000,
-    "description": "Verslag van de wedstrijd N.E.C. - PSV uit de 13e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "De programmering wordt nog aangekondigd.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33560285~~2FEP035850992056%2Cimi%3Ab46faacb8fac1fcdf9a1fe0db406248e00a20516/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Af04dabadebd73135ca07f6800375eb9671af21dc/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026112156,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33560285~~2FEP035850992056,imi:b46faacb8fac1fcdf9a1fe0db406248e00a20516",
-      "episodeName": "N.E.C. - PSV",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:f04dabadebd73135ca07f6800375eb9671af21dc",
+      "episodeName": null,
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Entertainment"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -152,7 +150,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1795601400000,
-    "end": 1795607700000,
+    "end": 1795607640000,
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -178,10 +176,10 @@
     }
   },
   {
-    "id": "playsports3:1795607700000:ear1gl",
+    "id": "playsports3:1795607640000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1795607700000,
+    "start": 1795607640000,
     "end": 1795614300000,
     "description": "Verslag van de wedstrijd AZ - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [

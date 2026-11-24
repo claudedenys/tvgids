@@ -88,7 +88,7 @@
     "channel": "playsports-premierleague",
     "title": "UEFA Europa League",
     "start": 1795714800000,
-    "end": 1795722900000,
+    "end": 1795722000000,
     "description": "Vanuit het Abanca-Balaídos in Vigo, Galicië, Spanje.",
     "category": [
       "Sport",
@@ -111,6 +111,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8939f90e-0ecf-4043-9166-2261d34233db"
+    }
+  },
+  {
+    "id": "playsports-premierleague:1795722000000:i67pjl",
+    "channel": "playsports-premierleague",
+    "title": "Play Sports Highlights",
+    "start": 1795722000000,
+    "end": 1795722900000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F582739496%2Cimi%3Adff939b3f57575be0cdd75e633816c3bcbe74b22/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 582739496,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F582739496,imi:dff939b3f57575be0cdd75e633816c3bcbe74b22",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {

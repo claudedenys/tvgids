@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1795480380000,
     "end": 1795500000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -32,7 +32,7 @@
     "sport": null,
     "start": 1795474800000,
     "end": 1795496400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -55,7 +55,7 @@
     "sport": null,
     "start": 1795496400000,
     "end": 1795518000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -78,7 +78,7 @@
     "sport": null,
     "start": 1795518000000,
     "end": 1795539600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +124,7 @@
     "sport": null,
     "start": 1795484460000,
     "end": 1795503600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -138,16 +138,16 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795529340000:3tkxx5",
+    "id": "sport:playsports3:1795529520000:3tkxx5",
     "externalId": null,
     "title": "Aimé Anthuenis",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Voetbal",
-    "start": 1795529340000,
-    "end": 1795535640000,
-    "status": "aankomend",
+    "start": 1795529520000,
+    "end": 1795535940000,
+    "status": "live",
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Aimé Anthuenis.",
     "source": "epg",
     "platforms": [
@@ -161,15 +161,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795535640000:1p2p7re",
+    "id": "sport:playsports3:1795535940000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 23",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795535640000,
-    "end": 1795539300000,
+    "start": 1795535940000,
+    "end": 1795539480000,
     "status": "aankomend",
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "source": "epg",
@@ -184,14 +184,14 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795539300000:arbc9d",
+    "id": "sport:playsports3:1795539480000:arbc9d",
     "externalId": null,
     "title": "GP van Las Vegas: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795539300000,
+    "start": 1795539480000,
     "end": 1795540200000,
     "status": "aankomend",
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
@@ -308,7 +308,7 @@
     "sport": "Tennis",
     "start": 1795471740000,
     "end": 1795479900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -331,7 +331,7 @@
     "sport": "Motorsport",
     "start": 1795479900000,
     "end": 1795487220000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
     "source": "epg",
     "platforms": [
@@ -354,7 +354,7 @@
     "sport": null,
     "start": 1795487220000,
     "end": 1795499100000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -376,8 +376,8 @@
     "competition": null,
     "sport": null,
     "start": 1795506420000,
-    "end": 1795510560000,
-    "status": "aankomend",
+    "end": 1795510620000,
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
     "source": "epg",
     "platforms": [
@@ -391,16 +391,16 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795510560000:arbc9d",
+    "id": "sport:playsports4:1795510620000:arbc9d",
     "externalId": null,
     "title": "GP van Brazilië: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795510560000,
-    "end": 1795517940000,
-    "status": "aankomend",
+    "start": 1795510620000,
+    "end": 1795518060000,
+    "status": "afgelopen",
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
     "source": "epg",
     "platforms": [
@@ -414,14 +414,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795535460000:f9awoa",
+    "id": "sport:playsports4:1795535340000:f9awoa",
     "externalId": null,
     "title": "Dag 1: Zverev vs Jodar",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795535460000,
+    "start": 1795535340000,
     "end": 1795541700000,
     "status": "aankomend",
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
@@ -468,7 +468,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1795557300000,
-    "end": 1795558200000,
+    "end": 1795558260000,
     "status": "aankomend",
     "description": "Onze landgenoot incasseerde dit seizoen al 27 tegendoelpunten, maar treft de doelman telkens schuld? Ward Kerremans en Frank Boeckx nemen elk tegendoelpunt onder de loep en oordelen of Lammens al dan niet in de fout gaat.",
     "source": "epg",
@@ -483,15 +483,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795558200000:1mv1683",
+    "id": "sport:playsports4:1795558260000:1mv1683",
     "externalId": null,
     "title": "Tennis: WTA Finals 2026",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795558200000,
-    "end": 1795566300000,
+    "start": 1795558260000,
+    "end": 1795566420000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -515,7 +515,7 @@
     "sport": null,
     "start": 1795474800000,
     "end": 1795496400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -538,7 +538,7 @@
     "sport": null,
     "start": 1795496400000,
     "end": 1795518000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -561,7 +561,7 @@
     "sport": null,
     "start": 1795518000000,
     "end": 1795539600000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -630,7 +630,7 @@
     "sport": "Golf",
     "start": 1795476600000,
     "end": 1795487400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de derde dag van The RSM Classic, gespeeld in St. Simons, Georgia.",
     "source": "epg",
     "platforms": [
@@ -653,7 +653,7 @@
     "sport": "Golf",
     "start": 1795487400000,
     "end": 1795498200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van The RSM Classic, gespeeld in St. Simons, Georgia.",
     "source": "epg",
     "platforms": [
@@ -676,7 +676,7 @@
     "sport": "Golf",
     "start": 1795498200000,
     "end": 1795500000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
     "source": "epg",
     "platforms": [
@@ -699,7 +699,7 @@
     "sport": "Golf",
     "start": 1795500000000,
     "end": 1795510800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de derde dag van The RSM Classic, gespeeld in St. Simons, Georgia.",
     "source": "epg",
     "platforms": [
@@ -722,7 +722,7 @@
     "sport": "Golf",
     "start": 1795510800000,
     "end": 1795521600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van The RSM Classic, gespeeld in St. Simons, Georgia.",
     "source": "epg",
     "platforms": [
@@ -745,7 +745,7 @@
     "sport": "Golf",
     "start": 1795521600000,
     "end": 1795527000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de CME Group Tour Championship, gespeeld op de Ritz Carlton Golf Resort en Tiburón Golf Club in Naples, Florida.",
     "source": "epg",
     "platforms": [
@@ -768,7 +768,7 @@
     "sport": "Golf",
     "start": 1795527000000,
     "end": 1795528800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.",
     "source": "epg",
     "platforms": [
@@ -791,7 +791,7 @@
     "sport": "Golf",
     "start": 1795528800000,
     "end": 1795532400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Hoogtepunten van de Austin Championship, gespeeld op de Omni Barton Creek Resort & Spa in Austin, Texas.",
     "source": "epg",
     "platforms": [
@@ -943,17 +943,86 @@
     ]
   },
   {
-    "id": "sport:dazn1:1795480200000:Epg:1iua1qhxos2qw0ox6jdt6gkwg",
+    "id": "sport:dazn1:1795478400000:Epg:whreyd6fp8bz3bd0or5ubsjp",
     "externalId": null,
-    "title": "Nets @ Timberwolves",
+    "title": "Blazers @ 76ers",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795480200000,
+    "start": 1795478400000,
     "end": 1795491000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "NBA\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795482000000:Epg:k3tih4jrwd0o1rdrf76obyeqk",
+    "externalId": null,
+    "title": "Winthrop @ Illinois",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795482000000,
+    "end": 1795494600000,
+    "status": "afgelopen",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795494600000:Epg:1c2r39neiypt612iutg2wg2nuo",
+    "externalId": null,
+    "title": "NFL GameDay Final",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795494600000,
+    "end": 1795499100000,
+    "status": "afgelopen",
+    "description": "NFL Game Pass\nBekijk de laatste acties met NFL GameDay Final terwijl het panel de belangrijkste hoogtepunten en reacties na de wedstrijd bekijkt.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795500000000:Epg:1axkrwuw9t3a51ocfzzdvmu6er",
+    "externalId": null,
+    "title": "The Run Home with Scope and Fletch",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795500000000,
+    "end": 1795504500000,
+    "status": "afgelopen",
+    "description": "The Run Home with Scope and Fletch\nBekijk alle recentste actie van de NRL",
     "source": "epg",
     "platforms": [
       "DAZN 1"
@@ -989,29 +1058,6 @@
     ]
   },
   {
-    "id": "sport:dazn1:1795549500000:Epg:1r3qenvnmmi9i18jgte2rizn9q",
-    "externalId": null,
-    "title": "Hemel Hempstead Town vs. Braintree Town",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1795549500000,
-    "end": 1795557600000,
-    "status": "aankomend",
-    "description": "National League N / S\nWatch Soccer action as Hemel Hempstead Town takes on Braintree Town",
-    "source": "epg",
-    "platforms": [
-      "DAZN 1"
-    ],
-    "channels": [
-      "DAZN 1"
-    ],
-    "channelIds": [
-      "dazn1"
-    ]
-  },
-  {
     "id": "sport:dazn1:1795549500000:Epg:1jkv3j7h3fv2z1t83s1nrezjjj",
     "externalId": null,
     "title": "King's Lynn Town vs. Radcliffe",
@@ -1035,17 +1081,17 @@
     ]
   },
   {
-    "id": "sport:dazn2:1795482000000:Epg:z5eaoxeobg6m1xmf4mtkzl8tl",
+    "id": "sport:dazn2:1795480200000:Epg:1856icfca903cebf662t2axgp",
     "externalId": null,
-    "title": "Manningcast | MNF with Peyton & Eli: Bengals @ Commanders",
+    "title": "Nets @ Timberwolves",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": "Vechtsport",
-    "start": 1795482000000,
-    "end": 1795487400000,
-    "status": "aankomend",
-    "description": "NFL Game Pass\nVolg alle actie op DAZN.",
+    "sport": null,
+    "start": 1795480200000,
+    "end": 1795492800000,
+    "status": "afgelopen",
+    "description": "NBA\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
       "DAZN 2"
@@ -1058,7 +1104,7 @@
     ]
   },
   {
-    "id": "sport:dazn2:1795482900000:Epg:15njpu5c0t7oh1qbticktow4dh",
+    "id": "sport:dazn2:1795482900000:Epg:s37r5nickdii1tejazljxcn21",
     "externalId": null,
     "title": "Bengals @ Commanders",
     "home": null,
@@ -1066,8 +1112,8 @@
     "competition": null,
     "sport": "Vechtsport",
     "start": 1795482900000,
-    "end": 1795488300000,
-    "status": "aankomend",
+    "end": 1795495320000,
+    "status": "afgelopen",
     "description": "NFL Game Pass\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
@@ -1081,7 +1127,30 @@
     ]
   },
   {
-    "id": "sport:dazn2:1795482900000:Epg:1rulof42g6yjf1q4apc35lx0td",
+    "id": "sport:dazn3:1795482000000:Epg:1hy9rjl9vhe351ewj70yiynx77",
+    "externalId": null,
+    "title": "Manningcast | MNF with Peyton & Eli: Bengals @ Commanders",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Vechtsport",
+    "start": 1795482000000,
+    "end": 1795494320000,
+    "status": "afgelopen",
+    "description": "NFL Game Pass\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:dazn3:1795482900000:Epg:1s57wqplu3j91vs99sm163rtn",
     "externalId": null,
     "title": "Bengals @ Commanders (Spanish Broadcast)",
     "home": null,
@@ -1089,55 +1158,9 @@
     "competition": null,
     "sport": "Vechtsport",
     "start": 1795482900000,
-    "end": 1795488300000,
-    "status": "aankomend",
+    "end": 1795494221000,
+    "status": "afgelopen",
     "description": "NFL Game Pass\nVolg alle actie op DAZN.",
-    "source": "epg",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
-    "channelIds": [
-      "dazn2"
-    ]
-  },
-  {
-    "id": "sport:dazn2:1795500000000:Epg:1dbxd7tkvf8my1qpt3lrf3jk1b",
-    "externalId": null,
-    "title": "The Run Home with Scope and Fletch",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1795500000000,
-    "end": 1795510800000,
-    "status": "aankomend",
-    "description": "The Run Home with Scope and Fletch\nBekijk alle recentste actie van de NRL",
-    "source": "epg",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
-    "channelIds": [
-      "dazn2"
-    ]
-  },
-  {
-    "id": "sport:dazn3:1795482000000:Epg:1r9fkqohpz8ad1bl8hmo763ez0",
-    "externalId": null,
-    "title": "Winthrop @ Illinois",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1795482000000,
-    "end": 1795492800000,
-    "status": "aankomend",
-    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
       "DAZN 3"
@@ -1159,7 +1182,7 @@
     "sport": "Voetbal",
     "start": 1795473960000,
     "end": 1795480380000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1182,7 +1205,7 @@
     "sport": "Voetbal",
     "start": 1795500000000,
     "end": 1795506180000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Volksparkstadion in Hamburg, Duitsland",
     "source": "epg",
     "platforms": [
@@ -1205,7 +1228,7 @@
     "sport": "Voetbal",
     "start": 1795506180000,
     "end": 1795512720000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de SNP Arena in Sinsheim, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1228,7 +1251,7 @@
     "sport": "Voetbal",
     "start": 1795512720000,
     "end": 1795519200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het BVB Stadion Dortmund in Dortmund, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1251,7 +1274,7 @@
     "sport": "Voetbal",
     "start": 1795519200000,
     "end": 1795525740000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Hill Dickinson Stadium in Liverpool, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1274,7 +1297,7 @@
     "sport": "Voetbal",
     "start": 1795525740000,
     "end": 1795532340000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Selhurst Park in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1297,7 +1320,7 @@
     "sport": "Voetbal",
     "start": 1795532340000,
     "end": 1795538640000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit het Emirates Stadium in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1412,7 +1435,7 @@
     "sport": "Voetbal",
     "start": 1795478160000,
     "end": 1795484460000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1435,7 +1458,7 @@
     "sport": "Voetbal",
     "start": 1795503600000,
     "end": 1795509900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd sc Heerenveen - Feyenoord uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1457,8 +1480,8 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1795509900000,
-    "end": 1795516440000,
-    "status": "aankomend",
+    "end": 1795516500000,
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd FC Twente - Ajax uit de 12e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1472,16 +1495,16 @@
     ]
   },
   {
-    "id": "sport:match:1795516440000:az - juventus",
+    "id": "sport:match:1795516500000:az - juventus",
     "externalId": null,
     "title": "AZ - Juventus",
     "home": "AZ",
     "away": "Juventus",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1795516440000,
-    "end": 1795522980000,
-    "status": "aankomend",
+    "start": 1795516500000,
+    "end": 1795523100000,
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd AZ - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1495,16 +1518,16 @@
     ]
   },
   {
-    "id": "sport:match:1795522980000:celtic - besiktas",
+    "id": "sport:match:1795523100000:celtic - besiktas",
     "externalId": null,
     "title": "Celtic - Beşiktaş",
     "home": "Celtic",
     "away": "Beşiktaş",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1795522980000,
-    "end": 1795529340000,
-    "status": "aankomend",
+    "start": 1795523100000,
+    "end": 1795529520000,
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Celtic - Beşiktaş, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1573,7 +1596,7 @@
     "sport": "Basketbal",
     "start": 1795499100000,
     "end": 1795506420000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",
     "platforms": [
@@ -1587,16 +1610,16 @@
     ]
   },
   {
-    "id": "sport:match:1795517940000:shelton - alcaraz (finale)",
+    "id": "sport:match:1795518060000:shelton - alcaraz (finale)",
     "externalId": null,
     "title": "Shelton - Alcaraz (Finale)",
     "home": "Shelton",
     "away": "Alcaraz (Finale)",
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795517940000,
-    "end": 1795527780000,
-    "status": "aankomend",
+    "start": 1795518060000,
+    "end": 1795527900000,
+    "status": "afgelopen",
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
     "platforms": [
@@ -1610,16 +1633,16 @@
     ]
   },
   {
-    "id": "sport:match:1795527780000:antwerp giants - brussels",
+    "id": "sport:match:1795527900000:antwerp giants - brussels",
     "externalId": null,
     "title": "Antwerp Giants - Brussels",
     "home": "Antwerp Giants",
     "away": "Brussels",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1795527780000,
-    "end": 1795535460000,
-    "status": "aankomend",
+    "start": 1795527900000,
+    "end": 1795535340000,
+    "status": "live",
     "description": "Vanuit de Lotto Arena in Antwerpen, België.",
     "source": "epg",
     "platforms": [
@@ -1725,11 +1748,34 @@
     ]
   },
   {
-    "id": "sport:match:1795549500000:boston united - barrow",
+    "id": "sport:match:1795545000000:fort myers tip-off: pittsburgh vs. oklahoma",
     "externalId": null,
-    "title": "Boston United - Barrow",
-    "home": "Boston United",
-    "away": "Barrow",
+    "title": "Fort Myers Tip-Off: Pittsburgh vs. Oklahoma",
+    "home": "Fort Myers Tip",
+    "away": "Off: Pittsburgh vs. Oklahoma",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795545000000,
+    "end": 1795555800000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795549500000:fylde - fc halifax town",
+    "externalId": null,
+    "title": "Fylde - FC Halifax Town",
+    "home": "Fylde",
+    "away": "FC Halifax Town",
     "competition": null,
     "sport": null,
     "start": 1795549500000,
@@ -1955,11 +2001,11 @@
     ]
   },
   {
-    "id": "sport:match:1795559400000:players era 16 - iowa state vs. san diego state",
+    "id": "sport:match:1795559400000:players era 16 - michigan vs. creighton",
     "externalId": null,
-    "title": "Players Era 16 - Iowa State vs. San Diego State",
+    "title": "Players Era 16 - Michigan vs. Creighton",
     "home": "Players Era 16",
-    "away": "Iowa State vs. San Diego State",
+    "away": "Michigan vs. Creighton",
     "competition": null,
     "sport": "Basketbal",
     "start": 1795559400000,
@@ -1978,57 +2024,11 @@
     ]
   },
   {
-    "id": "sport:match:1795485600000:maui invitational - quarterfinal: providence vs. vcu",
+    "id": "sport:match:1795549500000:boston united - barrow",
     "externalId": null,
-    "title": "Maui Invitational - Quarterfinal: Providence vs. VCU",
-    "home": "Maui Invitational",
-    "away": "Quarterfinal: Providence vs. VCU",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1795485600000,
-    "end": 1795496400000,
-    "status": "aankomend",
-    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
-    "source": "epg",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
-    "channelIds": [
-      "dazn2"
-    ]
-  },
-  {
-    "id": "sport:match:1795545000000:fort myers tip-off: pittsburgh vs. oklahoma",
-    "externalId": null,
-    "title": "Fort Myers Tip-Off: Pittsburgh vs. Oklahoma",
-    "home": "Fort Myers Tip",
-    "away": "Off: Pittsburgh vs. Oklahoma",
-    "competition": null,
-    "sport": "Basketbal",
-    "start": 1795545000000,
-    "end": 1795555800000,
-    "status": "aankomend",
-    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
-    "source": "epg",
-    "platforms": [
-      "DAZN 2"
-    ],
-    "channels": [
-      "DAZN 2"
-    ],
-    "channelIds": [
-      "dazn2"
-    ]
-  },
-  {
-    "id": "sport:match:1795549500000:fylde - fc halifax town",
-    "externalId": null,
-    "title": "Fylde - FC Halifax Town",
-    "home": "Fylde",
-    "away": "FC Halifax Town",
+    "title": "Boston United - Barrow",
+    "home": "Boston United",
+    "away": "Barrow",
     "competition": null,
     "sport": null,
     "start": 1795549500000,
@@ -2070,16 +2070,39 @@
     ]
   },
   {
-    "id": "sport:match:1795494600000:maui invitational - quarterfinal: arizona vs. colorado state",
+    "id": "sport:match:1795559400000:players era 16 - iowa state vs. san diego state",
     "externalId": null,
-    "title": "Maui Invitational - Quarterfinal: Arizona vs. Colorado State",
-    "home": "Maui Invitational",
-    "away": "Quarterfinal: Arizona vs. Colorado State",
+    "title": "Players Era 16 - Iowa State vs. San Diego State",
+    "home": "Players Era 16",
+    "away": "Iowa State vs. San Diego State",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1795494600000,
-    "end": 1795505400000,
+    "start": 1795559400000,
+    "end": 1795570200000,
     "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795485600000:maui invitational - quarterfinal: providence vs. vcu",
+    "externalId": null,
+    "title": "Maui Invitational - Quarterfinal: Providence vs. VCU",
+    "home": "Maui Invitational",
+    "away": "Quarterfinal: Providence vs. VCU",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795485600000,
+    "end": 1795494442000,
+    "status": "afgelopen",
     "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
@@ -2093,11 +2116,34 @@
     ]
   },
   {
-    "id": "sport:match:1795548600000:maui invitational - semifinal 1: tbd vs. tbd",
+    "id": "sport:match:1795494600000:maui invitational - quarterfinal: arizona vs. colorado state",
     "externalId": null,
-    "title": "Maui Invitational - Semifinal 1: TBD vs. TBD",
+    "title": "Maui Invitational - Quarterfinal: Arizona vs. Colorado State",
     "home": "Maui Invitational",
-    "away": "Semifinal 1: TBD vs. TBD",
+    "away": "Quarterfinal: Arizona vs. Colorado State",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795494600000,
+    "end": 1795503507000,
+    "status": "afgelopen",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1795548600000:maui invitational - semifinal: byu vs. ole miss",
+    "externalId": null,
+    "title": "Maui Invitational - Semifinal: BYU vs. Ole Miss",
+    "home": "Maui Invitational",
+    "away": "Semifinal: BYU vs. Ole Miss",
     "competition": null,
     "sport": "Basketbal",
     "start": 1795548600000,
@@ -2116,11 +2162,11 @@
     ]
   },
   {
-    "id": "sport:match:1795557600000:maui invitational - semifinal 2: tbd vs. tbd",
+    "id": "sport:match:1795557600000:maui invitational - semifinal: arizona vs. providence",
     "externalId": null,
-    "title": "Maui Invitational - Semifinal 2: TBD vs. TBD",
+    "title": "Maui Invitational - Semifinal: Arizona vs. Providence",
     "home": "Maui Invitational",
-    "away": "Semifinal 2: TBD vs. TBD",
+    "away": "Semifinal: Arizona vs. Providence",
     "competition": null,
     "sport": "Basketbal",
     "start": 1795557600000,

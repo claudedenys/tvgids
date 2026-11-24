@@ -118,7 +118,7 @@
     "channel": "play7",
     "title": "Geen uitzending",
     "start": 1795665600000,
-    "end": 1795667100000,
+    "end": 1795670100000,
     "description": null,
     "category": [],
     "image": null,
@@ -135,36 +135,6 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
-    }
-  },
-  {
-    "id": "play7:1795667100000:k7tna9",
-    "channel": "play7",
-    "title": "Naked Attraction",
-    "start": 1795667100000,
-    "end": 1795670100000,
-    "description": "Na een rampzalige date met voormalig worstelaar Jet Fashion, is model Illy teruggekeerd voor een tweede kans op liefde. Voormalig stripper 'Dazzling Damo' is weer thuis op de boerderij van zijn ouders in Ierland.",
-    "category": [
-      "Reality",
-      "Romantiek"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26787815~~2FEP028839260099%2Cimi%3Aedf4240f1a1f3bbd9700fec6298d539df980eadc/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 12,
-    "episode": 1,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26787815~~2FEP028839260099,imi:edf4240f1a1f3bbd9700fec6298d539df980eadc",
-      "episodeName": "Illy & Damo",
-      "genres": [
-        "Reality",
-        "Romantiek"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0ea3b268-60e1-49bf-8fd6-2f34790ad668"
     }
   },
   {
@@ -436,33 +406,31 @@
     }
   },
   {
-    "id": "play7:1795690500000:k7tna9",
+    "id": "play7:1795690500000:1lfzcag",
     "channel": "play7",
-    "title": "Naked Attraction",
+    "title": "Fur Babies",
     "start": 1795690500000,
     "end": 1795694100000,
-    "description": "Astrologie is Jane's passie, dus wil ze een spirituele man aantrekken met een sterrenbeeld dat bij haar past. Anthony beschouwt zichzelf niet als een typische Geordie-lad die altijd op stap is. Hij is liever thuis met zijn hond en een slimme meid.",
+    "description": "Lorraine en Kevin, die hun bed al delen met acht honden, bereiden zich voor op de thuisbevalling van cockapoo Nala. Ontdek of de kippen van de elfjarige Bessie kuikens zullen krijgen.",
     "category": [
-      "Reality",
-      "Romantiek"
+      "Dieren"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26889426~~2FEP028839260101%2Cimi%3Ad47500ee170d7bda01d02ebb75b9e42141992bf3/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26112670~~2FEP060698920004%2Cimi%3A7d1db24ec960a19b7fa6b0125a34389fff93720a/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 12,
-    "episode": 3,
+    "season": 1,
+    "episode": 4,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F26889426~~2FEP028839260101,imi:d47500ee170d7bda01d02ebb75b9e42141992bf3",
-      "episodeName": "Jane & Anthony",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26112670~~2FEP060698920004,imi:7d1db24ec960a19b7fa6b0125a34389fff93720a",
+      "episodeName": "Aflevering 4",
       "genres": [
-        "Reality",
-        "Romantiek"
+        "Dieren"
       ],
-      "productionDate": "2024",
+      "productionDate": "2023",
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0ea3b268-60e1-49bf-8fd6-2f34790ad668"
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26112660~~2FSH060698920000"
     }
   },
   {

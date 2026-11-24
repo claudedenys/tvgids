@@ -178,33 +178,31 @@
     }
   },
   {
-    "id": "playsports3:1795691640000:1va4v2m",
+    "id": "playsports3:1795691640000:1ltn7gx",
     "channel": "playsports3",
-    "title": "Eredivisie",
+    "title": "Wordt aangekondigd",
     "start": 1795691640000,
     "end": 1795697940000,
-    "description": "Verslag van de wedstrijd N.E.C. - PSV uit de 13e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "De programmering wordt nog aangekondigd.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Entertainment"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33560285~~2FEP035850992056%2Cimi%3A51e3ffd9b3e2318fa01284f31f30a9539d1a72c4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Af3dc529372bef0b854427cf92088f37730a62cca/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026112156,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33560285~~2FEP035850992056,imi:51e3ffd9b3e2318fa01284f31f30a9539d1a72c4",
-      "episodeName": "N.E.C. - PSV",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:f3dc529372bef0b854427cf92088f37730a62cca",
+      "episodeName": null,
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Entertainment"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

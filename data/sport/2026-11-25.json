@@ -8,7 +8,7 @@
     "competition": null,
     "sport": null,
     "start": 1795564980000,
-    "end": 1795586400000,
+    "end": 1795587900000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -31,7 +31,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1795626000000,
-    "end": 1795629300000,
+    "end": 1795629180000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -46,15 +46,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1795629300000:fly4em",
+    "id": "sport:playsports1:1795629180000:fly4em",
     "externalId": null,
     "title": "Aflevering 10",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795629300000,
-    "end": 1795632600000,
+    "start": 1795629180000,
+    "end": 1795632360000,
     "status": "aankomend",
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "source": "epg",
@@ -169,9 +169,32 @@
     "competition": null,
     "sport": null,
     "start": 1795575960000,
-    "end": 1795588800000,
+    "end": 1795589100000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1795589100000:1ltn7gx",
+    "externalId": null,
+    "title": "Wordt aangekondigd",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795589100000,
+    "end": 1795595100000,
+    "status": "aankomend",
+    "description": "De programmering wordt nog aangekondigd.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -345,15 +368,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795558200000:1mv1683",
+    "id": "sport:playsports4:1795558260000:1mv1683",
     "externalId": null,
     "title": "Tennis: WTA Finals 2026",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795558200000,
-    "end": 1795566300000,
+    "start": 1795558260000,
+    "end": 1795566420000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -368,15 +391,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795566300000:arbc9d",
+    "id": "sport:playsports4:1795566420000:arbc9d",
     "externalId": null,
     "title": "GP van Brazilië: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795566300000,
-    "end": 1795573620000,
+    "start": 1795566420000,
+    "end": 1795573800000,
     "status": "aankomend",
     "description": "Vanaf het Autódromo José Carlos Pace in São Paulo, Brazilië.",
     "source": "epg",
@@ -391,14 +414,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795573620000:1kmb1dx",
+    "id": "sport:playsports4:1795573800000:1kmb1dx",
     "externalId": null,
     "title": "Pyjama Party Porno",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795573620000,
+    "start": 1795573800000,
     "end": 1795577400000,
     "status": "aankomend",
     "description": "3 sexy BFF-vriendinnen Curly, Lisa en Kimberly houden een pyjamafeestje. Ze spelen een spelletje flesje draaien en al snel loopt het uit de hand.",
@@ -422,7 +445,7 @@
     "competition": null,
     "sport": null,
     "start": 1795577400000,
-    "end": 1795587360000,
+    "end": 1795586100000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -437,15 +460,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795587360000:3y5tln",
+    "id": "sport:playsports4:1795586100000:3y5tln",
     "externalId": null,
     "title": "GP van Portugal: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795587360000,
-    "end": 1795591140000,
+    "start": 1795586100000,
+    "end": 1795592160000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Portugal, gereden in Portimão, Portugal.",
     "source": "epg",
@@ -460,15 +483,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795591140000:arbc9d",
+    "id": "sport:playsports4:1795592160000:arbc9d",
     "externalId": null,
     "title": "GP van Las Vegas: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795591140000,
-    "end": 1795598700000,
+    "start": 1795592160000,
+    "end": 1795599660000,
     "status": "aankomend",
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "source": "epg",
@@ -483,14 +506,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795618140000:f9awoa",
+    "id": "sport:playsports4:1795618080000:f9awoa",
     "externalId": null,
     "title": "Dag 1: Zverev vs Jodar",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795618140000,
+    "start": 1795618080000,
     "end": 1795624500000,
     "status": "aankomend",
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
@@ -552,17 +575,17 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795643700000:1aturhn",
+    "id": "sport:playsports4:1795643700000:14gsuik",
     "externalId": null,
-    "title": "Ruben Bemelmans",
+    "title": "Senne Lammens onder de loep",
     "home": null,
     "away": null,
     "competition": null,
-    "sport": "Tennis",
+    "sport": "Voetbal",
     "start": 1795643700000,
-    "end": 1795647300000,
+    "end": 1795644600000,
     "status": "aankomend",
-    "description": null,
+    "description": "Onze landgenoot incasseerde dit seizoen al 27 tegendoelpunten, maar treft de doelman telkens schuld? Ward Kerremans en Frank Boeckx nemen elk tegendoelpunt onder de loep en oordelen of Lammens al dan niet in de fout gaat.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"
@@ -575,15 +598,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795647300000:1mv1683",
+    "id": "sport:playsports4:1795644600000:1aturhn",
     "externalId": null,
-    "title": "Tennis: WTA Finals 2026",
+    "title": "Ruben Bemelmans",
     "home": null,
     "away": null,
-    "competition": "Tennis",
+    "competition": null,
     "sport": "Tennis",
-    "start": 1795647300000,
-    "end": 1795655460000,
+    "start": 1795644600000,
+    "end": 1795648200000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -966,6 +989,190 @@
     ]
   },
   {
+    "id": "sport:dazn1:1795566600000:Epg:1172jxfka21se1bhtzf2oa0w0g",
+    "externalId": null,
+    "title": "College Football Playoff Rankings Show",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795566600000,
+    "end": 1795577400000,
+    "status": "aankomend",
+    "description": "NCAA Football\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795586400000:Epg:gjnjnp1e958t1jyf1lpcbuuop",
+    "externalId": null,
+    "title": "The Run Home with Scope and Fletch",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795586400000,
+    "end": 1795597200000,
+    "status": "aankomend",
+    "description": "The Run Home with Scope and Fletch\nBekijk alle recentste actie van de NRL",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795626000000:Epg:10igpmdjyw4rf1ghpdyemencxz",
+    "externalId": null,
+    "title": "Battle 4 Atlantis: Virginia vs. Marquette",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795626000000,
+    "end": 1795636800000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn1:1795644000000:Epg:55q75cdprlj5xb6zrm54s9eo7",
+    "externalId": null,
+    "title": "Heat @ 76ers",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795644000000,
+    "end": 1795654800000,
+    "status": "aankomend",
+    "description": "NBA\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:dazn2:1795564800000:Epg:50adoxvownwd1041p71bf2ucp",
+    "externalId": null,
+    "title": "Vanderbilt @ Ohio State",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795564800000,
+    "end": 1795575600000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:dazn3:1795564800000:Epg:wdk014vtfnmf1xg3sfpvfix8y",
+    "externalId": null,
+    "title": "Miami (OH) @ Western Michigan",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795564800000,
+    "end": 1795575600000,
+    "status": "aankomend",
+    "description": "NCAA Football\nWatch American Football action as Miami (OH) takes on Western Michigan.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:dazn3:1795568400000:Epg:1xhztlu0eqdve1979wvstoqzlc",
+    "externalId": null,
+    "title": "Hall of Fame Women's Showcase: South Carolina @ UConn",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795568400000,
+    "end": 1795579200000,
+    "status": "aankomend",
+    "description": "NCAA Women's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:dazn3:1795644000000:Epg:g4gmhtiuqfa311i6yyiaih90n",
+    "externalId": null,
+    "title": "Southern @ Nebraska",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795644000000,
+    "end": 1795654800000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
     "id": "sport:match:1795558560000:everton - coventry city",
     "externalId": null,
     "title": "Everton - Coventry City",
@@ -989,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1795586400000:bayern munchen - 1. fc koln",
+    "id": "sport:match:1795587900000:bayern munchen - 1. fc koln",
     "externalId": null,
     "title": "Bayern München - 1. FC Köln",
     "home": "Bayern München",
     "away": "1. FC Köln",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795586400000,
-    "end": 1795592700000,
+    "start": 1795587900000,
+    "end": 1795594140000,
     "status": "aankomend",
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "source": "epg",
@@ -1012,15 +1219,15 @@
     ]
   },
   {
-    "id": "sport:match:1795592700000:borussia monchengladbach - borussia dortmund",
+    "id": "sport:match:1795594140000:borussia monchengladbach - borussia dortmund",
     "externalId": null,
     "title": "Borussia Mönchengladbach - Borussia Dortmund",
     "home": "Borussia Mönchengladbach",
     "away": "Borussia Dortmund",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795592700000,
-    "end": 1795599000000,
+    "start": 1795594140000,
+    "end": 1795600260000,
     "status": "aankomend",
     "description": "Vanuit het Borussia-Park in Mönchengladbach, Duitsland.",
     "source": "epg",
@@ -1035,15 +1242,15 @@
     ]
   },
   {
-    "id": "sport:match:1795599000000:fc schalke 04 - vfb stuttgart",
+    "id": "sport:match:1795600260000:fc schalke 04 - vfb stuttgart",
     "externalId": null,
     "title": "FC Schalke 04 - VfB Stuttgart",
     "home": "FC Schalke 04",
     "away": "VfB Stuttgart",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795599000000,
-    "end": 1795605300000,
+    "start": 1795600260000,
+    "end": 1795606380000,
     "status": "aankomend",
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "source": "epg",
@@ -1058,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1795605300000:chelsea - leeds united",
+    "id": "sport:match:1795606380000:chelsea - leeds united",
     "externalId": null,
     "title": "Chelsea - Leeds United",
     "home": "Chelsea",
     "away": "Leeds United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795605300000,
-    "end": 1795612500000,
+    "start": 1795606380000,
+    "end": 1795612800000,
     "status": "aankomend",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
@@ -1081,15 +1288,15 @@
     ]
   },
   {
-    "id": "sport:match:1795612500000:newcastle united - arsenal",
+    "id": "sport:match:1795612800000:newcastle united - arsenal",
     "externalId": null,
     "title": "Newcastle United - Arsenal",
     "home": "Newcastle United",
     "away": "Arsenal",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795612500000,
-    "end": 1795619700000,
+    "start": 1795612800000,
+    "end": 1795619280000,
     "status": "aankomend",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "source": "epg",
@@ -1104,14 +1311,14 @@
     ]
   },
   {
-    "id": "sport:match:1795619700000:werder bremen - hsv",
+    "id": "sport:match:1795619280000:werder bremen - hsv",
     "externalId": null,
     "title": "Werder Bremen - HSV",
     "home": "Werder Bremen",
     "away": "HSV",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795619700000,
+    "start": 1795619280000,
     "end": 1795626000000,
     "status": "aankomend",
     "description": "Vanuit het Weserstadion in Bremen, Duitsland.",
@@ -1127,15 +1334,15 @@
     ]
   },
   {
-    "id": "sport:match:1795632600000:manchester city - fulham",
+    "id": "sport:match:1795632360000:manchester city - fulham",
     "externalId": null,
     "title": "Manchester City - Fulham",
     "home": "Manchester City",
     "away": "Fulham",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795632600000,
-    "end": 1795638900000,
+    "start": 1795632360000,
+    "end": 1795638600000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "source": "epg",
@@ -1150,15 +1357,15 @@
     ]
   },
   {
-    "id": "sport:match:1795638900000:liverpool - manchester united",
+    "id": "sport:match:1795638600000:liverpool - manchester united",
     "externalId": null,
     "title": "Liverpool - Manchester United",
     "home": "Liverpool",
     "away": "Manchester United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795638900000,
-    "end": 1795646100000,
+    "start": 1795638600000,
+    "end": 1795644660000,
     "status": "aankomend",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
@@ -1173,15 +1380,15 @@
     ]
   },
   {
-    "id": "sport:match:1795646100000:hull city - brighton & hove albion",
+    "id": "sport:match:1795644660000:hull city - brighton & hove albion",
     "externalId": null,
     "title": "Hull City - Brighton & Hove Albion",
     "home": "Hull City",
     "away": "Brighton & Hove Albion",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795646100000,
-    "end": 1795652640000,
+    "start": 1795644660000,
+    "end": 1795651200000,
     "status": "aankomend",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
@@ -1242,29 +1449,6 @@
     ]
   },
   {
-    "id": "sport:match:1795588800000:n.e.c. - psv",
-    "externalId": null,
-    "title": "N.E.C. - PSV",
-    "home": "N.E.C.",
-    "away": "PSV",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1795588800000,
-    "end": 1795595100000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd N.E.C. - PSV uit de 13e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
     "id": "sport:match:1795595100000:feyenoord - excelsior",
     "externalId": null,
     "title": "Feyenoord - Excelsior",
@@ -1296,7 +1480,7 @@
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1795601400000,
-    "end": 1795607700000,
+    "end": 1795607640000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1311,14 +1495,14 @@
     ]
   },
   {
-    "id": "sport:match:1795607700000:az - juventus",
+    "id": "sport:match:1795607640000:az - juventus",
     "externalId": null,
     "title": "AZ - Juventus",
     "home": "AZ",
     "away": "Juventus",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1795607700000,
+    "start": 1795607640000,
     "end": 1795614300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd AZ - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
@@ -1403,15 +1587,15 @@
     ]
   },
   {
-    "id": "sport:match:1795600200000:shelton - alcaraz (finale)",
+    "id": "sport:match:1795599660000:shelton - alcaraz (finale)",
     "externalId": null,
     "title": "Shelton - Alcaraz (Finale)",
     "home": "Shelton",
     "away": "Alcaraz (Finale)",
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795600200000,
-    "end": 1795609980000,
+    "start": 1795599660000,
+    "end": 1795609440000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
@@ -1426,15 +1610,15 @@
     ]
   },
   {
-    "id": "sport:match:1795609980000:limburg united - aalst",
+    "id": "sport:match:1795609440000:limburg united - aalst",
     "externalId": null,
     "title": "Limburg United - Aalst",
     "home": "Limburg United",
     "away": "Aalst",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1795609980000,
-    "end": 1795615020000,
+    "start": 1795609440000,
+    "end": 1795618080000,
     "status": "aankomend",
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "source": "epg",
@@ -1653,6 +1837,236 @@
     ],
     "channelIds": [
       "playsports-golf"
+    ]
+  },
+  {
+    "id": "sport:match:1795561200000:fort myers tip-off: purdue vs. depaul",
+    "externalId": null,
+    "title": "Fort Myers Tip-Off: Purdue vs. DePaul",
+    "home": "Fort Myers Tip",
+    "away": "Off: Purdue vs. DePaul",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795561200000,
+    "end": 1795572000000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795575600000:players era 16 - alabama vs. baylor",
+    "externalId": null,
+    "title": "Players Era 16 - Alabama vs. Baylor",
+    "home": "Players Era 16",
+    "away": "Alabama vs. Baylor",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795575600000,
+    "end": 1795586400000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795635900000:harrogate - kidderminster",
+    "externalId": null,
+    "title": "Harrogate - Kidderminster",
+    "home": "Harrogate",
+    "away": "Kidderminster",
+    "competition": null,
+    "sport": null,
+    "start": 1795635900000,
+    "end": 1795644000000,
+    "status": "aankomend",
+    "description": "National League\nOntdek de National League op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 1"
+    ],
+    "channels": [
+      "DAZN 1"
+    ],
+    "channelIds": [
+      "dazn1"
+    ]
+  },
+  {
+    "id": "sport:match:1795568400000:players era 16 - louisville vs. texas tech",
+    "externalId": null,
+    "title": "Players Era 16 - Louisville vs. Texas Tech",
+    "home": "Players Era 16",
+    "away": "Louisville vs. Texas Tech",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795568400000,
+    "end": 1795579200000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795577400000:players era 16 - st. john's vs. oregon",
+    "externalId": null,
+    "title": "Players Era 16 - St. John's vs. Oregon",
+    "home": "Players Era 16",
+    "away": "St. John's vs. Oregon",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795577400000,
+    "end": 1795588200000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795635000000:maui invitational - championship: tbd vs. tbd",
+    "externalId": null,
+    "title": "Maui Invitational - Championship: TBD vs. TBD",
+    "home": "Maui Invitational",
+    "away": "Championship: TBD vs. TBD",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795635000000,
+    "end": 1795645800000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795645800000:maui invitational - 3rd place game: tbd vs. tbd",
+    "externalId": null,
+    "title": "Maui Invitational - 3rd Place Game: TBD vs. TBD",
+    "home": "Maui Invitational",
+    "away": "3rd Place Game: TBD vs. TBD",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795645800000,
+    "end": 1795656600000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 2"
+    ],
+    "channels": [
+      "DAZN 2"
+    ],
+    "channelIds": [
+      "dazn2"
+    ]
+  },
+  {
+    "id": "sport:match:1795584600000:players era 16 - gonzaga vs. kansas state",
+    "externalId": null,
+    "title": "Players Era 16 - Gonzaga vs. Kansas State",
+    "home": "Players Era 16",
+    "away": "Gonzaga vs. Kansas State",
+    "competition": null,
+    "sport": "Basketbal",
+    "start": 1795584600000,
+    "end": 1795595400000,
+    "status": "aankomend",
+    "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1795633200000:boreham wood - aldershot",
+    "externalId": null,
+    "title": "Boreham Wood - Aldershot",
+    "home": "Boreham Wood",
+    "away": "Aldershot",
+    "competition": null,
+    "sport": null,
+    "start": 1795633200000,
+    "end": 1795641300000,
+    "status": "aankomend",
+    "description": "National League\nOntdek de National League op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
+    ]
+  },
+  {
+    "id": "sport:match:1795635900000:hartlepool - solihull moors",
+    "externalId": null,
+    "title": "Hartlepool - Solihull Moors",
+    "home": "Hartlepool",
+    "away": "Solihull Moors",
+    "competition": null,
+    "sport": "Biljart",
+    "start": 1795635900000,
+    "end": 1795644000000,
+    "status": "aankomend",
+    "description": "National League\nOntdek de National League op DAZN.",
+    "source": "epg",
+    "platforms": [
+      "DAZN 3"
+    ],
+    "channels": [
+      "DAZN 3"
+    ],
+    "channelIds": [
+      "dazn3"
     ]
   }
 ]
