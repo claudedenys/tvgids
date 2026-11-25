@@ -34,7 +34,7 @@
     "channel": "play6",
     "title": "Pawn Stars: Best Of",
     "start": 1795655100000,
-    "end": 1795658400000,
+    "end": 1795657500000,
     "description": "Er komt een man binnen met een Colt .45 waarvan hij beweert dat die is gebruikt om Jesse James te doden. Een antieke gereedschapskist voor professionele gokkers. Een visitekaartje van de beruchte revolverheld John Wesley Hardin.",
     "category": [
       "Reality",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play6:1795658400000:1bppwog",
+    "id": "play6:1795657500000:1bppwog",
     "channel": "play6",
     "title": "Blue Bloods",
-    "start": 1795658400000,
-    "end": 1795660800000,
+    "start": 1795657500000,
+    "end": 1795660200000,
     "description": "Eddie en Jamie behandelen een zaak van huiselijk geweld die verband houdt met een onderzoek onder leiding van Danny en Baez. Frank en zijn vriend proberen met een nieuwe blik naar de stad te kijken. Erin krijgt een verrassend aanbod.",
     "category": [
       "Misdaaddrama",
@@ -90,11 +90,11 @@
     }
   },
   {
-    "id": "play6:1795660800000:48zb9",
+    "id": "play6:1795660200000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1795660800000,
-    "end": 1795665600000,
+    "start": 1795660200000,
+    "end": 1795665000000,
     "description": null,
     "category": [],
     "image": null,
@@ -106,6 +106,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:9835995dfb1388e877bc26bc405f4bf31c08a101",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1795665000000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1795665000000,
+    "end": 1795665600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:3ae9f44dda048d0894fd740cade7cda9727c894e",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

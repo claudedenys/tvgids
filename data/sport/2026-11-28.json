@@ -8,7 +8,7 @@
     "competition": null,
     "sport": null,
     "start": 1795825800000,
-    "end": 1795845000000,
+    "end": 1795845300000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -322,15 +322,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795828500000:xykime",
+    "id": "sport:playsports3:1795829100000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795828500000,
-    "end": 1795845900000,
+    "start": 1795829100000,
+    "end": 1795845300000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -345,38 +345,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795872300000:3tkxx5",
-    "externalId": null,
-    "title": "Divock Origi",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1795872300000,
-    "end": 1795877700000,
-    "status": "aankomend",
-    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Divock Origi.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1795884900000:1p3n9ye",
+    "id": "sport:playsports3:1795876800000:1p3n9ye",
     "externalId": null,
     "title": "Aflevering 11",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
-    "start": 1795884900000,
-    "end": 1795886700000,
+    "start": 1795876800000,
+    "end": 1795878600000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -391,9 +368,78 @@
     ]
   },
   {
+    "id": "sport:playsports3:1795878600000:1p2p7re",
+    "externalId": null,
+    "title": "Aflevering 23",
+    "home": null,
+    "away": null,
+    "competition": "Formule 1",
+    "sport": "Motorsport",
+    "start": 1795878600000,
+    "end": 1795882200000,
+    "status": "aankomend",
+    "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1795882200000:arbc9e",
+    "externalId": null,
+    "title": "GP van Qatar: Sprint Race",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Motorsport",
+    "start": 1795882200000,
+    "end": 1795885800000,
+    "status": "aankomend",
+    "description": "Vanaf het Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1795885800000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795885800000,
+    "end": 1795887600000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:playsports3:1795887600000:arbc9d",
     "externalId": null,
-    "title": "GP van Qatar: Kwalificaties",
+    "title": "GP van Qatar: Kwalificatie",
     "home": null,
     "away": null,
     "competition": "Formule 1",
@@ -1794,15 +1840,15 @@
     ]
   },
   {
-    "id": "sport:match:1795845000000:aston villa - sunderland",
+    "id": "sport:match:1795845300000:aston villa - sunderland",
     "externalId": null,
     "title": "Aston Villa - Sunderland",
     "home": "Aston Villa",
     "away": "Sunderland",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795845000000,
-    "end": 1795851300000,
+    "start": 1795845300000,
+    "end": 1795851480000,
     "status": "aankomend",
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "source": "epg",
@@ -1817,15 +1863,15 @@
     ]
   },
   {
-    "id": "sport:match:1795851300000:hull city - brighton & hove albion",
+    "id": "sport:match:1795851480000:hull city - brighton & hove albion",
     "externalId": null,
     "title": "Hull City - Brighton & Hove Albion",
     "home": "Hull City",
     "away": "Brighton & Hove Albion",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795851300000,
-    "end": 1795857900000,
+    "start": 1795851480000,
+    "end": 1795858080000,
     "status": "aankomend",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
@@ -1840,15 +1886,15 @@
     ]
   },
   {
-    "id": "sport:match:1795857900000:fc schalke 04 - vfb stuttgart",
+    "id": "sport:match:1795858080000:fc schalke 04 - vfb stuttgart",
     "externalId": null,
     "title": "FC Schalke 04 - VfB Stuttgart",
     "home": "FC Schalke 04",
     "away": "VfB Stuttgart",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795857900000,
-    "end": 1795863900000,
+    "start": 1795858080000,
+    "end": 1795864080000,
     "status": "aankomend",
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "source": "epg",
@@ -1863,14 +1909,14 @@
     ]
   },
   {
-    "id": "sport:match:1795863900000:chelsea - leeds united",
+    "id": "sport:match:1795864080000:chelsea - leeds united",
     "externalId": null,
     "title": "Chelsea - Leeds United",
     "home": "Chelsea",
     "away": "Leeds United",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795863900000,
+    "start": 1795864080000,
     "end": 1795870500000,
     "status": "aankomend",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
@@ -2024,15 +2070,15 @@
     ]
   },
   {
-    "id": "sport:match:1795822200000:feyenoord - excelsior",
+    "id": "sport:match:1795822800000:feyenoord - excelsior",
     "externalId": null,
     "title": "Feyenoord - Excelsior",
     "home": "Feyenoord",
     "away": "Excelsior",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795822200000,
-    "end": 1795828500000,
+    "start": 1795822800000,
+    "end": 1795829100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -2047,15 +2093,15 @@
     ]
   },
   {
-    "id": "sport:match:1795845900000:celtic - besiktas",
+    "id": "sport:match:1795845300000:celtic - besiktas",
     "externalId": null,
     "title": "Celtic - Beşiktaş",
     "home": "Celtic",
     "away": "Beşiktaş",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1795845900000,
-    "end": 1795852260000,
+    "start": 1795845300000,
+    "end": 1795851600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Celtic - Beşiktaş, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -2070,15 +2116,15 @@
     ]
   },
   {
-    "id": "sport:match:1795852260000:kups - kaa gent",
+    "id": "sport:match:1795851600000:kups - kaa gent",
     "externalId": null,
     "title": "KuPS - KAA Gent",
     "home": "KuPS",
     "away": "KAA Gent",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1795852260000,
-    "end": 1795858800000,
+    "start": 1795851600000,
+    "end": 1795858080000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -2093,17 +2139,17 @@
     ]
   },
   {
-    "id": "sport:match:1795858800000:n.e.c. - psv",
+    "id": "sport:match:1795858080000:psv - feyenoord",
     "externalId": null,
-    "title": "N.E.C. - PSV",
-    "home": "N.E.C.",
-    "away": "PSV",
+    "title": "PSV - Feyenoord",
+    "home": "PSV",
+    "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795858800000,
-    "end": 1795865100000,
+    "start": 1795858080000,
+    "end": 1795864140000,
     "status": "aankomend",
-    "description": "Verslag van de wedstrijd N.E.C. - PSV uit de 13e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -2116,15 +2162,15 @@
     ]
   },
   {
-    "id": "sport:match:1795865100000:feyenoord - excelsior",
+    "id": "sport:match:1795864140000:feyenoord - excelsior",
     "externalId": null,
     "title": "Feyenoord - Excelsior",
     "home": "Feyenoord",
     "away": "Excelsior",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795865100000,
-    "end": 1795872300000,
+    "start": 1795864140000,
+    "end": 1795870440000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -2139,69 +2185,40 @@
     ]
   },
   {
-    "id": "sport:match:1795877700000:leeds united - coventry city",
+    "id": "sport:match:1795870440000:ajax - ado den haag",
     "externalId": null,
-    "title": "Leeds United - Coventry City",
-    "home": "Leeds United",
-    "away": "Coventry City",
-    "competition": "Premier League",
+    "title": "Ajax - ADO Den Haag",
+    "home": "Ajax",
+    "away": "ADO Den Haag",
+    "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795877700000,
-    "end": 1795884900000,
+    "start": 1795870440000,
+    "end": 1795876800000,
     "status": "aankomend",
-    "description": "Vanuit Elland Road in Leeds, Engeland.",
+    "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
-      "Play Sports 3",
-      "Play Sports 4"
+      "Play Sports 3"
     ],
     "channels": [
-      "Play Sports 3",
-      "Play Sports 4"
+      "Play Sports 3"
     ],
     "channelIds": [
-      "playsports3",
-      "playsports4"
+      "playsports3"
     ]
   },
   {
-    "id": "sport:match:1795886700000:nottingham forest - chelsea",
+    "id": "sport:match:1795895700000:psv - feyenoord",
     "externalId": null,
-    "title": "Nottingham Forest - Chelsea",
-    "home": "Nottingham Forest",
-    "away": "Chelsea",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1795886700000,
-    "end": 1795887600000,
-    "status": "aankomend",
-    "description": "Vanuit The City Ground in Nottingham, England.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3",
-      "Play Sports 4"
-    ],
-    "channels": [
-      "Play Sports 3",
-      "Play Sports 4"
-    ],
-    "channelIds": [
-      "playsports3",
-      "playsports4"
-    ]
-  },
-  {
-    "id": "sport:match:1795895700000:n.e.c. - psv",
-    "externalId": null,
-    "title": "N.E.C. - PSV",
-    "home": "N.E.C.",
-    "away": "PSV",
+    "title": "PSV - Feyenoord",
+    "home": "PSV",
+    "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
     "start": 1795895700000,
     "end": 1795902000000,
     "status": "aankomend",
-    "description": "Verslag van de wedstrijd N.E.C. - PSV uit de 13e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -2340,6 +2357,52 @@
     "end": 1795872300000,
     "status": "aankomend",
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1795877700000:leeds united - coventry city",
+    "externalId": null,
+    "title": "Leeds United - Coventry City",
+    "home": "Leeds United",
+    "away": "Coventry City",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1795877700000,
+    "end": 1795884900000,
+    "status": "aankomend",
+    "description": "Vanuit Elland Road in Leeds, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1795886700000:nottingham forest - chelsea",
+    "externalId": null,
+    "title": "Nottingham Forest - Chelsea",
+    "home": "Nottingham Forest",
+    "away": "Chelsea",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1795886700000,
+    "end": 1795887600000,
+    "status": "aankomend",
+    "description": "Vanuit The City Ground in Nottingham, England.",
     "source": "epg",
     "platforms": [
       "Play Sports 4"

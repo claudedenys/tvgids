@@ -4,7 +4,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1795649100000,
-    "end": 1795655400000,
+    "end": 1795655520000,
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "playsports3:1795655400000:1va4v2m",
+    "id": "playsports3:1795655520000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795655400000,
-    "end": 1795661940000,
+    "start": 1795655520000,
+    "end": 1795661820000,
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "playsports3:1795661940000:xykime",
+    "id": "playsports3:1795661820000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1795661940000,
-    "end": 1795672200000,
+    "start": 1795661820000,
+    "end": 1795672500000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports3:1795672200000:ear1gl",
+    "id": "playsports3:1795672500000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1795672200000,
-    "end": 1795678800000,
+    "start": 1795672500000,
+    "end": 1795679040000,
     "description": "Verslag van de wedstrijd AZ - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports3:1795678800000:ear1gl",
+    "id": "playsports3:1795679040000:ear1gl",
     "channel": "playsports3",
     "title": "UEFA Europa League",
-    "start": 1795678800000,
-    "end": 1795685100000,
+    "start": 1795679040000,
+    "end": 1795685400000,
     "description": "Verslag van de wedstrijd Celtic - Beşiktaş, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports3:1795685100000:16v40h",
+    "id": "playsports3:1795685400000:16v40h",
     "channel": "playsports3",
     "title": "UEFA Conference League",
-    "start": 1795685100000,
-    "end": 1795691640000,
+    "start": 1795685400000,
+    "end": 1795691820000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -178,39 +178,41 @@
     }
   },
   {
-    "id": "playsports3:1795691640000:1ltn7gx",
+    "id": "playsports3:1795691820000:1va4v2m",
     "channel": "playsports3",
-    "title": "Wordt aangekondigd",
-    "start": 1795691640000,
-    "end": 1795697940000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "title": "Eredivisie",
+    "start": 1795691820000,
+    "end": 1795697880000,
+    "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Af3dc529372bef0b854427cf92088f37730a62cca/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031%2Cimi%3Ad0acfe4adfcdf42b051f0259fd73f8f6888ef740/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50990000,
+    "episode": 2026102531,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:f3dc529372bef0b854427cf92088f37730a62cca",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031,imi:d0acfe4adfcdf42b051f0259fd73f8f6888ef740",
+      "episodeName": "PSV - Feyenoord",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Voetbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {
-    "id": "playsports3:1795697940000:1va4v2m",
+    "id": "playsports3:1795697880000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795697940000,
-    "end": 1795704240000,
+    "start": 1795697880000,
+    "end": 1795704300000,
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -236,11 +238,11 @@
     }
   },
   {
-    "id": "playsports3:1795704240000:1va4v2m",
+    "id": "playsports3:1795704300000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795704240000,
-    "end": 1795710600000,
+    "start": 1795704300000,
+    "end": 1795710540000,
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -266,11 +268,11 @@
     }
   },
   {
-    "id": "playsports3:1795710600000:1p2p7re",
+    "id": "playsports3:1795710540000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1795710600000,
-    "end": 1795714200000,
+    "start": 1795710540000,
+    "end": 1795714080000,
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -296,10 +298,10 @@
     }
   },
   {
-    "id": "playsports3:1795714200000:arbc9d",
+    "id": "playsports3:1795714080000:arbc9d",
     "channel": "playsports3",
     "title": "The Paddock Live: Formule 1",
-    "start": 1795714200000,
+    "start": 1795714080000,
     "end": 1795714800000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [

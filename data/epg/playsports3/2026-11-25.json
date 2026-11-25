@@ -88,31 +88,33 @@
     }
   },
   {
-    "id": "playsports3:1795589100000:1ltn7gx",
+    "id": "playsports3:1795589100000:1va4v2m",
     "channel": "playsports3",
-    "title": "Wordt aangekondigd",
+    "title": "Eredivisie",
     "start": 1795589100000,
     "end": 1795595100000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
-      "Entertainment"
+      "Sport",
+      "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3Af04dabadebd73135ca07f6800375eb9671af21dc/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031%2Cimi%3A8658ae2873b71f178fac7089d7fc324d91274bc5/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 50990000,
+    "episode": 2026102531,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:f04dabadebd73135ca07f6800375eb9671af21dc",
-      "episodeName": null,
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031,imi:8658ae2873b71f178fac7089d7fc324d91274bc5",
+      "episodeName": "PSV - Feyenoord",
       "genres": [
-        "Entertainment"
+        "Sport",
+        "Voetbal"
       ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
     }
   },
   {
@@ -120,7 +122,7 @@
     "channel": "playsports3",
     "title": "Eredivisie",
     "start": 1795595100000,
-    "end": 1795601400000,
+    "end": 1795601460000,
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -146,10 +148,10 @@
     }
   },
   {
-    "id": "playsports3:1795601400000:1va4v2m",
+    "id": "playsports3:1795601460000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795601400000,
+    "start": 1795601460000,
     "end": 1795607640000,
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
@@ -180,7 +182,7 @@
     "channel": "playsports3",
     "title": "UEFA Europa League",
     "start": 1795607640000,
-    "end": 1795614300000,
+    "end": 1795614240000,
     "description": "Verslag van de wedstrijd AZ - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
     "category": [
       "Sport",
@@ -206,11 +208,11 @@
     }
   },
   {
-    "id": "playsports3:1795614300000:1p2p7re",
+    "id": "playsports3:1795614240000:1p2p7re",
     "channel": "playsports3",
     "title": "The Paddock Podcast",
-    "start": 1795614300000,
-    "end": 1795617900000,
+    "start": 1795614240000,
+    "end": 1795617780000,
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "category": [
       "Sport",
@@ -236,10 +238,10 @@
     }
   },
   {
-    "id": "playsports3:1795617900000:arbc9d",
+    "id": "playsports3:1795617780000:arbc9d",
     "channel": "playsports3",
     "title": "The Paddock Live: Formule 1",
-    "start": 1795617900000,
+    "start": 1795617780000,
     "end": 1795618500000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [

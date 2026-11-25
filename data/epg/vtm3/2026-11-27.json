@@ -1,10 +1,38 @@
 [
   {
-    "id": "vtm3:1795737600000:1jveca3",
+    "id": "vtm3:1795736400000:1jveca3",
     "channel": "vtm3",
     "title": "The Big Bang Theory",
-    "start": 1795737600000,
-    "end": 1795739100000,
+    "start": 1795736400000,
+    "end": 1795737900000,
+    "description": "Penny's ex Zack ontdekt dat hij onvruchtbaar is en vraagt daarom Leonard om hulp. Koothrappali probeert zijn relatie met Anu te repareren.",
+    "category": [
+      "Sitcom"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F16285461~~2FEP027710420266%2Cimi%3A184aa9390bb76ac3bb741dc46c8f9003546e58b5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 12,
+    "episode": 12,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F16285461~~2FEP027710420266,imi:184aa9390bb76ac3bb741dc46c8f9003546e58b5",
+      "episodeName": "The Propagation Proposition",
+      "genres": [
+        "Sitcom"
+      ],
+      "productionDate": "2018",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F97146692-ebf3-4467-a896-33711ae5d596"
+    }
+  },
+  {
+    "id": "vtm3:1795737900000:1jveca3",
+    "channel": "vtm3",
+    "title": "The Big Bang Theory",
+    "start": 1795737900000,
+    "end": 1795739400000,
     "description": "Amy en Sheldon zijn blij wanneer hun theorie wordt bewezen door twee fysici, totdat ze Amy van de lijst van de nominaties voor de Nobelprijs proberen te halen. Bernadette is goed bezig op haar werk.",
     "category": [
       "Sitcom"
@@ -28,10 +56,10 @@
     }
   },
   {
-    "id": "vtm3:1795739100000:48zb9",
+    "id": "vtm3:1795739400000:48zb9",
     "channel": "vtm3",
     "title": "Geen uitzending",
-    "start": 1795739100000,
+    "start": 1795739400000,
     "end": 1795755600000,
     "description": null,
     "category": [],

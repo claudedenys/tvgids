@@ -110,7 +110,7 @@
     "channel": "vtm4",
     "title": "Geen uitzending",
     "start": 1795694400000,
-    "end": 1795698000000,
+    "end": 1795698900000,
     "description": null,
     "category": [],
     "image": null,
@@ -130,11 +130,11 @@
     }
   },
   {
-    "id": "vtm4:1795698000000:lttjur",
+    "id": "vtm4:1795698900000:lttjur",
     "channel": "vtm4",
     "title": "Police Interceptors",
-    "start": 1795698000000,
-    "end": 1795701300000,
+    "start": 1795698900000,
+    "end": 1795701900000,
     "description": "Agenten uit Nottinghamshire doen een beroep op hun collega's uit Northamptonshire tijdens de achtervolging van een vrachtwagen die betrokken zou zijn bij verschillende diefstallen.",
     "category": [
       "Reality",
@@ -160,11 +160,11 @@
     }
   },
   {
-    "id": "vtm4:1795701300000:lttjur",
+    "id": "vtm4:1795701900000:lttjur",
     "channel": "vtm4",
     "title": "Police Interceptors",
-    "start": 1795701300000,
-    "end": 1795704600000,
+    "start": 1795701900000,
+    "end": 1795705200000,
     "description": "Interceptor Paul 'Bertie' Bertram zet de achtervolging in op een Alfa Romeo die weigerde te stoppen voor een controle. Interceptor Harrison rekent de inzittenden van een Nissan Navara in.",
     "category": [
       "Reality",
@@ -190,11 +190,11 @@
     }
   },
   {
-    "id": "vtm4:1795704600000:gmhhx4",
+    "id": "vtm4:1795705200000:gmhhx4",
     "channel": "vtm4",
     "title": "Xena: Warrior Princess",
-    "start": 1795704600000,
-    "end": 1795707900000,
+    "start": 1795705200000,
+    "end": 1795708200000,
     "description": "Xena en Gabrielle moeten het opnemen tegen Mavican, de nieuwe rechterhand van Ares, met enkele extra complicaties. Ze zijn samengevoegd in hetzelfde lichaam.",
     "category": [
       "Dramaserie",
@@ -220,10 +220,10 @@
     }
   },
   {
-    "id": "vtm4:1795707900000:chrecj",
+    "id": "vtm4:1795708200000:chrecj",
     "channel": "vtm4",
     "title": "MacGyver",
-    "start": 1795707900000,
+    "start": 1795708200000,
     "end": 1795711500000,
     "description": "Als hun vliegtuig in de wildernis neerstort, vechten MacGyver en vier bendeleiders om te overleven.",
     "category": [
@@ -404,7 +404,7 @@
     "channel": "vtm4",
     "title": "Foute Vrienden Australië",
     "start": 1795731600000,
-    "end": 1795733700000,
+    "end": 1795734000000,
     "description": "De mannen vallen een restaurant binnen, doen zich voor als professionele dansers, en een van hen krijgt een straf tijdens een rugbywedstrijd.",
     "category": [
       "Comedy"
@@ -425,36 +425,6 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F25321416~~2FSH057657570000"
-    }
-  },
-  {
-    "id": "vtm4:1795733700000:s9dg2l",
-    "channel": "vtm4",
-    "title": "Most Daring",
-    "start": 1795733700000,
-    "end": 1795737000000,
-    "description": "De tuin van een oudere man uit Quebec, Canada, lijkt eerder op een schroothoop dan op een tuin en dat is een doorn in het oog van zijn buurman. Het komt tot een harde confrontatie tussen beide heren.",
-    "category": [
-      "Reality",
-      "Avontuur"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F3388070~~2FEP051237700037%2Cimi%3A2087b9a5af62b905276b52ce19d2fc2b1bc53ed8/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 3,
-    "episode": 12,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F3388070~~2FEP051237700037,imi:2087b9a5af62b905276b52ce19d2fc2b1bc53ed8",
-      "episodeName": "Senior Smackdown",
-      "genres": [
-        "Reality",
-        "Avontuur"
-      ],
-      "productionDate": "2008",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F185710~~2FSH051237700000"
     }
   }
 ]

@@ -122,7 +122,7 @@
     "channel": "playsports4",
     "title": "MotoGP",
     "start": 1795586100000,
-    "end": 1795592160000,
+    "end": 1795591860000,
     "description": "Verslag van de race van de MotoGP van Portugal, gereden in Portimão, Portugal.",
     "category": [
       "Sport",
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1795592160000:arbc9d",
+    "id": "playsports4:1795591860000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1795592160000,
-    "end": 1795599660000,
+    "start": 1795591860000,
+    "end": 1795599360000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [
       "Sport",
@@ -178,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1795599660000:10r9e8y",
+    "id": "playsports4:1795599360000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1795599660000,
-    "end": 1795609440000,
+    "start": 1795599360000,
+    "end": 1795609200000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -208,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1795609440000:1ng6s",
+    "id": "playsports4:1795609200000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1795609440000,
-    "end": 1795618080000,
+    "start": 1795609200000,
+    "end": 1795617900000,
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "category": [
       "Sport",
@@ -238,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1795618080000:f9awoa",
+    "id": "playsports4:1795617900000:f9awoa",
     "channel": "playsports4",
     "title": "Tennis: Nitto ATP Finals 2026",
-    "start": 1795618080000,
-    "end": 1795624500000,
+    "start": 1795617900000,
+    "end": 1795624320000,
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "category": [
       "Sport",
@@ -268,10 +268,10 @@
     }
   },
   {
-    "id": "playsports4:1795624500000:1aturhn",
+    "id": "playsports4:1795624320000:1aturhn",
     "channel": "playsports4",
     "title": "Dubbelspel XL",
-    "start": 1795624500000,
+    "start": 1795624320000,
     "end": 1795628100000,
     "description": null,
     "category": [
@@ -388,41 +388,11 @@
     }
   },
   {
-    "id": "playsports4:1795643700000:14gsuik",
-    "channel": "playsports4",
-    "title": "Senne Lammens onder de loep",
-    "start": 1795643700000,
-    "end": 1795644600000,
-    "description": "Onze landgenoot incasseerde dit seizoen al 27 tegendoelpunten, maar treft de doelman telkens schuld? Ward Kerremans en Frank Boeckx nemen elk tegendoelpunt onder de loep en oordelen of Lammens al dan niet in de fout gaat.",
-    "category": [
-      "Sport",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34687949~~2FSH067303820000~~2Fspecial%2Cimi%3Af08bdee0befaddd85ff72b7b515e847f0b8db3f1/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34687949~~2FSH067303820000~~2Fspecial,imi:f08bdee0befaddd85ff72b7b515e847f0b8db3f1",
-      "episodeName": null,
-      "genres": [
-        "Sport",
-        "Voetbal"
-      ],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "playsports4:1795644600000:1aturhn",
+    "id": "playsports4:1795643700000:1aturhn",
     "channel": "playsports4",
     "title": "Dubbelspel XL",
-    "start": 1795644600000,
-    "end": 1795648200000,
+    "start": 1795643700000,
+    "end": 1795647480000,
     "description": null,
     "category": [
       "Sport",
@@ -445,6 +415,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33162444~~2FSH064460050000"
+    }
+  },
+  {
+    "id": "playsports4:1795647480000:1mv1683",
+    "channel": "playsports4",
+    "title": "Tennis: WTA Finals 2026",
+    "start": 1795647480000,
+    "end": 1795655700000,
+    "description": null,
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34618150~~2FEP067143680001%2Cimi%3A77e120ed7d3a5b28683b1223593d677ceaa337ec/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 43680000,
+    "episode": 2026111501,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34618150~~2FEP067143680001,imi:77e120ed7d3a5b28683b1223593d677ceaa337ec",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33728212~~2FSH067143680000"
     }
   }
 ]
