@@ -1,9 +1,9 @@
 [
   {
-    "id": "play6:1795737300000:oujlb",
+    "id": "play6:1795737600000:oujlb",
     "channel": "play6",
     "title": "See No Evil",
-    "start": 1795737300000,
+    "start": 1795737600000,
     "end": 1795741500000,
     "description": "In 2014 wordt Tequila Suter, een afgestudeerde studente, doodgestoken in haar huis in een buitenwijk van Buffalo. Zonder duidelijke aanwijzingen is de enige hoop het samenvoegen van een spoor van camerabeelden en het volgen van de moordenaar.",
     "category": [
@@ -34,7 +34,7 @@
     "channel": "play6",
     "title": "Pawn Stars: Best Of",
     "start": 1795741500000,
-    "end": 1795744500000,
+    "end": 1795744200000,
     "description": "Het pandjeshuis verandert in de gelukkigste plek op aarde door een breed scala aan Disney-artikelen, waaronder een gerestaureerde replica van de beroemde Jungle Cruise-attractie.",
     "category": [
       "Reality",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play6:1795744500000:1bppwog",
+    "id": "play6:1795744200000:1bppwog",
     "channel": "play6",
     "title": "Blue Bloods",
-    "start": 1795744500000,
-    "end": 1795747200000,
+    "start": 1795744200000,
+    "end": 1795746600000,
     "description": "Frank kondigt aan dat hij Erins kandidaatstelling voor officier van justitie niet zal steunen. Danny en Baez onderzoeken een bloedige plaats delict in een hotel. Jamie begint aan een nieuwe baan als sergeant van de inlichtingendienst.",
     "category": [
       "Misdaaddrama",
@@ -90,11 +90,11 @@
     }
   },
   {
-    "id": "play6:1795747200000:48zb9",
+    "id": "play6:1795746600000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1795747200000,
-    "end": 1795752000000,
+    "start": 1795746600000,
+    "end": 1795751400000,
     "description": null,
     "category": [],
     "image": null,
@@ -106,6 +106,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:b107adaf4e48c78a4410e8208359fa8c79f352c7",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play6:1795751400000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1795751400000,
+    "end": 1795752000000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:db939c0f102e61c77299982fd3a602da7f3d63ef",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

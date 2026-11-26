@@ -9,7 +9,7 @@
     "sport": null,
     "start": 1795651260000,
     "end": 1795672800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -54,6 +54,29 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1795726620000,
+    "end": 1795726800000,
+    "status": "aankomend",
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1795726800000:amnfa6",
+    "externalId": null,
+    "title": "Aflevering 82",
+    "home": null,
+    "away": null,
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1795726800000,
     "end": 1795729800000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
@@ -77,6 +100,29 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1795729800000,
+    "end": 1795729980000,
+    "status": "aankomend",
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1795729980000:fly4em",
+    "externalId": null,
+    "title": "Aflevering 10",
+    "home": null,
+    "away": null,
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1795729980000,
     "end": 1795732980000,
     "status": "aankomend",
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
@@ -101,7 +147,7 @@
     "sport": null,
     "start": 1795647600000,
     "end": 1795669200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -124,7 +170,7 @@
     "sport": null,
     "start": 1795669200000,
     "end": 1795690800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -147,7 +193,7 @@
     "sport": null,
     "start": 1795690800000,
     "end": 1795712400000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -193,7 +239,7 @@
     "sport": null,
     "start": 1795661820000,
     "end": 1795672500000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -284,9 +330,32 @@
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
     "start": 1795731300000,
-    "end": 1795733100000,
+    "end": 1795732800000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1795732800000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795732800000,
+    "end": 1795733700000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -331,7 +400,7 @@
     "sport": "Tennis",
     "start": 1795647480000,
     "end": 1795655700000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": null,
     "source": "epg",
     "platforms": [
@@ -354,7 +423,7 @@
     "sport": null,
     "start": 1795655700000,
     "end": 1795659900000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de race van de MotoGP van Qatar, gereden in Doha, Qatar.",
     "source": "epg",
     "platforms": [
@@ -377,7 +446,7 @@
     "sport": null,
     "start": 1795659900000,
     "end": 1795675200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -400,7 +469,7 @@
     "sport": "Motorsport",
     "start": 1795683840000,
     "end": 1795691400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "source": "epg",
     "platforms": [
@@ -423,7 +492,7 @@
     "sport": "Tennis",
     "start": 1795701240000,
     "end": 1795710900000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "source": "epg",
     "platforms": [
@@ -515,7 +584,7 @@
     "sport": null,
     "start": 1795647600000,
     "end": 1795669200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -538,7 +607,7 @@
     "sport": null,
     "start": 1795669200000,
     "end": 1795690800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -561,7 +630,7 @@
     "sport": null,
     "start": 1795690800000,
     "end": 1795714800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
     "platforms": [
@@ -630,7 +699,7 @@
     "sport": "Golf",
     "start": 1795651200000,
     "end": 1795656600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de CME Group Tour Championship, gespeeld op de Ritz Carlton Golf Resort en Tiburón Golf Club in Naples, Florida.",
     "source": "epg",
     "platforms": [
@@ -653,7 +722,7 @@
     "sport": "Golf",
     "start": 1795656600000,
     "end": 1795660200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de Champions UK European Senior Masters, gespeeld in de European Legend Tour 2026.",
     "source": "epg",
     "platforms": [
@@ -676,7 +745,7 @@
     "sport": "Golf",
     "start": 1795660200000,
     "end": 1795672800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de eerste dag van de BMW Australian PGA Championship, gespeeld in Brisbane, Australië.",
     "source": "epg",
     "platforms": [
@@ -699,7 +768,7 @@
     "sport": "Golf",
     "start": 1795672800000,
     "end": 1795683600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de vierde en laatste dag van The RSM Classic, gespeeld in St. Simons, Georgia.",
     "source": "epg",
     "platforms": [
@@ -722,7 +791,7 @@
     "sport": "Golf",
     "start": 1795683600000,
     "end": 1795689000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Hoogtepunten van de CME Group Tour Championship, gespeeld op de Ritz Carlton Golf Resort en Tiburón Golf Club in Naples, Florida.",
     "source": "epg",
     "platforms": [
@@ -745,7 +814,7 @@
     "sport": "Golf",
     "start": 1795696200000,
     "end": 1795698000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.",
     "source": "epg",
     "platforms": [
@@ -768,7 +837,7 @@
     "sport": "Golf",
     "start": 1795698000000,
     "end": 1795708800000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de eerste dag van de Andalucia Costa del Sol Open de España, gespeeld in Spanje.",
     "source": "epg",
     "platforms": [
@@ -813,32 +882,9 @@
     "competition": null,
     "sport": "Golf",
     "start": 1795714200000,
-    "end": 1795730400000,
+    "end": 1795757400000,
     "status": "aankomend",
     "description": "Verslag van de derde dag van de Soudal Open, gespeeld in Antwerpen, België.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
-    ]
-  },
-  {
-    "id": "sport:playsports-golf:1795730400000:u5yv5e",
-    "externalId": null,
-    "title": "Andalucia Costa del Sol Open de España: Dag 1",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Golf",
-    "start": 1795730400000,
-    "end": 1795737600000,
-    "status": "aankomend",
-    "description": "Verslag van de eerste dag van de Andalucia Costa del Sol Open de España, gespeeld in Spanje.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -860,7 +906,7 @@
     "sport": "Basketbal",
     "start": 1795651200000,
     "end": 1795662000000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "NCAA Men's Basketball\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
@@ -952,7 +998,7 @@
     "sport": null,
     "start": 1795653000000,
     "end": 1795663800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "NBA\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
@@ -1044,7 +1090,7 @@
     "sport": null,
     "start": 1795654800000,
     "end": 1795665600000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "NFL Game Pass\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
@@ -1067,7 +1113,7 @@
     "sport": "Voetbal",
     "start": 1795644720000,
     "end": 1795651260000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1090,7 +1136,7 @@
     "sport": "Voetbal",
     "start": 1795672800000,
     "end": 1795678920000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1113,7 +1159,7 @@
     "sport": "Voetbal",
     "start": 1795678920000,
     "end": 1795685520000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1136,7 +1182,7 @@
     "sport": "Voetbal",
     "start": 1795685520000,
     "end": 1795692060000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "source": "epg",
     "platforms": [
@@ -1159,7 +1205,7 @@
     "sport": "Voetbal",
     "start": 1795692060000,
     "end": 1795698780000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit het Weserstadion in Bremen, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1182,7 +1228,7 @@
     "sport": "Voetbal",
     "start": 1795698780000,
     "end": 1795704960000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Vanuit het Borussia-Park in Mönchengladbach, Duitsland.",
     "source": "epg",
     "platforms": [
@@ -1273,6 +1319,29 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1795732980000,
+    "end": 1795733160000,
+    "status": "aankomend",
+    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1795733160000:bayern munchen - 1. fc koln",
+    "externalId": null,
+    "title": "Bayern München - 1. FC Köln",
+    "home": "Bayern München",
+    "away": "1. FC Köln",
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1795733160000,
     "end": 1795739280000,
     "status": "aankomend",
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
@@ -1297,7 +1366,7 @@
     "sport": "Voetbal",
     "start": 1795649100000,
     "end": 1795655520000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1320,7 +1389,7 @@
     "sport": "Voetbal",
     "start": 1795655520000,
     "end": 1795661820000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1343,7 +1412,7 @@
     "sport": "Voetbal",
     "start": 1795672500000,
     "end": 1795679040000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd AZ - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1366,7 +1435,7 @@
     "sport": "Voetbal",
     "start": 1795679040000,
     "end": 1795685400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Celtic - Beşiktaş, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
     "platforms": [
@@ -1389,7 +1458,7 @@
     "sport": "Voetbal",
     "start": 1795685400000,
     "end": 1795691820000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
     "platforms": [
@@ -1412,7 +1481,7 @@
     "sport": "Voetbal",
     "start": 1795691820000,
     "end": 1795697880000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1435,7 +1504,7 @@
     "sport": "Voetbal",
     "start": 1795697880000,
     "end": 1795704300000,
-    "status": "aankomend",
+    "status": "live",
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
@@ -1472,29 +1541,6 @@
     ]
   },
   {
-    "id": "sport:match:1795733100000:liverpool - manchester united",
-    "externalId": null,
-    "title": "Liverpool - Manchester United",
-    "home": "Liverpool",
-    "away": "Manchester United",
-    "competition": "Premier League",
-    "sport": "Voetbal",
-    "start": 1795733100000,
-    "end": 1795733700000,
-    "status": "aankomend",
-    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
     "id": "sport:match:1795675200000:limburg united - aalst",
     "externalId": null,
     "title": "Limburg United - Aalst",
@@ -1504,7 +1550,7 @@
     "sport": "Basketbal",
     "start": 1795675200000,
     "end": 1795683840000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "source": "epg",
     "platforms": [
@@ -1527,7 +1573,7 @@
     "sport": "Tennis",
     "start": 1795691400000,
     "end": 1795701240000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
     "platforms": [
@@ -1642,7 +1688,7 @@
     "sport": "Golf",
     "start": 1795689000000,
     "end": 1795696200000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "Verslag van de wedstrijd Boston Common Golf - Motor City Golf Club, gespeeld in de WTGL Golf League.",
     "source": "epg",
     "platforms": [
@@ -1826,7 +1872,7 @@
     "sport": null,
     "start": 1795665600000,
     "end": 1795676400000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "WBSC Premier12\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [
@@ -1849,7 +1895,7 @@
     "sport": null,
     "start": 1795689000000,
     "end": 1795699800000,
-    "status": "aankomend",
+    "status": "afgelopen",
     "description": "WBSC Premier12\nVolg alle actie op DAZN.",
     "source": "epg",
     "platforms": [

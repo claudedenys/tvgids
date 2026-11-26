@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports4:1795909980000:1mv1683",
+    "id": "playsports4:1795900920000:10r9e8y",
+    "channel": "playsports4",
+    "title": "Tennis: Rolex Paris Masters 2026",
+    "start": 1795900920000,
+    "end": 1795910760000,
+    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
+    "category": [
+      "Sport",
+      "Tennis"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34482774~~2FEP066187840032%2Cimi%3Ab8a63b89746506d3527dafb65af3f822fbfd9736/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 87840000,
+    "episode": 2026110832,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34482774~~2FEP066187840032,imi:b8a63b89746506d3527dafb65af3f822fbfd9736",
+      "episodeName": "Shelton - Alcaraz (Finale)",
+      "genres": [
+        "Sport",
+        "Tennis"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F33727930~~2FSH066187840000"
+    }
+  },
+  {
+    "id": "playsports4:1795910760000:1mv1683",
     "channel": "playsports4",
     "title": "Tennis: WTA Finals 2026",
-    "start": 1795909980000,
-    "end": 1795918200000,
+    "start": 1795910760000,
+    "end": 1795918860000,
     "description": null,
     "category": [
       "Sport",
@@ -30,10 +60,10 @@
     }
   },
   {
-    "id": "playsports4:1795918200000:xykime",
+    "id": "playsports4:1795918860000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1795918200000,
+    "start": 1795918860000,
     "end": 1795930200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -62,7 +92,7 @@
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
     "start": 1795930200000,
-    "end": 1795937760000,
+    "end": 1795937700000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [
       "Sport",
@@ -88,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1795937760000:10r9e8y",
+    "id": "playsports4:1795937700000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1795937760000,
-    "end": 1795943700000,
+    "start": 1795937700000,
+    "end": 1795943640000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -118,10 +148,10 @@
     }
   },
   {
-    "id": "playsports4:1795943700000:f9awoa",
+    "id": "playsports4:1795943640000:f9awoa",
     "channel": "playsports4",
     "title": "Tennis: Nitto ATP Finals 2026",
-    "start": 1795943700000,
+    "start": 1795943640000,
     "end": 1795953300000,
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "category": [
@@ -242,7 +272,7 @@
     "channel": "playsports4",
     "title": "MIDMID",
     "start": 1795966500000,
-    "end": 1795971900000,
+    "end": 1795972680000,
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Divock Origi.",
     "category": [
       "Voetbal",
@@ -268,11 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1795971900000:f9awoa",
+    "id": "playsports4:1795972680000:f9awoa",
     "channel": "playsports4",
     "title": "Tennis: Nitto ATP Finals 2026",
-    "start": 1795971900000,
-    "end": 1795981500000,
+    "start": 1795972680000,
+    "end": 1795982340000,
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "category": [
       "Sport",
@@ -298,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1795981500000:1mv1683",
+    "id": "playsports4:1795982340000:1mv1683",
     "channel": "playsports4",
     "title": "Tennis: WTA Finals 2026",
-    "start": 1795981500000,
-    "end": 1795989600000,
+    "start": 1795982340000,
+    "end": 1795990500000,
     "description": null,
     "category": [
       "Sport",
@@ -328,11 +358,11 @@
     }
   },
   {
-    "id": "playsports4:1795989600000:10r9e8y",
+    "id": "playsports4:1795990500000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1795989600000,
-    "end": 1795999440000,
+    "start": 1795990500000,
+    "end": 1796000400000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",

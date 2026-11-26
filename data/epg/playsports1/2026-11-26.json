@@ -332,7 +332,7 @@
     "channel": "playsports1",
     "title": "Premier League Review",
     "start": 1795726620000,
-    "end": 1795729800000,
+    "end": 1795726800000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
@@ -358,11 +358,41 @@
     }
   },
   {
+    "id": "playsports1:1795726800000:amnfa6",
+    "channel": "playsports1",
+    "title": "Premier League Review",
+    "start": 1795726800000,
+    "end": 1795729800000,
+    "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34469422~~2FEP055411400070%2Cimi%3A342a7efbbe4d16248b946bac6615fa070d742a2d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 82,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34469422~~2FEP055411400070,imi:342a7efbbe4d16248b946bac6615fa070d742a2d",
+      "episodeName": "Aflevering 82",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
+    }
+  },
+  {
     "id": "playsports1:1795729800000:fly4em",
     "channel": "playsports1",
     "title": "Bundesliga Highlights",
     "start": 1795729800000,
-    "end": 1795732980000,
+    "end": 1795729980000,
     "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
     "category": [
       "Sport",
@@ -388,11 +418,41 @@
     }
   },
   {
+    "id": "playsports1:1795729980000:fly4em",
+    "channel": "playsports1",
+    "title": "Bundesliga Highlights",
+    "start": 1795729980000,
+    "end": 1795732980000,
+    "description": "Hoogtepunten en samenvattingen van de wedstrijden uit de Duitse Bundesliga.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34654669~~2FEP050961140068%2Cimi%3Ad0acdb3e1bd197f664c6eb8cfe860e0c8bb60e74/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 10,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34654669~~2FEP050961140068,imi:d0acdb3e1bd197f664c6eb8cfe860e0c8bb60e74",
+      "episodeName": "Aflevering 10",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F27175952~~2FSH050961140000"
+    }
+  },
+  {
     "id": "playsports1:1795732980000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1795732980000,
-    "end": 1795739280000,
+    "end": 1795733160000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
@@ -407,6 +467,36 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F33617594~~2FEP033948601913,imi:ab0c6ee8fac3faa804b96df3e315284c20420592",
+      "episodeName": "Bayern München - 1. FC Köln",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
+    }
+  },
+  {
+    "id": "playsports1:1795733160000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1795733160000,
+    "end": 1795739280000,
+    "description": "Vanuit de Fussball Arena München in München, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617594~~2FEP033948601913%2Cimi%3A3be1b571d0ca0540b6c0e60080037aeec56e680a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026112013,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617594~~2FEP033948601913,imi:3be1b571d0ca0540b6c0e60080037aeec56e680a",
       "episodeName": "Bayern München - 1. FC Köln",
       "genres": [
         "Sport",

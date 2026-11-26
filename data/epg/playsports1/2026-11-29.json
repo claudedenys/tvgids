@@ -1,15 +1,45 @@
 [
   {
-    "id": "playsports1:1795910100000:xykime",
+    "id": "playsports1:1795909560000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1795909560000,
+    "end": 1795915800000,
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584512~~2FEP033946612531%2Cimi%3A194b9d24e34f0524223fe778cf386a11a027451f/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026112131,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584512~~2FEP033946612531,imi:194b9d24e34f0524223fe778cf386a11a027451f",
+      "episodeName": "Manchester City - Fulham",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1795915800000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1795910100000,
+    "start": 1795915800000,
     "end": 1795932300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A3c51a49bacf351121673ab4ded62b1e1f21d17ee/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A6a6eff78dee789aca47475a6ee619d588dbf6933/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -17,7 +47,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:3c51a49bacf351121673ab4ded62b1e1f21d17ee",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:6a6eff78dee789aca47475a6ee619d588dbf6933",
       "episodeName": null,
       "genres": [
         "Sport"

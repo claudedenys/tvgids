@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports3:1795822800000:1va4v2m",
+    "id": "playsports3:1795818300000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795822800000,
-    "end": 1795829100000,
+    "start": 1795818300000,
+    "end": 1795824300000,
+    "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031%2Cimi%3A3bdf34cdb54099c19f9b4fd4229a70ced5c8c8d2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50990000,
+    "episode": 2026102531,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33559056~~2FEP035850992031,imi:3bdf34cdb54099c19f9b4fd4229a70ced5c8c8d2",
+      "episodeName": "PSV - Feyenoord",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1795824300000:1va4v2m",
+    "channel": "playsports3",
+    "title": "Eredivisie",
+    "start": 1795824300000,
+    "end": 1795830540000,
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -30,10 +60,10 @@
     }
   },
   {
-    "id": "playsports3:1795829100000:xykime",
+    "id": "playsports3:1795830540000:xykime",
     "channel": "playsports3",
     "title": "Play Sports",
-    "start": 1795829100000,
+    "start": 1795830540000,
     "end": 1795845300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -362,7 +392,7 @@
     "channel": "playsports3",
     "title": "UEFA Champions League Highlights",
     "start": 1795893900000,
-    "end": 1795895700000,
+    "end": 1795895400000,
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
@@ -388,11 +418,11 @@
     }
   },
   {
-    "id": "playsports3:1795895700000:1va4v2m",
+    "id": "playsports3:1795895400000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795895700000,
-    "end": 1795902000000,
+    "start": 1795895400000,
+    "end": 1795901400000,
     "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -418,11 +448,11 @@
     }
   },
   {
-    "id": "playsports3:1795902000000:1va4v2m",
+    "id": "playsports3:1795901400000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795902000000,
-    "end": 1795908300000,
+    "start": 1795901400000,
+    "end": 1795907700000,
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",

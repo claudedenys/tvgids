@@ -1,10 +1,10 @@
 [
   {
-    "id": "playsports3:1795908300000:1va4v2m",
+    "id": "playsports3:1795907700000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795908300000,
-    "end": 1795914900000,
+    "start": 1795907700000,
+    "end": 1795913880000,
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -27,6 +27,30 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+    }
+  },
+  {
+    "id": "playsports3:1795913880000:48zb9",
+    "channel": "playsports3",
+    "title": "Geen uitzending",
+    "start": 1795913880000,
+    "end": 1795914900000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:ae973a57b19968eb6b44bcab511b475ee613be3c",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -62,7 +86,7 @@
     "channel": "playsports3",
     "title": "UEFA Conference League",
     "start": 1795931700000,
-    "end": 1795938180000,
+    "end": 1795938240000,
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "category": [
       "Sport",
@@ -88,11 +112,11 @@
     }
   },
   {
-    "id": "playsports3:1795938180000:1va4v2m",
+    "id": "playsports3:1795938240000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795938180000,
-    "end": 1795944180000,
+    "start": 1795938240000,
+    "end": 1795944300000,
     "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -118,11 +142,11 @@
     }
   },
   {
-    "id": "playsports3:1795944180000:1va4v2m",
+    "id": "playsports3:1795944300000:1va4v2m",
     "channel": "playsports3",
     "title": "Eredivisie",
-    "start": 1795944180000,
-    "end": 1795950600000,
+    "start": 1795944300000,
+    "end": 1795950720000,
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "category": [
       "Sport",
@@ -148,33 +172,33 @@
     }
   },
   {
-    "id": "playsports3:1795950600000:1va4v2m",
+    "id": "playsports3:1795950720000:3tkxx5",
     "channel": "playsports3",
-    "title": "Eredivisie",
-    "start": 1795950600000,
+    "title": "MIDMID",
+    "start": 1795950720000,
     "end": 1795956900000,
-    "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Divock Origi.",
     "category": [
-      "Sport",
-      "Voetbal"
+      "Voetbal",
+      "Sporttalkshow"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33560421~~2FEP035850992060%2Cimi%3Ab625cecf8045eeaf6e8f122ca20e44f5b7b466d4/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34679462~~2FEP037584270197%2Cimi%3A4e7ad87675cb6081de30d963de4bc273e08b30ed/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 50990000,
-    "episode": 2026112260,
+    "season": 7,
+    "episode": 8,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33560421~~2FEP035850992060,imi:b625cecf8045eeaf6e8f122ca20e44f5b7b466d4",
-      "episodeName": "Ajax - ADO Den Haag",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34679462~~2FEP037584270197,imi:4e7ad87675cb6081de30d963de4bc273e08b30ed",
+      "episodeName": "Divock Origi",
       "genres": [
-        "Sport",
-        "Voetbal"
+        "Voetbal",
+        "Sporttalkshow"
       ],
       "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F0770c295-8f16-4a1c-8111-205c40cb9f73"
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad4fc248-6d98-4810-992d-0cbd5eff4739"
     }
   },
   {

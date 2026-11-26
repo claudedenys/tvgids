@@ -49,7 +49,7 @@
     "title": "Nieuwsuur",
     "start": 1795652100000,
     "end": 1795654500000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Crack-epidemie in Nederlandse steden De zorgen over crackgebruik in Nederland nemen toe.",
     "category": [
       "Actueel"
     ],
@@ -73,8 +73,8 @@
     "channel": "npo2",
     "title": "Nieuwsuur",
     "start": 1795654500000,
-    "end": 1795669200000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "end": 1795668600000,
+    "description": "Met in deze uitzending: * Crack-epidemie in Nederlandse steden De zorgen over crackgebruik in Nederland nemen toe.",
     "category": [
       "Actueel"
     ],
@@ -123,7 +123,7 @@
     "title": "Tijd voor MAX",
     "start": 1795673580000,
     "end": 1795676400000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * Jacob van Lier heeft een AI-partner genaamd Aiva.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/t/carrousel/tijd-voor-max-798206042.jpg",
     "icon": null,
@@ -345,7 +345,7 @@
     "title": "NOS Journaal",
     "start": 1795690800000,
     "end": 1795691700000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Doorbraken door nieuw DNA-onderzoek * Onvrede over dubbelfunctie Yesilgöz *.....",
     "category": [
       "Actueel"
     ],
@@ -359,7 +359,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -483,7 +484,7 @@
     "end": 1795703100000,
     "description": "Henri Matisse begint door te krijgen welk werk goed verkoopt, maar dat is niet het werk dat hij wil maken.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/k/carrousel/krabbe-zoekt-matisse-795739582.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -568,7 +569,7 @@
     "channel": "npo2",
     "title": "Kook mee met MAX",
     "start": 1795705800000,
-    "end": 1795707000000,
+    "end": 1795706700000,
     "description": "Wat eet ik vanavond?",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/k/carrousel/kook-mee-met-max-797052642.jpg",
@@ -586,14 +587,36 @@
     }
   },
   {
-    "id": "npo2:1795707000000:mgw58",
+    "id": "npo2:1795706700000:mgw58",
     "channel": "npo2",
     "title": "Met het mes op tafel",
-    "start": 1795707000000,
-    "end": 1795708560000,
+    "start": 1795706700000,
+    "end": 1795708500000,
     "description": "Drie kandidaten pokeren in een bruine kroeg met antwoorden op pittige vragen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/m/carrousel/met-het-mes-op-tafel-794439772.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
+    }
+  },
+  {
+    "id": "npo2:1795708500000:12b58co",
+    "channel": "npo2",
+    "title": "Politieke partijen",
+    "start": 1795708500000,
+    "end": 1795708560000,
+    "description": "Zendtijd voor politieke partijen in Nederland.",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v392/upload/p/carrousel/politieke-partijen-801734342.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -612,28 +635,6 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1795708560000,
-    "end": 1795708620000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/p/carrousel/politieke-partijen-801734342.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1795708620000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1795708620000,
     "end": 1795709100000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
@@ -802,7 +803,7 @@
     "channel": "npo2",
     "title": "Pointer checkt",
     "start": 1795722600000,
-    "end": 1795724100000,
+    "end": 1795723800000,
     "description": "Het is een groeiend fenomeen: social media-accounts die AI-gegenereerde misinformatie plaatsen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/p/carrousel/pointer-checkt-799121122.jpg",
@@ -817,10 +818,10 @@
     }
   },
   {
-    "id": "npo2:1795724100000:y5y1va",
+    "id": "npo2:1795723800000:y5y1va",
     "channel": "npo2",
     "title": "Schuldenvrij",
-    "start": 1795724100000,
+    "start": 1795723800000,
     "end": 1795726800000,
     "description": "Veertig arme huishoudens in Arnhem doen mee aan een experiment.",
     "category": [],
@@ -909,7 +910,7 @@
     "channel": "npo2",
     "title": "De Joodse wereld",
     "start": 1795733400000,
-    "end": 1795736700000,
+    "end": 1795737000000,
     "description": "Tussen 1933 en 1945 groeit het geweld van nazi-Duitsland steeds verder.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/d/carrousel/de-joodse-wereld-795738462.jpg",

@@ -274,7 +274,7 @@
     "channel": "playsports-golf",
     "title": "DP World Tour",
     "start": 1795714200000,
-    "end": 1795730400000,
+    "end": 1795757400000,
     "description": "Verslag van de derde dag van de Soudal Open, gespeeld in Antwerpen, België.",
     "category": [
       "Sport",
@@ -297,36 +297,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F20993758~~2FSH049392790000"
-    }
-  },
-  {
-    "id": "playsports-golf:1795730400000:u5yv5e",
-    "channel": "playsports-golf",
-    "title": "LPGA European Tour",
-    "start": 1795730400000,
-    "end": 1795737600000,
-    "description": "Verslag van de eerste dag van de Andalucia Costa del Sol Open de España, gespeeld in Spanje.",
-    "category": [
-      "Sport",
-      "Golf"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34557339~~2FEP042378310313%2Cimi%3Aadab81f1101ab8339a5139078e96cf5436bd1ffd/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 78310000,
-    "episode": 2026112613,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34557339~~2FEP042378310313,imi:adab81f1101ab8339a5139078e96cf5436bd1ffd",
-      "episodeName": "Andalucia Costa del Sol Open de España: Dag 1",
-      "genres": [
-        "Sport",
-        "Golf"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F8177536~~2FSH042378310000"
     }
   }
 ]

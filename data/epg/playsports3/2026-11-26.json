@@ -362,7 +362,7 @@
     "channel": "playsports3",
     "title": "UEFA Champions League Highlights",
     "start": 1795731300000,
-    "end": 1795733100000,
+    "end": 1795732800000,
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "category": [
       "Sport",
@@ -388,33 +388,33 @@
     }
   },
   {
-    "id": "playsports3:1795733100000:1prlzbg",
+    "id": "playsports3:1795732800000:i67pjl",
     "channel": "playsports3",
-    "title": "Premier League",
-    "start": 1795733100000,
+    "title": "Play Sports Highlights",
+    "start": 1795732800000,
     "end": 1795733700000,
-    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
     "category": [
       "Sport",
-      "Voetbal"
+      "Multisportevenement"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584325~~2FEP033946612526%2Cimi%3A89790e32cd512fd7dc16ce9d9eb5a462927e805d/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F583427457%2Cimi%3Acfef8af4334ecfe14e97bc203dda2bc0ab26ef21/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 46610000,
-    "episode": 2026112226,
+    "season": 50390000,
+    "episode": 583427457,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584325~~2FEP033946612526,imi:89790e32cd512fd7dc16ce9d9eb5a462927e805d",
-      "episodeName": "Liverpool - Manchester United",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F583427457,imi:cfef8af4334ecfe14e97bc203dda2bc0ab26ef21",
+      "episodeName": null,
       "genres": [
         "Sport",
-        "Voetbal"
+        "Multisportevenement"
       ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": true,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
     }
   },
   {

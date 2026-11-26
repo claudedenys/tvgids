@@ -1,10 +1,40 @@
 [
   {
-    "id": "playsports4:1795735500000:10r9e8y",
+    "id": "playsports4:1795735500000:i67pjl",
+    "channel": "playsports4",
+    "title": "Play Sports Highlights",
+    "start": 1795735500000,
+    "end": 1795737900000,
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "category": [
+      "Sport",
+      "Multisportevenement"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F583822456%2Cimi%3A51adfebef6c44f4d5c677240c22066c9c3f9d8ea/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 50390000,
+    "episode": 583822456,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000~~2F583822456,imi:51adfebef6c44f4d5c677240c22066c9c3f9d8ea",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Multisportevenement"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F24249953~~2FSH046750390000"
+    }
+  },
+  {
+    "id": "playsports4:1795737900000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1795735500000,
-    "end": 1795744560000,
+    "start": 1795737900000,
+    "end": 1795746960000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -30,11 +60,11 @@
     }
   },
   {
-    "id": "playsports4:1795744560000:1bi9p9l",
+    "id": "playsports4:1795746960000:1bi9p9l",
     "channel": "playsports4",
     "title": "Poepen in Prive",
-    "start": 1795744560000,
-    "end": 1795748100000,
+    "start": 1795746960000,
+    "end": 1795750440000,
     "description": "De spannendste sekspartijen gebeuren stiekem of vinden plaats achter gesloten deuren. Gluur door het sleutelgaatje naar binnen en zie je de geilste avontuurtjes.",
     "category": [
       "Adult",
@@ -60,10 +90,10 @@
     }
   },
   {
-    "id": "playsports4:1795748100000:xykime",
+    "id": "playsports4:1795750440000:xykime",
     "channel": "playsports4",
     "title": "Play Sports",
-    "start": 1795748100000,
+    "start": 1795750440000,
     "end": 1795759200000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -92,7 +122,7 @@
     "channel": "playsports4",
     "title": "BNXT League",
     "start": 1795759200000,
-    "end": 1795767780000,
+    "end": 1795767840000,
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "category": [
       "Sport",
@@ -118,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1795767780000:3y5tln",
+    "id": "playsports4:1795767840000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1795767780000,
-    "end": 1795773600000,
+    "start": 1795767840000,
+    "end": 1795773660000,
     "description": "Verslag van de race van de MotoGP van Portugal, gereden in Portimão, Portugal.",
     "category": [
       "Sport",
@@ -148,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1795773600000:arbc9d",
+    "id": "playsports4:1795773660000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1795773600000,
-    "end": 1795781100000,
+    "start": 1795773660000,
+    "end": 1795781220000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [
       "Sport",
@@ -178,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1795781100000:10r9e8y",
+    "id": "playsports4:1795781220000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1795781100000,
-    "end": 1795790880000,
+    "start": 1795781220000,
+    "end": 1795791060000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -208,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1795790880000:1ng6s",
+    "id": "playsports4:1795791060000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1795790880000,
-    "end": 1795799520000,
+    "start": 1795791060000,
+    "end": 1795799760000,
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "category": [
       "Sport",
@@ -238,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1795799520000:f9awoa",
+    "id": "playsports4:1795799760000:f9awoa",
     "channel": "playsports4",
     "title": "Tennis: Nitto ATP Finals 2026",
-    "start": 1795799520000,
-    "end": 1795805880000,
+    "start": 1795799760000,
+    "end": 1795806180000,
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "category": [
       "Sport",
@@ -268,11 +298,11 @@
     }
   },
   {
-    "id": "playsports4:1795805880000:1mv1683",
+    "id": "playsports4:1795806180000:1mv1683",
     "channel": "playsports4",
     "title": "Tennis: WTA Finals 2026",
-    "start": 1795805880000,
-    "end": 1795813980000,
+    "start": 1795806180000,
+    "end": 1795814340000,
     "description": null,
     "category": [
       "Sport",
@@ -298,11 +328,11 @@
     }
   },
   {
-    "id": "playsports4:1795813980000:arbc9d",
+    "id": "playsports4:1795814340000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1795813980000,
-    "end": 1795821540000,
+    "start": 1795814340000,
+    "end": 1795821900000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [
       "Sport",

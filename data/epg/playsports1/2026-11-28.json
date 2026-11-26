@@ -1,16 +1,16 @@
 [
   {
-    "id": "playsports1:1795818900000:1prlzbg",
+    "id": "playsports1:1795818960000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1795818900000,
-    "end": 1795825800000,
+    "start": 1795818960000,
+    "end": 1795824900000,
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584325~~2FEP033946612526%2Cimi%3Ac2ccf700ba42d181befff5e6eb95aa16d7416f82/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584325~~2FEP033946612526%2Cimi%3A9fe3a2e6b3a6700fc63e2930f734d0349c1d35cf/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -18,7 +18,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584325~~2FEP033946612526,imi:c2ccf700ba42d181befff5e6eb95aa16d7416f82",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584325~~2FEP033946612526,imi:9fe3a2e6b3a6700fc63e2930f734d0349c1d35cf",
       "episodeName": "Liverpool - Manchester United",
       "genres": [
         "Sport",
@@ -30,10 +30,38 @@
     }
   },
   {
-    "id": "playsports1:1795825800000:xykime",
+    "id": "playsports1:1795824900000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1795825800000,
+    "start": 1795824900000,
+    "end": 1795825140000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "category": [
+      "Sport"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A091c6ac14f2be7163008bf59e77de499b65f338c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:091c6ac14f2be7163008bf59e77de499b65f338c",
+      "episodeName": null,
+      "genres": [
+        "Sport"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "playsports1:1795825140000:xykime",
+    "channel": "playsports1",
+    "title": "Play Sports",
+    "start": 1795825140000,
     "end": 1795845300000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
@@ -62,7 +90,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1795845300000,
-    "end": 1795851480000,
+    "end": 1795851420000,
     "description": "Vanuit het Villa Park in Birmingham, Engeland.",
     "category": [
       "Sport",
@@ -88,11 +116,41 @@
     }
   },
   {
+    "id": "playsports1:1795851420000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1795851420000,
+    "end": 1795851480000,
+    "description": "Vanuit het MKM Stadium in Hull, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584561~~2FEP033946612536%2Cimi%3A4ab7034f60cf6cb84ce9817b2427c3e69eb2a24e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026112236,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584561~~2FEP033946612536,imi:4ab7034f60cf6cb84ce9817b2427c3e69eb2a24e",
+      "episodeName": "Hull City - Brighton & Hove Albion",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
     "id": "playsports1:1795851480000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1795851480000,
-    "end": 1795858080000,
+    "end": 1795857960000,
     "description": "Vanuit het MKM Stadium in Hull, Engeland.",
     "category": [
       "Sport",
@@ -115,6 +173,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1795857960000:11wg5yb",
+    "channel": "playsports1",
+    "title": "Bundesliga",
+    "start": 1795857960000,
+    "end": 1795858080000,
+    "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33617253~~2FEP033948601906%2Cimi%3A92cf14e5fe5976ae790c0e5722745fb05ffe2604/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 48600000,
+    "episode": 2026112106,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33617253~~2FEP033948601906,imi:92cf14e5fe5976ae790c0e5722745fb05ffe2604",
+      "episodeName": "FC Schalke 04 - VfB Stuttgart",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3589962~~2FSH033948600000"
     }
   },
   {
@@ -182,7 +270,7 @@
     "channel": "playsports1",
     "title": "Premier League Review",
     "start": 1795870500000,
-    "end": 1795873800000,
+    "end": 1795873620000,
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "category": [
       "Sport",
@@ -208,11 +296,41 @@
     }
   },
   {
+    "id": "playsports1:1795873620000:qjkkk5",
+    "channel": "playsports1",
+    "title": "Premier League Stories",
+    "start": 1795873620000,
+    "end": 1795873800000,
+    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
+    "category": [
+      "Docu",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274%2Cimi%3A851e05635bb87a169ebaee1f63c1b78672e815ef/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 6,
+    "episode": 17,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33958526~~2FEP043309820274,imi:851e05635bb87a169ebaee1f63c1b78672e815ef",
+      "episodeName": "Granit Xhaka",
+      "genres": [
+        "Docu",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
     "id": "playsports1:1795873800000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
     "start": 1795873800000,
-    "end": 1795875300000,
+    "end": 1795875180000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
@@ -235,6 +353,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
+    }
+  },
+  {
+    "id": "playsports1:1795875180000:14gsuik",
+    "channel": "playsports1",
+    "title": "Senne Lammens onder de loep",
+    "start": 1795875180000,
+    "end": 1795875300000,
+    "description": "Onze landgenoot incasseerde dit seizoen al 27 tegendoelpunten, maar treft de doelman telkens schuld? Ward Kerremans en Frank Boeckx nemen elk tegendoelpunt onder de loep en oordelen of Lammens al dan niet in de fout gaat.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34687949~~2FSH067303820000~~2Fspecial%2Cimi%3A893dd8f5b08d6080198c0e0f851061dbc066a50c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34687949~~2FSH067303820000~~2Fspecial,imi:893dd8f5b08d6080198c0e0f851061dbc066a50c",
+      "episodeName": null,
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {
@@ -452,7 +600,7 @@
     "channel": "playsports1",
     "title": "Premier League",
     "start": 1795896600000,
-    "end": 1795903200000,
+    "end": 1795896660000,
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "category": [
       "Sport",
@@ -478,11 +626,41 @@
     }
   },
   {
+    "id": "playsports1:1795896660000:1prlzbg",
+    "channel": "playsports1",
+    "title": "Premier League",
+    "start": 1795896660000,
+    "end": 1795903200000,
+    "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584546~~2FEP033946612534%2Cimi%3Acd497b6a1a6a63b74de66b38c54bbab521541b61/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 46610000,
+    "episode": 2026112134,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584546~~2FEP033946612534,imi:cd497b6a1a6a63b74de66b38c54bbab521541b61",
+      "episodeName": "Newcastle United - Arsenal",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": true,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
     "id": "playsports1:1795903200000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
     "start": 1795903200000,
-    "end": 1795910100000,
+    "end": 1795909440000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",

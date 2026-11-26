@@ -4,7 +4,7 @@
     "channel": "play4",
     "title": "De Tafel van Tine",
     "start": 1795737600000,
-    "end": 1795742700000,
+    "end": 1795741800000,
     "description": "Samen met een karrenvracht aan Tafelgasten en Tafelspringers werpt Tine Embrechts een kritische, scherpe, interessante en soms ook grappige blik op de actualiteit van de dag.",
     "category": [
       "Talkshow"
@@ -28,10 +28,10 @@
     }
   },
   {
-    "id": "play4:1795742700000:48zb9",
+    "id": "play4:1795741800000:48zb9",
     "channel": "play4",
     "title": "Geen uitzending",
-    "start": 1795742700000,
+    "start": 1795741800000,
     "end": 1795751400000,
     "description": null,
     "category": [],
@@ -438,31 +438,31 @@
     }
   },
   {
-    "id": "play4:1795808100000:1ltn7gx",
+    "id": "play4:1795808100000:11007xu",
     "channel": "play4",
-    "title": "Wordt aangekondigd",
+    "title": "Spektakel musical 14-18",
     "start": 1795808100000,
     "end": 1795812900000,
-    "description": "De programmering wordt nog aangekondigd.",
+    "description": "De Grote Oorlog breekt uit. Onder de Belgische soldaten zijn de boezemvrienden Jan, Kamiel, Fons en Albert. Hoewel iedereen er aanvankelijk van overtuigd is dat de strijd kortstondig zal zijn, blijkt het conflict veel langer te duren.",
     "category": [
-      "Entertainment"
+      "Musical"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba%2Cimi%3A932353fc9da2200be274f935f79fb11fbe8a7a00/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34726576~~2FEP067384750001%2Cimi%3A9a0a713107fd5eb3680b11fa8d8a33b4df692142/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": null,
-    "episode": null,
+    "season": 84750000,
+    "episode": 2026112701,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F514472~~2FSH027803150000~~2Ftba,imi:932353fc9da2200be274f935f79fb11fbe8a7a00",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34726576~~2FEP067384750001,imi:9a0a713107fd5eb3680b11fa8d8a33b4df692142",
       "episodeName": null,
       "genres": [
-        "Entertainment"
+        "Musical"
       ],
-      "productionDate": null,
+      "productionDate": "2026",
       "isSportsTeamEvent": false,
-      "parentSeriesId": null
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F21267967~~2FSH067384750000"
     }
   },
   {

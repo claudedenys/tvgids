@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1795910100000:xykime",
+    "id": "sport:playsports1:1795915800000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795910100000,
+    "start": 1795915800000,
     "end": 1795932300000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -299,6 +299,29 @@
     ]
   },
   {
+    "id": "sport:playsports3:1795950720000:3tkxx5",
+    "externalId": null,
+    "title": "Divock Origi",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1795950720000,
+    "end": 1795956900000,
+    "status": "aankomend",
+    "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Divock Origi.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
     "id": "sport:playsports3:1795956900000:3y5tln",
     "externalId": null,
     "title": "GP van Valencia: Race",
@@ -414,15 +437,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795909980000:1mv1683",
+    "id": "sport:playsports4:1795910760000:1mv1683",
     "externalId": null,
     "title": "Tennis: WTA Finals 2026",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795909980000,
-    "end": 1795918200000,
+    "start": 1795910760000,
+    "end": 1795918860000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -437,14 +460,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795918200000:xykime",
+    "id": "sport:playsports4:1795918860000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795918200000,
+    "start": 1795918860000,
     "end": 1795930200000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -468,7 +491,7 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1795930200000,
-    "end": 1795937760000,
+    "end": 1795937700000,
     "status": "aankomend",
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "source": "epg",
@@ -483,14 +506,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795943700000:f9awoa",
+    "id": "sport:playsports4:1795943640000:f9awoa",
     "externalId": null,
     "title": "Zverev vs Alcaraz",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795943700000,
+    "start": 1795943640000,
     "end": 1795953300000,
     "status": "aankomend",
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
@@ -537,7 +560,7 @@
     "competition": null,
     "sport": "Voetbal",
     "start": 1795966500000,
-    "end": 1795971900000,
+    "end": 1795972680000,
     "status": "aankomend",
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Divock Origi.",
     "source": "epg",
@@ -552,15 +575,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795971900000:f9awoa",
+    "id": "sport:playsports4:1795972680000:f9awoa",
     "externalId": null,
     "title": "Zverev vs Alcaraz",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795971900000,
-    "end": 1795981500000,
+    "start": 1795972680000,
+    "end": 1795982340000,
     "status": "aankomend",
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "source": "epg",
@@ -575,15 +598,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795981500000:1mv1683",
+    "id": "sport:playsports4:1795982340000:1mv1683",
     "externalId": null,
     "title": "Tennis: WTA Finals 2026",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795981500000,
-    "end": 1795989600000,
+    "start": 1795982340000,
+    "end": 1795990500000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -943,6 +966,29 @@
     ]
   },
   {
+    "id": "sport:match:1795909560000:manchester city - fulham",
+    "externalId": null,
+    "title": "Manchester City - Fulham",
+    "home": "Manchester City",
+    "away": "Fulham",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1795909560000,
+    "end": 1795915800000,
+    "status": "aankomend",
+    "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
     "id": "sport:match:1795932300000:bayern munchen - 1. fc koln",
     "externalId": null,
     "title": "Bayern München - 1. FC Köln",
@@ -1219,15 +1265,15 @@
     ]
   },
   {
-    "id": "sport:match:1795908300000:ajax - ado den haag",
+    "id": "sport:match:1795907700000:ajax - ado den haag",
     "externalId": null,
     "title": "Ajax - ADO Den Haag",
     "home": "Ajax",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795908300000,
-    "end": 1795914900000,
+    "start": 1795907700000,
+    "end": 1795913880000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1250,7 +1296,7 @@
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
     "start": 1795931700000,
-    "end": 1795938180000,
+    "end": 1795938240000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -1265,15 +1311,15 @@
     ]
   },
   {
-    "id": "sport:match:1795938180000:psv - feyenoord",
+    "id": "sport:match:1795938240000:psv - feyenoord",
     "externalId": null,
     "title": "PSV - Feyenoord",
     "home": "PSV",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795938180000,
-    "end": 1795944180000,
+    "start": 1795938240000,
+    "end": 1795944300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1288,40 +1334,17 @@
     ]
   },
   {
-    "id": "sport:match:1795944180000:feyenoord - excelsior",
+    "id": "sport:match:1795944300000:feyenoord - excelsior",
     "externalId": null,
     "title": "Feyenoord - Excelsior",
     "home": "Feyenoord",
     "away": "Excelsior",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795944180000,
-    "end": 1795950600000,
+    "start": 1795944300000,
+    "end": 1795950720000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:match:1795950600000:ajax - ado den haag",
-    "externalId": null,
-    "title": "Ajax - ADO Den Haag",
-    "home": "Ajax",
-    "away": "ADO Den Haag",
-    "competition": "Eredivisie",
-    "sport": "Voetbal",
-    "start": 1795950600000,
-    "end": 1795956900000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -1426,15 +1449,38 @@
     ]
   },
   {
-    "id": "sport:match:1795937760000:halve finale: ruud - alcaraz",
+    "id": "sport:match:1795900920000:shelton - alcaraz (finale)",
+    "externalId": null,
+    "title": "Shelton - Alcaraz (Finale)",
+    "home": "Shelton",
+    "away": "Alcaraz (Finale)",
+    "competition": "Tennis",
+    "sport": "Tennis",
+    "start": 1795900920000,
+    "end": 1795910760000,
+    "status": "aankomend",
+    "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:match:1795937700000:halve finale: ruud - alcaraz",
     "externalId": null,
     "title": "Halve finale: Ruud - Alcaraz",
     "home": "Halve finale: Ruud",
     "away": "Alcaraz",
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795937760000,
-    "end": 1795943700000,
+    "start": 1795937700000,
+    "end": 1795943640000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
@@ -1495,15 +1541,15 @@
     ]
   },
   {
-    "id": "sport:match:1795989600000:shelton - alcaraz (finale)",
+    "id": "sport:match:1795990500000:shelton - alcaraz (finale)",
     "externalId": null,
     "title": "Shelton - Alcaraz (Finale)",
     "home": "Shelton",
     "away": "Alcaraz (Finale)",
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795989600000,
-    "end": 1795999440000,
+    "start": 1795990500000,
+    "end": 1796000400000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
@@ -1515,29 +1561,6 @@
     ],
     "channelIds": [
       "playsports4"
-    ]
-  },
-  {
-    "id": "sport:match:1795905000000:boston common golf - motor city golf club",
-    "externalId": null,
-    "title": "Boston Common Golf - Motor City Golf Club",
-    "home": "Boston Common Golf",
-    "away": "Motor City Golf Club",
-    "competition": null,
-    "sport": "Golf",
-    "start": 1795905000000,
-    "end": 1795912200000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Boston Common Golf - Motor City Golf Club, gespeeld in de WTGL Golf League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
     ]
   },
   {

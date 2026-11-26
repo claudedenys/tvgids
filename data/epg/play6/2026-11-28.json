@@ -64,7 +64,7 @@
     "channel": "play6",
     "title": "Blue Bloods",
     "start": 1795829700000,
-    "end": 1795832100000,
+    "end": 1795830900000,
     "description": "Danny en Baez gaan op onderzoek uit nadat hun wederzijdse vriendin, Maggie Gibson, wordt mishandeld. Frank en het team debatteren over het juiste herdenkingsprotocol voor een voormalige politiecommissaris met een twijfelachtige professionele erfenis.",
     "category": [
       "Misdaaddrama",
@@ -87,6 +87,30 @@
       "productionDate": "2022",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fcfcd8323-ced7-4fce-abb9-11ed2eae6c41"
+    }
+  },
+  {
+    "id": "play6:1795830900000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1795830900000,
+    "end": 1795832100000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0ba602292232bf227e69053083e278e808797391",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   },
   {

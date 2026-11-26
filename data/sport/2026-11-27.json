@@ -8,6 +8,29 @@
     "competition": null,
     "sport": null,
     "start": 1795739280000,
+    "end": 1795739460000,
+    "status": "aankomend",
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:playsports1:1795739460000:xykime",
+    "externalId": null,
+    "title": "Play Sports",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795739460000,
     "end": 1795760100000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -23,15 +46,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1795804500000:amnfa6",
+    "id": "sport:playsports1:1795804440000:amnfa6",
     "externalId": null,
     "title": "Aflevering 82",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795804500000,
-    "end": 1795807800000,
+    "start": 1795804440000,
+    "end": 1795807620000,
     "status": "aankomend",
     "description": "Een terugblik op de wedstrijden van het weekend in de Premier League, met alle doelpunten, nieuws en belangrijke gespreksonderwerpen uit de hoogste divisie.",
     "source": "epg",
@@ -46,14 +69,14 @@
     ]
   },
   {
-    "id": "sport:playsports1:1795807800000:1spiq9g",
+    "id": "sport:playsports1:1795807620000:1spiq9g",
     "externalId": null,
     "title": "Aflevering 13",
     "home": null,
     "away": null,
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795807800000,
+    "start": 1795807620000,
     "end": 1795809300000,
     "status": "aankomend",
     "description": "Wekelijkse voorbeschouwing met alle relevante informatie over aankomende wedstrijden en het laatste nieuws uit de Bundesliga.",
@@ -215,7 +238,7 @@
     "competition": null,
     "sport": null,
     "start": 1795747860000,
-    "end": 1795756800000,
+    "end": 1795757100000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "source": "epg",
@@ -230,15 +253,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795794480000:arbc9d",
+    "id": "sport:playsports3:1795794840000:arbc9d",
     "externalId": null,
     "title": "GP van Las Vegas: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795794480000,
-    "end": 1795795200000,
+    "start": 1795794840000,
+    "end": 1795795500000,
     "status": "aankomend",
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "source": "epg",
@@ -253,15 +276,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795795200000:1p2p7re",
+    "id": "sport:playsports3:1795795500000:1p2p7re",
     "externalId": null,
     "title": "Aflevering 23",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795795200000,
-    "end": 1795798800000,
+    "start": 1795795500000,
+    "end": 1795799100000,
     "status": "aankomend",
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
     "source": "epg",
@@ -276,15 +299,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795798800000:ogmgyh",
+    "id": "sport:playsports3:1795799100000:ogmgyh",
     "externalId": null,
     "title": "Ostrava: Vrouwen",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Wielrennen",
-    "start": 1795798800000,
-    "end": 1795803300000,
+    "start": 1795799100000,
+    "end": 1795804200000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI wereldbeker veldrijden.",
     "source": "epg",
@@ -299,38 +322,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795803300000:i67pjl",
-    "externalId": null,
-    "title": "Play Sports Highlights",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": null,
-    "start": 1795803300000,
-    "end": 1795804200000,
-    "status": "aankomend",
-    "description": "Een greep uit het aanbod van afgelopen weekend.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1795804200000:ogmgyh",
+    "id": "sport:playsports3:1795804500000:ogmgyh",
     "externalId": null,
     "title": "Ostrava: Mannen",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Wielrennen",
-    "start": 1795804200000,
-    "end": 1795809600000,
+    "start": 1795804500000,
+    "end": 1795810500000,
     "status": "aankomend",
     "description": "Verslag van de races gereden in de UCI wereldbeker veldrijden.",
     "source": "epg",
@@ -345,15 +345,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795809600000:3tkxx5",
+    "id": "sport:playsports3:1795810500000:3tkxx5",
     "externalId": null,
     "title": "Divock Origi",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Voetbal",
-    "start": 1795809600000,
-    "end": 1795815000000,
+    "start": 1795810500000,
+    "end": 1795816800000,
     "status": "aankomend",
     "description": "Wekelijkse podcast waarin Evert Winkelmans en Joris Brys een vooraanstaand figuur uit de Belgische voetbalwereld ontvangen. Deze week: Divock Origi.",
     "source": "epg",
@@ -368,15 +368,15 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795815000000:1p3n9ye",
+    "id": "sport:playsports3:1795816800000:1p3n9ye",
     "externalId": null,
     "title": "Aflevering 10",
     "home": null,
     "away": null,
     "competition": "UEFA Champions League",
     "sport": "Voetbal",
-    "start": 1795815000000,
-    "end": 1795816800000,
+    "start": 1795816800000,
+    "end": 1795818300000,
     "status": "aankomend",
     "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
@@ -391,15 +391,38 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795744560000:1bi9p9l",
+    "id": "sport:playsports4:1795735500000:i67pjl",
+    "externalId": null,
+    "title": "Play Sports Highlights",
+    "home": null,
+    "away": null,
+    "competition": null,
+    "sport": null,
+    "start": 1795735500000,
+    "end": 1795737900000,
+    "status": "aankomend",
+    "description": "Een greep uit het aanbod van afgelopen weekend.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 4"
+    ],
+    "channels": [
+      "Play Sports 4"
+    ],
+    "channelIds": [
+      "playsports4"
+    ]
+  },
+  {
+    "id": "sport:playsports4:1795746960000:1bi9p9l",
     "externalId": null,
     "title": "Poepen in Prive",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795744560000,
-    "end": 1795748100000,
+    "start": 1795746960000,
+    "end": 1795750440000,
     "status": "aankomend",
     "description": "De spannendste sekspartijen gebeuren stiekem of vinden plaats achter gesloten deuren. Gluur door het sleutelgaatje naar binnen en zie je de geilste avontuurtjes.",
     "source": "epg",
@@ -414,14 +437,14 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795748100000:xykime",
+    "id": "sport:playsports4:1795750440000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795748100000,
+    "start": 1795750440000,
     "end": 1795759200000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -437,15 +460,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795767780000:3y5tln",
+    "id": "sport:playsports4:1795767840000:3y5tln",
     "externalId": null,
     "title": "GP van Portugal: Race",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795767780000,
-    "end": 1795773600000,
+    "start": 1795767840000,
+    "end": 1795773660000,
     "status": "aankomend",
     "description": "Verslag van de race van de MotoGP van Portugal, gereden in Portimão, Portugal.",
     "source": "epg",
@@ -460,15 +483,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795773600000:arbc9d",
+    "id": "sport:playsports4:1795773660000:arbc9d",
     "externalId": null,
     "title": "GP van Las Vegas: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795773600000,
-    "end": 1795781100000,
+    "start": 1795773660000,
+    "end": 1795781220000,
     "status": "aankomend",
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "source": "epg",
@@ -483,15 +506,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795799520000:f9awoa",
+    "id": "sport:playsports4:1795799760000:f9awoa",
     "externalId": null,
     "title": "Dag 1: Zverev vs Jodar",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795799520000,
-    "end": 1795805880000,
+    "start": 1795799760000,
+    "end": 1795806180000,
     "status": "aankomend",
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "source": "epg",
@@ -506,15 +529,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795805880000:1mv1683",
+    "id": "sport:playsports4:1795806180000:1mv1683",
     "externalId": null,
     "title": "Tennis: WTA Finals 2026",
     "home": null,
     "away": null,
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795805880000,
-    "end": 1795813980000,
+    "start": 1795806180000,
+    "end": 1795814340000,
     "status": "aankomend",
     "description": null,
     "source": "epg",
@@ -529,15 +552,15 @@
     ]
   },
   {
-    "id": "sport:playsports4:1795813980000:arbc9d",
+    "id": "sport:playsports4:1795814340000:arbc9d",
     "externalId": null,
     "title": "GP van Las Vegas: Race",
     "home": null,
     "away": null,
     "competition": "Formule 1",
     "sport": "Motorsport",
-    "start": 1795813980000,
-    "end": 1795821540000,
+    "start": 1795814340000,
+    "end": 1795821900000,
     "status": "aankomend",
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "source": "epg",
@@ -644,17 +667,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1795744800000:1tgnqwn",
+    "id": "sport:playsports-golf:1795714200000:zzkb3f",
     "externalId": null,
-    "title": "On The Bubble: Fighting for their Future",
+    "title": "Soudal Open: Dag 3",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1795744800000,
-    "end": 1795746600000,
+    "start": 1795714200000,
+    "end": 1795757400000,
     "status": "aankomend",
-    "description": "Op het Genesis Championship in Korea - het laatste DP World Tour-evenement vóór de play-offs - strijden vier spelers die op het randje van de afgrond staan om hun seizoen levende te houden. Met carrières en toekomst op het spel is dit golf op zijn puurst. Voor degenen die zich nog niet hebben gekwalificeerd, zal de week beslissen of ze hun DP World Tour-kaart behouden of hun speelrechten volledig verliezen.",
+    "description": "Verslag van de derde dag van de Soudal Open, gespeeld in Antwerpen, België.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -667,17 +690,17 @@
     ]
   },
   {
-    "id": "sport:playsports-golf:1795746600000:zzkb3f",
+    "id": "sport:playsports-golf:1795757400000:zzkb3f",
     "externalId": null,
-    "title": "BMW Australian PGA Championship: Dag 2",
+    "title": "Soudal Open: Dag 3",
     "home": null,
     "away": null,
     "competition": null,
     "sport": "Golf",
-    "start": 1795746600000,
+    "start": 1795757400000,
     "end": 1795759200000,
     "status": "aankomend",
-    "description": "Verslag van de tweede dag van de BMW Australian PGA Championship, gespeeld in Brisbane, Australië.",
+    "description": "Verslag van de derde dag van de Soudal Open, gespeeld in Antwerpen, België.",
     "source": "epg",
     "platforms": [
       "Play Sports Golf"
@@ -1357,14 +1380,14 @@
     ]
   },
   {
-    "id": "sport:match:1795732980000:bayern munchen - 1. fc koln",
+    "id": "sport:match:1795733160000:bayern munchen - 1. fc koln",
     "externalId": null,
     "title": "Bayern München - 1. FC Köln",
     "home": "Bayern München",
     "away": "1. FC Köln",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795732980000,
+    "start": 1795733160000,
     "end": 1795739280000,
     "status": "aankomend",
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
@@ -1411,6 +1434,29 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1795766340000,
+    "end": 1795766400000,
+    "status": "aankomend",
+    "description": "Vanuit het Borussia-Park in Mönchengladbach, Duitsland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1795766400000:borussia monchengladbach - borussia dortmund",
+    "externalId": null,
+    "title": "Borussia Mönchengladbach - Borussia Dortmund",
+    "home": "Borussia Mönchengladbach",
+    "away": "Borussia Dortmund",
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1795766400000,
     "end": 1795772460000,
     "status": "aankomend",
     "description": "Vanuit het Borussia-Park in Mönchengladbach, Duitsland.",
@@ -1503,7 +1549,7 @@
     "competition": "Bundesliga",
     "sport": "Voetbal",
     "start": 1795791480000,
-    "end": 1795798140000,
+    "end": 1795791540000,
     "status": "aankomend",
     "description": "Vanuit het Weserstadion in Bremen, Duitsland.",
     "source": "epg",
@@ -1518,15 +1564,38 @@
     ]
   },
   {
-    "id": "sport:match:1795798140000:manchester city - fulham",
+    "id": "sport:match:1795791540000:werder bremen - hsv",
+    "externalId": null,
+    "title": "Werder Bremen - HSV",
+    "home": "Werder Bremen",
+    "away": "HSV",
+    "competition": "Bundesliga",
+    "sport": "Voetbal",
+    "start": 1795791540000,
+    "end": 1795798200000,
+    "status": "aankomend",
+    "description": "Vanuit het Weserstadion in Bremen, Duitsland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1795798200000:manchester city - fulham",
     "externalId": null,
     "title": "Manchester City - Fulham",
     "home": "Manchester City",
     "away": "Fulham",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795798140000,
-    "end": 1795804500000,
+    "start": 1795798200000,
+    "end": 1795804440000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "source": "epg",
@@ -1572,7 +1641,30 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1795818900000,
-    "end": 1795825800000,
+    "end": 1795818960000,
+    "status": "aankomend",
+    "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1795818960000:liverpool - manchester united",
+    "externalId": null,
+    "title": "Liverpool - Manchester United",
+    "home": "Liverpool",
+    "away": "Manchester United",
+    "competition": "Premier League",
+    "sport": "Voetbal",
+    "start": 1795818960000,
+    "end": 1795824900000,
     "status": "aankomend",
     "description": "Vanuit Anfield in Liverpool, Merseyside, Engeland.",
     "source": "epg",
@@ -1633,15 +1725,15 @@
     ]
   },
   {
-    "id": "sport:match:1795756800000:psv - feyenoord",
+    "id": "sport:match:1795757100000:psv - feyenoord",
     "externalId": null,
     "title": "PSV - Feyenoord",
     "home": "PSV",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795756800000,
-    "end": 1795762800000,
+    "start": 1795757100000,
+    "end": 1795763100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1656,15 +1748,15 @@
     ]
   },
   {
-    "id": "sport:match:1795762800000:feyenoord - excelsior",
+    "id": "sport:match:1795763100000:feyenoord - excelsior",
     "externalId": null,
     "title": "Feyenoord - Excelsior",
     "home": "Feyenoord",
     "away": "Excelsior",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795762800000,
-    "end": 1795769100000,
+    "start": 1795763100000,
+    "end": 1795769460000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1679,15 +1771,15 @@
     ]
   },
   {
-    "id": "sport:match:1795769100000:ajax - ado den haag",
+    "id": "sport:match:1795769460000:ajax - ado den haag",
     "externalId": null,
     "title": "Ajax - ADO Den Haag",
     "home": "Ajax",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795769100000,
-    "end": 1795775340000,
+    "start": 1795769460000,
+    "end": 1795775640000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1702,15 +1794,15 @@
     ]
   },
   {
-    "id": "sport:match:1795775340000:az - juventus",
+    "id": "sport:match:1795775640000:az - juventus",
     "externalId": null,
     "title": "AZ - Juventus",
     "home": "AZ",
     "away": "Juventus",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1795775340000,
-    "end": 1795781820000,
+    "start": 1795775640000,
+    "end": 1795782180000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd AZ - Juventus, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -1725,15 +1817,15 @@
     ]
   },
   {
-    "id": "sport:match:1795781820000:kups - kaa gent",
+    "id": "sport:match:1795782180000:kups - kaa gent",
     "externalId": null,
     "title": "KuPS - KAA Gent",
     "home": "KuPS",
     "away": "KAA Gent",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1795781820000,
-    "end": 1795788300000,
+    "start": 1795782180000,
+    "end": 1795788600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd KuPS - KAA Gent, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -1748,15 +1840,15 @@
     ]
   },
   {
-    "id": "sport:match:1795788300000:stvv - sk brann",
+    "id": "sport:match:1795788600000:stvv - sk brann",
     "externalId": null,
     "title": "STVV - SK Brann",
     "home": "STVV",
     "away": "SK Brann",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1795788300000,
-    "end": 1795794480000,
+    "start": 1795788600000,
+    "end": 1795794840000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd STVV - SK Brann, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -1771,15 +1863,38 @@
     ]
   },
   {
-    "id": "sport:match:1795816800000:psv - feyenoord",
+    "id": "sport:match:1795804200000:ajax - ado den haag",
+    "externalId": null,
+    "title": "Ajax - ADO Den Haag",
+    "home": "Ajax",
+    "away": "ADO Den Haag",
+    "competition": "Eredivisie",
+    "sport": "Voetbal",
+    "start": 1795804200000,
+    "end": 1795804500000,
+    "status": "aankomend",
+    "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:match:1795818300000:psv - feyenoord",
     "externalId": null,
     "title": "PSV - Feyenoord",
     "home": "PSV",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795816800000,
-    "end": 1795822800000,
+    "start": 1795818300000,
+    "end": 1795824300000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1794,15 +1909,15 @@
     ]
   },
   {
-    "id": "sport:match:1795735500000:halve finale: van assche - shelton",
+    "id": "sport:match:1795737900000:halve finale: van assche - shelton",
     "externalId": null,
     "title": "Halve finale: Van Assche - Shelton",
     "home": "Halve finale: Van Assche",
     "away": "Shelton",
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795735500000,
-    "end": 1795744560000,
+    "start": 1795737900000,
+    "end": 1795746960000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
@@ -1825,7 +1940,7 @@
     "competition": null,
     "sport": "Basketbal",
     "start": 1795759200000,
-    "end": 1795767780000,
+    "end": 1795767840000,
     "status": "aankomend",
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "source": "epg",
@@ -1840,15 +1955,15 @@
     ]
   },
   {
-    "id": "sport:match:1795781100000:shelton - alcaraz (finale)",
+    "id": "sport:match:1795781220000:shelton - alcaraz (finale)",
     "externalId": null,
     "title": "Shelton - Alcaraz (Finale)",
     "home": "Shelton",
     "away": "Alcaraz (Finale)",
     "competition": "Tennis",
     "sport": "Tennis",
-    "start": 1795781100000,
-    "end": 1795790880000,
+    "start": 1795781220000,
+    "end": 1795791060000,
     "status": "aankomend",
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "source": "epg",
@@ -1863,15 +1978,15 @@
     ]
   },
   {
-    "id": "sport:match:1795790880000:limburg united - aalst",
+    "id": "sport:match:1795791060000:limburg united - aalst",
     "externalId": null,
     "title": "Limburg United - Aalst",
     "home": "Limburg United",
     "away": "Aalst",
     "competition": null,
     "sport": "Basketbal",
-    "start": 1795790880000,
-    "end": 1795799520000,
+    "start": 1795791060000,
+    "end": 1795799760000,
     "status": "aankomend",
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "source": "epg",
@@ -1883,29 +1998,6 @@
     ],
     "channelIds": [
       "playsports4"
-    ]
-  },
-  {
-    "id": "sport:match:1795737600000:boston common golf - motor city golf club",
-    "externalId": null,
-    "title": "Boston Common Golf - Motor City Golf Club",
-    "home": "Boston Common Golf",
-    "away": "Motor City Golf Club",
-    "competition": null,
-    "sport": "Golf",
-    "start": 1795737600000,
-    "end": 1795744800000,
-    "status": "aankomend",
-    "description": "Verslag van de wedstrijd Boston Common Golf - Motor City Golf Club, gespeeld in de WTGL Golf League.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports Golf"
-    ],
-    "channels": [
-      "Play Sports Golf"
-    ],
-    "channelIds": [
-      "playsports-golf"
     ]
   },
   {
