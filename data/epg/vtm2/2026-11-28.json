@@ -114,7 +114,7 @@
     "channel": "vtm2",
     "title": "Darts",
     "start": 1795870800000,
-    "end": 1795885200000,
+    "end": 1795884900000,
     "description": "Deze namiddag staan in Minehead de zestien wedstrijden uit de tweede ronde (best of 11 legs) op het programma.",
     "category": [
       "Sport",
@@ -140,10 +140,10 @@
     }
   },
   {
-    "id": "vtm2:1795885200000:dnuwgz",
+    "id": "vtm2:1795884900000:dnuwgz",
     "channel": "vtm2",
     "title": "Foute vrienden",
-    "start": 1795885200000,
+    "start": 1795884900000,
     "end": 1795887600000,
     "description": "De `Foute Vrienden' gaan aan de slag als receptiemedewerkers in Hotel Mijdrecht. Dankzij de rake opmerkingen zorgen ze ervoor dat de gasten waarschijnlijk liever uitchecken dan inchecken.",
     "category": [
@@ -230,7 +230,7 @@
     "channel": "vtm2",
     "title": "Darts",
     "start": 1795892400000,
-    "end": 1795906800000,
+    "end": 1795906500000,
     "description": "Vanavond staan in Minehead de acht wedstrijden uit de derde ronde (best of 19 legs) op het programma.",
     "category": [
       "Sport",
@@ -253,6 +253,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fda00f743-8830-4b86-ac26-0d34256421b6"
+    }
+  },
+  {
+    "id": "vtm2:1795906500000:sjpjtf",
+    "channel": "vtm2",
+    "title": "The Racer",
+    "start": 1795906500000,
+    "end": 1795913100000,
+    "description": "Een doorgewinterde supportrijder beleeft de meest dramatische drie dagen van zijn leven en mogelijk het einde van zijn carrière, tijdens de eerste Ierse etappes van de beruchte Tour de France 1998.",
+    "category": [
+      "Drama",
+      "Film"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F18631254~~2FMV016770060000%2Cimi%3A34d589aa73529dd6b45fe6c8a00fe605822a3224/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F18631254~~2FMV016770060000,imi:34d589aa73529dd6b45fe6c8a00fe605822a3224",
+      "episodeName": null,
+      "genres": [
+        "Drama",
+        "Film"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
     }
   }
 ]

@@ -26,7 +26,7 @@
     "end": 1795740600000,
     "description": "De klassiekers uit de Evergreen Top 1000 van NPO Radio 5.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/n/carrousel/npo-radio-5-evergreen-top-1000-798139232.jpg",
+    "image": "https://tvgidsassets.nl/v392/upload/n/carrousel/npo-radio-5-evergreen-top-1000-804246432.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -68,7 +68,7 @@
     "title": "Nieuwsuur",
     "start": 1795741500000,
     "end": 1795743900000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Onvrede over dubbelfunctie Yesilgöz.",
     "category": [
       "Actueel"
     ],
@@ -118,7 +118,7 @@
     "title": "Nieuwsuur",
     "start": 1795746300000,
     "end": 1795754700000,
-    "description": "Het nieuws met achtergronden, duiding en analyse.",
+    "description": "Met in deze uitzending: * Onvrede over dubbelfunctie Yesilgöz.",
     "category": [
       "Actueel"
     ],
@@ -402,7 +402,7 @@
     "title": "NOS Journaal",
     "start": 1795777200000,
     "end": 1795778100000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Onderzoek n.a.v...",
     "category": [
       "Actueel"
     ],
@@ -416,7 +416,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -447,32 +448,10 @@
     "channel": "npo2",
     "title": "MAX Maakt Mogelijk",
     "start": 1795779000000,
-    "end": 1795779900000,
+    "end": 1795780800000,
     "description": "Op twee uur rijden van Kaapstad ligt de stad Touwsrivier, waar ooit genoeg werk was voor de inwoners.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/m/carrousel/max-maakt-mogelijk-helpt-798552522.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1795779900000:r3sp6g",
-    "channel": "npo2",
-    "title": "Nu te zien!",
-    "start": 1795779900000,
-    "end": 1795780800000,
-    "description": "Directeur van Kunstmuseum Den Haag Margriet Schavemaker duikt in het werk van de Venezolaans-Amerikaanse kunstenaar...",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/n/carrousel/nu-te-zien-797567862.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -492,7 +471,7 @@
     "title": "NOS Journaal",
     "start": 1795780800000,
     "end": 1795782300000,
-    "description": "Met het laatste nieuws en de weersverwachting.",
+    "description": "<span class=\"label label--updated\">Update</span> Met in deze uitzending: * Onderzoek n.a.v...",
     "category": [
       "Actueel"
     ],
@@ -506,7 +485,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -537,7 +517,7 @@
     "end": 1795788300000,
     "description": "Wanneer de beroemde pianiste Martha Argerich het podium op komt lopen, lijkt het alsof ze er helemaal geen zin in heeft.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/h/carrousel/het-uur-van-de-wolf-794439622.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -647,7 +627,7 @@
     "channel": "npo2",
     "title": "Met het mes op tafel",
     "start": 1795793400000,
-    "end": 1795794960000,
+    "end": 1795794900000,
     "description": "Drie kandidaten pokeren in een bruine kroeg met antwoorden op pittige vragen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/m/carrousel/met-het-mes-op-tafel-794439772.jpg",
@@ -665,10 +645,10 @@
     }
   },
   {
-    "id": "npo2:1795794960000:12b58co",
+    "id": "npo2:1795794900000:12b58co",
     "channel": "npo2",
     "title": "Politieke partijen",
-    "start": 1795794960000,
+    "start": 1795794900000,
     "end": 1795795020000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
@@ -694,7 +674,7 @@
     "end": 1795795500000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/p/carrousel/politieke-partijen-801734342.jpg",
+    "image": "https://tvgidsassets.nl/v392/upload/p/carrousel/politieke-partijen-804247032.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,

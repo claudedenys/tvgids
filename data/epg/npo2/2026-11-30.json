@@ -123,7 +123,7 @@
     "title": "Tijd voor MAX",
     "start": 1796019300000,
     "end": 1796022000000,
-    "description": "Martine van Os en Sybrand Niessen ontvangen gasten.",
+    "description": "Met in deze uitzending: * Het is Nationale Heldendag, de dag waarop.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/t/carrousel/tijd-voor-max-798206042.jpg",
     "icon": null,
@@ -144,7 +144,7 @@
     "channel": "npo2",
     "title": "BinnensteBuiten",
     "start": 1796022000000,
-    "end": 1796024400000,
+    "end": 1796024100000,
     "description": "Met in deze uitzending: * Almere bestaat 50 jaar.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/b/carrousel/binnenstebuiten-798002562.jpg",
@@ -162,10 +162,10 @@
     }
   },
   {
-    "id": "npo2:1796024400000:1dw9gp4",
+    "id": "npo2:1796024100000:1dw9gp4",
     "channel": "npo2",
     "title": "MAX geheugentrainer",
-    "start": 1796024400000,
+    "start": 1796024100000,
     "end": 1796025600000,
     "description": "Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden.",
     "category": [],
@@ -234,7 +234,7 @@
     "channel": "npo2",
     "title": "Zentijd",
     "start": 1796027400000,
-    "end": 1796028900000,
+    "end": 1796028600000,
     "description": "Laagdrempelige yoga-, meditatie- en ademhalingsoefeningen waar iedereen aan mee kan doen.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/z/carrousel/zentijd-798472742.jpg",
@@ -249,11 +249,11 @@
     }
   },
   {
-    "id": "npo2:1796028900000:qbw2jg",
+    "id": "npo2:1796028600000:qbw2jg",
     "channel": "npo2",
     "title": "Nieuwsuur",
-    "start": 1796028900000,
-    "end": 1796031540000,
+    "start": 1796028600000,
+    "end": 1796031000000,
     "description": "Het nieuws met achtergronden, duiding en analyse.",
     "category": [
       "Actueel"
@@ -274,11 +274,11 @@
     }
   },
   {
-    "id": "npo2:1796031540000:cbx4tl",
+    "id": "npo2:1796031000000:cbx4tl",
     "channel": "npo2",
     "title": "Buitenhof",
-    "start": 1796031540000,
-    "end": 1796035200000,
+    "start": 1796031000000,
+    "end": 1796034600000,
     "description": "Interviewprogramma waar de actualiteit met vooraanstaande opiniemakers en politici besproken wordt, live...",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/b/carrousel/buitenhof-793981862.jpg",
@@ -296,11 +296,11 @@
     }
   },
   {
-    "id": "npo2:1796035200000:u7tjvs",
+    "id": "npo2:1796034600000:u7tjvs",
     "channel": "npo2",
     "title": "MAX Maakt Mogelijk helpt",
-    "start": 1796035200000,
-    "end": 1796036400000,
+    "start": 1796034600000,
+    "end": 1796035200000,
     "description": "Aandacht voor de jaarlijkse winteractie van MAX Maakt Mogelijk in Oost-Europa.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/m/carrousel/max-maakt-mogelijk-helpt-798552522.jpg",
@@ -312,6 +312,28 @@
     "live": false,
     "meta": {
       "labels": []
+    }
+  },
+  {
+    "id": "npo2:1796035200000:lbirfd",
+    "channel": "npo2",
+    "title": "Tussen kunst en kitsch extra",
+    "start": 1796035200000,
+    "end": 1796036400000,
+    "description": "Mieke Zilverberg gaat naar aanleiding van een ingebracht olielampje uit de 8e tot 7e eeuw voor Christus naar het...",
+    "category": [],
+    "image": "https://tvgidsassets.nl/v392/upload/t/carrousel/tussen-kunst-en-kitsch-extra-798166812.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {
@@ -365,32 +387,10 @@
     "channel": "npo2",
     "title": "MAX Maakt Mogelijk",
     "start": 1796038200000,
-    "end": 1796039100000,
+    "end": 1796040000000,
     "description": "Jan Slagter verrast de 70-jarige Wim die nietsvermoedend op zijn dagbesteding in Limburg aan het werk is.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/m/carrousel/max-maakt-mogelijk-helpt-798552522.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": [
-        "program",
-        "rerun"
-      ]
-    }
-  },
-  {
-    "id": "npo2:1796039100000:lbirfd",
-    "channel": "npo2",
-    "title": "Tussen kunst en kitsch extra",
-    "start": 1796039100000,
-    "end": 1796040000000,
-    "description": "Mieke Zilverberg gaat naar aanleiding van een ingebracht olielampje uit de 8e tot 7e eeuw voor Christus naar het...",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/t/carrousel/tussen-kunst-en-kitsch-extra-798166812.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -409,7 +409,7 @@
     "channel": "npo2",
     "title": "NOS Journaal",
     "start": 1796040000000,
-    "end": 1796041500000,
+    "end": 1796041200000,
     "description": "Met het laatste nieuws en de weersverwachting.",
     "category": [
       "Actueel"
@@ -429,10 +429,10 @@
     }
   },
   {
-    "id": "npo2:1796041500000:1n6j2c1",
+    "id": "npo2:1796041200000:1n6j2c1",
     "channel": "npo2",
     "title": "Stand van Nederland",
-    "start": 1796041500000,
+    "start": 1796041200000,
     "end": 1796043000000,
     "description": "De brandstofauto verdwijnt, de elektrische auto komt.",
     "category": [],
@@ -455,7 +455,7 @@
     "channel": "npo2",
     "title": "De ongelooflijke podcast",
     "start": 1796043000000,
-    "end": 1796046600000,
+    "end": 1796046300000,
     "description": "Journalist David Boogerd en theoloog Stefan Paas voeren met gasten, van atheïsten tot gelovigen, gesprekken over de...",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/d/carrousel/de-ongelooflijke-podcast-797286512.jpg",
@@ -470,10 +470,10 @@
     }
   },
   {
-    "id": "npo2:1796046600000:1x0tw8r",
+    "id": "npo2:1796046300000:1x0tw8r",
     "channel": "npo2",
     "title": "Jazzportretten",
-    "start": 1796046600000,
+    "start": 1796046300000,
     "end": 1796048700000,
     "description": "Deze keer portretteren we trompettist Jan van Duikeren (1975, Schiedam).",
     "category": [],
@@ -580,7 +580,7 @@
     "end": 1796054160000,
     "description": "Koning Willem-Alexander, koningin Máxima, prinses Beatrix en de andere leden van het koninklijk huis worden van...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/b/carrousel/blauw-bloed-799625692.jpg",
+    "image": "https://tvgidsassets.nl/v392/upload/b/carrousel/blauw-bloed-804303102.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -599,29 +599,10 @@
     "channel": "npo2",
     "title": "Politieke partijen",
     "start": 1796054160000,
-    "end": 1796054280000,
-    "description": "Zendtijd voor politieke partijen in Nederland.",
-    "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/r/carrousel/rtl-z-nieuws-extra-kamerdebat-798213462.jpg",
-    "icon": null,
-    "source": "tvgids.nl",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "labels": []
-    }
-  },
-  {
-    "id": "npo2:1796054280000:12b58co",
-    "channel": "npo2",
-    "title": "Politieke partijen",
-    "start": 1796054280000,
     "end": 1796054700000,
     "description": "Zendtijd voor politieke partijen in Nederland.",
     "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/r/carrousel/rtl-z-nieuws-extra-kamerdebat-798213462.jpg",
+    "image": "https://tvgidsassets.nl/v392/upload/p/carrousel/politieke-partijen-804424132.jpg",
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -629,7 +610,10 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "program",
+        "rerun"
+      ]
     }
   },
   {

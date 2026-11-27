@@ -68,6 +68,30 @@
     }
   },
   {
+    "id": "sbs6:1795755780000:1k6yy12",
+    "channel": "sbs6",
+    "title": "Hart van Nederland",
+    "start": 1795755780000,
+    "end": 1795757400000,
+    "description": "'Waar praat Nederland vandaag over?",
+    "category": [
+      "Actueel"
+    ],
+    "image": "https://tvgidsassets.nl/v392/upload/h/carrousel/hart-van-nederland-794767852.jpg",
+    "icon": null,
+    "source": "tvgids.nl",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "labels": [
+        "program",
+        "actueel"
+      ]
+    }
+  },
+  {
     "id": "sbs6:1795757400000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
@@ -313,7 +337,7 @@
     "title": "Hart van Nederland",
     "start": 1795766400000,
     "end": 1795767300000,
-    "description": "'Waar praat Nederland vandaag over?",
+    "description": "<span class=\"label label--updated\">Update</span> De koudste 27 november ooit op meerdere plekken in Nederland...",
     "category": [
       "Actueel"
     ],
@@ -327,7 +351,8 @@
     "meta": {
       "labels": [
         "program",
-        "actueel"
+        "actueel",
+        "updated"
       ]
     }
   },
@@ -432,7 +457,7 @@
     "channel": "sbs6",
     "title": "Hart van Nederland",
     "start": 1795770900000,
-    "end": 1795771800000,
+    "end": 1795771680000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -452,10 +477,10 @@
     }
   },
   {
-    "id": "sbs6:1795771800000:16r3jxd",
+    "id": "sbs6:1795771680000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1795771800000,
+    "start": 1795771680000,
     "end": 1795774800000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
@@ -478,7 +503,7 @@
     "channel": "sbs6",
     "title": "Nieuws van de dag",
     "start": 1795774800000,
-    "end": 1795778400000,
+    "end": 1795778280000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -499,10 +524,10 @@
     }
   },
   {
-    "id": "sbs6:1795778400000:2eepw1",
+    "id": "sbs6:1795778280000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1795778400000,
+    "start": 1795778280000,
     "end": 1795780200000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
@@ -525,7 +550,7 @@
     "channel": "sbs6",
     "title": "Waar is mijn erfenis?",
     "start": 1795780200000,
-    "end": 1795783800000,
+    "end": 1795783560000,
     "description": "Henriette komt er op latere leeftijd achter dat zij een jongere halfbroer heeft.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/w/carrousel/waar-is-mijn-erfenis-796265862.jpg",
@@ -543,11 +568,11 @@
     }
   },
   {
-    "id": "sbs6:1795783800000:1ddldj5",
+    "id": "sbs6:1795783560000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1795783800000,
-    "end": 1795787100000,
+    "start": 1795783560000,
+    "end": 1795786920000,
     "description": "Een grote verrassing voor de deelnemers staat klaar en ze moeten flink aan de bak.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/d/carrousel/de-bondgenoten-791401472.jpg",
@@ -565,14 +590,14 @@
     }
   },
   {
-    "id": "sbs6:1795787100000:ar1ua0",
+    "id": "sbs6:1795786920000:ar1ua0",
     "channel": "sbs6",
     "title": "Droomhuis op het platteland",
-    "start": 1795787100000,
-    "end": 1795790400000,
+    "start": 1795786920000,
+    "end": 1795790340000,
     "description": "Het maakt de kopers niet uit of ze een nieuw huis vinden in Hampshire of Dorset, zolang het maar in de buurt is van...",
     "category": [],
-    "image": "https://tvgidsassets.nl/v392/upload/e/carrousel/escape-to-the-country-797334702.jpg",
+    "image": null,
     "icon": null,
     "source": "tvgids.nl",
     "season": null,
@@ -587,10 +612,10 @@
     }
   },
   {
-    "id": "sbs6:1795790400000:1bvdgii",
+    "id": "sbs6:1795790340000:1bvdgii",
     "channel": "sbs6",
     "title": "Homes under the hammer",
-    "start": 1795790400000,
+    "start": 1795790340000,
     "end": 1795794600000,
     "description": "Een terugblik naar 2016, toen Dion Dublin een voormalig politiebureau in Birmingham bezocht, niet bepaald een...",
     "category": [],
@@ -613,7 +638,7 @@
     "channel": "sbs6",
     "title": "Droomhuis op het platteland",
     "start": 1795794600000,
-    "end": 1795798200000,
+    "end": 1795798140000,
     "description": "Steve Brown verwondert zich over het adembenemende landschap van het Schotse Perth and Kinross, terwijl hij een stel...",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/e/carrousel/escape-to-the-country-797334702.jpg",
@@ -631,11 +656,11 @@
     }
   },
   {
-    "id": "sbs6:1795798200000:1k6yy12",
+    "id": "sbs6:1795798140000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1795798200000,
-    "end": 1795799100000,
+    "start": 1795798140000,
+    "end": 1795799040000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -655,11 +680,11 @@
     }
   },
   {
-    "id": "sbs6:1795799100000:1e1evyy",
+    "id": "sbs6:1795799040000:1e1evyy",
     "channel": "sbs6",
     "title": "Nieuws van de dag",
-    "start": 1795799100000,
-    "end": 1795802400000,
+    "start": 1795799040000,
+    "end": 1795802040000,
     "description": "Opinie- en actualiteitenprogramma waarin verslaggevers en opiniemakers van De Telegraaf en 'Hart van Nederland' het...",
     "category": [
       "Actueel"
@@ -679,11 +704,11 @@
     }
   },
   {
-    "id": "sbs6:1795802400000:2eepw1",
+    "id": "sbs6:1795802040000:2eepw1",
     "channel": "sbs6",
     "title": "Prijzenjacht",
-    "start": 1795802400000,
-    "end": 1795804200000,
+    "start": 1795802040000,
+    "end": 1795804080000,
     "description": "In 'Prijzenjacht' draait het om het schatten van de juiste prijs.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/p/carrousel/prijzenjacht-798462322.jpg",
@@ -698,12 +723,12 @@
     }
   },
   {
-    "id": "sbs6:1795804200000:1ddldj5",
+    "id": "sbs6:1795804080000:1ddldj5",
     "channel": "sbs6",
     "title": "De bondgenoten",
-    "start": 1795804200000,
-    "end": 1795807800000,
-    "description": "Een maand lang hebben de bondgenoten elkaar nodig om kans te maken op honderdduizend euro.",
+    "start": 1795804080000,
+    "end": 1795807680000,
+    "description": "Het gewonnen American high school-feestje is erg gezellig, zeker voor Sigourney en Dylan.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/d/carrousel/de-bondgenoten-791401472.jpg",
     "icon": null,
@@ -717,11 +742,11 @@
     }
   },
   {
-    "id": "sbs6:1795807800000:ykt86w",
+    "id": "sbs6:1795807680000:ykt86w",
     "channel": "sbs6",
     "title": "Urk!",
-    "start": 1795807800000,
-    "end": 1795811700000,
+    "start": 1795807680000,
+    "end": 1795811820000,
     "description": "Het wordt een stuk stiller in het oude dorp, want Gré verlaat Urk voor de liefde en verhuist naar Emmeloord.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/u/carrousel/urk-796264992.jpg",
@@ -736,12 +761,12 @@
     }
   },
   {
-    "id": "sbs6:1795811700000:1rq69gz",
+    "id": "sbs6:1795811820000:1rq69gz",
     "channel": "sbs6",
     "title": "Vandaag inside",
-    "start": 1795811700000,
-    "end": 1795815600000,
-    "description": "In 'Vandaag inside' geven Wilfred Genee, Johan Derksen en René van der Gijp hun kijk op het nieuws en de actualiteit.",
+    "start": 1795811820000,
+    "end": 1795815780000,
+    "description": "<span class=\"label label--updated\">Update</span> Hélène Hendriks schuift aan bij Johan Derksen, Wilfred Genee en René van der Gijp...",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/v/carrousel/vandaag-inside-790968802.jpg",
     "icon": null,
@@ -751,15 +776,17 @@
     "actors": [],
     "live": false,
     "meta": {
-      "labels": []
+      "labels": [
+        "updated"
+      ]
     }
   },
   {
-    "id": "sbs6:1795815600000:1k6yy12",
+    "id": "sbs6:1795815780000:1k6yy12",
     "channel": "sbs6",
     "title": "Hart van Nederland",
-    "start": 1795815600000,
-    "end": 1795816800000,
+    "start": 1795815780000,
+    "end": 1795816920000,
     "description": "'Waar praat Nederland vandaag over?",
     "category": [
       "Actueel"
@@ -779,11 +806,11 @@
     }
   },
   {
-    "id": "sbs6:1795816800000:16r3jxd",
+    "id": "sbs6:1795816920000:16r3jxd",
     "channel": "sbs6",
     "title": "Shownieuws",
-    "start": 1795816800000,
-    "end": 1795820100000,
+    "start": 1795816920000,
+    "end": 1795820160000,
     "description": "Het laatste nieuws uit de wereld van showbizz en entertainment.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/s/carrousel/shownieuws-792436402.jpg",
@@ -798,11 +825,11 @@
     }
   },
   {
-    "id": "sbs6:1795820100000:1v08pes",
+    "id": "sbs6:1795820160000:1v08pes",
     "channel": "sbs6",
     "title": "Sing with me",
-    "start": 1795820100000,
-    "end": 1795825800000,
+    "start": 1795820160000,
+    "end": 1795825680000,
     "description": "Dakdekker Jari waagt zijn kans op een droomduet, maar ook gospelzangeres Ilysha hoopt indruk te maken op de artiesten.",
     "category": [],
     "image": "https://tvgidsassets.nl/v392/upload/s/carrousel/sing-with-me-797720802.jpg",

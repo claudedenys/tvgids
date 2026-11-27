@@ -32,7 +32,7 @@
     "description": "Verken de prehistorische micro-macrowereld, de aankleedpuzzel van een slee en kijk hoe het Boekenmeisje handschoenen en een muts draagt om in de sneeuw te spelen door te toveren.",
     "category": [
       "Kids",
-      "Entertainment"
+      "Educatie"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19215577~~2FEP033291810085%2Cimi%3A522cafaf35e503c7018a9b2cc4103701418c2c3f/posterTile",
     "icon": null,
@@ -46,7 +46,7 @@
       "episodeName": "Aflevering 34",
       "genres": [
         "Kids",
-        "Entertainment"
+        "Educatie"
       ],
       "productionDate": "2020",
       "isSportsTeamEvent": false,
@@ -234,7 +234,7 @@
     "channel": "ketnet",
     "title": "Sintervraagje",
     "start": 1796016900000,
-    "end": 1796017200000,
+    "end": 1796017020000,
     "description": "Kinderen vertellen openhartig welk cadeautje Sinterklaas volgens henzelf graag zou willen krijgen voor zijn verjaardag.",
     "category": [
       "Kids",
@@ -260,11 +260,11 @@
     }
   },
   {
-    "id": "ketnet:1796017200000:out9ds",
+    "id": "ketnet:1796017020000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1796017200000,
-    "end": 1796017500000,
+    "start": 1796017020000,
+    "end": 1796017200000,
     "description": "Sokpop vindt het oneerlijk dat Bavo een veel grotere schoen heeft gezet dan hij, maar Sarah legt uit dat het erom gaat of je lief en flink bent geweest. Daarna zingen ze samen het liedje 'Sinterklaas kapoentje'.",
     "category": [
       "Kunstnijverheid"
@@ -288,11 +288,11 @@
     }
   },
   {
-    "id": "ketnet:1796017500000:out9ds",
+    "id": "ketnet:1796017200000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1796017500000,
-    "end": 1796017800000,
+    "start": 1796017200000,
+    "end": 1796017500000,
     "description": "Sarah zingt samen met haar vriendjes de leukste kinderliedjes, en iedereen doet mee.",
     "category": [
       "Kunstnijverheid"
@@ -313,6 +313,36 @@
       "productionDate": "2021",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5fd0b0d9-e442-4d31-8a71-fc9d3934ae92"
+    }
+  },
+  {
+    "id": "ketnet:1796017500000:1nn27y8",
+    "channel": "ketnet",
+    "title": "Toet Toet Cory Carson",
+    "start": 1796017500000,
+    "end": 1796017800000,
+    "description": "Als zijn zusje Chrissy tijdens een spel per ongeluk iets steelt uit de winkel, probeert Cory een goede grote broer voor haar te zijn. Hij neemt de schuld op zich om Chrissy te helpen.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19174675~~2FEP037673630019%2Cimi%3Ae38d53b778ee720c1e1415da0a8a9179d7968a9a/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F19174675~~2FEP037673630019,imi:e38d53b778ee720c1e1415da0a8a9179d7968a9a",
+      "episodeName": "Politie & boefje",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F17710822~~2FSH037673630000"
     }
   },
   {
@@ -528,7 +558,7 @@
     "channel": "ketnet",
     "title": "Draken: beschermers van Berk",
     "start": 1796022000000,
-    "end": 1796023500000,
+    "end": 1796023200000,
     "description": "Snotvlerk is ongehoorzaam en wordt geschorst van de academie. Elwin keert terug naar Berk om dit op te lossen. Ondertussen bedenkt Dagur een plan om alle draken in de academie te vernietigen.",
     "category": [
       "Kids",
@@ -554,11 +584,11 @@
     }
   },
   {
-    "id": "ketnet:1796023500000:mg4819",
+    "id": "ketnet:1796023200000:mg4819",
     "channel": "ketnet",
     "title": "De 3 Musketiers",
-    "start": 1796023500000,
-    "end": 1796024100000,
+    "start": 1796023200000,
+    "end": 1796023800000,
     "description": "Paulien, de lievelingskip van de koning, is verdwenen. Lodewijk XIII is radeloos; zonder haar eieren kan hij zijn Lentefeest niet vieren.",
     "category": [
       "Animatie",
@@ -581,6 +611,36 @@
       "productionDate": "2024",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28471356~~2FSH064848880000"
+    }
+  },
+  {
+    "id": "ketnet:1796023800000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1796023800000,
+    "end": 1796024100000,
+    "description": "Voor een publiek bestaande uit pinguïns en walrussen voeren twee Lemmings-teams acrobatische sprongen uit en strijden om de prijs. Wanneer Grizzly per ongeluk in het spel terechtkomt, raakt hij er al snel in verstrikt.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20485567~~2FEP041241250468%2Cimi%3Ab53e7318aa5045d5f711089137528e41fbad44f0/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 35,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20485567~~2FEP041241250468,imi:b53e7318aa5045d5f711089137528e41fbad44f0",
+      "episodeName": "Poolster",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {
@@ -682,7 +742,7 @@
     "description": "Ontdek een flipperkast die een strijkplank onthult, een drinkende man die wortelpuree eet en zie hoe Boekenjongen een strijkplank maakt door te toveren.",
     "category": [
       "Kids",
-      "Entertainment"
+      "Educatie"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19220256~~2FEP033291810087%2Cimi%3A6476176490ec86e1d11fed06f71179683d818708/posterTile",
     "icon": null,
@@ -696,7 +756,7 @@
       "episodeName": "Aflevering 35",
       "genres": [
         "Kids",
-        "Entertainment"
+        "Educatie"
       ],
       "productionDate": "2020",
       "isSportsTeamEvent": false,
@@ -858,7 +918,7 @@
     "channel": "ketnet",
     "title": "Sintervraagje",
     "start": 1796027400000,
-    "end": 1796027700000,
+    "end": 1796027580000,
     "description": "De kinderen bedenken waar de Sint al het geld vandaan haalt voor zoveel speelgoed.",
     "category": [
       "Kids",
@@ -884,11 +944,11 @@
     }
   },
   {
-    "id": "ketnet:1796027700000:out9ds",
+    "id": "ketnet:1796027580000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1796027700000,
-    "end": 1796028000000,
+    "start": 1796027580000,
+    "end": 1796027700000,
     "description": "In de kleurrijke blokkentoren wordt er plotseling op de deur geklopt. Een vrolijke vriend in een pietenpakje komt op bezoek en samen wordt er enthousiast een bekend sinterklaasliedje gezongen voor alle kinderen.",
     "category": [
       "Kunstnijverheid"
@@ -909,6 +969,36 @@
       "productionDate": "2021",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5fd0b0d9-e442-4d31-8a71-fc9d3934ae92"
+    }
+  },
+  {
+    "id": "ketnet:1796027700000:1x7wkzz",
+    "channel": "ketnet",
+    "title": "Stoppeltje",
+    "start": 1796027700000,
+    "end": 1796028000000,
+    "description": "Stoppeltje volgt een regenboog in een rivier en ontmoet daar een kabouter. Terwijl ze samen vrolijk vissen, vangen ze elk een vuile handschoen die na reiniging regenboogkleurig blijkt te zijn.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20515032~~2FEP033867930110%2Cimi%3Adbee26b94c5906d46f0cbf5e4c15230b05a67468/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2,
+    "episode": 10,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20515032~~2FEP033867930110,imi:dbee26b94c5906d46f0cbf5e4c15230b05a67468",
+      "episodeName": "Regenbooghandschoenen",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F38da83ef-c7b5-434a-8ee5-f79cbb0bbb20"
     }
   },
   {
@@ -1330,7 +1420,7 @@
     "channel": "ketnet",
     "title": "Slaapwel",
     "start": 1796033640000,
-    "end": 1796034000000,
+    "end": 1796033820000,
     "description": "Een jong vogelbekdier droomt dat hij ergens omgeven door velden is, en dat hij in het water duikt om te gaan jagen. Wanneer het wakker wordt, realiseert het diertje zich dat het in zijn nest is, samen met de andere jongen en hun moeder.",
     "category": [
       "Kids",
@@ -1356,11 +1446,11 @@
     }
   },
   {
-    "id": "ketnet:1796034000000:out9ds",
+    "id": "ketnet:1796033820000:out9ds",
     "channel": "ketnet",
     "title": "Sarah zingt",
-    "start": 1796034000000,
-    "end": 1796034240000,
+    "start": 1796033820000,
+    "end": 1796034000000,
     "description": "Sarah zingt samen met haar vriendjes de leukste kinderliedjes, en iedereen doet mee.",
     "category": [
       "Kunstnijverheid"
@@ -1381,6 +1471,36 @@
       "productionDate": "2021",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F5fd0b0d9-e442-4d31-8a71-fc9d3934ae92"
+    }
+  },
+  {
+    "id": "ketnet:1796034000000:1f5p3mc",
+    "channel": "ketnet",
+    "title": "Mironins",
+    "start": 1796034000000,
+    "end": 1796034240000,
+    "description": "In het donker en met een zaklamp, tekent Low schaduwen op de muur. Plotseling verschijnt er een reusachtige schaduw met een zak: het is een dief en hij neemt de schilderijen mee. De bewaker slaapt en merkt het niet.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21320359~~2FEP043560260021%2Cimi%3A690c248d8f14c3ab6fecaf22e5ccab805a0b5a86/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 22,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21320359~~2FEP043560260021,imi:690c248d8f14c3ab6fecaf22e5ccab805a0b5a86",
+      "episodeName": "Low en de schaduw van de dief",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Ff360ca19-ab86-4904-b3c1-386bd9de3459"
     }
   },
   {
@@ -1840,7 +1960,7 @@
     "description": "Ontdek een bal op de trap met een appel, een blokkenpuzzel van een gibbon en kijk hoe het Boekenmeisje met een konijntje speelt door te toveren.",
     "category": [
       "Kids",
-      "Entertainment"
+      "Educatie"
     ],
     "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F19220531~~2FEP033291810088%2Cimi%3A6d22948d6f34914b01422d497901cdf3de11cfaa/posterTile",
     "icon": null,
@@ -1854,7 +1974,7 @@
       "episodeName": "Aflevering 36",
       "genres": [
         "Kids",
-        "Entertainment"
+        "Educatie"
       ],
       "productionDate": "2020",
       "isSportsTeamEvent": false,
@@ -2310,7 +2430,7 @@
     "channel": "ketnet",
     "title": "De Sintkrant",
     "start": 1796049300000,
-    "end": 1796049900000,
+    "end": 1796049600000,
     "description": "Grappig magazine waarin de vele vrienden van Sinterklaas allerlei sinteressante weetjes vertellen. Zing sinterklaasliedjes, los de raadseltjes van Zwarte Piet op, of ga gezellig knutselen.",
     "category": [
       "Kids",
@@ -2326,6 +2446,36 @@
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F20982605~~2FEP036627390020,imi:c4f59c23c2767b3ebb052be02d8efc460bd96ab4",
       "episodeName": "Aflevering 20",
+      "genres": [
+        "Kids",
+        "Samenleving"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Ff553779f-de02-4758-bcd4-5b22a3399118"
+    }
+  },
+  {
+    "id": "ketnet:1796049600000:1xrf2gc",
+    "channel": "ketnet",
+    "title": "De Sintkrant",
+    "start": 1796049600000,
+    "end": 1796049900000,
+    "description": "Grappig magazine waarin de vele vrienden van Sinterklaas allerlei sinteressante weetjes vertellen. Zing sinterklaasliedjes, los de raadseltjes van Zwarte Piet op, of ga gezellig knutselen.",
+    "category": [
+      "Kids",
+      "Samenleving"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20945713~~2FEP036627390009%2Cimi%3A273af211237db86687a09d4841f37ced429a3a3c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102020,
+    "episode": 10,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20945713~~2FEP036627390009,imi:273af211237db86687a09d4841f37ced429a3a3c",
+      "episodeName": "Aflevering 10",
       "genres": [
         "Kids",
         "Samenleving"
@@ -2550,7 +2700,7 @@
     "channel": "ketnet",
     "title": "Draken: beschermers van Berk",
     "start": 1796054400000,
-    "end": 1796055900000,
+    "end": 1796055600000,
     "description": "Met tegenzin aanvaardt Hikkie de hulp van Elwin om Stompum uit de klauwen van Dagur te redden. Iedereen van Berk, Berserk en de Screaming Death komt samen op het eiland Outcast voor een confrontatie die bepalend is voor het lot van de eilandengroep.",
     "category": [
       "Kids",
@@ -2573,6 +2723,36 @@
       "productionDate": "2013",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F46024b60-efdd-4b14-b41b-208d8adb30e9"
+    }
+  },
+  {
+    "id": "ketnet:1796055600000:3xzc6b",
+    "channel": "ketnet",
+    "title": "Molang",
+    "start": 1796055600000,
+    "end": 1796055900000,
+    "description": "Bij het bezorgen van een pizza bij de dorpsingenieur wordt Piu Piu geraakt door een laserstraal. Hij komt terecht in de enorme lappenpop waar de uitvinder aan heeft gewerkt.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F20661312~~2FEP029973130497%2Cimi%3Aaa9ee0fcf24664ba3ffbe728574bdc7ba0f6163b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 5,
+    "episode": 25,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F20661312~~2FEP029973130497,imi:aa9ee0fcf24664ba3ffbe728574bdc7ba0f6163b",
+      "episodeName": "The Rag Doll",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2021",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fac960665-9961-42de-af0f-35667a166431"
     }
   },
   {
@@ -2730,7 +2910,7 @@
     "channel": "ketnet",
     "title": "Lettersoep",
     "start": 1796060700000,
-    "end": 1796062200000,
+    "end": 1796061900000,
     "description": "Taalgrage zussen Camille en Malin, alias De Lenskes, staan paraat met hun Chiro-energie en talenkennis. Zij nemen het op tegen de Ta(a)lenten Kobe en Timon, vrienden sinds de kleuterklas die trampolinekunsten en gekke stemmetjes doen.",
     "category": [
       "Spelprogramma",
@@ -2753,6 +2933,36 @@
       "productionDate": "2025",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F31441768~~2FSH061044090000"
+    }
+  },
+  {
+    "id": "ketnet:1796061900000:p8c4k7",
+    "channel": "ketnet",
+    "title": "Grizzy & the Lemmings",
+    "start": 1796061900000,
+    "end": 1796062200000,
+    "description": "Grizzly is woest als de Lemmingen zijn chocoladepasta hebben gestolen en hij gooit ze ver weg. Ze belanden in een kano en gewapend met blaaspijpen vechten ze tegen Grizzly, die op zijn beurt wordt gelanceerd.",
+    "category": [
+      "Kids",
+      "Animatie"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F21000428~~2FEP041241250416%2Cimi%3A87d8e1289e6b5ca4f23b9ce8a24c6864a671d1b2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 3,
+    "episode": 72,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F21000428~~2FEP041241250416,imi:87d8e1289e6b5ca4f23b9ce8a24c6864a671d1b2",
+      "episodeName": "Breathless",
+      "genres": [
+        "Kids",
+        "Animatie"
+      ],
+      "productionDate": "2020",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F13330553~~2FSH041241250000"
     }
   },
   {

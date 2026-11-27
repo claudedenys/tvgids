@@ -1,0 +1,498 @@
+[
+  {
+    "id": "vrtcanvas:1796081700000:715c2v",
+    "channel": "vrtcanvas",
+    "title": "Nachtlus",
+    "start": 1796081700000,
+    "end": 1796101200000,
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F579625191%2Cimi%3A48015a24cf47c00065ce18291bc9b495d711bc2d/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 57190000,
+    "episode": 579625191,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000~~2F579625191,imi:48015a24cf47c00065ce18291bc9b495d711bc2d",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26821991~~2FSH050457190000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796101200000:677l6h",
+    "channel": "vrtcanvas",
+    "title": "Radio 2: Goeiemorgen morgen",
+    "start": 1796101200000,
+    "end": 1796112000000,
+    "description": "Live vanuit de studio van Radio 2.",
+    "category": [
+      "Talkshow",
+      "Muziek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635202~~2FEP062272870182%2Cimi%3Ae7640af20e69b569807fa19c8e804dfd5b6810b1/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 187,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635202~~2FEP062272870182,imi:e7640af20e69b569807fa19c8e804dfd5b6810b1",
+      "episodeName": "Aflevering 187",
+      "genres": [
+        "Talkshow",
+        "Muziek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32034719~~2FSH062272870000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796112000000:1jdr2w0",
+    "channel": "vrtcanvas",
+    "title": "Herfstbeelden",
+    "start": 1796112000000,
+    "end": 1796120100000,
+    "description": "Programma met beelden van de herfst.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34052222~~2FEP033154570061%2Cimi%3A7222ae4832900dc97ebd16bca8473c1e48c181a7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102014,
+    "episode": 27,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34052222~~2FEP033154570061,imi:7222ae4832900dc97ebd16bca8473c1e48c181a7",
+      "episodeName": "Aflevering 27",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796120100000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1796120100000,
+    "end": 1796122800000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635762~~2FEP029086300757%2Cimi%3A7e104b9de0e13e87d648fccb77f121930af38242/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 117,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635762~~2FEP029086300757,imi:7e104b9de0e13e87d648fccb77f121930af38242",
+      "episodeName": "Aflevering 117",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796122800000:jrwg93",
+    "channel": "vrtcanvas",
+    "title": "Radio 1: Nieuwe Feiten",
+    "start": 1796122800000,
+    "end": 1796126400000,
+    "description": "Lieven Vandenhaute gaat op zoek naar nieuws dat verbijstert, verbaast of verwondert.",
+    "category": [
+      "Actualiteitsmagazine"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635218~~2FEP052737980442%2Cimi%3A777e45392b3773a391f80379529b2ffb169d94c2/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 189,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635218~~2FEP052737980442,imi:777e45392b3773a391f80379529b2ffb169d94c2",
+      "episodeName": "Aflevering 189",
+      "genres": [
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F28183070~~2FSH052737980000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796126400000:1jdr2w0",
+    "channel": "vrtcanvas",
+    "title": "Herfstbeelden",
+    "start": 1796126400000,
+    "end": 1796137200000,
+    "description": "Programma met beelden van de herfst.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635702~~2FEP033154570189%2Cimi%3A8bbb2a3fa961897df48d151fb98055eee18dbb70/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102014,
+    "episode": 185,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635702~~2FEP033154570189,imi:8bbb2a3fa961897df48d151fb98055eee18dbb70",
+      "episodeName": "Aflevering 185",
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": "2014",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F8efcd011-22b0-41bf-9ee2-6d54fe6a614f"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796137200000:etk3q5",
+    "channel": "vrtcanvas",
+    "title": "Radio 1: De Wereld Vandaag",
+    "start": 1796137200000,
+    "end": 1796142000000,
+    "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
+    "category": [
+      "Actualiteitsmagazine"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635911~~2FEP049391810666%2Cimi%3A14ac62c0f9c6081d25826017401e3109f82b9f07/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 199,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635911~~2FEP049391810666,imi:14ac62c0f9c6081d25826017401e3109f82b9f07",
+      "episodeName": "Aflevering 199",
+      "genres": [
+        "Actualiteitsmagazine"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F26149743~~2FSH049391810000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796142000000:as2zrq",
+    "channel": "vrtcanvas",
+    "title": "Louder Than You Think",
+    "start": 1796142000000,
+    "end": 1796147700000,
+    "description": "Een wandeling door het leven van Gary Young (3 mei 1953 - 17 augustus 2023), de originele en hoogst onaangepaste drummer van indierock-iconen Pavement. Zijn door drank en drugs gevoede capriolen waren zowel een drijvende kracht achter de opkomst van de band als tevens de oorzaak van de uiteindelijke crash. Gary laat bij elke bocht een spoor van vreugde en/of vernietiging achter. Dertig jaar later en geconfronteerd met scoliose, bloedstolsels en een verschrompelde lever, blikt hij terug.",
+    "category": [
+      "Film",
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F27610869~~2FMV027513270000%2Cimi%3Af5f609c9fdcd1ba64068453d4c64f6cf5b4a486e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F27610869~~2FMV027513270000,imi:f5f609c9fdcd1ba64068453d4c64f6cf5b4a486e",
+      "episodeName": null,
+      "genres": [
+        "Film",
+        "Docu"
+      ],
+      "productionDate": "2023",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "vrtcanvas:1796147700000:9grvl3",
+    "channel": "vrtcanvas",
+    "title": "Nomaden",
+    "start": 1796147700000,
+    "end": 1796149200000,
+    "description": "Op de wegen van Libanon zijn ze moeilijk te missen: vrachtwagens vol kleuren, spreuken, tekeningen, symbolen en versieringen. Ze worden mahrousa genoemd, Arabisch voor 'de beschermde'. Sofie Hamdi stapt aan boord bij Mahmoud, een vrachtwagenchauffeur die elke dag met zijn mahrousa het land doorkruist.",
+    "category": [
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635890~~2FEP056066650015%2Cimi%3A97b21a3eef91dbca368bd6e688a7e176398f94d3/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 2026,
+    "episode": 7,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635890~~2FEP056066650015,imi:97b21a3eef91dbca368bd6e688a7e176398f94d3",
+      "episodeName": "Mahrousa",
+      "genres": [
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F29510824~~2FSH056066650000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796149200000:lzxvgo",
+    "channel": "vrtcanvas",
+    "title": "Mag ik zijn?",
+    "start": 1796149200000,
+    "end": 1796151600000,
+    "description": "Steeds meer jongeren vinden moeilijk hun plek in de maatschappij. Hun gedachten en emoties zijn te zwaar geworden om te dragen. Copingmechanismen als suïcidale gedachten, zelfverwonding en eetstoornissen.",
+    "category": [
+      "Miniserie",
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635863~~2FEP067181300001%2Cimi%3A242acc93f8b63c74571b3b311ae11bbb63954944/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635863~~2FEP067181300001,imi:242acc93f8b63c74571b3b311ae11bbb63954944",
+      "episodeName": "Mag ik (ik) zijn?",
+      "genres": [
+        "Miniserie",
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34635858~~2FSH067181300000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796151600000:eiur5b",
+    "channel": "vrtcanvas",
+    "title": "VRT NWS Terzake",
+    "start": 1796151600000,
+    "end": 1796153400000,
+    "description": "De actualiteit aan de hand van kritische en verhelderende interviews. Achtergrond en duiding bij het nieuws van de dag.",
+    "category": [
+      "Actualiteitsmagazine",
+      "Interview"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635934~~2FEP029248091212%2Cimi%3A43c77993c7e3dbcada17d8db7e4b4de600cc388e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 219,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635934~~2FEP029248091212,imi:43c77993c7e3dbcada17d8db7e4b4de600cc388e",
+      "episodeName": "Aflevering 219",
+      "genres": [
+        "Actualiteitsmagazine",
+        "Interview"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F3c19e932-60f8-4f8d-a1d5-f6fdae10e620"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796153400000:1rw80yh",
+    "channel": "vrtcanvas",
+    "title": "Het weer",
+    "start": 1796153400000,
+    "end": 1796153700000,
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": [
+      "Weer",
+      "Actua"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F579626421%2Cimi%3Aae7e9d44281af9bae6f71b4955bb85806141996e/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 31670000,
+    "episode": 579626421,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F22310801~~2FSH043331670000~~2F579626421,imi:ae7e9d44281af9bae6f71b4955bb85806141996e",
+      "episodeName": null,
+      "genres": [
+        "Weer",
+        "Actua"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F96c43411-5177-44ff-b90e-74211fd29c22"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796153700000:v6y787",
+    "channel": "vrtcanvas",
+    "title": "De Afspraak",
+    "start": 1796153700000,
+    "end": 1796156700000,
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": [
+      "Talkshow",
+      "Politiek"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635763~~2FEP029086300758%2Cimi%3A29aa5a89f581d53e8adfb139f2fa91dceefb8ae9/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 118,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635763~~2FEP029086300758,imi:29aa5a89f581d53e8adfb139f2fa91dceefb8ae9",
+      "episodeName": "Aflevering 118",
+      "genres": [
+        "Talkshow",
+        "Politiek"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F1300c503-af2d-4e91-9f00-1a8a6bc62ee9"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796156700000:or3ak1",
+    "channel": "vrtcanvas",
+    "title": "De nieuwe frontlijn",
+    "start": 1796156700000,
+    "end": 1796160000000,
+    "description": "De halfgeleiders die in elke smartphone, auto en raket zitten, komen voor het overgrote deel uit één klein land: Taiwan. Dat technologische monopolie is voorlopig nog het enige wat een Chinese invasie van Taiwan tegenhoudt.",
+    "category": [
+      "Miniserie",
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34635786~~2FEP066951980003%2Cimi%3A80ea8421577a4d2fff0206cee776f16caf520e51/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 3,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34635786~~2FEP066951980003,imi:80ea8421577a4d2fff0206cee776f16caf520e51",
+      "episodeName": "Aflevering 3",
+      "genres": [
+        "Miniserie",
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34526592~~2FSH066951980000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796160000000:1igzmez",
+    "channel": "vrtcanvas",
+    "title": "Dirty Tony",
+    "start": 1796160000000,
+    "end": 1796163000000,
+    "description": "Tony wil de snackwereld veroveren. Geen zoveelste zak chips, maar een hype. Een snack waar Gen Z voor in de rij staat en de algoritmes van smullen. Tony duikt in de trucs van de voedingsindustrie en ontdekt hoe je van een snack een obsessie maakt. Zijn doel? De volgende verslavende snackhit lanceren.",
+    "category": [
+      "Docu"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34620917~~2FEP067151560001%2Cimi%3A1190d5a1c22fda242ba13924b701c5b125f0db27/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34620917~~2FEP067151560001,imi:1190d5a1c22fda242ba13924b701c5b125f0db27",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Docu"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34620906~~2FSH067151560000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796163000000:1boznts",
+    "channel": "vrtcanvas",
+    "title": "Phoenix",
+    "start": 1796163000000,
+    "end": 1796165700000,
+    "description": "Aan de vooravond van het BEE-forum voeren Mathias, Éloïse, Nina, James, Alma en Elias van de milieuactiegroep Phoenix hun plan uit om de vier machtigste CEO's van Europa te dwingen zich aan hun klimaatverplichtingen te houden. Vanuit een afgelegen vakantiehuis maakt Phoenix zijn eisen bekend.",
+    "category": [
+      "Dramaserie",
+      "Thriller"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32803149~~2FEP066205430001%2Cimi%3A1319088403b09a2b57d3f2e654b51b4e43e4c7e7/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 1,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32803149~~2FEP066205430001,imi:1319088403b09a2b57d3f2e654b51b4e43e4c7e7",
+      "episodeName": "Aflevering 1",
+      "genres": [
+        "Dramaserie",
+        "Thriller"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32803140~~2FSH066205430000"
+    }
+  },
+  {
+    "id": "vrtcanvas:1796165700000:1boznts",
+    "channel": "vrtcanvas",
+    "title": "Phoenix",
+    "start": 1796165700000,
+    "end": 1796168520000,
+    "description": "Er dreigt verdeeldheid binnen de actiegroep. Elias weet te infiltreren in het crisisberaad van de CEO's, die aarzelen om toe te geven aan de eisen. De CEO's lijken overstag te gaan, maar na de ontvangst van een schokkend bericht is de euforie binnen de actiegroep van korte duur.",
+    "category": [
+      "Dramaserie",
+      "Thriller"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32803156~~2FEP066205430002%2Cimi%3Aee135ab7ddc5f8235e1a0068814c8073dbc24e3c/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 1,
+    "episode": 2,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F32803156~~2FEP066205430002,imi:ee135ab7ddc5f8235e1a0068814c8073dbc24e3c",
+      "episodeName": "Aflevering 2",
+      "genres": [
+        "Dramaserie",
+        "Thriller"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F32803140~~2FSH066205430000"
+    }
+  }
+]

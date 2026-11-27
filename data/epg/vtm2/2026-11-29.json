@@ -1,10 +1,10 @@
 [
   {
-    "id": "vtm2:1795906800000:sjpjtf",
+    "id": "vtm2:1795906500000:sjpjtf",
     "channel": "vtm2",
     "title": "The Racer",
-    "start": 1795906800000,
-    "end": 1795913400000,
+    "start": 1795906500000,
+    "end": 1795913100000,
     "description": "Een doorgewinterde supportrijder beleeft de meest dramatische drie dagen van zijn leven en mogelijk het einde van zijn carrière, tijdens de eerste Ierse etappes van de beruchte Tour de France 1998.",
     "category": [
       "Drama",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "vtm2:1795913400000:48zb9",
+    "id": "vtm2:1795913100000:48zb9",
     "channel": "vtm2",
     "title": "Geen uitzending",
-    "start": 1795913400000,
+    "start": 1795913100000,
     "end": 1795948200000,
     "description": null,
     "category": [],
@@ -234,7 +234,7 @@
     "channel": "vtm2",
     "title": "Darts",
     "start": 1795978800000,
-    "end": 1795991400000,
+    "end": 1795993200000,
     "description": "Vanavond staan in Minehead de halve finales en de finale (allebei best of 21 legs) op het programma.",
     "category": [
       "Sport",
@@ -257,36 +257,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fda00f743-8830-4b86-ac26-0d34256421b6"
-    }
-  },
-  {
-    "id": "vtm2:1795991400000:zzh763",
-    "channel": "vtm2",
-    "title": "Real Life Patsers",
-    "start": 1795991400000,
-    "end": 1795993800000,
-    "description": "We reconstrueren het waargebeurde verhaal achter de folterscène uit 'Patsers'. In 2023 wordt een drugskoerier ontvoerd en gefolterd.",
-    "category": [
-      "Docu",
-      "Misdaad"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34188545~~2FEP066260320003%2Cimi%3A6ad74420c8ca44a86b0ea7b3f0907e12278b2abf/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 1,
-    "episode": 3,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34188545~~2FEP066260320003,imi:6ad74420c8ca44a86b0ea7b3f0907e12278b2abf",
-      "episodeName": "De Folterloods",
-      "genres": [
-        "Docu",
-        "Misdaad"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34172358~~2FSH066260320000"
     }
   }
 ]

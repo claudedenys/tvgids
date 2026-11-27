@@ -1,13 +1,13 @@
 [
   {
-    "id": "sport:playsports1:1795999200000:xykime",
+    "id": "sport:playsports1:1795999740000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795999200000,
+    "start": 1795999740000,
     "end": 1796018400000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
@@ -115,17 +115,40 @@
     ]
   },
   {
-    "id": "sport:playsports3:1795997040000:xykime",
+    "id": "sport:playsports3:1795997100000:xykime",
     "externalId": null,
     "title": "Play Sports",
     "home": null,
     "away": null,
     "competition": null,
     "sport": null,
-    "start": 1795997040000,
-    "end": 1796018340000,
+    "start": 1795997100000,
+    "end": 1796019300000,
     "status": "aankomend",
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 3"
+    ],
+    "channels": [
+      "Play Sports 3"
+    ],
+    "channelIds": [
+      "playsports3"
+    ]
+  },
+  {
+    "id": "sport:playsports3:1796063400000:1p3n9ye",
+    "externalId": null,
+    "title": "Aflevering 11",
+    "home": null,
+    "away": null,
+    "competition": "UEFA Champions League",
+    "sport": "Voetbal",
+    "start": 1796063400000,
+    "end": 1796065200000,
+    "status": "aankomend",
+    "description": "Samenvattingen van de wedstrijden uit de Champions League van vanavond.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -146,32 +169,9 @@
     "competition": "Formule 1",
     "sport": "Motorsport",
     "start": 1796065200000,
-    "end": 1796069100000,
+    "end": 1796068800000,
     "status": "aankomend",
     "description": "In de Formule 1-podcast The Paddock fileren Dennis Xhaët en Sam Dejonghe het hele raceweekend. Dat doen ze telkens samen met een extra kenner, specialist of liefhebber van de autosport.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 3"
-    ],
-    "channels": [
-      "Play Sports 3"
-    ],
-    "channelIds": [
-      "playsports3"
-    ]
-  },
-  {
-    "id": "sport:playsports3:1796069100000:arbc9d",
-    "externalId": null,
-    "title": "GP van Qatar: Race",
-    "home": null,
-    "away": null,
-    "competition": "Formule 1",
-    "sport": "Motorsport",
-    "start": 1796069100000,
-    "end": 1796069700000,
-    "status": "aankomend",
-    "description": "Vanaf het Losail International Circuit in Doha, Ad Dawhah, Qatar.",
     "source": "epg",
     "platforms": [
       "Play Sports 3"
@@ -621,15 +621,15 @@
     ]
   },
   {
-    "id": "sport:match:1795992600000:manchester city - fulham",
+    "id": "sport:match:1795993260000:manchester city - fulham",
     "externalId": null,
     "title": "Manchester City - Fulham",
     "home": "Manchester City",
     "away": "Fulham",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795992600000,
-    "end": 1795999200000,
+    "start": 1795993260000,
+    "end": 1795999740000,
     "status": "aankomend",
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "source": "epg",
@@ -874,15 +874,15 @@
     ]
   },
   {
-    "id": "sport:match:1795990740000:feyenoord - excelsior",
+    "id": "sport:match:1795990800000:feyenoord - excelsior",
     "externalId": null,
     "title": "Feyenoord - Excelsior",
     "home": "Feyenoord",
     "away": "Excelsior",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1795990740000,
-    "end": 1795997040000,
+    "start": 1795990800000,
+    "end": 1795997100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -897,15 +897,15 @@
     ]
   },
   {
-    "id": "sport:match:1796021100000:hajduk split - stvv",
+    "id": "sport:match:1796019300000:hajduk split - stvv",
     "externalId": null,
     "title": "Hajduk Split - STVV",
     "home": "Hajduk Split",
     "away": "STVV",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1796021100000,
-    "end": 1796027400000,
+    "start": 1796019300000,
+    "end": 1796025600000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Hajduk Split - STVV, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -920,15 +920,15 @@
     ]
   },
   {
-    "id": "sport:match:1796027400000:celta de vigo - bournemouth",
+    "id": "sport:match:1796025600000:celta de vigo - bournemouth",
     "externalId": null,
     "title": "Celta de Vigo - Bournemouth",
     "home": "Celta de Vigo",
     "away": "Bournemouth",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1796027400000,
-    "end": 1796033700000,
+    "start": 1796025600000,
+    "end": 1796031900000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Celta de Vigo - Bournemouth, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -943,15 +943,15 @@
     ]
   },
   {
-    "id": "sport:match:1796033700000:crystal palace - real sociedad",
+    "id": "sport:match:1796031900000:crystal palace - real sociedad",
     "externalId": null,
     "title": "Crystal Palace - Real Sociedad",
     "home": "Crystal Palace",
     "away": "Real Sociedad",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1796033700000,
-    "end": 1796040000000,
+    "start": 1796031900000,
+    "end": 1796038200000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Crystal Palace - Real Sociedad, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -966,15 +966,15 @@
     ]
   },
   {
-    "id": "sport:match:1796040000000:olympiakos piraeus - ac milan",
+    "id": "sport:match:1796038200000:olympiakos piraeus - ac milan",
     "externalId": null,
     "title": "Olympiakos Piraeus - AC Milan",
     "home": "Olympiakos Piraeus",
     "away": "AC Milan",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1796040000000,
-    "end": 1796046300000,
+    "start": 1796038200000,
+    "end": 1796044500000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Olympiakos Piraeus - AC Milan, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
@@ -989,15 +989,15 @@
     ]
   },
   {
-    "id": "sport:match:1796046300000:psv - feyenoord",
+    "id": "sport:match:1796044500000:psv - feyenoord",
     "externalId": null,
     "title": "PSV - Feyenoord",
     "home": "PSV",
     "away": "Feyenoord",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1796046300000,
-    "end": 1796052600000,
+    "start": 1796044500000,
+    "end": 1796050800000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd PSV - Feyenoord uit de 10e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1012,15 +1012,15 @@
     ]
   },
   {
-    "id": "sport:match:1796052600000:feyenoord - excelsior",
+    "id": "sport:match:1796050800000:feyenoord - excelsior",
     "externalId": null,
     "title": "Feyenoord - Excelsior",
     "home": "Feyenoord",
     "away": "Excelsior",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1796052600000,
-    "end": 1796058900000,
+    "start": 1796050800000,
+    "end": 1796057100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Feyenoord - Excelsior uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1035,15 +1035,15 @@
     ]
   },
   {
-    "id": "sport:match:1796058900000:ajax - ado den haag",
+    "id": "sport:match:1796057100000:ajax - ado den haag",
     "externalId": null,
     "title": "Ajax - ADO Den Haag",
     "home": "Ajax",
     "away": "ADO Den Haag",
     "competition": "Eredivisie",
     "sport": "Voetbal",
-    "start": 1796058900000,
-    "end": 1796065200000,
+    "start": 1796057100000,
+    "end": 1796063400000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Ajax - ADO Den Haag uit de 13e speelronde van de VriendenLoterij Eredivisie.",
     "source": "epg",
@@ -1058,15 +1058,15 @@
     ]
   },
   {
-    "id": "sport:match:1796069700000:hajduk split - stvv",
+    "id": "sport:match:1796068800000:hajduk split - stvv",
     "externalId": null,
     "title": "Hajduk Split - STVV",
     "home": "Hajduk Split",
     "away": "STVV",
     "competition": "UEFA Conference League",
     "sport": "Voetbal",
-    "start": 1796069700000,
-    "end": 1796076000000,
+    "start": 1796068800000,
+    "end": 1796075100000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Hajduk Split - STVV, gespeeld in de competitiefase van de UEFA Conference League.",
     "source": "epg",
@@ -1081,15 +1081,15 @@
     ]
   },
   {
-    "id": "sport:match:1796076000000:celta de vigo - bournemouth",
+    "id": "sport:match:1796075100000:celta de vigo - bournemouth",
     "externalId": null,
     "title": "Celta de Vigo - Bournemouth",
     "home": "Celta de Vigo",
     "away": "Bournemouth",
     "competition": "UEFA Europa League",
     "sport": "Voetbal",
-    "start": 1796076000000,
-    "end": 1796082300000,
+    "start": 1796075100000,
+    "end": 1796081400000,
     "status": "aankomend",
     "description": "Verslag van de wedstrijd Celta de Vigo - Bournemouth, gespeeld in de competitiefase van de UEFA Europa League.",
     "source": "epg",
