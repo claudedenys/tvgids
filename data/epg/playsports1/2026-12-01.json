@@ -1,16 +1,16 @@
 [
   {
-    "id": "playsports1:1796081760000:1prlzbg",
+    "id": "playsports1:1796082420000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1796081760000,
-    "end": 1796087940000,
+    "start": 1796082420000,
+    "end": 1796088600000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
       "Voetbal"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584512~~2FEP033946612531%2Cimi%3A7db91e05bab150a66bb9cdde57ffa0da9ebef90c/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F33584512~~2FEP033946612531%2Cimi%3A22c6e2fc9baf1ae61944e74a51b45b272ad9a745/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": 46610000,
@@ -18,7 +18,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584512~~2FEP033946612531,imi:7db91e05bab150a66bb9cdde57ffa0da9ebef90c",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F33584512~~2FEP033946612531,imi:22c6e2fc9baf1ae61944e74a51b45b272ad9a745",
       "episodeName": "Manchester City - Fulham",
       "genres": [
         "Sport",
@@ -30,16 +30,16 @@
     }
   },
   {
-    "id": "playsports1:1796087940000:xykime",
+    "id": "playsports1:1796088600000:xykime",
     "channel": "playsports1",
     "title": "Play Sports",
-    "start": 1796087940000,
-    "end": 1796107500000,
+    "start": 1796088600000,
+    "end": 1796105700000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A7a23b91b1a3e40bc8263db9708dcf3f791efc994/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3Aa9aea2ca6ab04856765a90f0db1fab9b9d82823b/posterTile",
     "icon": null,
     "source": "telenet.tv",
     "season": null,
@@ -47,7 +47,7 @@
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:7a23b91b1a3e40bc8263db9708dcf3f791efc994",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:a9aea2ca6ab04856765a90f0db1fab9b9d82823b",
       "episodeName": null,
       "genres": [
         "Sport"
@@ -58,11 +58,11 @@
     }
   },
   {
-    "id": "playsports1:1796107500000:11wg5yb",
+    "id": "playsports1:1796105700000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1796107500000,
-    "end": 1796113800000,
+    "start": 1796105700000,
+    "end": 1796112000000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",
@@ -88,41 +88,11 @@
     }
   },
   {
-    "id": "playsports1:1796113800000:qjkkk5",
-    "channel": "playsports1",
-    "title": "Premier League Stories",
-    "start": 1796113800000,
-    "end": 1796115300000,
-    "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
-    "category": [
-      "Docu",
-      "Voetbal"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30311520~~2FEP043309820208%2Cimi%3Ad436b3af4c697f6baf402e8e8da049a42cadfb77/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 5,
-    "episode": 8,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F30311520~~2FEP043309820208,imi:d436b3af4c697f6baf402e8e8da049a42cadfb77",
-      "episodeName": "Keep it in the Family",
-      "genres": [
-        "Docu",
-        "Voetbal"
-      ],
-      "productionDate": "2025",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F2085cf52-5d6d-425e-a6a6-c47bbaeaf340"
-    }
-  },
-  {
-    "id": "playsports1:1796115300000:11wg5yb",
+    "id": "playsports1:1796112000000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1796115300000,
-    "end": 1796121300000,
+    "start": 1796112000000,
+    "end": 1796118000000,
     "description": "Vanuit het Borussia-Park in Mönchengladbach, Duitsland.",
     "category": [
       "Sport",
@@ -148,11 +118,11 @@
     }
   },
   {
-    "id": "playsports1:1796121300000:11wg5yb",
+    "id": "playsports1:1796118000000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1796121300000,
-    "end": 1796127300000,
+    "start": 1796118000000,
+    "end": 1796124000000,
     "description": "Vanuit de Arena AufSchalke in Gelsenkirchen, Duitsland.",
     "category": [
       "Sport",
@@ -178,11 +148,11 @@
     }
   },
   {
-    "id": "playsports1:1796127300000:1prlzbg",
+    "id": "playsports1:1796124000000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1796127300000,
-    "end": 1796133900000,
+    "start": 1796124000000,
+    "end": 1796130600000,
     "description": "Vanuit Stamford Bridge in Londen, Engeland.",
     "category": [
       "Sport",
@@ -208,11 +178,11 @@
     }
   },
   {
-    "id": "playsports1:1796133900000:1prlzbg",
+    "id": "playsports1:1796130600000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1796133900000,
-    "end": 1796140500000,
+    "start": 1796130600000,
+    "end": 1796137200000,
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "category": [
       "Sport",
@@ -238,11 +208,11 @@
     }
   },
   {
-    "id": "playsports1:1796140500000:11wg5yb",
+    "id": "playsports1:1796137200000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1796140500000,
-    "end": 1796147100000,
+    "start": 1796137200000,
+    "end": 1796143800000,
     "description": "Vanuit het Weserstadion in Bremen, Duitsland.",
     "category": [
       "Sport",
@@ -268,11 +238,11 @@
     }
   },
   {
-    "id": "playsports1:1796147100000:1prlzbg",
+    "id": "playsports1:1796143800000:1prlzbg",
     "channel": "playsports1",
     "title": "Premier League",
-    "start": 1796147100000,
-    "end": 1796153400000,
+    "start": 1796143800000,
+    "end": 1796150100000,
     "description": "Vanuit het Etihad Stadium in Manchester, Engeland.",
     "category": [
       "Sport",
@@ -295,6 +265,36 @@
       "productionDate": "2026",
       "isSportsTeamEvent": true,
       "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F3605402~~2FSH033946610000"
+    }
+  },
+  {
+    "id": "playsports1:1796150100000:amnfa6",
+    "channel": "playsports1",
+    "title": "Premier League Review",
+    "start": 1796150100000,
+    "end": 1796153400000,
+    "description": "Deskundigen bespreken de prestaties van professionele voetbalclubs en spelers, wedstrijdstatistieken en de mooiste doelpunten in de Premier League, een Engels topvoetbaltoernooi.",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34664270~~2FEP055411400073%2Cimi%3Aa3985369b54f6188e3f859d830b5eb7999ba79f5/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 102026,
+    "episode": 88,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34664270~~2FEP055411400073,imi:a3985369b54f6188e3f859d830b5eb7999ba79f5",
+      "episodeName": "Aflevering 88",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F277249~~2FSH055411400000"
     }
   },
   {
@@ -358,11 +358,41 @@
     }
   },
   {
-    "id": "playsports1:1796162100000:qjkkk5",
+    "id": "playsports1:1796162100000:1dvjy1m",
+    "channel": "playsports1",
+    "title": "Meester Tacticus",
+    "start": 1796162100000,
+    "end": 1796163300000,
+    "description": "Man. City nam na tien uiterst succesvolle jaren afscheid van Pep Guardiola, die de Cityzens een decennium lang naar zijn hand zette. Hoe pakt zijn opvolger, Enzo Maresca, het aan?",
+    "category": [
+      "Sport",
+      "Voetbal"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34724891~~2FEP065986550004%2Cimi%3A7a7617a10022709e811336df3b7385052b5dce46/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": 86550000,
+    "episode": 2026112904,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34724891~~2FEP065986550004,imi:7a7617a10022709e811336df3b7385052b5dce46",
+      "episodeName": "Man. City na het tijdperk-Guardiola",
+      "genres": [
+        "Sport",
+        "Voetbal"
+      ],
+      "productionDate": "2026",
+      "isSportsTeamEvent": false,
+      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F34022384~~2FSH065986550000"
+    }
+  },
+  {
+    "id": "playsports1:1796163300000:qjkkk5",
     "channel": "playsports1",
     "title": "Premier League Stories",
-    "start": 1796162100000,
-    "end": 1796163600000,
+    "start": 1796163300000,
+    "end": 1796164800000,
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "category": [
       "Docu",
@@ -388,11 +418,11 @@
     }
   },
   {
-    "id": "playsports1:1796163600000:11wg5yb",
+    "id": "playsports1:1796164800000:11wg5yb",
     "channel": "playsports1",
     "title": "Bundesliga",
-    "start": 1796163600000,
-    "end": 1796169960000,
+    "start": 1796164800000,
+    "end": 1796171100000,
     "description": "Vanuit de Fussball Arena München in München, Duitsland.",
     "category": [
       "Sport",

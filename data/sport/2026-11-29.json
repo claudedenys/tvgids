@@ -69,14 +69,14 @@
     ]
   },
   {
-    "id": "sport:playsports1:1795968300000:fl98t7",
+    "id": "sport:playsports1:1795968000000:fl98t7",
     "externalId": null,
     "title": "Aflevering 23",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795968300000,
+    "start": 1795968000000,
     "end": 1795969500000,
     "status": "aankomend",
     "description": "In The Premier Show zetten Ruben Van Gucht en Caro Houbreghts elke zondag de mooiste affiche van de Premier League in de spotlights. Met hun gasten fileren ze de topper van het weekend en bespreken ze wat er leeft in de beste competitie ter wereld.",
@@ -115,38 +115,15 @@
     ]
   },
   {
-    "id": "sport:playsports1:1795977900000:1dvjy1m",
-    "externalId": null,
-    "title": "Meester Tacticus",
-    "home": null,
-    "away": null,
-    "competition": null,
-    "sport": "Voetbal",
-    "start": 1795977900000,
-    "end": 1795978500000,
-    "status": "aankomend",
-    "description": "Xabi Alonso moet de Blues opnieuw naar succes leiden, en Gert Verheyen ziet dat de Spanjaard meteen de principes probeert in te slijpen die hem zo succesvol maakten bij Leverkusen.",
-    "source": "epg",
-    "platforms": [
-      "Play Sports 1"
-    ],
-    "channels": [
-      "Play Sports 1"
-    ],
-    "channelIds": [
-      "playsports1"
-    ]
-  },
-  {
-    "id": "sport:playsports1:1795978500000:qjkkk5",
+    "id": "sport:playsports1:1795979100000:qjkkk5",
     "externalId": null,
     "title": "Keep it in the Family",
     "home": null,
     "away": null,
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795978500000,
-    "end": 1795980000000,
+    "start": 1795979100000,
+    "end": 1795980660000,
     "status": "aankomend",
     "description": "Premier League Stories presenteert de persoonlijkheden die vorm hebben gegeven aan wat nu erkend wordt als 's werelds zwaarste en beste competitie, de Premier League.",
     "source": "epg",
@@ -1112,7 +1089,7 @@
     "competition": "Premier League",
     "sport": "Voetbal",
     "start": 1795960500000,
-    "end": 1795961100000,
+    "end": 1795960800000,
     "status": "aankomend",
     "description": "Vanuit Old Trafford in Manchester, Engeland.",
     "source": "epg",
@@ -1127,15 +1104,15 @@
     ]
   },
   {
-    "id": "sport:match:1795961100000:sunderland - tottenham hotspur",
+    "id": "sport:match:1795960800000:sunderland - tottenham hotspur",
     "externalId": null,
     "title": "Sunderland - Tottenham Hotspur",
     "home": "Sunderland",
     "away": "Tottenham Hotspur",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795961100000,
-    "end": 1795968300000,
+    "start": 1795960800000,
+    "end": 1795968000000,
     "status": "aankomend",
     "description": "Vanuit het Stadium of Light in Sunderland, Engeland.",
     "source": "epg",
@@ -1173,15 +1150,38 @@
     ]
   },
   {
-    "id": "sport:match:1795980000000:newcastle united - arsenal",
+    "id": "sport:match:1795977900000:man. city na het tijdperk-guardiola",
+    "externalId": null,
+    "title": "Man. City na het tijdperk-Guardiola",
+    "home": "Man. City na het tijdperk",
+    "away": "Guardiola",
+    "competition": null,
+    "sport": "Voetbal",
+    "start": 1795977900000,
+    "end": 1795979100000,
+    "status": "aankomend",
+    "description": "Man. City nam na tien uiterst succesvolle jaren afscheid van Pep Guardiola, die de Cityzens een decennium lang naar zijn hand zette. Hoe pakt zijn opvolger, Enzo Maresca, het aan?",
+    "source": "epg",
+    "platforms": [
+      "Play Sports 1"
+    ],
+    "channels": [
+      "Play Sports 1"
+    ],
+    "channelIds": [
+      "playsports1"
+    ]
+  },
+  {
+    "id": "sport:match:1795980660000:newcastle united - arsenal",
     "externalId": null,
     "title": "Newcastle United - Arsenal",
     "home": "Newcastle United",
     "away": "Arsenal",
     "competition": "Premier League",
     "sport": "Voetbal",
-    "start": 1795980000000,
-    "end": 1795986600000,
+    "start": 1795980660000,
+    "end": 1795987200000,
     "status": "aankomend",
     "description": "Vanuit het St. James' Park in Newcastle upon Tyne, Engeland.",
     "source": "epg",
@@ -1196,15 +1196,15 @@
     ]
   },
   {
-    "id": "sport:match:1795986600000:werder bremen - hsv",
+    "id": "sport:match:1795987200000:werder bremen - hsv",
     "externalId": null,
     "title": "Werder Bremen - HSV",
     "home": "Werder Bremen",
     "away": "HSV",
     "competition": "Bundesliga",
     "sport": "Voetbal",
-    "start": 1795986600000,
-    "end": 1795993260000,
+    "start": 1795987200000,
+    "end": 1795993980000,
     "status": "aankomend",
     "description": "Vanuit het Weserstadion in Bremen, Duitsland.",
     "source": "epg",

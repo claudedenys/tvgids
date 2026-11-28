@@ -1,10 +1,10 @@
 [
   {
-    "id": "play7:1796080200000:tgktpq",
+    "id": "play7:1796079900000:tgktpq",
     "channel": "play7",
     "title": "A Perfect Christmas Carol",
-    "start": 1796080200000,
-    "end": 1796086500000,
+    "start": 1796079900000,
+    "end": 1796086200000,
     "description": "Een vrijgevochten banketbakster stemt ermee in om samen met haar droomman de feestdagen bij zijn familie door te brengen. Maar daar verandert hij in een moederskindje en krijgt ze woorden met zijn verstikkende moeder.",
     "category": [
       "Film",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play7:1796086500000:h43suv",
+    "id": "play7:1796086200000:h43suv",
     "channel": "play7",
     "title": "Bockies Haardvuur",
-    "start": 1796086500000,
-    "end": 1796097600000,
+    "start": 1796086200000,
+    "end": 1796091000000,
     "description": "Sfeervolle wintervideo waarin televisie- en radiomaker Bockie De Repper gezellig plaatsneemt voor een knisperend haardvuur, ideaal om tijdens de koude dagen een warme sfeer in je woonkamer te brengen.",
     "category": [
       "Entertainment"
@@ -48,6 +48,62 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F34730911~~2FSH067391310000~~2Fspecial,imi:39a076b4834e35c9d5feb2fe63f56675db377a6e",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1796091000000:h43suv",
+    "channel": "play7",
+    "title": "Bockies Haardvuur",
+    "start": 1796091000000,
+    "end": 1796095800000,
+    "description": "Sfeervolle wintervideo waarin televisie- en radiomaker Bockie De Repper gezellig plaatsneemt voor een knisperend haardvuur, ideaal om tijdens de koude dagen een warme sfeer in je woonkamer te brengen.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34730911~~2FSH067391310000~~2Fspecial%2Cimi%3A36155e22e9842a0720b2ae09ae5211ac10af901b/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34730911~~2FSH067391310000~~2Fspecial,imi:36155e22e9842a0720b2ae09ae5211ac10af901b",
+      "episodeName": null,
+      "genres": [
+        "Entertainment"
+      ],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play7:1796095800000:h43suv",
+    "channel": "play7",
+    "title": "Bockies Haardvuur",
+    "start": 1796095800000,
+    "end": 1796097600000,
+    "description": "Sfeervolle wintervideo waarin televisie- en radiomaker Bockie De Repper gezellig plaatsneemt voor een knisperend haardvuur, ideaal om tijdens de koude dagen een warme sfeer in je woonkamer te brengen.",
+    "category": [
+      "Entertainment"
+    ],
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34730911~~2FSH067391310000~~2Fspecial%2Cimi%3A5559f169c21efebd7f1c90d56482622a18eff298/posterTile",
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F34730911~~2FSH067391310000~~2Fspecial,imi:5559f169c21efebd7f1c90d56482622a18eff298",
       "episodeName": null,
       "genres": [
         "Entertainment"

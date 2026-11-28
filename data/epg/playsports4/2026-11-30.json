@@ -64,7 +64,7 @@
     "channel": "playsports4",
     "title": "Play Sports",
     "start": 1796006160000,
-    "end": 1796018400000,
+    "end": 1796017500000,
     "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
       "Sport"
@@ -88,11 +88,11 @@
     }
   },
   {
-    "id": "playsports4:1796018400000:1ng6s",
+    "id": "playsports4:1796017500000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1796018400000,
-    "end": 1796026980000,
+    "start": 1796017500000,
+    "end": 1796026140000,
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "category": [
       "Sport",
@@ -118,11 +118,11 @@
     }
   },
   {
-    "id": "playsports4:1796026980000:3y5tln",
+    "id": "playsports4:1796026140000:3y5tln",
     "channel": "playsports4",
     "title": "MotoGP",
-    "start": 1796026980000,
-    "end": 1796032800000,
+    "start": 1796026140000,
+    "end": 1796031900000,
     "description": "Verslag van de race van de MotoGP van Portugal, gereden in Portimão, Portugal.",
     "category": [
       "Sport",
@@ -148,11 +148,11 @@
     }
   },
   {
-    "id": "playsports4:1796032800000:arbc9d",
+    "id": "playsports4:1796031900000:arbc9d",
     "channel": "playsports4",
     "title": "The Paddock Live: Formule 1",
-    "start": 1796032800000,
-    "end": 1796040300000,
+    "start": 1796031900000,
+    "end": 1796039400000,
     "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
     "category": [
       "Sport",
@@ -178,11 +178,11 @@
     }
   },
   {
-    "id": "playsports4:1796040300000:10r9e8y",
+    "id": "playsports4:1796039400000:10r9e8y",
     "channel": "playsports4",
     "title": "Tennis: Rolex Paris Masters 2026",
-    "start": 1796040300000,
-    "end": 1796050080000,
+    "start": 1796039400000,
+    "end": 1796049240000,
     "description": "Verslag van de Rolex Paris Masters, gespeeld in Parijs, Frankrijk.",
     "category": [
       "Sport",
@@ -208,11 +208,11 @@
     }
   },
   {
-    "id": "playsports4:1796050080000:1ng6s",
+    "id": "playsports4:1796049240000:1ng6s",
     "channel": "playsports4",
     "title": "BNXT League",
-    "start": 1796050080000,
-    "end": 1796058720000,
+    "start": 1796049240000,
+    "end": 1796057880000,
     "description": "Vanuit Sporthal Alverberg in Hasselt, Limburg, België.",
     "category": [
       "Sport",
@@ -238,11 +238,11 @@
     }
   },
   {
-    "id": "playsports4:1796058720000:f9awoa",
+    "id": "playsports4:1796057880000:f9awoa",
     "channel": "playsports4",
     "title": "Tennis: Nitto ATP Finals 2026",
-    "start": 1796058720000,
-    "end": 1796065080000,
+    "start": 1796057880000,
+    "end": 1796064180000,
     "description": "Verslag van de Nitto ATP Finals 2026, gespeeld in Turijn, Italië.",
     "category": [
       "Sport",
@@ -268,11 +268,11 @@
     }
   },
   {
-    "id": "playsports4:1796065080000:1mv1683",
+    "id": "playsports4:1796064180000:1mv1683",
     "channel": "playsports4",
     "title": "Tennis: WTA Finals 2026",
-    "start": 1796065080000,
-    "end": 1796073180000,
+    "start": 1796064180000,
+    "end": 1796072400000,
     "description": null,
     "category": [
       "Sport",
@@ -298,33 +298,31 @@
     }
   },
   {
-    "id": "playsports4:1796073180000:arbc9d",
+    "id": "playsports4:1796072400000:xykime",
     "channel": "playsports4",
-    "title": "The Paddock Live: Formule 1",
-    "start": 1796073180000,
-    "end": 1796080740000,
-    "description": "Vanaf het Las Vegas Street Circuit in Las Vegas, Nevada, Verenigde Staten.",
+    "title": "Play Sports",
+    "start": 1796072400000,
+    "end": 1796104800000,
+    "description": "Ontdek het aanbod van Play Sports en beleef de strafste sportmomenten.",
     "category": [
-      "Sport",
-      "Motorsport"
+      "Sport"
     ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F32390537~~2FEP063235100163%2Cimi%3A9095d681be316ca38507f775b82c4c32372479cf/posterTile",
+    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial%2Cimi%3A142ed0b344a4b4a59db599968e93f3cbea340ac2/posterTile",
     "icon": null,
     "source": "telenet.tv",
-    "season": 35100000,
-    "episode": 2026112163,
+    "season": null,
+    "episode": null,
     "actors": [],
     "live": false,
     "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F32390537~~2FEP063235100163,imi:9095d681be316ca38507f775b82c4c32372479cf",
-      "episodeName": "GP van Las Vegas: Race",
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F30742527~~2FSH059347680000~~2Fspecial,imi:142ed0b344a4b4a59db599968e93f3cbea340ac2",
+      "episodeName": null,
       "genres": [
-        "Sport",
-        "Motorsport"
+        "Sport"
       ],
-      "productionDate": "2026",
+      "productionDate": null,
       "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Fgn.tv~~2F691060~~2FSH063235100000"
+      "parentSeriesId": null
     }
   }
 ]

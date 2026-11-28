@@ -4,7 +4,7 @@
     "channel": "play5",
     "title": "NCIS: Hawaii",
     "start": 1796082600000,
-    "end": 1796086200000,
+    "end": 1796085900000,
     "description": "Een korporaal overlijdt in een getijdenzwembad nadat hij is blootgesteld aan fentanyl. Het NCIS-team moet snel de bron van de drugs achterhalen. Alex praat met zijn ouders over het nemen van een tussenjaar. Ernie deelt persoonlijk nieuws met Lucy.",
     "category": [
       "Misdaaddrama",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play5:1796086200000:1ge28a5",
+    "id": "play5:1796085900000:1ge28a5",
     "channel": "play5",
     "title": "New Amsterdam",
-    "start": 1796086200000,
-    "end": 1796089800000,
+    "start": 1796085900000,
+    "end": 1796088600000,
     "description": "Max ontdekt dat een winstgevende afdeling in het ziekenhuis in ernstige juridische problemen zit. Iggy komt een conciërge tegen met buitengewone talenten. Reynolds behandelt een inspirerende patiënt en maakt plannen voor zijn vader.",
     "category": [
       "Dramaserie",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play5:1796089800000:hxtisv",
+    "id": "play5:1796088600000:hxtisv",
     "channel": "play5",
     "title": "Grey's Anatomy",
-    "start": 1796089800000,
-    "end": 1796092200000,
+    "start": 1796088600000,
+    "end": 1796091300000,
     "description": "Teddy neemt een moeilijke beslissing, terwijl Maggie en Winston niet met elkaar praten. Link zoekt emotionele steun van Jo als hij zich voorbereidt op een operatie van een bekende atleet. Simone en Lucas worden verrast door een ongewone bezoeker.",
     "category": [
       "Dramaserie",
@@ -90,11 +90,11 @@
     }
   },
   {
-    "id": "play5:1796092200000:48zb9",
+    "id": "play5:1796091300000:48zb9",
     "channel": "play5",
     "title": "Geen uitzending",
-    "start": 1796092200000,
-    "end": 1796097600000,
+    "start": 1796091300000,
+    "end": 1796097480000,
     "description": null,
     "category": [],
     "image": null,
@@ -106,6 +106,30 @@
     "live": false,
     "meta": {
       "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0a28f82dfce83d37114f2477da054d492cbb84bc",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
+    "id": "play5:1796097480000:48zb9",
+    "channel": "play5",
+    "title": "Geen uitzending",
+    "start": 1796097480000,
+    "end": 1796097600000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:2c396aa215f32d5c5945ac497e1b276fa63d275c",
       "episodeName": null,
       "genres": [],
       "productionDate": null,

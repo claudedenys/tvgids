@@ -852,7 +852,7 @@
     "channel": "vrt1",
     "title": "Start to race",
     "start": 1796138100000,
-    "end": 1796141400000,
+    "end": 1796141100000,
     "description": "Onze racepiloten krijgen te horen dat ze aan het einde van de maand al aan de start staan van een échte race. En niet zomaar ergens, maar op het circuit van Charade, de groene hel van Frankrijk!",
     "category": [
       "Sport",
@@ -878,11 +878,11 @@
     }
   },
   {
-    "id": "vrt1:1796141400000:4m7t01",
+    "id": "vrt1:1796141100000:4m7t01",
     "channel": "vrt1",
     "title": "Witse",
-    "start": 1796141400000,
-    "end": 1796144760000,
+    "start": 1796141100000,
+    "end": 1796144640000,
     "description": "Een rijke man is gestikt met een mond vol geld. De man bleek veel vijanden gehad te hebben. Het onderzoek onthult een notitieboekje met gecodeerde berichten. Witse onderzoekt de zaak.",
     "category": [
       "Misdaaddrama",
@@ -908,10 +908,10 @@
     }
   },
   {
-    "id": "vrt1:1796144760000:qpj1ag",
+    "id": "vrt1:1796144640000:qpj1ag",
     "channel": "vrt1",
     "title": "Het weer (vooravond)",
-    "start": 1796144760000,
+    "start": 1796144640000,
     "end": 1796145000000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
@@ -1202,7 +1202,7 @@
     "channel": "vrt1",
     "title": "Het weer (laat)",
     "start": 1796162100000,
-    "end": 1796162400000,
+    "end": 1796162700000,
     "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
     "category": [
       "Weer"
@@ -1226,11 +1226,11 @@
     }
   },
   {
-    "id": "vrt1:1796162400000:4tnyt9",
+    "id": "vrt1:1796162700000:4tnyt9",
     "channel": "vrt1",
     "title": "Breendonk",
-    "start": 1796162400000,
-    "end": 1796165460000,
+    "start": 1796162700000,
+    "end": 1796165760000,
     "description": "Spanningen lopen op en Elisabeth staat voor ingrijpende beslissingen.",
     "category": [
       "Dramaserie"
@@ -1254,11 +1254,11 @@
     }
   },
   {
-    "id": "vrt1:1796165460000:ykl842",
+    "id": "vrt1:1796165760000:ykl842",
     "channel": "vrt1",
     "title": "Keno",
-    "start": 1796165460000,
-    "end": 1796165520000,
+    "start": 1796165760000,
+    "end": 1796165820000,
     "description": "Spelprogramma dat wordt georganiseerd door de Nationale Loterij. Mensen maken vaak kans op enorme geldprijzen.",
     "category": [
       "Spelprogramma",
@@ -1284,11 +1284,11 @@
     }
   },
   {
-    "id": "vrt1:1796165520000:6z58qv",
+    "id": "vrt1:1796165820000:6z58qv",
     "channel": "vrt1",
     "title": "Euromillions",
-    "start": 1796165520000,
-    "end": 1796165700000,
+    "start": 1796165820000,
+    "end": 1796166000000,
     "description": "De trekkingen van het EuroMillions-spel.",
     "category": [
       "Spelprogramma",
@@ -1311,36 +1311,6 @@
       "productionDate": "2026",
       "isSportsTeamEvent": false,
       "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2F9f3ced27-9582-4745-981f-ba99fe8441f5"
-    }
-  },
-  {
-    "id": "vrt1:1796165700000:4k2soi",
-    "channel": "vrt1",
-    "title": "Thuis",
-    "start": 1796165700000,
-    "end": 1796167500000,
-    "description": "Tom deelt wat broederlijk advies met Cézar. Rosa doet Sunny tot inkeer komen al merkt ze dat ze ook een gevoelige snaar heeft geraakt. Brik zoekt een maatje om mee op de lappen te gaan. Yasmine stelt zich vragen bij de houding van Christine.",
-    "category": [
-      "Dramaserie",
-      "Soap"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F34636374~~2FEP023120352517%2Cimi%3A7714a1eb9885e7bebd27503ddec0ad1821f751db/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 32,
-    "episode": 6176,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F34636374~~2FEP023120352517,imi:7714a1eb9885e7bebd27503ddec0ad1821f751db",
-      "episodeName": "Aflevering 6176",
-      "genres": [
-        "Dramaserie",
-        "Soap"
-      ],
-      "productionDate": "2026",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fe7f97702-c08c-4d38-b008-c773c1d246bc"
     }
   }
 ]

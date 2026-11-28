@@ -4,7 +4,7 @@
     "channel": "play6",
     "title": "See No Evil",
     "start": 1795822200000,
-    "end": 1795826100000,
+    "end": 1795826400000,
     "description": "In Fontana, Californië, komt de achttienjarige Cristian Dominguez Aguilar om het leven bij een bizar verkeersongeval. Terwijl de bestuurder spoorloos verdwijnt, wendt de politie zich tot bewakingscamera's voor antwoorden.",
     "category": [
       "Docu",
@@ -30,11 +30,11 @@
     }
   },
   {
-    "id": "play6:1795826100000:r5y6ed",
+    "id": "play6:1795826400000:r5y6ed",
     "channel": "play6",
     "title": "Pawn Stars: Best Of",
-    "start": 1795826100000,
-    "end": 1795829700000,
+    "start": 1795826400000,
+    "end": 1795829100000,
     "description": "Rick en de bende worden gek als er coole voorwerpen van het ruimteprogramma in de winkel belanden, waaronder een gesigneerde Amerikaanse vlag van Apollo 16, een toiletbril van een spaceshuttle en een gesigneerd boek van het Apollo-programma.",
     "category": [
       "Reality",
@@ -60,11 +60,11 @@
     }
   },
   {
-    "id": "play6:1795829700000:1bppwog",
+    "id": "play6:1795829100000:1bppwog",
     "channel": "play6",
     "title": "Blue Bloods",
-    "start": 1795829700000,
-    "end": 1795830900000,
+    "start": 1795829100000,
+    "end": 1795831800000,
     "description": "Danny en Baez gaan op onderzoek uit nadat hun wederzijdse vriendin, Maggie Gibson, wordt mishandeld. Frank en het team debatteren over het juiste herdenkingsprotocol voor een voormalige politiecommissaris met een twijfelachtige professionele erfenis.",
     "category": [
       "Misdaaddrama",
@@ -90,35 +90,11 @@
     }
   },
   {
-    "id": "play6:1795830900000:48zb9",
+    "id": "play6:1795831800000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
-    "start": 1795830900000,
-    "end": 1795832100000,
-    "description": null,
-    "category": [],
-    "image": null,
-    "icon": null,
-    "source": "telenet.tv",
-    "season": null,
-    "episode": null,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0ba602292232bf227e69053083e278e808797391",
-      "episodeName": null,
-      "genres": [],
-      "productionDate": null,
-      "isSportsTeamEvent": false,
-      "parentSeriesId": null
-    }
-  },
-  {
-    "id": "play6:1795832100000:48zb9",
-    "channel": "play6",
-    "title": "Geen uitzending",
-    "start": 1795832100000,
-    "end": 1795838400000,
+    "start": 1795831800000,
+    "end": 1795838160000,
     "description": null,
     "category": [],
     "image": null,
@@ -138,11 +114,35 @@
     }
   },
   {
+    "id": "play6:1795838160000:48zb9",
+    "channel": "play6",
+    "title": "Geen uitzending",
+    "start": 1795838160000,
+    "end": 1795838400000,
+    "description": null,
+    "category": [],
+    "image": null,
+    "icon": null,
+    "source": "telenet.tv",
+    "season": null,
+    "episode": null,
+    "actors": [],
+    "live": false,
+    "meta": {
+      "eventId": "crid:~~2F~~2Fgn.tv~~2F480440~~2FSH030038440000~~2Foffair,imi:0ba602292232bf227e69053083e278e808797391",
+      "episodeName": null,
+      "genres": [],
+      "productionDate": null,
+      "isSportsTeamEvent": false,
+      "parentSeriesId": null
+    }
+  },
+  {
     "id": "play6:1795838400000:48zb9",
     "channel": "play6",
     "title": "Geen uitzending",
     "start": 1795838400000,
-    "end": 1795841700000,
+    "end": 1795843800000,
     "description": null,
     "category": [],
     "image": null,
@@ -159,34 +159,6 @@
       "productionDate": null,
       "isSportsTeamEvent": false,
       "parentSeriesId": null
-    }
-  },
-  {
-    "id": "play6:1795841700000:1k9kjtt",
-    "channel": "play6",
-    "title": "Bar Rescue",
-    "start": 1795841700000,
-    "end": 1795843800000,
-    "description": "Jon Taffer stuurt Ashish Alfred naar Port St. Lucie, Florida om drie broers te helpen een bar te redden die ze hebben gekocht zonder enige kennis of ervaring in het runnen ervan.",
-    "category": [
-      "Reality"
-    ],
-    "image": "https://staticqbr-prod-be.gnp.cloud.telenet.tv/image-service/intent/crid%3A~~2F~~2Fgn.tv~~2F27140681~~2FEP029001360282%2Cimi%3Ad58f79a9951705c2c76706aacffad6ba01ce198d/posterTile",
-    "icon": null,
-    "source": "telenet.tv",
-    "season": 9,
-    "episode": 12,
-    "actors": [],
-    "live": false,
-    "meta": {
-      "eventId": "crid:~~2F~~2Fgn.tv~~2F27140681~~2FEP029001360282,imi:d58f79a9951705c2c76706aacffad6ba01ce198d",
-      "episodeName": "CSI: Los Cocos",
-      "genres": [
-        "Reality"
-      ],
-      "productionDate": "2024",
-      "isSportsTeamEvent": false,
-      "parentSeriesId": "crid:~~2F~~2Ftelenet.be~~2Fad7bfad6-427b-4c28-85d8-397b4a7bca49"
     }
   },
   {
